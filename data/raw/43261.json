@@ -1,0 +1,34 @@
+{
+	"name": "ASIA KIDNEY DIALYSIS CENTRE  (JURONG)",
+	"tel": "65693225",
+	"fax": "65696773",
+	"licensee": "Tan Choon Hian",
+	"licensePeriod": "06/02/2017 to 05/02/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "13C0028",
+	"address": "BLK 303 JURONG EAST STREET 32, #01-94 Singapore 600303",
+	"doctorInCharge": [
+		{
+			"name": "Tan Choon Hian",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2002"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday to Saturday": "07:00 am to 11:30 pm, 11:30 am to 03:30 pm, 03:30 pm to 10:30 pm"
+	}
+}

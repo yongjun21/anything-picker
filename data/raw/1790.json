@@ -1,0 +1,31 @@
+{
+	"name": "338 FAMILY CLINIC",
+	"tel": "64549408",
+	"fax": "64549409",
+	"licensee": "YEONG MUN HOH",
+	"licensePeriod": "10/06/2016 to 09/06/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9402662",
+	"address": "BLK 338 ANG MO KIO AVE 1, #01-1615 Singapore 560338",
+	"doctorInCharge": [
+		{
+			"name": "YEONG MUN HOH",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm"
+	}
+}

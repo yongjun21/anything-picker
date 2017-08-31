@@ -1,0 +1,28 @@
+{
+	"name": "ALJUNIED DENTAL SURGERY PTE LTD",
+	"tel": "67485838",
+	"fax": "67460160",
+	"licensee": "ALJUNIED DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400023",
+	"address": "BLK 119 ALJUNIED AVE 2, #01-70 Singapore 380119",
+	"doctorInCharge": [
+		{
+			"name": "ONG CHIN KIAN",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1975"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": " Closed",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	}
+}

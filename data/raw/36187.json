@@ -1,0 +1,35 @@
+{
+	"name": "ACUMED MEDICAL GROUP",
+	"tel": "65327766",
+	"fax": "65341767",
+	"licensee": "ACUMED MEDICAL PTE. LTD.",
+	"licensePeriod": "01/08/2017 to 31/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405222",
+	"address": "16 COLLYER QUAY, INCOME AT RAFFLES, #02-03 Singapore 049318",
+	"doctorInCharge": [
+		{
+			"name": "Eva-Leina Bte Muhammad Yoosuff",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": []
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 12:30 pm, 01:00 pm to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday and Public Holiday": " Closed"
+	}
+}

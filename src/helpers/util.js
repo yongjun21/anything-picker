@@ -16,3 +16,18 @@ export function optionsSelected (options, selected) {
   return collectValues(options).every(option =>
     selected.indexOf(option) > -1)
 }
+
+export class ThrottledQueue {
+  constructor (delay) {
+    this.delay = delay || 100
+    this.error = null
+    this.tail = Promise.resolve()
+  }
+
+  push (fn, ...arg) {
+    this.tail = this.tail.then(() => new Promise((resolve, reject) => {
+      setTimeout(this.error ? reject : resolve, this.delay)
+    })).then(() => fn(...arg))
+    return this.tail
+  }
+}
