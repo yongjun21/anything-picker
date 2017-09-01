@@ -1,0 +1,33 @@
+{
+	"name": "CHANLAI HEALTHCARE CLINIC",
+	"tel": "67563456",
+	"fax": "67565600",
+	"licensee": "CHAN KAH KWOK HENRY",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400204",
+	"address": "BLK 604 YISHUN ST 61, #01-325 Singapore 760604",
+	"doctorInCharge": [
+		{
+			"name": "CHAN KAH KWOK HENRY",
+			"qualifications": [
+				"MBBS (University of Hong Kong, China, Hong Kong) 1974"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday to Public Holiday": "Closed",
+		"Monday to Thursday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday to Saturday": "09:30 am to 12:30 pm",
+		"Sunday to Sunday": "Closed"
+	}
+}

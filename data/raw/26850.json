@@ -1,0 +1,31 @@
+{
+	"name": "TEK DISPENSARY",
+	"tel": "62512256",
+	"fax": "62593278",
+	"licensee": "GOH KONG TEK",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401642",
+	"address": "BLK 4 TOA PAYOH LOR 7, #01-115 Singapore 310004",
+	"doctorInCharge": [
+		{
+			"name": "GOH KONG TEK",
+			"qualifications": [
+				"MBBS (University of Malaya, Singapore) 1961"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "08:30 am to 01:00 pm"
+	}
+}

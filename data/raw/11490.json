@@ -1,0 +1,36 @@
+{
+	"name": "FONG CLINIC",
+	"tel": "64745993",
+	"fax": "64745993",
+	"licensee": "FONG SENG YEW",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403524",
+	"address": "BLK 162 MEI LING ST, #01-361 Singapore 140162",
+	"doctorInCharge": [
+		{
+			"name": "FONG SENG YEW",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Tuesday": "08:30 am to 02:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 02:00 pm",
+		"Thursday": "08:30 am to 02:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "08:30 am to 12:00 pm"
+	}
+}

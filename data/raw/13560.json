@@ -1,0 +1,35 @@
+{
+	"name": "HL CLINIC PTE LTD",
+	"tel": "62721986",
+	"fax": "62721986",
+	"licensee": "HL CLINIC PTE LTD",
+	"licensePeriod": "13/04/2015 to 12/04/2020",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9403532",
+	"address": "BLK 9 TELOK BLANGAH CRESCENT, #01-135 Singapore 090009",
+	"doctorInCharge": [
+		{
+			"name": "HIAK TAI SOON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 02:00 pm",
+		"Monday to Thursday": "08:30 am to 02:30 pm, 06:00 pm to 08:30 pm",
+		"Friday to Sunday": "08:30 am to 02:30 pm"
+	}
+}

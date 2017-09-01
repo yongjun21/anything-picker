@@ -1,0 +1,31 @@
+{
+	"name": "SUNSHINE FAMILY CLINIC",
+	"tel": "64256678",
+	"fax": "64254978",
+	"licensee": "CHIA HWEE AI CATHERINE",
+	"licensePeriod": "02/07/2015 to 01/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402508",
+	"address": "BLK 491 JURONG WEST AVE 1, #01-153 Singapore 640491",
+	"doctorInCharge": [
+		{
+			"name": "CHIA HWEE AI CATHERINE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 04:00 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	}
+}

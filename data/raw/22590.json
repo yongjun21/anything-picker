@@ -1,0 +1,33 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "64420488",
+	"fax": "64428563",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401353",
+	"address": "55 SIGLAP ROAD, SIGLAP CENTRE, #02-11/12 Singapore 455871",
+	"doctorInCharge": [
+		{
+			"name": "WONG WEN YAO MICHAEL",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Saturday to Sunday": "08:30 am to 01:00 pm"
+	}
+}

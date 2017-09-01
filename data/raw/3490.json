@@ -1,0 +1,27 @@
+{
+	"name": "BAN KOK CLINIC & SURGERY",
+	"tel": "62869955",
+	"fax": "62852825",
+	"licensee": "TAN BAN KOK",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400100",
+	"address": "BLK 146 POTONG PASIR AVE 1, #01-141 Singapore 350146",
+	"doctorInCharge": [
+		{
+			"name": "TAN BAN KOK",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Saturday": "08:30 am to 04:30 pm"
+	}
+}

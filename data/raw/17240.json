@@ -1,0 +1,32 @@
+{
+	"name": "LIFE-LINK CLINIC & SURGERY",
+	"tel": "65834402",
+	"fax": "65821671",
+	"licensee": "PHAN OI PENG",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9400956",
+	"address": "BLK 446 PASIR RIS DR 6, #01-120 Singapore 510446",
+	"doctorInCharge": [
+		{
+			"name": "PHAN OI PENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1969"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Sunday": "08:00 am to 12:00 am"
+	}
+}

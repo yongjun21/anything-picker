@@ -1,0 +1,29 @@
+{
+	"name": "THE ICLINIC",
+	"tel": "62713135",
+	"fax": "62712257",
+	"licensee": "BILLY HARDIE",
+	"licensePeriod": "27/02/2016 to 26/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13M0318",
+	"address": "BLK 18 JALAN MEMBINA, #02-08 Singapore 164018",
+	"doctorInCharge": [
+		{
+			"name": "BILLY HARDIE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	}
+}

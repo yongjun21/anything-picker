@@ -3,21 +3,19 @@ import axios from 'axios'
 import cheerio from 'cheerio'
 import {ThrottledQueue} from '../../helpers/util'
 
-import clinicList from '../../../data/clinicList.json'
+import {clinic as clinicList} from '../../../data/clinicList.json'
 
-const endpoints = [
-  'clinic',
-  'hospital',
-  'nursing',
-  'laboratory'
-]
-
-const tests = clinicList[endpoints[0]].slice(0, 10)
 const queue = new ThrottledQueue(100)
+const debug = []
+const jobs = clinicList.slice(0, 10)
+  .map((id, i) => queue.push(fetchClinicInfo, id, clinicList.length - i))
 
-Promise.all(tests.map(id => queue.push(fetchClinicInfo, id)))
+Promise.all(jobs).then(() => {
+  if (debug.length > 0) console.log('Unsuccessfull:', debug)
+})
 
-function fetchClinicInfo (id) {
+function fetchClinicInfo (id, k) {
+  if (k % 100 === 0) console.log(k)
   return axios({
     method: 'get',
     url: 'http://hcidirectory.sg/hcidirectory/clinic.do',
@@ -32,7 +30,7 @@ function fetchClinicInfo (id) {
       fs.writeFile(`data/raw/${id}.json`, JSON.stringify(result, null, '\t'))
     })
     .catch(err => {
-      console.log(id)
+      debug.push(id)
       console.error(err)
     })
 }
@@ -42,8 +40,12 @@ function parseClinicInfo ($) {
   result.name = $('.left_col > h1').text().trim()
 
   const first3rows = $('.left_col > table').first().find('tr')
-  result.tel = first3rows.eq(0).find('td').eq(0).html().match(/(\d{8})/)[1]
-  result.fax = first3rows.eq(1).find('td').eq(0).html().match(/(\d{8})/)[1]
+  try {
+    result.tel = first3rows.eq(0).find('td').eq(0).html().match(/(\d{8})/)[1]
+    result.fax = first3rows.eq(1).find('td').eq(0).html().match(/(\d{8})/)[1]
+  } catch (err) {
+    // ignore
+  }
   result.licensee = first3rows.eq(0).find('td').eq(2).text().trim()
   result.licensePeriod = first3rows.eq(1).find('td').eq(2).contents()[0].data.trim()
   result.licenseClass = first3rows.eq(1).find('td').eq(2).children('a').text()
@@ -103,7 +105,7 @@ function parseClinicInfo ($) {
         if (e.name !== 'strong') return
         const $e = $(e)
         const key = $e.text()
-        const value = operatingHours[i + 1].data.slice(3)
+        const value = operatingHours[i + 1].data.slice(2).trim()
         result.operatingHours[key] = value
       })
     }

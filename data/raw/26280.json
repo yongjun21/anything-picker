@@ -1,0 +1,34 @@
+{
+	"name": "TAMPINES MEDICAL CENTRE",
+	"tel": "67815111",
+	"fax": "67864635",
+	"licensee": "Sim Seng Chye",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401596",
+	"address": "BLK 267 Tampines Street 21, #01-41 Singapore 520267",
+	"doctorInCharge": [
+		{
+			"name": "Sim Seng Chye",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday to Public Holiday": "Closed",
+		"Monday to Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm",
+		"Thursday to Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 10:00 pm",
+		"Saturday to Saturday": "08:30 am to 12:30 pm",
+		"Sunday to Sunday": "08:30 am to 12:30 pm"
+	}
+}

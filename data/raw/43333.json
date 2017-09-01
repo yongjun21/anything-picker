@@ -1,0 +1,33 @@
+{
+	"name": "LANG EYE CENTRE",
+	"tel": "66941000",
+	"fax": "66840500",
+	"licensee": "LANG EYE CENTRE PTE. LTD.",
+	"licensePeriod": "27/02/2017 to 26/02/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0043",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #08-46/47 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Ang Pek Kiang Leonard",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"FRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 2000",
+				"M Med (Ophth) (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm",
+		"Saturday to Saturday": "08:30 am to 12:30 pm"
+	}
+}

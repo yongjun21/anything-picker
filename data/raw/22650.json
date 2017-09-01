@@ -1,0 +1,32 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "67653363",
+	"fax": "67657877",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "01/08/2014 to 31/07/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403239",
+	"address": "21 CHOA CHU KANG AVE 4, LOT 1 SHOPPERS' MALL, #B1-07A Singapore 689812",
+	"doctorInCharge": [
+		{
+			"name": "Gan Ow Tin",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Sunday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm"
+	}
+}

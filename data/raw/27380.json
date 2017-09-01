@@ -1,0 +1,32 @@
+{
+	"name": "THE DIABETES & ENDOCRINE CLINIC",
+	"tel": "67333484",
+	"fax": "67330134",
+	"licensee": "TAN KHAI TONG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401682",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #15-18 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "TAN KHAI TONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Endocrinology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Endocrinology",
+			"Internal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm"
+	}
+}

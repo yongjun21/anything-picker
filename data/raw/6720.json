@@ -1,0 +1,29 @@
+{
+	"name": "DENTAL CARE@FAJAR PTE LTD",
+	"tel": "67622955",
+	"fax": "62340352",
+	"licensee": "DENTAL CARE@FAJAR PTE. LTD.",
+	"licensePeriod": "28/09/2015 to 27/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403696",
+	"address": "BLK 445 FAJAR ROAD, FAJAR SHOPPING CENTRE, #02-522 Singapore 670445",
+	"doctorInCharge": [
+		{
+			"name": "LAM YING KEAT",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday to Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	}
+}

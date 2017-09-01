@@ -1,0 +1,36 @@
+{
+	"name": "SHENTON FAMILY MEDICAL CLINIC (YISHUN)",
+	"tel": "68516233",
+	"fax": "67591652",
+	"licensee": "SHENTON FAMILY MEDICAL CLINIC (YISHUN)",
+	"licensePeriod": "12/10/2016 to 11/10/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404262",
+	"address": "BLK 160 Yishun Street 11, #01-200 Singapore 760160",
+	"doctorInCharge": [
+		{
+			"name": "Seah Heap Yong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001",
+				"Dip Geriatric Med (National University of Singapore, Singapore) 2007",
+				"Dip Acup (Singapore College of Traditional Chinese Medicine, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:00 am to 03:00 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:00 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Sunday": "08:00 am to 12:00 pm"
+	}
+}

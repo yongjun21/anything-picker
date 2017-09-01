@@ -1,0 +1,38 @@
+{
+	"name": "SINGAPORE WOMEN'S CLINIC (TAMPINES)",
+	"tel": "63335550",
+	"fax": "67863983",
+	"licensee": "LOKE KAH LEONG",
+	"licensePeriod": "01/01/2017 to 31/12/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9401519",
+	"address": "BLK 821 TAMPINES ST 81, #01-216 Singapore 520821",
+	"doctorInCharge": [
+		{
+			"name": "LOKE KAH LEONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1987",
+				"M Med (O&G) (National University of Singapore, Singapore) 1987",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1990"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": [
+			"Obstetrics & Gynaecology"
+		],
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:30 pm to 05:30 pm",
+		"Monday": "07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	}
+}

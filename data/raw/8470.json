@@ -1,0 +1,26 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64661052",
+	"fax": "64661052",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/02/2014 to 31/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402846",
+	"address": "BLK 111 LORONG KISMIS, Singapore 598112",
+	"doctorInCharge": [
+		{
+			"name": "Tham Sai soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"name": "RAFFLESDENTAL",
+	"tel": "67870093",
+	"fax": "67870663",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "12/01/2016 to 11/01/2021",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9405143",
+	"address": "10 TAMPINES CENTRAL 1, TAMPINES ONE, #04-33 Singapore 529536",
+	"doctorInCharge": [
+		{
+			"name": "KIEU LI CHONG, EDGAR",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday to Thursday": "08:30 am to 09:30 pm",
+		"Friday to Sunday": "08:30 am to 05:30 pm"
+	}
+}

@@ -24,10 +24,11 @@ export class ThrottledQueue {
     this.tail = Promise.resolve()
   }
 
-  push (fn, ...arg) {
+  push (fn, ...args) {
     this.tail = this.tail.then(() => new Promise((resolve, reject) => {
-      setTimeout(this.error ? reject : resolve, this.delay)
-    })).then(() => fn(...arg))
+      if (this.error) reject()
+      else setTimeout(resolve, this.delay, fn(...args))
+    }))
     return this.tail
   }
 }

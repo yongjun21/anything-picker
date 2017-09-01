@@ -1,0 +1,26 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64672364",
+	"fax": "64672364",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "14/07/2015 to 13/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403383",
+	"address": "52 KING'S ROAD, NANYANG PRIMARY SCHOOL, Singapore 268097",
+	"doctorInCharge": [
+		{
+			"name": "Dr Tham Sai soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"name": "WOODLAND DENTAL SURGERY",
+	"tel": "62697462",
+	"fax": "62697462",
+	"licensee": "Pang Kam Yoon",
+	"licensePeriod": "11/05/2014 to 10/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401897",
+	"address": "BLK 15 Marsiling Lane, #01-157 Singapore 730015",
+	"doctorInCharge": [
+		{
+			"name": "Pang Kam Yoon",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Saturday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm"
+	}
+}

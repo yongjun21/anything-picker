@@ -1,0 +1,31 @@
+{
+	"name": "EON MEDICAL CLINIC",
+	"tel": "63840904",
+	"fax": "65093549",
+	"licensee": "EON MEDICAL CLINIC",
+	"licensePeriod": "02/10/2016 to 01/10/2017",
+	"licenseClass": "[ 1 Year ( 1C ) ]",
+	"hciCode": "15M0340",
+	"address": "BLK 475 UPPER SERANGOON CRESCENT, MULTI STOREY CAR PARK, #01-04 Singapore 530475",
+	"doctorInCharge": [
+		{
+			"name": "FADZIL BIN JAAFAR",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday and Sunday": "08:30 am to 12:30 pm"
+	}
+}

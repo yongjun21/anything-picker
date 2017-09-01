@@ -1,0 +1,30 @@
+{
+	"name": "MARSILING CLINIC & SURGERY",
+	"tel": "62696234",
+	"fax": "62690147",
+	"licensee": "TONG THEAN SENG REGINALD",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401054",
+	"address": "BLK 131 MARSILING RISE, #01-186 Singapore 730131",
+	"doctorInCharge": [
+		{
+			"name": "TONG THEAN SENG REGINALD",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1968"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday and Tuesday": "09:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 08:00 pm",
+		"Wednesday and Sunday": "09:30 pm to 12:30 pm",
+		"Thursday and Friday": "09:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 08:00 pm",
+		"Saturday and Public Holiday": "Closed"
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"name": "FAMILY CARE CLINIC & SURGERY",
+	"tel": "64588737",
+	"fax": "64588737",
+	"licensee": "CHUAH CHIN KHANG",
+	"licensePeriod": "11/07/2016 to 10/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400514",
+	"address": "BLK 608 ANG MO KIO AVE 5, #01-2785 Singapore 560608",
+	"doctorInCharge": [
+		{
+			"name": "CHUAH CHIN KHANG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Saturday": "08:30 am to 12:30 pm",
+		"Monday and Wednesday": "07:00 pm to 09:00 pm",
+		"Monday to Friday": "02:00 pm to 04:30 pm",
+		"Sunday": "07:00 pm to 09:00 pm"
+	}
+}

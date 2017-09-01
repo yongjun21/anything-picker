@@ -1,0 +1,34 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "66361251",
+	"fax": "66361249",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "09/11/2015 to 08/11/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0202",
+	"address": "5 CHANGI BUSINESS PARK CENTRAL 1, CHANGI CITY POINT, #B1-55/56 Singapore 486038",
+	"doctorInCharge": [
+		{
+			"name": "Ng Juak Cher",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	}
+}

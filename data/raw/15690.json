@@ -1,0 +1,29 @@
+{
+	"name": "KEPPEL SHIPYARD MEDICAL CENTRE (BENOI)",
+	"tel": "68602832",
+	"fax": "68614393",
+	"licensee": "KEPPEL SHIPYARD LIMITED",
+	"licensePeriod": "20/09/2014 to 19/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403252",
+	"address": "15 BENOI ROAD, Singapore 629888",
+	"doctorInCharge": [
+		{
+			"name": "Andrew Chen",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "07:30 am to 04:30 pm",
+		"Saturday": "07:30 am to 11:30 am",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

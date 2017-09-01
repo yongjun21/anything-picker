@@ -1,0 +1,26 @@
+{
+	"name": "NEIGHBOURHOOD DENTAL SURGERY",
+	"tel": "65660460",
+	"fax": "65678316",
+	"licensee": "WILLIAM CHIA HWEE YEAN",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401157",
+	"address": "BLK 280 BT BATOK EAST AVE 3, #01-331 Singapore 650280",
+	"doctorInCharge": [
+		{
+			"name": "WILLIAM CHIA HWEE YEAN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday and Thursday": "10:00 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Monday to Sunday": "10:00 am to 12:30 pm"
+	}
+}

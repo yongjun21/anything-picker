@@ -1,0 +1,34 @@
+{
+	"name": "SAINTE CHAPELLE ORTHODONTICS AND AESTHETIC DENTISTRY",
+	"tel": "63363128",
+	"fax": "63363968",
+	"licensee": "SAINTE CHAPELLE MEDICAL AND DENTAL AESTHETIC CLINIC PTE. LTD",
+	"licensePeriod": "08/04/2016 to 07/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0076",
+	"address": "6 RAFFLES BOULEVARD, MARINA SQUARE, #B1-10 Singapore 039594",
+	"doctorInCharge": [
+		{
+			"name": "Tang Panmei",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2005",
+				"MDS (Orthodontics) (Singapore) (National University of Singapore, Singapore) 2010",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2010"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "10:00 am to 05:00 pm",
+		"Monday to Friday": "11:00 am to 09:00 pm",
+		"Saturday and Sunday": "10:00 am to 05:00 pm"
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"name": "CCK FAMILY CLINIC",
+	"tel": "68910338",
+	"fax": "68910983",
+	"licensee": "CCK FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "20/02/2017 to 19/02/2019",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
+	"hciCode": "13C0034",
+	"address": "BLK 304 CHOA CHU KANG AVE 4, #01-653 Singapore 680304",
+	"doctorInCharge": [
+		{
+			"name": "Eng Soo Kiang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Hari Raya Haji (01/09/2017)": "07:30 am to 11:00 pm",
+		"Deepavali (18/10/2017)": "07:30 am to 11:00 pm",
+		"Christmas Day (25/12/2017)": "07:30 am to 11:00 pm",
+		"New Year (01/01/2018)": "07:30 am to 11:00 pm"
+	}
+}

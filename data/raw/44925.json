@@ -1,0 +1,35 @@
+{
+	"name": "THE DENTAL STUDIO",
+	"tel": "62211395",
+	"fax": "62212696",
+	"licensee": "THE DENTAL STUDIO PTE. LTD.",
+	"licensePeriod": "23/07/2017 to 22/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0053",
+	"address": "BLK 6A SHENTON WAY, ##02-17/18 Singapore 068815",
+	"doctorInCharge": [
+		{
+			"name": "Ng Hsu Ching Lynette",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1998",
+				"MRD RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2004",
+				"MDS (Prosthodontics) (Singapore) (National University of Singapore, Singapore) 2004",
+				"FAMS (Prosthodontics) (Academy of Medicine, Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Prosthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

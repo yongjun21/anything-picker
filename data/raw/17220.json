@@ -1,0 +1,36 @@
+{
+	"name": "LIFELINE YISHUN RING MEDICAL CLINIC",
+	"tel": "67522017",
+	"fax": "62575646",
+	"licensee": "WOON CHEE HONG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403801",
+	"address": "BLK 846 YISHUN RING ROAD, #01-3615 Singapore 760846",
+	"doctorInCharge": [
+		{
+			"name": "WOON CHEE HONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed"
+	}
+}

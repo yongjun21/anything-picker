@@ -1,0 +1,32 @@
+{
+	"name": "ONEDOCTORS FAMILY CLINIC",
+	"tel": "62578980",
+	"fax": "62578980",
+	"licensee": "ONEDOCTORS HEALTHCARE PTE. LTD.",
+	"licensePeriod": "10/10/2016 to 09/10/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0219",
+	"address": "BLK 846 YISHUN RING ROAD, YISHUN NEW TOWN, #01-3611 Singapore 760846",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wei Liang Daniel",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Saturday": "08:00 am to 10:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

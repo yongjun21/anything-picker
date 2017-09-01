@@ -1,0 +1,31 @@
+{
+	"name": "RISEN CHRIST FREE CLINIC",
+	"tel": "62822482",
+	"fax": "62529894",
+	"licensee": "Thomas Seng Tee Kiat",
+	"licensePeriod": "29/05/2017 to 28/05/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404449",
+	"address": "91 Toa Payoh Central, Church of the Risen Christ, Singapore 319193",
+	"doctorInCharge": [
+		{
+			"name": "Thomas Seng Tee Kiat",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday and Tuesday": "Closed",
+		"Wednesday": "07:00 pm to 09:00 pm",
+		"Thursday and Friday": "Closed",
+		"Saturday": "Closed",
+		"Sunday": "02:00 pm to 04:00 pm"
+	}
+}

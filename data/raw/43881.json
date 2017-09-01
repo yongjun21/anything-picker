@@ -1,0 +1,33 @@
+{
+	"name": "BRAIN SPINE PRACTICE",
+	"tel": "66943393",
+	"fax": "66933363",
+	"licensee": "BRAIN SPINE PRACTICE PTE. LTD.",
+	"licensePeriod": "24/06/2017 to 23/06/2019",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "13C0155",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #07-50/51 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Lee Cheng Kiang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000",
+				"M Med (Surg) (National University of Singapore, Singapore) 2004",
+				"MRCSEd (Royal College of Surgeons of Edinburgh, United Kingdom) 2005",
+				"FRACS (Neurosurgery) (Royal Australasian College of Surgeons, Australia) 2009"
+			],
+			"specialties": [
+				"Neurosurgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Neurosurgery"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm"
+	}
+}

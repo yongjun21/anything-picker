@@ -1,0 +1,33 @@
+{
+	"name": "LOYANG MEDICAL CENTRE",
+	"tel": "65431690",
+	"fax": "65422528",
+	"licensee": "LEOW WEI AUN",
+	"licensePeriod": "27/04/2015 to 26/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403376",
+	"address": "Loyang Crescent, Mailbox No 5142, BLK 103A TOPS AVENUE 1, #01-01 Singapore 508988",
+	"doctorInCharge": [
+		{
+			"name": "LEOW WEI AUN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": []
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

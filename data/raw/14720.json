@@ -1,0 +1,27 @@
+{
+	"name": "JINMIN CLINIC",
+	"tel": "63449021",
+	"fax": "64445804",
+	"licensee": "HO SOON LYE",
+	"licensePeriod": "01/01/2017 to 31/12/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400753",
+	"address": "430 CHANGI RD, Singapore 419872",
+	"doctorInCharge": [
+		{
+			"name": "HO SOON LYE",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 1965"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "09:00 am to 12:30 pm, 02:30 pm to 06:00 pm",
+		"Saturday to Sunday": "Closed"
+	}
+}

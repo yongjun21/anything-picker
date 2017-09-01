@@ -1,0 +1,26 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "62574737",
+	"fax": "62574737",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "03/03/2014 to 02/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404744",
+	"address": "500 YISHUN RING ROAD,, YISHUN PRIMARY SCHOOL, Singapore 768679",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	}
+}

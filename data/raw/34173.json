@@ -1,0 +1,34 @@
+{
+	"name": "ZAM FAMILY CLINIC",
+	"tel": "67690302",
+	"fax": "68923346",
+	"licensee": "Nor Azhar Bin Mohd Zam",
+	"licensePeriod": "01/03/2014 to 28/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404715",
+	"address": "BLK 516 CHOA CHU KANG STREET 51, #01-66 Singapore 680516",
+	"doctorInCharge": [
+		{
+			"name": "Nor Azhar Bin Mohd Zam",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 01:00 pm",
+		"Monday to Thursday": "08:30 am to 01:00 pm, 05:30 pm to 10:00 pm",
+		"Friday and Sunday": "08:30 am to 01:00 pm",
+		"Saturday": "08:30 am to 01:00 pm, 05:30 pm to 10:00 pm"
+	}
+}

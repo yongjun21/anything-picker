@@ -1,0 +1,32 @@
+{
+	"name": "IRENE CHUA CLINIC FOR WOMEN",
+	"tel": "64793233",
+	"fax": "64796233",
+	"licensee": "IRENE CHUA CLINIC PTE. LTD.",
+	"licensePeriod": "12/10/2015 to 11/10/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "11C0117",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #08-18 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Irene Chua Sze Yuen",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 2001"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	}
+}

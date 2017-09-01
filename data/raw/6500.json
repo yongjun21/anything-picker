@@ -1,0 +1,28 @@
+{
+	"name": "COVENANT DENTAL SURGERY",
+	"tel": "64732168",
+	"fax": "64744510",
+	"licensee": "THAM WAI MENG JAMES",
+	"licensePeriod": "04/01/2015 to 03/01/2020",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9402403",
+	"address": "BLK 154 MEI LING ST, #01-46 Singapore 140154",
+	"doctorInCharge": [
+		{
+			"name": "THAM WAI MENG JAMES",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:30 am to 12:00 pm, 01:30 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 01:30 pm to 04:30 pm",
+		"Saturday": "08:30 am to 02:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

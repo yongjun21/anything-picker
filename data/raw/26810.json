@@ -1,0 +1,27 @@
+{
+	"name": "TEH DENTAL SURGERY",
+	"tel": "64822306",
+	"fax": "64822306",
+	"licensee": "Teh Wei Kwong",
+	"licensePeriod": "28/06/2014 to 27/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401638",
+	"address": "BLK 229 Jalan Kayu, Singapore 799453",
+	"doctorInCharge": [
+		{
+			"name": "Teh Wei Kwong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday to Sunday": "08:30 am to 12:00 pm"
+	}
+}

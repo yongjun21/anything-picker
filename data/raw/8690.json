@@ -1,0 +1,26 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67845966",
+	"fax": "67845966",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403004",
+	"address": "BLK 21 TAMPINES ST 71, Singapore 529067",
+	"doctorInCharge": [
+		{
+			"name": "Noeline Tan",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	}
+}

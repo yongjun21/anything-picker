@@ -1,0 +1,26 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "68941981",
+	"fax": "68941981",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402903",
+	"address": "BLK 11 WOODLANDS DR 62, Singapore 737942",
+	"doctorInCharge": [
+		{
+			"name": "CHEE CHING TENG",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	}
+}

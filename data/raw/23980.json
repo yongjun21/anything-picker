@@ -1,0 +1,35 @@
+{
+	"name": "SHALOM CLINC & SURGERY",
+	"tel": "62780270",
+	"fax": "62784215",
+	"licensee": "SOH ENG LIONG LAWRENCE",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401473",
+	"address": "BLK 123 BT MERAH LANE 1, ALEXANDRA VILLAGE, #01-104 Singapore 150123",
+	"doctorInCharge": [
+		{
+			"name": "SOH ENG LIONG LAWRENCE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1979",
+				"MSc (OM) (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Occupational Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": []
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Saturday to Saturday": "09:00 am to 12:30 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

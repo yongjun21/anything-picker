@@ -1,0 +1,31 @@
+{
+	"name": "PIER MEDICAL CENTRE",
+	"tel": "67915677",
+	"fax": "67910525",
+	"licensee": "LIM CHEW",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401320",
+	"address": "BLK 725 JURONG WEST AVE 5, #B1-164 Singapore 640725",
+	"doctorInCharge": [
+		{
+			"name": "LIM CHEW",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm"
+	}
+}

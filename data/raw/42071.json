@@ -1,0 +1,34 @@
+{
+	"name": "PANASIA SURGERY",
+	"tel": "65702608",
+	"fax": "65702609",
+	"licensee": "PANASIA SURGERY PTE. LTD.",
+	"licensePeriod": "05/07/2016 to 04/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0130",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #10-43/44 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Look Chee Meng Melvin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1993",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1993"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Gastroenterology",
+			"General Surgery",
+			"Urology"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	}
+}

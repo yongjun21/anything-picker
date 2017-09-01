@@ -1,0 +1,27 @@
+{
+	"name": "NIPPON MEDICAL CARE",
+	"tel": "64747707",
+	"fax": "64744391",
+	"licensee": "NIPPON MEDICAL CARE PTE LTD",
+	"licensePeriod": "14/10/2015 to 13/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0169",
+	"address": "6A NAPIER ROAD, GLENEAGLES HOSPITAL, #03-37 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "Siow Yung Chow",
+			"qualifications": [
+				"MD (University of Kanazawa, Japan) 1966"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

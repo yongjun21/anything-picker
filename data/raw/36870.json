@@ -1,0 +1,33 @@
+{
+	"name": "JOY CLINIC AND SURGERY",
+	"tel": "67530702",
+	"fax": "67530702",
+	"licensee": "Soh Lin Tin",
+	"licensePeriod": "15/10/2015 to 14/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405335",
+	"address": "BLK 844 YISHUN ST 81, #01-164 Singapore 760844",
+	"doctorInCharge": [
+		{
+			"name": "Soh Lin Tin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:25 pm",
+		"Thursday and Saturday": "08:30 am to 12:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm"
+	}
+}

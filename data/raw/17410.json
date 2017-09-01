@@ -1,0 +1,25 @@
+{
+	"name": "LIM DENTAL SURGERY",
+	"tel": "62805262",
+	"fax": "62805262",
+	"licensee": "LIM KENG HOCK",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400979",
+	"address": "BLK 1-H YIO CHU KANG ROAD, Singapore 545514",
+	"doctorInCharge": [
+		{
+			"name": "LIM KENG HOCK",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1970"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Saturday": "09:00 am to 12:00 pm"
+	}
+}

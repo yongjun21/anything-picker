@@ -1,0 +1,26 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "62847156",
+	"fax": "62847156",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "08/06/2014 to 07/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403615",
+	"address": "BLK 21 Serangoon North Avenue 1, Singapore 555889",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	}
+}

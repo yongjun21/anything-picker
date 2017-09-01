@@ -1,0 +1,28 @@
+{
+	"name": "SINGHEALTH POLYCLINICS - SENGKANG",
+	"tel": "63153500",
+	"licensee": "SINGHEALTH POLYCLINICS",
+	"licensePeriod": "17/12/2014 to 16/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403810",
+	"address": "2 SENGKANG SQUARE, SENGKANG COMMUNITY HUB, #01-06 Singapore 545025",
+	"doctorInCharge": [
+		{
+			"name": "Lee Cia Sin",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 2008",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:00 am to 12:30 pm"
+	}
+}

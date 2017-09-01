@@ -1,0 +1,29 @@
+{
+	"name": "J.K. LEONG (DENTAL CENTRE) PTE LTD",
+	"tel": "63381188",
+	"fax": "63399798",
+	"licensee": "LEONG JOO KEE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400741",
+	"address": "35 SELEGIE ROAD, PARKLANE SHOPPING MALL, #01-32/33/34 Singapore 188307",
+	"doctorInCharge": [
+		{
+			"name": "HUM HOE KHIN",
+			"qualifications": [
+				"BDS (University of Adelaide, Australia) 1977"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Periodontology"
+		]
+	},
+	"operatingHours": {
+		"Monday to Saturday": "09:00 am to 06:00 pm"
+	}
+}

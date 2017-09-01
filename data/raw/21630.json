@@ -1,0 +1,27 @@
+{
+	"name": "PINNACLE DENTAL",
+	"tel": "67885530",
+	"fax": "67825142",
+	"licensee": "FAZIANA IDRUS",
+	"licensePeriod": "08/06/2014 to 07/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402671",
+	"address": "BLK 801 TAMPINES AVE 4, #01-263 Singapore 520801",
+	"doctorInCharge": [
+		{
+			"name": "FAZIANA IDRUS",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Saturday to Sunday": "08:30 am to 12:30 pm"
+	}
+}

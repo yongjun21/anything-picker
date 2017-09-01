@@ -1,0 +1,34 @@
+{
+	"name": "KINDER CLINIC PTE LTD",
+	"tel": "64726018",
+	"fax": "64755460",
+	"licensee": "KINDER CLINIC PTE. LTD.",
+	"licensePeriod": "31/12/2014 to 30/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405061",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #09-01 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Gong Wei Kin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"MRCP (Paed) (Royal College of Physicians, United Kingdom) 1996",
+				"M Med (Paed) (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

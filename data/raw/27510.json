@@ -1,0 +1,34 @@
+{
+	"name": "THE FAMILY MEDICAL CENTRE",
+	"tel": "62574522",
+	"fax": "67588813",
+	"licensee": "LUI WOEI SEN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401692",
+	"address": "BLK 411 YISHUN RING ROAD, #01-1827 Singapore 760411",
+	"doctorInCharge": [
+		{
+			"name": "JAM SOU LAI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm, 06:00 pm to 08:00 pm",
+		"Sunday and Public Holiday": "08:30 am to 12:30 pm"
+	}
+}

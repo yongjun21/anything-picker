@@ -1,0 +1,28 @@
+{
+	"name": "KATONG DENTAL SURGERY",
+	"tel": "67433300",
+	"fax": "67415062",
+	"licensee": "GOH KIAM BENG @ GOH GIANG BENG",
+	"licensePeriod": "07/02/2014 to 06/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400825",
+	"address": "711 GEYLANG RD, ORIENTAL VENTURE BUILDING, #01-04 Singapore 389626",
+	"doctorInCharge": [
+		{
+			"name": "GOH KIAM BENG @ GOH GIANG BENG",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday to Wednesday": "09:00 am to 06:00 pm"
+	}
+}

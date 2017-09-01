@@ -1,0 +1,34 @@
+{
+	"name": "ALLIANCE CLINIC AND PARTNERS PTE LTD",
+	"tel": "68469585",
+	"fax": "68423821",
+	"licensee": "LIM PENG KEONG",
+	"licensePeriod": "16/11/2013 to 15/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404623",
+	"address": "BLK 652 JALAN TENAGA, #01-50 Singapore 410652",
+	"doctorInCharge": [
+		{
+			"name": "LIM PENG KEONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday to Friday": "08:30 pm to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday and Sunday": "08:30 am to 12:30 pm"
+	}
+}

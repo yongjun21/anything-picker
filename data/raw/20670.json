@@ -1,0 +1,34 @@
+{
+	"name": "ORCHARD GROUP CLINIC",
+	"tel": "67344989",
+	"fax": "67345083",
+	"licensee": "TAN CHIN LOCK",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401246",
+	"address": "545 ORCHARD RD, FAR EAST SHOPPING CENTRE, #12-04/04A Singapore 238882",
+	"doctorInCharge": [
+		{
+			"name": "TAN CHIN LOCK",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2003"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday and Public Holiday": "10:00 am to 12:00 pm"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "VISTA DENTAL SURGERY",
+	"tel": "67925980",
+	"fax": "67925980",
+	"licensee": "VISTA DENTAL SURGERY (BL) PTE. LTD.",
+	"licensePeriod": "16/03/2015 to 15/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0031",
+	"address": "301 BOON LAY WAY, BOON LAY MRT STATION, #01-10 Singapore 649846",
+	"doctorInCharge": [
+		{
+			"name": "ONG HUANG LEONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday to Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	}
+}

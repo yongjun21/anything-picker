@@ -1,0 +1,29 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "62850722",
+	"fax": "62850722",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "19/01/2015 to 18/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403847",
+	"address": "BLK 2 FRANCIS THOMAS DRIVE, Singapore 359337",
+	"doctorInCharge": [
+		{
+			"name": "LIM WANYI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	}
+}

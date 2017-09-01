@@ -1,0 +1,34 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "67915100",
+	"fax": "67922310",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "03/12/2015 to 02/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "11C0220",
+	"address": "1 JURONG WEST CENTRAL 2, JURONG POINT SHOPPING CENTRE, #01-17E/F/G/H Singapore 648886",
+	"doctorInCharge": [
+		{
+			"name": "Lee Ying Ling",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 12:30 pm, 01:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Sunday and Public Holiday": "10:00 pm to 02:00 pm, 03:00 pm to 07:00 pm"
+	}
+}

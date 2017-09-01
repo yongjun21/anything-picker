@@ -1,0 +1,33 @@
+{
+	"name": "MEI LING CLINIC",
+	"tel": "64741782",
+	"fax": "64749201",
+	"licensee": "TAN WEE MENG",
+	"licensePeriod": "06/12/2013 to 05/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404638",
+	"address": "BLK 158 MEI LING ST, #01-80 Singapore 140158",
+	"doctorInCharge": [
+		{
+			"name": "TAN WEE MENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "08:00 am to 01:00 pm, 06:00 pm to 08:30 pm",
+		"Saturday to Sunday": "08:00 am to 11:30 am"
+	}
+}

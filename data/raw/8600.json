@@ -1,0 +1,26 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67957542",
+	"fax": "67957542",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "21/01/2014 to 20/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402984",
+	"address": "20 BOON LAY DRIVE, BOON LAY GARDEN PRIMARY SCHOOL, Singapore 649930",
+	"doctorInCharge": [
+		{
+			"name": "Tham Sai soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	}
+}

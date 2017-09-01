@@ -1,0 +1,26 @@
+{
+	"name": "VISTA DENTAL SURGERY",
+	"tel": "67678789",
+	"fax": "81269110",
+	"licensee": "VISTA DENTAL SURGERY (CEX) PTE. LTD.",
+	"licensePeriod": "27/08/2017 to 26/08/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0212",
+	"address": "10 CHOA CHU KANG AVENUE 4, CHOA CHU KANG MRT STATION, #01-01 Singapore 689810",
+	"doctorInCharge": [
+		{
+			"name": "Ong Huang Leong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday to Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	}
+}

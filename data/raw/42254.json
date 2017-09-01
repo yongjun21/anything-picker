@@ -1,0 +1,32 @@
+{
+	"name": "UROLOGY SPECIALISTS",
+	"tel": "65702709",
+	"fax": "64794147",
+	"licensee": "UROLOGY SPECIALISTS PTE. LTD.",
+	"licensePeriod": "03/08/2016 to 02/08/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0161",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #07-44 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Poh Beow Kiong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"MRCSEd (Royal College of Surgeons of Edinburgh, United Kingdom) 2003",
+				"M Med (Surg) (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Urology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Urology"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	}
+}

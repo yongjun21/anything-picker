@@ -1,0 +1,32 @@
+{
+	"name": "UNITED MEDICAL PRACTITIONERS PTE. LTD.",
+	"tel": "67812281",
+	"fax": "67872315",
+	"licensee": "UNITED MEDICAL PRACTITIONERS PTE.  LTD.",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401810",
+	"address": "BLK 139 TAMPINES ST 11, #01-16 Singapore 521139",
+	"doctorInCharge": [
+		{
+			"name": "CHOONG SHEAU PENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 12:30 am, 02:00 pm to 04:30 pm, 06:45 pm to 08:45 pm"
+	}
+}

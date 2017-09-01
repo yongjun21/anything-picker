@@ -1,0 +1,27 @@
+{
+	"name": "TRINITY MEDICAL CENTRE (MARINE PARADE)",
+	"tel": "63440027",
+	"fax": "63440097",
+	"licensee": "TRINITY MEDICAL GROUP PTE. LTD.",
+	"licensePeriod": "11/04/2017 to 10/04/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0091",
+	"address": "BLK 87 MARINE PARADE CENTRAL, #02-500A Singapore 440087",
+	"doctorInCharge": [
+		{
+			"name": "Lim Ming Yee",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 1999"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "10:00 am to 08:00 pm",
+		"Saturday to Sunday": "09:00 am to 03:00 pm"
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"name": "INTERNATIONAL CANCER SPECIALISTS",
+	"tel": "62359005",
+	"fax": "62359655",
+	"licensee": "International Cancer Specialists Pte. Ltd.",
+	"licensePeriod": "10/09/2014 to 09/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404966",
+	"address": "290 ORCHARD ROAD, PARAGON, #15-01/02 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Ooi Wei Seong",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 1999",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2003"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

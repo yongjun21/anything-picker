@@ -1,0 +1,33 @@
+{
+	"name": "SHENTON FAMILY MEDICAL CLINIC (BUKIT GOMBAK)",
+	"tel": "65665671",
+	"fax": "65619852",
+	"licensee": "SHENTON FAMILY MEDICAL CLINIC (BUKIT GOMBAK)",
+	"licensePeriod": "07/06/2014 to 06/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402674",
+	"address": "BLK 372 BUKIT BATOK STREET 31, #01-378 Singapore 650372",
+	"doctorInCharge": [
+		{
+			"name": "Alvin Lum Wai Mun",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "07:00 am to 11:00 pm",
+		"Monday to Friday": "07:00 am to 08:30 pm",
+		"Saturday and Sunday": "07:00 am to 11:00 pm"
+	}
+}

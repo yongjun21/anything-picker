@@ -1,0 +1,26 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64824425",
+	"fax": "68424425",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "26/07/2016 to 25/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0150",
+	"address": "350 GUILLEMARD ROAD, KONG HWA SCHOOL, Singapore 399772",
+	"doctorInCharge": [
+		{
+			"name": "Noeline Tan",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	}
+}

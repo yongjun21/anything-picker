@@ -1,0 +1,31 @@
+{
+	"name": "BK MEDICAL GROUP AESTHETIC CLINIC",
+	"tel": "63975550",
+	"fax": "68368337",
+	"licensee": "BK SG PTE. LTD.",
+	"licensePeriod": "31/10/2016 to 30/10/2017",
+	"licenseClass": "[ 1 Year ( 1C ) ]",
+	"hciCode": "14M0322",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTER SQUARE 2, #08-05/06 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Vivian Yong Wei Lin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2006",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 07:00 pm",
+		"Tuesday to Friday": "11:00 am to 08:00 pm",
+		"Saturday": "10:00 am to 02:00 pm",
+		"Sunday": "Closed"
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "66363730",
+	"fax": "66363728",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "16/11/2015 to 15/11/2017",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "11C0205",
+	"address": "112 EAST COAST ROAD, I12 KATONG, #03-17 Singapore 428802",
+	"doctorInCharge": [
+		{
+			"name": "Wong Wen Yao Michael",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Saturday to Public Holiday": "08:30 am to 01:00 pm"
+	}
+}

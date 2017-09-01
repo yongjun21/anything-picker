@@ -1,0 +1,29 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64740633",
+	"fax": "64740633",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "21/08/2015 to 20/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403057",
+	"address": "BLK 310 MARGARET DR, Singapore 149303",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wanyi",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	}
+}

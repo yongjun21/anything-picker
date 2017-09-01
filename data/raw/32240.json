@@ -1,0 +1,29 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "62858972",
+	"fax": "62858972",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "11/01/2015 to 10/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404342",
+	"address": "BLK 2C Burghley Drive, Singapore 558979",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wanyi",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	}
+}

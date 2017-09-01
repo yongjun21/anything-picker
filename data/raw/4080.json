@@ -1,0 +1,30 @@
+{
+	"name": "BUKIT BATOK WEST CLINIC",
+	"tel": "65662262",
+	"fax": "65662262",
+	"licensee": "NG HOR LIANG",
+	"licensePeriod": "20/04/2016 to 19/04/2018",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
+	"hciCode": "9403517",
+	"address": "BLK 323 BUKIT BATOK ST 33, #01-106 Singapore 650323",
+	"doctorInCharge": [
+		{
+			"name": "NG HOR LIANG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 02:00 pm, 06:30 pm to 08:30 pm"
+	}
+}

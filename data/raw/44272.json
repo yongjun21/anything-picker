@@ -1,0 +1,30 @@
+{
+	"name": "THE DENTAL PRACTICE (BEDOK) PTE LTD",
+	"tel": "62425626",
+	"fax": "62412535",
+	"licensee": "THE DENTAL PRACTICE (BEDOK) PTE. LTD.",
+	"licensePeriod": "22/07/2017 to 21/07/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "13C0184",
+	"address": "BLK 746 Bedok Reservoir Road, #01-3007 Singapore 470746",
+	"doctorInCharge": [
+		{
+			"name": "Oh Chih Min",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2001",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2006"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday to Sunday": "09:00 pm to 01:00 pm"
+	}
+}

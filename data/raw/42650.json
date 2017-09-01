@@ -1,0 +1,32 @@
+{
+	"name": "BEO CRESCENT CLINIC & SURGERY",
+	"tel": "62750269",
+	"fax": "62750062",
+	"licensee": "TRISTANEX PRIVATE LIMITED",
+	"licensePeriod": "15/11/2016 to 14/11/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "12C0244",
+	"address": "BLK 40 Beo Crescent, #01-02 Singapore 160040",
+	"doctorInCharge": [
+		{
+			"name": "TAN WEE KIAT",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "10:00 am to 12:30 pm",
+		"Monday to Friday": "10:00 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 am to 09:00 pm",
+		"Saturday and Sunday": "10:00 am to 12:30 pm"
+	}
+}

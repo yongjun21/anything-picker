@@ -1,0 +1,36 @@
+{
+	"name": "EVERTON CLINIC",
+	"tel": "62207872",
+	"fax": "67291880",
+	"licensee": "PHANG KWANG MIN JONATHAN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400494",
+	"address": "BLK 7 EVERTON PARK, #01-17 Singapore 080007",
+	"doctorInCharge": [
+		{
+			"name": "Lily Lie",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday to Sunday": "09:00 am to 12:00 pm"
+	}
+}

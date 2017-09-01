@@ -1,0 +1,28 @@
+{
+	"name": "LOKE SKIN CLINIC",
+	"tel": "63374926",
+	"fax": "63972213",
+	"licensee": "SKIN PHYSICIANS @ NOVENA PTE. LTD.",
+	"licensePeriod": "06/10/2016 to 05/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0311",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTER, SQUARE 2, #09-13 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Tan Kian Teo",
+			"qualifications": [
+				"MB BCh (Royal College of Surgeons, Ireland) 1994",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2002"
+			],
+			"specialties": [
+				"Dermatology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Dermatology"
+		]
+	}
+}

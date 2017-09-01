@@ -1,0 +1,33 @@
+{
+	"name": "G & H MEDICAL CLINIC PTE LTD",
+	"tel": "67586322",
+	"fax": "67567691",
+	"licensee": "GOH CHENG HONG",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400556",
+	"address": "BLK 106 YISHUN RING ROAD, #01-173 Singapore 760106",
+	"doctorInCharge": [
+		{
+			"name": "GOH CHENG HONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Saturday to Sunday": "08:30 am to 12:30 pm"
+	}
+}

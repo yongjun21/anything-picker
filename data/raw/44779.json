@@ -1,0 +1,35 @@
+{
+	"name": "AVENUE K CLINIC @ PUNGGOL",
+	"tel": "68344843",
+	"fax": "68814685",
+	"licensee": "AVENUE K CLINIC @ PUNGGOL PTE. LTD.",
+	"licensePeriod": "07/10/2016 to 06/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0303",
+	"address": "BLK 615A EDGEFIELD PLAINS, ##01-327 Singapore 821615",
+	"doctorInCharge": [
+		{
+			"name": "LEE KWOK KEONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2008",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 01:30 pm",
+		"Sunday": "Closed"
+	}
+}

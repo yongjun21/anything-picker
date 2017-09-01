@@ -1,0 +1,27 @@
+{
+	"name": "KEPPEL SHIPYARD MEDICAL CENTRE (GUL)",
+	"tel": "68696800",
+	"fax": "68623645",
+	"licensee": "KEPPEL SHIPYARD LIMITED",
+	"licensePeriod": "16/02/2015 to 15/02/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404360",
+	"address": "55 GUL RD, Singapore 629353",
+	"doctorInCharge": [
+		{
+			"name": "LIM SWEE BOON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "07:30 am to 04:30 pm",
+		"Saturday": "07:30 am to 11:30 am",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

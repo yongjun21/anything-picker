@@ -1,0 +1,31 @@
+{
+	"name": "TRANS ISLAND MEDICAL GROUP",
+	"tel": "62991898",
+	"fax": "62955250",
+	"licensee": "LIM HENG LEE LAWRENCE",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401785",
+	"address": "BLK 102 TOWNER ROAD, #01-272 Singapore 322102",
+	"doctorInCharge": [
+		{
+			"name": "LIM HENG LEE LAWRENCE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1971",
+				"Dip Derm (University of London, United Kingdom) 1976",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1977"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "10:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "09:30 am to 12:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

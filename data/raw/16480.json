@@ -1,0 +1,25 @@
+{
+	"name": "LAI CLINIC",
+	"tel": "62352725",
+	"fax": "65351753",
+	"licensee": "TAM WING FOON ESTHER",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 1B ) ]",
+	"hciCode": "9400893",
+	"address": "1 PARK ROAD, PEOPLE'S PARK COMPLEX, #01-13 Singapore 059108",
+	"doctorInCharge": [
+		{
+			"name": "TAM WING FOON ESTHER",
+			"qualifications": [
+				"MBBS (University of Hong Kong, China, Hong Kong) 1955"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	}
+}

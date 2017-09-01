@@ -1,0 +1,27 @@
+{
+	"name": "THE KNIGHTSBRIDGE CLINIC",
+	"tel": "97309399",
+	"fax": "64382946",
+	"licensee": "THE KNIGHTSBRIDGE CLINIC PRIVATE LIMITED",
+	"licensePeriod": "03/11/2015 to 02/11/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0380",
+	"address": "277B SOUTH BRIDGE ROAD, Singapore 058826",
+	"doctorInCharge": [
+		{
+			"name": "Lee Gim Beng Winston",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005",
+				"MCEM (The College of Emergency Medicine, United Kingdom) 2014"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "10:00 am to 08:00 pm",
+		"Saturday to Sunday": "10:00 am to 03:00 pm"
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"name": "MILLENNIUM MEDICAL GROUP",
+	"tel": "67656685",
+	"fax": "67650658",
+	"licensee": "TOH BENG CHYE",
+	"licensePeriod": "01/06/2014 to 31/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401113",
+	"address": "BLK 533 CHOA CHU KANG ST 51, #01-33 Singapore 680533",
+	"doctorInCharge": [
+		{
+			"name": "TOH BENG CHYE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "09:00 am to 12:30 pm",
+		"Monday to Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:30 am to 12:30 pm, 07:00 pm to 09:00 pm"
+	}
+}

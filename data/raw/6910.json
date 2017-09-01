@@ -1,0 +1,26 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64496012",
+	"fax": "64496012",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/10/2015 to 30/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403440",
+	"address": "BLK 600 Upper East Coast Road, Singapore 465561",
+	"doctorInCharge": [
+		{
+			"name": "Noeline Tan",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	}
+}

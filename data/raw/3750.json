@@ -1,0 +1,36 @@
+{
+	"name": "BERNARD EE CARDIAC CLINIC",
+	"tel": "67336811",
+	"fax": "62353060",
+	"licensee": "Ee Kuang Hock Bernard",
+	"licensePeriod": "10/06/2015 to 09/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400117",
+	"address": "6 Napier Road, Gleneagles Medical Centre, #03-05 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Ee Kuang Hock Bernard",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1971",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1975",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1977",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 1980",
+				"FRCP (Int Med) (Royal College of Physicians of London, United Kingdom) 1992"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology",
+			"Internal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	}
+}

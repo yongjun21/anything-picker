@@ -1,0 +1,34 @@
+{
+	"name": "FRESENIUS MEDICAL CARE KOVAN DIALYSIS CLINIC",
+	"tel": "62848430",
+	"fax": "62848270",
+	"licensee": "FRESENIUS MEDICAL CARE SINGAPORE PTE. LTD.",
+	"licensePeriod": "14/10/2015 to 13/10/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15C0352",
+	"address": "2 KOVAN ROAD, SIMON PLAZA, #01-08 Singapore 548008",
+	"doctorInCharge": [
+		{
+			"name": "Lam Ying-Nam Fred",
+			"qualifications": [
+				"MD (Loma Linda University, United States) 1975",
+				"Board Cert (Int Med) (American Board of Internal Medicine, United States) 1979"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday to Saturday": "07:00 am to 10:00 pm",
+		"Sunday": "Closed"
+	}
+}

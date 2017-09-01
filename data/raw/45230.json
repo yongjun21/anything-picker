@@ -1,0 +1,27 @@
+{
+	"name": "FIRST AVENUE DENTAL SURGERY",
+	"tel": "67451182",
+	"fax": "67451182",
+	"licensee": "FIRST AVENUE DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "13/10/2015 to 12/10/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0350",
+	"address": "BLK 301 UBI AVENUE 1, #01-237 Singapore 400301",
+	"doctorInCharge": [
+		{
+			"name": "Bey Yee Hau",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2014"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 am to 06:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	}
+}

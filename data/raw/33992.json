@@ -1,0 +1,37 @@
+{
+	"name": "CHUNGKIAW CLINIC PTE LTD",
+	"tel": "64662255",
+	"fax": "64676480",
+	"licensee": "CHUNGKIAW CLINIC PTE LTD",
+	"licensePeriod": "24/10/2015 to 23/10/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404603",
+	"address": "118 UPPER BUKIT TIMAH ROAD, GOH & GOH BUILDING, Singapore 588173",
+	"doctorInCharge": [
+		{
+			"name": "KOH TSE-CHUNG KEVIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981",
+				"MRCGP (Family Med) (Royal College of General Practitioners, United Kingdom) 1987",
+				"M Sc (Community Medicine) (Victoria University of Manchester, United Kingdom) 1988",
+				"FAMS (Public Health) (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday and Friday": "08:45 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday and Wednesday": "08:45 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Thursday and Sunday": "08:45 am to 12:00 pm",
+		"Saturday and Public Holiday": "Closed"
+	}
+}

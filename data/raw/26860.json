@@ -1,0 +1,24 @@
+{
+	"name": "TEKKA CLINIC SURGERY",
+	"tel": "62915026",
+	"fax": "62915026",
+	"licensee": "HARIDASS RAMDASS",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401643",
+	"address": "BLK 668 CHANDER ROAD, #02-06 Singapore 210668",
+	"doctorInCharge": [
+		{
+			"name": "HARIDASS RAMDASS",
+			"qualifications": [
+				"MBBS (Karnatak University, India) 1971"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"name": "LE MINT'S ORAL MAXILLOFACIAL SURGERY",
+	"tel": "64407321",
+	"fax": "63444312",
+	"licensee": "LE MINT'S ORAL SURGERY PTE. LTD.",
+	"licensePeriod": "22/11/2015 to 21/11/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13D0324",
+	"address": "160 EAST COAST ROAD, Singapore 428867",
+	"doctorInCharge": [
+		{
+			"name": "TAN MIN SEET",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995",
+				"MDS (National University of Singapore, Singapore) 1999",
+				"FDSRCS (England) (Royal College of Surgeons of England, United Kingdom) 2000"
+			],
+			"specialties": [
+				"Oral & Maxillo-Facial Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "Closed",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	}
+}

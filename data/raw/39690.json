@@ -1,0 +1,34 @@
+{
+	"name": "INFECTIOUS DISEASE SPECIALISTS",
+	"tel": "67326388",
+	"fax": "67326377",
+	"licensee": "WONG SIN YEW",
+	"licensePeriod": "13/12/2014 to 12/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405776",
+	"address": "6 NAPIER RD, GLENEAGLES MEDICAL CENTRE, #05-13 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "WONG SIN YEW",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1989",
+				"FAMS (Infectious Disease) (Academy of Medicine, Singapore) 2002"
+			],
+			"specialties": [
+				"Infectious Diseases"
+			]
+		}
+	],
+	"detailedServices": {
+		"Yellow Fever Vaccination": [
+			"Infectious Diseases"
+		],
+		"Specialist Medical": [
+			"Infectious Diseases"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	}
+}

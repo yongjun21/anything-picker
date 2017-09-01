@@ -1,0 +1,32 @@
+{
+	"name": "ATRIO FAMILY CLINIC (AMK) PTE. LTD.",
+	"tel": "64554282",
+	"fax": "64554280",
+	"licensee": "ATRIO FAMILY CLINIC (AMK) PTE. LTD.",
+	"licensePeriod": "31/12/2015 to 30/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13M0361",
+	"address": "BLK 532 ANG MO KIO AVENUE 10, CHENG SAN CENTRE, #01-2461 Singapore 560532",
+	"doctorInCharge": [
+		{
+			"name": "TAY JUN MIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": []
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:00 am to 02:00 pm, 05:30 pm to 10:30 pm",
+		"Saturday to Saturday": "08:00 am to 02:00 pm, 05:30 pm to 09:00 pm",
+		"Sunday to Sunday": "09:00 am to 02:00 pm, 05:30 pm to 09:00 pm"
+	}
+}

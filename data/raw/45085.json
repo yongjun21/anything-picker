@@ -1,0 +1,33 @@
+{
+	"name": "THE DENTAL PRACTICE (PAYA LEBAR) PTE LTD",
+	"tel": "67488678",
+	"fax": "67481886",
+	"licensee": "THE DENTAL PRACTICE (PAYA LEBAR) PTE. LTD.",
+	"licensePeriod": "23/06/2017 to 22/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0207",
+	"address": "797 GEYLANG ROAD, Singapore 389679",
+	"doctorInCharge": [
+		{
+			"name": "Oh Chih Min",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2001",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2006"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday and Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday and Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

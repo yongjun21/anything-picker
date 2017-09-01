@@ -1,0 +1,26 @@
+{
+	"name": "NANYANG DENTIST",
+	"tel": "67472658",
+	"fax": "67472658",
+	"licensee": "DAN TAU PENG",
+	"licensePeriod": "08/11/2013 to 07/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401145",
+	"address": "212 GEYLANG RD, Singapore 389272",
+	"doctorInCharge": [
+		{
+			"name": "DAN TAU PENG",
+			"qualifications": [
+				"Dental Therapist Exam (Institute of Dental Health, Singapore) 1985"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Saturday": "09:00 am to 05:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

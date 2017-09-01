@@ -1,0 +1,33 @@
+{
+	"name": "STREET 21 CLINIC (TAMPINES)",
+	"tel": "67857888",
+	"fax": "62601645",
+	"licensee": "GAN TEK KAH",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401556",
+	"address": "BLK 201B TAMPINES ST 21, #02-1097 Singapore 522201",
+	"doctorInCharge": [
+		{
+			"name": "GAN TEK KAH",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Sunday": "08:30 am to 12:30 pm",
+		"Monday to Friday": "04:30 pm to 08:30 pm"
+	}
+}

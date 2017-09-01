@@ -1,0 +1,31 @@
+{
+	"name": "RADIANT MEDICAL + AESTHETIC CENTRE",
+	"tel": "68812389",
+	"fax": "68812387",
+	"licensee": "RADIANT MEDICAL PTE. LTD.",
+	"licensePeriod": "06/10/2015 to 05/10/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404277",
+	"address": "BLK 810 HOUGANG CENTRAL, #01-220 Singapore 530810",
+	"doctorInCharge": [
+		{
+			"name": "NG WEI LEONG TOMMY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Sunday": "08:30 am to 10:00 pm"
+	}
+}

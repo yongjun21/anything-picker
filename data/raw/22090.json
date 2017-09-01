@@ -1,0 +1,31 @@
+{
+	"name": "PSYCHIATRIC CARE CLINIC",
+	"tel": "67335565",
+	"fax": "67336567",
+	"licensee": "TAY LIAM KAI",
+	"licensePeriod": "12/01/2017 to 11/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9401347",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #05-48 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "TAY LIAM KAI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"M Med (Psych) (National University of Singapore, Singapore) 1988",
+				"FAMS (Psych) (Academy of Medicine, Singapore) 1993"
+			],
+			"specialties": [
+				"Psychiatry"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Psychiatry"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 05:00 pm"
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"name": "THOMSON PAEDIATRIC CENTRE",
+	"tel": "63416000",
+	"fax": "63859457",
+	"licensee": "THOMSON PAEDIATRIC CENTRE PTE. LTD.",
+	"licensePeriod": "20/05/2016 to 19/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0149",
+	"address": "83 PUNGGOL CENTRAL, WATERWAY POINT, #02-30 Singapore 828761",
+	"doctorInCharge": [
+		{
+			"name": "Chua Yong Yeow Kenneth",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001",
+				"MRCPCH (Paed) (Royal College of Paediatrics and Child Health, United Kingdom) 2010"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday to Saturday": "08:30 am to 01:00 pm",
+		"Monday and Wednesday": "06:30 pm to 09:00 pm",
+		"Tuesday and Thursday": "02:00 pm to 05:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

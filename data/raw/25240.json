@@ -1,0 +1,26 @@
+{
+	"name": "SNG DENTAL SURGERY",
+	"tel": "67836613",
+	"fax": "67836613",
+	"licensee": "SNG CHENG NGIAP",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401528",
+	"address": "BLK 201B TAMPINES ST 21, #01-1065 Singapore 522201",
+	"doctorInCharge": [
+		{
+			"name": "SNG CHENG NGIAP",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday and Sunday": "09:00 am to 12:30 pm"
+	}
+}

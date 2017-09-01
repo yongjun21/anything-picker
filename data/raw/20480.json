@@ -1,0 +1,34 @@
+{
+	"name": "OMNI DENTAL CENTRE",
+	"tel": "67377375",
+	"fax": "67372349",
+	"licensee": "DENTAIRE PTE LTD",
+	"licensePeriod": "17/12/2014 to 16/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402152",
+	"address": "260 ORCHARD ROAD, THE HEEREN, #08-05 Singapore 238855",
+	"doctorInCharge": [
+		{
+			"name": "LOH EU-MIN EUGENE LESTER",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1989",
+				"MDSc (University of Sydney, Australia) 1994"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	}
+}

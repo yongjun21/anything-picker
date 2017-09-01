@@ -1,0 +1,35 @@
+{
+	"name": "VICTORIA MEDICAL HOUSE",
+	"tel": "63647551",
+	"fax": "63647552",
+	"licensee": "Tan Ru Yuh",
+	"licensePeriod": "23/06/2014 to 22/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404867",
+	"address": "BLK 888 WOODLANDS DRIVE 50, 888 PLAZA, #02-739 Singapore 730888",
+	"doctorInCharge": [
+		{
+			"name": "Tan Ru Yuh",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Tuesday": "06:30 pm to 09:00 pm",
+		"Monday to Sunday": "09:00 am to 12:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm",
+		"Thursday to Friday": "06:30 pm to 09:00 pm"
+	}
+}

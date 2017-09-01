@@ -1,0 +1,28 @@
+{
+	"name": "COMMUNITY MEDICAL CLINIC",
+	"tel": "62610672",
+	"fax": "62610672",
+	"licensee": "LOH PHILIP",
+	"licensePeriod": "31/10/2015 to 30/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400313",
+	"address": "BLK 221 BOON LAY PLACE, BOON LAY SHOPPING CENTRE, #02-160 Singapore 640221",
+	"doctorInCharge": [
+		{
+			"name": "LOH PHILIP",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 11:30 am, 01:30 pm to 04:00 pm, 05:30 pm to 07:30 pm",
+		"Saturday to Sunday": "09:00 am to 11:30 am"
+	}
+}

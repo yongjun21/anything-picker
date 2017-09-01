@@ -1,0 +1,32 @@
+{
+	"name": "THE LASIK SURGERY CLINIC",
+	"tel": "68361000",
+	"fax": "68368385",
+	"licensee": "THE LASIK SURGERY CLINIC PTE. LTD.",
+	"licensePeriod": "15/04/2015 to 14/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405153",
+	"address": "290 Orchard Road, Paragon, #13-01 to 06 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Tay Sheng Wei Eugene",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1997",
+				"FRCOphth (Royal College of Ophthalmologists, United Kingdom) 2008",
+				"FRANZCO (Royal Australian and New Zealand College of Ophthalmologists, Australia) 2010",
+				"FRCSEd (Royal College of Surgeons of Edinburgh, United Kingdom) 2013"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday to Saturday": "08:30 am to 06:00 pm"
+	}
+}

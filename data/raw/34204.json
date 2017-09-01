@@ -1,0 +1,26 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "65816790",
+	"fax": "65816790",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "27/02/2014 to 26/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404733",
+	"address": "BLK 20 PASIR RIS STREET 51, Singapore 518902",
+	"doctorInCharge": [
+		{
+			"name": "Noeline Tan",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	}
+}

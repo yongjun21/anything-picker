@@ -1,0 +1,34 @@
+{
+	"name": "HAMID FAMILY CLINIC & SURGERY",
+	"tel": "65848804",
+	"fax": "65826803",
+	"licensee": "Hamid Bin Ahmad",
+	"licensePeriod": "01/10/2015 to 30/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403441",
+	"address": "BLK 156 Pasir Ris St 13, #01-35 Singapore 510156",
+	"doctorInCharge": [
+		{
+			"name": "Hamid Bin Ahmad",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 12:00 pm, 01:30 pm to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed"
+	}
+}

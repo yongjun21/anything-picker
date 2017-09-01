@@ -1,0 +1,35 @@
+{
+	"name": "HUI KOK PHENG RESPIRATORY AND INTERNAL MEDICINE CLINIC",
+	"tel": "68874360",
+	"fax": "68873449",
+	"licensee": "HUI KP PTE. LTD.",
+	"licensePeriod": "16/12/2013 to 15/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405412",
+	"address": "3 Mount Elizabeth, Mount Elizabeth Medical Centre, #11-03 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Hui Kok Pheng",
+			"qualifications": [
+				"BMBS (University of Nottingham, United Kingdom) 1982",
+				"MRCP (Int Med) (Royal College of Physicians, Ireland) 1987",
+				"FAMS (Respiratory Med) (Academy of Medicine, Singapore) 1991",
+				"DM (University of Nottingham, United Kingdom) 1991"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Respiratory Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "02:00 pm to 05:30 pm",
+		"Saturday to Saturday": "09:00 am to 01:00 pm"
+	}
+}

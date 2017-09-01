@@ -1,0 +1,26 @@
+{
+	"name": "THE WELLNESS CLINIC",
+	"tel": "68873073",
+	"fax": "68363473",
+	"licensee": "THE WELLNESS CLINIC PTE. LTD.",
+	"licensePeriod": "12/11/2016 to 11/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0336",
+	"address": "1 ORCHARD BOULEVARD, CAMDEN CENTRE, #04-09 Singapore 248649",
+	"doctorInCharge": [
+		{
+			"name": "Krishnaswamy Ram Nath",
+			"qualifications": [
+				"BM (University of Southampton, United Kingdom) 1996"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "10:00 am to 06:00 pm",
+		"Saturday": "10:00 am to 02:00 pm"
+	}
+}

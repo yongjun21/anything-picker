@@ -1,0 +1,26 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64630974",
+	"fax": "64630974",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "04/07/2017 to 03/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0167",
+	"address": "1 HOLLAND GROVE ROAD, Henry Park Primary, Singapore 278790",
+	"doctorInCharge": [
+		{
+			"name": "Tham Sai Soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "MENG'S CLINIC",
+	"tel": "64744169",
+	"fax": "64744169",
+	"licensee": "CHAN KHYE MENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401100",
+	"address": "BLK 47 TANGLIN HALT ROAD, #01-321 Singapore 141047",
+	"doctorInCharge": [
+		{
+			"name": "CHAN KHYE MENG",
+			"qualifications": [
+				"MBBS (University of Malaya, Singapore) 1961"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Sunday": "09:00 am to 01:00 pm",
+		"Thursday": "Closed"
+	}
+}

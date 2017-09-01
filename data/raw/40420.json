@@ -1,0 +1,33 @@
+{
+	"name": "CHILD & FAMILY GUIDANCE CLINIC",
+	"tel": "64757811",
+	"fax": "64736457",
+	"licensee": "INSIGHTS CONSULTING PTE. LTD.",
+	"licensePeriod": "10/06/2015 to 09/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0078",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #04-11 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Goh Shu Chen Geraldine",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"DIP (Psychotherapy) (National University of Singapore, Singapore) 2002",
+				"M Med (Psych) (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Psychiatry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Psychiatry"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	}
+}

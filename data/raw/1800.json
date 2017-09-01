@@ -1,0 +1,31 @@
+{
+	"name": "NORTHEAST MEDICAL GROUP",
+	"tel": "64412402",
+	"fax": "64413292",
+	"licensee": "531 CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "16/04/2015 to 15/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402463",
+	"address": "BLK 531 BEDOK NORTH ST 3, #01-692 Singapore 460531",
+	"doctorInCharge": [
+		{
+			"name": "TAN TECK JACK",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 11:00 pm",
+		"Saturday and Sunday": "08:30 am to 01:00 pm"
+	}
+}

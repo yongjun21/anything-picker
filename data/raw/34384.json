@@ -1,0 +1,35 @@
+{
+	"name": "DRS CHAN & TANG FAMILY CLINIC",
+	"tel": "62511782",
+	"fax": "62511023",
+	"licensee": "DRS CHAN & TANG FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "05/05/2016 to 04/05/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404839",
+	"address": "BLK 125 LORONG 1 TOA PAYOH, #01-549 Singapore 310125",
+	"doctorInCharge": [
+		{
+			"name": "Chan Ming Jonathan",
+			"qualifications": [
+				"MD (University of Wisconsin, United States) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday and Wednesday": "08:30 am to 12:15 pm, 02:00 pm to 04:45 pm, 07:00 pm to 08:45 pm",
+		"Tuesday": "08:30 am to 12:15 pm, 02:00 pm to 04:45 pm",
+		"Thursday and Friday": "08:30 am to 12:15 pm, 02:00 pm to 04:45 pm",
+		"Saturday and Sunday": "08:30 am to 12:15 pm"
+	}
+}

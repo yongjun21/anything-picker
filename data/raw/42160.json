@@ -1,0 +1,34 @@
+{
+	"name": "THE PAIN SPECIALIST",
+	"tel": "66940181",
+	"fax": "66940768",
+	"licensee": "Yeo Sow Nam",
+	"licensePeriod": "19/07/2016 to 18/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0144",
+	"address": "38 Irrawaddy Road, Mount Elizabeth Novena Specialist Centre, #06-58 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Yeo Sow Nam",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"M Med (Anaes) (National University of Singapore, Singapore) 1999",
+				"FFPMANZCA (Australian and New Zealand College of Anaesthetists, Australia) 2003"
+			],
+			"specialties": [
+				"Anaesthesiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Anaesthesiology"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

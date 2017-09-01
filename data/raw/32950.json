@@ -1,0 +1,31 @@
+{
+	"name": "TECK GHEE CLINIC",
+	"tel": "64527971",
+	"fax": "64538120",
+	"licensee": "TAN YANG KHAI",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
+	"hciCode": "9404412",
+	"address": "BLK 451 ANG MO KIO AVE 10, #01-1765 Singapore 560451",
+	"doctorInCharge": [
+		{
+			"name": "Tan Yang Khai",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 12:00 pm",
+		"Monday to Friday": "08:30 am to 12:30 pm, 02:30 pm to 08:00 pm",
+		"Saturday to Sunday": "08:30 am to 12:00 pm"
+	}
+}

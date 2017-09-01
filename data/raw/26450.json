@@ -1,0 +1,34 @@
+{
+	"name": "TAN MEDICAL CLINIC PTE LTD",
+	"tel": "64530482",
+	"fax": "64539845",
+	"licensee": "TAN YONG TECK",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401612",
+	"address": "BLK 339 ANG MO KIO AVE 1, #01-1583 Singapore 560339",
+	"doctorInCharge": [
+		{
+			"name": "TAN YONG TECK",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1972"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday and Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday and Wednesday": "08:30 am to 12:30 pm",
+		"Friday and Saturday": "08:30 am to 12:30 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

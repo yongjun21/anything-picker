@@ -1,0 +1,33 @@
+{
+	"name": "MEDIVIEW CLINIC AND SURGERY",
+	"tel": "90906369",
+	"fax": "62532351",
+	"licensee": "Tham Kwong Lum",
+	"licensePeriod": "01/03/2016 to 28/02/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404375",
+	"address": "BLK 150 Toa Payoh Lorong 1, #01-999 Singapore 310150",
+	"doctorInCharge": [
+		{
+			"name": "Tham Kwong Lum",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday and Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday to Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm"
+	}
+}

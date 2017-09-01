@@ -1,0 +1,26 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64488215",
+	"fax": "64488215",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "02/10/2015 to 01/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403439",
+	"address": "2 SIGLAP LINK,, VICTORIA SCHOOL,, Singapore 448880",
+	"doctorInCharge": [
+		{
+			"name": "Noeline Tan",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday and Friday": "08:00 am to 05:00 pm"
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"name": "CHAN FAMILY CLINIC",
+	"tel": "63454683",
+	"fax": "63454683",
+	"licensee": "CHAN KAY BOON KEVIN",
+	"licensePeriod": "14/02/2016 to 13/02/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400191",
+	"address": "865 MOUNTBATTEN ROAD, KATONG SHOPPING CENTRE, #02-81H Singapore 437844",
+	"doctorInCharge": [
+		{
+			"name": "CHAN KAY BOON KEVIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 03:45 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"name": "CHARLES TOH CLINIC",
+	"tel": "67342266",
+	"fax": "62359596",
+	"licensee": "TOH CHAI SOON CHARLES",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400209",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #06-01/02 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "TOH CHAI SOON CHARLES",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 1954",
+				"MRCP (Int Med) (Royal College of Physicians of London, United Kingdom) 1958",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 1963",
+				"FRCP (Int Med) (Royal College of Physicians of London, United Kingdom) 1973",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1973"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"operatingHours": {
+		"Monday to Saturday": "09:00 am to 05:00 pm"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"name": "SSOC MEDICAL CENTRE",
+	"tel": "63918811",
+	"fax": "64712632",
+	"licensee": "Kevin Yip Man Hing",
+	"licensePeriod": "19/10/2015 to 18/10/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0361",
+	"address": "681 Race Course Road, #01-311 Singapore 210681",
+	"doctorInCharge": [
+		{
+			"name": "Kevin Yip Man Hing",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1986",
+				"FRCS (Orth Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1990",
+				"FHKCOS (Hong Kong College of Orthopaedic Surgeons, China, Hong Kong) 1993",
+				"FAMS (Orth Surg) (Academy of Medicine, Singapore) 1998"
+			],
+			"specialties": [
+				"Orthopaedic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Orthopaedic Surgery"
+		]
+	}
+}

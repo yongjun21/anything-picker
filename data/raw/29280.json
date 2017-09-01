@@ -1,0 +1,32 @@
+{
+	"name": "UNIVERSAL MEDICAL CLINIC",
+	"tel": "67858887",
+	"fax": "67858887",
+	"licensee": "TAN TEE NGEE",
+	"licensePeriod": "01/04/2016 to 31/03/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401825",
+	"address": "BLK 201E TAMPINES ST 23, #01-104 Singapore 527201",
+	"doctorInCharge": [
+		{
+			"name": "TAN TEE NGEE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Thursday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Friday to Sunday": "08:30 am to 12:00 pm"
+	}
+}

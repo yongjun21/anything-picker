@@ -1,0 +1,26 @@
+{
+	"name": "THE AESTHETICS MEDICAL CLINIC",
+	"tel": "68363367",
+	"fax": "68361382",
+	"licensee": "THE AESTHETICS CLINIC PTE. LTD.",
+	"licensePeriod": "10/07/2016 to 09/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405641",
+	"address": "290 ORCHARD ROAD, PARAGON, #06-21 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "HENG WEE SOON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Wednesday and Thursday": "11:00 am to 08:00 pm",
+		"Saturday": "10:00 am to 06:00 pm"
+	}
+}

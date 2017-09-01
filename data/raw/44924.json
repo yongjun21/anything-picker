@@ -1,0 +1,29 @@
+{
+	"name": "LIFESCAN MEDICAL CENTRE",
+	"tel": "62211358",
+	"fax": "62212696",
+	"licensee": "THE MEDICAL SUITE PTE. LTD.",
+	"licensePeriod": "23/07/2017 to 22/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0052",
+	"address": "BLK 6A SHENTON WAY, #02-19/20 Singapore 068815",
+	"doctorInCharge": [
+		{
+			"name": "Low Bee Lee",
+			"qualifications": [
+				"MB BCh BAO, LRCP & SI (National University of Ireland, Ireland) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm"
+	}
+}

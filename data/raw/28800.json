@@ -1,0 +1,31 @@
+{
+	"name": "TOWN HALL CLINIC PTE LTD",
+	"tel": "62788089",
+	"fax": "62728778",
+	"licensee": "TOWN HALL CLINIC PTE. LTD.",
+	"licensePeriod": "12/12/2016 to 11/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9403626",
+	"address": "BLK 438A ALEXANDRA ROAD, ALEXANDRA TECHNOPARK (BLOCK A), #B1-02 Singapore 119967",
+	"doctorInCharge": [
+		{
+			"name": "P'NG CHIN GUAN JULIAN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 12:15 am, 02:00 pm to 04:30 pm"
+	}
+}

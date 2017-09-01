@@ -1,0 +1,32 @@
+{
+	"name": "LIFE CARE CLINIC",
+	"tel": "67691810",
+	"fax": "67691810",
+	"licensee": "Lee Bon Fa",
+	"licensePeriod": "18/04/2017 to 17/04/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0093",
+	"address": "BLK 259 BUKIT PANJANG RING ROAD, #01-12 Singapore 671259",
+	"doctorInCharge": [
+		{
+			"name": "Lee Bon Fa",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1970"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Hari Raya Haji (01/09/2017)": "Closed",
+		"Deepavali (18/10/2017)": "Closed",
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday to Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

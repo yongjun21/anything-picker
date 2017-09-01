@@ -1,0 +1,33 @@
+{
+	"name": "TAI SENG CLINIC",
+	"tel": "62882434",
+	"fax": "62882434",
+	"licensee": "Ng Suat Tong",
+	"licensePeriod": "10/11/2016 to 09/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14C0333",
+	"address": "137 UPPER PAYA LEBAR RD, Singapore 534844",
+	"doctorInCharge": [
+		{
+			"name": "Ng Suat Tong",
+			"qualifications": [
+				"MB ChB (University of Aberdeen, United Kingdom) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday to Saturday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Sunday": "08:45 am to 12:00 am"
+	}
+}

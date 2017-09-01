@@ -1,0 +1,35 @@
+{
+	"name": "TEMASEK MEDICAL CLINIC",
+	"tel": "62523206",
+	"fax": "62523206",
+	"licensee": "TAN HUNG CHAI",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401646",
+	"address": "BLK 212 TOA PAYOH LOR 8, #01-41 Singapore 310212",
+	"doctorInCharge": [
+		{
+			"name": "TAN HUNG CHAI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday to Public Holiday": "Closed",
+		"Monday to Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Friday to Saturday": "08:30 am to 12:30 pm",
+		"Sunday to Sunday": "Closed"
+	}
+}

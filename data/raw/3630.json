@@ -1,0 +1,25 @@
+{
+	"name": "BEDOK NORTH DENTAL SURGERY",
+	"tel": "62420491",
+	"licensee": "LIM SEOW MEI",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400108",
+	"address": "BLK 530 BEDOK NORTH ST 3, #01-630 Singapore 460530",
+	"doctorInCharge": [
+		{
+			"name": "LIM SEOW MEI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	}
+}

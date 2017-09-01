@@ -1,0 +1,26 @@
+{
+	"name": "BEDOK LIFE CLINIC",
+	"tel": "64431398",
+	"fax": "64431398",
+	"licensee": "QUEK KOH CHOON",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400105",
+	"address": "BLK 123 BEDOK NORTH ST 2, #01-160 Singapore 460123",
+	"doctorInCharge": [
+		{
+			"name": "QUEK KOH CHOON",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1973"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	]
+}

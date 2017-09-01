@@ -1,0 +1,31 @@
+{
+	"name": "SYY CLINIC",
+	"tel": "67386771",
+	"fax": "67382307",
+	"licensee": "SYY PTE LTD",
+	"licensePeriod": "25/02/2017 to 24/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405130",
+	"address": "BLK 71 LORONG 4 TOA PAYOH, #01-381 Singapore 310071",
+	"doctorInCharge": [
+		{
+			"name": "Lee Su lan",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"M Med (Psych) (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Psychiatry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": []
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "08:30 am to 06:00 pm",
+		"Saturday and Sunday": "10:00 am to 05:45 pm"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "THE MEDICAL HOUSE CLINIC & SURGERY",
+	"tel": "62706600",
+	"fax": "64686581",
+	"licensee": "WEE SIN LIN",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401714",
+	"address": "BLK 116 BT MERAH VIEW, #01-235 Singapore 151116",
+	"doctorInCharge": [
+		{
+			"name": "WEE SIN LIN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1972"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "10:15 am to 12:15 pm, 03:30 pm to 07:30 pm",
+		"Saturday and Sunday": "10:00 am to 11:30 am"
+	}
+}

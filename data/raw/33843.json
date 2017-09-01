@@ -1,0 +1,34 @@
+{
+	"name": "JW CORPORATION CLINIC PTE LTD",
+	"tel": "65646745",
+	"fax": "65603118",
+	"licensee": "Tan Bee Lee, Philip",
+	"licensePeriod": "13/08/2015 to 12/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404526",
+	"address": "BLK 507 Jurong West Street 52, #01-156 Singapore 640507",
+	"doctorInCharge": [
+		{
+			"name": "Tan Bee Lee, Philip",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Monday and Tuesday": "06:30 pm to 08:30 pm",
+		"Thursday": "06:30 pm to 08:30 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	}
+}

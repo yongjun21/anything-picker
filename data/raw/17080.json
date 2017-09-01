@@ -1,0 +1,36 @@
+{
+	"name": "LIFECARE FAMILY CLINIC",
+	"tel": "67698588",
+	"fax": "67667735",
+	"licensee": "CHOO CHEE HOE IVAN",
+	"licensePeriod": "18/01/2016 to 17/01/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9403153",
+	"address": "BLK 524A JELAPANG ROAD, GREENRIDGE SHOPPING CENTRE, #02-15 Singapore 671524",
+	"doctorInCharge": [
+		{
+			"name": "CHOO CHEE HOE IVAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Thursday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:30 pm",
+		"Friday": "08:00 am to 12:30 pm, 06:00 pm to 09:30 pm",
+		"Saturday": "08:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	}
+}

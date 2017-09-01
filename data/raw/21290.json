@@ -1,0 +1,33 @@
+{
+	"name": "PASIR RIS BABY AND CHILD CLINIC",
+	"tel": "65810032",
+	"fax": "65822219",
+	"licensee": "PASIR RIS BABY AND CHILD CLINIC PTE. LTD.",
+	"licensePeriod": "16/06/2016 to 15/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402287",
+	"address": "BLK 625 ELIAS ROAD, #02-322 Singapore 510625",
+	"doctorInCharge": [
+		{
+			"name": "SIM SZE KEEN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"M Med (Paed) (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday to Tuesday": "08:45 am to 11:30 am, 06:45 pm to 08:30 pm",
+		"Wednesday and Saturday": "08:45 am to 11:30 am",
+		"Thursday to Friday": "08:45 am to 11:30 am, 06:45 pm to 08:30 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

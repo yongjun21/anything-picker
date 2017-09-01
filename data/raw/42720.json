@@ -1,0 +1,28 @@
+{
+	"name": "DENTAL FOCUS HAIG CLINIC",
+	"tel": "67441890",
+	"fax": "67441890",
+	"licensee": "PRODENTAL (HAIG) PTE. LTD.",
+	"licensePeriod": "29/11/2016 to 28/11/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0261",
+	"address": "BLK 10 HAIG ROAD, #01-361 Singapore 430010",
+	"doctorInCharge": [
+		{
+			"name": "Seow Kok Siam Joseph",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"name": "LIM CLINIC & SURGERY",
+	"tel": "62412211",
+	"fax": "62412268",
+	"licensee": "LIM LIANG BOON",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400974",
+	"address": "BLK 20 CHAI CHEE ROAD, #01-418/420 Singapore 461020",
+	"doctorInCharge": [
+		{
+			"name": "LIM LIANG BOON",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1969",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1997",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Monday": "07:00 pm to 09:00 pm",
+		"Saturday and Sunday": "09:00 am to 12:00 pm"
+	}
+}

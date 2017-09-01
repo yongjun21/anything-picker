@@ -1,0 +1,31 @@
+{
+	"name": "SWAMI SURGERY",
+	"tel": "63455221",
+	"fax": "63480201",
+	"licensee": "Ikshuvanam Swaminathan",
+	"licensePeriod": "11/01/2014 to 10/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403080",
+	"address": "319 Joo Chiat Place, Parkway East Medical Centre, #04-04 Singapore 427989",
+	"doctorInCharge": [
+		{
+			"name": "Ikshuvanam Swaminathan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1988"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 05:00 pm, 09:00 am to 05:00 pm",
+		"Saturday to Saturday": "09:00 am to 01:00 pm"
+	}
+}

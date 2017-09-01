@@ -1,0 +1,25 @@
+{
+	"name": "Y C WONG CLINIC",
+	"tel": "62915338",
+	"fax": "62915338",
+	"licensee": "WONG YOKE CHEONG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401909",
+	"address": "BLK 101 KITCHENER RD, JALAN BESAR PLAZA, #02-38 Singapore 208511",
+	"doctorInCharge": [
+		{
+			"name": "WONG YOKE CHEONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "10:00 am to 12:30 pm, 02:00 pm to 04:30 pm"
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"name": "NG MEDICAL CLINIC",
+	"tel": "65336644",
+	"fax": "65336644",
+	"licensee": "NG WING CHUEN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401187",
+	"address": "1 PARK ROAD, PEOPLE'S PARK COMPLEX, #04-13 Singapore 059108",
+	"doctorInCharge": [
+		{
+			"name": "NG WING CHUEN",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1965",
+				"MRCP (Int Med) (Royal College of Physicians of London, United Kingdom) 1968"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "10:00 am to 05:00 pm",
+		"Saturday and Sunday": "10:00 am to 12:00 pm"
+	}
+}

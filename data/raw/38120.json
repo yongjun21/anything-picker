@@ -1,0 +1,40 @@
+{
+	"name": "NATIONAL CANCER CENTRE  SINGAPORE",
+	"tel": "64368000",
+	"fax": "62207759",
+	"licensee": "NATIONAL CANCER CENTRE OF SINGAPORE PTE LTD",
+	"licensePeriod": "22/04/2016 to 21/04/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405562",
+	"address": "11 HOSPITAL DRIVE, Singapore 169610",
+	"doctorInCharge": [
+		{
+			"name": "Soo Khee Chee",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1975",
+				"FRACS (Gen Surg) (Royal Australasian College of Surgeons, Australia) 1983",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 1989"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Day Surgery",
+		"Endoscopy",
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Diagnostic Radiology",
+			"General Surgery",
+			"Medical Oncology",
+			"Palliative Medicine",
+			"Radiation Oncology"
+		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm"
+	}
+}

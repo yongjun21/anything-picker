@@ -1,0 +1,34 @@
+{
+	"name": "LEE CLINIC",
+	"tel": "62418827",
+	"fax": "62414724",
+	"licensee": "LEE KAM WAI CLINIC PTE LTD",
+	"licensePeriod": "19/10/2015 to 18/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400920",
+	"address": "BLK 123 BEDOK NORTH ST 2, #01-156 Singapore 460123",
+	"doctorInCharge": [
+		{
+			"name": "LIM SIEW HONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "09:00 am to 12:00 pm",
+		"Monday to Friday": "09:00 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	}
+}

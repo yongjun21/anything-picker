@@ -1,0 +1,26 @@
+{
+	"name": "CHARIS CLINIC & SURGERY",
+	"tel": "67822332",
+	"fax": "00000000",
+	"licensee": "WONG TECK CHEUNG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400205",
+	"address": "BLK 164 TAMPINES ST 12, #01-295 Singapore 521164",
+	"doctorInCharge": [
+		{
+			"name": "WONG TECK CHEUNG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	]
+}
