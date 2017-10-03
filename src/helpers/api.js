@@ -18,16 +18,16 @@ export function onemapApi (cb) {
 }
 
 function fetchOnemapToken () {
-  const url = 'https://www.onemap.sg/AuthServices/TokenService.svc/GetNewToken'
-  const options = {
-    method: 'POST',
-    headers: {'Content-Type': 'application/json'},
-    body: JSON.stringify({'AccessKey': process.env.ONEMAP_ACCESS_KEY})
-  }
+  const url = 'https://developers.onemap.sg/publicapi/publicsessionid'
+  // const options = {
+  //   method: 'POST',
+  //   headers: {'Content-Type': 'application/json'},
+  //   body: JSON.stringify({'AccessKey': process.env.ONEMAP_ACCESS_KEY})
+  // }
 
-  return fetch(url, options).then(res => res.json()).then(json => {
-    onemapToken = json.Token
-    console.log('Using OneMap token:', onemapToken)
+  return fetch(url).then(res => res.json()).then(json => {
+    onemapToken = json.access_token
+    console.log('Using OneMap access token:', onemapToken)
     return onemapToken
   })
 }
