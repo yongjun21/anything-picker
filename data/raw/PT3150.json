@@ -1,0 +1,74 @@
+{
+	"Centre Code": "PT3150",
+	"Centre Name": "BUMBLE BEE CHILD CARE CENTRE",
+	"Centre Branch": "PT BUMBLE BEE",
+	"Address": "369, WOODLANDS AVENUE 1, #01 - 853, SINGAPORE 730369",
+	"Telephone": "63630234",
+	"Fax": "63634136",
+	"Web Site": "www.facebook.com/bumblebeeccc",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "P. JAYA",
+	"Contact Number": "63630234",
+	"Contact Designation": "PRINCIPAL",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1930",
+			"AM": "To",
+			"PM": "To To"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "To",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 0 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 880,
+			"Fee with GST": 880
+		},
+		{
+			"Age From": "2 year(s) 1 month(s)",
+			"Age To": "3 year(s) 0 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 870,
+			"Fee with GST": 870
+		},
+		{
+			"Age From": "3 year(s) 1 month(s)",
+			"Age To": "4 year(s) 0 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 860,
+			"Fee with GST": 860
+		},
+		{
+			"Age From": "4 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 850,
+			"Fee with GST": 850
+		}
+	]
+}

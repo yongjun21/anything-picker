@@ -1,0 +1,67 @@
+{
+	"Centre Code": "PT8557",
+	"Centre Name": "THE LITTLE SKOOL-HOUSE INTERNATIONAL PTE LTD",
+	"Centre Branch": "PT LITTLE SKOOL-HOUSE (NAMLY)",
+	"Address": "36, NAMLY CRESCENT, SHAMROCK PARK, SINGAPORE 267551",
+	"Telephone": "64627287",
+	"Fax": "64677170",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "Maggie Lee",
+	"Contact Number": "64627287",
+	"Contact Designation": "PRINCIPAL",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "Centre serves Minced meat(pork) porridge, which the Japanese parents have requested for."
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "Yes Japanese"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1450,
+			"Fee with GST": 1450
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 0 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 1130,
+			"Fee with GST": 1130
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 72,
+			"Fee with GST": 72
+		}
+	]
+}

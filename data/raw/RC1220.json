@@ -1,0 +1,67 @@
+{
+	"Centre Code": "RC1220",
+	"Centre Name": "ST ANTHONY'S CHILD CARE CENTRE",
+	"Centre Branch": "RC ST ANTHONY'S",
+	"Address": "331, WOODLANDS AVE 1, #01 - 421, SINGAPORE 730331",
+	"Telephone": "63685058",
+	"Fax": "63684307",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "Ms Gina Chia",
+	"Contact Number": "63685058",
+	"Contact Designation": "SUPERVISOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "Yes",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 730,
+			"Fee with GST": 730
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 365,
+			"Fee with GST": 365
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 365,
+			"Fee with GST": 365
+		}
+	]
+}

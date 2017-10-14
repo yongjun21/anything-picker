@@ -1,0 +1,88 @@
+{
+	"Centre Code": "PT8516",
+	"Centre Name": "LEARNING VISION @ WORK PTE. LTD.",
+	"Centre Branch": "PT LVG@WORK (RAFFLES PLACE)",
+	"Address": "101, Cecil Street, #01 - 02, Tong Eng Building, SINGAPORE 069533",
+	"Telephone": "62210896",
+	"Fax": "62278004",
+	"Web Site": "www.learningvision.com",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "Audrey Tan",
+	"Contact Number": "62210896",
+	"Contact Designation": "PRINCIPAL",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "730 To 1930",
+			"AM": "730 To 1330",
+			"PM": "To 1330 To 1930"
+		},
+		"Saturday": {
+			"Full Day": "730 To 1430",
+			"AM": "730 To 1430",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1380,
+			"Fee with GST": 1380
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 1180,
+			"Fee with GST": 1180
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 1180,
+			"Fee with GST": 1180
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 2000,
+			"Fee with GST": 2000
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day AM",
+			"Fee without GST": 1600,
+			"Fee with GST": 1600
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day PM",
+			"Fee without GST": 1600,
+			"Fee with GST": 1600
+		}
+	]
+}

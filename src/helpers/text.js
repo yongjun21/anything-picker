@@ -15,6 +15,12 @@ export function standardFilter (token) {
     .replace(/ ?@ ?/g, ' @ ') // normalize @
 }
 
+export function cleanWhiteSpace (token) {
+  return token
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
 export function synonym (token, replacement, ...patterns) {
   for (let pattern of patterns) {
     if (pattern instanceof RegExp && token.match(pattern)) return replacement

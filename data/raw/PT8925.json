@@ -1,0 +1,74 @@
+{
+	"Centre Code": "PT8925",
+	"Centre Name": "MINDCHAMPS PRESCHOOL @ BISHAN PTE. LTD.",
+	"Centre Branch": "PT MINDCHAMPS @ BISHAN",
+	"Address": "18, SIN MING LANE, #01 - 17, MIDVIEW CITY, SINGAPORE 573960",
+	"Telephone": "67348400",
+	"Fax": "67349400",
+	"Web Site": "http://www.mindchampspreschool.org",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "LEONG KIN WAI DESMOND",
+	"Contact Number": "86060230",
+	"Contact Designation": "DIRECTOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "Yes",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 0 To 0"
+		},
+		"Saturday": {
+			"Full Day": "0 To 0",
+			"AM": "0 To 0",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1840,
+			"Fee with GST": 1840
+		},
+		{
+			"Age From": "3 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1740,
+			"Fee with GST": 1740
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 1640,
+			"Fee with GST": 1640
+		},
+		{
+			"Age From": "3 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 1540,
+			"Fee with GST": 1540
+		}
+	]
+}

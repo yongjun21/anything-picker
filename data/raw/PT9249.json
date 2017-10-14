@@ -1,0 +1,137 @@
+{
+	"Centre Code": "PT9249",
+	"Centre Name": "NURTURESTARS CHILD CARE",
+	"Centre Branch": "PT NURTURESTARS PUNGGOL SAFRA",
+	"Address": "9, SENTUL CRESCENT, #03 - 01, SINGAPORE 828654",
+	"Telephone": "62220859",
+	"Fax": "63855190",
+	"Web Site": "www.nurturestars.sg",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "12 months",
+	"Centre Details": "NurtureStars Preschool is a one-stop preschool that provides a holistic education to groom your child to his fullest potential!\n\nEstablished in January 2010, NurtureStars is a joint collaboration between SAFRA and Kinderland Educare Services Pte Ltd.\n\nThis unique partnership leverages on SAFRA's suite of clubhouse facilities and Kinderland's expertise in the early childhood industry, ensuring that your child receives quality education under the guidance of dedicated teachers.\n\nWith a focus on a well-rounded education, NurtureStars Preschool adopts the NurtureStars Integrated Curriculum, which combines theme-based activities that develop thinking skills and creativity, with program-based literacy and mathematical activities.\n\nNurtureStars Preschool's unique Active Learning Curriculum, which promotes mental and physical development through hands-on participation and multi-sensory, result-oriented learning experiences, is also part of the curriculum.\n \nNurtureStars Preschool? suite of child care services offers a special, well-rounded development programme as well as a brand new learning experience for your child.",
+	"Contact Person": "Mr Ng Kuan Wei",
+	"Contact Number": "63425638",
+	"Contact Designation": "GENERAL MANAGER",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1261.68,
+			"Fee with GST": 1261.68
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 997.2,
+			"Fee with GST": 997.2
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 803.74,
+			"Fee with GST": 803.74
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 897.2,
+			"Fee with GST": 897.2
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 897.2,
+			"Fee with GST": 897.2
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 803.74,
+			"Fee with GST": 803.74
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 93.46,
+			"Fee with GST": 93.46
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1495.33,
+			"Fee with GST": 1495.33
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1588.79,
+			"Fee with GST": 1588.79
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day AM",
+			"Fee without GST": 1191.59,
+			"Fee with GST": 1191.59
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day AM",
+			"Fee without GST": 1271.03,
+			"Fee with GST": 1271.03
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day PM",
+			"Fee without GST": 1271.03,
+			"Fee with GST": 1271.03
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day PM",
+			"Fee without GST": 1191.59,
+			"Fee with GST": 1191.59
+		}
+	]
+}

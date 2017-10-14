@@ -1,0 +1,95 @@
+{
+	"Centre Code": "PT8501",
+	"Centre Name": "IMAN CHILDCARE (SIMEI) PTE. LTD.",
+	"Centre Branch": "PT IMAN CHILDCARE (SIMEI)",
+	"Address": "154, SIMEI STREET 1, #01 - 75, SINGAPORE 520154",
+	"Telephone": "67845082",
+	"Fax": "",
+	"Web Site": "www.iman.edu.sg",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "Mdm Mas-Hermawati Jamaludin",
+	"Contact Number": "67845082",
+	"Contact Designation": "SUPERVISOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "Yes",
+		"Tamil": "No",
+		"Others": "Yes Arabic"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 850,
+			"Fee with GST": 850
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 470,
+			"Fee with GST": 470
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 470,
+			"Fee with GST": 470
+		},
+		{
+			"Age From": "7 year(s) 0 month(s)",
+			"Age To": "12 year(s) 11 month(s)",
+			"Service Type": "Student Care Service (AM)",
+			"Fee without GST": 300,
+			"Fee with GST": 300
+		},
+		{
+			"Age From": "7 year(s) 0 month(s)",
+			"Age To": "12 year(s) 11 month(s)",
+			"Service Type": "Student Care Service (PM)",
+			"Fee without GST": 300,
+			"Fee with GST": 300
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child FC1-12 to 24 hrs/wk",
+			"Fee without GST": 350,
+			"Fee with GST": 350
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 40,
+			"Fee with GST": 40
+		}
+	]
+}

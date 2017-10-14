@@ -1,0 +1,95 @@
+{
+	"Centre Code": "PT8721",
+	"Centre Name": "NOBLELAND ARTS N LEARNING PLACE PTE. LIMITED",
+	"Centre Branch": "NOBLELAND",
+	"Address": "22, THOMSON WALK, HAPPY PARK, SINGAPORE 574469",
+	"Telephone": "64521521",
+	"Fax": "",
+	"Web Site": "nobleland.sg",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "Nobleland Arts N Learning Place provides children aged 18 months to 6 years old engaging and joyful learning experiences through an Award-Winning Arts Integrated Curriculum and programme (Visual Arts, Dance Education, English Literature and Drama, Chinese Theatre, Kindermusik and Chinese Hui Ben) to broaden children?s perspectives and to empower them to make better connection in learning. We also actively collaborate with parents and various communities like Science Centre Singapore and National Arts Council to provide the most resourceful and creative platform for each child to excel.",
+	"Contact Person": "CHUA SHIAN LUAN",
+	"Contact Number": "64521521",
+	"Contact Designation": "CENTRE DIRECTOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1300,
+			"Fee with GST": 1300
+		},
+		{
+			"Age From": "3 year(s) 11 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1300,
+			"Fee with GST": 1300
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 735,
+			"Fee with GST": 735
+		},
+		{
+			"Age From": "3 year(s) 11 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 915,
+			"Fee with GST": 915
+		},
+		{
+			"Age From": "3 year(s) 11 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 765,
+			"Fee with GST": 765
+		},
+		{
+			"Age From": "6 year(s) 11 month(s)",
+			"Age To": "9 year(s) 11 month(s)",
+			"Service Type": "Student Care Service (PM)",
+			"Fee without GST": 500,
+			"Fee with GST": 500
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child FC1-12 to 24 hrs/wk",
+			"Fee without GST": 580,
+			"Fee with GST": 580
+		}
+	]
+}

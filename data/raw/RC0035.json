@@ -1,0 +1,67 @@
+{
+	"Centre Code": "RC0035",
+	"Centre Name": "GRACE CHILD DEVELOPMENT CENTRE",
+	"Centre Branch": "RC GRACE CDC",
+	"Address": "19, Compassvale Walk, #03 - 00, Fu Hui Link, SINGAPORE 544644",
+	"Telephone": "67158874",
+	"Fax": "63877887",
+	"Web Site": "www.sbws.org.sg",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "VENERABLE KUAN YAN",
+	"Contact Number": "64898161",
+	"Contact Designation": "PRESIDENT",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "Yes",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "To",
+			"PM": "To To"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "To",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 835,
+			"Fee with GST": 835
+		},
+		{
+			"Age From": "2 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 835,
+			"Fee with GST": 835
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1495.33,
+			"Fee with GST": 1495.33
+		}
+	]
+}

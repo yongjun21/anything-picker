@@ -1,0 +1,186 @@
+{
+	"Centre Code": "ST0008",
+	"Centre Name": "PCF SPARKLETOTS PRESCHOOL @ PUNGGOL EAST BLK 194 (CC)",
+	"Centre Branch": "PCF PUNGGOL EAST",
+	"Address": "194, RIVERVALE DRIVE, #01 - 771, SINGAPORE 540194",
+	"Telephone": "63120175",
+	"Fax": "63120176",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "Victor Bay Swee Huat",
+	"Contact Number": "62444600",
+	"Contact Designation": "CEO",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "Yes",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 866.17,
+			"Fee with GST": 866.17
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 721.78,
+			"Fee with GST": 721.78
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 577.48,
+			"Fee with GST": 577.48
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 743.27,
+			"Fee with GST": 743.27
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 346.45,
+			"Fee with GST": 346.45
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 432.99,
+			"Fee with GST": 432.99
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 519.63,
+			"Fee with GST": 519.63
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 743.27,
+			"Fee with GST": 743.27
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 519.63,
+			"Fee with GST": 519.63
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 432.99,
+			"Fee with GST": 432.99
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 346.45,
+			"Fee with GST": 346.45
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1652.99,
+			"Fee with GST": 1652.99
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1377.48,
+			"Fee with GST": 1377.48
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1101.96,
+			"Fee with GST": 1101.96
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day AM",
+			"Fee without GST": 891.96,
+			"Fee with GST": 891.96
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day AM",
+			"Fee without GST": 594.67,
+			"Fee with GST": 594.67
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day AM",
+			"Fee without GST": 743.28,
+			"Fee with GST": 743.28
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day PM",
+			"Fee without GST": 891.96,
+			"Fee with GST": 891.96
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day PM",
+			"Fee without GST": 743.28,
+			"Fee with GST": 743.28
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day PM",
+			"Fee without GST": 594.67,
+			"Fee with GST": 594.67
+		}
+	]
+}

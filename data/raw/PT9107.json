@@ -1,0 +1,88 @@
+{
+	"Centre Code": "PT9107",
+	"Centre Name": "TWINKLEKIDZ PLAYHOUSE PTE. LTD.",
+	"Centre Branch": "PT TWINKLEKIDZ PLAYHOUSE",
+	"Address": "11, LORONG 3 TOA PAYOH, #01 - 18, JACKSON SQUARE, SINGAPORE 319579",
+	"Telephone": "62580125",
+	"Fax": "62582561",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "12 months",
+	"Centre Details": "",
+	"Contact Person": "KOH AIK CHOK",
+	"Contact Number": "62580125",
+	"Contact Designation": "DIRECTOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1350,
+			"Fee with GST": 1350
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 1050,
+			"Fee with GST": 1050
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 1050,
+			"Fee with GST": 1050
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1680,
+			"Fee with GST": 1680
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day AM",
+			"Fee without GST": 1280,
+			"Fee with GST": 1280
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day PM",
+			"Fee without GST": 1280,
+			"Fee with GST": 1280
+		}
+	]
+}

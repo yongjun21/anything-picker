@@ -1,0 +1,109 @@
+{
+	"Centre Code": "PT9097",
+	"Centre Name": "ISMART MONTESSORI",
+	"Centre Branch": "PT ISMART",
+	"Address": "256, BANGKIT ROAD, #02 - 73, SINGAPORE 670256",
+	"Telephone": "68779158",
+	"Fax": "",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "PATRICK LEE YAM CHOON",
+	"Contact Number": "68779158",
+	"Contact Designation": "SOLE-PROPRIETOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "Yes",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1350,
+			"Fee with GST": 1350
+		},
+		{
+			"Age From": "4 year(s) 0 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1250,
+			"Fee with GST": 1250
+		},
+		{
+			"Age From": "5 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1150,
+			"Fee with GST": 1150
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 1015,
+			"Fee with GST": 1015
+		},
+		{
+			"Age From": "4 year(s) 0 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 940,
+			"Fee with GST": 940
+		},
+		{
+			"Age From": "5 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 865,
+			"Fee with GST": 865
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 1015,
+			"Fee with GST": 1015
+		},
+		{
+			"Age From": "4 year(s) 0 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 940,
+			"Fee with GST": 940
+		},
+		{
+			"Age From": "5 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 865,
+			"Fee with GST": 865
+		}
+	]
+}

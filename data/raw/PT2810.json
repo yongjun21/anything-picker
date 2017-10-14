@@ -1,0 +1,88 @@
+{
+	"Centre Code": "PT2810",
+	"Centre Name": "SHAWS CDLC @ BRADDELL HEIGHTS PTE LTD",
+	"Centre Branch": "PT SHAWS CDLC (LYNWOOD GROVE)",
+	"Address": "24, LYNWOOD GROVE, SINGAPORE 358666",
+	"Telephone": "63820314",
+	"Fax": "63820314",
+	"Web Site": "www.shaws.com.sg",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "Lucy Shaw",
+	"Contact Number": "63820314",
+	"Contact Designation": "SUPERVISOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "Yes",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "0 To 0",
+			"AM": "0 To 0",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1710.28,
+			"Fee with GST": 1710.28
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 1289.72,
+			"Fee with GST": 1289.72
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 1102.8,
+			"Fee with GST": 1102.8
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child FC1-12 to 24 hrs/wk",
+			"Fee without GST": 1196.26,
+			"Fee with GST": 1196.26
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child FC1-12 to 24 hrs/wk",
+			"Fee without GST": 1009.35,
+			"Fee with GST": 1009.35
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child FC3- Above 36 to 48 hrs/wk",
+			"Fee without GST": 1635.51,
+			"Fee with GST": 1635.51
+		}
+	]
+}

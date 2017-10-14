@@ -1,0 +1,60 @@
+{
+	"Centre Code": "PT8462",
+	"Centre Name": "THE LITTLE SKOOL-HOUSE INTERNATIONAL PTE LTD",
+	"Centre Branch": "THE LITTLE SKOOL-HSE (AMK HUB)",
+	"Address": "53, ANG MO KIO AVENUE 3, #03 - 22, SINGAPORE 569933",
+	"Telephone": "68538131",
+	"Fax": "67529434",
+	"Web Site": "www.littleskoolhouse.com",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "Jocelyn Lim",
+	"Contact Number": "68538131",
+	"Contact Designation": "VICE-PRINCIPAL",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1450,
+			"Fee with GST": 1450
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 16.82,
+			"Fee with GST": 16.82
+		}
+	]
+}

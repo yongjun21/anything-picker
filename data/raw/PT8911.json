@@ -1,0 +1,88 @@
+{
+	"Centre Code": "PT8911",
+	"Centre Name": "CARPE DIEM @ ITE PTE. LTD.",
+	"Centre Branch": "CARPE DIEM @ITE AMK",
+	"Address": "2, ANG MO KIO DRIVE, #01 - 07, ITE COLLEGE CENTRAL, SINGAPORE 567720",
+	"Telephone": "67527317",
+	"Fax": "",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "At Cape Diem @ ITE, we provide inviting, interacting and stimulating environment for your child, inspiring him/her to enjoy learning and be a lifelong learner.\n\nOur 8 unique learning centres are filled with a wide variety of fun learning resources,encouraging your child to explore, discover and participate in hands-on activities. Every learning centre fosters the development of each intelligence which provides your child opportunities to develop his/her strength. Our team of qualified teachers are passionate, trained and experienced to teach and nuture your child with love and care.\n\nWe firmly believe in fostering a strong parental partnership through communicating, engaging and involving you in our school activities and events. This partnership is important for your child's development and progress.",
+	"Contact Person": "TAN KIAH HUI",
+	"Contact Number": "67527317",
+	"Contact Designation": "DIRECTOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "0 To 0",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 980,
+			"Fee with GST": 980
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 800,
+			"Fee with GST": 800
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 600,
+			"Fee with GST": 600
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 780,
+			"Fee with GST": 780
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 600,
+			"Fee with GST": 600
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 780,
+			"Fee with GST": 780
+		}
+	]
+}

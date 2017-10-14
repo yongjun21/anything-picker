@@ -1,0 +1,95 @@
+{
+	"Centre Code": "PT9180",
+	"Centre Name": "SAFARI HOUSE PRESCHOOL BT TIMAH",
+	"Centre Branch": "SAFARI HOUSE BT TIMAH",
+	"Address": "170, UPPER BUKIT TIMAH ROAD, #B2 - 19, BUKIT TIMAH SHOPPING CENTRE, SINGAPORE 588179",
+	"Telephone": "64620238",
+	"Fax": "",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "VINCENT TEOH EWE SAIK",
+	"Contact Number": "68968771",
+	"Contact Designation": "MANAGER",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "No",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1400",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 800,
+			"Fee with GST": 800
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 600,
+			"Fee with GST": 600
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 600,
+			"Fee with GST": 600
+		},
+		{
+			"Age From": "7 year(s) 0 month(s)",
+			"Age To": "13 year(s) 11 month(s)",
+			"Service Type": "Student Care Service (PM)",
+			"Fee without GST": 550,
+			"Fee with GST": 550
+		},
+		{
+			"Age From": "0 year(s) 3 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1400,
+			"Fee with GST": 1400
+		},
+		{
+			"Age From": "0 year(s) 3 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day AM",
+			"Fee without GST": 1000,
+			"Fee with GST": 1000
+		},
+		{
+			"Age From": "0 year(s) 3 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day PM",
+			"Fee without GST": 1000,
+			"Fee with GST": 1000
+		}
+	]
+}

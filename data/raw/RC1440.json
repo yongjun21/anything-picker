@@ -1,0 +1,67 @@
+{
+	"Centre Code": "RC1440",
+	"Centre Name": "TAI PEI CHILD CARE CENTRE",
+	"Centre Branch": "RC TAIPEI",
+	"Address": "2, LAVENDER STREET, SINGAPORE 338823",
+	"Telephone": "62986255",
+	"Fax": "62912562",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "Chia Soey Moey",
+	"Contact Number": "62986255",
+	"Contact Designation": "UNAVAILABLE",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "Yes",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1400",
+			"PM": "To 1400 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "2 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 660,
+			"Fee with GST": 660
+		},
+		{
+			"Age From": "2 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 450,
+			"Fee with GST": 450
+		},
+		{
+			"Age From": "2 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 450,
+			"Fee with GST": 450
+		}
+	]
+}

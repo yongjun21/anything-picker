@@ -1,0 +1,60 @@
+{
+	"Centre Code": "PT9218",
+	"Centre Name": "ACTIVE LEARNERS CHILD CARE PRIVATE LIMITED",
+	"Centre Branch": "PT ACTIVE LEARNERS PL",
+	"Address": "306A, WOODLANDS STREET 31, #03 - 03, SINGAPORE 731306",
+	"Telephone": "63630631",
+	"Fax": "",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "YONG CHONG TIN ANGELA",
+	"Contact Number": "63630631",
+	"Contact Designation": "DRT",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "Yes",
+		"Tamil": "Yes",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "2 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 750,
+			"Fee with GST": 750
+		},
+		{
+			"Age From": "2 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 900,
+			"Fee with GST": 900
+		}
+	]
+}

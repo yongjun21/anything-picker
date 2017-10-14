@@ -1,0 +1,102 @@
+{
+	"Centre Code": "PT8352",
+	"Centre Name": "SUNSHINE KIDS EDUCARE PRIVATE LIMITED",
+	"Centre Branch": "PT SUNSHINE KIDS EDUCARE",
+	"Address": "321, HOUGANG AVENUE 5, #01 - 38, SINGAPORE 530321",
+	"Telephone": "62831892",
+	"Fax": "62839973",
+	"Web Site": "www.sunshinekidseducare.com",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "6 months",
+	"Centre Details": "",
+	"Contact Person": "Ang Ann Na",
+	"Contact Number": "62831892",
+	"Contact Designation": "CENTRE MANAGER",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 800,
+			"Fee with GST": 800
+		},
+		{
+			"Age From": "4 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 800,
+			"Fee with GST": 800
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 595,
+			"Fee with GST": 595
+		},
+		{
+			"Age From": "4 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 595,
+			"Fee with GST": 595
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 595,
+			"Fee with GST": 595
+		},
+		{
+			"Age From": "4 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 595,
+			"Fee with GST": 595
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child FC1-12 to 24 hrs/wk",
+			"Fee without GST": 280,
+			"Fee with GST": 280
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 80,
+			"Fee with GST": 80
+		}
+	]
+}

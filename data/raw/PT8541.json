@@ -1,0 +1,137 @@
+{
+	"Centre Code": "PT8541",
+	"Centre Name": "CHERIE HEARTS KIDS-AT-PLAY PTE. LTD.",
+	"Centre Branch": "CHERIE HEARTS KIDS-AT-PLAY",
+	"Address": "34, WESTLAKE AVENUE, WEST LAKE GARDEN, SINGAPORE 574245",
+	"Telephone": "63524889",
+	"Fax": "62565477",
+	"Web Site": "www.cherieheartskidsatplay.com.sg",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "Cherie Hearts Group of AWARD WINNING Childcare Centres is an alliance of companies with broad experience in the provision of quality & innovative early childhood education. Cherie Hearts believes in providing quality one-stop education services that grooms the  P hysical, Intellectual, Emotional & Social (PIES) Developments of the children so that parents can spend quality time with their child after office hours, thus nurturing quality family time.\n\nThe founders of Cherie Hearts firmly believe in providing quality care for our little Cherians.\n\nHence Touching Hearts, Moulding Lives.",
+	"Contact Person": "KNG ELAINE",
+	"Contact Number": "98232765",
+	"Contact Designation": "DIRECTOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1930",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1930"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 0 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1080,
+			"Fee with GST": 1080
+		},
+		{
+			"Age From": "3 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1080,
+			"Fee with GST": 1080
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 0 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 850,
+			"Fee with GST": 850
+		},
+		{
+			"Age From": "3 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 850,
+			"Fee with GST": 850
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 0 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 850,
+			"Fee with GST": 850
+		},
+		{
+			"Age From": "3 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 850,
+			"Fee with GST": 850
+		},
+		{
+			"Age From": "7 year(s) 0 month(s)",
+			"Age To": "12 year(s) 11 month(s)",
+			"Service Type": "Student Care Service (AM)",
+			"Fee without GST": 510,
+			"Fee with GST": 510
+		},
+		{
+			"Age From": "7 year(s) 0 month(s)",
+			"Age To": "12 year(s) 11 month(s)",
+			"Service Type": "Student Care Service (PM)",
+			"Fee without GST": 510,
+			"Fee with GST": 510
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child FC1-12 to 24 hrs/wk",
+			"Fee without GST": 510,
+			"Fee with GST": 510
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "12 year(s) 11 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 60,
+			"Fee with GST": 60
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1500,
+			"Fee with GST": 1500
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day AM",
+			"Fee without GST": 1100,
+			"Fee with GST": 1100
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day PM",
+			"Fee without GST": 1100,
+			"Fee with GST": 1100
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"Centre Code": "PT4130",
+	"Centre Name": "BEARRINGTON CHILD CARE AND DEVELOPMENT CENTRE",
+	"Centre Branch": "PT BEARRINGTON",
+	"Address": "205A, COMPASSVALE LANE, #01 - 39, SINGAPORE 541205",
+	"Telephone": "63847717",
+	"Fax": "",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "12 months",
+	"Centre Details": "Food served with no pork and no lard",
+	"Contact Person": "Chong Ai Guan",
+	"Contact Number": "63847717",
+	"Contact Designation": "SUPERVISOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "Yes",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "To",
+			"PM": "To To"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "To",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": " ",
+			"Age To": " ",
+			"Service Type": "",
+			"Fee without GST": 0,
+			"Fee with GST": 0
+		}
+	]
+}

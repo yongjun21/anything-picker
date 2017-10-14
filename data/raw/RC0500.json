@@ -1,0 +1,88 @@
+{
+	"Centre Code": "RC0500",
+	"Centre Name": "NOAH'S ARK CHILDCARE & DEVELOPMENT CENTRE",
+	"Centre Branch": "RC NOAH'S ARK",
+	"Address": "439, FAJAR ROAD, #01 - 422, SINGAPORE 670439",
+	"Telephone": "67632115",
+	"Fax": "67636952",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "12 months",
+	"Centre Details": "Your child deserves the best! Quality childcare and education is the best investment to your child's future! At Noah's Ark CCDC, we believe in giving the best to your child. We provide dedicated and caring teachers to meet the developmental and educational needs of your child. We aim at enhancing the growth of young children by providing a developmentally appropriate program with challenging activities and teaching methods rich in love and understanding. We help our children feel successful by allowing them to experience at their own pace. Dedicated and trained teachers encourage children to explore the world around them to understand and feel good about themselves and to learn to care for the people around them.",
+	"Contact Person": "Juliana Geetha d/o David Karennayer",
+	"Contact Number": "67632115",
+	"Contact Designation": "PRINCIPAL",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "Pork - Char Siew, chicken etc."
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "1 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 900,
+			"Fee with GST": 900
+		},
+		{
+			"Age From": "2 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 900,
+			"Fee with GST": 900
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "1 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 550,
+			"Fee with GST": 550
+		},
+		{
+			"Age From": "2 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 550,
+			"Fee with GST": 550
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "1 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 550,
+			"Fee with GST": 550
+		},
+		{
+			"Age From": "2 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 550,
+			"Fee with GST": 550
+		}
+	]
+}

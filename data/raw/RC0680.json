@@ -1,0 +1,102 @@
+{
+	"Centre Code": "RC0680",
+	"Centre Name": "KIDDY CAMPUS",
+	"Centre Branch": "RC PERTAPIS (EUNOS)",
+	"Address": "17, EUNOS CRESCENT, #01 - 2865, SINGAPORE 400017",
+	"Telephone": "67481553",
+	"Fax": "67481553",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "RAFEAH ABD AZIZ",
+	"Contact Number": "67481553",
+	"Contact Designation": "SUPERVISOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "Yes",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "To",
+			"PM": "To To"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 0 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 660,
+			"Fee with GST": 660
+		},
+		{
+			"Age From": "2 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 660,
+			"Fee with GST": 660
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 460,
+			"Fee with GST": 460
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 460,
+			"Fee with GST": 460
+		},
+		{
+			"Age From": "7 year(s) 0 month(s)",
+			"Age To": "11 year(s) 11 month(s)",
+			"Service Type": "Student Care Service (AM)",
+			"Fee without GST": 250,
+			"Fee with GST": 250
+		},
+		{
+			"Age From": "7 year(s) 0 month(s)",
+			"Age To": "11 year(s) 11 month(s)",
+			"Service Type": "Student Care Service (PM)",
+			"Fee without GST": 250,
+			"Fee with GST": 250
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "1 year(s) 11 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 37.38,
+			"Fee with GST": 37.38
+		},
+		{
+			"Age From": "2 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 37.38,
+			"Fee with GST": 37.38
+		}
+	]
+}

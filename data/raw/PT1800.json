@@ -1,0 +1,74 @@
+{
+	"Centre Code": "PT1800",
+	"Centre Name": "PAT'S SCHOOLHOUSE PTE. LTD.",
+	"Centre Branch": "PT PAT'S SCHOOLHOUSE (BUCKLEY",
+	"Address": "7, BUCKLEY ROAD, SINGAPORE 309763",
+	"Telephone": "62567404",
+	"Fax": "62561498",
+	"Web Site": "www.patschoolhouse.com",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "NATALIE LIM",
+	"Contact Number": "86682505",
+	"Contact Designation": "PRINCIPAL",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "Yes",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "730 To 1830",
+			"AM": "730 To 1300",
+			"PM": "To 1300 To 1830"
+		},
+		"Saturday": {
+			"Full Day": "730 To 1400",
+			"AM": "730 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1930,
+			"Fee with GST": 1930
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 1500,
+			"Fee with GST": 1500
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 1130,
+			"Fee with GST": 1130
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child FC4- Above 48hrs/wk or more",
+			"Fee without GST": 1620,
+			"Fee with GST": 1620
+		}
+	]
+}

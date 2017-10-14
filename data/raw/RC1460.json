@@ -1,0 +1,53 @@
+{
+	"Centre Code": "RC1460",
+	"Centre Name": "MARINE PARADE - ASPIRATION CHILD CARE CENTRE",
+	"Centre Branch": "RC ASPIRATION MARINE PARADE",
+	"Address": "201, BEDOK NORTH ST 1, #01 - 545, SINGAPORE 460201",
+	"Telephone": "64411086",
+	"Fax": "64411358",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "12 months",
+	"Centre Details": "",
+	"Contact Person": "Kelly",
+	"Contact Number": "94874423",
+	"Contact Designation": "CENTRE MANAGER",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "Yes",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "To",
+			"PM": "To To"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "To",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 610,
+			"Fee with GST": 610
+		}
+	]
+}

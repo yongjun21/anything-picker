@@ -1,0 +1,109 @@
+{
+	"Centre Code": "ST0059",
+	"Centre Name": "PCF SPARKLETOTS PRESCHOOL @ KEAT HONG BLK 353 (CC)",
+	"Centre Branch": "SPARKLETOTS KEAT HONG BLK 353",
+	"Address": "353, CHOA CHU KANG CENTRAL, #01 - 313, SINGAPORE 680353",
+	"Telephone": "67636803",
+	"Fax": "",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "Victor Bay Swee Huat",
+	"Contact Number": "62444600",
+	"Contact Designation": "CEO",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 956.73,
+			"Fee with GST": 956.73
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 637.85,
+			"Fee with GST": 637.85
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 789.72,
+			"Fee with GST": 789.72
+		},
+		{
+			"Age From": "2 year(s) 7 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 606.45,
+			"Fee with GST": 606.45
+		},
+		{
+			"Age From": "2 year(s) 7 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 750.84,
+			"Fee with GST": 750.84
+		},
+		{
+			"Age From": "2 year(s) 7 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 909.63,
+			"Fee with GST": 909.63
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1817.76,
+			"Fee with GST": 1817.76
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1500.47,
+			"Fee with GST": 1500.47
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1211.87,
+			"Fee with GST": 1211.87
+		}
+	]
+}

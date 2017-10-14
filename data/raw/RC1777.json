@@ -1,0 +1,53 @@
+{
+	"Centre Code": "RC1777",
+	"Centre Name": "BETHEL TOTS CENTRE",
+	"Centre Branch": "BETHEL TOTS CENTRE",
+	"Address": "100, ALJUNIED CRESCENT, #01 - 369, SINGAPORE 380100",
+	"Telephone": "68418762",
+	"Fax": "",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "CHIA BENG HOCK",
+	"Contact Number": "67412741",
+	"Contact Designation": "CHAIRMAN",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "No",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "0 To 0",
+			"AM": "0 To 0",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1200,
+			"Fee with GST": 1200
+		}
+	]
+}

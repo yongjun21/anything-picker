@@ -1,0 +1,88 @@
+{
+	"Centre Code": "PT9130",
+	"Centre Name": "MINDCHAMPS PRESCHOOL @JUNCTION 10 PTE LIMITED",
+	"Centre Branch": "MINDCHAMPS @JUNCTION 10",
+	"Address": "1, WOODLANDS ROAD, #02 - 15, THE TENNERY, SINGAPORE 677899",
+	"Telephone": "67672381",
+	"Fax": "",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "CHAY KIN MUN GAVIN",
+	"Contact Number": "67672381",
+	"Contact Designation": "DIRECTOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "Yes",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1840,
+			"Fee with GST": 1840
+		},
+		{
+			"Age From": "2 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1740,
+			"Fee with GST": 1740
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 1640,
+			"Fee with GST": 1640
+		},
+		{
+			"Age From": "2 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 1540,
+			"Fee with GST": 1540
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 1640,
+			"Fee with GST": 1640
+		},
+		{
+			"Age From": "2 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 1540,
+			"Fee with GST": 1540
+		}
+	]
+}

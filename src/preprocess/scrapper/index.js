@@ -2,111 +2,126 @@ import fs from 'fs'
 import axios from 'axios'
 import cheerio from 'cheerio'
 import {ThrottledQueue} from '../../helpers/util'
+import {cleanWhiteSpace} from '../../helpers/text'
 
-import {clinic as clinicList} from '../../../data/clinicList.json'
+import data from '../../../data/childcare.json'
 
 const queue = new ThrottledQueue(100)
 const debug = []
-const jobs = clinicList.slice(0, 10)
-  .map((id, i) => queue.push(fetchClinicInfo, id, clinicList.length - i))
+const urls = data.slice(0, 10).map(f => f.properties.HYPERLINK)
+const jobs = urls
+  .map(url => url.slice(-6))
+  .map((id, i) => queue.push(fetchCenterInfo, id, urls.length - i))
 
 Promise.all(jobs).then(() => {
   if (debug.length > 0) console.log('Unsuccessfull:', debug)
 })
 
-function fetchClinicInfo (id, k) {
+function fetchCenterInfo (id, k) {
   if (k % 100 === 0) console.log(k)
   return axios({
     method: 'get',
-    url: 'http://hcidirectory.sg/hcidirectory/clinic.do',
-    params: {
-      pkId: id,
-      task: 'view'
-    },
+    url: 'https://www.childcarelink.gov.sg/ccls/chdcentpart/ChdCentPartLnk.jsp',
+    params: {centreCd: id},
     responseType: 'text'
-  }).then(res => cheerio.load(res.data))
-    .then(parseClinicInfo)
-    .then(result => {
-      fs.writeFile(`data/raw/${id}.json`, JSON.stringify(result, null, '\t'))
+  }).then(res => {
+    const Cookie = res.headers['set-cookie'][0].match(/JSESSIONID=.*?;/)[0]
+    return axios({
+      method: 'get',
+      url: 'https://www.childcarelink.gov.sg/ccls/chdcentpart/ChdCentPartLst.jsp',
+      params: {centreCd: id},
+      headers: {
+        'Cookie': Cookie,
+        'Referer': 'https://www.childcarelink.gov.sg/ccls/chdcentpart/ChdCentPartLnk.jsp?centreCd=' + id
+      },
+      responseType: 'text'
     })
+  }).then(res => cheerio.load(res.data))
+    .then(parseCenterInfo)
+    .then(result => fs.writeFile(`data/raw/${id}.json`, JSON.stringify(result, null, '\t')))
     .catch(err => {
       debug.push(id)
-      console.error(err)
+      console.error(err.message)
     })
 }
 
-function parseClinicInfo ($) {
+function parseCenterInfo ($) {
   const result = {}
-  result.name = $('.left_col > h1').text().trim()
 
-  const first3rows = $('.left_col > table').first().find('tr')
-  try {
-    result.tel = first3rows.eq(0).find('td').eq(0).html().match(/(\d{8})/)[1]
-    result.fax = first3rows.eq(1).find('td').eq(0).html().match(/(\d{8})/)[1]
-  } catch (err) {
-    // ignore
-  }
-  result.licensee = first3rows.eq(0).find('td').eq(2).text().trim()
-  result.licensePeriod = first3rows.eq(1).find('td').eq(2).contents()[0].data.trim()
-  result.licenseClass = first3rows.eq(1).find('td').eq(2).children('a').text()
-  result.hciCode = first3rows.eq(2).find('td').eq(2).text().trim()
+  const $content = $('body > table > tbody > tr').eq(1)
+  const $particulars = $content.find('table').first()
+  const $otherTables = $('table.DETableWithBorder')
+  const $contact = $otherTables.last()
 
-  result.address = $('.address p').contents()
-    .filter((i, e) => e.type === 'text')
-    .map((i, e) => e.data.trim().replace(/\s\s+/g, ' ')).get()
-    .join(', ')
+  $particulars.find('tr').slice(2).each(function () {
+    const $row = $(this).children()
+    const key = $row.first().text().trim()
+    const value = $row.last().text().trim()
+    result[key] = value
+  })
 
-  $('.heading').each(function () {
-    if ($(this).children('h2').text().match(/In Charge$/i)) {
-      result.doctorInCharge = []
-      $(this).next('table').find('tr').slice(1)
-        .each(function () {
-          const doctor = {}
-          const $tds = $(this).children()
-          doctor.name = $tds.eq(0).text().trim()
-          doctor.qualifications = $tds.eq(1).children('li').map((i, e) => $(e).text()).get()
-          doctor.specialties = $tds.eq(2).children('li').map((i, e) => $(e).text()).get()
-          doctor.specialties = doctor.specialties.filter(v => v.length > 0)
-          result.doctorInCharge.push(doctor)
-        })
-    } else if ($(this).children('h2').text() === 'Details of Services') {
-      result.detailedServices = {}
-      $(this).next('table').find('td').contents()
-        .filter((i, e) => e.type === 'text' && e.data.trim().length > 0)
-        .each(function () {
-          const key = this.data.trim()
-          if (key === 'General Medical' || key === 'General Dental') {
-            result.detailedServices[key] = true
-          } else {
-            const value = []
-            $(this).nextAll('ul').eq(0).children().each((i, e) => {
-              value.push($(e).text())
-            })
-            result.detailedServices[key] = value
-          }
-        })
-    } else if ($(this).children('h2').text() === 'Special Services approved by MOH') {
-      result.mohApprovedSpecialServices = []
-      $(this).next('table').find('td').contents()
-        .filter((i, e) => e.type === 'text' && e.data.trim().length > 0)
-        .each((i, e) => {
-          result.mohApprovedSpecialServices.push(e.data.trim())
-        })
-    } else if ($(this).children('h2').text() === 'Programmes') {
-      result.programmes = []
-      $(this).next('table').find('td').children('a')
-        .each((i, e) => {
-          result.programmes.push($(e).text())
-        })
-    } else if ($(this).children('h2').text() === 'Operating Hours') {
+  $contact.find('tr').slice(1).each(function () {
+    const $row = $(this).children()
+    const key = $row.first().text().trim()
+    const value = cleanWhiteSpace($row.last().text())
+    result[key] = value
+  })
+
+  $otherTables.each(function () {
+    const $table = $(this)
+    const title = $table.prev().text().trim()
+    if (title === 'Food') {
+      result.food = {}
+      $table.find('tr').slice(1).each(function () {
+        const $row = $(this).children()
+        const key = $row.first().text().trim()
+        const value = cleanWhiteSpace($row.last().text())
+        result.food[key] = value
+      })
+    } else if (title === 'Mother Tongue Offered') {
+      result.motherTongue = {}
+      $table.find('tr').slice(1).each(function () {
+        const $row = $(this).children()
+        const key = $row.first().text().trim()
+        const value = cleanWhiteSpace($row.last().text())
+        result.motherTongue[key] = value
+      })
+    } else if (title === 'Operating Hours') {
       result.operatingHours = {}
-      const operatingHours = $(this).next('table').find('td').contents()
-      operatingHours.each((i, e) => {
-        if (e.name !== 'strong') return
-        const $e = $(e)
-        const key = $e.text()
-        const value = operatingHours[i + 1].data.slice(2).trim()
-        result.operatingHours[key] = value
+      $table.find('tr').slice(1).each(function () {
+        const $row = $(this).children()
+        const key = $row.first().text().trim()
+        const fullDay = cleanWhiteSpace($row.eq(1).text())
+        const am = cleanWhiteSpace($row.eq(2).text())
+        const pm = cleanWhiteSpace($row.eq(3).text())
+        result.operatingHours[key] = {
+          'Full Day': fullDay,
+          'AM': am,
+          'PM': pm
+        }
+      })
+    } else if (title === 'Type Of Services') {
+      result.services = []
+      $table.find('tr').slice(2).each(function () {
+        const $row = $(this).children()
+        const ageFrom = [
+          cleanWhiteSpace($row.eq(1).text()),
+          cleanWhiteSpace($row.eq(2).text())
+        ].join(' ')
+        const ageTo = [
+          cleanWhiteSpace($row.eq(3).text()),
+          cleanWhiteSpace($row.eq(4).text())
+        ].join(' ')
+        const type = cleanWhiteSpace($row.eq(5).text())
+        const fee = +cleanWhiteSpace($row.eq(6).text())
+        const feeWithGST = +cleanWhiteSpace($row.eq(6).text())
+        result.services.push({
+          'Age From': ageFrom,
+          'Age To': ageTo,
+          'Service Type': type,
+          'Fee without GST': fee,
+          'Fee with GST': feeWithGST
+        })
       })
     }
   })

@@ -1,0 +1,102 @@
+{
+	"Centre Code": "ST0030",
+	"Centre Name": "PCF SPARKLETOTS PRESCHOOL @ HONG KAH NORTH BLK 419 (CC)",
+	"Centre Branch": "RC SPARKLETOTS (HKN BLK 419)",
+	"Address": "419, BUKIT BATOK WEST AVENUE 2, #01 - 225, SINGAPORE 650419",
+	"Telephone": "65665185",
+	"Fax": "65644098",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "Victor Bay Swee Huat",
+	"Contact Number": "62444600",
+	"Contact Designation": "CEO",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 685.61,
+			"Fee with GST": 685.61
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 520.09,
+			"Fee with GST": 520.09
+		},
+		{
+			"Age From": "2 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 548.5,
+			"Fee with GST": 548.5
+		},
+		{
+			"Age From": "2 year(s) 7 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 650.09,
+			"Fee with GST": 650.09
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 306.17,
+			"Fee with GST": 306.17
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 386.26,
+			"Fee with GST": 386.26
+		},
+		{
+			"Age From": "2 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 309.07,
+			"Fee with GST": 309.07
+		},
+		{
+			"Age From": "2 year(s) 7 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 382.71,
+			"Fee with GST": 382.71
+		}
+	]
+}

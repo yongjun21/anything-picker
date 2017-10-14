@@ -1,0 +1,144 @@
+{
+	"Centre Code": "ST0060",
+	"Centre Name": "PCF SPARKLETOTS PRESCHOOL @ BUKIT BATOK EAST BLK 271 (CC)",
+	"Centre Branch": "PCF LITTLE WINGS @ TOH GUAN",
+	"Address": "271, TOH GUAN ROAD, #01 - 111, SINGAPORE 600271",
+	"Telephone": "66651352",
+	"Fax": "65679108",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "Victor Bay Swee Huat",
+	"Contact Number": "62444600",
+	"Contact Designation": "CEO",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 0 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 689.81,
+			"Fee with GST": 689.81
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 0 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 862.24,
+			"Fee with GST": 862.24
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 0 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1034.67,
+			"Fee with GST": 1034.67
+		},
+		{
+			"Age From": "3 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 628.04,
+			"Fee with GST": 628.04
+		},
+		{
+			"Age From": "3 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 785.05,
+			"Fee with GST": 785.05
+		},
+		{
+			"Age From": "3 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 942.06,
+			"Fee with GST": 942.06
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 0 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 520.09,
+			"Fee with GST": 520.09
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 0 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 780.09,
+			"Fee with GST": 780.09
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 0 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 650.09,
+			"Fee with GST": 650.09
+		},
+		{
+			"Age From": "3 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 592.34,
+			"Fee with GST": 592.34
+		},
+		{
+			"Age From": "3 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 473.93,
+			"Fee with GST": 473.93
+		},
+		{
+			"Age From": "3 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 710.84,
+			"Fee with GST": 710.84
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 0 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 520.09,
+			"Fee with GST": 520.09
+		},
+		{
+			"Age From": "3 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 473.93,
+			"Fee with GST": 473.93
+		}
+	]
+}

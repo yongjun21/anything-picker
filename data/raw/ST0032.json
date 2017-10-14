@@ -1,0 +1,102 @@
+{
+	"Centre Code": "ST0032",
+	"Centre Name": "PCF SPARKLETOTS PRESCHOOL @ TAMPINES-CHANGKAT BLK 112 (CC)",
+	"Centre Branch": "RC SPARKLETOTS (CK Blk 112)",
+	"Address": "112, TAMPINES STREET 11, #01 - 185, SINGAPORE 521112",
+	"Telephone": "67871130",
+	"Fax": "67873582",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "Full day Fees for PR and Non citizen are $567 and $819 respectively.",
+	"Contact Person": "Victor Bay Swee Huat",
+	"Contact Number": "62444600",
+	"Contact Designation": "CEO",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "7 year(s) 0 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 803.64,
+			"Fee with GST": 803.64
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 535.79,
+			"Fee with GST": 535.79
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "7 year(s) 0 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 669.72,
+			"Fee with GST": 669.72
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 0,
+			"Fee with GST": 0
+		},
+		{
+			"Age From": "5 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 0,
+			"Fee with GST": 0
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 0,
+			"Fee with GST": 0
+		},
+		{
+			"Age From": "5 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 0,
+			"Fee with GST": 0
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 28.04,
+			"Fee with GST": 28.04
+		}
+	]
+}

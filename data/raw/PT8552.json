@@ -1,0 +1,95 @@
+{
+	"Centre Code": "PT8552",
+	"Centre Name": "KEY ELEMENTARY EDUHOUSE PTE LTD",
+	"Centre Branch": "PT KEY ELEMENTARY EDUHOUSE",
+	"Address": "262, BOON LAY DRIVE, #01 - 559, SINGAPORE 640262",
+	"Telephone": "67936686",
+	"Fax": "67901618",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "Beyond academic achievement, our aim is to nurture each child holistically. We strive to develop each individual child in their thinking and creative skills, and motivate them to become active and gracious learners. Our teaching method caters to children which forms the basic for lifelong learning; providing a secure environment that pays careful attention to their knowledge, skills, attitudes and manners.\nOur Core Values & Goal for the children are the four Es. \nEngagement � engaging children in learning through interesting, fun-filled and curiosity-arousing activity or play. \n\nExercise �exercise child�s mind power and stay mentally active.\n\nExploration � encourage children to explore and discover for themselves.\n\nEnvironmental Awareness � Acquiring right attitudes towards the world, show interest, care and respect for the environment.",
+	"Contact Person": "Catherine Yeo Chai Hoon",
+	"Contact Number": "98235743",
+	"Contact Designation": "FINANCE DIRECTOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 860,
+			"Fee with GST": 860
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 640,
+			"Fee with GST": 640
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 640,
+			"Fee with GST": 640
+		},
+		{
+			"Age From": "7 year(s) 0 month(s)",
+			"Age To": "12 year(s) 11 month(s)",
+			"Service Type": "Student Care Service (AM)",
+			"Fee without GST": 350,
+			"Fee with GST": 350
+		},
+		{
+			"Age From": "7 year(s) 0 month(s)",
+			"Age To": "12 year(s) 11 month(s)",
+			"Service Type": "Student Care Service (PM)",
+			"Fee without GST": 350,
+			"Fee with GST": 350
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child FC1-12 to 24 hrs/wk",
+			"Fee without GST": 380,
+			"Fee with GST": 380
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "12 year(s) 0 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 60,
+			"Fee with GST": 60
+		}
+	]
+}

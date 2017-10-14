@@ -1,0 +1,88 @@
+{
+	"Centre Code": "PT9161",
+	"Centre Name": "BRIGHTON MONTESSORI CENTRES PTE. LTD.",
+	"Centre Branch": "BM (GREAT WORLD CITY)",
+	"Address": "1, KIM SENG PROMENADE, #02 - 41A, GREAT WORLD CITY, SINGAPORE 237994",
+	"Telephone": "62351980",
+	"Fax": "",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "JUMMAIDA BTE RUSDON",
+	"Contact Number": "65017558",
+	"Contact Designation": "DIRECTOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "7 year(s) 0 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 2000,
+			"Fee with GST": 2000
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "7 year(s) 0 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 1500,
+			"Fee with GST": 1500
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "7 year(s) 0 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 1050,
+			"Fee with GST": 1050
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child FC3- Above 36 to 48 hrs/wk",
+			"Fee without GST": 1730,
+			"Fee with GST": 1730
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child FC3- Above 36 to 48 hrs/wk",
+			"Fee without GST": 1710,
+			"Fee with GST": 1710
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child FC3- Above 36 to 48 hrs/wk",
+			"Fee without GST": 1780,
+			"Fee with GST": 1780
+		}
+	]
+}

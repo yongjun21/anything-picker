@@ -1,0 +1,81 @@
+{
+	"Centre Code": "PT1270",
+	"Centre Name": "HIS LITTLE KINGDOM CHILD CARE & DEVELOPMENT CENTRE",
+	"Centre Branch": "PT HIS LITTLE KINGDOM",
+	"Address": "64, JALAN LENGKOK SEMBAWANG, SINGAPORE 759245",
+	"Telephone": "67551077",
+	"Fax": "67582973",
+	"Web Site": "www.hislittlekingdom.com",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "12 months",
+	"Centre Details": "HOURS OF OPERATION :\nMONDAY - FRIDAY : FULL DAY HRS - 0700 TO 1900\n             HALF DAY HRS (AM) - 0700 TO 0130\nSATURDAY        : FULL DAY HRS - 0700 TO 1400",
+	"Contact Person": "Mdm Susie Tan",
+	"Contact Number": "67551077",
+	"Contact Designation": "LICENCEE",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "Pork"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 5 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 900,
+			"Fee with GST": 900
+		},
+		{
+			"Age From": "2 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 850,
+			"Fee with GST": 850
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 700,
+			"Fee with GST": 700
+		},
+		{
+			"Age From": "2 year(s) 7 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 650,
+			"Fee with GST": 650
+		},
+		{
+			"Age From": "7 year(s) 0 month(s)",
+			"Age To": "12 year(s) 11 month(s)",
+			"Service Type": "Student Care Service (PM)",
+			"Fee without GST": 300,
+			"Fee with GST": 300
+		}
+	]
+}

@@ -1,0 +1,88 @@
+{
+	"Centre Code": "PT9166",
+	"Centre Name": "BLOSSOM GLITTERING CAMPUS PTE. LTD.",
+	"Centre Branch": "PT BLOSSOM GLITTERING CAMPUS",
+	"Address": "4, CRESCENT ROAD, SINGAPORE 439289",
+	"Telephone": "63463218",
+	"Fax": "",
+	"Web Site": "www.blossom.sg",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "Blossom Edugroup is a consortium of educational institutions that prides ourselves as providers of quality child care and pre-school education in Singapore since 2002.\n\nWe achieve this by continuously updating our comprehensive curriculum and developing innovative programme that is unique to Blossom.\n\nThe common curriculum, shared by all our childcare centres, is the outcome of discerning adaptation of research in contemporary educational practices and strategic adoption of technological advancements.",
+	"Contact Person": "Perlynn Fam",
+	"Contact Number": "63463218",
+	"Contact Designation": "GROUP PRINCIPAL",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1330",
+			"PM": "To 1330 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1550,
+			"Fee with GST": 1550
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 1240,
+			"Fee with GST": 1240
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 1240,
+			"Fee with GST": 1240
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child FC1-12 to 24 hrs/wk",
+			"Fee without GST": 950,
+			"Fee with GST": 950
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child FC3- Above 36 to 48 hrs/wk",
+			"Fee without GST": 1250,
+			"Fee with GST": 1250
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 90,
+			"Fee with GST": 90
+		}
+	]
+}

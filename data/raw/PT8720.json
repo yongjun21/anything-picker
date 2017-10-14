@@ -1,0 +1,88 @@
+{
+	"Centre Code": "PT8720",
+	"Centre Name": "TODDLERS' COTTAGE",
+	"Centre Branch": "TODDLERS' COTTAGE",
+	"Address": "118, ALJUNIED AVENUE 2, #03 - 102, SINGAPORE 380118",
+	"Telephone": "68414111",
+	"Fax": "",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "12 months",
+	"Centre Details": "",
+	"Contact Person": "VU THI HONG THUY",
+	"Contact Number": "68414111",
+	"Contact Designation": "MANAGER",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 898,
+			"Fee with GST": 898
+		},
+		{
+			"Age From": "2 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 798,
+			"Fee with GST": 798
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 688,
+			"Fee with GST": 688
+		},
+		{
+			"Age From": "2 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 588,
+			"Fee with GST": 588
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 688,
+			"Fee with GST": 688
+		},
+		{
+			"Age From": "2 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 588,
+			"Fee with GST": 588
+		}
+	]
+}

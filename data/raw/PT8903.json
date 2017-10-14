@@ -1,0 +1,81 @@
+{
+	"Centre Code": "PT8903",
+	"Centre Name": "LICDO PRESCHOOL TEAM PTE. LTD.",
+	"Centre Branch": "LICDO PRESCHOOL TEAM",
+	"Address": "2, THOMSON HILLS DRIVE, THOMSON HILLS ESTATE, SINGAPORE 574747",
+	"Telephone": "64594228",
+	"Fax": "",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "At LiCdo - \"Little Children Can do\" is our motto. \nEach child is special and stands ready to optimise their potential. Highly recommended by parents in a homely setting, LiCdo aims to develop your child holistically to believe in himself/herself and have a lifelong interest for discovery and learning. Located in a corner terrace house with private playground and garden near Teacher's Estate and next to Ang Mo Kio, we have low Teacher-Child ratio with Bilingual emphasis. We are the first pre-school in Singapore to incorporate LASY - Playing with Purpose in our Chinese curriculum. And Letterland Phonic is part of our English curriculum.  \nWe offers a range of optional enrichment programs like Sporty Bots, English Speech & Drama and Chinese Speech & Drama.",
+	"Contact Person": "ONG POH CHENG",
+	"Contact Number": "64594228",
+	"Contact Designation": "DIRECTOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1100,
+			"Fee with GST": 1100
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 930,
+			"Fee with GST": 930
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 930,
+			"Fee with GST": 930
+		},
+		{
+			"Age From": "7 year(s) 0 month(s)",
+			"Age To": "12 year(s) 11 month(s)",
+			"Service Type": "Student Care Service (PM)",
+			"Fee without GST": 550,
+			"Fee with GST": 550
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 60,
+			"Fee with GST": 60
+		}
+	]
+}

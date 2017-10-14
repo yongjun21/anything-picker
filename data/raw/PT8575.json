@@ -1,0 +1,116 @@
+{
+	"Centre Code": "PT8575",
+	"Centre Name": "DNC (EDUCATION) PTE. LTD.",
+	"Centre Branch": "PT DNC",
+	"Address": "11, TANJONG KATONG ROAD, #03 - 19 & 40, ONE KM, SINGAPORE 437157",
+	"Telephone": "64400859",
+	"Fax": "",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "12 months",
+	"Centre Details": "We are located on the third floor of OneKM Mall and have an outdoor area specially built and used by our preschool kids.\nWe are offering full day and half day child care programmes which include 5 different enrichment programmes for each day. Call us at 64400859 for more information.",
+	"Contact Person": "Jucelyn Ong",
+	"Contact Number": "64400859",
+	"Contact Designation": "CENTRE DIRECTOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "Yes",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 0 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1840,
+			"Fee with GST": 1840
+		},
+		{
+			"Age From": "3 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1740,
+			"Fee with GST": 1740
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 0 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 1640,
+			"Fee with GST": 1640
+		},
+		{
+			"Age From": "3 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 1540,
+			"Fee with GST": 1540
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 0 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 1640,
+			"Fee with GST": 1640
+		},
+		{
+			"Age From": "3 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 1540,
+			"Fee with GST": 1540
+		},
+		{
+			"Age From": "7 year(s) 0 month(s)",
+			"Age To": "13 year(s) 11 month(s)",
+			"Service Type": "Student Care Service (AM)",
+			"Fee without GST": 420.56,
+			"Fee with GST": 420.56
+		},
+		{
+			"Age From": "7 year(s) 1 month(s)",
+			"Age To": "14 year(s) 1 month(s)",
+			"Service Type": "Student Care Service (AM)",
+			"Fee without GST": 420.56,
+			"Fee with GST": 420.56
+		},
+		{
+			"Age From": "7 year(s) 0 month(s)",
+			"Age To": "13 year(s) 11 month(s)",
+			"Service Type": "Student Care Service (PM)",
+			"Fee without GST": 420.56,
+			"Fee with GST": 420.56
+		},
+		{
+			"Age From": "7 year(s) 1 month(s)",
+			"Age To": "14 year(s) 1 month(s)",
+			"Service Type": "Student Care Service (PM)",
+			"Fee without GST": 420.56,
+			"Fee with GST": 420.56
+		}
+	]
+}

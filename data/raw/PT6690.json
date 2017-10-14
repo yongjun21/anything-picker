@@ -1,0 +1,88 @@
+{
+	"Centre Code": "PT6690",
+	"Centre Name": "SHEFFIELD KIDSWORLD (CCK) PTE. LTD.",
+	"Centre Branch": "PT SHEFFIELD KIDSWORLD",
+	"Address": "433, CHOA CHU KANG AVE 4, #01 - 535, SINGAPORE 680433",
+	"Telephone": "67635193",
+	"Fax": "68942711",
+	"Web Site": "www.sheffieldkidsworld.com",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "Warm and conducive learning environment.Qualified,experienced and dedicated teachers.Interesting & stimulating programme:Language with Letterland phonics, English & Chinese reading programme, Internet Networking using Interactive Board and Computer as teaching aid and application and Pre-Primary preparatory programme.",
+	"Contact Person": "Naema",
+	"Contact Number": "67635193",
+	"Contact Designation": "PRINCIPAL",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "4 year(s) 0 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 830,
+			"Fee with GST": 830
+		},
+		{
+			"Age From": "4 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 830,
+			"Fee with GST": 830
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "4 year(s) 0 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 630,
+			"Fee with GST": 630
+		},
+		{
+			"Age From": "4 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 630,
+			"Fee with GST": 630
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "4 year(s) 0 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 630,
+			"Fee with GST": 630
+		},
+		{
+			"Age From": "4 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 630,
+			"Fee with GST": 630
+		}
+	]
+}

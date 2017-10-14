@@ -1,0 +1,74 @@
+{
+	"Centre Code": "SA0160",
+	"Centre Name": "THE SALVATION ARMY ANG MO KIO CHILD CARE CENTRE",
+	"Centre Branch": "SA ANG MO KIO",
+	"Address": "610, ANG MO KIO AVENUE 4, #01 - 1227, SINGAPORE 560610",
+	"Telephone": "64524862",
+	"Fax": "64524876",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "Our existing programme caters to children from 18 months to 6 yrs 11 months, each paying $657+7%GST per month (effective January 2015). The 2015 curriculum include one enrichment programme: Speech & Drama for N1 & N2, Abacus for K1 & K2",
+	"Contact Person": "Ms Melissa Xavier",
+	"Contact Number": "64524862",
+	"Contact Designation": "SUPERVISOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "Yes",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 0 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 697,
+			"Fee with GST": 697
+		},
+		{
+			"Age From": "2 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 697,
+			"Fee with GST": 697
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 520,
+			"Fee with GST": 520
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 520,
+			"Fee with GST": 520
+		}
+	]
+}

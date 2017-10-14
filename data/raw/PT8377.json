@@ -1,0 +1,123 @@
+{
+	"Centre Code": "PT8377",
+	"Centre Name": "CHERIE HEARTS NURTURE COTTAGE PTE. LTD.",
+	"Centre Branch": "PT CHERIE HEARTS NURTURE",
+	"Address": "19, JALAN MATA AYER, SEMBAWANG PARK, SINGAPORE 759100",
+	"Telephone": "64811396",
+	"Fax": "64811397",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "Cherie Hearts Group is one of the largest, multiple-award winning homegrown brand of childcare centres that prides itself on its vast experience in the provision of quality & innovative early childhood education The Group has also established presence in the region, with centres, either already in operation or in the midst of in Vietnam, Malaysia, Hong Kong, Indonesia, China & Australia. The Group strives to provide a quality one-stop educational service which grooms the Physical, Intellectual, Emotional, Social and Language (PIESL) Development of each child so that parents can spend quality family time with their children. Cherie Hearts believe that every aspect of a child?s development should be recognized, nurtured and developed holistically. Learning opportunities are provided in our curriculum giving children the autonomy through a uniquely designed approach ? The CHILD Approach ? Children Holistically Inquire to Learn and Develop and we have 2 curricula designed for this ? Jump Start Years Curriculum for Playgroup 1 & 2 children and Bridging Years Curriculum for Nursery to Kindergarten 2. The Group believes in strong parental involvement and has also set up a Family Hub in town where a family restaurant, family spa and childcare/enrichment are operating all under one roof.",
+	"Contact Person": "LOW MUI HWA ELIZA",
+	"Contact Number": "64811396",
+	"Contact Designation": "DIRECTOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1930",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1930"
+		},
+		"Saturday": {
+			"Full Day": "0 To 0",
+			"AM": "0 To 0",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1080,
+			"Fee with GST": 1080
+		},
+		{
+			"Age From": "4 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1080,
+			"Fee with GST": 1080
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 850,
+			"Fee with GST": 850
+		},
+		{
+			"Age From": "4 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 850,
+			"Fee with GST": 850
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 850,
+			"Fee with GST": 850
+		},
+		{
+			"Age From": "4 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 850,
+			"Fee with GST": 850
+		},
+		{
+			"Age From": "7 year(s) 0 month(s)",
+			"Age To": "12 year(s) 11 month(s)",
+			"Service Type": "Student Care Service (AM)",
+			"Fee without GST": 510,
+			"Fee with GST": 510
+		},
+		{
+			"Age From": "7 year(s) 0 month(s)",
+			"Age To": "12 year(s) 11 month(s)",
+			"Service Type": "Student Care Service (PM)",
+			"Fee without GST": 510,
+			"Fee with GST": 510
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1600,
+			"Fee with GST": 1600
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day AM",
+			"Fee without GST": 1200,
+			"Fee with GST": 1200
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day PM",
+			"Fee without GST": 1200,
+			"Fee with GST": 1200
+		}
+	]
+}

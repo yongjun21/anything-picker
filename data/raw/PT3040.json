@@ -1,0 +1,67 @@
+{
+	"Centre Code": "PT3040",
+	"Centre Name": "DARDIS CHILD DEVELOPMENT CENTRE PTE.LTD.",
+	"Centre Branch": "PT DARDIS",
+	"Address": "134, JALAN BUKIT MERAH, #01 - 1420, SINGAPORE 160134",
+	"Telephone": "62762523",
+	"Fax": "62762523",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "12 months",
+	"Centre Details": "CENTRE'S OBJECTIVES:\n1) \nTO PROVIDE A SAFE AND CONGENIAL LEARNING  ENVIRONMNET FOR THE SOCIAL, INTELLECTUAL, EMOTIONAL AND THE PHYSICAL DEVELOPMENT OF CHLDREN DURING FORMATIVE YEARS.\n\n2)\nPROVIDE THE CHILD THE OPPORTUNITY TO ACCEPT AND BE ACCEPTED BY OTHER CHILDREN AND ADULTS.\n\n3)\nALLOW CHILDREN TO DEVELOP SELF-CONFIDENCE AND ESTEEM.\n\n4)\nTO LAY A FRIM FOUNATION AND PREPARE THE CHILD FOR SCHOOL",
+	"Contact Person": "JESWAN GUPTA",
+	"Contact Number": "93279553",
+	"Contact Designation": "LICENSEE",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 780,
+			"Fee with GST": 780
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 630,
+			"Fee with GST": 630
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 630,
+			"Fee with GST": 630
+		}
+	]
+}

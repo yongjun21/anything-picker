@@ -1,0 +1,151 @@
+{
+	"Centre Code": "ST0021",
+	"Centre Name": "PCF SPARKLETOTS PRESCHOOL @ NANYANG BLK 922 (CC)",
+	"Centre Branch": "PCF NANYANG",
+	"Address": "922, JURONG WEST STREET 92, #01 - 39, SINGAPORE 640922",
+	"Telephone": "67944902",
+	"Fax": "67944613",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "Victor Bay Swee Huat",
+	"Contact Number": "62444600",
+	"Contact Designation": "CEO",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 780,
+			"Fee with GST": 780
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 944.95,
+			"Fee with GST": 944.95
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 630,
+			"Fee with GST": 630
+		},
+		{
+			"Age From": "2 year(s) 7 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 577.48,
+			"Fee with GST": 577.48
+		},
+		{
+			"Age From": "3 year(s) 0 month(s)",
+			"Age To": "6 year(s) 0 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 866.17,
+			"Fee with GST": 866.17
+		},
+		{
+			"Age From": "3 year(s) 0 month(s)",
+			"Age To": "6 year(s) 0 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 714.95,
+			"Fee with GST": 714.95
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 360,
+			"Fee with GST": 360
+		},
+		{
+			"Age From": "2 year(s) 7 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 330,
+			"Fee with GST": 330
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 360,
+			"Fee with GST": 360
+		},
+		{
+			"Age From": "2 year(s) 7 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 330,
+			"Fee with GST": 330
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1732.43,
+			"Fee with GST": 1732.43
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1154.95,
+			"Fee with GST": 1154.95
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1430,
+			"Fee with GST": 1430
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day AM",
+			"Fee without GST": 660,
+			"Fee with GST": 660
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day PM",
+			"Fee without GST": 660,
+			"Fee with GST": 660
+		}
+	]
+}

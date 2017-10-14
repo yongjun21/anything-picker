@@ -1,0 +1,277 @@
+{
+	"Centre Code": "NT0310",
+	"Centre Name": "MY FIRST SKOOL",
+	"Centre Branch": "NT Pasir Ris Dr 1 Blk 637",
+	"Address": "637, PASIR RIS DRIVE 1, #01 - 576, SINGAPORE 510637",
+	"Telephone": "66349989",
+	"Fax": "65837647",
+	"Web Site": "www.myfirstskool.com",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "Hartiny A Hamid",
+	"Contact Number": "66349989",
+	"Contact Designation": "EXECUTIVE PRINCIPAL",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "Yes",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 866.25,
+			"Fee with GST": 866.25
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 694.5,
+			"Fee with GST": 694.5
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1039.5,
+			"Fee with GST": 1039.5
+		},
+		{
+			"Age From": "4 year(s) 0 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1039.5,
+			"Fee with GST": 1039.5
+		},
+		{
+			"Age From": "4 year(s) 0 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 866.25,
+			"Fee with GST": 866.25
+		},
+		{
+			"Age From": "4 year(s) 0 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 694.5,
+			"Fee with GST": 694.5
+		},
+		{
+			"Age From": "5 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 950.89,
+			"Fee with GST": 950.89
+		},
+		{
+			"Age From": "5 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 792.41,
+			"Fee with GST": 792.41
+		},
+		{
+			"Age From": "5 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 633.93,
+			"Fee with GST": 633.93
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 606.37,
+			"Fee with GST": 606.37
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 529.2,
+			"Fee with GST": 529.2
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 727.65,
+			"Fee with GST": 727.65
+		},
+		{
+			"Age From": "4 year(s) 0 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 727.65,
+			"Fee with GST": 727.65
+		},
+		{
+			"Age From": "4 year(s) 0 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 606.37,
+			"Fee with GST": 606.37
+		},
+		{
+			"Age From": "4 year(s) 0 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 529.2,
+			"Fee with GST": 529.2
+		},
+		{
+			"Age From": "5 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 727.65,
+			"Fee with GST": 727.65
+		},
+		{
+			"Age From": "5 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 606.37,
+			"Fee with GST": 606.37
+		},
+		{
+			"Age From": "5 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 529.2,
+			"Fee with GST": 529.2
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 529.2,
+			"Fee with GST": 529.2
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 727.65,
+			"Fee with GST": 727.65
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "3 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 606.37,
+			"Fee with GST": 606.37
+		},
+		{
+			"Age From": "4 year(s) 0 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 606.37,
+			"Fee with GST": 606.37
+		},
+		{
+			"Age From": "4 year(s) 0 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 727.65,
+			"Fee with GST": 727.65
+		},
+		{
+			"Age From": "4 year(s) 0 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 529.2,
+			"Fee with GST": 529.2
+		},
+		{
+			"Age From": "5 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 727.65,
+			"Fee with GST": 727.65
+		},
+		{
+			"Age From": "5 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 606.37,
+			"Fee with GST": 606.37
+		},
+		{
+			"Age From": "5 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 529.2,
+			"Fee with GST": 529.2
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child FC1-12 to 24 hrs/wk",
+			"Fee without GST": 493.76,
+			"Fee with GST": 493.76
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child FC1-12 to 24 hrs/wk",
+			"Fee without GST": 430.92,
+			"Fee with GST": 430.92
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child FC1-12 to 24 hrs/wk",
+			"Fee without GST": 592.51,
+			"Fee with GST": 592.51
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 60.63,
+			"Fee with GST": 60.63
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 52.92,
+			"Fee with GST": 52.92
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 72.76,
+			"Fee with GST": 72.76
+		}
+	]
+}

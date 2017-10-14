@@ -1,0 +1,109 @@
+{
+	"Centre Code": "WP0390",
+	"Centre Name": "LEARNING VISION @ WORK PTE. LTD.",
+	"Centre Branch": "WP LEARNING VISION (CHADWICK )",
+	"Address": "81, SCIENCE PARK DRIVE, #01 - 03, THE CHADWICK, SINGAPORE 118257",
+	"Telephone": "67761015",
+	"Fax": "67771095",
+	"Web Site": "http://www.learningvision.com",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "Chia Pui Kuan",
+	"Contact Number": "86682529",
+	"Contact Designation": "PRINCIPAL",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "To",
+			"PM": "To To"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "To",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1380,
+			"Fee with GST": 1380
+		},
+		{
+			"Age From": "2 year(s) 6 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1380,
+			"Fee with GST": 1380
+		},
+		{
+			"Age From": "4 year(s) 11 month(s)",
+			"Age To": "5 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1380,
+			"Fee with GST": 1380
+		},
+		{
+			"Age From": "6 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1380,
+			"Fee with GST": 1380
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 1180,
+			"Fee with GST": 1180
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 1180,
+			"Fee with GST": 1180
+		},
+		{
+			"Age From": "7 year(s) 0 month(s)",
+			"Age To": "12 year(s) 11 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 1380,
+			"Fee with GST": 1380
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 2000,
+			"Fee with GST": 2000
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Half-Day AM",
+			"Fee without GST": 1600,
+			"Fee with GST": 1600
+		}
+	]
+}

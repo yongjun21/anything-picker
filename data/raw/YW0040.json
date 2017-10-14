@@ -1,0 +1,137 @@
+{
+	"Centre Code": "YW0040",
+	"Centre Name": "YWCA MCNAIR ROAD CHILD DEVELOPMENT CENTRE",
+	"Centre Branch": "YW MCNAIR ROAD",
+	"Address": "7, MCNAIR ROAD, SINGAPORE 328516",
+	"Telephone": "62997510",
+	"Fax": "62954702",
+	"Web Site": "www.ywca.org.sg",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "Mrs Lucy Lim",
+	"Contact Number": "62997510",
+	"Contact Designation": "PRINCIPAL",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "Yes",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "No",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1330",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 742.99,
+			"Fee with GST": 742.99
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 705,
+			"Fee with GST": 705
+		},
+		{
+			"Age From": "2 year(s) 7 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 705.61,
+			"Fee with GST": 705.61
+		},
+		{
+			"Age From": "2 year(s) 7 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 670,
+			"Fee with GST": 670
+		},
+		{
+			"Age From": "5 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 686.92,
+			"Fee with GST": 686.92
+		},
+		{
+			"Age From": "5 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 652,
+			"Fee with GST": 652
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 523.36,
+			"Fee with GST": 523.36
+		},
+		{
+			"Age From": "2 year(s) 7 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 495.33,
+			"Fee with GST": 495.33
+		},
+		{
+			"Age From": "5 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 485.98,
+			"Fee with GST": 485.98
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 523.36,
+			"Fee with GST": 523.36
+		},
+		{
+			"Age From": "2 year(s) 7 month(s)",
+			"Age To": "4 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 495.33,
+			"Fee with GST": 495.33
+		},
+		{
+			"Age From": "5 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 485.98,
+			"Fee with GST": 485.98
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "12 year(s) 11 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 33.64,
+			"Fee with GST": 33.64
+		}
+	]
+}

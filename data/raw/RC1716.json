@@ -1,0 +1,95 @@
+{
+	"Centre Code": "RC1716",
+	"Centre Name": "GLOBAL CHILD DEVELOPMENT CENTRE",
+	"Centre Branch": "RC GLOBAL CDC",
+	"Address": "620, WOODLANDS DRIVE 52, #01 - 84, SINGAPORE 730620",
+	"Telephone": "62699176",
+	"Fax": "62692893",
+	"Web Site": "http://gcdc.jamiyah.org.sg/main.asp",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "http://gcdc.jamiyah.org.sg/main.asp",
+	"Contact Person": "RAHIMAH BEEVI",
+	"Contact Number": "62699176",
+	"Contact Designation": "PRINCIPAL",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "Yes",
+		"Tamil": "Yes",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 695,
+			"Fee with GST": 695
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 550,
+			"Fee with GST": 550
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 550,
+			"Fee with GST": 550
+		},
+		{
+			"Age From": "7 year(s) 0 month(s)",
+			"Age To": "12 year(s) 0 month(s)",
+			"Service Type": "Student Care Service (AM)",
+			"Fee without GST": 250,
+			"Fee with GST": 250
+		},
+		{
+			"Age From": "7 year(s) 0 month(s)",
+			"Age To": "12 year(s) 0 month(s)",
+			"Service Type": "Student Care Service (PM)",
+			"Fee without GST": 250,
+			"Fee with GST": 250
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 15,
+			"Fee with GST": 15
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1300,
+			"Fee with GST": 1300
+		}
+	]
+}

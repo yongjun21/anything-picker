@@ -8,6 +8,8 @@ data/osrm/*
 !data/osrm/*.pbf
 !data/osrm/*.lua
 
+data/shapefile/
+
 data/forwardIndex.json
 data/invertedIndex.json
 
@@ -17,3 +19,4 @@ data/invertedIndex.json
 tmp*.js
 tmp*.json
 tmp*.html
+tmp*.md

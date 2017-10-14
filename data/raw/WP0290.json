@@ -1,0 +1,74 @@
+{
+	"Centre Code": "WP0290",
+	"Centre Name": "LEARNING VISION @ WORK PTE LTD",
+	"Centre Branch": "null",
+	"Address": "99, Bukit Timah Road, #01 - 05, Alfa Centre, SINGAPORE 229835",
+	"Telephone": "62922779",
+	"Fax": "63941992",
+	"Web Site": "www.learningvision.com",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "Puspa",
+	"Contact Number": "62922779",
+	"Contact Designation": "PRINCIPAL",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "645 To 1915",
+			"AM": "645 To 1315",
+			"PM": "To 1315 To 1915"
+		},
+		"Saturday": {
+			"Full Day": "645 To 1415",
+			"AM": "645 To 1415",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 790,
+			"Fee with GST": 790
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 1190,
+			"Fee with GST": 1190
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1570,
+			"Fee with GST": 1570
+		},
+		{
+			"Age From": "0 year(s) 2 month(s)",
+			"Age To": "1 year(s) 6 month(s)",
+			"Service Type": "Infant Full Day",
+			"Fee without GST": 1170,
+			"Fee with GST": 1170
+		}
+	]
+}

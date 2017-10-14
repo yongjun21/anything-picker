@@ -1,0 +1,95 @@
+{
+	"Centre Code": "PT7180",
+	"Centre Name": "RAINBOW CHILDCARE PTE LTD",
+	"Centre Branch": "PT RAINBOW",
+	"Address": "221, Boon Lay Place, #03 - 100, Boon Lay Shopping Centre, SINGAPORE 640221",
+	"Telephone": "62658980",
+	"Fax": "62650920",
+	"Web Site": "www.rainbow.sg",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "We are committed to meeting the needs of all children by reinforcing and acknowledging their unique strengths and needs. We recognise the importance of appropriate early childhood education and its role in the future success of  each of our children as they develop and grow. We believe that a high-quality environment will make a world of difference for your child.",
+	"Contact Person": "SOH HEOK HEONG",
+	"Contact Number": "62658980",
+	"Contact Designation": "LICENSEE",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 700,
+			"Fee with GST": 700
+		},
+		{
+			"Age From": "2 year(s) 7 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 700,
+			"Fee with GST": 700
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 502.8,
+			"Fee with GST": 502.8
+		},
+		{
+			"Age From": "2 year(s) 7 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 502.8,
+			"Fee with GST": 502.8
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "2 year(s) 6 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 502.8,
+			"Fee with GST": 502.8
+		},
+		{
+			"Age From": "2 year(s) 7 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 502.8,
+			"Fee with GST": 502.8
+		},
+		{
+			"Age From": "3 year(s) 0 month(s)",
+			"Age To": "12 year(s) 11 month(s)",
+			"Service Type": "Emergency Care",
+			"Fee without GST": 18.69,
+			"Fee with GST": 18.69
+		}
+	]
+}

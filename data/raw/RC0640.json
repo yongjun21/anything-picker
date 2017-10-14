@@ -1,0 +1,102 @@
+{
+	"Centre Code": "RC0640",
+	"Centre Name": "GREEN PASTURES CHILD CENTRE",
+	"Centre Branch": "RC GREEN PASTURES",
+	"Address": "28/30, DUKE'S ROAD, SINGAPORE 268910",
+	"Telephone": "64672380",
+	"Fax": "64624977",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "No",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "MRS GRACE LU",
+	"Contact Number": "64672380",
+	"Contact Designation": "OPERATOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "pork, chicken, duck, fish, prawn"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "4 year(s) 0 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 730,
+			"Fee with GST": 730
+		},
+		{
+			"Age From": "4 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 630,
+			"Fee with GST": 630
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "4 year(s) 0 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 590,
+			"Fee with GST": 590
+		},
+		{
+			"Age From": "4 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 510,
+			"Fee with GST": 510
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "4 year(s) 0 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 590,
+			"Fee with GST": 590
+		},
+		{
+			"Age From": "4 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 510,
+			"Fee with GST": 510
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "4 year(s) 0 month(s)",
+			"Service Type": "Child FC1-12 to 24 hrs/wk",
+			"Fee without GST": 460,
+			"Fee with GST": 460
+		},
+		{
+			"Age From": "4 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child FC1-12 to 24 hrs/wk",
+			"Fee without GST": 390,
+			"Fee with GST": 390
+		}
+	]
+}

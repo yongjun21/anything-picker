@@ -1,0 +1,95 @@
+{
+	"Centre Code": "RC0570",
+	"Centre Name": "TOUCH CHILD CARE & FAMILY CENTRE (HOUGANG)",
+	"Centre Branch": "RC TOUCH (HOUGANG)",
+	"Address": "606, HOUGANG AVENUE 4, #01 - 167, SINGAPORE 530606",
+	"Telephone": "62823143",
+	"Fax": "68584975",
+	"Web Site": "",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "",
+	"Contact Person": "VANNY LOW CHUN LUI",
+	"Contact Number": "62823143",
+	"Contact Designation": "MANAGER",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "Yes",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "To",
+			"PM": "To To"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "To",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "2 year(s) 0 month(s)",
+			"Age To": "4 year(s) 0 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 738.32,
+			"Fee with GST": 738.32
+		},
+		{
+			"Age From": "2 year(s) 0 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 887.85,
+			"Fee with GST": 887.85
+		},
+		{
+			"Age From": "4 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 738.32,
+			"Fee with GST": 738.32
+		},
+		{
+			"Age From": "2 year(s) 0 month(s)",
+			"Age To": "4 year(s) 0 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 542.99,
+			"Fee with GST": 542.99
+		},
+		{
+			"Age From": "4 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 542.99,
+			"Fee with GST": 542.99
+		},
+		{
+			"Age From": "2 year(s) 0 month(s)",
+			"Age To": "4 year(s) 0 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 542.99,
+			"Fee with GST": 542.99
+		},
+		{
+			"Age From": "4 year(s) 1 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 542.99,
+			"Fee with GST": 542.99
+		}
+	]
+}

@@ -1,0 +1,67 @@
+{
+	"Centre Code": "PT9203",
+	"Centre Name": "NOBLELAND ARTS N LEARNING PLACE @CLEMENTI PTE. LTD.",
+	"Centre Branch": "NOBLELAND (CLEMENTI)",
+	"Address": "311C, CLEMENTI AVENUE 4, #01 - 187, SINGAPORE 123311",
+	"Telephone": "64641356",
+	"Fax": "",
+	"Web Site": "www.nobleland.sg",
+	"Govt. Subsidy": "Yes",
+	"GST Registration": "Yes",
+	"Current Licence Duration": "24 months",
+	"Centre Details": "Nobleland Arts N Learning Place provides children aged 18 months to 6 years old engaging and joyful learning experiences through an Award Winning Arts Integrated Curriculum and programme(Visual Arts, Dance Education, English Literature and Drama, Chinese Theatre, Kindermusic) to broaden children's perspectives and to empower them to make better connection in learning. We also actively collaborate with parents and various communities like Science Centre Singapore and National Arts Council to provide the most resourceful and creative platform for each child to excel.",
+	"Contact Person": "CHUA SHIAN LUAN",
+	"Contact Number": "64521521",
+	"Contact Designation": "DIRECTOR",
+	"food": {
+		"Halal Food with Beef(with Certification from MUIS)": "No",
+		"Halal Food with No Beef(with Certification from MUIS)": "No",
+		"No Pork No Lard with Beef(without Certification from MUIS but from Halal Sources)": "No",
+		"No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)": "Yes",
+		"No Pork No Lard with Beef(from Non Halal Sources)": "No",
+		"No Pork No Lard with Non Beef(from Non Halal Sources)": "No",
+		"Vegetarian": "No",
+		"Other Type of Food Served": "N/A"
+	},
+	"motherTongue": {
+		"Chinese": "Yes",
+		"Malay": "No",
+		"Tamil": "No",
+		"Others": "No"
+	},
+	"operatingHours": {
+		"Monday-Friday": {
+			"Full Day": "700 To 1900",
+			"AM": "700 To 1300",
+			"PM": "To 1300 To 1900"
+		},
+		"Saturday": {
+			"Full Day": "700 To 1400",
+			"AM": "700 To 1400",
+			"PM": ""
+		}
+	},
+	"services": [
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Full Day",
+			"Fee without GST": 811,
+			"Fee with GST": 811
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day AM",
+			"Fee without GST": 607,
+			"Fee with GST": 607
+		},
+		{
+			"Age From": "1 year(s) 6 month(s)",
+			"Age To": "6 year(s) 11 month(s)",
+			"Service Type": "Child Half-Day PM",
+			"Fee without GST": 607,
+			"Fee with GST": 607
+		}
+	]
+}
