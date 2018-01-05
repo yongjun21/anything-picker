@@ -6,32 +6,16 @@ import uniq from 'lodash/uniq'
 import {toSVY21} from 'sg-heatmap/dist/helpers/geometry'
 import {collectValues, optionsSelected} from 'helpers/util'
 
-import * as modulesForPrimary from './modulesForPrimary'
-import * as modulesForPreschool from './modulesForPreschool'
+import * as modules from './modules'
 
 import {
-  getFilteredForPreschool,
-  getSuggestedForPreschool,
-  importOptionsForPreschool,
-  exportOptionsForPreschool
-} from './controllerForPreschool'
-
-import {
-  getFilteredForPrimary,
-  getSuggestedForPrimary,
-  importOptionsForPrimary,
-  exportOptionsForPrimary
-} from './controllerForPrimary'
+  getFiltered as filtered,
+  getSuggested as suggested,
+  importOptions,
+  exportOptions
+} from './controller'
 
 Vue.use(Vuex)
-
-const isForPreschool = process.env.VERSION === 'preschool'
-
-const modules = isForPreschool ? modulesForPreschool : modulesForPrimary
-const filtered = isForPreschool ? getFilteredForPreschool : getFilteredForPrimary
-const suggested = isForPreschool ? getSuggestedForPreschool : getSuggestedForPrimary
-const importOptions = isForPreschool ? importOptionsForPreschool : importOptionsForPrimary
-const exportOptions = isForPreschool ? exportOptionsForPreschool : exportOptionsForPrimary
 
 const store = new Vuex.Store({
   state: {
@@ -123,7 +107,7 @@ const store = new Vuex.Store({
     locateAddress (context, postalCode) {
       context.commit('setPostalCode', postalCode)
       context.commit('setLocation', null)
-      const url = 'https://developers.onemap.sg/commonapi/search?searchVal=' + postalCode + '&returnGeom=Y&getAddrDetails=N'
+      const url = 'https://developers.onemap.sg/commonapi/search?searchVal=' + postalCode + '&returnGeom=Y&getAddrDetails=Y'
       return window.fetch(url)
         .then(res => res.json())
         .then(json => {
@@ -131,7 +115,8 @@ const store = new Vuex.Store({
             const match = json.results[0]
             const lnglat = [+match.LONGITUDE, +match.LATITUDE]
             context.commit('setLocation', lnglat)
-            return context.dispatch('fetchTravelTime', lnglat)
+            context.dispatch('fetchTravelTime', lnglat)
+            return match
           }
         }).catch(err => {
           console.error(err)

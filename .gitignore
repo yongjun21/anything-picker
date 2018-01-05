@@ -8,6 +8,7 @@ data/osrm/*
 !data/osrm/*.pbf
 !data/osrm/*.lua
 
+data/*.zip
 data/shapefile/
 
 data/forwardIndex.json

@@ -4,9 +4,6 @@ import _maxBy from 'lodash/maxBy'
 import {exponentialSmoothing} from '../helpers/search'
 import {standardFilter, synonym} from '../helpers/text'
 
-import ccaMapping from '../../data/ccaMapping.json'
-import ccaFrequency from '../../data/tokens/ccas.json'
-
 export default {
   name (json) {
     return json.name
