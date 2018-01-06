@@ -27,6 +27,13 @@ const jobs = centres.map(raw => {
   delete processed._id
 
   const id = raw.centre_code
+
+  Object.keys(processed).forEach(key => {
+    if (processed[key] === 'na') processed[key] = null
+    if (processed[key] === 'Yes') processed[key] = true
+    if (processed[key] === 'No') processed[key] = false
+  })
+
   processed.id = id
   processed['service_listing'] = services[id] && services[id].map(discardRepeats)
   processed['license_history'] = licenseHistory[id] && licenseHistory[id].map(discardRepeats)

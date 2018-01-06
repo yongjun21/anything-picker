@@ -8,20 +8,20 @@ indexSchoolData()
 export function indexSchoolData () {
   const forwardIndex = generateForwardIndex(featureExtractor, [
     'name',
-    'website',
+    'contactNo',
     'email',
-    'levelOfEducation',
+    'website',
+    'schemeType',
+    'sparkCertified',
+    'iccp',
+    'secondLanguage',
+    'vegetarian',
+    'beef',
+    'halal',
+    'services',
     'coordinates',
     'svy21',
-    'planningArea',
-    'schoolType',
-    'motherTongue',
-    'specialMoeProgrammes',
-    'specialProgrammes',
-    'ccas',
-    'specialNeeds',
-    'studentCare',
-    'uniqueCcas'
+    'planningArea'
   ])
 
   const result = []
@@ -30,6 +30,6 @@ export function indexSchoolData () {
     result.push(forwardIndex[key])
   })
 
-  fs.writeFileSync('public/schoolList.json', JSON.stringify(result))
+  fs.writeFileSync('public/centreList.json', JSON.stringify(result))
   return result
 }
