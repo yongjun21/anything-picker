@@ -1,23 +1,16 @@
 import {collectValues} from 'helpers/util'
 
 const singleInputs = [
-  'schoolLevel',
-  'psle',
-  'l1r5'
 ]
 
 const multiInputs = [
-  'planningAreas',
-  'ccasOffered',
-  'distinctiveProgrammes',
-  'schoolTypes',
-  'specialNeeds'
 ]
 
 export function getFiltered (state, getters) {
-  return state.schoolList
+  return state.centreList
     .filter(school => {
       let match = true
+      /*
       if (state.schoolLevel.selected) {
         const selected = state.schoolLevel.selected
         match = match && school.levelOfEducation.indexOf(selected) > -1
@@ -67,9 +60,10 @@ export function getFiltered (state, getters) {
         const selected = +state.l1r5.selected
         match = match && school.l1r5Aggregate.some(range => range.upper >= selected)
       }
+      */
       return match
     })
-    .map(school => school.id)
+    .map(centre => centre.id)
 }
 
 export function getSuggested (state, getters) {
@@ -78,7 +72,7 @@ export function getSuggested (state, getters) {
 
 export function importOptions (context, query) {
   if (query.shortlist) {
-    const bookmarked = context.state.schoolList.map(school => school.id)
+    const bookmarked = context.state.centreList.map(school => school.id)
       .filter(id => query.shortlist.split(',').indexOf(id) > -1)
     context.commit('setBookmarked', bookmarked)
   } else {
@@ -109,12 +103,7 @@ export function importOptions (context, query) {
   })
 
   if (query.postalCode && query.postalCode.match(/^\d{6}$/)) {
-    context.dispatch('locateAddress', query.postalCode).then(match =>
-      context.dispatch('homeSchoolDistance/queryOnemap', {
-        postalCode: query.postalCode,
-        blkNo: match.BLK_NO
-      })
-    )
+    context.dispatch('locateAddress', query.postalCode)
   } else {
     context.commit('setPostalCode', null)
     context.commit('setLocation', null)

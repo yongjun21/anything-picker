@@ -1,0 +1,132 @@
+{
+  "provision_of_transport": false,
+  "last_updated": "2017-11-15",
+  "spark_certified": false,
+  "extended_operating_hours": false,
+  "second_languages_offered": null,
+  "postal_code": "538473",
+  "centre_website": null,
+  "saturday": "07:00-14:00",
+  "centre_address": "473D, UPPER SERANGOON CRESCENT, #01 - 353, HOUGANG PARKEDGE, SINGAPORE 538473",
+  "n1_vacancy": "No vacancies for the next 1-2 years",
+  "infant_vacancy": "No vacancies for the next 1-2 years",
+  "government_subsidy": true,
+  "organisation_code": "PT",
+  "iccp": false,
+  "centre_email_address": "USC473D@AGAPELITTLEUNI.COM",
+  "centre_code": "PT9392",
+  "weekday_halfday_am": "07:00-13:00",
+  "weekday_halfday_pm": "13:00-19:00",
+  "remarks": null,
+  "scheme_type": null,
+  "weekday_full_day": "07:00-19:00",
+  "centre_contact_no": "69209473",
+  "k1_vacancy": "No vacancies for the next 1-2 years",
+  "food_offered": "No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)",
+  "pg_vacancy": "No vacancies for the next 1-2 years",
+  "n2_vacancy": "No vacancies for the next 1-2 years",
+  "gst_regisration": true,
+  "centre_name": "AGAPE LITTLE UNI. @ UPPER SERANGOON PTE LTD",
+  "organisation_description": "PRIVATE",
+  "k2_vacancy": "No vacancies for the next 1-2 years",
+  "id": "PT9392",
+  "service_listing": [
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-10-20",
+      "programmes_offered": "Child Full Day",
+      "fees": "909.5",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-10-20",
+      "programmes_offered": "Child Half-Day AM",
+      "fees": "674.1",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-10-20",
+      "programmes_offered": "Emergency Care",
+      "fees": "214",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "18",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2017-10-20",
+      "programmes_offered": "Infant Full Day",
+      "fees": "1428.45",
+      "remarks": "na",
+      "age_from": "2"
+    },
+    {
+      "age_to": "18",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2017-10-20",
+      "programmes_offered": "Infant Half-Day AM",
+      "fees": "1070",
+      "remarks": "na",
+      "age_from": "2"
+    }
+  ],
+  "license_history": [
+    {
+      "license_issue_date": "2017-11-01",
+      "license_tenure": "12"
+    }
+  ],
+  "incidental_charges": [
+    {
+      "incidental_charges": "PVC MATTRESS COVER (OPTIONAL)",
+      "amount": "32.1",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "DEPOSIT",
+      "amount": "1428.45",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "PVC MATTRESS (OPTIONAL)",
+      "amount": "53.5",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "UNIFORM",
+      "amount": "32.1",
+      "frequency": "Annual"
+    },
+    {
+      "incidental_charges": "DEPOSIT",
+      "amount": "909.5",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "INSURANCE (OPTIONAL)",
+      "amount": "3.21",
+      "frequency": "Annual"
+    },
+    {
+      "incidental_charges": "REGISTRATION FEE",
+      "amount": "535",
+      "frequency": "Ad-hoc"
+    }
+  ],
+  "svy21": [
+    35638.35,
+    39851.03
+  ],
+  "coordinates": [
+    103.9019547,
+    1.3766721
+  ],
+  "planning_area": "HG"
+}

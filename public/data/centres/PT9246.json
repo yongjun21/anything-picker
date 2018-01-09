@@ -1,0 +1,127 @@
+{
+  "provision_of_transport": false,
+  "last_updated": "2017-11-15",
+  "spark_certified": false,
+  "extended_operating_hours": false,
+  "second_languages_offered": null,
+  "postal_code": "513530",
+  "centre_website": null,
+  "saturday": "07:00-14:00",
+  "centre_address": "530C, PASIR RIS DRIVE 1, #01 - 396, PASIR RIS ONE, SINGAPORE 513530",
+  "n1_vacancy": "No vacancies for the next 1-2 years",
+  "infant_vacancy": "No vacancies for the next 1-2 years",
+  "government_subsidy": true,
+  "organisation_code": "PT",
+  "iccp": false,
+  "centre_email_address": "WHITESANDS@LITTLEPRESCHOOL.COM.SG",
+  "centre_code": "PT9246",
+  "weekday_halfday_am": "07:00-13:00",
+  "weekday_halfday_pm": "13:00-19:00",
+  "remarks": null,
+  "scheme_type": null,
+  "weekday_full_day": "07:00-19:00",
+  "centre_contact_no": "62080173",
+  "k1_vacancy": "No vacancies for the next 1-2 years",
+  "food_offered": "No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)",
+  "pg_vacancy": "No vacancies for the next 1-2 years",
+  "n2_vacancy": "No vacancies for the next 1-2 years",
+  "gst_regisration": true,
+  "centre_name": "LITTLE PRESCHOOL PTE. LTD",
+  "organisation_description": "PRIVATE",
+  "k2_vacancy": "No vacancies for the next 1-2 years",
+  "id": "PT9246",
+  "service_listing": [
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-01-12",
+      "programmes_offered": "Child Full Day",
+      "fees": "934.11",
+      "remarks": "change in fees to meet operating costs",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-01-12",
+      "programmes_offered": "Child Half-Day AM",
+      "fees": "621.67",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "18",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2017-01-12",
+      "programmes_offered": "Infant Full Day",
+      "fees": "1495.86",
+      "remarks": "change in fees to meet operating costs",
+      "age_from": "2"
+    },
+    {
+      "age_to": "18",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2017-01-12",
+      "programmes_offered": "Infant Half-Day AM",
+      "fees": "977.44",
+      "remarks": "na",
+      "age_from": "2"
+    }
+  ],
+  "license_history": [
+    {
+      "license_issue_date": "2017-04-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2016-04-01",
+      "license_tenure": "12"
+    }
+  ],
+  "incidental_charges": [
+    {
+      "incidental_charges": "PVC MATTRESS COVER (OPTIONAL)",
+      "amount": "12",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "DEPOSIT",
+      "amount": "1305",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "INSURANCE (OPTIONAL)",
+      "amount": "15",
+      "frequency": "Annual"
+    },
+    {
+      "incidental_charges": "PVC MATTRESS (OPTIONAL)",
+      "amount": "45",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "DEPOSIT",
+      "amount": "830",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "UNIFORM",
+      "amount": "20",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "REGISTRATION FEE",
+      "amount": "150",
+      "frequency": "Ad-hoc"
+    }
+  ],
+  "svy21": [
+    40997.9,
+    39293.29
+  ],
+  "coordinates": [
+    103.9501139,
+    1.3716262
+  ],
+  "planning_area": "PR"
+}

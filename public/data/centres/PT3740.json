@@ -1,0 +1,184 @@
+{
+  "provision_of_transport": false,
+  "last_updated": "2017-11-15",
+  "spark_certified": false,
+  "extended_operating_hours": false,
+  "second_languages_offered": "Chinese",
+  "postal_code": "530926",
+  "centre_website": null,
+  "saturday": "07:00-14:00",
+  "centre_address": "Blk 926, HOUGANG STREET 91, #01 - 83, SINGAPORE 530926",
+  "n1_vacancy": "No vacancies for the next 1-2 years",
+  "infant_vacancy": "No vacancies for the next 1-2 years",
+  "government_subsidy": true,
+  "organisation_code": "PT",
+  "iccp": false,
+  "centre_email_address": "emilykoh3@hotmail.com",
+  "centre_code": "PT3740",
+  "weekday_halfday_am": null,
+  "weekday_halfday_pm": null,
+  "remarks": null,
+  "scheme_type": null,
+  "weekday_full_day": "07:00-19:00",
+  "centre_contact_no": "63876220",
+  "k1_vacancy": "No vacancies for the next 1-2 years",
+  "food_offered": "No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)",
+  "pg_vacancy": "No vacancies for the next 1-2 years",
+  "n2_vacancy": "No vacancies for the next 1-2 years",
+  "gst_regisration": false,
+  "centre_name": "SAINT ELMO'S CHILD CARE",
+  "organisation_description": "PRIVATE",
+  "k2_vacancy": "No vacancies for the next 1-2 years",
+  "id": "PT3740",
+  "service_listing": [
+    {
+      "age_to": "48",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-01-01",
+      "programmes_offered": "Child Full Day",
+      "fees": "750",
+      "remarks": "na",
+      "age_from": "37"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-01-01",
+      "programmes_offered": "Child Full Day",
+      "fees": "750",
+      "remarks": "na",
+      "age_from": "49"
+    },
+    {
+      "age_to": "36",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-01-01",
+      "programmes_offered": "Child Full Day",
+      "fees": "750",
+      "remarks": "na",
+      "age_from": "25"
+    },
+    {
+      "age_to": "24",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-01-01",
+      "programmes_offered": "Child Full Day",
+      "fees": "750",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-01-01",
+      "programmes_offered": "Child Half-Day AM",
+      "fees": "520",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-01-01",
+      "programmes_offered": "Child Half-Day PM",
+      "fees": "520",
+      "remarks": "na",
+      "age_from": "18"
+    }
+  ],
+  "license_history": [
+    {
+      "license_issue_date": "2016-08-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2014-08-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2012-08-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2010-08-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2008-08-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2006-08-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2005-08-01",
+      "license_tenure": "12"
+    },
+    {
+      "license_issue_date": "2003-08-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2001-08-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "1999-08-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "1998-08-01",
+      "license_tenure": "12"
+    },
+    {
+      "license_issue_date": "1998-02-01",
+      "license_tenure": "6"
+    },
+    {
+      "license_issue_date": "1997-08-01",
+      "license_tenure": "6"
+    }
+  ],
+  "incidental_charges": [
+    {
+      "incidental_charges": "UNIFORM",
+      "amount": "18",
+      "frequency": "Annual"
+    },
+    {
+      "incidental_charges": "T-SHIRT SUIT",
+      "amount": "16",
+      "frequency": "Annual"
+    },
+    {
+      "incidental_charges": "INSURANCE",
+      "amount": "5",
+      "frequency": "Annual"
+    },
+    {
+      "incidental_charges": "PVC Mattress(Optional)",
+      "amount": "35",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "MATTRESS COVER",
+      "amount": "10",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "Registration Fee",
+      "amount": "50",
+      "frequency": "Ad-hoc"
+    }
+  ],
+  "svy21": [
+    33297.94,
+    39784.56
+  ],
+  "coordinates": [
+    103.8809244,
+    1.3760714
+  ],
+  "planning_area": "HG"
+}

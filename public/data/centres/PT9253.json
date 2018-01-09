@@ -1,0 +1,112 @@
+{
+  "provision_of_transport": false,
+  "last_updated": "2017-11-10",
+  "spark_certified": false,
+  "extended_operating_hours": false,
+  "second_languages_offered": "Chinese",
+  "postal_code": "554360",
+  "centre_website": null,
+  "saturday": "07:00-14:00",
+  "centre_address": "Blk 15, SERANGOON NORTH AVENUE 5, #02 - 00, SINGAPORE 554360",
+  "n1_vacancy": "Immediate vacancies",
+  "infant_vacancy": "No vacancies for the next 1-2 years",
+  "government_subsidy": true,
+  "organisation_code": "PT",
+  "iccp": false,
+  "centre_email_address": "SHUZHENTEO@MINDCHAMPS.ORG",
+  "centre_code": "PT9253",
+  "weekday_halfday_am": "07:00-13:00",
+  "weekday_halfday_pm": "13:00-19:00",
+  "remarks": null,
+  "scheme_type": null,
+  "weekday_full_day": "07:00-19:00",
+  "centre_contact_no": "69699947",
+  "k1_vacancy": "Immediate vacancies",
+  "food_offered": "Halal Food with No Beef(with Certification from MUIS)",
+  "pg_vacancy": "Immediate vacancies",
+  "n2_vacancy": "Immediate vacancies",
+  "gst_regisration": true,
+  "centre_name": "MINDCHAMPS PRESCHOOL @ BUANGKOK PTE LTD",
+  "organisation_description": "PRIVATE",
+  "k2_vacancy": "Immediate vacancies",
+  "id": "PT9253",
+  "service_listing": [
+    {
+      "age_to": "35",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-01-01",
+      "programmes_offered": "Child Full Day",
+      "fees": "1968.8",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-01-01",
+      "programmes_offered": "Child Full Day",
+      "fees": "1861.8",
+      "remarks": "na",
+      "age_from": "36"
+    },
+    {
+      "age_to": "35",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-01-01",
+      "programmes_offered": "Child Half-Day AM",
+      "fees": "1754.8",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-01-01",
+      "programmes_offered": "Child Half-Day AM",
+      "fees": "1647.8",
+      "remarks": "na",
+      "age_from": "36"
+    }
+  ],
+  "license_history": [
+    {
+      "license_issue_date": "2017-04-20",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2016-04-20",
+      "license_tenure": "12"
+    }
+  ],
+  "incidental_charges": [
+    {
+      "incidental_charges": "UNIFORM",
+      "amount": "58.85",
+      "frequency": "Annual"
+    },
+    {
+      "incidental_charges": "REGISTRATION FEE",
+      "amount": "460.1",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "INSURANCE (OPTIONAL)",
+      "amount": "6.4",
+      "frequency": "Annual"
+    },
+    {
+      "incidental_charges": "DEPOSIT",
+      "amount": "1904.6",
+      "frequency": "Ad-hoc"
+    }
+  ],
+  "svy21": [
+    32154.22,
+    39774.79
+  ],
+  "coordinates": [
+    103.8706473,
+    1.3759833
+  ],
+  "planning_area": "SG"
+}

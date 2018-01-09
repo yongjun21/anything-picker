@@ -1,0 +1,172 @@
+{
+  "provision_of_transport": false,
+  "last_updated": "2017-11-14",
+  "spark_certified": false,
+  "extended_operating_hours": false,
+  "second_languages_offered": "Chinese",
+  "postal_code": "129423",
+  "centre_website": null,
+  "saturday": "07:00-14:00",
+  "centre_address": "111 FABER DRIVE, SINGAPORE 129423",
+  "n1_vacancy": "No vacancies for the next 1-2 years",
+  "infant_vacancy": "No vacancies for the next 1-2 years",
+  "government_subsidy": true,
+  "organisation_code": "PT",
+  "iccp": false,
+  "centre_email_address": "jessiechua@eurekaschoolhouse.com.sg",
+  "centre_code": "PT7320",
+  "weekday_halfday_am": "07:00-13:00",
+  "weekday_halfday_pm": "13:00-19:00",
+  "remarks": null,
+  "scheme_type": null,
+  "weekday_full_day": "07:00-19:00",
+  "centre_contact_no": "67746784",
+  "k1_vacancy": "Immediate vacancies",
+  "food_offered": "No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)",
+  "pg_vacancy": "No vacancies for the next 1-2 years",
+  "n2_vacancy": "Immediate vacancies",
+  "gst_regisration": false,
+  "centre_name": "EUREKA SCHOOLHOUSE PTE LTD",
+  "organisation_description": "PRIVATE",
+  "k2_vacancy": "Immediate vacancies",
+  "id": "PT7320",
+  "service_listing": [
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-01-01",
+      "programmes_offered": "Child Half-Day AM",
+      "fees": "740",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-01-01",
+      "programmes_offered": "Child Half-Day PM",
+      "fees": "740",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "155",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-01-01",
+      "programmes_offered": "Student Care Service (AM)",
+      "fees": "480",
+      "remarks": "na",
+      "age_from": "84"
+    },
+    {
+      "age_to": "155",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-01-01",
+      "programmes_offered": "Student Care Service (PM)",
+      "fees": "480",
+      "remarks": "na",
+      "age_from": "84"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-01-01",
+      "programmes_offered": "Child FC1-12 to 24 hrs/wk",
+      "fees": "630",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-01-01",
+      "programmes_offered": "Child Full Day",
+      "fees": "990",
+      "remarks": "na",
+      "age_from": "18"
+    }
+  ],
+  "license_history": [
+    {
+      "license_issue_date": "2016-03-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2015-03-01",
+      "license_tenure": "12"
+    },
+    {
+      "license_issue_date": "2013-03-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2011-03-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2009-03-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2008-03-01",
+      "license_tenure": "12"
+    },
+    {
+      "license_issue_date": "2007-03-01",
+      "license_tenure": "12"
+    },
+    {
+      "license_issue_date": "2006-03-01",
+      "license_tenure": "12"
+    },
+    {
+      "license_issue_date": "2005-03-01",
+      "license_tenure": "12"
+    },
+    {
+      "license_issue_date": "2004-03-01",
+      "license_tenure": "12"
+    }
+  ],
+  "incidental_charges": [
+    {
+      "incidental_charges": "Insurance(Optional)",
+      "amount": "10",
+      "frequency": "Annual"
+    },
+    {
+      "incidental_charges": "REGISTRATION",
+      "amount": "120",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "Deposit",
+      "amount": "680",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "Deposit",
+      "amount": "930",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "Deposit",
+      "amount": "570",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "Deposit",
+      "amount": "420",
+      "frequency": "Ad-hoc"
+    }
+  ],
+  "svy21": [
+    19421.72,
+    33554.08
+  ],
+  "coordinates": [
+    103.7562383,
+    1.3197245
+  ],
+  "planning_area": "CL"
+}

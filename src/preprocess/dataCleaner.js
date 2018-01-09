@@ -70,13 +70,22 @@ const jobs = centres.map(raw => {
 
 Promise.all(jobs).then(result => {
   const heatmap = new CustomHeatmap()
+  const locations = {}
   result.forEach(processed => {
     if (processed.coordinates) {
+      processed.coordinates = processed.coordinates.map(v => +v.toFixed(7))
+      processed.svy21 = processed.svy21.map(v => +v.toFixed(2))
       const match = heatmap.bin(processed.coordinates)[0]
       if (match) {
         processed.planning_area = match.id
       }
     }
-    fs.writeFileSync(`public/data/${processed.id}.json`, JSON.stringify(processed, null, 2))
+    locations[processed.id] = {
+      coordinates: processed.coordinates,
+      svy21: processed.svy21,
+      planningArea: processed.planning_area
+    }
+    fs.writeFileSync(`public/data/centres/${processed.id}.json`, JSON.stringify(processed, null, 2))
   })
+  fs.writeFileSync('data/locations.json', JSON.stringify(locations))
 })

@@ -1,33 +1,6 @@
 import {optionsSelected} from 'helpers/util'
 import {capitalize} from 'helpers/text'
 
-export const homeSchoolDistance = {
-  namespaced: true,
-  state: {
-    oneKm: [],
-    twoKm: []
-  },
-  mutations: {
-    setData (state, {oneKm, twoKm}) {
-      state.oneKm = oneKm
-      state.twoKm = twoKm
-    }
-  },
-  actions: {
-    queryOnemap (context, {postalCode, blkNo}) {
-      context.commit('setData', {oneKm: [], twoKm: []})
-      let url = window.location.origin + '/nearby-school'
-      if (postalCode && blkNo) {
-        url += `?postalcode=${postalCode}&hbn=${blkNo}`
-        return window.fetch(url)
-          .then(res => res.json())
-          .then(json => context.commit('setData', json.result))
-          .catch(err => console.error(err))
-      }
-    }
-  }
-}
-
 export const schoolLevel = {
   state: {
     options: [

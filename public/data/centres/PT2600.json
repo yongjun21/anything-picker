@@ -1,0 +1,182 @@
+{
+  "provision_of_transport": false,
+  "last_updated": "2017-11-10",
+  "spark_certified": false,
+  "extended_operating_hours": false,
+  "second_languages_offered": "Chinese",
+  "postal_code": "248935",
+  "centre_website": "thechildrensplace.com.sg",
+  "saturday": "07:30-13:30",
+  "centre_address": "19, KAY SIANG ROAD, SINGAPORE 248935",
+  "n1_vacancy": "Immediate vacancies",
+  "infant_vacancy": "No vacancies for the next 1-2 years",
+  "government_subsidy": true,
+  "organisation_code": "PT",
+  "iccp": false,
+  "centre_email_address": "jm@thechildrensplace.com.sg",
+  "centre_code": "PT2600",
+  "weekday_halfday_am": "07:30-13:00",
+  "weekday_halfday_pm": "13:00-18:30",
+  "remarks": null,
+  "scheme_type": null,
+  "weekday_full_day": "07:30-18:30",
+  "centre_contact_no": "64723788",
+  "k1_vacancy": "Immediate vacancies",
+  "food_offered": "No Pork No Lard with Beef(from Non Halal Sources)",
+  "pg_vacancy": "Immediate vacancies",
+  "n2_vacancy": "Immediate vacancies",
+  "gst_regisration": true,
+  "centre_name": "THE CHILDREN'S PLACE PTE LTD",
+  "organisation_description": "PRIVATE",
+  "k2_vacancy": "Immediate vacancies",
+  "id": "PT2600",
+  "service_listing": [
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-09-01",
+      "programmes_offered": "Child FC1-12 to 24 hrs/wk",
+      "fees": "1481.95",
+      "remarks": "4 half days per week.  3 half days per week will be at $1118.15",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-09-01",
+      "programmes_offered": "Child FC1-12 to 24 hrs/wk",
+      "fees": "1118.15",
+      "remarks": "3 Half days per week",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-09-01",
+      "programmes_offered": "Child FC3- Above 36 to 48 hrs/wk",
+      "fees": "1995.55",
+      "remarks": "4 full days per week",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-09-01",
+      "programmes_offered": "Child Full Day",
+      "fees": "1995.55",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-09-01",
+      "programmes_offered": "Child Half-Day AM",
+      "fees": "1530.1",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-09-01",
+      "programmes_offered": "Child Half-Day PM",
+      "fees": "1530.1",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-09-01",
+      "programmes_offered": "Emergency Care",
+      "fees": "96.3",
+      "remarks": "Half day e-care",
+      "age_from": "18"
+    },
+    {
+      "age_to": "144",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-09-01",
+      "programmes_offered": "Emergency Care",
+      "fees": "149.8",
+      "remarks": "Full day e-care",
+      "age_from": "18"
+    }
+  ],
+  "license_history": [
+    {
+      "license_issue_date": "2016-04-15",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2014-04-15",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2012-04-15",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2010-04-15",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2008-04-15",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2006-04-15",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2004-04-15",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2002-04-15",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2000-04-15",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "1998-04-15",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "1996-04-15",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "1994-04-15",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "1993-10-15",
+      "license_tenure": "6"
+    }
+  ],
+  "incidental_charges": [
+    {
+      "incidental_charges": "Insurance(Optional)",
+      "amount": "7.49",
+      "frequency": "Annual"
+    },
+    {
+      "incidental_charges": "Registration Fee",
+      "amount": "481.5",
+      "frequency": "Ad-hoc"
+    }
+  ],
+  "svy21": [
+    25360.61,
+    31192.91
+  ],
+  "coordinates": [
+    103.8096025,
+    1.298372
+  ],
+  "planning_area": "TN"
+}
