@@ -19,7 +19,7 @@ Vue.use(Vuex)
 
 const store = new Vuex.Store({
   state: {
-    schoolList: null,
+    centreList: null,
     schoolDetail: {},
     travelTime: null,
     bookmarked: [],
@@ -37,7 +37,7 @@ const store = new Vuex.Store({
   },
   mutations: {
     setSchoolList (state, arr) {
-      state.schoolList = arr
+      state.centreList = arr
     },
     addSchoolDetail (state, obj) {
       Vue.set(state.schoolDetail, obj.id, obj)
@@ -60,7 +60,7 @@ const store = new Vuex.Store({
   },
   actions: {
     fetchSchoolList (context) {
-      return window.fetch(window.location.origin + '/schoolList.json')
+      return window.fetch(window.location.origin + '/centreList.json')
         .then(res => res.json())
         .then(json => {
           context.commit('setSchoolList', json)

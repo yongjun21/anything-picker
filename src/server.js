@@ -8,7 +8,7 @@ import minBy from 'lodash/minBy'
 
 import {onemapApi} from './helpers/api'
 
-import schoolList from '../public/schoolList'
+import centreList from '../public/centreList'
 import busStopList from '../public/busStopList'
 
 const app = express()
@@ -37,7 +37,7 @@ app.get('/nearby-school', function (req, res) {
         const oneKm = []
         const twoKm = []
         results.forEach(match => {
-          const school = schoolList.find(row => row.name.toUpperCase() === match.SCHOOLNAME.toUpperCase())
+          const school = centreList.find(row => row.name.toUpperCase() === match.SCHOOLNAME.toUpperCase())
           if (school) {
             if (match.DIST_CODE === '1') oneKm.push(school.id)
             else if (match.DIST_CODE === '2') twoKm.push(school.id)
@@ -79,7 +79,7 @@ app.get('/travel-time', function (req, res) {
   filtered.sort((a, b) => a.timeSpentWalking - b.timeSpentWalking)
 
   const result = {}
-  schoolList.forEach(school => {
+  centreList.forEach(school => {
     const fastest = minBy(filtered.slice(0, 4), busStop => {
       return busStop.timeSpentDriving[school.id] + busStop.timeSpentWalking
     })

@@ -16,7 +16,7 @@ const routes = [
   {path: '/bookmark', components: {default: MapView, aside: ListView}},
   {path: '/detail/:schoolId', components: {default: MapView, aside: DetailView}, props: {default: true, aside: true}},
   // {path: '/compare', component: CompareView},
-  {path: '/*', redirect: '/intro'}
+  {path: '/*', redirect: '/explore'}
 ]
 
 const router = new VueRouter({mode: 'history', routes})
