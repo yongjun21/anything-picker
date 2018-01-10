@@ -1,0 +1,51 @@
+{
+	"name": "K & K DENTAL SURGERY",
+	"tel": "64635586",
+	"fax": "64670938",
+	"licensee": "KAM MING NIE",
+	"licensePeriod": "11/06/2014 to 10/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405616",
+	"address": "140 UPPER BUKIT TIMAH ROAD, BEAUTY WORLD PLAZA, #02-09 Singapore 588176",
+	"doctorInCharge": [
+		{
+			"name": "KAM MING NIE",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 08:00 pm",
+		"Wednesday": "09:00 am to 08:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 08:00 pm",
+		"Saturday": "09:00 am to 02:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405616",
+	"coordinates": [
+		103.7762594,
+		1.3418002
+	],
+	"svy21": [
+		21649.93,
+		35995.04
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

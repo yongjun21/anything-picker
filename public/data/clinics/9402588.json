@@ -1,0 +1,40 @@
+{
+	"name": "NEIGHBOURHOOD CLINIC",
+	"tel": "64564079",
+	"fax": "64564079",
+	"licensee": "YONG HOE KOON",
+	"licensePeriod": "04/01/2014 to 03/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402588",
+	"address": "BLK 284 BISHAN ST 22, #01-207 Singapore 570284",
+	"doctorInCharge": [
+		{
+			"name": "YONG HOE KOON",
+			"qualifications": [
+				"MBBS (University of Newcastle Upon Tyne, United Kingdom) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9402588",
+	"coordinates": [
+		103.8441505,
+		1.3588667
+	],
+	"svy21": [
+		29205.47,
+		37882.09
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

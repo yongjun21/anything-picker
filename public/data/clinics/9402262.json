@@ -1,0 +1,52 @@
+{
+	"name": "BISHAN 8 CLINIC FOR WOMEN",
+	"tel": "62500055",
+	"fax": "67381176",
+	"licensee": "LEE YUN TSHAN VINCENT",
+	"licensePeriod": "19/05/2014 to 18/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402262",
+	"address": "BLK 501 BISHAN STREET 11, #01-362 Singapore 570501",
+	"doctorInCharge": [
+		{
+			"name": "LEE YUN TSHAN VINCENT",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1984",
+				"M Med (O&G) (National University of Singapore, Singapore) 1984",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1988"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm"
+	},
+	"id": "9402262",
+	"coordinates": [
+		103.8490773,
+		1.3484169
+	],
+	"svy21": [
+		29753.77,
+		36726.61
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

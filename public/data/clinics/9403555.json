@@ -1,0 +1,58 @@
+{
+	"name": "KCS MEDICAL CENTRE PTE LTD",
+	"tel": "64438322",
+	"fax": "64418322",
+	"licensee": "KCS MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "31/03/2016 to 30/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9403555",
+	"address": "BLK 515 Bedok North Ave 2, #01-205 Singapore 460515",
+	"doctorInCharge": [
+		{
+			"name": "Chong Swee Long",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2002",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2007",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 02:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 02:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 02:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 02:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 02:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403555",
+	"coordinates": [
+		103.9299602,
+		1.3318666
+	],
+	"svy21": [
+		38755.22,
+		34896.77
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

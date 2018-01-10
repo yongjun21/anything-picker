@@ -1,0 +1,50 @@
+{
+	"name": "CHILD GUIDANCE CLINIC",
+	"tel": "63892200",
+	"fax": "65368376",
+	"licensee": "NATIONAL HEALTHCARE GROUP PTE LTD",
+	"licensePeriod": "01/10/2016 to 30/09/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403114",
+	"address": "3 SECOND HOSPITAL AVE, HEALTH PROMOTION BOARD BUILDING, #03-01 Singapore 168937",
+	"doctorInCharge": [
+		{
+			"name": "Ong Say How",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"M Med (Psych) (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": [
+				"Psychiatry"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Psychiatry"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:00 am to 12:30 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9403114",
+	"coordinates": [
+		103.8383462,
+		1.2796022
+	],
+	"svy21": [
+		28559.54,
+		29117.43
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

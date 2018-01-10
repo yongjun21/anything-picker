@@ -1,0 +1,49 @@
+{
+	"name": "BOYS' HOME MEDICAL CLINIC",
+	"tel": "62277777",
+	"fax": "62253735",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "01/12/2015 to 30/11/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13M0336",
+	"address": "30 JURONG WEST STREET 24, Singapore 649696",
+	"doctorInCharge": [
+		{
+			"name": "Si Hoe Sing Yin",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1963"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "07:00 am to 03:30 pm, 02:30 pm to 11:00 pm",
+		"Tuesday": "07:00 am to 03:30 pm, 02:30 pm to 11:00 pm",
+		"Wednesday": "07:00 am to 03:30 pm, 02:30 pm to 11:00 pm",
+		"Thursday": "07:00 am to 03:30 pm, 02:30 pm to 11:00 pm",
+		"Friday": "07:00 am to 03:30 pm, 02:30 pm to 11:00 pm",
+		"Saturday": "07:00 am to 01:00 pm",
+		"Sunday": "07:00 am to 01:00 pm"
+	},
+	"id": "13M0336",
+	"coordinates": [
+		103.7071983,
+		1.3491725
+	],
+	"svy21": [
+		13964.21,
+		36810.52
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

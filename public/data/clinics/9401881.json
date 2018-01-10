@@ -1,0 +1,52 @@
+{
+	"name": "WONG CLINIC & SURGERY",
+	"tel": "67760124",
+	"fax": "67760124",
+	"licensee": "WONG WEE NAM",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401881",
+	"address": "BLK 352 CLEMENTI AVE 2, #01-135 Singapore 120352",
+	"doctorInCharge": [
+		{
+			"name": "WONG WEE NAM",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1972"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:30 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:30 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:30 pm to 04:30 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:30 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:30 pm to 04:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm, 02:30 pm to 04:30 pm",
+		"Public Holiday": "09:00 am to 12:00 pm, 02:30 pm to 04:30 pm"
+	},
+	"id": "9401881",
+	"coordinates": [
+		103.7713506,
+		1.3142786
+	],
+	"svy21": [
+		21103.55,
+		32951.85
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

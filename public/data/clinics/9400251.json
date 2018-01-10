@@ -1,0 +1,56 @@
+{
+	"name": "CHONG & LIM FAMILY CLINIC",
+	"tel": "67626881",
+	"fax": "68937584",
+	"licensee": "CHONG HOI LEONG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400251",
+	"address": "BLK 103 GANGSA ROAD, #01-39 Singapore 670103",
+	"doctorInCharge": [
+		{
+			"name": "CHONG HOI LEONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"MCGP (Family Med) (College of General Practitioners, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm",
+		"Friday": "08:30 am to 12:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400251",
+	"coordinates": [
+		103.7685384,
+		1.3786707
+	],
+	"svy21": [
+		20790.78,
+		40072.02
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "TEMASEK MEDICAL CENTRE",
+	"tel": "65656556",
+	"fax": "65665483",
+	"licensee": "JL MEDICAL (BUKIT BATOK) PTE. LTD.",
+	"licensePeriod": "04/10/2016 to 03/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16C0309",
+	"address": "BLK 413 BUKIT BATOK WEST AVE 4, #01-214 Singapore 650413",
+	"doctorInCharge": [
+		{
+			"name": "LEE YENG FEN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "16C0309",
+	"coordinates": [
+		103.746597,
+		1.3635657
+	],
+	"svy21": [
+		18348.91,
+		38401.86
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

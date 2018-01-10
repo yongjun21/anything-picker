@@ -1,0 +1,52 @@
+{
+	"name": "HEALTH PARTNERS MEDICAL CLINIC",
+	"tel": "62255036",
+	"fax": "62255478",
+	"licensee": "Lee Yu Ming Damien Gerard",
+	"licensePeriod": "23/05/2017 to 22/05/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402685",
+	"address": "100 Cecil Street, The Globe, #09-01 Singapore 069532",
+	"doctorInCharge": [
+		{
+			"name": "Lee Yu Ming Damien Gerard",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "9402685",
+	"coordinates": [
+		103.8489583,
+		1.2811356
+	],
+	"svy21": [
+		29740.57,
+		29286.99
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

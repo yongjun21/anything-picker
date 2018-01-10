@@ -1,0 +1,52 @@
+{
+	"name": "DAWSON MEDICAL CLINIC",
+	"tel": "62502022",
+	"fax": "62508577",
+	"licensee": "CANTONMENT HMG PTE. LTD.",
+	"licensePeriod": "15/02/2016 to 14/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0037",
+	"address": "BLK 85 DAWSON ROAD, #01-05 Singapore 141085",
+	"doctorInCharge": [
+		{
+			"name": "Ng Khin Seng",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "16M0037",
+	"coordinates": [
+		103.8097586,
+		1.2953197
+	],
+	"svy21": [
+		25377.98,
+		30855.4
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

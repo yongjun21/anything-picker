@@ -1,0 +1,44 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "65706741",
+	"fax": "65706741",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "09/07/2017 to 08/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0170",
+	"address": "9 PUNGGOL PLACE, PUNGGOL VIEW PRIMARY, Singapore 828845",
+	"doctorInCharge": [
+		{
+			"name": "NOELINE TAN",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "13C0170",
+	"coordinates": [
+		103.9051564,
+		1.4051458
+	],
+	"svy21": [
+		35994.56,
+		42999.53
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

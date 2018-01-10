@@ -1,0 +1,59 @@
+{
+	"name": "HEART CONSULTANTS PTE. LTD.",
+	"tel": "62511618",
+	"fax": "62511619",
+	"licensee": "HEART CONSULTANTS PTE. LTD.",
+	"licensePeriod": "17/10/2016 to 16/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405738",
+	"address": "820 THOMSON ROAD, MOUNT ALVERNIA HOSPITAL MEDICAL CENTRE D, #06-55 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "Ho Kheng Thye",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1995",
+				"DIP (Certification Board of Nuclear Cardiology, United States) 1998",
+				"FAMS (Academy of Medicine, Singapore) 2000"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405738",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

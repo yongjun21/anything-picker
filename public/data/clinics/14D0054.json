@@ -1,0 +1,40 @@
+{
+	"name": "HEALTHWAY DENTAL CLINIC",
+	"tel": "65679881",
+	"fax": "65679897",
+	"licensee": "HEALTHWAY MEDICAL GROUP PTE LTD",
+	"licensePeriod": "24/03/2016 to 23/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0054",
+	"address": "BLK 153 BUKIT BATOK STREET 11, #01-284 Singapore 650153",
+	"doctorInCharge": [
+		{
+			"name": "Lee Hock Leong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "14D0054",
+	"coordinates": [
+		103.7442765,
+		1.3474795
+	],
+	"svy21": [
+		18090.6,
+		36623.13
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

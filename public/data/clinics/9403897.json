@@ -1,0 +1,53 @@
+{
+	"name": "ALEXIUS CHEE GASTROENTEROLOGY & MEDICAL CLINIC",
+	"tel": "65358833",
+	"fax": "62352389",
+	"licensee": "Chee Eng Nam Alexius",
+	"licensePeriod": "03/03/2015 to 02/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403897",
+	"address": "3 Mount Elizabeth, Mount Elizabeth Medical Centre, #05-09 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Chee Eng Nam Alexius",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1986",
+				"FAMS (Gastroenterology) (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Gastroenterology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Gastroenterology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 04:30 pm",
+		"Tuesday": "09:00 am to 04:30 pm",
+		"Wednesday": "09:00 am to 04:30 pm",
+		"Thursday": "09:00 am to 04:30 pm",
+		"Friday": "09:00 am to 04:30 pm"
+	},
+	"id": "9403897",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

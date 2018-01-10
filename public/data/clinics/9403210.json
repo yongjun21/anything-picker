@@ -1,0 +1,49 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64554142",
+	"fax": "64554142",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "18/06/2014 to 17/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403210",
+	"address": "BLK 5 ANG MO KIO ST 52, Singapore 569228",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wanyi",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403210",
+	"coordinates": [
+		103.8521322,
+		1.3722329
+	],
+	"svy21": [
+		30093.73,
+		39360.07
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

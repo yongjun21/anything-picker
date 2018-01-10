@@ -1,0 +1,47 @@
+{
+	"name": "J.D.G. DENTAL SURGERY (JURONG DENTAL GROUP)",
+	"tel": "63624729",
+	"fax": "63431091",
+	"licensee": "CHEW KIAN PENG JEFFREY",
+	"licensePeriod": "19/07/2015 to 18/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400751",
+	"address": "BLK 111 WOODLANDS ST 13, #01-84 Singapore 730111",
+	"doctorInCharge": [
+		{
+			"name": "CHEW KIAN PENG JEFFREY",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 04:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:00 pm to 08:00 pm",
+		"Wednesday": "06:30 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 01:30 pm to 03:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400751",
+	"coordinates": [
+		103.7820594,
+		1.4379438
+	],
+	"svy21": [
+		22295.64,
+		46626.1
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

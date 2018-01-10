@@ -1,0 +1,39 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67935398",
+	"fax": "67935398",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402902",
+	"address": "BLK 31 JURONG WEST ST 91, Singapore 649037",
+	"doctorInCharge": [
+		{
+			"name": "Tham Sai Soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9402902",
+	"coordinates": [
+		103.6877696,
+		1.3390226
+	],
+	"svy21": [
+		11801.94,
+		35688.32
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

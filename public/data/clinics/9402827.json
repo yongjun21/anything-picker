@@ -1,0 +1,51 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "62851409",
+	"fax": "62851409",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402827",
+	"address": "BLK 25 MOUNT VERNON ROAD, Singapore 368051",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wanyi",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9402827",
+	"coordinates": [
+		103.8778525,
+		1.3413947
+	],
+	"svy21": [
+		32956.14,
+		35950.18
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

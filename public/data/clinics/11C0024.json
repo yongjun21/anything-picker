@@ -1,0 +1,46 @@
+{
+	"name": "LONDON (MH) CLINIC & SURGERY",
+	"tel": "62807262",
+	"fax": "62807262",
+	"licensee": "NG WEI SENG",
+	"licensePeriod": "01/03/2017 to 28/02/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0024",
+	"address": "BLK 104 HOUGANG AVE 1, #01-1123 Singapore 530104",
+	"doctorInCharge": [
+		{
+			"name": "NG WEI SENG",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "11C0024",
+	"coordinates": [
+		103.8903185,
+		1.3547844
+	],
+	"svy21": [
+		34343.44,
+		37430.76
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

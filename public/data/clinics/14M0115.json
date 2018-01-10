@@ -1,0 +1,40 @@
+{
+	"name": "PPP LASER CLINIC BISHAN MRT",
+	"tel": "61001234",
+	"fax": "62350412",
+	"licensee": "AESTHETIC MEDICAL HOLDINGS PTE. LTD.",
+	"licensePeriod": "09/05/2016 to 08/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0115",
+	"address": "200 BISHAN ROAD, BISHAN MRT STATION, #01-03 Singapore 579827",
+	"doctorInCharge": [
+		{
+			"name": "Teoh Tean Chun",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2008"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "14M0115",
+	"coordinates": [
+		103.848144,
+		1.350839
+	],
+	"svy21": [
+		29649.9,
+		36994.43
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

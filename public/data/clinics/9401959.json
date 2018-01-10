@@ -1,0 +1,57 @@
+{
+	"name": "YONG CLINIC & SURGERY",
+	"tel": "67531803",
+	"fax": "67557908",
+	"licensee": "YONG CHEE FAH",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401959",
+	"address": "BLK 632 YISHUN ST 61, #01-06 Singapore 760632",
+	"doctorInCharge": [
+		{
+			"name": "YONG CHEE FAH",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9401959",
+	"coordinates": [
+		103.8391869,
+		1.4185674
+	],
+	"svy21": [
+		28653.06,
+		44483.49
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

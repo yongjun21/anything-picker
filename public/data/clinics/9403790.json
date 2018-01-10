@@ -1,0 +1,53 @@
+{
+	"name": "YEO SEEM HUAT PSYCHIATRIC CLINIC PTE LTD",
+	"tel": "67345537",
+	"fax": "68352854",
+	"licensee": "YEO SEEM HUAT PSYCHIATRIC CLINIC PTE LTD",
+	"licensePeriod": "21/05/2017 to 20/05/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9403790",
+	"address": "290 ORCHARD ROAD, PARAGON, #06-10 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "YEO SEEM HUAT",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1973",
+				"MRANZCP (Psych) (Royal Australian and New Zealand College of Psychiatrists, Australia) 1982",
+				"FRANZCP (Psych) (Royal Australian and New Zealand College of Psychiatrists, Australia) 1986",
+				"FAMS (Psych) (Academy of Medicine, Singapore) 1986"
+			],
+			"specialties": [
+				"Psychiatry"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Psychiatry"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 04:00 pm",
+		"Tuesday": "08:30 am to 04:00 pm",
+		"Wednesday": "08:30 am to 04:00 pm",
+		"Thursday": "08:30 am to 04:00 pm",
+		"Friday": "08:30 am to 04:00 pm"
+	},
+	"id": "9403790",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

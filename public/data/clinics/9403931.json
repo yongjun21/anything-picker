@@ -1,0 +1,40 @@
+{
+	"name": "TRINITY DENTAL SURGERY",
+	"tel": "65651100",
+	"fax": "65665067",
+	"licensee": "Tan Gek Inn",
+	"licensePeriod": "22/03/2015 to 21/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403931",
+	"address": "BLK 130 Jurong Gateway Road, #02-205/207 Singapore 600130",
+	"doctorInCharge": [
+		{
+			"name": "Tan Gek Inn",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9403931",
+	"coordinates": [
+		103.7393213,
+		1.3347249
+	],
+	"svy21": [
+		17539.08,
+		35212.82
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

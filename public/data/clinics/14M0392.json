@@ -1,0 +1,55 @@
+{
+	"name": "EYE MAX CENTRE",
+	"tel": "66941000",
+	"fax": "66840500",
+	"licensee": "EYE MAX CENTRE PTE. LTD.",
+	"licensePeriod": "31/12/2016 to 30/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0392",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #07-42 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Leonard Ang Pek Kiang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"FRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 2000",
+				"M Med (Ophth) (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "14M0392",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "68537393",
+	"fax": "68537393",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "11/03/2016 to 10/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0049",
+	"address": "61 SEMBAWANG DRIVE, NORTHOAKS PRIMARY SCHOOL, Singapore 757622",
+	"doctorInCharge": [
+		{
+			"name": "CHEE CHING TENG",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "14D0049",
+	"coordinates": [
+		103.814197,
+		1.4566078
+	],
+	"svy21": [
+		25872.08,
+		48689.82
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	]
+}

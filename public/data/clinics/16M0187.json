@@ -1,0 +1,49 @@
+{
+	"name": "APICARE PAIN CLINIC",
+	"tel": "65133383",
+	"fax": "64439798",
+	"licensee": "APICARE PAIN SPECIALIST PTE. LTD.",
+	"licensePeriod": "20/06/2016 to 19/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0187",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #14-09/10 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "Tay Ching Yit Wilson",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004",
+				"Dip Acup (Singapore College of Traditional Chinese Medicine, Singapore) 2008",
+				"M Med (Anaes) (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": [
+				"Anaesthesiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Anaesthesiology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "16M0187",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

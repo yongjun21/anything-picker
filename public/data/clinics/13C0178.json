@@ -1,0 +1,63 @@
+{
+	"name": "RESPIRATORY MEDICAL ASSOCIATES",
+	"tel": "67344788",
+	"fax": "67345766",
+	"licensee": "RESPIRATORY MEDICAL ASSOCIATES PTE. LTD.",
+	"licensePeriod": "15/07/2017 to 14/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0178",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #04-33 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Chew Huck Chin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999",
+				"M Med (Emergency Med) (National University of Singapore, Singapore) 2003",
+				"MRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 2003",
+				"M Med (Int Med) (National University of Singapore, Singapore) 2004",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2004",
+				"Diploma in Intensive Care Medicine (ESICM) (European Society of Intensive Care Medicine, Belgium) 2009"
+			],
+			"specialties": [
+				"Emergency Medicine",
+				"Intensive Care Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Emergency Medicine",
+			"Intensive Care Medicine",
+			"Respiratory Medicine"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "13C0178",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"name": "STANDARD CLINIC & SURGERY",
+	"tel": "64441950",
+	"fax": "64441951",
+	"licensee": "STANDARD CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "27/10/2017 to 26/10/2019",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
+	"hciCode": "15M0368",
+	"address": "BLK 261 PUNGGOL WAY, MULTI STOREY CAR PARK, #01-05 Singapore 820261",
+	"doctorInCharge": [
+		{
+			"name": "boon seng poh",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"Dip Acup (Singapore College of Traditional Chinese Medicine, Singapore) 2007"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 03:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "06:00 pm to 09:00 pm"
+	},
+	"id": "15M0368",
+	"coordinates": [
+		103.8968239,
+		1.4054135
+	],
+	"svy21": [
+		35067.27,
+		43029.1
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

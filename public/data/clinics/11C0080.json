@@ -1,0 +1,56 @@
+{
+	"name": "SPECIALIST DENTAL GROUP",
+	"tel": "67349393",
+	"fax": "67336032",
+	"licensee": "NORTHWESTERN NRG. PTE. LTD.",
+	"licensePeriod": "16/06/2017 to 15/06/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "11C0080",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #08-03 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Ansgar Cheng Chi Chung",
+			"qualifications": [
+				"BDS (University of Hong Kong, China, Hong Kong) 1990",
+				"MS (Northwestern University, United States) 1992",
+				"CERT PROSTHODONTICS (Northwestern University, United States) 1992",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 1998",
+				"FAMS (Prosthodontics) (Academy of Medicine, Singapore, Singapore) 1998",
+				"FRCD (Canada) (The Royal College of Dentists of Canada, Canada) 2003"
+			],
+			"specialties": [
+				"Prosthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "11C0080",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

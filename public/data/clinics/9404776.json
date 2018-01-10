@@ -1,0 +1,54 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "62733078",
+	"fax": "62745351",
+	"licensee": "Raffles Medical Group Ltd",
+	"licensePeriod": "24/03/2014 to 23/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404776",
+	"address": "1 MARITIME SQUARE, HARBOURFRONT CENTRE, #03-56 Singapore 099253",
+	"doctorInCharge": [
+		{
+			"name": "Mui Kai Soong",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1980",
+				"Dip OM (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9404776",
+	"coordinates": [
+		103.8202433,
+		1.2639699
+	],
+	"svy21": [
+		26544.82,
+		27388.9
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

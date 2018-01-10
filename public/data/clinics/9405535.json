@@ -1,0 +1,47 @@
+{
+	"name": "HEALTHWAY MEDICAL CLINIC",
+	"tel": "65820601",
+	"fax": "65820871",
+	"licensee": "HEALTHWAY MEDICAL GROUP PTE LTD",
+	"licensePeriod": "08/04/2014 to 07/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405535",
+	"address": "10 PASIR RIS CENTRAL, PASIR RIS MRT STATION, #01-20 Singapore 519634",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9405535",
+	"coordinates": [
+		103.9492846,
+		1.3730432
+	],
+	"svy21": [
+		40905.61,
+		39449.97
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

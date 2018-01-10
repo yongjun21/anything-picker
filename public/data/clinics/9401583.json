@@ -1,0 +1,50 @@
+{
+	"name": "T M AUW CLINIC",
+	"tel": "62829440",
+	"fax": "62829440",
+	"licensee": "AUW TIANG MENG @ OH TIANG MENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401583",
+	"address": "BLK 123 HOUGANG AVE 1, #01-1406 Singapore 530123",
+	"doctorInCharge": [
+		{
+			"name": "AUW TIANG MENG @ OH TIANG MENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1975",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1980"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 11:30 am, 02:00 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 11:30 am, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 11:30 am, 02:00 pm to 04:30 pm",
+		"Thursday": "09:00 am to 11:30 am, 02:00 pm to 04:30 pm",
+		"Friday": "09:00 am to 11:30 am, 02:00 pm to 04:30 pm"
+	},
+	"id": "9401583",
+	"coordinates": [
+		103.8862589,
+		1.3533831
+	],
+	"svy21": [
+		33891.66,
+		37275.81
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

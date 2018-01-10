@@ -1,0 +1,51 @@
+{
+	"name": "GREEN CROSS MEDICAL CENTRE",
+	"tel": "67813011",
+	"fax": "67813022",
+	"licensee": "CHU SIU-KONG",
+	"licensePeriod": "18/12/2015 to 17/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9400615",
+	"address": "BLK 824 TAMPINES ST 81, #01-30 Singapore 520824",
+	"doctorInCharge": [
+		{
+			"name": "CHU SIU-KONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 09:00 pm",
+		"Tuesday": "08:30 am to 09:00 pm",
+		"Wednesday": "08:30 am to 09:00 pm",
+		"Thursday": "08:30 am to 09:00 pm",
+		"Friday": "08:30 am to 09:00 pm"
+	},
+	"id": "9400615",
+	"coordinates": [
+		103.9327149,
+		1.3490374
+	],
+	"svy21": [
+		39061.71,
+		36795.45
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

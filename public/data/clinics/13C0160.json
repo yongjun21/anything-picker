@@ -1,0 +1,63 @@
+{
+	"name": "SPECIALIST DENTAL GROUP",
+	"tel": "67349393",
+	"fax": "67336032",
+	"licensee": "NORTHWESTERN UNITY 1 PTE. LTD.",
+	"licensePeriod": "28/10/2017 to 27/10/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "13C0160",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #07-17 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "TAN TIAT HENG EDWIN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1989",
+				"MSc (Prosthodontics) (Northwestern) (Northwestern University, United States) 1994",
+				"Cert Prosthodontics (Northwestern) (Northwestern University, United States) 1994",
+				"FAM (Singapore) (Academy of Medicine, Singapore, Singapore) 2006"
+			],
+			"specialties": [
+				"Prosthodontics"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Dental Public Health",
+			"Oral & Maxillo-Facial Surgery",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0160",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

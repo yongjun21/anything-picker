@@ -1,0 +1,55 @@
+{
+	"name": "SHENTON FAMILY MEDICAL CLINIC",
+	"tel": "63910860",
+	"fax": "63965973",
+	"licensee": "SHENTON FAMILY MEDICAL CLINIC (TOWNER)",
+	"licensePeriod": "24/08/2015 to 23/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0128",
+	"address": "BLK 102 TOWNER ROAD, TOWNERVILLE, #01-268 (Lower Floor) Singapore 322102",
+	"doctorInCharge": [
+		{
+			"name": "Tan Wee Lin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2003",
+				"MRCSEd (Royal College of Surgeons of Edinburgh, United Kingdom) 2008"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "11C0128",
+	"coordinates": [
+		103.862002,
+		1.3205861
+	],
+	"svy21": [
+		31192.18,
+		33649.24
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

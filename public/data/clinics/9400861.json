@@ -1,0 +1,52 @@
+{
+	"name": "KLINIK OMAR",
+	"tel": "64438011",
+	"fax": "64438011",
+	"licensee": "OMAR BIN SALEH TALIB",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400861",
+	"address": "BLK 56 NEW UPPER CHANGI ROAD, #01-1324 Singapore 461056",
+	"doctorInCharge": [
+		{
+			"name": "OMAR BIN SALEH TALIB",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 1983",
+				"MCGP (Family Med) (College of General Practitioners, Malaysia) 1983",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:00 pm, 02:30 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:30 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:30 pm to 05:30 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:30 pm to 05:30 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:30 pm to 05:30 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "08:30 am to 12:00 pm"
+	},
+	"id": "9400861",
+	"coordinates": [
+		103.9410826,
+		1.3249938
+	],
+	"svy21": [
+		39993.06,
+		34136.86
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

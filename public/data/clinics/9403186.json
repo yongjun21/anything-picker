@@ -1,0 +1,44 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "63156424",
+	"fax": "63156424",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "26/04/2014 to 25/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403186",
+	"address": "BLK 41 EDGEFIELD PLAINS, Singapore 828869",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403186",
+	"coordinates": [
+		103.9078476,
+		1.4000914
+	],
+	"svy21": [
+		36294.07,
+		42440.64
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

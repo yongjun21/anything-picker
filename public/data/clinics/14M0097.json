@@ -1,0 +1,41 @@
+{
+	"name": "REFRESH LASER . CLINIC",
+	"tel": "62199819",
+	"fax": "67492486",
+	"licensee": "REFRESH LASER CLINIC LOT1 PTE. LTD.",
+	"licensePeriod": "22/04/2016 to 21/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0097",
+	"address": "21 CHOA CHU KANG AVENUE 4, LOT ONE, SHOPPERS' MALL, #02-26 Singapore 689812",
+	"doctorInCharge": [
+		{
+			"name": "Char Li Shing",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "14M0097",
+	"coordinates": [
+		103.7450118,
+		1.3849746
+	],
+	"svy21": [
+		18172.58,
+		40769.15
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

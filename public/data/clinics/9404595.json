@@ -1,0 +1,54 @@
+{
+	"name": "CLIFFORD DISPENSARY PTE LTD",
+	"tel": "63760788",
+	"fax": "63760775",
+	"licensee": "LEE TZU HOOI",
+	"licensePeriod": "19/10/2015 to 18/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404595",
+	"address": "3 HARBOURFRONT PLACE, HARBOURFRONT TOWER TWO, #04-01 Singapore 099254",
+	"doctorInCharge": [
+		{
+			"name": "SEAH GEOK TENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"MSc (Clinical Microbiology) (University of London, United Kingdom) 1997",
+				"PhD (University of London, United Kingdom) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9404595",
+	"coordinates": [
+		103.8186869,
+		1.2644861
+	],
+	"svy21": [
+		26371.6,
+		27445.98
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

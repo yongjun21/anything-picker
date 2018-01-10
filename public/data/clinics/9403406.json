@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67699649",
+	"fax": "67699649",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "28/08/2015 to 27/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403406",
+	"address": "11 CHOA CHU KANG STREET 54, KRANJI PRIMARY SCHOOL, Singapore 689189",
+	"doctorInCharge": [
+		{
+			"name": "Tham Sai Soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403406",
+	"coordinates": [
+		103.7471625,
+		1.3935648
+	],
+	"svy21": [
+		18411.96,
+		41719.01
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

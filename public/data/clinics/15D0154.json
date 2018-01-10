@@ -1,0 +1,53 @@
+{
+	"name": "MYSMILE DENTAL CLINIC",
+	"tel": "62808140",
+	"fax": "62808127",
+	"licensee": "U&I DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "22/05/2017 to 21/05/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "15D0154",
+	"address": "BLK 108 HOUGANG AVENUE 1, #01-1307 Singapore 530108",
+	"doctorInCharge": [
+		{
+			"name": "Ng Kay Eng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 01:30 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 01:30 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 01:30 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 01:30 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 01:30 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm, 01:30 pm to 05:00 pm",
+		"Sunday": "09:00 am to 12:30 pm, 01:30 pm to 05:00 pm"
+	},
+	"id": "15D0154",
+	"coordinates": [
+		103.8900932,
+		1.3527739
+	],
+	"svy21": [
+		34318.37,
+		37208.46
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

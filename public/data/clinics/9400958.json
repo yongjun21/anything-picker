@@ -1,0 +1,56 @@
+{
+	"name": "LIFECARE FAMILY CLINIC & SURGERY",
+	"tel": "62822482",
+	"fax": "62820792",
+	"licensee": "SENG TEE KIAT THOMAS",
+	"licensePeriod": "07/02/2016 to 06/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9400958",
+	"address": "BLK 106 HOUGANG AVE 1, #01-1221 Singapore 530106",
+	"doctorInCharge": [
+		{
+			"name": "SENG TEE KIAT THOMAS",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400958",
+	"coordinates": [
+		103.8906808,
+		1.353703
+	],
+	"svy21": [
+		34383.76,
+		37311.19
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

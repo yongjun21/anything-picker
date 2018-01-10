@@ -1,0 +1,49 @@
+{
+	"name": "CHEN & LOW FAMILY DOCTORS",
+	"tel": "68934217",
+	"fax": "68934207",
+	"licensee": "CHEN JENN YUH",
+	"licensePeriod": "06/04/2014 to 05/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402637",
+	"address": "BLK 548 WOODLANDS DR 44, #02-22 Singapore 730548",
+	"doctorInCharge": [
+		{
+			"name": "CHEN JENN YUH",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Thursday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Friday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "08:30 am to 12:00 pm"
+	},
+	"id": "9402637",
+	"coordinates": [
+		103.7939311,
+		1.4308999
+	],
+	"svy21": [
+		23616.76,
+		45847.2
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

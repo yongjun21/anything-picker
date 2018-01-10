@@ -1,0 +1,52 @@
+{
+	"name": "SHIM CLINIC",
+	"tel": "64467446",
+	"fax": "64497446",
+	"licensee": "SHIM CLINIC",
+	"licensePeriod": "22/06/2017 to 21/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15C0200",
+	"address": "BLK 168 BEDOK SOUTH AVENUE 3, #01-473 Singapore 460168",
+	"doctorInCharge": [
+		{
+			"name": "SHIM PHYAU MIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "09:00 am to 03:00 pm, 07:00 pm to 11:00 pm",
+		"Tuesday": "09:00 am to 03:00 pm, 07:00 pm to 11:00 pm",
+		"Wednesday": "09:00 am to 03:00 pm, 07:00 pm to 11:00 pm",
+		"Thursday": "09:00 am to 03:00 pm, 07:00 pm to 11:00 pm",
+		"Friday": "09:00 am to 03:00 pm, 07:00 pm to 11:00 pm",
+		"Saturday": "07:00 pm to 11:00 pm",
+		"Sunday": "07:00 pm to 11:00 pm"
+	},
+	"id": "15C0200",
+	"coordinates": [
+		103.9445701,
+		1.3200355
+	],
+	"svy21": [
+		40381.2,
+		33588.62
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

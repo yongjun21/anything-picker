@@ -1,0 +1,50 @@
+{
+	"name": "FULLERTON HEALTHCARE @ GETHIN-JONES",
+	"tel": "62778900",
+	"fax": "62248491",
+	"licensee": "GETHIN-JONES MEDICAL PRACTICE PTE LTD",
+	"licensePeriod": "07/10/2017 to 06/10/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404693",
+	"address": "78 SHENTON WAY, #04-01 Singapore 079120",
+	"doctorInCharge": [
+		{
+			"name": "Elton Ong Kong Yiow",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9404693",
+	"coordinates": [
+		103.8452822,
+		1.2732092
+	],
+	"svy21": [
+		29331.45,
+		28410.53
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

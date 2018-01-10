@@ -1,0 +1,47 @@
+{
+	"name": "YIM GASTROENTEROLOGY LIVER AND ENDOSCOPY CENTRE",
+	"tel": "68986898",
+	"fax": "66841911",
+	"licensee": "Yim Heng Boon",
+	"licensePeriod": "27/06/2016 to 26/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0116",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #07-39 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Yim Heng Boon",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"MRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1996"
+			],
+			"specialties": [
+				"Gastroenterology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Dermatology",
+			"Gastroenterology"
+		]
+	},
+	"id": "12C0116",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

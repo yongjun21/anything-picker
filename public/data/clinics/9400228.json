@@ -1,0 +1,50 @@
+{
+	"name": "N.K.CHEONG DENTAL CLINIC",
+	"tel": "62888059",
+	"fax": "62888059",
+	"licensee": "Soo Ying Sang",
+	"licensePeriod": "09/11/2014 to 08/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400228",
+	"address": "BLK 203 Hougang Street 21, #01-71 Singapore 530203",
+	"doctorInCharge": [
+		{
+			"name": "Soo Ying Sang",
+			"qualifications": [
+				"Dental Therapist Exam (Institute of Dental Health, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "10:00 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Tuesday": "10:00 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Wednesday": "10:00 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Thursday": "10:00 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Friday": "10:00 am to 01:00 pm, 02:30 pm to 05:00 pm, 07:15 pm to 09:00 pm",
+		"Saturday": "10:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400228",
+	"coordinates": [
+		103.8844003,
+		1.3581629
+	],
+	"svy21": [
+		33684.8,
+		37804.33
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

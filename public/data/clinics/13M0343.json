@@ -1,0 +1,53 @@
+{
+	"name": "PRUDENCE FAMILY CLINIC",
+	"tel": "62515512",
+	"fax": "62515518",
+	"licensee": "PRUDENCE FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "04/12/2015 to 03/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13M0343",
+	"address": "BLK 512 BISHAN STREET 13, #01-524 Singapore 570512",
+	"doctorInCharge": [
+		{
+			"name": "Goh Sze Yi",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 02:30 pm, 06:30 pm to 10:30 pm",
+		"Wednesday": "08:30 am to 02:30 pm, 06:30 pm to 10:30 pm",
+		"Tuesday": "08:30 am to 02:30 pm",
+		"Thursday": "08:30 am to 02:30 pm",
+		"Friday": "08:30 am to 02:30 pm, 06:30 pm to 10:30 pm",
+		"Sunday": "08:30 am to 02:30 pm, 06:30 pm to 10:30 pm",
+		"Saturday": "08:30 am to 02:30 pm"
+	},
+	"id": "13M0343",
+	"coordinates": [
+		103.8498817,
+		1.3496223
+	],
+	"svy21": [
+		29843.29,
+		36859.9
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

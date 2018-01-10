@@ -1,0 +1,51 @@
+{
+	"name": "NATIONAL HEALTHCARE GROUP POLYCLINICS (CLEMENTI)",
+	"tel": "63553000",
+	"fax": "67757594",
+	"licensee": "NATIONAL HEALTHCARE GROUP POLYCLINICS",
+	"licensePeriod": "19/09/2014 to 18/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403118",
+	"address": "BLK 451 CLEMENTI AVE 3, #02-307 Singapore 120451",
+	"doctorInCharge": [
+		{
+			"name": "Chong Shih Tsze",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 1999",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403118",
+	"coordinates": [
+		103.7654768,
+		1.312483
+	],
+	"svy21": [
+		20449.85,
+		32753.32
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

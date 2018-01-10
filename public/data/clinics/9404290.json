@@ -1,0 +1,57 @@
+{
+	"name": "ALFRED CHENG CARDIAC CARE",
+	"tel": "67357735",
+	"fax": "67358669",
+	"licensee": "Alfred Cheng Cardiac Care Pte. Ltd.",
+	"licensePeriod": "20/11/2014 to 19/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404290",
+	"address": "3 Mount Elizabeth, Mount Elizabeth Medical Centre, #15-15 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Alfred Cheng",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1982",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1985",
+				"MD (University of London, United Kingdom) 1994",
+				"FRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1996",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 1996"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "9404290",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

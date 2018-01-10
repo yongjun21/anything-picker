@@ -1,0 +1,57 @@
+{
+	"name": "BRIDGE BARIATRICS",
+	"tel": "67330846",
+	"fax": "67330849",
+	"licensee": "Oh Boon Ngee Vera",
+	"licensePeriod": "02/07/2017 to 01/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0049",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #06-55 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Oh Boon Ngee Vera",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"MRCP (Paed) (Royal College of Physicians, United Kingdom) 1998",
+				"M Med (Paed) (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "11C0049",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

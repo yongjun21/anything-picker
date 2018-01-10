@@ -1,0 +1,58 @@
+{
+	"name": "SINGH IMPLANT & DENTAL SURGERY PTE LTD",
+	"tel": "64764401",
+	"fax": "64764301",
+	"licensee": "SINGH IMPLANT AND DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "29/11/2015 to 28/11/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0221",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #03-03 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Baldev Singh",
+			"qualifications": [
+				"BDS (University of Hong Kong, China, Hong Kong) 1997",
+				"MDS (University of Hong Kong, China, Hong Kong) 2001",
+				"MOMSRCPS (Glasg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 2003",
+				"MOSRCS Ed (Royal College of Surgeons of Edinburgh, United Kingdom) 2003",
+				"FAMS (Oral & Maxillofacial Surgery) (Academy of Medicine, Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Oral & Maxillo-Facial Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "11C0221",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"name": "PJ CLINIC",
+	"tel": "62727818",
+	"fax": "62728044",
+	"licensee": "TAN POH KIANG",
+	"licensePeriod": "16/12/2014 to 15/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402020",
+	"address": "BLK 36 BEO CRESCENT, #01-49 Singapore 160036",
+	"doctorInCharge": [
+		{
+			"name": "TAN POH KIANG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm"
+	},
+	"id": "9402020",
+	"coordinates": [
+		103.8271804,
+		1.2883008
+	],
+	"svy21": [
+		27316.87,
+		30079.28
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

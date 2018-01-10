@@ -1,0 +1,47 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "63854154",
+	"fax": "63854154",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402940",
+	"address": "BLK 1 HOUGANG ST 51, Singapore 538720",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9402940",
+	"coordinates": [
+		103.8856437,
+		1.3779326
+	],
+	"svy21": [
+		33823.13,
+		39990.37
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

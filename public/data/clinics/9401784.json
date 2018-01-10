@@ -1,0 +1,40 @@
+{
+	"name": "TRACTORS SINGAPORE LTD (MEDICAL CLINIC)",
+	"tel": "67930611",
+	"fax": "62656772",
+	"licensee": "TRACTORS SINGAPORE LIMITED",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401784",
+	"address": "26 BENOI SECTOR (OFF PIONEER ROAD), Singapore 629858",
+	"doctorInCharge": [
+		{
+			"name": "Chong Ee Tong",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1975"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9401784",
+	"coordinates": [
+		103.6897053,
+		1.3160313
+	],
+	"svy21": [
+		12017.22,
+		33146.03
+	],
+	"planningArea": "PN",
+	"neighbours": [
+		"BL",
+		"JW",
+		"TS",
+		"WC"
+	]
+}

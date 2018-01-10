@@ -1,0 +1,48 @@
+{
+	"name": "T32 JUNIOR CHILDREN'S DENTISTRY",
+	"tel": "67331388",
+	"fax": "67338100",
+	"licensee": "T32 DENTAL CENTRE PTE. LTD.",
+	"licensePeriod": "28/08/2016 to 27/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0259",
+	"address": "1 ORCHARD BOULEVARD, CAMDEN MEDICAL CENTRE, ##17-02 Singapore 248649",
+	"doctorInCharge": [
+		{
+			"name": "Chin Shou King",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Orthodontics",
+			"Paediatric Dentistry",
+			"Periodontology"
+		]
+	},
+	"id": "14D0259",
+	"coordinates": [
+		103.8239072,
+		1.3031376
+	],
+	"svy21": [
+		26952.59,
+		31719.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"name": "8 MEDICAL AESTHETIC CLINIC",
+	"tel": "31575910",
+	"fax": "31575062",
+	"licensee": "8 Medi-Aesthetics (Cuppage) (Pte Ltd)",
+	"licensePeriod": "13/05/2016 to 12/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0144",
+	"address": "51 CUPPAGE ROAD, #01-03 Singapore 229469",
+	"doctorInCharge": [
+		{
+			"name": "Lim Shyan",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1979",
+				"MCGP (Family Med) (College of General Practitioners, Malaysia) 1986",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 1986",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0144",
+	"coordinates": [
+		103.840156,
+		1.3028536
+	],
+	"svy21": [
+		28760.94,
+		31688.45
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"name": "HEART MATTERS MEDICAL CENTRE PTE. LTD.",
+	"tel": "63391991",
+	"fax": "68361883",
+	"licensee": "HEART MATTERS MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "28/02/2016 to 27/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0041",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #07-30 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Dinesh Nair",
+			"qualifications": [
+				"MB BCh BAO (National University of Ireland, Ireland) 1996",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 2001",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2001",
+				"FAMS (Academy of Medicine, Singapore) 2005",
+				"FSCAI (Society for Cardiac Angiography and Interventions, United States) 2010",
+				"FCCP (American College of Chest Physicians, United States) 2010",
+				"FACC (American College of Cardiology, United States) 2010",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2010",
+				"FESC (European Society of Cardiology, France) 2011",
+				"FRCP (Royal College of Physicians of London, United Kingdom) 2013"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "14M0041",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

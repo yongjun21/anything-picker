@@ -1,0 +1,55 @@
+{
+	"name": "PAN ISLAND CLINIC & SURGERY",
+	"tel": "64453747",
+	"fax": "64491098",
+	"licensee": "TAN SOO LIANG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401274",
+	"address": "BLK 632 BEDOK RESERVOIR RD, #01-804 Singapore 470632",
+	"doctorInCharge": [
+		{
+			"name": "TAN SOO LIANG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:30 am to 12:00 pm",
+		"Sunday": "09:30 am to 12:00 pm"
+	},
+	"id": "9401274",
+	"coordinates": [
+		103.9141451,
+		1.3320509
+	],
+	"svy21": [
+		36995.15,
+		34917.09
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

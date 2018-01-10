@@ -1,0 +1,55 @@
+{
+	"name": "NEO SMILES DENTAL STUDIO",
+	"tel": "64810800",
+	"fax": "64810800",
+	"licensee": "NEO SMILES PTE. LTD.",
+	"licensePeriod": "12/05/2017 to 11/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0140",
+	"address": "BLK 214 BEDOK NORTH STREET 1, #01-153 Singapore 460214",
+	"doctorInCharge": [
+		{
+			"name": "Neo Bijuan",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2005",
+				"MDS (Orthodontics) (Singapore) (National University of Singapore, Singapore) 2010",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2010"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 08:00 pm",
+		"Tuesday": "10:00 am to 08:00 pm",
+		"Wednesday": "10:00 am to 08:00 pm",
+		"Thursday": "10:00 am to 08:00 pm",
+		"Friday": "Closed",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "09:00 am to 02:00 pm"
+	},
+	"id": "15D0140",
+	"coordinates": [
+		103.932493,
+		1.3258757
+	],
+	"svy21": [
+		39037.12,
+		34234.33
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

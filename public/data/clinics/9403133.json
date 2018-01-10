@@ -1,0 +1,55 @@
+{
+	"name": "ADMIRALTY FAMILY CLINIC PTE LTD",
+	"tel": "68942717",
+	"fax": "68771998",
+	"licensee": "ADMIRALTY FAMILY CLINIC PTE LTD",
+	"licensePeriod": "10/12/2013 to 09/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403133",
+	"address": "BLK 678A WOODLANDS AVE 6, #01-14 Singapore 731678",
+	"doctorInCharge": [
+		{
+			"name": "AW TUAN KIAT",
+			"qualifications": [
+				"MB Bchir (University of Cambridge, United Kingdom) 1992",
+				"Dip OM (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "08:00 am to 01:00 pm",
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 11:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 11:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 11:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 11:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 11:00 pm",
+		"Saturday": "08:00 am to 01:00 pm",
+		"Sunday": "08:00 am to 01:00 pm"
+	},
+	"id": "9403133",
+	"coordinates": [
+		103.8017597,
+		1.4405455
+	],
+	"svy21": [
+		24487.99,
+		46913.74
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

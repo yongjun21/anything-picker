@@ -1,0 +1,56 @@
+{
+	"name": "E.C. NG MEDICAL CENTRE",
+	"tel": "62960947",
+	"fax": "62960947",
+	"licensee": "NG ENG CHAN",
+	"licensePeriod": "31/10/2016 to 30/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9400439",
+	"address": "2 MARNE ROAD, STUDIOS @ MARNE, #01-01 Singapore 208393",
+	"doctorInCharge": [
+		{
+			"name": "NG ENG CHAN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400439",
+	"coordinates": [
+		103.8569247,
+		1.3129156
+	],
+	"svy21": [
+		30627.13,
+		32801.07
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

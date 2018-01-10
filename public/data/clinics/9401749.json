@@ -1,0 +1,55 @@
+{
+	"name": "THOMSON CHILDREN'S CLINIC",
+	"tel": "64567017",
+	"fax": "64547478",
+	"licensee": "YONG YENG KENG",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401749",
+	"address": "301 UPPER THOMSON ROAD, THOMSON PLAZA, #03-03/04 Singapore 574408",
+	"doctorInCharge": [
+		{
+			"name": "YONG YENG KENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1971",
+				"FRCP (Paed) (Royal College of Physicians, Canada) 1978",
+				"Board Cert (American Board of Paediatrics, United States) 1978",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 1979"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 01:00 pm, 03:00 pm to 05:00 pm",
+		"Tuesday": "09:30 am to 01:00 pm, 03:00 pm to 05:00 pm",
+		"Wednesday": "09:30 am to 01:00 pm, 03:00 pm to 05:00 pm",
+		"Thursday": "09:30 am to 01:00 pm",
+		"Friday": "09:30 am to 01:00 pm, 03:00 pm to 05:00 pm",
+		"Saturday": "09:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401749",
+	"coordinates": [
+		103.8309198,
+		1.354669
+	],
+	"svy21": [
+		27733.04,
+		37417.93
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

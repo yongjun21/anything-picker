@@ -1,0 +1,43 @@
+{
+	"name": "GETHIN -JONES MEDICAL PRACTICE PTE LTD",
+	"tel": "63837186",
+	"fax": "62844213",
+	"licensee": "GETHIN-JONES MEDICAL PRACTICE PTE LTD",
+	"licensePeriod": "22/06/2015 to 21/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403963",
+	"address": "205 Braddell Road, Singapore 579701",
+	"doctorInCharge": [
+		{
+			"name": "Lim Tai Thong Benedict",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9403963",
+	"coordinates": [
+		103.8604283,
+		1.3410399
+	],
+	"svy21": [
+		31017.02,
+		35910.91
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"name": "SL CLINIC PTE. LTD.",
+	"tel": "63583088",
+	"fax": "62649488",
+	"licensee": "SL CLINIC PTE. LTD.",
+	"licensePeriod": "22/09/2016 to 21/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0282",
+	"address": "3 GATEWAY DRIVE, WESTGATE, #04-22 Singapore 608532",
+	"doctorInCharge": [
+		{
+			"name": "KELVIN CHUA YONG WEI",
+			"qualifications": [
+				"MBBS (University of Adelaide, Australia) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0282",
+	"coordinates": [
+		103.7427664,
+		1.3341575
+	],
+	"svy21": [
+		17922.49,
+		35150.06
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

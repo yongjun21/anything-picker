@@ -1,0 +1,56 @@
+{
+	"name": "TOH GUAN FAMILY CLINIC",
+	"tel": "65666966",
+	"fax": "65666966",
+	"licensee": "TOH GUAN FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "22/12/2014 to 21/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402398",
+	"address": "BLK 267A TOH GUAN ROAD, #01-02 Singapore 601267",
+	"doctorInCharge": [
+		{
+			"name": "PAUL HANGCHI",
+			"qualifications": [
+				"MB BCh (University of Wales, United Kingdom) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9402398",
+	"coordinates": [
+		103.7449372,
+		1.3415599
+	],
+	"svy21": [
+		18164.11,
+		35968.57
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

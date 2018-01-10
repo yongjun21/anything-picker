@@ -1,0 +1,51 @@
+{
+	"name": "NOVO VITA CLINIC AND SURGERY",
+	"tel": "62722983",
+	"fax": "62722983",
+	"licensee": "LIM BOON HEE",
+	"licensePeriod": "04/09/2014 to 03/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403820",
+	"address": "BLK 131 JLN BUKIT MERAH, #01-1573 Singapore 160131",
+	"doctorInCharge": [
+		{
+			"name": "LIM BOON HEE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "Closed",
+		"Tuesday": "Closed",
+		"Wednesday": "Closed",
+		"Thursday": "Closed",
+		"Friday": "Closed",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9403820",
+	"coordinates": [
+		103.8281784,
+		1.2801894
+	],
+	"svy21": [
+		27427.94,
+		29182.36
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

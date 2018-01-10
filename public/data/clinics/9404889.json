@@ -1,0 +1,54 @@
+{
+	"name": "CANBERRA MEDICAL AESTHETICS",
+	"tel": "68520500",
+	"fax": "67572741",
+	"licensee": "Ng Mei-Mei Edna",
+	"licensePeriod": "27/06/2014 to 26/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404889",
+	"address": "BLK 306A CANBERRA ROAD, MULTI STOREY CAR PARK, #01-01 Singapore 751306",
+	"doctorInCharge": [
+		{
+			"name": "VICTOR CHEW YEW MENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 03:30 pm, 07:00 pm to 10:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 03:30 pm, 07:00 pm to 10:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 07:00 pm to 10:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 03:30 pm, 07:00 pm to 10:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 03:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404889",
+	"coordinates": [
+		103.8225877,
+		1.4453586
+	],
+	"svy21": [
+		26805.82,
+		47445.93
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	]
+}

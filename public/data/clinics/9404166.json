@@ -1,0 +1,74 @@
+{
+	"name": "JURONG MEDICAL CENTRE",
+	"tel": "67162000",
+	"fax": "65517999",
+	"licensee": "JURONG HEALTH SERVICES PTE. LTD.",
+	"licensePeriod": "01/04/2016 to 31/03/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9404166",
+	"address": "60 JURONG WEST CENTRAL 3, Singapore 648346",
+	"doctorInCharge": [
+		{
+			"name": "Cheah Wei Keat",
+			"qualifications": [
+				"MBBS (University of Western Australia, Australia) 1989",
+				"FRACS (Gen Surg) (Royal Australasian College of Surgeons, Australia) 1997"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Day Surgery",
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true,
+		"Specialist Medical": [
+			"Anaesthesiology",
+			"Dermatology",
+			"General Surgery",
+			"Hand Surgery",
+			"Ophthalmology",
+			"Orthopaedic Surgery",
+			"Otorhinolaryngology",
+			"Renal Medicine",
+			"Sports Medicine"
+		],
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404166",
+	"coordinates": [
+		103.7045269,
+		1.3405613
+	],
+	"svy21": [
+		13666.86,
+		35858.35
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "64567122",
+	"fax": "64559269",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401358",
+	"address": "BLK 283 BISHAN STREET 22, #01-177 Singapore 570283",
+	"doctorInCharge": [
+		{
+			"name": "Ng We Leng",
+			"qualifications": [
+				"MB ChB (University of Aberdeen, United Kingdom) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 01:00 pm",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "08:30 am to 01:00 pm"
+	},
+	"id": "9401358",
+	"coordinates": [
+		103.8447486,
+		1.3589191
+	],
+	"svy21": [
+		29272.03,
+		37887.89
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

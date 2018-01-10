@@ -1,0 +1,47 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "63155952",
+	"fax": "63155952",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402863",
+	"address": "BLK 52 HOUGANG AVENUE 8, Singapore 538786",
+	"doctorInCharge": [
+		{
+			"name": "DR CHEE CHING TENG",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9402863",
+	"coordinates": [
+		103.8893078,
+		1.3738244
+	],
+	"svy21": [
+		34230.91,
+		39536.12
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

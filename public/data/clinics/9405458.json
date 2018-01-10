@@ -1,0 +1,48 @@
+{
+	"name": "INTERNATIONAL CHILD AND ADOLESCENT CLINIC",
+	"tel": "64711077",
+	"fax": "64711697",
+	"licensee": "Ngiam Thye Eng",
+	"licensePeriod": "21/01/2014 to 20/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405458",
+	"address": "6A NAPIER ROAD, GLENEAGLES HOSPITAL Annexe Block, #02-43/44 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "Ngiam Thye Eng",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1973",
+				"M Med (Paed) (National University of Singapore, Singapore) 1976",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1979",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 1980",
+				"FRCP (Paed) (Royal College of Physicians of Edinburgh, United Kingdom) 1991"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"id": "9405458",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

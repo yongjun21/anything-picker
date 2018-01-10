@@ -1,0 +1,51 @@
+{
+	"name": "CHIN DENTAL SURGEONS",
+	"tel": "65614731",
+	"fax": "65612678",
+	"licensee": "CHIN DENTAL SURGEONS PTE. LTD.",
+	"licensePeriod": "17/02/2016 to 16/02/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0023",
+	"address": "BLK 252 JURONG EAST STREET 24, #01-135 Singapore 600252",
+	"doctorInCharge": [
+		{
+			"name": "CHIN LOY MEAU",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 04:00 pm"
+	},
+	"id": "12C0023",
+	"coordinates": [
+		103.7381453,
+		1.3430264
+	],
+	"svy21": [
+		17408.24,
+		36130.76
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

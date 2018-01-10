@@ -1,0 +1,50 @@
+{
+	"name": "CHIA & LEE MEDICAL & DENTAL CLINIC",
+	"tel": "67812969",
+	"fax": "65332596",
+	"licensee": "LEE KONG GHEE",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400234",
+	"address": "BLK 802 TAMPINES AVE 4, #01-15 Singapore 520802",
+	"doctorInCharge": [
+		{
+			"name": "CHIN PANG HING",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm"
+	},
+	"id": "9400234",
+	"coordinates": [
+		103.938034,
+		1.3460844
+	],
+	"svy21": [
+		39653.68,
+		36468.94
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

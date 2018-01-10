@@ -1,0 +1,58 @@
+{
+	"name": "DR TAN KOK KONG'S CLINIC FOR WOMEN",
+	"tel": "96718853",
+	"fax": "64766071",
+	"licensee": "TAN KOK KONG",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400386",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #05-01 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "TAN KOK KONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1972",
+				"M Med (O&G) (National University of Singapore, Singapore) 1978",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1978",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1981",
+				"FRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1993"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400386",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

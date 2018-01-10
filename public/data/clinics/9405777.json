@@ -1,0 +1,49 @@
+{
+	"name": "LS AESTHETIC CLINIC PTE LTD",
+	"tel": "67384700",
+	"fax": "62351817",
+	"licensee": "Kok Kah Hoong Allan",
+	"licensePeriod": "13/12/2014 to 12/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405777",
+	"address": "435 ORCHARD ROAD, WISMA ATRIA, #10-04 Singapore 238877",
+	"doctorInCharge": [
+		{
+			"name": "Kok Kah Hoong Allan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 08:00 pm",
+		"Tuesday": "09:00 am to 08:00 pm",
+		"Wednesday": "09:00 am to 08:00 pm",
+		"Thursday": "09:00 am to 08:00 pm",
+		"Friday": "09:00 am to 08:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405777",
+	"coordinates": [
+		103.8332058,
+		1.3037048
+	],
+	"svy21": [
+		27987.44,
+		31782.57
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

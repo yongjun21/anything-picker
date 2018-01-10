@@ -1,0 +1,49 @@
+{
+	"name": "DORE MEDICAL CLINIC",
+	"tel": "63868360",
+	"fax": "63867471",
+	"licensee": "DORE CLINIC PTE. LTD.",
+	"licensePeriod": "28/12/2016 to 27/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0394",
+	"address": "160 ROBINSON ROAD, SINGAPORE BUSINESS FEDERATION CENTER, #04-01 Singapore 068914",
+	"doctorInCharge": [
+		{
+			"name": "WONG KAI JIE @ ISRAR WONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "11:00 am to 03:00 pm, 04:00 pm to 08:00 pm",
+		"Tuesday": "11:00 am to 03:00 pm, 04:00 pm to 08:00 pm",
+		"Wednesday": "11:00 am to 03:00 pm, 04:00 pm to 08:00 pm",
+		"Thursday": "11:00 am to 03:00 pm, 04:00 pm to 08:00 pm",
+		"Friday": "11:00 am to 03:00 pm, 04:00 pm to 08:00 pm",
+		"Saturday": "10:00 am to 02:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "16M0394",
+	"coordinates": [
+		103.8478546,
+		1.2781279
+	],
+	"svy21": [
+		29617.75,
+		28954.42
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

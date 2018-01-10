@@ -1,0 +1,60 @@
+{
+	"name": "T32 DENTAL PEARL",
+	"tel": "66843833",
+	"fax": "66844338",
+	"licensee": "T32 DENTAL PEARL AT JURONG PTE. LTD.",
+	"licensePeriod": "27/03/2017 to 26/03/2018",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"hciCode": "12C0039",
+	"address": "2 JURONG EAST CENTRAL 1, JCUBE, #B1-15 Singapore 609731",
+	"doctorInCharge": [
+		{
+			"name": "Lin GengFeng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Dental Public Health",
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Paediatric Dentistry",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "10:00 am to 10:00 pm",
+		"Monday": "10:00 am to 10:00 pm",
+		"Tuesday": "10:00 am to 10:00 pm",
+		"Wednesday": "10:00 am to 10:00 pm",
+		"Thursday": "10:00 am to 10:00 pm",
+		"Friday": "10:00 am to 10:00 pm",
+		"Saturday": "10:00 am to 10:00 pm",
+		"Sunday": "10:00 am to 10:00 pm"
+	},
+	"id": "12C0039",
+	"coordinates": [
+		103.7401871,
+		1.3333231
+	],
+	"svy21": [
+		17635.43,
+		35057.81
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

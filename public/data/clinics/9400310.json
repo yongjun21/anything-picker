@@ -1,0 +1,48 @@
+{
+	"name": "COMMUNAL DENTAL CLINIC",
+	"tel": "64547168",
+	"fax": "64547168",
+	"licensee": "SOO YING CHUNG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400310",
+	"address": "BLK 283 BISHAN ST 22, #01-187 Singapore 570283",
+	"doctorInCharge": [
+		{
+			"name": "SOO YING CHUNG",
+			"qualifications": [
+				"Dental Therapist Exam (Institute of Dental Health, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9400310",
+	"coordinates": [
+		103.8447486,
+		1.3589191
+	],
+	"svy21": [
+		29272.03,
+		37887.89
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

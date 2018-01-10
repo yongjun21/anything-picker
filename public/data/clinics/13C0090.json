@@ -1,0 +1,56 @@
+{
+	"name": "NOVENA CANCER CENTRE",
+	"tel": "63390233",
+	"fax": "63391338",
+	"licensee": "NOVENA CANCER CENTRE PTE. LTD.",
+	"licensePeriod": "11/04/2017 to 10/04/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0090",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #09-41 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Lim Hwee Yong",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 1998",
+				"Board Cert (Int Med) (American Board of Internal Medicine, United States) 2006",
+				"Board Cert (Med Oncology) (American Board of Internal Medicine, United States) 2009",
+				"Board Cert (Haem) (American Board of Haematology, United States) 2010"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 06:00 pm",
+		"Tuesday": "08:30 am to 06:00 pm",
+		"Wednesday": "08:30 am to 06:00 pm",
+		"Thursday": "08:30 am to 06:00 pm",
+		"Friday": "08:30 am to 06:00 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "13C0090",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

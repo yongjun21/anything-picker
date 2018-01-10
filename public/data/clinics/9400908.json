@@ -1,0 +1,45 @@
+{
+	"name": "LAVENDER MEDICAL CLINIC & SURGERY PTE LTD",
+	"tel": "62916631",
+	"fax": "62993637",
+	"licensee": "LAVENDER MEDICAL CLINIC & SURGERY PTE LTD",
+	"licensePeriod": "07/06/2016 to 06/06/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400908",
+	"address": "BLK 803 KING GEORGE'S AVENUE, #01-186 Singapore 200803",
+	"doctorInCharge": [
+		{
+			"name": "YONG KIM YEW",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9400908",
+	"coordinates": [
+		103.8609128,
+		1.3083653
+	],
+	"svy21": [
+		31070.98,
+		32297.92
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

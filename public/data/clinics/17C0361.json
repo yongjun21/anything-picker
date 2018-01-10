@@ -1,0 +1,39 @@
+{
+	"name": "TAY CLINIC",
+	"tel": "67446336",
+	"fax": "67442788",
+	"licensee": "QUALITAS HEALTHCARE PTE. LTD.",
+	"licensePeriod": "16/11/2017 to 15/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17C0361",
+	"address": "494 GEYLANG RD, Singapore 389452",
+	"doctorInCharge": [
+		{
+			"name": "TAY BOON CHONG",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17C0361",
+	"coordinates": [
+		103.8850311,
+		1.3133264
+	],
+	"svy21": [
+		33755.11,
+		32846.54
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

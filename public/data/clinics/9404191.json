@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64689685",
+	"fax": "64689685",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "25/07/2014 to 24/07/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404191",
+	"address": "9 Fajar Road, ZHENGHUA PRIMARY SCHOOL, Singapore 679002",
+	"doctorInCharge": [
+		{
+			"name": "THAM SAI SOO",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9404191",
+	"coordinates": [
+		103.7693135,
+		1.3795489
+	],
+	"svy21": [
+		20877.04,
+		40169.12
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

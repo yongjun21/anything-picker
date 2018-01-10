@@ -1,0 +1,53 @@
+{
+	"name": "DERMATOLOGY ASSOCIATES",
+	"tel": "64711733",
+	"fax": "64711392",
+	"licensee": "DERMATOLOGY ASSOCIATES (GLENEAGLES) PTE. LTD.",
+	"licensePeriod": "25/02/2017 to 24/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9404417",
+	"address": "6 Napier Road, Gleneagles Medical Centre, #05-07 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Ng Pei Lin, Patricia",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1995",
+				"FAMS (Academy of Medicine, Singapore) 2000"
+			],
+			"specialties": [
+				"Dermatology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Dermatology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9404417",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

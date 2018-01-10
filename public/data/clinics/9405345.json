@@ -1,0 +1,59 @@
+{
+	"name": "ETERN MEDICAL CLINIC (SENGKANG)",
+	"tel": "64257255",
+	"fax": "64257995",
+	"licensee": "ETERN MEDICAL GROUP PTE. LTD.",
+	"licensePeriod": "26/11/2016 to 25/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405345",
+	"address": "33 SENGKANG WEST AVENUE, THE SELETAR MALL, #03-33 Singapore 797653",
+	"doctorInCharge": [
+		{
+			"name": "Lye Tin Fong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2006",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2008"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "09:00 am to 03:00 pm, 06:30 pm to 09:30 pm",
+		"Sunday": "09:00 am to 03:00 pm, 06:30 pm to 09:30 pm"
+	},
+	"id": "9405345",
+	"coordinates": [
+		103.8761255,
+		1.3914702
+	],
+	"svy21": [
+		32763.85,
+		41487.26
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

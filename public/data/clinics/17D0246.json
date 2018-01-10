@@ -1,0 +1,44 @@
+{
+	"name": "FDC DENTAL BEDOK CENTRAL",
+	"tel": "62259383",
+	"fax": "62259382",
+	"licensee": "AZT HEALTHCARE MANAGEMENT PTE. LTD.",
+	"licensePeriod": "09/08/2017 to 08/08/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17D0246",
+	"address": "BLK 214 BEDOK NORTH STREET 1, #01-179 Singapore 460214",
+	"doctorInCharge": [
+		{
+			"name": "Chye Chuan Hee",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2005",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2009",
+				"MPH (Singapore) (National University of Singapore, Singapore) 2015"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "17D0246",
+	"coordinates": [
+		103.932493,
+		1.3258757
+	],
+	"svy21": [
+		39037.12,
+		34234.33
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

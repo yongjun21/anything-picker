@@ -1,0 +1,54 @@
+{
+	"name": "BRIAN YEO CLINIC PSYCHIATRY CONSULTANCY",
+	"tel": "68873378",
+	"fax": "68873379",
+	"licensee": "BRIAN YEO CLINIC PTE. LTD.",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402636",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #09-02 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "YEO KAH LOKE BRIAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"M Med (Psych) (National University of Singapore, Singapore) 1992",
+				"Dip Child & Adolescent Psych (University of London, United Kingdom) 1995",
+				"FAMS (Psych) (Academy of Medicine, Singapore) 1997"
+			],
+			"specialties": [
+				"Psychiatry"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Psychiatry"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:30 pm"
+	},
+	"id": "9402636",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

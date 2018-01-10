@@ -1,0 +1,53 @@
+{
+	"name": "FAMICARE BEDOK CLINIC",
+	"tel": "64428373",
+	"fax": "64428374",
+	"licensee": "Chio Han Sin Roy",
+	"licensePeriod": "14/08/2016 to 13/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9403708",
+	"address": "BLK 158 Bedok South Avenue 3, #01-581 Singapore 460158",
+	"doctorInCharge": [
+		{
+			"name": "Chio Han Sin Roy",
+			"qualifications": [
+				"MBBS (University of Newcastle Upon Tyne, United Kingdom) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 03:00 pm, 07:00 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 03:00 pm, 07:00 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 03:00 pm, 07:00 pm to 10:00 pm",
+		"Thursday": "08:30 am to 03:00 pm, 07:00 pm to 10:00 pm",
+		"Friday": "08:30 am to 03:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "08:30 am to 01:00 pm"
+	},
+	"id": "9403708",
+	"coordinates": [
+		103.9450867,
+		1.3187358
+	],
+	"svy21": [
+		40438.71,
+		33444.9
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

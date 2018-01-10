@@ -1,0 +1,56 @@
+{
+	"name": "DRS TANG & PARTNERS PTE. LTD.",
+	"tel": "62656077",
+	"fax": "62680645",
+	"licensee": "DRS. TANG & PARTNERS PTE LTD",
+	"licensePeriod": "24/11/2014 to 23/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404298",
+	"address": "BLK 64 YUNG KUANG ROAD, #01-115 Singapore 610064",
+	"doctorInCharge": [
+		{
+			"name": "Kam Shyan Chin",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 08:30 pm",
+		"Tuesday": "08:30 am to 08:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 08:30 pm",
+		"Friday": "08:30 am to 08:30 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404298",
+	"coordinates": [
+		103.7224512,
+		1.3323735
+	],
+	"svy21": [
+		15661.61,
+		34952.88
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

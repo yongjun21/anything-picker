@@ -1,0 +1,49 @@
+{
+	"name": "XINHUO MEDICAL CLINIC",
+	"tel": "67438709",
+	"fax": "67438709",
+	"licensee": "Liow Siew Choon @ Liao XinHuo Peter",
+	"licensePeriod": "24/05/2016 to 23/05/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404183",
+	"address": "BLK 329 GEYLANG ROAD, Singapore 389384",
+	"doctorInCharge": [
+		{
+			"name": "Liow Siew Choon @ Liao XinHuo Peter",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976",
+				"MSc (OM) (National University of Singapore, Singapore) 1984",
+				"MRCP (Int Med) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1989",
+				"FRCP (Int Med) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1991"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "12:30 pm to 05:00 pm",
+		"Tuesday": "12:30 pm to 05:00 pm",
+		"Wednesday": "12:30 pm to 05:00 pm",
+		"Thursday": "12:30 pm to 05:00 pm",
+		"Friday": "12:30 pm to 05:00 pm"
+	},
+	"id": "9404183",
+	"coordinates": [
+		103.8816132,
+		1.3127994
+	],
+	"svy21": [
+		33374.73,
+		32788.26
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

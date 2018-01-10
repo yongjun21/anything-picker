@@ -1,0 +1,39 @@
+{
+	"name": "THE MEDICAL CENTRE CLINIC ( HONG LEONG )",
+	"tel": "62207585",
+	"fax": "62217387",
+	"licensee": "THE MEDICAL CENTRE CLINIC (HONG LEONG)",
+	"licensePeriod": "11/10/2016 to 10/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0314",
+	"address": "16 RAFFLES QUAY, HONG LEONG BUILDING, #14-05 Singapore 048581",
+	"doctorInCharge": [
+		{
+			"name": "Kwok Mun Choy Kevin",
+			"qualifications": [
+				"B Med (University of Newcastle, Australia) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0314",
+	"coordinates": [
+		103.8509145,
+		1.2813636
+	],
+	"svy21": [
+		29958.28,
+		29312.2
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

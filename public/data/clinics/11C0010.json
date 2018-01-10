@@ -1,0 +1,48 @@
+{
+	"name": "KIN MUN CLINIC",
+	"tel": "62566353",
+	"fax": "62505020",
+	"licensee": "KIN MUN CLINIC PTE. LTD.",
+	"licensePeriod": "18/02/2017 to 17/02/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0010",
+	"address": "BLK 66 LORONG 4 TOA PAYOH, ##01-311/313 Singapore 310066",
+	"doctorInCharge": [
+		{
+			"name": "Wee Sip Leong",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1967",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1973"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "11C0010",
+	"coordinates": [
+		103.8517784,
+		1.3350133
+	],
+	"svy21": [
+		30054.38,
+		35244.51
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

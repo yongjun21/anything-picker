@@ -1,0 +1,49 @@
+{
+	"name": "LI DENTAL SURGERY / LI DENTAL CENTRE",
+	"tel": "63399331",
+	"fax": "63399717",
+	"licensee": "LI DENTAL CENTRE PTE LTD",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400943",
+	"address": "35 SELEGIE ROAD, PARKLANE SHOPPING MALL, #01-35/36 Singapore 188307",
+	"doctorInCharge": [
+		{
+			"name": "LI CHUNG TAI TREVOR",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1979",
+				"MGDSRCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 1988",
+				"FDS RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 1999"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 01:00 pm",
+		"Tuesday": "09:30 am to 01:00 pm",
+		"Wednesday": "09:30 am to 01:00 pm",
+		"Thursday": "09:30 am to 01:00 pm",
+		"Friday": "09:30 am to 01:00 pm",
+		"Saturday": "09:30 am to 01:00 pm"
+	},
+	"id": "9400943",
+	"coordinates": [
+		103.8494486,
+		1.3006453
+	],
+	"svy21": [
+		29795.13,
+		31444.27
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

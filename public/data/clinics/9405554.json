@@ -1,0 +1,44 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64837967",
+	"fax": "64837967",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "19/04/2014 to 18/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405554",
+	"address": "61 EDGEDALE PLAINS, HORIZON PRIMARY SCHOOL, Singapore 828819",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9405554",
+	"coordinates": [
+		103.9134049,
+		1.39955
+	],
+	"svy21": [
+		36912.52,
+		42380.8
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

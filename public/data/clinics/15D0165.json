@@ -1,0 +1,42 @@
+{
+	"name": "NOBLE DENTAL SURGERY",
+	"tel": "65561126",
+	"fax": "64819126",
+	"licensee": "NOBLE@BEDOK PTE. LTD.",
+	"licensePeriod": "04/06/2017 to 03/06/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "15D0165",
+	"address": "BLK 219 BEDOK CENTRAL, #01-126 Singapore 460219",
+	"doctorInCharge": [
+		{
+			"name": "Khu Jia Ching",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "15D0165",
+	"coordinates": [
+		103.9329544,
+		1.3250059
+	],
+	"svy21": [
+		39088.46,
+		34138.16
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

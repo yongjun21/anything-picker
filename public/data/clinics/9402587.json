@@ -1,0 +1,46 @@
+{
+	"name": "MUHAMMADIYAH HEALTH & DAY CARE CENTER",
+	"tel": "67414779",
+	"fax": "67411680",
+	"licensee": "Muhammadiyah Association",
+	"licensePeriod": "20/01/2014 to 19/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402587",
+	"address": "BLK 10 EUNOS CRESCENT, #01-2711 Singapore 400010",
+	"doctorInCharge": [
+		{
+			"name": "M PERUMALL",
+			"qualifications": [
+				""
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm"
+	},
+	"id": "9402587",
+	"coordinates": [
+		103.9027205,
+		1.3222866
+	],
+	"svy21": [
+		35723.75,
+		33837.35
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

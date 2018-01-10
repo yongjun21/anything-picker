@@ -1,0 +1,56 @@
+{
+	"name": "MINMED CLINIC (PUNGGOL)",
+	"tel": "63880123",
+	"fax": "63399789",
+	"licensee": "MINISTRY MEDICAL GROUP PTE. LTD.",
+	"licensePeriod": "17/01/2016 to 16/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0013",
+	"address": "83 PUNGGOL CENTRAL, WATERWAY POINT, #02-15 Singapore 828761",
+	"doctorInCharge": [
+		{
+			"name": "CHEN LISA",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"Dip OM (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "16M0013",
+	"coordinates": [
+		103.9021057,
+		1.4064846
+	],
+	"svy21": [
+		35655.06,
+		43147.55
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

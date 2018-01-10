@@ -1,0 +1,45 @@
+{
+	"name": "YISHUN RING ROAD CLINIC",
+	"tel": "62577202",
+	"fax": "62577202",
+	"licensee": "YISHUN RING ROAD CLINIC PTE. LTD.",
+	"licensePeriod": "11/02/2017 to 10/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0047",
+	"address": "BLK 236 YISHUN RING ROAD, #01-1010 Singapore 760236",
+	"doctorInCharge": [
+		{
+			"name": "LARRY KANG JUN HUI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "15M0047",
+	"coordinates": [
+		103.8389989,
+		1.4341681
+	],
+	"svy21": [
+		28632.14,
+		46208.54
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

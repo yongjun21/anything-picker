@@ -1,0 +1,52 @@
+{
+	"name": "DR NAH & LEE FAMILY CLINIC",
+	"tel": "62501528",
+	"fax": "00000000",
+	"licensee": "2H Medical Group Pte. Ltd.",
+	"licensePeriod": "30/07/2017 to 29/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0264",
+	"address": "BLK 780 WOODLANDS CRESCENT, MULTI STOREY CAR PARK, #01-03 Singapore 730780",
+	"doctorInCharge": [
+		{
+			"name": "Nah Kwang Meng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "08:00 am to 01:00 pm"
+	},
+	"id": "15M0264",
+	"coordinates": [
+		103.8010571,
+		1.4483416
+	],
+	"svy21": [
+		24409.81,
+		47775.79
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

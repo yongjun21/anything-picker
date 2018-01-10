@@ -1,0 +1,41 @@
+{
+	"name": "CENTRAL PATIENTCARE DENTAL CLINIC",
+	"tel": "67567737",
+	"fax": "67567737",
+	"licensee": "HAR HOONG CHEONG",
+	"licensePeriod": "18/04/2017 to 17/04/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400179",
+	"address": "BLK 935 YISHUN CENTRAL 1, #01-47 Singapore 760935",
+	"doctorInCharge": [
+		{
+			"name": "HAR HOONG CHEONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9400179",
+	"coordinates": [
+		103.8365963,
+		1.4251801
+	],
+	"svy21": [
+		28364.76,
+		45214.69
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

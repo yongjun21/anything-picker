@@ -1,0 +1,49 @@
+{
+	"name": "FREDDY WEE DENTAL SURGERY",
+	"tel": "62351879",
+	"fax": "62351879",
+	"licensee": "Wee Choon Seng Freddy",
+	"licensePeriod": "17/05/2017 to 16/05/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404441",
+	"address": "150 ORCHARD ROAD, ORCHARD PLAZA, #08-14 Singapore 238841",
+	"doctorInCharge": [
+		{
+			"name": "Wee Choon Seng Freddy",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404441",
+	"coordinates": [
+		103.8411501,
+		1.3012573
+	],
+	"svy21": [
+		28871.58,
+		31511.94
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

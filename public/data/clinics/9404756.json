@@ -1,0 +1,54 @@
+{
+	"name": "JOHAN DENTAL SURGERY PTE LTD",
+	"tel": "68849332",
+	"fax": "68849332",
+	"licensee": "Chee Yen Seng",
+	"licensePeriod": "05/03/2014 to 04/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404756",
+	"address": "BLK 79D TOA PAYOH CENTRAL, #01-57 Singapore 314079",
+	"doctorInCharge": [
+		{
+			"name": "Chee Yen Seng",
+			"qualifications": [
+				"DDS (Loma Linda University, United States) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:30 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 07:00 pm",
+		"Tuesday": "09:30 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 07:00 pm",
+		"Wednesday": "09:30 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 07:00 pm",
+		"Thursday": "09:30 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 07:00 pm",
+		"Friday": "09:30 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 07:00 pm",
+		"Saturday": "09:00 am to 02:00 pm",
+		"Sunday": "09:00 am to 02:00 pm"
+	},
+	"id": "9404756",
+	"coordinates": [
+		103.8491655,
+		1.3346408
+	],
+	"svy21": [
+		29763.6,
+		35203.33
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"name": "AIA ALEXANDRA CLINIC",
+	"tel": "62742114",
+	"fax": "62742154",
+	"licensee": "FULLERTON HEALTHCARE GROUP PTE. LIMITED",
+	"licensePeriod": "31/05/2017 to 30/05/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0135",
+	"address": "371 ALEXANDRA ROAD, AIA ALEXANDRA, #01-04 Singapore 159963",
+	"doctorInCharge": [
+		{
+			"name": "Elton Ong Kong Yiow",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"id": "13C0135",
+	"coordinates": [
+		103.8025752,
+		1.2847375
+	],
+	"svy21": [
+		24578.52,
+		29685.29
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

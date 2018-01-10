@@ -1,0 +1,52 @@
+{
+	"name": "APEX DENTAL SURGERY",
+	"tel": "64548091",
+	"fax": "64548091",
+	"licensee": "TAN LAI LENG",
+	"licensePeriod": "27/01/2015 to 26/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400056",
+	"address": "BLK 632 ANG MO KIO AVE 4, #01-956 Singapore 560632",
+	"doctorInCharge": [
+		{
+			"name": "TAN LAI LENG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9400056",
+	"coordinates": [
+		103.8414324,
+		1.3799268
+	],
+	"svy21": [
+		28902.96,
+		40210.81
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

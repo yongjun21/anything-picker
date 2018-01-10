@@ -1,0 +1,44 @@
+{
+	"name": "NORTHEAST MEDICAL GROUP",
+	"tel": "63910274",
+	"fax": "62922585",
+	"licensee": "NORTHEAST (AMK) MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "22/01/2017 to 21/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0010",
+	"address": "2450 ANG MO KIO AVENUE 8, ANG MO KIO MRT STATION, #01-02 Singapore 569811",
+	"doctorInCharge": [
+		{
+			"name": "Chee Boon Ping",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "17M0010",
+	"coordinates": [
+		103.8495581,
+		1.3699332
+	],
+	"svy21": [
+		29807.27,
+		39105.77
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

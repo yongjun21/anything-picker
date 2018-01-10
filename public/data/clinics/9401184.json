@@ -1,0 +1,46 @@
+{
+	"name": "NG DENTAL SURGERY",
+	"tel": "64593065",
+	"fax": "64593065",
+	"licensee": "Ng Wan Cheng",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401184",
+	"address": "BLK 226C Ang Mo Kio Ave 1 St 22, #01-649 Singapore 563226",
+	"doctorInCharge": [
+		{
+			"name": "Ng Wan Cheng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm"
+	},
+	"id": "9401184",
+	"coordinates": [
+		103.839257,
+		1.3671464
+	],
+	"svy21": [
+		28660.87,
+		38797.62
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

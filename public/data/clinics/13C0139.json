@@ -1,0 +1,50 @@
+{
+	"name": "SMILE DOCTOR",
+	"tel": "66840295",
+	"fax": "65690284",
+	"licensee": "SMILE DOCTOR @ JURONG GATEWAY PTE. LTD.",
+	"licensePeriod": "11/06/2017 to 10/06/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0139",
+	"address": "BLK 50 JURONG GATEWAY ROAD, JEM, #04-16 Singapore 608549",
+	"doctorInCharge": [
+		{
+			"name": "ng seow choon",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Sunday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm"
+	},
+	"id": "13C0139",
+	"coordinates": [
+		103.7432787,
+		1.3332933
+	],
+	"svy21": [
+		17979.5,
+		35054.5
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

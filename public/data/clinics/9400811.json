@@ -1,0 +1,55 @@
+{
+	"name": "K P TAN MEDICAL CLINIC",
+	"tel": "63823673",
+	"fax": "63856483",
+	"licensee": "TAN KOK PIN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400811",
+	"address": "BLK 811 HOUGANG CENTRAL, #01-192 Singapore 530811",
+	"doctorInCharge": [
+		{
+			"name": "TAN KOK PIN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "Closed",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400811",
+	"coordinates": [
+		103.8937902,
+		1.3718711
+	],
+	"svy21": [
+		34729.75,
+		39320.14
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

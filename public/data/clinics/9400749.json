@@ -1,0 +1,56 @@
+{
+	"name": "JAPAN CLINIC AND SURGERY",
+	"tel": "62984517",
+	"fax": "62987654",
+	"licensee": "CHEE WENG SUN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400749",
+	"address": "BLK 802 FRENCH RD, #01-55 Singapore 200802",
+	"doctorInCharge": [
+		{
+			"name": "CHEE WENG SUN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400749",
+	"coordinates": [
+		103.8602692,
+		1.3076458
+	],
+	"svy21": [
+		30999.35,
+		32218.37
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"name": "WONG POO SING HEART AND LUNG SURGERY CLINIC",
+	"tel": "68367887",
+	"fax": "68369313",
+	"licensee": "Wong Poo Sing Heart And Lung Surgery Clinic (Pte. Ltd.)",
+	"licensePeriod": "12/12/2014 to 11/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404311",
+	"address": "3 Mount Elizabeth, Mount Elizabeth Medical Centre, #12-04 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Wong Poo Sing",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1986",
+				"FRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 1990",
+				"FRCS (Cardiothoracic Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1995",
+				"FCCP (American College of Chest Physicians, United States) 2000",
+				"FAMS (Academy of Medicine, Singapore) 2002"
+			],
+			"specialties": [
+				"Cardiothoracic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiothoracic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9404311",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

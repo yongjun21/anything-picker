@@ -1,0 +1,54 @@
+{
+	"name": "NUH DIALYSIS CENTRE",
+	"tel": "62599217",
+	"fax": "62598561",
+	"licensee": "NATIONAL UNIVERSITY HOSPITAL (SINGAPORE) PTE LTD",
+	"licensePeriod": "07/08/2016 to 06/08/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9401203",
+	"address": "354 ALEXANDRA ROAD, ALEXIS, #01-14 Singapore 159949",
+	"doctorInCharge": [
+		{
+			"name": "Lau Wai Leong Titus",
+			"qualifications": [
+				"MD (National University of Malaysia, Malaysia) 1991",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1994"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "06:00 am to 10:30 am, 11:30 am to 03:30 pm, 04:30 pm to 09:30 pm",
+		"Tuesday": "06:00 am to 10:30 am, 11:30 am to 03:30 pm, 04:30 pm to 09:30 pm",
+		"Wednesday": "06:00 am to 10:30 am, 11:30 am to 03:30 pm, 04:30 pm to 09:30 pm",
+		"Thursday": "06:00 am to 10:30 am, 11:30 am to 03:30 pm, 04:30 pm to 09:30 pm",
+		"Friday": "06:00 am to 10:30 am, 11:30 am to 03:30 pm, 04:30 pm to 09:30 pm",
+		"Saturday": "06:00 am to 10:30 am, 11:30 am to 03:30 pm, 04:30 pm to 09:30 pm"
+	},
+	"id": "9401203",
+	"coordinates": [
+		103.8073548,
+		1.2911334
+	],
+	"svy21": [
+		25110.46,
+		30392.51
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

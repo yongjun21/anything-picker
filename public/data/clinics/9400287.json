@@ -1,0 +1,54 @@
+{
+	"name": "CITIZEN FAMILY CLINIC AND SURGERY",
+	"tel": "67586168",
+	"fax": "67594803",
+	"licensee": "KOH HANG YONG",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400287",
+	"address": "BLK 102 YISHUN AVE 5, #01-117 Singapore 760102",
+	"doctorInCharge": [
+		{
+			"name": "KOH HANG YONG",
+			"qualifications": [
+				"MBBS (University of Western Australia, Australia) 1981"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9400287",
+	"coordinates": [
+		103.828763,
+		1.4306183
+	],
+	"svy21": [
+		27493.03,
+		45816.02
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

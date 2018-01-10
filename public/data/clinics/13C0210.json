@@ -1,0 +1,49 @@
+{
+	"name": "NICHII INTERNATIONAL CLINIC",
+	"tel": "65119300",
+	"fax": "65119309",
+	"licensee": "NICHII INTERNATIONAL CLINIC PTE. LTD.",
+	"licensePeriod": "11/07/2016 to 10/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13C0210",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #07-05/06 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "Chin Yee Lee",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "09:00 am to 12:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "13C0210",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

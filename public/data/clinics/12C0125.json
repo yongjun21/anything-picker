@@ -1,0 +1,52 @@
+{
+	"name": "CORONATION MEDICAL CENTRE",
+	"tel": "64686768",
+	"fax": "64686768",
+	"licensee": "Thomas Lee Boon Kok",
+	"licensePeriod": "29/06/2016 to 28/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0125",
+	"address": "587 BUKIT TIMAH ROAD, CORONATION PLAZA, #02-01 Singapore 269707",
+	"doctorInCharge": [
+		{
+			"name": "Thomas Lee Boon Kok",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:30 am to 12:00 pm"
+	},
+	"id": "12C0125",
+	"coordinates": [
+		103.8099996,
+		1.3238351
+	],
+	"svy21": [
+		25404.83,
+		34008.49
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"name": "UNIVERSAL MEDICAL CLINIC",
+	"tel": "65639955",
+	"fax": "65639956",
+	"licensee": "LOW HUEY CHIN",
+	"licensePeriod": "16/08/2017 to 15/08/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401826",
+	"address": "BLK 164 BUKIT BATOK ST 11, #01-144 Singapore 650164",
+	"doctorInCharge": [
+		{
+			"name": "LOW HUEY CHIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 02:00 pm, 06:00 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 02:00 pm, 06:00 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 02:00 pm",
+		"Thursday": "08:30 am to 02:00 pm",
+		"Friday": "08:30 am to 02:00 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9401826",
+	"coordinates": [
+		103.7428317,
+		1.347717
+	],
+	"svy21": [
+		17929.81,
+		36649.4
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

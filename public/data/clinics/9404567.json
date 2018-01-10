@@ -1,0 +1,52 @@
+{
+	"name": "BABY BEAR CHILDREN'S CLINIC",
+	"tel": "62696928",
+	"fax": "62696929",
+	"licensee": "Baby Bear Company Pte. Ltd.",
+	"licensePeriod": "25/09/2015 to 24/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404567",
+	"address": "BLK 849 WOODLANDS STREET 82, #01-209 Singapore 730849",
+	"doctorInCharge": [
+		{
+			"name": "Teo Siak Hong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984",
+				"M Med (Paed) (National University of Singapore, Singapore) 1990",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 1995"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404567",
+	"coordinates": [
+		103.7920656,
+		1.4413106
+	],
+	"svy21": [
+		23409.18,
+		46998.36
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

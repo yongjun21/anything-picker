@@ -1,0 +1,51 @@
+{
+	"name": "MEDICUREN CLINIC (CHANGI CITY POINT)",
+	"tel": "64737185",
+	"fax": "67747470",
+	"licensee": "MEDICUREN CLINIC PTE. LTD.",
+	"licensePeriod": "13/06/2017 to 12/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0172",
+	"address": "5 CHANGI BUSINESS PARK CENTRAL 1, CHANGI CITY POINT, #02-06 Singapore 486038",
+	"doctorInCharge": [
+		{
+			"name": "Kuan Yi Hern Benjamin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2003",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 01:30 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 01:30 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 01:30 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 01:30 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 01:30 pm to 05:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "17M0172",
+	"coordinates": [
+		103.962946,
+		1.3340836
+	],
+	"svy21": [
+		42426.19,
+		35142.09
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

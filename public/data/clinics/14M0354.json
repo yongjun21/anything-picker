@@ -1,0 +1,39 @@
+{
+	"name": "SL CLINIC PTE. LTD.",
+	"tel": "63162246",
+	"fax": "62354841",
+	"licensee": "SL CLINIC PTE. LTD.",
+	"licensePeriod": "02/12/2016 to 01/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0354",
+	"address": "1 JURONG WEST CENTRAL 2, JURONG POINT, #B1-62 Singapore 648886",
+	"doctorInCharge": [
+		{
+			"name": "Kelvin Chua",
+			"qualifications": [
+				"MBBS (University of Adelaide, Australia) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "14M0354",
+	"coordinates": [
+		103.706685,
+		1.3394527
+	],
+	"svy21": [
+		13907.03,
+		35735.76
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

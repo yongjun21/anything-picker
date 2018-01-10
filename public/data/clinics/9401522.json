@@ -1,0 +1,53 @@
+{
+	"name": "SINGAPURA CLINIC",
+	"tel": "63361181",
+	"fax": "63368525",
+	"licensee": "SINGAPURA CLINIC",
+	"licensePeriod": "11/05/2015 to 10/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401522",
+	"address": "27 BENCOOLEN ST, Bencoolen House, #01-27 Singapore 189620",
+	"doctorInCharge": [
+		{
+			"name": "LEE KENG THON",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 1968"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:30 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:30 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:30 pm to 06:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:30 pm to 06:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:30 pm to 06:00 pm"
+	},
+	"id": "9401522",
+	"coordinates": [
+		103.8498438,
+		1.2988459
+	],
+	"svy21": [
+		29839.11,
+		31245.3
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

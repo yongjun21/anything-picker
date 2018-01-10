@@ -1,0 +1,43 @@
+{
+	"name": "DENTAL ON THE BAY",
+	"tel": "66887303",
+	"fax": "66887307",
+	"licensee": "DENTAL ON THE BAY (MARINA) PTE. LTD.",
+	"licensePeriod": "05/06/2016 to 04/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405790",
+	"address": "2 BAYFRONT AVENUE, MARINA BAY SANDS, #B1-60 Singapore 018972",
+	"doctorInCharge": [
+		{
+			"name": "MAK KEAN VOON CHRIS",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"id": "9405790",
+	"coordinates": [
+		103.858982,
+		1.2842307
+	],
+	"svy21": [
+		30856.12,
+		29629.24
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

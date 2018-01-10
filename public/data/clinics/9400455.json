@@ -1,0 +1,62 @@
+{
+	"name": "EASTERN CLINIC AND DENTAL SURGERY",
+	"tel": "65622941",
+	"fax": "65622941",
+	"licensee": "WEE YEW JONG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400455",
+	"address": "BLK 303 JURONG EAST ST 32, #01-92 Singapore 600303",
+	"doctorInCharge": [
+		{
+			"name": "WEE YEW JONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974",
+				"MSc (OM) (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": [
+				"Occupational Medicine",
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Occupational Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 pm to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 pm to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 pm to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 pm to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 pm to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:00 am"
+	},
+	"id": "9400455",
+	"coordinates": [
+		103.7356222,
+		1.3448561
+	],
+	"svy21": [
+		17127.46,
+		36333.09
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

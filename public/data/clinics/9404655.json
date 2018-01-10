@@ -1,0 +1,54 @@
+{
+	"name": "THEAN CLINIC PTE LTD",
+	"tel": "62724145",
+	"fax": "62723050",
+	"licensee": "THEAN CLINIC PTE. LTD.",
+	"licensePeriod": "02/01/2014 to 01/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404655",
+	"address": "BLK 38 BEO CRESCENT, #01-32 Singapore 160038",
+	"doctorInCharge": [
+		{
+			"name": "LAU VI HOK, DON",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 1996",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "09:30 am to 12:30 pm"
+	},
+	"id": "9404655",
+	"coordinates": [
+		103.82729,
+		1.2885539
+	],
+	"svy21": [
+		27329.07,
+		30107.27
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

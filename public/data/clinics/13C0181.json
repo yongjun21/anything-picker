@@ -1,0 +1,44 @@
+{
+	"name": "THE PAIN RELIEF CLINIC",
+	"tel": "67322397",
+	"fax": "67328315",
+	"licensee": "The Pain Relief Clinic Pte. Ltd.",
+	"licensePeriod": "17/07/2017 to 16/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0181",
+	"address": "350 ORCHARD ROAD, SHAW HOUSE, #10-00 Singapore 238868",
+	"doctorInCharge": [
+		{
+			"name": "Tan Hsien Liang Terence",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "13C0181",
+	"coordinates": [
+		103.8315073,
+		1.3058098
+	],
+	"svy21": [
+		27798.42,
+		32015.33
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "AUSTRALIA CLINIC",
+	"tel": "64521205",
+	"fax": "64516871",
+	"licensee": "Ho Chin Seng",
+	"licensePeriod": "31/12/2016 to 30/12/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9403680",
+	"address": "6 SIN MING ROAD, TOWER 2 SIN MIN PLAZA, #01-18 Singapore 575585",
+	"doctorInCharge": [
+		{
+			"name": "Ho Chin Seng",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1968",
+				"MRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1973",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1978"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"id": "9403680",
+	"coordinates": [
+		103.8364072,
+		1.3528637
+	],
+	"svy21": [
+		28343.73,
+		37218.31
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

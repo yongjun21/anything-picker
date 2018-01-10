@@ -1,0 +1,58 @@
+{
+	"name": "ACUMED MEDICAL GROUP",
+	"tel": "63850113",
+	"fax": "65677365",
+	"licensee": "ACUMED MEDICAL PTE. LTD",
+	"licensePeriod": "18/05/2017 to 17/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0142",
+	"address": "BLK 215C COMPASSVALE DRIVE, #01-02 Singapore 543215",
+	"doctorInCharge": [
+		{
+			"name": "Loo Chun Hao",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Saturday": "09:30 am to 12:30 pm, 06:00 pm to 08:30 pm",
+		"Sunday": "09:30 am to 12:30 pm, 06:00 pm to 08:30 pm",
+		"Public Holiday": "09:30 am to 12:30 pm, 06:00 pm to 08:30 pm"
+	},
+	"id": "17M0142",
+	"coordinates": [
+		103.8927872,
+		1.3897703
+	],
+	"svy21": [
+		34618.08,
+		41299.33
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"name": "REVIVAL MEDICAL CENTRE",
+	"tel": "63372707",
+	"fax": "63370849",
+	"licensee": "REVIVAL MEDICAL (SINGAPORE) PTE. LTD.",
+	"licensePeriod": "09/07/2017 to 08/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15C0237",
+	"address": "252 NORTH BRIDGE ROAD, RAFFLES CITY SHOPPING CENTRE, #B2-26 Singapore 179103",
+	"doctorInCharge": [
+		{
+			"name": "CHAN BINGYI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "11:00 am to 09:00 pm",
+		"Tuesday": "11:00 am to 09:00 pm",
+		"Wednesday": "11:00 am to 09:00 pm",
+		"Thursday": "11:00 am to 09:00 pm",
+		"Friday": "11:00 am to 09:00 pm",
+		"Saturday": "11:00 am to 09:00 pm",
+		"Sunday": "11:00 am to 09:00 pm"
+	},
+	"id": "15C0237",
+	"coordinates": [
+		103.8533318,
+		1.2940764
+	],
+	"svy21": [
+		30227.3,
+		30717.93
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

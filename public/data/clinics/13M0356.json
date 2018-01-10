@@ -1,0 +1,56 @@
+{
+	"name": "FERNVALE FAMILY CLINIC",
+	"tel": "68756182",
+	"fax": "68756182",
+	"licensee": "FERNVALE FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "26/12/2015 to 25/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13M0356",
+	"address": "BLK 405C FERNVALE LANE, #01-101 Singapore 793405",
+	"doctorInCharge": [
+		{
+			"name": "Lee Alice",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "13M0356",
+	"coordinates": [
+		103.8734374,
+		1.3891947
+	],
+	"svy21": [
+		32464.7,
+		41235.64
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

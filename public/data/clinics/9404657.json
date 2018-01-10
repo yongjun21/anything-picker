@@ -1,0 +1,50 @@
+{
+	"name": "SUGINO INTERNATIONAL CLINIC",
+	"tel": "62351110",
+	"fax": "67337949",
+	"licensee": "TAN WAN GHEE @SUGINO WAN GHEE",
+	"licensePeriod": "26/08/2016 to 25/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9404657",
+	"address": "8 SINARAN DRIVE, Novena Specialist Center, #06-15 Singapore 307470",
+	"doctorInCharge": [
+		{
+			"name": "TAN WAN GHEE @SUGINO WAN GHEE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9404657",
+	"coordinates": [
+		103.8447824,
+		1.3200301
+	],
+	"svy21": [
+		29275.81,
+		33587.74
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

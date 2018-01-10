@@ -1,0 +1,48 @@
+{
+	"name": "EXPRESS MEDICAL CLINIC",
+	"tel": "62955333",
+	"fax": "62950997",
+	"licensee": "EXPRESS MEDICAL PTE. LTD.",
+	"licensePeriod": "14/05/2016 to 13/05/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404438",
+	"address": "BLK 640 ROWELL ROAD, #01-56 Singapore 200640",
+	"doctorInCharge": [
+		{
+			"name": "JITENDRA KUMAR SEN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 08:00 pm",
+		"Tuesday": "08:30 am to 08:00 pm",
+		"Wednesday": "08:30 am to 08:00 pm",
+		"Thursday": "08:30 am to 08:00 pm",
+		"Friday": "08:30 am to 08:00 pm"
+	},
+	"id": "9404438",
+	"coordinates": [
+		103.8547139,
+		1.3074355
+	],
+	"svy21": [
+		30381.1,
+		32195.1
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

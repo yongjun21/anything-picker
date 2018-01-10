@@ -1,0 +1,46 @@
+{
+	"name": "SINGAPORE TURF CLUB CASUALTY ROOM",
+	"tel": "68791000",
+	"fax": "68791086",
+	"licensee": "Singapore Turf Club",
+	"licensePeriod": "15/02/2016 to 14/02/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401518",
+	"address": "BLK 1 TURF CLUB AVE, SINGAPORE RACECOURSE, Singapore 738078",
+	"doctorInCharge": [
+		{
+			"name": "QUAH TEE HWA",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Friday": "05:30 pm to 11:00 pm",
+		"Sunday": "12:00 pm to 07:00 pm",
+		"Public Holiday": "12:00 pm to 07:00 pm"
+	},
+	"id": "9401518",
+	"coordinates": [
+		103.7592102,
+		1.4220345
+	],
+	"svy21": [
+		19752.82,
+		44867
+	],
+	"planningArea": "SK",
+	"neighbours": [
+		"BP",
+		"LK",
+		"MD",
+		"CC",
+		"WD",
+		"CK",
+		"WC"
+	]
+}

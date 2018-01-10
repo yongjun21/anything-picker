@@ -1,0 +1,53 @@
+{
+	"name": "DR. TAN & PARTNERS",
+	"tel": "68844119",
+	"fax": "62387812",
+	"licensee": "STRAITS HEALTH CORP PTE. LTD.",
+	"licensePeriod": "25/03/2016 to 24/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0063",
+	"address": "180 BENCOOLEN STREET, BENCOOLEN, THE, #02-20 Singapore 189646",
+	"doctorInCharge": [
+		{
+			"name": "Ng Xiao Shi Rachel",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "14M0063",
+	"coordinates": [
+		103.8533562,
+		1.3016622
+	],
+	"svy21": [
+		30230,
+		31556.72
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

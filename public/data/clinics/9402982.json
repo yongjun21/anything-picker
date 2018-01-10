@@ -1,0 +1,51 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "62564060",
+	"fax": "62564060",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/02/2014 to 31/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402982",
+	"address": "7 LORONG 8 TOA PAYOH,, FIRST TOA PAYOH PRIMARY SCHOOL, Singapore 319252",
+	"doctorInCharge": [
+		{
+			"name": "LIM WANYI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9402982",
+	"coordinates": [
+		103.8555299,
+		1.340323
+	],
+	"svy21": [
+		30471.88,
+		35831.63
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

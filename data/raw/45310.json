@@ -1,6 +1,6 @@
 {
 	"name": "WHITE CLOUD DENTAL",
-	"tel": "62259383",
+	"tel": "62522708",
 	"fax": "62259382",
 	"licensee": "WHITE CLOUD DENTAL PTE. LTD.",
 	"licensePeriod": "21/12/2015 to 20/12/2017",
@@ -18,5 +18,10 @@
 	],
 	"detailedServices": {
 		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "11:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 03:00 pm",
+		"Sunday": "11:00 am to 06:00 pm"
 	}
 }

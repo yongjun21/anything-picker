@@ -1,0 +1,59 @@
+{
+	"name": "SINGAPORE NEUROLOGY & SLEEP CENTRE",
+	"tel": "64732377",
+	"fax": "64730225",
+	"licensee": "SINGAPORE NEUROLOGY & SLEEP CENTRE",
+	"licensePeriod": "01/05/2015 to 30/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404416",
+	"address": "6 Napier Road, Gleneagles Medical Centre, #04-19 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Lim Li Ling",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1996",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1996",
+				"Board Cert (Neurology) (American Board of Psychiatry & Neurology, United States) 2002",
+				"Dip (American Board of Electrodiagnosis Medicine, United States) 2003",
+				"ABPN (Clinical Neurophysiology) (American Board of Psychiatry & Neurology, United States) 2003",
+				"ABCN (Clinical Neurophysiology) (American Board of Clinical Neurophysiology, United States) 2004",
+				"ABSM (American Board of Sleep Medicine, United States) 2004"
+			],
+			"specialties": [
+				"Neurology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Neurology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9404416",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

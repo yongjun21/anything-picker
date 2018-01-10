@@ -1,0 +1,67 @@
+{
+	"name": "ASIA HEALTHPARTNERS",
+	"tel": "62357888",
+	"fax": "67329789",
+	"licensee": "Asia HealthPartners Pte. Ltd.",
+	"licensePeriod": "06/05/2017 to 05/05/2018",
+	"licenseClass": "[ 1 Year ( 2D ) ]",
+	"hciCode": "9404842",
+	"address": "304 ORCHARD ROAD, LUCKY PLAZA, #05-06 Singapore 238863",
+	"doctorInCharge": [
+		{
+			"name": "Tham Hsien Jen Colin",
+			"qualifications": [
+				"MB ChB (University of Aberdeen, United Kingdom) 1992",
+				"FRCS (Royal College of Physicians, Ireland) 1999"
+			],
+			"specialties": [
+				"Plastic Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Day Surgery",
+		"Endoscopy",
+		"Liposuction"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Diagnostic Radiology",
+			"Gastroenterology",
+			"Haematology",
+			"Plastic Surgery"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404842",
+	"coordinates": [
+		103.8339619,
+		1.3045061
+	],
+	"svy21": [
+		28071.6,
+		31871.17
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

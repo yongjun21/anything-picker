@@ -1,0 +1,49 @@
+{
+	"name": "THE CLINIC @ CAMPUS",
+	"tel": "63339300",
+	"fax": "62386053",
+	"licensee": "THE CLINIC @ CAMPUS PTE. LTD.",
+	"licensePeriod": "24/09/2016 to 23/09/2018",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
+	"hciCode": "11C0105",
+	"address": "70 STAMFORD ROAD, LI KA SHING LIBRARY BUILDING, #B1-21 Singapore 178901",
+	"doctorInCharge": [
+		{
+			"name": "Wong Mei Wah Deborah",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "11C0105",
+	"coordinates": [
+		103.8501058,
+		1.2966568
+	],
+	"svy21": [
+		29868.27,
+		31003.24
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

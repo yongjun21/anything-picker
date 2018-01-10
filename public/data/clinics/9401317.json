@@ -1,0 +1,49 @@
+{
+	"name": "PHANG DENTIST",
+	"tel": "62838535",
+	"fax": "62838535",
+	"licensee": "PHANG PERN YEN",
+	"licensePeriod": "04/07/2017 to 03/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401317",
+	"address": "BLK 421 ANG MO KIO AVENUE 10, STREET 41, #01-1159 Singapore 560421",
+	"doctorInCharge": [
+		{
+			"name": "PHANG PERN YEN",
+			"qualifications": [
+				"Dental Therapist Exam (Institute of Dental Health, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401317",
+	"coordinates": [
+		103.852967,
+		1.3653842
+	],
+	"svy21": [
+		30186.63,
+		38602.78
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

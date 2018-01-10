@@ -1,0 +1,55 @@
+{
+	"name": "FOO AND ONG FAMILY CLINIC PTE. LTD.",
+	"tel": "65672212",
+	"fax": "64256179",
+	"licensee": "ONG TIONG HEE DAVID",
+	"licensePeriod": "02/06/2017 to 01/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9402667",
+	"address": "BLK 151 BUKIT BATOK ST 11, #01-256 Singapore 650151",
+	"doctorInCharge": [
+		{
+			"name": "ONG TIONG HEE DAVID",
+			"qualifications": [
+				"MBBS (University of Queensland, Australia) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 02:30 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 02:30 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 02:30 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:30 am to 02:30 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:30 am to 02:30 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "08:30 am to 02:30 pm",
+		"Sunday": "08:30 am to 02:30 pm"
+	},
+	"id": "9402667",
+	"coordinates": [
+		103.7442115,
+		1.348747
+	],
+	"svy21": [
+		18083.37,
+		36763.29
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

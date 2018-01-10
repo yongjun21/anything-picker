@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67935376",
+	"fax": "67935376",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "18/12/2014 to 17/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405048",
+	"address": "23 JURONG WEST STREET 81,, PIONEER PRIMARY SCHOOL, Singapore 649076",
+	"doctorInCharge": [
+		{
+			"name": "Tham Sai Soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9405048",
+	"coordinates": [
+		103.6950038,
+		1.3488362
+	],
+	"svy21": [
+		12607.09,
+		36773.4
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

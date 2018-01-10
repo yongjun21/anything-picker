@@ -1,0 +1,50 @@
+{
+	"name": "THE OCCUPATIONAL AND DIVING MEDICINE CENTRE",
+	"tel": "65167333",
+	"fax": "67770660",
+	"licensee": "WORK HEALTH & SAFETY INC (PTE. LTD.)",
+	"licensePeriod": "22/02/2017 to 21/02/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0038",
+	"address": "20 LOWER KENT RIDGE ROAD, UNIVERSITY HEALTH CENTRE, Singapore 119080",
+	"doctorInCharge": [
+		{
+			"name": "GREGORY CHAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"M Med (OM) (National University of Singapore, Singapore) 1997",
+				"Dip Geriatric Med (National University of Singapore, Singapore) 1998",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": [
+				"Occupational Medicine",
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Occupational Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "13C0038",
+	"coordinates": [
+		103.7765233,
+		1.2990352
+	],
+	"svy21": [
+		21679.19,
+		31266.31
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

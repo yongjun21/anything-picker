@@ -1,0 +1,53 @@
+{
+	"name": "PAEDIATRIC & FAMILY MEDICAL CENTRE PTE LTD",
+	"tel": "67838743",
+	"fax": "67838893",
+	"licensee": "PAEDIATRIC & FAMILY MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "13/08/2015 to 12/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404523",
+	"address": "BLK 139 TAMPINES ST 11, #01-52 Singapore 521139",
+	"doctorInCharge": [
+		{
+			"name": "LEE YIP MUI CECILIA",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974",
+				"M Med (Paed) (National University of Singapore, Singapore) 1977",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 1985"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:00 pm",
+		"Thursday": "08:30 am to 12:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404523",
+	"coordinates": [
+		103.9445092,
+		1.3461607
+	],
+	"svy21": [
+		40374.3,
+		36477.41
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

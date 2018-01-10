@@ -1,0 +1,39 @@
+{
+	"name": "LOGOS DENTAL SURGERY",
+	"tel": "62965905",
+	"fax": "62999153",
+	"licensee": "GOH SEOW LING",
+	"licensePeriod": "04/06/2014 to 03/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400994",
+	"address": "BLK 66 Kallang Bahru, #01-501 Singapore 330066",
+	"doctorInCharge": [
+		{
+			"name": "GOH SEOW LING",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9400994",
+	"coordinates": [
+		103.8699146,
+		1.3206645
+	],
+	"svy21": [
+		32072.78,
+		33657.91
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

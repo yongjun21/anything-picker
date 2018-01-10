@@ -1,0 +1,58 @@
+{
+	"name": "HII WOMEN'S CLINIC",
+	"tel": "62576922",
+	"fax": "62576058",
+	"licensee": "HII HOI CHIN",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9400678",
+	"address": "BLK 846 YISHUN RING ROAD, #01-3635 Singapore 760846",
+	"doctorInCharge": [
+		{
+			"name": "HII HOI CHIN",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1979",
+				"M Med (O&G) (National University of Singapore, Singapore) 1985",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1988",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1989",
+				"FRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 2001"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Tuesday": "06:30 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Thursday": "06:30 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Saturday": "09:00 am to 02:00 pm"
+	},
+	"id": "9400678",
+	"coordinates": [
+		103.8346416,
+		1.4167863
+	],
+	"svy21": [
+		28147.23,
+		44286.55
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"name": "THOMSON WOMEN'S CLINIC",
+	"tel": "63335550",
+	"fax": "62534468",
+	"licensee": "THOMSON WOMEN'S CLINIC HOLDINGS PTE LTD",
+	"licensePeriod": "30/07/2017 to 29/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0265",
+	"address": "BLK 135 JURONG GATEWAY ROAD, #01-321 Singapore 600135",
+	"doctorInCharge": [
+		{
+			"name": "Tan Toh Lick",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1997",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 2005"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 02:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 pm to 02:00 pm",
+		"Thursday": "02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "01:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15M0265",
+	"coordinates": [
+		103.7396769,
+		1.3338254
+	],
+	"svy21": [
+		17578.66,
+		35113.35
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

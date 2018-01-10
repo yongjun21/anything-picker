@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64841060",
+	"fax": "68481060",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "13/01/2015 to 12/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403301",
+	"address": "BLK 4 GEYLANG EAST CENTRAL,, GEYLANG METHODIST SCHOOL (PRIMARY), Singapore 389706",
+	"doctorInCharge": [
+		{
+			"name": "Noeline Tan",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403301",
+	"coordinates": [
+		103.8838457,
+		1.3175913
+	],
+	"svy21": [
+		33623.18,
+		33318.12
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

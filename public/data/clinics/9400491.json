@@ -1,0 +1,55 @@
+{
+	"name": "EVERCARE MEDICAL CLINIC",
+	"tel": "67699655",
+	"fax": "67664935",
+	"licensee": "CHUI PENG LEONG",
+	"licensePeriod": "01/10/2016 to 30/09/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400491",
+	"address": "BLK 253 CHOA CHU KANG AVE 1, #01-14A Singapore 680253",
+	"doctorInCharge": [
+		{
+			"name": "CHUI PENG LEONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:00 pm",
+		"Public Holiday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400491",
+	"coordinates": [
+		103.7443936,
+		1.3773661
+	],
+	"svy21": [
+		18103.76,
+		39927.84
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

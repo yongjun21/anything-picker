@@ -1,0 +1,52 @@
+{
+	"name": "MY CLINIC",
+	"tel": "66108335",
+	"fax": "66108335",
+	"licensee": "Liem Sian Yang",
+	"licensePeriod": "08/07/2017 to 29/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0122",
+	"address": "9 KING ALBERT PARK, KAP, #01-50 Singapore 598332",
+	"doctorInCharge": [
+		{
+			"name": "Liem Sian Yang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 08:00 pm",
+		"Tuesday": "09:00 am to 08:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 08:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "17M0122",
+	"coordinates": [
+		103.7793138,
+		1.3368422
+	],
+	"svy21": [
+		21989.84,
+		35446.8
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

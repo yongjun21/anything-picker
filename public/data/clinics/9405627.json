@@ -1,0 +1,46 @@
+{
+	"name": "P N CHONG NEUROLOGY CLINIC",
+	"tel": "67389792",
+	"fax": "67389793",
+	"licensee": "CHONG PIANG NGOK",
+	"licensePeriod": "13/08/2015 to 12/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405627",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #12-16 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "CHONG PIANG NGOK",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1983",
+				"MRCP (Int Med) (Royal College of Physicians, Ireland) 1984"
+			],
+			"specialties": [
+				"Neurology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Neurology"
+		]
+	},
+	"id": "9405627",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

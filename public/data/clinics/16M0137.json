@@ -1,0 +1,43 @@
+{
+	"name": "TEMASEK CLINIC & SURGERY",
+	"tel": "64436113",
+	"fax": "64410952",
+	"licensee": "Lin Yoong Chee Gerard",
+	"licensePeriod": "12/05/2016 to 11/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0137",
+	"address": "BLK 73 BEDOK SOUTH AVENUE 3, #01-460 Singapore 460073",
+	"doctorInCharge": [
+		{
+			"name": "Lin Yoong Chee Gerard",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "16M0137",
+	"coordinates": [
+		103.9439714,
+		1.319838
+	],
+	"svy21": [
+		40314.57,
+		33566.77
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

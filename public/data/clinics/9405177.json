@@ -1,0 +1,49 @@
+{
+	"name": "L'VING VINE DENTAL CLINIC",
+	"tel": "67758385",
+	"fax": "67777563",
+	"licensee": "L'VING VINE DENTAL CLINIC PTE. LTD.",
+	"licensePeriod": "11/05/2015 to 10/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405177",
+	"address": "154 WEST COAST ROAD, WEST COAST PLAZA, #01-84/85 Singapore 127371",
+	"doctorInCharge": [
+		{
+			"name": "Keith Alan Liew",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2002",
+				"MFGDP(UK) (Royal College of Surgeons of England, United Kingdom) 2006"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 am to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 am to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 am to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 am to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 am to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9405177",
+	"coordinates": [
+		103.7661313,
+		1.3036975
+	],
+	"svy21": [
+		20522.67,
+		31781.87
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

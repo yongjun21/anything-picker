@@ -1,0 +1,55 @@
+{
+	"name": "DR CHOOK SPORTS & LIFESTYLE MEDICAL CENTRE",
+	"tel": "67363998",
+	"fax": "67360902",
+	"licensee": "CHOOK KUM KAY",
+	"licensePeriod": "23/07/2017 to 22/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403908",
+	"address": "1 GRANGE ROAD, ORCHARD BUILDING, #10-02/04/06 & 09 Singapore 239693",
+	"doctorInCharge": [
+		{
+			"name": "CHOOK KUM KAY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"MSc(Sports Med) (United States Sports Academy, United States) 1988"
+			],
+			"specialties": [
+				"Sports Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Aviation Medicine",
+			"Occupational Medicine",
+			"Sports Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9403908",
+	"coordinates": [
+		103.8373592,
+		1.3013988
+	],
+	"svy21": [
+		28449.68,
+		31527.59
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

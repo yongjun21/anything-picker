@@ -1,0 +1,48 @@
+{
+	"name": "BRICKWORKS DENTAL SURGERY",
+	"tel": "62718888",
+	"fax": "62718888",
+	"licensee": "CHUA RU HONG",
+	"licensePeriod": "20/02/2017 to 19/02/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0035",
+	"address": "BLK 1 JALAN BUKIT MERAH, #01-4538 Singapore 150001",
+	"doctorInCharge": [
+		{
+			"name": "CHUA RU HONG",
+			"qualifications": [
+				"BDSc (University of Queensland, Australia) 2011"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0035",
+	"coordinates": [
+		103.8082424,
+		1.2864535
+	],
+	"svy21": [
+		25209.23,
+		29875.03
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

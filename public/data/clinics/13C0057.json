@@ -1,0 +1,52 @@
+{
+	"name": "EXPAT DENTAL",
+	"tel": "63976718",
+	"fax": "63976198",
+	"licensee": "EXPAT DENTAL INITIATIVE PTE. LTD.",
+	"licensePeriod": "15/03/2017 to 14/03/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "13C0057",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTER, #08-15/16 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Shaun Thompson",
+			"qualifications": [
+				"DDS (University of Tennessee College of Dentistry, United States) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:30 am to 07:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 02:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0057",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

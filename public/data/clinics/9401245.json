@@ -1,0 +1,44 @@
+{
+	"name": "ORCHARD EYE CLINIC & SURGERY",
+	"tel": "67340555",
+	"fax": "67322334",
+	"licensee": "WONG CHOR CHON",
+	"licensePeriod": "01/11/2014 to 31/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401245",
+	"address": "3 Mt Elizabeth, Mt Elizabeth Medical Centre, #17-16 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "WONG CHOR CHON",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1970",
+				"FRCS (Ophth) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1978"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"id": "9401245",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"name": "HEALTHSPRINGS MEDICAL ASSOCIATES",
+	"tel": "67345260",
+	"fax": "67371960",
+	"licensee": "HEALTHSPRINGS MEDICAL ASSOCIATES PTE. LTD.",
+	"licensePeriod": "09/04/2017 to 08/04/2019",
+	"licenseClass": "[ 2 Years ]",
+	"hciCode": "17C0097",
+	"address": "541 ORCHARD RD, LIAT TOWERS, #10-02 Singapore 238881",
+	"doctorInCharge": [
+		{
+			"name": "LEE HEW MUN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "17C0097",
+	"coordinates": [
+		103.8307226,
+		1.3050872
+	],
+	"svy21": [
+		27711.09,
+		31935.43
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

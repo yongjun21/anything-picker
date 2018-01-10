@@ -1,0 +1,53 @@
+{
+	"name": "TWIN CITY MEDICAL PRACTICE",
+	"tel": "62352511",
+	"fax": "67333892",
+	"licensee": "TWIN CITY MEDICAL PRACTICE PTE. LTD.",
+	"licensePeriod": "18/08/2015 to 17/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405601",
+	"address": "391B ORCHARD ROAD, NGEE ANN CITY TOWER B, #14-10 Singapore 238874",
+	"doctorInCharge": [
+		{
+			"name": "SOO FOOK YUM",
+			"qualifications": [
+				"MBBS (University of Newcastle Upon Tyne, United Kingdom) 2000"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:55 am, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 12:55 am, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 12:55 am, 02:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 12:55 am, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 12:55 am, 02:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405601",
+	"coordinates": [
+		103.8346761,
+		1.3024242
+	],
+	"svy21": [
+		28151.08,
+		31640.97
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

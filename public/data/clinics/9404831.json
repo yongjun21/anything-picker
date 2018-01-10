@@ -1,0 +1,56 @@
+{
+	"name": "ASPEN CLINIC",
+	"tel": "64553829",
+	"fax": "64567217",
+	"licensee": "ASPEN CLINIC PTE. LTD.",
+	"licensePeriod": "30/04/2017 to 29/04/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404831",
+	"address": "BLK 283 BISHAN STREET 22, #01-185 Singapore 570283",
+	"doctorInCharge": [
+		{
+			"name": "WONG KIN CHAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2003",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404831",
+	"coordinates": [
+		103.8447486,
+		1.3589191
+	],
+	"svy21": [
+		29272.03,
+		37887.89
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

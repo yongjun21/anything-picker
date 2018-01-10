@@ -1,0 +1,46 @@
+{
+	"name": "HEALTHWAY TAMPINES CENTRAL CLINIC",
+	"tel": "67890383",
+	"fax": "67890393",
+	"licensee": "Healthway Medical Group Pte Ltd",
+	"licensePeriod": "26/03/2014 to 25/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404107",
+	"address": "BLK 503 Tampines Central 1, #01-311 Singapore 520503",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9404107",
+	"coordinates": [
+		103.9451029,
+		1.3558034
+	],
+	"svy21": [
+		40440.33,
+		37543.65
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

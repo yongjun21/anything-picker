@@ -1,0 +1,58 @@
+{
+	"name": "LE CHAMP- NKF DIALYSIS CENTRE",
+	"tel": "62990200",
+	"fax": "62571650",
+	"licensee": "THE NATIONAL KIDNEY FOUNDATION",
+	"licensePeriod": "30/01/2017 to 29/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0021",
+	"address": "BLK 639 YISHUN STREET 61, #01-168 Singapore 760639",
+	"doctorInCharge": [
+		{
+			"name": "MOOPPIL NANDAKUMAR",
+			"qualifications": [
+				"MBBS (University of Kerala, India) 1975",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "07:00 am to 11:00 pm",
+		"Tuesday": "07:00 am to 11:00 pm",
+		"Wednesday": "07:00 am to 11:00 pm",
+		"Thursday": "07:00 am to 11:00 pm",
+		"Friday": "07:00 am to 11:00 pm",
+		"Saturday": "07:00 am to 11:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "15M0021",
+	"coordinates": [
+		103.8384492,
+		1.4205602
+	],
+	"svy21": [
+		28570.97,
+		44703.85
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

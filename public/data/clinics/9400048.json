@@ -1,0 +1,51 @@
+{
+	"name": "ANGELIN'S BABY & CHILD CLINIC",
+	"tel": "63661011",
+	"fax": "63662022",
+	"licensee": "ABCC PTE LTD",
+	"licensePeriod": "01/03/2014 to 28/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400048",
+	"address": "BLK 303 WOODLANDS ST 31, #01-177 Singapore 730303",
+	"doctorInCharge": [
+		{
+			"name": "TAN YEAN SWEE ANGELIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983",
+				"M Med (Paed) (National University of Singapore, Singapore) 1990",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 1994"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 06:00 pm to 08:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 06:00 pm to 08:00 pm",
+		"Thursday": "09:00 am to 12:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 06:00 pm to 08:00 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9400048",
+	"coordinates": [
+		103.7740111,
+		1.4307996
+	],
+	"svy21": [
+		21399.96,
+		45836.15
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

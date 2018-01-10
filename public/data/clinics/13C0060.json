@@ -1,0 +1,53 @@
+{
+	"name": "THE BELLE CLINIC",
+	"tel": "64448108",
+	"fax": "64449108",
+	"licensee": "THE BELLE CLINIC PTE. LTD.",
+	"licensePeriod": "19/03/2017 to 18/03/2019",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "13C0060",
+	"address": "1 TRAS LINK, ORCHID HOTEL, #02-06 Singapore 078867",
+	"doctorInCharge": [
+		{
+			"name": "Tan Phui-shan Maybelle",
+			"qualifications": [
+				"MB BCh BAO (National University of Ireland, Ireland) 1998",
+				"M Sc (Anatomy) (National University of Ireland, Ireland) 2000",
+				"MRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 2002",
+				"AFRCS (Royal College of Surgeons, Ireland) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Sports Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 07:00 pm",
+		"Tuesday": "10:00 am to 07:00 pm",
+		"Wednesday": "10:00 am to 07:00 pm",
+		"Thursday": "10:00 am to 07:00 pm",
+		"Friday": "10:00 am to 07:00 pm",
+		"Saturday": "09:00 am to 02:00 pm"
+	},
+	"id": "13C0060",
+	"coordinates": [
+		103.8438472,
+		1.2769367
+	],
+	"svy21": [
+		29171.75,
+		28822.7
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

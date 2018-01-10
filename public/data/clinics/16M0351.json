@@ -1,0 +1,40 @@
+{
+	"name": "METTA MEDICAL CENTRE PTE LTD",
+	"tel": "67378000",
+	"fax": "67379149",
+	"licensee": "METTA MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "15/11/2016 to 14/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0351",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH HOSPITAL, #17-03/04 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Khin Khin Win",
+			"qualifications": [
+				"MBBS (University of Rangoon, Myanmar) 1987",
+				"M Med (OM) (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0351",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

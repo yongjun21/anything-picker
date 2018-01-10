@@ -1,0 +1,45 @@
+{
+	"name": "PETER YAN CARDIOLOGY CLINIC",
+	"tel": "64730160",
+	"fax": "64735285",
+	"licensee": "YAN CHEE HONG PETER",
+	"licensePeriod": "16/09/2014 to 15/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401314",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #04-09/10 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "YAN CHEE HONG PETER",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1981",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 1989"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"id": "9401314",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

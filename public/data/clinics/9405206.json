@@ -1,0 +1,47 @@
+{
+	"name": "SILVER CROSS FAMILY CLINIC (SERANGOON)",
+	"tel": "62878702",
+	"fax": "62877890",
+	"licensee": "SILVER CROSS HEALTHCARE PTE LTD",
+	"licensePeriod": "09/06/2015 to 08/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405206",
+	"address": "BLK 262 Serangoon Central Drive, #01-109 Singapore 550262",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9405206",
+	"coordinates": [
+		103.8720435,
+		1.3532308
+	],
+	"svy21": [
+		32309.65,
+		37258.94
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

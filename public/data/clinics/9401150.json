@@ -1,0 +1,39 @@
+{
+	"name": "NAWAZ CLINIC",
+	"tel": "64594726",
+	"fax": "64594726",
+	"licensee": "MOHAMED NAWAZ JANJUA",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401150",
+	"address": "BLK 410 ANG MO KIO AVE 10, #01-841 Singapore 560410",
+	"doctorInCharge": [
+		{
+			"name": "MOHAMED NAWAZ JANJUA",
+			"qualifications": [
+				"MBBS (Punjab University, India) 1959"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9401150",
+	"coordinates": [
+		103.854645,
+		1.3627154
+	],
+	"svy21": [
+		30373.38,
+		38307.67
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

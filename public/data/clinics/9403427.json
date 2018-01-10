@@ -1,0 +1,61 @@
+{
+	"name": "MISSION MEDICAL CLINIC",
+	"tel": "62892100",
+	"fax": "62893010",
+	"licensee": "LEONG CHOON KIT",
+	"licensePeriod": "01/09/2015 to 31/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403427",
+	"address": "780 UPPER SERANGOON ROAD, #01-01 Singapore 534649",
+	"doctorInCharge": [
+		{
+			"name": "LEONG CHOON KIT",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"M Med (Public Health) (National University of Singapore, Singapore) 1998",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2003",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2006",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2011",
+				"FAMS (Family Medicine) (Academy of Medicine, Singapore) 2014"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm, 07:00 pm to 10:30 pm",
+		"Thursday": "08:30 am to 12:00 pm, 07:00 pm to 10:30 pm",
+		"Tuesday": "08:30 am to 12:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm",
+		"Friday": "Closed",
+		"Sunday": "Closed",
+		"Saturday": "08:30 am to 12:00 pm"
+	},
+	"id": "9403427",
+	"coordinates": [
+		103.8792814,
+		1.3545086
+	],
+	"svy21": [
+		33115.13,
+		37400.24
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

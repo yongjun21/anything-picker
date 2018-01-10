@@ -1,0 +1,53 @@
+{
+	"name": "GREAT HEALTH MEDICAL CLINIC",
+	"tel": "64561767",
+	"fax": "64557168",
+	"licensee": "GREAT HEALTH MEDICAL CLINIC",
+	"licensePeriod": "20/12/2015 to 19/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0235",
+	"address": "BLK 407 ANG MO KIO AVENUE 10, #01-749 Singapore 560407",
+	"doctorInCharge": [
+		{
+			"name": "LIM TIEN CHIAR",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:45 pm, 05:00 pm to 08:15 pm",
+		"Tuesday": "08:30 am to 01:45 pm, 05:00 pm to 08:15 pm",
+		"Wednesday": "08:30 am to 01:45 pm, 05:00 pm to 08:15 pm",
+		"Thursday": "08:30 am to 01:45 pm, 05:00 pm to 08:15 pm",
+		"Friday": "08:30 am to 01:45 pm, 05:00 pm to 08:15 pm",
+		"Saturday": "08:30 am to 01:45 pm, 05:00 pm to 08:15 pm",
+		"Sunday": "08:30 am to 01:45 pm, 05:00 pm to 08:15 pm"
+	},
+	"id": "11C0235",
+	"coordinates": [
+		103.8552477,
+		1.3619135
+	],
+	"svy21": [
+		30440.45,
+		38219
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "LUSH MEDICAL CLINIC",
+	"tel": "67374964",
+	"fax": "67374964",
+	"licensee": "LUSH MEDICAL CLINIC PTE. LIMITED",
+	"licensePeriod": "28/09/2017 to 27/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0302",
+	"address": "176 ORCHARD ROAD, THE CENTREPOINT, #03-31 Singapore 238843",
+	"doctorInCharge": [
+		{
+			"name": "Xiao Weibin",
+			"qualifications": [
+				"MBBS (University of New South Wales, Australia) 2011"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "11:00 am to 08:00 pm",
+		"Tuesday": "11:00 am to 08:00 pm",
+		"Wednesday": "11:00 am to 08:00 pm",
+		"Thursday": "11:00 am to 08:00 pm",
+		"Friday": "11:00 am to 08:00 pm",
+		"Saturday": "11:00 am to 04:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "17M0302",
+	"coordinates": [
+		103.8397589,
+		1.301978
+	],
+	"svy21": [
+		28716.75,
+		31591.64
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "MEDILINE WEI MIN CLINIC",
+	"tel": "66358883",
+	"fax": "62479392",
+	"licensee": "MEDILINE CLINICS (BUKIT TIMAH) PTE LTD",
+	"licensePeriod": "05/02/2016 to 04/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0033",
+	"address": "BLK 833 BUKIT TIMAH ROAD, ROYALVILLE, #01-05 Singapore 279887",
+	"doctorInCharge": [
+		{
+			"name": "SANJAY DOSHI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "16M0033",
+	"coordinates": [
+		103.7939856,
+		1.3317051
+	],
+	"svy21": [
+		23622.64,
+		34878.74
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

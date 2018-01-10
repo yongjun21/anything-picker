@@ -1,0 +1,53 @@
+{
+	"name": "FAMILY LIFE CLINIC",
+	"tel": "67744678",
+	"fax": "67744520",
+	"licensee": "Lim Keng Chye David",
+	"licensePeriod": "25/10/2014 to 24/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402745",
+	"address": "BLK 727 CLEMENTI WEST ST 2, #01-264 Singapore 120727",
+	"doctorInCharge": [
+		{
+			"name": "KOH CHEONG BOO RODNEY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 10:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 10:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 10:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9402745",
+	"coordinates": [
+		103.7638177,
+		1.3046225
+	],
+	"svy21": [
+		20265.19,
+		31884.15
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

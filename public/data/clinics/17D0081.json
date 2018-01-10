@@ -1,0 +1,46 @@
+{
+	"name": "THOMSON PAEDIATRIC DENTISTRY",
+	"tel": "66363808",
+	"fax": "66363809",
+	"licensee": "THOMSON PAEDIATRIC CENTRE PTE. LTD.",
+	"licensePeriod": "23/03/2017 to 22/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17D0081",
+	"address": "148 EAST COAST ROAD, Singapore 428836",
+	"doctorInCharge": [
+		{
+			"name": "Chng Si'en Tabitha",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"MSc Paediatric Dentistry (Toronto) (University of Toronto, Canada) 2012",
+				"FRCD (Canada) (The Royal College of Dentists of Canada, Canada) 2012",
+				"Am. Board Pediatric Dentistry (American Board of Pediatric Dentistry, United States) 2013"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Paediatric Dentistry"
+		]
+	},
+	"id": "17D0081",
+	"coordinates": [
+		103.9056844,
+		1.3062328
+	],
+	"svy21": [
+		36053.64,
+		32062.22
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

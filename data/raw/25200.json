@@ -9,9 +9,9 @@
 	"address": "1 Orchard Boulevard, Camden Medical Centre, #08-02/03 Singapore 248649",
 	"doctorInCharge": [
 		{
-			"name": "Marcus Philip Cooney",
+			"name": "Bernard Siew",
 			"qualifications": [
-				"BDS (University of Adelaide, Australia) 1983"
+				"BDS (University of Adelaide, Australia) 2000"
 			],
 			"specialties": []
 		}
@@ -20,7 +20,8 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Monday to Friday": "08:30 am to 05:30 pm",
+		"Monday to Wednesday": "08:30 am to 06:30 pm",
+		"Thursday and Friday": "08:30 am to 05:30 pm",
 		"Saturday": "09:00 am to 01:30 pm"
 	}
 }

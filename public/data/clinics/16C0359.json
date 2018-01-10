@@ -1,0 +1,55 @@
+{
+	"name": "LAKESIDE FAMILY MEDICINE CLINIC",
+	"tel": "62626434",
+	"fax": "64710915",
+	"licensee": "Buddhist Compassion Relief Tzu-Chi Foundation (Singapore)",
+	"licensePeriod": "23/11/2016 to 22/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16C0359",
+	"address": "BLK 518A JURONG WEST STREET 52, #01-02 Singapore 641518",
+	"doctorInCharge": [
+		{
+			"name": "Lim Boon Howe Edwin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "16C0359",
+	"coordinates": [
+		103.7188576,
+		1.3451383
+	],
+	"svy21": [
+		15261.74,
+		36364.37
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

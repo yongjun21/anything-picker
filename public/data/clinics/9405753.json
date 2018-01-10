@@ -1,0 +1,52 @@
+{
+	"name": "DENTAL FOCUS EUNOS CLINIC",
+	"tel": "68415166",
+	"fax": "68415766",
+	"licensee": "DENTALTOWN (EUNOS) PTE. LTD.",
+	"licensePeriod": "03/06/2016 to 17/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405753",
+	"address": "BLK 2A EUNOS CRESCENT, #01-2439 Singapore 401002",
+	"doctorInCharge": [
+		{
+			"name": "Ong Siu-Min Ethel",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986",
+				"MSc (University of London, United Kingdom) 1990"
+			],
+			"specialties": [
+				"Periodontology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405753",
+	"coordinates": [
+		103.9031935,
+		1.3202011
+	],
+	"svy21": [
+		35776.39,
+		33606.76
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

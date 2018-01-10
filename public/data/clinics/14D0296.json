@@ -1,0 +1,40 @@
+{
+	"name": "LITTLE INDIA DENTIST",
+	"tel": "62930355",
+	"fax": "62930356",
+	"licensee": "LITTLE INDIA DENTIST PRIVATE LIMITED",
+	"licensePeriod": "01/10/2016 to 30/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0296",
+	"address": "12 KERBAU ROAD, Singapore 219151",
+	"doctorInCharge": [
+		{
+			"name": "Samintharaj Kumar",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": true
+	},
+	"id": "14D0296",
+	"coordinates": [
+		103.8516257,
+		1.3069176
+	],
+	"svy21": [
+		30037.42,
+		32137.83
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

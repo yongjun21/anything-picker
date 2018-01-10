@@ -1,0 +1,45 @@
+{
+	"name": "ICON SOC GLENEAGLES MEDICAL CLINIC",
+	"tel": "64713373",
+	"fax": "64711062",
+	"licensee": "ICON SOC PTE LTD",
+	"licensePeriod": "24/02/2017 to 23/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17C0043",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #05-11/12 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "WONG KIT YEE KARMEN",
+			"qualifications": [
+				"MBBS (University of Adelaide, Australia) 1986",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1990",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	},
+	"id": "17C0043",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

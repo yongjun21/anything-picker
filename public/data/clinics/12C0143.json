@@ -1,0 +1,56 @@
+{
+	"name": "KIDNEYCARE CENTRE",
+	"tel": "66940640",
+	"fax": "64763368",
+	"licensee": "KIDNEYCARE CENTRE PTE. LTD.",
+	"licensePeriod": "17/07/2016 to 16/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0143",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #06-32 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Tan Seng Hoe",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1996",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1996",
+				"FAMS (Academy of Medicine, Singapore) 2000",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2004",
+				"FRCP (Lond) (Royal College of Physicians of London, United Kingdom) 2009"
+			],
+			"specialties": [
+				"Internal Medicine",
+				"Renal Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Internal Medicine",
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "12C0143",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

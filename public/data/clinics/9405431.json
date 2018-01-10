@@ -1,0 +1,56 @@
+{
+	"name": "GOH CLINIC & SURGERY",
+	"tel": "63863836",
+	"fax": "63864592",
+	"licensee": "GOH CHIN LIANG MALCOLM",
+	"licensePeriod": "04/01/2017 to 03/01/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405431",
+	"address": "BLK 204 HOUGANG ST 21, #01-101 Singapore 530204",
+	"doctorInCharge": [
+		{
+			"name": "GOH CHIN LIANG MALCOLM",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405431",
+	"coordinates": [
+		103.8849884,
+		1.3588191
+	],
+	"svy21": [
+		33750.26,
+		37876.89
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

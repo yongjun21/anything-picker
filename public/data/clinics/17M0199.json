@@ -1,0 +1,41 @@
+{
+	"name": "ENSOUL MEDICAL CLINIC",
+	"tel": "68362833",
+	"fax": "68362933",
+	"licensee": "THEAN PTE. LTD.",
+	"licensePeriod": "03/07/2017 to 02/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0199",
+	"address": "360 ORCHARD ROAD, INTERNATIONAL BUILDING, #08-01 Singapore 238869",
+	"doctorInCharge": [
+		{
+			"name": "Thean Hsueh Leke Kenneth",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1986",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0199",
+	"coordinates": [
+		103.8310033,
+		1.3060752
+	],
+	"svy21": [
+		27742.33,
+		32044.67
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

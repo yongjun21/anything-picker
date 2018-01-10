@@ -1,0 +1,40 @@
+{
+	"name": "EASTERN DENTAL SURGERY",
+	"tel": "65624146",
+	"fax": "65624146",
+	"licensee": "CHEE AI GUAT",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400460",
+	"address": "BLK 303 JURONG EAST ST 32, #01-92 Singapore 600303",
+	"doctorInCharge": [
+		{
+			"name": "CHEE AI GUAT",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9400460",
+	"coordinates": [
+		103.7356222,
+		1.3448561
+	],
+	"svy21": [
+		17127.46,
+		36333.09
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

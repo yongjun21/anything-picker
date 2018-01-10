@@ -1,0 +1,51 @@
+{
+	"name": "VISTA DENTAL SURGERY",
+	"tel": "68815550",
+	"fax": "68815550",
+	"licensee": "VISTA DENTAL SURGERY (SK) PTE. LTD.",
+	"licensePeriod": "26/07/2014 to 25/07/2019",
+	"licenseClass": "[ 5 Years ( 2D ) ]",
+	"hciCode": "9403401",
+	"address": "5 SENGKANG SQUARE, SENGKANG MRT STATION, #02-01 Singapore 545062",
+	"doctorInCharge": [
+		{
+			"name": "ONG HUANG LEONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9403401",
+	"coordinates": [
+		103.8954847,
+		1.3916946
+	],
+	"svy21": [
+		34918.27,
+		41512.13
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

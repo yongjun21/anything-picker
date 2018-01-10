@@ -1,0 +1,48 @@
+{
+	"name": "LAVENDER DENTAL SURGERY",
+	"tel": "81100013",
+	"fax": "62926856",
+	"licensee": "NG KAI KHUAY",
+	"licensePeriod": "27/06/2016 to 26/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400909",
+	"address": "BLK 808 FRENCH ROAD, KITCHENER COMPLEX, #05-183 Singapore 200808",
+	"doctorInCharge": [
+		{
+			"name": "NG KAI KHUAY",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 11:30 pm, 02:00 pm to 04:30 pm, 06:45 pm to 08:00 pm",
+		"Tuesday": "09:00 am to 11:30 pm, 02:00 pm to 04:30 pm, 06:45 pm to 08:00 pm",
+		"Wednesday": "09:00 am to 11:30 pm, 02:00 pm to 04:30 pm, 06:45 pm to 08:00 pm",
+		"Thursday": "09:00 am to 11:30 pm, 02:00 pm to 04:30 pm, 06:45 pm to 08:00 pm",
+		"Friday": "09:00 am to 11:35 am, 02:00 pm to 04:30 pm",
+		"Saturday": "09:00 am to 11:30 am",
+		"Sunday": "09:00 am to 11:30 am"
+	},
+	"id": "9400909",
+	"coordinates": [
+		103.861312,
+		1.3088061
+	],
+	"svy21": [
+		31115.4,
+		32346.66
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"name": "CHAN DENTAL CLINIC & SURGERY",
+	"tel": "62825903",
+	"fax": "00000000",
+	"licensee": "CHAN JOO HOK FREDDY",
+	"licensePeriod": "28/09/2015 to 27/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403691",
+	"address": "22 YIO CHU KANG RD, HIGHLAND CENTRE, #01-17 Singapore 545535",
+	"doctorInCharge": [
+		{
+			"name": "CHAN JOO HOK FREDDY",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9403691",
+	"coordinates": [
+		103.8772595,
+		1.3553878
+	],
+	"svy21": [
+		32890.12,
+		37497.45
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

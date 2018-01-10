@@ -1,0 +1,51 @@
+{
+	"name": "CHAN MEE FAMILY DENTALCARE PTE LTD",
+	"tel": "67442053",
+	"fax": "67442053",
+	"licensee": "Agnes Yeo Yin",
+	"licensePeriod": "16/09/2015 to 15/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405309",
+	"address": "15 SIGLAP ROAD, MANDARIN GARDENS, #01-02 Singapore 448912",
+	"doctorInCharge": [
+		{
+			"name": "Agnes Yeo Yin",
+			"qualifications": [
+				"DDS (Loma Linda University, United States) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:30 pm to 06:00 pm, 07:00 pm to 10:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:30 pm to 06:00 pm, 07:00 pm to 10:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:30 pm to 06:00 pm, 07:00 pm to 10:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:30 pm to 06:00 pm, 07:00 pm to 10:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:30 pm to 06:00 pm, 07:00 pm to 10:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:30 pm to 06:00 pm, 07:00 pm to 10:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:30 pm to 06:00 pm, 07:00 pm to 10:00 pm"
+	},
+	"id": "9405309",
+	"coordinates": [
+		103.9237697,
+		1.3070607
+	],
+	"svy21": [
+		38066.38,
+		32153.83
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

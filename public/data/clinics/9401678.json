@@ -1,0 +1,48 @@
+{
+	"name": "THE DENTAL CENTRE",
+	"tel": "67758279",
+	"fax": "62208895",
+	"licensee": "LEE ENG CHUAN",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401678",
+	"address": "BLK 354 CLEMENTI AVE 2, #01-249 Singapore 120354",
+	"doctorInCharge": [
+		{
+			"name": "LEE ENG CHUAN",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 08:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 08:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 08:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 08:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 08:00 pm",
+		"Saturday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9401678",
+	"coordinates": [
+		103.7708611,
+		1.3135139
+	],
+	"svy21": [
+		21049.08,
+		32867.29
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

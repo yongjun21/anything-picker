@@ -1,0 +1,53 @@
+{
+	"name": "SATA COMMHEALTH JURONG MEDICAL CENTRE",
+	"tel": "62446688",
+	"fax": "65671814",
+	"licensee": "SATA CommHealth",
+	"licensePeriod": "18/06/2015 to 17/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404472",
+	"address": "BLK 135 Jurong Gateway Road, #04-345 Singapore 600135",
+	"doctorInCharge": [
+		{
+			"name": "Sharon Kaur Minhas",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404472",
+	"coordinates": [
+		103.7396769,
+		1.3338254
+	],
+	"svy21": [
+		17578.66,
+		35113.35
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

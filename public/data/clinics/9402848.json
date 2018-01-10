@@ -1,0 +1,47 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "65674745",
+	"fax": "65674745",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402848",
+	"address": "18 BT BATOK ST 21,, BUKIT VIEW PRIMARY SCHOOL, Singapore 659634",
+	"doctorInCharge": [
+		{
+			"name": "Tham Sai Soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9402848",
+	"coordinates": [
+		103.753666,
+		1.3458605
+	],
+	"svy21": [
+		19135.54,
+		36444.08
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

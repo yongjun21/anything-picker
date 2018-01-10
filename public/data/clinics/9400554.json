@@ -1,0 +1,49 @@
+{
+	"name": "FUNAN CLINIC",
+	"tel": "63388793",
+	"fax": "63347385",
+	"licensee": "KISHAN DHAKSHAYANI",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400554",
+	"address": "5 COLEMAN ST, EXCELSIOR SHOPPING CENTRE, #03-20/21 Singapore 179805",
+	"doctorInCharge": [
+		{
+			"name": "KISHAN DHAKSHAYANI",
+			"qualifications": [
+				"MBBS (University of Madras, India) 1965"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "10:30 am to 02:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400554",
+	"coordinates": [
+		103.8498204,
+		1.2920159
+	],
+	"svy21": [
+		29836.51,
+		30490.08
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

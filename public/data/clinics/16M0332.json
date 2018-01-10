@@ -1,0 +1,45 @@
+{
+	"name": "ONECARE CLINIC CHOA CHU KANG",
+	"tel": "63522639",
+	"fax": "63582691",
+	"licensee": "Onecare Clinic Choa Chu Kang Pte Ltd",
+	"licensePeriod": "21/10/2016 to 20/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0332",
+	"address": "BLK 810 CHOA CHU KANG AVENUE 7, MULTI STOREY CAR PARK, #01-09 Singapore 680810",
+	"doctorInCharge": [
+		{
+			"name": "Lim Kay Hui",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "16M0332",
+	"coordinates": [
+		103.7461601,
+		1.374058
+	],
+	"svy21": [
+		18300.33,
+		39562.04
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

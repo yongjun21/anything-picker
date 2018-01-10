@@ -1,0 +1,49 @@
+{
+	"name": "UNIVERSAL DENTAL SURGERY",
+	"tel": "67523288",
+	"fax": "67523288",
+	"licensee": "DAN & YEM ENTERPRISE PTE. LTD.",
+	"licensePeriod": "01/06/2016 to 31/05/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401822",
+	"address": "BLK 844 YISHUN ST 81, #01-162 Singapore 760844",
+	"doctorInCharge": [
+		{
+			"name": "DANNY LEE TECK BAN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9401822",
+	"coordinates": [
+		103.8354465,
+		1.4156252
+	],
+	"svy21": [
+		28236.81,
+		44158.16
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

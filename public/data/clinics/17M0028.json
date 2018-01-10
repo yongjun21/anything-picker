@@ -1,0 +1,47 @@
+{
+	"name": "KINGSLEY FAMILY CLINIC",
+	"tel": "62650669",
+	"fax": "66002688",
+	"licensee": "KINGSLEY SERVICES PTE LTD",
+	"licensePeriod": "15/02/2017 to 14/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0028",
+	"address": "BLK 704 ANG MO KIO AVENUE 8, #01-2551 Singapore 560704",
+	"doctorInCharge": [
+		{
+			"name": "Chan Wei Chyet",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2003",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2009",
+				"Dip OM (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "17M0028",
+	"coordinates": [
+		103.8472307,
+		1.3704071
+	],
+	"svy21": [
+		29548.25,
+		39158.18
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

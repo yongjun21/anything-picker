@@ -1,0 +1,57 @@
+{
+	"name": "RESTORE HEART CENTRE",
+	"tel": "62581308",
+	"fax": "62581360",
+	"licensee": "Restore Heart Services Pte. Ltd.",
+	"licensePeriod": "16/12/2015 to 15/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0426",
+	"address": "820 THOMSON ROAD, MOUNT ALVERNIA HOSPITAL MEDICAL CENTRE D, #07-52 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "Yong Wee Boon Derek",
+			"qualifications": [
+				"MBBS (University of Adelaide, Australia) 2003",
+				"FRACP (Cardiology) (Royal Australasian College of Physicians, Australia) 2012",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 2013",
+				"FACC (American College of Cardiology, United States) 2015"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "15M0426",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

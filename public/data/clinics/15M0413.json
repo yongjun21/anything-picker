@@ -1,0 +1,56 @@
+{
+	"name": "PLATINUM MEDICAL CENTRE PTE LTD",
+	"tel": "62571134",
+	"fax": "62571134",
+	"licensee": "PLATINUM MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "03/12/2015 to 02/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0413",
+	"address": "BLK 504 YISHUN STREET 51, MULTI STOREY CAR PARK, #01-02 Singapore 760504",
+	"doctorInCharge": [
+		{
+			"name": "Shishir Sharma",
+			"qualifications": [
+				"MBBS (University of Delhi, India) 2007"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Sunday": "06:00 pm to 09:00 pm"
+	},
+	"id": "15M0413",
+	"coordinates": [
+		103.8445435,
+		1.4184014
+	],
+	"svy21": [
+		29249.17,
+		44465.14
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

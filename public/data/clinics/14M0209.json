@@ -1,0 +1,56 @@
+{
+	"name": "RSIM GENERAL & COLORECTAL SURGERY",
+	"tel": "66363493",
+	"fax": "66363494",
+	"licensee": "R SIM SURGERY PTE. LTD.",
+	"licensePeriod": "23/07/2016 to 22/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0209",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #13-10 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "Richard Sim",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1994",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1994",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "14M0209",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

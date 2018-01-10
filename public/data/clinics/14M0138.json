@@ -1,0 +1,55 @@
+{
+	"name": "PARKWAY SHENTON MEDICAL GROUP",
+	"tel": "62223626",
+	"fax": "62201593",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "26/05/2017 to 25/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0138",
+	"address": "50 ROBINSON ROAD, ROBINSON SUITES, #01-03 Singapore 068882",
+	"doctorInCharge": [
+		{
+			"name": "Tan Seok Leng",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978",
+				"DRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1981"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "14M0138",
+	"coordinates": [
+		103.8498225,
+		1.2809347
+	],
+	"svy21": [
+		29836.75,
+		29264.78
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

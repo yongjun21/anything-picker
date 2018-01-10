@@ -1,0 +1,50 @@
+{
+	"name": "Q & M DENTAL SURGERY (HOLLAND VILLAGE)",
+	"tel": "68923913",
+	"fax": "68926995",
+	"licensee": "Q & M DENTAL SURGERY (CLEMENTI) PTE. LTD.",
+	"licensePeriod": "06/10/2015 to 05/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0162",
+	"address": "200 HOLLAND AVENUE, Holland Village MRT Station, #B1-19 Singapore 278995",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng Raymond",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "11C0162",
+	"coordinates": [
+		103.7963991,
+		1.3122403
+	],
+	"svy21": [
+		23891.22,
+		32726.41
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

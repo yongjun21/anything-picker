@@ -1,0 +1,55 @@
+{
+	"name": "NATIONAL HEALTHCARE GROUP POLYCLINICS (TOA PAYOH)",
+	"tel": "63553000",
+	"fax": "63547569",
+	"licensee": "NATIONAL HEALTHCARE GROUP POLYCLINICS",
+	"licensePeriod": "19/09/2014 to 18/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403121",
+	"address": "2003 TOA PAYOH LOR 8, Singapore 319260",
+	"doctorInCharge": [
+		{
+			"name": "TUNG YEW CHEONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403121",
+	"coordinates": [
+		103.8589564,
+		1.3344803
+	],
+	"svy21": [
+		30853.23,
+		35185.58
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

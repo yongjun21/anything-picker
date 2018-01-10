@@ -1,0 +1,48 @@
+{
+	"name": "GASTRO LIVER & SURGICAL CENTRE",
+	"tel": "62357923",
+	"fax": "67220693",
+	"licensee": "GLSC PRIVATE LTD.",
+	"licensePeriod": "02/08/2016 to 01/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0260",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #03-02 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Lai Wai Kwan",
+			"qualifications": [
+				"MB ChB (University of Sheffield, United Kingdom) 1993",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1996",
+				"PhD (University of Birmingham, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Gastroenterology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Gastroenterology",
+			"General Surgery",
+			"Internal Medicine"
+		]
+	},
+	"id": "14M0260",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

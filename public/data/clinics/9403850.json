@@ -1,0 +1,47 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "63685245",
+	"fax": "63685245",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "12/12/2013 to 11/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403850",
+	"address": "10 WOODLANDS DRIVE 50, WOODLANDS PRIMARY SCHOOL, Singapore 738853",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9403850",
+	"coordinates": [
+		103.7915705,
+		1.4365511
+	],
+	"svy21": [
+		23354.08,
+		46472.08
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

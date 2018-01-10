@@ -1,0 +1,52 @@
+{
+	"name": "SEFTON MEDICAL CENTRE PTE LTD",
+	"tel": "64764476",
+	"fax": "64768476",
+	"licensee": "SEFTON MEDICAL CENTRE PTE LTD",
+	"licensePeriod": "26/09/2015 to 25/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402030",
+	"address": "BLK 41 HOLLAND DRIVE, #01-25 Singapore 270041",
+	"doctorInCharge": [
+		{
+			"name": "LOW SZE SEN",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1986",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm",
+		"Thursday": "08:30 am to 12:30 pm",
+		"Friday": "08:30 am to 12:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9402030",
+	"coordinates": [
+		103.7934635,
+		1.30762
+	],
+	"svy21": [
+		23564.5,
+		32215.53
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

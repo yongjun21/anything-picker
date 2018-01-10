@@ -1,0 +1,48 @@
+{
+	"name": "HEALTHWAY MEDICAL CLINIC",
+	"tel": "67333855",
+	"fax": "67333532",
+	"licensee": "HEALTHWAY MEDICAL GROUP PTE LTD",
+	"licensePeriod": "27/05/2017 to 26/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0156",
+	"address": "BLK 190 LORONG 6 TOA PAYOH, #02-512 Singapore 310190",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "15M0156",
+	"coordinates": [
+		103.848705,
+		1.3329791
+	],
+	"svy21": [
+		29712.34,
+		35019.58
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

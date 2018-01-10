@@ -1,0 +1,48 @@
+{
+	"name": "TP SIM FAMILY CLINIC & SURGERY",
+	"tel": "63538010",
+	"fax": "63538021",
+	"licensee": "TP SIM FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "22/07/2017 to 21/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401584",
+	"address": "BLK 509 BISHAN STREET 11, #01-378 Singapore 570509",
+	"doctorInCharge": [
+		{
+			"name": "Sim Tiong Puay",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed"
+	},
+	"id": "9401584",
+	"coordinates": [
+		103.8495399,
+		1.3485245
+	],
+	"svy21": [
+		29805.26,
+		36738.51
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

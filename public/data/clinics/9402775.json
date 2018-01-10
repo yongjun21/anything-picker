@@ -1,0 +1,56 @@
+{
+	"name": "THOMSON WOMEN'S CLINIC",
+	"tel": "68931227",
+	"fax": "68933341",
+	"licensee": "THOMSON WOMEN'S CLINIC HOLDINGS PTE LTD",
+	"licensePeriod": "02/11/2014 to 01/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402775",
+	"address": "BLK 304 CHOA CHU KANG AVE 4, #01-653 Singapore 680304",
+	"doctorInCharge": [
+		{
+			"name": "ADRIAN BENEDICT WOODWORTH",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1996",
+				"MRACOG (Royal Australian College of Obstetricians and Gynaecologists, Australia) 1997",
+				"M Med (O&G) (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 pm to 12:00 pm, 06:00 pm to 08:00 pm",
+		"Thursday": "09:30 pm to 12:00 pm, 06:00 pm to 08:00 pm",
+		"Tuesday": "09:30 am to 12:00 pm",
+		"Wednesday": "09:30 am to 12:00 pm",
+		"Friday": "09:30 am to 12:00 pm",
+		"Saturday": "09:30 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402775",
+	"coordinates": [
+		103.7431458,
+		1.3844961
+	],
+	"svy21": [
+		17964.92,
+		40716.25
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"name": "SUNBEAM MEDICAL CLINIC",
+	"tel": "66100968",
+	"fax": "67690089",
+	"licensee": "SUNBEAM MEDICAL PTE. LTD.",
+	"licensePeriod": "29/03/2016 to 28/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0079",
+	"address": "BLK 443C FAJAR ROAD, #01-76 Singapore 673443",
+	"doctorInCharge": [
+		{
+			"name": "Boon Jiabin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2008"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:30 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:30 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Public Holiday": "08:30 am to 01:00 pm",
+		"Sunday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm"
+	},
+	"id": "16M0079",
+	"coordinates": [
+		103.7697327,
+		1.3805705
+	],
+	"svy21": [
+		20923.69,
+		40282.09
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

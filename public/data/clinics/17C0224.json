@@ -1,0 +1,45 @@
+{
+	"name": "MINMED CLINIC (HAIG ROAD)",
+	"tel": "68469979",
+	"fax": "67423453",
+	"licensee": "MINISTRY MEDICAL GROUP PTE LTD",
+	"licensePeriod": "01/08/2017 to 31/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17C0224",
+	"address": "30 HAIG RD, Singapore 438737",
+	"doctorInCharge": [
+		{
+			"name": "CHEN LISA",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"Dip OM (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "17C0224",
+	"coordinates": [
+		103.895732,
+		1.3132164
+	],
+	"svy21": [
+		34946.02,
+		32834.4
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

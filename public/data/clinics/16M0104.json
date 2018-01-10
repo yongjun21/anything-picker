@@ -1,0 +1,43 @@
+{
+	"name": "L&G MEDICAL CLINIC",
+	"tel": "62508437",
+	"fax": "62508438",
+	"licensee": "L&G MEDICAL GROUP PTE. LTD.",
+	"licensePeriod": "13/04/2016 to 12/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0104",
+	"address": "BLK 51 CHIN SWEE ROAD, #01-75 Singapore 160051",
+	"doctorInCharge": [
+		{
+			"name": "Tan Chong Hun",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "16M0104",
+	"coordinates": [
+		103.8420298,
+		1.287403
+	],
+	"svy21": [
+		28969.48,
+		29980
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

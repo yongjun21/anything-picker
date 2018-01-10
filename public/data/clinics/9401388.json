@@ -1,0 +1,47 @@
+{
+	"name": "REGENT CLINIC",
+	"tel": "64564431",
+	"fax": "64564432",
+	"licensee": "LYEN YUEN CHIN (nee HUANG)",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401388",
+	"address": "301 UPPER THOMSON ROAD, THOMSON PLAZA, #03-12 Singapore 574408",
+	"doctorInCharge": [
+		{
+			"name": "LYEN YUEN CHIN (nee HUANG)",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1976",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1979"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9401388",
+	"coordinates": [
+		103.8309198,
+		1.354669
+	],
+	"svy21": [
+		27733.04,
+		37417.93
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

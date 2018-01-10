@@ -1,0 +1,46 @@
+{
+	"name": "HEALTHWAY MEDICAL CLINIC",
+	"tel": "65551445",
+	"fax": "65551446",
+	"licensee": "HEALTHWAY MEDICAL GROUP PTE LTD",
+	"licensePeriod": "30/07/2017 to 29/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0260",
+	"address": "30 SEMBAWANG DRIVE, SUN PLAZA, #03-20 Singapore 757713",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "15M0260",
+	"coordinates": [
+		103.8195021,
+		1.4481954
+	],
+	"svy21": [
+		26462.45,
+		47759.61
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "ATLAS SPINE AND ORTHOPAEDIC SURGERY CENTRE",
+	"tel": "62620555",
+	"fax": "64576686",
+	"licensee": "ATLAS SPINE AND ORTHOPAEDIC SURGERY CENTRE PTE. LTD.",
+	"licensePeriod": "26/02/2016 to 25/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0046",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #06-09 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "chua soo yong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Orthopaedic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Orthopaedic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "16M0046",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "NOVU MEDICAL AESTHETIC CLINIC RAFFLES CITY",
+	"tel": "63331128",
+	"fax": "62350412",
+	"licensee": "AESTHETIC MEDICAL HOLDINGS PTE. LTD.",
+	"licensePeriod": "02/09/2017 to 01/09/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "13C0221",
+	"address": "252 NORTH BRIDGE ROAD, RAFFLES CITY SHOPPING CENTRE, #B2-06/07 Singapore 179103",
+	"doctorInCharge": [
+		{
+			"name": "Tan Ai Jia",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 09:00 pm",
+		"Tuesday": "09:30 am to 09:00 pm",
+		"Wednesday": "09:30 am to 09:00 pm",
+		"Thursday": "09:30 am to 09:00 pm",
+		"Friday": "09:30 am to 09:00 pm",
+		"Saturday": "09:30 am to 09:00 pm",
+		"Sunday": "09:30 am to 08:00 pm",
+		"Public Holiday": "09:30 am to 08:00 pm"
+	},
+	"id": "13C0221",
+	"coordinates": [
+		103.8533318,
+		1.2940764
+	],
+	"svy21": [
+		30227.3,
+		30717.93
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

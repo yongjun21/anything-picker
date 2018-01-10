@@ -1,0 +1,59 @@
+{
+	"name": "PARKWAY CANCER CENTRE",
+	"tel": "64703328",
+	"fax": "64766393",
+	"licensee": "PARKWAY CANCER CENTRE",
+	"licensePeriod": "10/09/2014 to 09/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404960",
+	"address": "6A NAPIER ROAD, GLENEAGLES HOSPITAL, #02-00 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "Khoo Kei Siong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"MRCP (Int Med) (Royal College of Physicians of London, United Kingdom) 1991",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1991",
+				"FAMS (Med Oncology) (Academy of Medicine, Singapore) 1995"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Haematology",
+			"Medical Oncology",
+			"Palliative Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404960",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

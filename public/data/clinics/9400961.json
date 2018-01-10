@@ -1,0 +1,46 @@
+{
+	"name": "LIFELINK 24HRS CLINIC & SURGERY",
+	"tel": "62813977",
+	"fax": "63830538",
+	"licensee": "Phan Oi Peng",
+	"licensePeriod": "06/03/2017 to 05/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9400961",
+	"address": "BLK 153 Serangoon North Avenue 1, #01-534 Singapore 550153",
+	"doctorInCharge": [
+		{
+			"name": "Ng Siew Min,Amy",
+			"qualifications": [
+				"MB ChB (University of Glasgow, United Kingdom) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9400961",
+	"coordinates": [
+		103.8723123,
+		1.369951
+	],
+	"svy21": [
+		32339.53,
+		39107.77
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

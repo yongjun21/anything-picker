@@ -1,0 +1,49 @@
+{
+	"name": "LM LUNG SPECIALIST CLINIC",
+	"tel": "66946970",
+	"fax": "66945672",
+	"licensee": "LM LUNG SPECIALIST PTE. LTD.",
+	"licensePeriod": "15/11/2016 to 14/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0398",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #10-28/29 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Looi Lai Mun",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1997",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2004",
+				"FCCP (American College of Chest Physicians, United States) 2009"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Intensive Care Medicine",
+			"Respiratory Medicine"
+		]
+	},
+	"id": "14M0398",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

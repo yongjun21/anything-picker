@@ -1,0 +1,51 @@
+{
+	"name": "WELL MEDICAL CLINIC & SURGERY",
+	"tel": "65852252",
+	"fax": "65832850",
+	"licensee": "Low Choon Kiat Paul",
+	"licensePeriod": "27/02/2017 to 26/02/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404371",
+	"address": "BLK 739 Pasir Ris Drive 10, #01-11 Singapore 510739",
+	"doctorInCharge": [
+		{
+			"name": "Low Choon Kiat Paul",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 10:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 10:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 10:00 pm",
+		"Saturday": "08:30 am to 12:30 pm, 07:00 pm to 10:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404371",
+	"coordinates": [
+		103.9367962,
+		1.3785057
+	],
+	"svy21": [
+		39515.77,
+		40053.92
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"name": "FU-XING CLINIC",
+	"tel": "62731000",
+	"fax": "62731505",
+	"licensee": "TOH HO SING MICHAEL",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400551",
+	"address": "BLK 161 BT MERAH CENTRAL, #01-3737 Singapore 150161",
+	"doctorInCharge": [
+		{
+			"name": "TOH HO SING MICHAEL",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1973",
+				"M Med (Paed) (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 am, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 am, 06:30 pm to 08:30 pm",
+		"Wednesday": "09:00 pm to 12:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 am to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 am to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:30 am to 12:30 pm"
+	},
+	"id": "9400551",
+	"coordinates": [
+		103.8160061,
+		1.2839123
+	],
+	"svy21": [
+		26073.27,
+		29594.02
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

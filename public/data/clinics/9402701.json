@@ -1,0 +1,61 @@
+{
+	"name": "EXCEL FAMILY CLINIC",
+	"tel": "63865278",
+	"fax": "63865279",
+	"licensee": "SOH YEW CHYE ALBERT",
+	"licensePeriod": "28/12/2014 to 27/12/2019",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9402701",
+	"address": "21 HOUGANG ST 51, HOUGANG GREEN SHOPPING MALL, #01-06 Singapore 538719",
+	"doctorInCharge": [
+		{
+			"name": "SOH YEW CHYE ALBERT",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1999",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2002",
+				"Dip Palliative Med (University of Wales, United Kingdom) 2003",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2007",
+				"Dip Acup (Singapore College of Traditional Chinese Medicine, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402701",
+	"coordinates": [
+		103.887832,
+		1.3792453
+	],
+	"svy21": [
+		34066.66,
+		40135.52
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

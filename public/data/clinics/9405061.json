@@ -1,0 +1,57 @@
+{
+	"name": "KINDER CLINIC PTE LTD",
+	"tel": "64726018",
+	"fax": "64755460",
+	"licensee": "KINDER CLINIC PTE. LTD.",
+	"licensePeriod": "31/12/2014 to 30/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405061",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #09-01 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Gong Wei Kin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"MRCP (Paed) (Royal College of Physicians, United Kingdom) 1996",
+				"M Med (Paed) (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Paediatric Medicine",
+				"Paediatric Nephrology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405061",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

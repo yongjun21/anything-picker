@@ -1,0 +1,59 @@
+{
+	"name": "KINDER CLINIC PTE LTD",
+	"tel": "64785925",
+	"fax": "62532953",
+	"licensee": "KINDER CLINIC PTE. LTD.",
+	"licensePeriod": "19/10/2014 to 18/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403393",
+	"address": "820 Thomson Road, Mount Alvernia Medical Centre Block A, #06-03/04 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "Terence Tan Hwa Min",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"MRCP (Paed) (Royal College of Physicians, United Kingdom) 1997",
+				"M Med (Paed) (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Neonatology",
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:30 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:30 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:30 pm to 05:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:30 pm to 05:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:30 pm to 05:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403393",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"name": "THE NEPTUNE CLINIC",
+	"tel": "67797444",
+	"fax": "67797444",
+	"licensee": "MASAYU ZAINAB BINTE MASAGOS MOHAMED",
+	"licensePeriod": "19/08/2014 to 18/08/2019",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9403241",
+	"address": "BLK 328 CLEMENTI AVE 2, #01-212 Singapore 120328",
+	"doctorInCharge": [
+		{
+			"name": "MASAYU ZAINAB BINTE MASAGOS MOHAMED",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2002",
+				"Dip Geriatric Med (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:00 am to 12:00 pm",
+		"Saturday": "08:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403241",
+	"coordinates": [
+		103.767089,
+		1.3139916
+	],
+	"svy21": [
+		20629.28,
+		32920.13
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"name": "CHIA CLINIC AND SURGERY",
+	"tel": "62980959",
+	"fax": "62980959",
+	"licensee": "CHIA TAT SIEN",
+	"licensePeriod": "10/01/2014 to 09/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400237",
+	"address": "27 FOCH ROAD, HOA NAM BUILDING, #01-04 Singapore 209264",
+	"doctorInCharge": [
+		{
+			"name": "CHIA TAT SIEN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1970"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9400237",
+	"coordinates": [
+		103.8599688,
+		1.3127019
+	],
+	"svy21": [
+		30965.91,
+		32777.44
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"name": "CHOA CHU KANG POLYCLINIC",
+	"tel": "67657682",
+	"fax": "67650851",
+	"licensee": "NATIONAL UNIVERSITY POLYCLINICS",
+	"licensePeriod": "06/09/2017 to 05/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0257",
+	"address": "2 TECK WHYE CRESCENT, Singapore 688846",
+	"doctorInCharge": [
+		{
+			"name": "Hui Jor Yeong Richard",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Public Health) (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "17M0257",
+	"coordinates": [
+		103.7507769,
+		1.3823414
+	],
+	"svy21": [
+		18814.15,
+		40477.96
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

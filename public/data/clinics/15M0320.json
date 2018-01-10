@@ -1,0 +1,55 @@
+{
+	"name": "ONECARE CLINIC BUKIT PANJANG",
+	"tel": "62508533",
+	"fax": "65636973",
+	"licensee": "ONECARE CLINIC BUKIT PANJANG PTE. LTD.",
+	"licensePeriod": "21/09/2017 to 20/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0320",
+	"address": "BLK 547 SEGAR ROAD, MULTI STOREY CAR PARK, #01-05 Singapore 670547",
+	"doctorInCharge": [
+		{
+			"name": "Lim Kay Hui",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "08:00 am to 01:00 pm",
+		"Sunday": "08:00 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Public Holiday": "08:00 am to 01:00 pm, 06:00 pm to 10:00 pm"
+	},
+	"id": "15M0320",
+	"coordinates": [
+		103.7695754,
+		1.3882402
+	],
+	"svy21": [
+		20906.21,
+		41130.16
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

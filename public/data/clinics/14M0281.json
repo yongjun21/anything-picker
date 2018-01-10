@@ -1,0 +1,57 @@
+{
+	"name": "PHOENIX MEDICAL GROUP (HILLVIEW)",
+	"tel": "67107157",
+	"fax": "67107167",
+	"licensee": "PMG HV PTE. LTD.",
+	"licensePeriod": "15/09/2016 to 14/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0281",
+	"address": "4 Hillview Rise, HillV2, #02-20 Singapore 667979",
+	"doctorInCharge": [
+		{
+			"name": "Chua Hshan Cher",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2003",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 02:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 02:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 02:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 02:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 02:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "02:00 pm to 09:00 pm"
+	},
+	"id": "14M0281",
+	"coordinates": [
+		103.7641729,
+		1.3626745
+	],
+	"svy21": [
+		20304.9,
+		38303.25
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

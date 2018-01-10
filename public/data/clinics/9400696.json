@@ -1,0 +1,51 @@
+{
+	"name": "HONG'S CLINIC PEOPLE'S PARK CENTRE",
+	"tel": "65352169",
+	"licensee": "NG HEE",
+	"licensePeriod": "26/10/2016 to 25/10/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400696",
+	"address": "101 UPPER CROSS STREET, PEOPLE'S PARK CENTRE, #B1-37 Singapore 058357",
+	"doctorInCharge": [
+		{
+			"name": "NG HEE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1972"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "10:30 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Tuesday": "10:30 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Wednesday": "10:30 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Thursday": "10:30 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Friday": "10:30 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Saturday": "10:30 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400696",
+	"coordinates": [
+		103.8439801,
+		1.2857701
+	],
+	"svy21": [
+		29186.54,
+		29799.45
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

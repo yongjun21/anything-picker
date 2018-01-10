@@ -1,0 +1,55 @@
+{
+	"name": "WONG FAMILY CLINIC & SURGERY PTE LTD",
+	"tel": "68461613",
+	"fax": "68486925",
+	"licensee": "WONG FAMILY CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "20/09/2017 to 19/09/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402545",
+	"address": "BLK 117 BEDOK RESERVOIR RD, #01-68 Singapore 470117",
+	"doctorInCharge": [
+		{
+			"name": "WONG JEE PAO",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 10:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 10:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 07:00 pm to 10:00 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9402545",
+	"coordinates": [
+		103.9086889,
+		1.3314132
+	],
+	"svy21": [
+		36387.94,
+		34846.56
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

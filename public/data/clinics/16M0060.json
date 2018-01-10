@@ -1,0 +1,39 @@
+{
+	"name": "IHP MEDICAL CLINIC @ SKYWORKS",
+	"tel": "31575960",
+	"fax": "31575064",
+	"licensee": "INTEGRATED HEALTH PLANS PTE LTD",
+	"licensePeriod": "15/03/2016 to 14/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0060",
+	"address": "3 BEDOK SOUTH ROAD, Singapore 469269",
+	"doctorInCharge": [
+		{
+			"name": "MOHAMED FAIZAL BIN ABDUL WAHID",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0060",
+	"coordinates": [
+		103.9291687,
+		1.3206617
+	],
+	"svy21": [
+		38667.18,
+		33657.78
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

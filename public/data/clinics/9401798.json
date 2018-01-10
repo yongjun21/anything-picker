@@ -1,0 +1,49 @@
+{
+	"name": "UNION CLINIC & SURGERY PTE LTD",
+	"tel": "67770783",
+	"fax": "67743543",
+	"licensee": "UNION CLINIC & SURGERY PRIVATE LIMITED",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401798",
+	"address": "BLK 722 CLEMENTI WEST STREET 2, #01-168 Singapore 120722",
+	"doctorInCharge": [
+		{
+			"name": "QUEK CHEE GUAN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 12:30 pm, 03:00 pm to 04:30 pm, 07:30 pm to 08:30 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 03:00 pm to 04:30 pm, 07:30 pm to 08:30 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 03:00 pm to 04:30 pm, 07:30 pm to 08:30 pm",
+		"Thursday": "09:30 am to 12:30 pm, 03:00 pm to 04:30 pm, 07:30 pm to 08:30 pm",
+		"Friday": "09:30 am to 12:30 pm, 03:00 pm to 04:30 pm, 07:30 pm to 08:30 pm",
+		"Saturday": "09:30 am to 12:30 pm",
+		"Sunday": "09:30 am to 12:30 pm"
+	},
+	"id": "9401798",
+	"coordinates": [
+		103.763714,
+		1.3029796
+	],
+	"svy21": [
+		20253.65,
+		31702.49
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

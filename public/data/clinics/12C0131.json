@@ -1,0 +1,39 @@
+{
+	"name": "THE DENTAL GALLERY",
+	"tel": "61008033",
+	"fax": "67442788",
+	"licensee": "THE DENTAL GALLERY PTE. LTD.",
+	"licensePeriod": "05/07/2016 to 04/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0131",
+	"address": "494 GEYLANG ROAD, Singapore 389452",
+	"doctorInCharge": [
+		{
+			"name": "Tay Swee Keng Anthony",
+			"qualifications": [
+				"BDSc (University of Melbourne, Australia) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "12C0131",
+	"coordinates": [
+		103.8850311,
+		1.3133264
+	],
+	"svy21": [
+		33755.11,
+		32846.54
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

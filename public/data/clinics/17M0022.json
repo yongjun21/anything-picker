@@ -1,0 +1,58 @@
+{
+	"name": "SUNBEAM MEDICAL CLINIC",
+	"tel": "68023642",
+	"fax": "67690089",
+	"licensee": "SUNBEAM MEDICAL (ANCHORVALE) PTE. LTD.",
+	"licensePeriod": "08/02/2017 to 07/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0022",
+	"address": "BLK 318B ANCHORVALE LINK, ANCHORVALE GARDENS, #01-257 Singapore 542318",
+	"doctorInCharge": [
+		{
+			"name": "Boon Jiabin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2008"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Public Holiday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm, 06:30 pm to 09:30 pm"
+	},
+	"id": "17M0022",
+	"coordinates": [
+		103.8889159,
+		1.3938285
+	],
+	"svy21": [
+		34187.24,
+		41748.06
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

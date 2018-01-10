@@ -1,0 +1,58 @@
+{
+	"name": "FRESENIUS MEDICAL CARE JURONG EAST DIALYSIS CLINIC",
+	"tel": "66658801",
+	"fax": "66658802",
+	"licensee": "FRESENIUS MEDICAL CARE SINGAPORE PTE. LTD.",
+	"licensePeriod": "13/06/2016 to 12/06/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "14C0158",
+	"address": "BLK 326 JURONG EAST STREET 31, #01-112 Singapore 600326",
+	"doctorInCharge": [
+		{
+			"name": "Nikam Milind Digamber",
+			"qualifications": [
+				"MBBS (University of Mumbai, India) 2003",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2006"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "06:30 am to 10:30 pm",
+		"Tuesday": "06:30 am to 10:30 pm",
+		"Wednesday": "06:30 am to 10:30 pm",
+		"Thursday": "06:30 am to 10:30 pm",
+		"Friday": "06:30 am to 10:30 pm",
+		"Saturday": "06:30 am to 10:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "14C0158",
+	"coordinates": [
+		103.7296093,
+		1.3490218
+	],
+	"svy21": [
+		16458.3,
+		36793.74
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

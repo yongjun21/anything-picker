@@ -1,0 +1,49 @@
+{
+	"name": "GREENLIFE DENTAL CLINIC",
+	"tel": "67655759",
+	"fax": "67650932",
+	"licensee": "G.DENTAL@YEWTEE PTE. LTD.",
+	"licensePeriod": "19/10/2016 to 18/10/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "12C0232",
+	"address": "BLK 624 Choa Chu Kang Street 62, Yew Tee Square, #02-228 Singapore 680624",
+	"doctorInCharge": [
+		{
+			"name": "Au Eong Kah Chuan",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "09:00 am to 05:00 pm"
+	},
+	"id": "12C0232",
+	"coordinates": [
+		103.7470848,
+		1.3980474
+	],
+	"svy21": [
+		18403.33,
+		42214.67
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

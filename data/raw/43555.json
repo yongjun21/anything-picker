@@ -1,19 +1,22 @@
 {
 	"name": "TRINITY MEDICAL CENTRE (MARINE PARADE)",
 	"tel": "63440027",
-	"fax": "63440097",
+	"fax": "63480683",
 	"licensee": "TRINITY MEDICAL GROUP PTE. LTD.",
-	"licensePeriod": "11/04/2017 to 10/04/2022",
-	"licenseClass": "[ 5 Years ]",
+	"licensePeriod": "28/10/2017 to 27/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "13C0091",
-	"address": "BLK 87 MARINE PARADE CENTRAL, #02-500A Singapore 440087",
+	"address": "BLK 87 MARINE PARADE CENTRAL, #01-503 Singapore 440087",
 	"doctorInCharge": [
 		{
-			"name": "Lim Ming Yee",
+			"name": "Chew Kuok Ming",
 			"qualifications": [
-				"MB BCh BAO (University of Dublin, Ireland) 1999"
+				"MBBS (National University of Singapore, Singapore) 2001",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2009"
 			],
-			"specialties": []
+			"specialties": [
+				"Family Physician"
+			]
 		}
 	],
 	"detailedServices": {
@@ -22,6 +25,7 @@
 	"operatingHours": {
 		"Public Holiday": "Closed",
 		"Monday to Friday": "10:00 am to 08:00 pm",
-		"Saturday to Sunday": "09:00 am to 03:00 pm"
+		"Saturday": "09:00 am to 03:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
 	}
 }

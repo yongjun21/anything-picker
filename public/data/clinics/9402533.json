@@ -1,0 +1,56 @@
+{
+	"name": "LIFELINE MEDICAL GROUP",
+	"tel": "68812392",
+	"fax": "67630717",
+	"licensee": "LIFELINE MEDICAL GROUP - SENGKANG PTE. LTD.",
+	"licensePeriod": "03/09/2016 to 02/09/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9402533",
+	"address": "BLK 118 RIVERVALE DRIVE, RIVERVALE PLAZA, #02-18 Singapore 540118",
+	"doctorInCharge": [
+		{
+			"name": "Goh Yann Pbor",
+			"qualifications": [
+				"MB ChB (University of Dundee, United Kingdom) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 10:00 pm",
+		"Tuesday": "08:00 am to 10:00 pm",
+		"Wednesday": "08:00 am to 10:00 pm",
+		"Thursday": "08:00 am to 10:00 pm",
+		"Friday": "08:00 am to 10:00 pm",
+		"Saturday": "08:00 am to 10:00 pm",
+		"Sunday": "08:00 am to 10:00 pm"
+	},
+	"id": "9402533",
+	"coordinates": [
+		103.901841,
+		1.3853374
+	],
+	"svy21": [
+		35625.67,
+		40809.19
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

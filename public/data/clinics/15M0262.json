@@ -1,0 +1,55 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "64876580",
+	"fax": "64875301",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "30/07/2017 to 29/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0262",
+	"address": "BLK 263 SERANGOON CENTRAL DRIVE, #01-59 Singapore 550263",
+	"doctorInCharge": [
+		{
+			"name": "Chew Chun Yang",
+			"qualifications": [
+				"MD (University Kebangsaan Malaysia, Malaysia) 2010",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2014"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm",
+		"Thursday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm",
+		"Friday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "15M0262",
+	"coordinates": [
+		103.8719396,
+		1.3538632
+	],
+	"svy21": [
+		32298.08,
+		37328.87
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

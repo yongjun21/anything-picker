@@ -1,0 +1,51 @@
+{
+	"name": "THE DENTAL PEARL",
+	"tel": "62380268",
+	"fax": "62381559",
+	"licensee": "Pearls Dental At Marina Pte. Ltd.",
+	"licensePeriod": "30/04/2014 to 29/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404834",
+	"address": "1 RAFFLES LINK, ONE RAFFLES LINK, #01-03 Singapore 039393",
+	"doctorInCharge": [
+		{
+			"name": "Seow Kim Bock",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1991",
+				"MFGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1999"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 06:00 pm"
+	},
+	"id": "9404834",
+	"coordinates": [
+		103.8541735,
+		1.2927777
+	],
+	"svy21": [
+		30320.97,
+		30574.32
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

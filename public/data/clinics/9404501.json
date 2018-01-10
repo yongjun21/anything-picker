@@ -1,0 +1,41 @@
+{
+	"name": "DENTAL WERKS @ FARRER",
+	"tel": "64760107",
+	"fax": "64761710",
+	"licensee": "TANG ZHENG LIN RAYNALD RICHARD",
+	"licensePeriod": "23/07/2015 to 22/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404501",
+	"address": "BLK 8 EMPRESS ROAD, #01-29 Singapore 260008",
+	"doctorInCharge": [
+		{
+			"name": "TANG ZHENG LIN RAYNALD RICHARD",
+			"qualifications": [
+				"BDS (Queen's University of Belfast, United Kingdom) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9404501",
+	"coordinates": [
+		103.8053738,
+		1.3164119
+	],
+	"svy21": [
+		24890.02,
+		33187.67
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"name": "RUTH KAM HEART AND ARRHYTHMIA CLINIC",
+	"tel": "63336866",
+	"fax": "63336266",
+	"licensee": "ERLICA PTE. LTD.",
+	"licensePeriod": "10/02/2016 to 09/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9403659",
+	"address": "290 ORCHARD ROAD, PARAGON, #14-10 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Kam Ming Li Ruth",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1990",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1991",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 1998",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2000"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9403659",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

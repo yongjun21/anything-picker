@@ -1,0 +1,47 @@
+{
+	"name": "AA DENTAL SURGERY",
+	"tel": "62352629",
+	"fax": "62259382",
+	"licensee": "AA DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "23/12/2015 to 22/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0434",
+	"address": "240 RIVER VALLEY ROAD, Singapore 238297",
+	"doctorInCharge": [
+		{
+			"name": "Nurul Aizat Bin Zainudin",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 08:00 pm",
+		"Tuesday": "10:00 am to 08:00 pm",
+		"Wednesday": "10:00 am to 08:00 pm",
+		"Thursday": "10:00 am to 08:00 pm",
+		"Friday": "10:00 am to 08:00 pm",
+		"Saturday": "10:00 am to 03:00 pm"
+	},
+	"id": "15D0434",
+	"coordinates": [
+		103.8423995,
+		1.2942057
+	],
+	"svy21": [
+		29010.63,
+		30732.21
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

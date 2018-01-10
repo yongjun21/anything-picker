@@ -1,0 +1,44 @@
+{
+	"name": "KIM TIAN CLINIC",
+	"tel": "62271612",
+	"fax": "62271627",
+	"licensee": "NG MONG HOO RICHARD",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400850",
+	"address": "BLK 71 SENG POH ROAD, #01-41 Singapore 160071",
+	"doctorInCharge": [
+		{
+			"name": "NG MONG HOO RICHARD",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1967"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9400850",
+	"coordinates": [
+		103.8325036,
+		1.2842466
+	],
+	"svy21": [
+		27909.3,
+		29630.98
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

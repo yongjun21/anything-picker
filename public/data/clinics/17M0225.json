@@ -1,0 +1,37 @@
+{
+	"name": "SL CLINIC PTE. LTD.",
+	"tel": "68770162",
+	"fax": "68770252",
+	"licensee": "SL CLINIC PTE. LTD.",
+	"licensePeriod": "19/07/2017 to 18/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0225",
+	"address": "1 WOODLANDS SQUARE, CAUSEWAY POINT, #04-11 Singapore 738099",
+	"doctorInCharge": [
+		{
+			"name": "Kelvin Chua",
+			"qualifications": [
+				"MBBS (University of Adelaide, Australia) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0225",
+	"coordinates": [
+		103.7859815,
+		1.4360701
+	],
+	"svy21": [
+		22732.11,
+		46418.9
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

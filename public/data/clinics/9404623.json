@@ -1,0 +1,55 @@
+{
+	"name": "ALLIANCE CLINIC AND PARTNERS PTE LTD",
+	"tel": "68469585",
+	"fax": "68423821",
+	"licensee": "LIM PENG KEONG",
+	"licensePeriod": "16/11/2013 to 15/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404623",
+	"address": "BLK 652 JALAN TENAGA, #01-50 Singapore 410652",
+	"doctorInCharge": [
+		{
+			"name": "LIM PENG KEONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 pm to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9404623",
+	"coordinates": [
+		103.907743,
+		1.3326965
+	],
+	"svy21": [
+		36282.66,
+		34988.45
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

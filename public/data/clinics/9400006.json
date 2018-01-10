@@ -1,0 +1,54 @@
+{
+	"name": "81 FAMILY CLINIC",
+	"tel": "63466768",
+	"fax": "62142410",
+	"licensee": "MANINDER SINGH SHAHI",
+	"licensePeriod": "04/12/2016 to 03/12/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400006",
+	"address": "BLK 86 MARINE PARADE CENTRAL, #01-670 Singapore 440086",
+	"doctorInCharge": [
+		{
+			"name": "MANINDER SINGH SHAHI",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "10:00 am to 03:00 pm, 07:00 pm to 11:00 pm",
+		"Tuesday": "10:00 am to 03:00 pm, 07:00 pm to 11:00 pm",
+		"Wednesday": "10:00 am to 03:00 pm, 07:00 pm to 11:00 pm",
+		"Thursday": "10:00 am to 03:00 pm, 07:00 pm to 11:00 pm",
+		"Friday": "10:00 am to 03:00 pm, 07:00 pm to 11:00 pm",
+		"Saturday": "09:00 am to 03:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400006",
+	"coordinates": [
+		103.9067545,
+		1.3017372
+	],
+	"svy21": [
+		36172.76,
+		31565.12
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

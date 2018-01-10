@@ -1,0 +1,56 @@
+{
+	"name": "DR LOH FUN CHEE & ASSOCIATES PTE LTD",
+	"tel": "64799838",
+	"fax": "64799838",
+	"licensee": "LOH FUN CHEE",
+	"licensePeriod": "01/04/2014 to 31/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400375",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #06-15 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "LOH FUN CHEE",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1980",
+				"MDS (Oral & Maxillofacial Surgery) (Singapore) (National University of Singapore, Singapore) 1983",
+				"MSc (Oral Radiology) (London) (University of London, United Kingdom) 1984",
+				"FAMS (Oral & Maxillofacial Surgery) (Academy of Medicine, Singapore, Singapore) 1987",
+				"FDS RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 1993"
+			],
+			"specialties": [
+				"Oral & Maxillo-Facial Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9400375",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

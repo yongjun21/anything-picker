@@ -1,0 +1,44 @@
+{
+	"name": "CAMBRIDGE MEDICAL GROUP",
+	"tel": "67330777",
+	"fax": "65367242",
+	"licensee": "CAMBRIDGE MEDICAL GROUP PTE. LTD.",
+	"licensePeriod": "01/04/2016 to 31/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0070",
+	"address": "391B ORCHARD ROAD, NGEE ANN CITY TOWER B, #08-5A1 Singapore 238874",
+	"doctorInCharge": [
+		{
+			"name": "Lee Mun Heng",
+			"qualifications": [
+				"MB Bchir (University of Cambridge, United Kingdom) 2002",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Ophthalmology",
+			"Plastic Surgery"
+		]
+	},
+	"id": "14M0070",
+	"coordinates": [
+		103.8346761,
+		1.3024242
+	],
+	"svy21": [
+		28151.08,
+		31640.97
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

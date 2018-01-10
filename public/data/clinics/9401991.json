@@ -1,0 +1,57 @@
+{
+	"name": "LIM COUNTRY CLINIC",
+	"tel": "62868047",
+	"fax": "62889394",
+	"licensee": "LIM KA PHECK ANGELA",
+	"licensePeriod": "17/08/2016 to 16/08/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401991",
+	"address": "BLK 208 HOUGANG ST 21, #01-207 Singapore 530208",
+	"doctorInCharge": [
+		{
+			"name": "LIM KA PHECK ANGELA",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401991",
+	"coordinates": [
+		103.8866361,
+		1.3586968
+	],
+	"svy21": [
+		33933.62,
+		37863.37
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

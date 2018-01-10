@@ -1,0 +1,55 @@
+{
+	"name": "PREMIER HEALTHCARE CLINIC & SURGERY",
+	"tel": "65642855",
+	"fax": "00000000",
+	"licensee": "PREMIER HEALTHCARE CLINIC & SURGERY PTE LTD",
+	"licensePeriod": "23/08/2016 to 22/08/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401334",
+	"address": "BLK 376 BUKIT BATOK ST 31, #01-106 Singapore 650376",
+	"doctorInCharge": [
+		{
+			"name": "WONG JANSEN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm, 06:45 pm to 09:15 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm, 06:45 pm to 09:15 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm, 06:45 pm to 09:15 pm",
+		"Thursday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm",
+		"Friday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm, 06:45 pm to 09:15 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9401334",
+	"coordinates": [
+		103.7495799,
+		1.3583171
+	],
+	"svy21": [
+		18680.85,
+		37821.48
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

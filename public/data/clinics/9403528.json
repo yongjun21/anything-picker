@@ -1,0 +1,55 @@
+{
+	"name": "HAVELOCK FAMILY CLINIC",
+	"tel": "62724242",
+	"fax": "62722365",
+	"licensee": "GN HOONG KHEE CHRISTOPHER",
+	"licensePeriod": "09/11/2017 to 08/11/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403528",
+	"address": "BLK 22 HAVELOCK RD, #01-709 Singapore 160022",
+	"doctorInCharge": [
+		{
+			"name": "GN HOONG KHEE CHRISTOPHER",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "07:00 pm to 09:00 pm",
+		"Tuesday": "07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Thursday": "07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9403528",
+	"coordinates": [
+		103.8288242,
+		1.288746
+	],
+	"svy21": [
+		27499.81,
+		30128.51
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

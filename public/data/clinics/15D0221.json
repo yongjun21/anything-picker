@@ -1,0 +1,39 @@
+{
+	"name": "HEALTHWAY DENTAL CLINIC",
+	"tel": "62202383",
+	"fax": "62202160",
+	"licensee": "AARON CTP DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "29/06/2017 to 28/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0221",
+	"address": "144 ROBINSON ROAD, ROBINSON SQUARE, #01-02/03 Singapore 068908",
+	"doctorInCharge": [
+		{
+			"name": "Lee Hock Leong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "15D0221",
+	"coordinates": [
+		103.8481497,
+		1.2782661
+	],
+	"svy21": [
+		29650.59,
+		28969.7
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

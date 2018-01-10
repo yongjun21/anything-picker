@@ -1,0 +1,55 @@
+{
+	"name": "LEONG CLINIC",
+	"tel": "64760572",
+	"fax": "64766693",
+	"licensee": "LEONG SU CHEN ANGELA",
+	"licensePeriod": "01/12/2014 to 30/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403734",
+	"address": "BLK 63B LENGKOK BAHRU, #01-366 Singapore 152063",
+	"doctorInCharge": [
+		{
+			"name": "LEONG SU CHEN ANGELA",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403734",
+	"coordinates": [
+		103.8153184,
+		1.2890751
+	],
+	"svy21": [
+		25996.74,
+		30164.9
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"name": "WILMER CLINIC PTE LTD",
+	"tel": "63383888",
+	"fax": "63380016",
+	"licensee": "HENG BOON LIAT BRIAN",
+	"licensePeriod": "22/01/2015 to 21/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402424",
+	"address": "50 ARMENIAN STREET, WILMER PLACE, #01-01 Singapore 179938",
+	"doctorInCharge": [
+		{
+			"name": "HENG BOON LIAT BRIAN",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1973",
+				"DLO (ENT) (Royal College of Surgeons of England, United Kingdom) 1978",
+				"FRCS (ENT) (Royal College of Surgeons of England, United Kingdom) 1980"
+			],
+			"specialties": [
+				"Otorhinolaryngology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Otorhinolaryngology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9402424",
+	"coordinates": [
+		103.8496787,
+		1.2943672
+	],
+	"svy21": [
+		29820.74,
+		30750.08
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

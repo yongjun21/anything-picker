@@ -1,0 +1,56 @@
+{
+	"name": "LOW MEDICAL CLINIC",
+	"tel": "62950805",
+	"fax": "62950805",
+	"licensee": "LOW KEE HWA",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401013",
+	"address": "BLK 67 KALLANG BAHRU, #01-447 Singapore 330067",
+	"doctorInCharge": [
+		{
+			"name": "LOW KEE HWA",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"MCGP (Family Med) (College of General Practitioners, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "06:30 pm to 08:00 pm",
+		"Tuesday": "08:00 am to 04:00 pm",
+		"Wednesday": "08:00 am to 04:00 pm",
+		"Thursday": "06:30 pm to 08:00 pm",
+		"Friday": "08:00 am to 04:00 pm",
+		"Saturday": "08:00 am to 12:30 pm"
+	},
+	"id": "9401013",
+	"coordinates": [
+		103.8693362,
+		1.3213945
+	],
+	"svy21": [
+		32008.4,
+		33738.63
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

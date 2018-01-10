@@ -1,0 +1,57 @@
+{
+	"name": "MY FAMILY CLINIC (HOUGANG CENTRAL)",
+	"tel": "63852117",
+	"fax": "63865015",
+	"licensee": "ALLIANCE MEDICAL GROUP PTE LTD",
+	"licensePeriod": "07/04/2015 to 06/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0042",
+	"address": "BLK 804 HOUGANG CENTRAL, #01-118 Singapore 530804",
+	"doctorInCharge": [
+		{
+			"name": "Ang Corey Damien",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "08:00 am to 10:00 pm",
+		"Monday": "08:00 am to 12:00 am",
+		"Tuesday": "08:00 am to 12:00 am",
+		"Wednesday": "08:00 am to 12:00 am",
+		"Thursday": "08:00 am to 12:00 am",
+		"Friday": "08:00 am to 12:00 am",
+		"Saturday": "08:00 am to 10:00 pm",
+		"Sunday": "08:00 am to 10:00 pm"
+	},
+	"id": "11C0042",
+	"coordinates": [
+		103.8944737,
+		1.3711513
+	],
+	"svy21": [
+		34805.82,
+		39240.54
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

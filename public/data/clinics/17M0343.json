@@ -1,0 +1,40 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "62418818",
+	"fax": "63112390",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "28/10/2017 to 27/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0343",
+	"address": "10 AIRPORT BOULEVARD, DEPARTURE HALL, PASSENGER TERMINAL BUILDING 4, #02-88 Singapore 819665",
+	"doctorInCharge": [
+		{
+			"name": "Wong Fook Meng Wilson",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981",
+				"MCGP (Family Med) (College of General Practitioners, Singapore) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0343",
+	"coordinates": [
+		103.9836358,
+		1.3381458
+	],
+	"svy21": [
+		44728.73,
+		35591.39
+	],
+	"planningArea": "CH",
+	"neighbours": [
+		"PR",
+		"TM",
+		"CB"
+	]
+}

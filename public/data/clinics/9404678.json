@@ -1,0 +1,39 @@
+{
+	"name": "PARKWAYHEALTH PRIMARY CARE NETWORK",
+	"tel": "65079710",
+	"fax": "62240565",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "11/01/2014 to 10/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404678",
+	"address": "11 COLLYER QUAY, THE ARCADE, #18-01/02 Singapore 049317",
+	"doctorInCharge": [
+		{
+			"name": "Yeoh Sin Hock",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9404678",
+	"coordinates": [
+		103.8520686,
+		1.2836197
+	],
+	"svy21": [
+		30086.72,
+		29561.67
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

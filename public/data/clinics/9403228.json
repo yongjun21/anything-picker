@@ -1,0 +1,51 @@
+{
+	"name": "Q & M DENTAL SURGERY (CLEMENTI CENTRAL) PTE LTD",
+	"tel": "68723633",
+	"fax": "67783512",
+	"licensee": "Q & M DENTAL SURGERY (CLEMENTI CENTRAL) PTE. LTD.",
+	"licensePeriod": "09/02/2016 to 08/02/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403228",
+	"address": "BLK 450 CLEMENTI AVE 3, #01-291 Singapore 120450",
+	"doctorInCharge": [
+		{
+			"name": "WONG DAI CHONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993",
+				"M Orth RCS (Royal College of Surgeons of Edinburgh, United Kingdom) 2000",
+				"MDS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9403228",
+	"coordinates": [
+		103.7654763,
+		1.3135389
+	],
+	"svy21": [
+		20449.8,
+		32870.07
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

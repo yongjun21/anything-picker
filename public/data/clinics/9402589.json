@@ -1,0 +1,41 @@
+{
+	"name": "RAINBOW DENTAL CLINIC",
+	"tel": "64727077",
+	"fax": "64739739",
+	"licensee": "Rainbow Centre",
+	"licensePeriod": "26/01/2014 to 25/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402589",
+	"address": "BLK 501 MARGARET DRIVE, Singapore 149306",
+	"doctorInCharge": [
+		{
+			"name": "TAN JIN BEE ELIZABETH",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983",
+				"MSc (University of Bristol, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9402589",
+	"coordinates": [
+		103.809118,
+		1.2972916
+	],
+	"svy21": [
+		25306.69,
+		31073.45
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

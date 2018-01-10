@@ -1,0 +1,53 @@
+{
+	"name": "THE PEOPLE'S CLINIC",
+	"tel": "67693766",
+	"fax": "67693766",
+	"licensee": "PHAN OI PENG",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9401728",
+	"address": "BLK 145 TECK WHYE AVE, #01-161 Singapore 680145",
+	"doctorInCharge": [
+		{
+			"name": "PHAN OI PENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1969"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:30 am to 12:30 am, 02:30 pm to 04:30 pm",
+		"Tuesday": "09:30 am to 12:30 am, 02:30 pm to 04:30 pm",
+		"Wednesday": "09:30 am to 12:30 am, 02:30 pm to 04:30 pm",
+		"Thursday": "09:30 am to 12:30 am, 02:30 pm to 04:30 pm",
+		"Friday": "09:30 am to 12:30 am, 02:30 pm to 04:30 pm"
+	},
+	"id": "9401728",
+	"coordinates": [
+		103.7524688,
+		1.3813746
+	],
+	"svy21": [
+		19002.44,
+		40371.06
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

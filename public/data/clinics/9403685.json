@@ -1,0 +1,39 @@
+{
+	"name": "BRITISH DENTAL SURGERY",
+	"tel": "67653323",
+	"fax": "67633149",
+	"licensee": "BRITISH DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "26/01/2015 to 25/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403685",
+	"address": "BLK 307 CHOA CHU KANG AVE 4, #01-693 Singapore 680307",
+	"doctorInCharge": [
+		{
+			"name": "MARKANDOO SIVAKUMARAN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9403685",
+	"coordinates": [
+		103.7427049,
+		1.3852343
+	],
+	"svy21": [
+		17915.85,
+		40797.88
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

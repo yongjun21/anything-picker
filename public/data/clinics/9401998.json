@@ -1,0 +1,56 @@
+{
+	"name": "STEWARD CLINIC",
+	"tel": "65460978",
+	"fax": "65460931",
+	"licensee": "JIREH MEDIPLAN PTE LTD",
+	"licensePeriod": "15/07/2014 to 14/07/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401998",
+	"address": "BLK 4A LOYANG LANE, #01-01 Singapore 508923",
+	"doctorInCharge": [
+		{
+			"name": "CHIN WEN CHIANG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401998",
+	"coordinates": [
+		103.9702311,
+		1.3715527
+	],
+	"svy21": [
+		43236.7,
+		39285.28
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

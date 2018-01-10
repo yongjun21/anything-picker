@@ -1,0 +1,45 @@
+{
+	"name": "STAT MEDICAL CLINIC @ HOUGANG",
+	"tel": "62827254",
+	"fax": "62828769",
+	"licensee": "STAT MEDICAL @ HOUGANG PTE. LTD.",
+	"licensePeriod": "31/07/2017 to 30/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17C0233",
+	"address": "BLK 311 HOUGANG AVENUE 5, #01-183 Singapore 530311",
+	"doctorInCharge": [
+		{
+			"name": "Ng Joon Hwee",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2010",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2013"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "17C0233",
+	"coordinates": [
+		103.8948582,
+		1.3656707
+	],
+	"svy21": [
+		34848.63,
+		38634.53
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

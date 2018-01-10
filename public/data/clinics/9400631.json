@@ -1,0 +1,54 @@
+{
+	"name": "H K TAN SURGERY PTE LTD",
+	"tel": "67332555",
+	"fax": "67382631",
+	"licensee": "TAN HONG KIAT",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
+	"hciCode": "9400631",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #15-02 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "TAN HONG KIAT",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1971",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1975",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1975",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 1978"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9400631",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

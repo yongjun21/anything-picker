@@ -1,0 +1,59 @@
+{
+	"name": "L & L FAMILY MEDICINE CLINIC",
+	"tel": "64588001",
+	"fax": "64596435",
+	"licensee": "LOW MUN HENG GERARD",
+	"licensePeriod": "01/01/2015 to 31/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400886",
+	"address": "6 SIN MING ROAD, SIN MING PLAZA TOWER 2, #01-07 Singapore 575585",
+	"doctorInCharge": [
+		{
+			"name": "LOW MUN HENG GERARD",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1992",
+				"MCGP (Family Med) (College of General Practitioners, Malaysia) 1993",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 1993",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:45 pm to 09:00 pm",
+		"Tuesday": "08:30 pm to 12:30 pm, 02:00 pm to 04:30 pm, 06:45 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:45 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400886",
+	"coordinates": [
+		103.8364072,
+		1.3528637
+	],
+	"svy21": [
+		28343.73,
+		37218.31
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

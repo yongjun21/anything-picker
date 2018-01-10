@@ -1,0 +1,50 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "62525205",
+	"fax": "62525205",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "02/08/2017 to 01/08/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0191",
+	"address": "3 ESSEX ROAD, ST. JOSEPH'S INSTITUTION JUNIOR, Singapore 309331",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wanyi",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "13C0191",
+	"coordinates": [
+		103.8456119,
+		1.3177286
+	],
+	"svy21": [
+		29368.13,
+		33333.26
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

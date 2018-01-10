@@ -1,0 +1,54 @@
+{
+	"name": "BUKIT TIMAH FAMILY CLINIC & SURGERY",
+	"tel": "64698816",
+	"fax": "64698817",
+	"licensee": "CHEE FON FOO ERNEST",
+	"licensePeriod": "04/01/2017 to 03/01/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402130",
+	"address": "897 BUKIT TIMAH ROAD, Singapore 589617",
+	"doctorInCharge": [
+		{
+			"name": "CHEE FON FOO ERNEST",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402130",
+	"coordinates": [
+		103.7904534,
+		1.333029
+	],
+	"svy21": [
+		23229.56,
+		35025.13
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

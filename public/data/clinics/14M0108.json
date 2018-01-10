@@ -1,0 +1,55 @@
+{
+	"name": "BEWELL CLINIC",
+	"tel": "65559038",
+	"fax": "65559048",
+	"licensee": "BEWELL CLINIC PTE LTD",
+	"licensePeriod": "30/04/2016 to 29/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0108",
+	"address": "BLK 5012 ANG MO KIO AVENUE 5, TECHPLACE II, #01-01 Singapore 569876",
+	"doctorInCharge": [
+		{
+			"name": "YAP BOH WEI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "14M0108",
+	"coordinates": [
+		103.8654576,
+		1.3770383
+	],
+	"svy21": [
+		31576.67,
+		39891.43
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

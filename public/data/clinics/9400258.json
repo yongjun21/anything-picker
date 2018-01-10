@@ -1,0 +1,52 @@
+{
+	"name": "CHONG'S MEDICAL CENTRE",
+	"tel": "63383297",
+	"fax": "63383297",
+	"licensee": "CHONG CHIN KAH",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400258",
+	"address": "190 CLEMENCEAU AVE, SINGAPORE SHOPPING CENTRE, #01-29/30 Singapore 239924",
+	"doctorInCharge": [
+		{
+			"name": "CHONG CHIN KAH",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1972"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:10 am to 12:30 pm, 02:00 pm to 05:10 pm",
+		"Tuesday": "09:10 am to 12:30 pm, 02:00 pm to 05:10 pm",
+		"Wednesday": "09:10 am to 12:30 pm, 02:00 pm to 05:10 pm",
+		"Thursday": "09:10 am to 12:30 pm, 02:00 pm to 05:10 pm",
+		"Friday": "09:10 am to 12:30 pm, 02:00 pm to 05:10 pm",
+		"Saturday": "09:10 am to 12:30 pm, 02:00 pm to 05:10 pm"
+	},
+	"id": "9400258",
+	"coordinates": [
+		103.8441113,
+		1.2981527
+	],
+	"svy21": [
+		29201.14,
+		31168.65
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

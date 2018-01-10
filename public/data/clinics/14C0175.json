@@ -1,0 +1,60 @@
+{
+	"name": "KO DJENG SAKURA DENTAL CLINIC",
+	"tel": "67343163",
+	"fax": "62223616",
+	"licensee": "KO DJENG SAKURA DENTAL CLINIC PTE. LTD.",
+	"licensePeriod": "20/06/2016 to 19/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14C0175",
+	"address": "12 GOPENG STREET, Icon Village, #01-73 Singapore 078877",
+	"doctorInCharge": [
+		{
+			"name": "Ong Hoe Boon",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995",
+				"MDSc (Orthodontics) (Melbourne) (University of Melbourne, Australia) 2000",
+				"Grad Dip Clin Dent (University of Melbourne, Australia) 2000",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2001",
+				"FAMS (Orthodontics) (Academy of Medicine, Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:30 pm"
+	},
+	"id": "14C0175",
+	"coordinates": [
+		103.8444964,
+		1.27517
+	],
+	"svy21": [
+		29244,
+		28627.34
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

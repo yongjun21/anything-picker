@@ -1,0 +1,55 @@
+{
+	"name": "LOI+WONG CLINIC & SURGERY",
+	"tel": "65626676",
+	"fax": "65626676",
+	"licensee": "LOI KUAN LOONG",
+	"licensePeriod": "14/11/2014 to 13/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401001",
+	"address": "BLK 492 JURONG WEST ST 41, #01-08 Singapore 640492",
+	"doctorInCharge": [
+		{
+			"name": "LOI KUAN LOONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 03:00 pm, 07:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 03:00 pm, 07:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 03:00 pm, 07:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 03:00 pm, 07:00 pm to 09:30 pm",
+		"Friday": "08:30 am to 03:00 pm, 07:00 pm to 09:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm, 07:00 pm to 09:30 pm",
+		"Public Holiday": "08:30 am to 12:30 pm, 07:00 pm to 09:30 pm"
+	},
+	"id": "9401001",
+	"coordinates": [
+		103.7251805,
+		1.3499454
+	],
+	"svy21": [
+		15965.43,
+		36895.89
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

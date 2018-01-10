@@ -1,0 +1,52 @@
+{
+	"name": "TIM CHILDRENS CLINIC",
+	"tel": "62358002",
+	"fax": "62358005",
+	"licensee": "MAH PUAY TIM",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401761",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #07-10 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "MAH PUAY TIM",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1964",
+				"MRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1970",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1975"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 12:30 pm",
+		"Tuesday": "10:00 am to 12:30 pm",
+		"Wednesday": "10:00 am to 12:30 pm",
+		"Thursday": "10:00 am to 12:30 pm",
+		"Friday": "10:00 am to 12:30 pm"
+	},
+	"id": "9401761",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"name": "ONELIFE FAMILY CLINIC",
+	"tel": "67600782",
+	"fax": "67602814",
+	"licensee": "CHOW YEW CHOONG VINCENT",
+	"licensePeriod": "01/06/2016 to 31/05/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400960",
+	"address": "BLK 534 CHOA CHU KANG ST 51, #01-41 Singapore 680534",
+	"doctorInCharge": [
+		{
+			"name": "CHOW YEW CHOONG VINCENT",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm",
+		"Saturday": "08:30 am to 12:30 am",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400960",
+	"coordinates": [
+		103.743191,
+		1.3922424
+	],
+	"svy21": [
+		17969.98,
+		41572.8
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

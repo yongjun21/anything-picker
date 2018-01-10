@@ -1,0 +1,40 @@
+{
+	"name": "KOVAN CLINIC",
+	"tel": "62862202",
+	"fax": "62860600",
+	"licensee": "ONG PEH CHONG TERENCE",
+	"licensePeriod": "14/01/2014 to 13/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402586",
+	"address": "BLK 210 HOUGANG ST 21, #01-271 Singapore 530210",
+	"doctorInCharge": [
+		{
+			"name": "ONG PEH CHONG TERENCE",
+			"qualifications": [
+				"MB ChB (University of Leicester, United Kingdom) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9402586",
+	"coordinates": [
+		103.8866349,
+		1.3593867
+	],
+	"svy21": [
+		33933.48,
+		37939.66
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

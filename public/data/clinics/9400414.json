@@ -1,0 +1,54 @@
+{
+	"name": "DRS LIM & CHAN CLINIC",
+	"tel": "62800990",
+	"fax": "62801973",
+	"licensee": "LIM CHOE LAN",
+	"licensePeriod": "01/01/2017 to 31/12/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400414",
+	"address": "BLK 106 HOUGANG AVE 1, #01-1235 Singapore 530106",
+	"doctorInCharge": [
+		{
+			"name": "LIM CHOE LAN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1972"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:00 am to 12:00 pm",
+		"Sunday": "08:00 am to 12:00 pm"
+	},
+	"id": "9400414",
+	"coordinates": [
+		103.8906808,
+		1.353703
+	],
+	"svy21": [
+		34383.76,
+		37311.19
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"name": "RAFFLESDENTAL",
+	"tel": "68380080",
+	"fax": "63112136",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "09/06/2017 to 08/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0178",
+	"address": "1 SCOTTS ROAD, SHAW CENTRE, #04-09 to 14 Singapore 228208",
+	"doctorInCharge": [
+		{
+			"name": "Kieu Li Chong, Edgar",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Sunday": "08:30 am to 01:00 pm"
+	},
+	"id": "15D0178",
+	"coordinates": [
+		103.8319706,
+		1.3061133
+	],
+	"svy21": [
+		27849.98,
+		32048.9
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

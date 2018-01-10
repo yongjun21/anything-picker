@@ -1,0 +1,58 @@
+{
+	"name": "NOBEL CHEST & INTERNAL MEDICINE CENTRE",
+	"tel": "62569923",
+	"fax": "62569211",
+	"licensee": "HEALTHWAY MEDICAL ENTERPRISES PTE LTD",
+	"licensePeriod": "27/05/2014 to 26/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405598",
+	"address": "820 THOMSON ROAD, MOUNT ALVERNIA HOSPITAL, #05-02 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "Dr Teo Yeow Kwan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2003",
+				"M Med (Int Med) (National University of Singapore, Singapore) 2004",
+				"Diploma in Intensive Care Medicine (ESICM) (European Society of Intensive Care Medicine, Belgium) 2008",
+				"FCCP (American College of Chest Physicians, United States) 2009",
+				"FAMS (Respiratory Med) (Academy of Medicine, Singapore) 2009",
+				"FRCP (Glasg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 2010",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2010"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Internal Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Respiratory Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9405598",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

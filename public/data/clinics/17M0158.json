@@ -1,0 +1,40 @@
+{
+	"name": "MEDICAL COSDERM CLINIC",
+	"tel": "62350880",
+	"fax": "62350056",
+	"licensee": "MEDICAL COSDERM CLINIC PTE. LTD.",
+	"licensePeriod": "31/05/2017 to 30/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0158",
+	"address": "23 SERANGOON CENTRAL, NEX, #04-50/51 Singapore 556083",
+	"doctorInCharge": [
+		{
+			"name": "Ng Tiong Leng Donald",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2006"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0158",
+	"coordinates": [
+		103.8722961,
+		1.3507694
+	],
+	"svy21": [
+		32337.77,
+		36986.76
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

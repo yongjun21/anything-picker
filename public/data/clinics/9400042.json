@@ -1,0 +1,53 @@
+{
+	"name": "ANG DENTAL SURGERY",
+	"tel": "62359976",
+	"fax": "62359380",
+	"licensee": "ANG BAK CHYE",
+	"licensePeriod": "03/08/2014 to 02/08/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400042",
+	"address": "304 ORCHARD ROAD, LUCKY PLAZA, #06-34/35 Singapore 238863",
+	"doctorInCharge": [
+		{
+			"name": "ANG BAK CHYE",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1975",
+				"D ORTH RCS (ENGLAND) (Royal College of Surgeons of England, United Kingdom) 1978"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 05:30 pm",
+		"Tuesday": "09:30 am to 05:30 pm",
+		"Wednesday": "09:30 am to 05:30 pm",
+		"Thursday": "02:00 pm to 05:30 pm",
+		"Friday": "09:30 am to 05:30 pm",
+		"Saturday": "09:30 am to 01:00 pm"
+	},
+	"id": "9400042",
+	"coordinates": [
+		103.8339619,
+		1.3045061
+	],
+	"svy21": [
+		28071.6,
+		31871.17
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

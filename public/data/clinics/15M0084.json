@@ -1,0 +1,55 @@
+{
+	"name": "MY ENT SPECIALIST",
+	"tel": "63975280",
+	"fax": "63975282",
+	"licensee": "MY ENT SPECIALIST PTE. LTD.",
+	"licensePeriod": "30/03/2017 to 29/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0084",
+	"address": "38 IRRAWADDY ROAD, MT ELIZABETH NOVENA SPECIALIST CENTRE, ##09-24 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Mok Kan Hwei Paul",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"FRCS (ENT) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1997"
+			],
+			"specialties": [
+				"Otorhinolaryngology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Otorhinolaryngology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 pm to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15M0084",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

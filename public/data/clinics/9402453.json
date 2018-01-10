@@ -1,0 +1,55 @@
+{
+	"name": "LITTLE CROSS FAMILY CLINIC PTE LTD",
+	"tel": "65440040",
+	"fax": "65440040",
+	"licensee": "LITTLE CROSS FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "15/07/2016 to 14/07/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9402453",
+	"address": "BLK 929 Tampines St 91, #01-445 Singapore 520929",
+	"doctorInCharge": [
+		{
+			"name": "Patrick Foo Yew Sin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 12:30 pm",
+		"Monday": "08:30 am to 03:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 03:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 03:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 03:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 03:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9402453",
+	"coordinates": [
+		103.939614,
+		1.3463917
+	],
+	"svy21": [
+		39829.51,
+		36502.93
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

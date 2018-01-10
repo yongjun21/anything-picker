@@ -1,0 +1,39 @@
+{
+	"name": "GENERAL PRACTICE FAMILY CLINIC & SURGERY",
+	"tel": "62969608",
+	"fax": "62968311",
+	"licensee": "Lim Choon Bu",
+	"licensePeriod": "07/09/2017 to 06/09/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404016",
+	"address": "BLK 68 Kallang Bahru, #01-3219 Singapore 330068",
+	"doctorInCharge": [
+		{
+			"name": "Lim Choon Bu",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9404016",
+	"coordinates": [
+		103.8698434,
+		1.3219539
+	],
+	"svy21": [
+		32064.85,
+		33800.49
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"name": "DR D AESTHETICS MEDICAL CLINIC",
+	"tel": "63334401",
+	"fax": "63975508",
+	"licensee": "DR D AESTHETIC MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "23/02/2016 to 22/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0044",
+	"address": "258 MIDDLE ROAD, #01-01 Singapore 188987",
+	"doctorInCharge": [
+		{
+			"name": "NG WENG KEEN",
+			"qualifications": [
+				"MB ChB (University of Leicester, United Kingdom) 2008"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "10:00 am to 09:00 pm",
+		"Tuesday": "10:00 am to 09:00 pm",
+		"Wednesday": "10:00 am to 09:00 pm",
+		"Thursday": "10:00 am to 09:00 pm",
+		"Friday": "10:00 am to 09:00 pm",
+		"Saturday": "10:00 am to 07:00 pm"
+	},
+	"id": "16M0044",
+	"coordinates": [
+		103.8505669,
+		1.3017998
+	],
+	"svy21": [
+		29919.58,
+		31571.93
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"name": "GASTRO LIVER & SURGICAL CENTRE",
+	"tel": "66357000",
+	"fax": "67220693",
+	"licensee": "GLSC PRIVATE LTD.",
+	"licensePeriod": "01/10/2016 to 30/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0297",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #10-10 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "Lai Wai Kwan",
+			"qualifications": [
+				"MB ChB (University of Sheffield, United Kingdom) 1993",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1996",
+				"PhD (University of Birmingham, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Gastroenterology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Gastroenterology",
+			"General Surgery",
+			"Internal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "14M0297",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

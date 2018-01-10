@@ -1,0 +1,55 @@
+{
+	"name": "NOVENA PAIN MANAGEMENT CENTRE",
+	"tel": "66943833",
+	"fax": "66943831",
+	"licensee": "CHOO CHEE YONG",
+	"licensePeriod": "18/07/2017 to 17/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0192",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #08-50 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "CHOO CHEE YONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000",
+				"M Med (Anaes) (National University of Singapore, Singapore) 2006",
+				"FANZCA (Anaes) (Australian and New Zealand College of Anaesthetists, Australia) 2008",
+				"FFPMANZCA (Australian and New Zealand College of Anaesthetists, Australia) 2011"
+			],
+			"specialties": [
+				"Anaesthesiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Anaesthesiology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
+	"id": "12C0192",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

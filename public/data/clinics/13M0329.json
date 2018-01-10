@@ -1,0 +1,53 @@
+{
+	"name": "PUNGGOL RIPPLES FAMILY CLINIC",
+	"tel": "65383707",
+	"fax": "66361500",
+	"licensee": "KIM JL HEALTHCARE PTE. LTD.",
+	"licensePeriod": "27/11/2017 to 26/11/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13M0329",
+	"address": "BLK 211D PUNGGOL WALK, #01-667 Singapore 824211",
+	"doctorInCharge": [
+		{
+			"name": "Teoh Pui Pui",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "13M0329",
+	"coordinates": [
+		103.8991985,
+		1.4009356
+	],
+	"svy21": [
+		35331.55,
+		42533.96
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

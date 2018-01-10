@@ -1,0 +1,53 @@
+{
+	"name": "THE ENT, VOICE & SNORING CLINIC",
+	"tel": "62356733",
+	"fax": "62359733",
+	"licensee": "HHJ ENT PTE. LTD.",
+	"licensePeriod": "14/09/2017 to 13/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0292",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #12-13 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Han Hong Juan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"M Med (Otorhinolaryngology) (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": [
+				"Otorhinolaryngology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Otorhinolaryngology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "17M0292",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

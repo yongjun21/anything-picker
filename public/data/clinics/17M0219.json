@@ -1,0 +1,51 @@
+{
+	"name": "DR. TAN & PARTNERS @ SCOTTS",
+	"tel": "66942348",
+	"fax": "66942358",
+	"licensee": "REPUBLIC HEALTHCARE PTE. LTD.",
+	"licensePeriod": "17/04/2017 to 16/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0219",
+	"address": "9 SCOTTS ROAD, PACIFIC PLAZA, #06-06 Singapore 228210",
+	"doctorInCharge": [
+		{
+			"name": "Sii Sik Liong",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2009",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2013"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "08:00 am to 09:00 pm",
+		"Wednesday": "08:00 am to 09:00 pm",
+		"Tuesday": "08:00 am to 05:00 pm",
+		"Thursday": "08:00 am to 05:00 pm",
+		"Friday": "08:00 am to 09:00 pm",
+		"Saturday": "08:00 am to 01:00 pm"
+	},
+	"id": "17M0219",
+	"coordinates": [
+		103.8321282,
+		1.306547
+	],
+	"svy21": [
+		27867.52,
+		32096.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

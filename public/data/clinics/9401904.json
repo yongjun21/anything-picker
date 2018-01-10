@@ -1,0 +1,50 @@
+{
+	"name": "WU CLINIC & SURGERY",
+	"tel": "65611672",
+	"fax": "65611672",
+	"licensee": "WU EU HENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401904",
+	"address": "BLK 249 JURONG EAST ST 24, #01-78 Singapore 600249",
+	"doctorInCharge": [
+		{
+			"name": "WU EU HENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1969"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Saturday": "Closed"
+	},
+	"id": "9401904",
+	"coordinates": [
+		103.7392597,
+		1.3425624
+	],
+	"svy21": [
+		17532.26,
+		36079.45
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

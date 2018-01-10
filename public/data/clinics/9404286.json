@@ -1,0 +1,58 @@
+{
+	"name": "TOOTH ART DENTAL CENTRE",
+	"tel": "63336967",
+	"fax": "63338769",
+	"licensee": "Tooth Art Dental Centre Pte. Ltd.",
+	"licensePeriod": "07/11/2014 to 06/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404286",
+	"address": "501 Orchard Road, Wheelock Place, #04-04A Singapore 238880",
+	"doctorInCharge": [
+		{
+			"name": "Chong Kim Cheong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1997",
+				"FDS RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 1998",
+				"MDS (Orthodontics) (Singapore) (National University of Singapore, Singapore) 2002",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2002"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404286",
+	"coordinates": [
+		103.830642,
+		1.3046763
+	],
+	"svy21": [
+		27702.12,
+		31889.99
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

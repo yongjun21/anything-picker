@@ -1,0 +1,54 @@
+{
+	"name": "HEALTHPLUS FAMILY CLINIC & SURGERY",
+	"tel": "62733327",
+	"fax": "62733360",
+	"licensee": "HEALTHPLUS MEDICAL PTE LTD",
+	"licensePeriod": "07/04/2015 to 06/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403012",
+	"address": "BLK 78A TELOK BLANGAH ST 32, #01-02 Singapore 101078",
+	"doctorInCharge": [
+		{
+			"name": "LIM KENG SOONG EUGENE",
+			"qualifications": [
+				"MB ChB (University of Aberdeen, United Kingdom) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 12:30 pm, 07:00 pm to 11:00 pm",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 11:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 11:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 11:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 11:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 11:00 pm",
+		"Saturday": "08:30 am to 12:30 pm, 07:00 pm to 11:00 pm",
+		"Sunday": "08:30 am to 12:30 pm, 07:00 pm to 11:00 pm"
+	},
+	"id": "9403012",
+	"coordinates": [
+		103.8089806,
+		1.2733875
+	],
+	"svy21": [
+		25291.37,
+		28430.26
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

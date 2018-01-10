@@ -1,0 +1,48 @@
+{
+	"name": "TAN KOK SOON HEART SPECIALIST CLINIC",
+	"tel": "63580650",
+	"fax": "62557869",
+	"licensee": "Orchard Heart Specialist Pte Ltd",
+	"licensePeriod": "21/03/2016 to 20/03/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "16C0068",
+	"address": "820 Thomson Road, Mount Alvernia Medical Centre, Block A, #06-06 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "Tan Kok Soon",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 1985",
+				"MRCP (Int Med) (Royal College of Physicians, Ireland) 1987",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1988"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"id": "16C0068",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

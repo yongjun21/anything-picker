@@ -1,0 +1,47 @@
+{
+	"name": "MEDICARE DENTAL SURGERY",
+	"tel": "67880139",
+	"fax": "67880139",
+	"licensee": "MEDICARE DENTAL PTE. LTD.",
+	"licensePeriod": "23/06/2017 to 22/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0202",
+	"address": "BLK 484 TAMPINES STREET 43, #01-224 Singapore 520484",
+	"doctorInCharge": [
+		{
+			"name": "Chan Siang Boon Edwin",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 09:00 pm",
+		"Tuesday": "08:30 am to 09:00 pm",
+		"Wednesday": "08:30 am to 09:00 pm",
+		"Thursday": "08:30 am to 09:00 pm",
+		"Friday": "08:30 am to 09:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "08:30 am to 01:00 pm"
+	},
+	"id": "15D0202",
+	"coordinates": [
+		103.9526394,
+		1.3618979
+	],
+	"svy21": [
+		41279.02,
+		38217.59
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

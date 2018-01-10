@@ -1,0 +1,55 @@
+{
+	"name": "DRS HORNE & CHIN PTE LTD",
+	"tel": "64911377",
+	"fax": "67344276",
+	"licensee": "LU KUO-FAN MARK",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400406",
+	"address": "1 SCOTTS RD, SHAW CENTRE, #17-01 Singapore 228208",
+	"doctorInCharge": [
+		{
+			"name": "THIO Yauw Leng Bernard",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"Dip OM (National University of Singapore, Singapore) 1999",
+				"M Med (OM) (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400406",
+	"coordinates": [
+		103.8319706,
+		1.3061133
+	],
+	"svy21": [
+		27849.98,
+		32048.9
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

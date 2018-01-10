@@ -1,0 +1,43 @@
+{
+	"name": "FULLERTON HEALTHCARE @ METROPOLIS",
+	"tel": "63395938",
+	"fax": "66725688",
+	"licensee": "FULLERTON HEALTHCARE GROUP PTE. LIMITED",
+	"licensePeriod": "25/02/2016 to 24/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0034",
+	"address": "BLK 9 NORTH BUONA VISTA DRIVE, THE METROPOLIS, #01-03 Singapore 138588",
+	"doctorInCharge": [
+		{
+			"name": "Dr Elton Ong Kong Yiow",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "14M0034",
+	"coordinates": [
+		103.7912375,
+		1.3062456
+	],
+	"svy21": [
+		23316.76,
+		32063.56
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"name": "PIONEER POLYCLINIC",
+	"tel": "68196530",
+	"fax": "68612344",
+	"licensee": "NATIONAL UNIVERSITY POLYCLINICS",
+	"licensePeriod": "17/07/2017 to 16/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0183",
+	"address": "26 JURONG WEST STREET 61, Singapore 648201",
+	"doctorInCharge": [
+		{
+			"name": "David Tan Hsien Yung",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2009",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2010",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2012"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "17M0183",
+	"coordinates": [
+		103.6989793,
+		1.3385623
+	],
+	"svy21": [
+		13049.46,
+		35637.34
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

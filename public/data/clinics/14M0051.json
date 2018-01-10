@@ -1,0 +1,38 @@
+{
+	"name": "PROJECT MEDICAL CLINIC",
+	"tel": "63164012",
+	"fax": "63379101",
+	"licensee": "INTERNATIONAL SOS PTE LTD",
+	"licensePeriod": "12/03/2016 to 11/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0051",
+	"address": "100 JURONG ISLAND HIGHWAY, Singapore 627867",
+	"doctorInCharge": [
+		{
+			"name": "Teo Kwang Joo",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987",
+				"M Med (OM) (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Occupational Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "14M0051",
+	"coordinates": [
+		103.6984599,
+		1.2690709
+	],
+	"svy21": [
+		12991.25,
+		27953.32
+	],
+	"planningArea": "WI",
+	"neighbours": [
+		"JE"
+	]
+}

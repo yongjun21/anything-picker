@@ -1,0 +1,56 @@
+{
+	"name": "ONE ORTHODONTICS DENTAL SURGERY",
+	"tel": "63972848",
+	"fax": "63976878",
+	"licensee": "ONE ORTHODONTICS DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "08/07/2016 to 07/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "12C0214",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTER, #10-29 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Koh Poh Leong Kelvin",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1999",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2005",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2009",
+				"MDS (National University of Singapore, Singapore) 2009",
+				"FAMS (Orthodontics) (Academy of Medicine, Singapore, Singapore) 2016"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "11:00 am to 07:30 pm",
+		"Tuesday": "11:00 am to 07:30 pm",
+		"Wednesday": "Closed",
+		"Thursday": "11:00 am to 07:30 pm",
+		"Friday": "09:30 am to 06:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "12C0214",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

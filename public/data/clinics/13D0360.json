@@ -1,0 +1,39 @@
+{
+	"name": "PLANET DENTAL CENTRE",
+	"tel": "64581223",
+	"fax": "67820233",
+	"licensee": "PLANET DENTAL CENTRE (AMKC) PTE. LTD.",
+	"licensePeriod": "31/12/2015 to 30/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13D0360",
+	"address": "BLK 722 ANG MO KIO AVENUE 8, #01-2835 Singapore 560722",
+	"doctorInCharge": [
+		{
+			"name": "CHEE CHEN SIN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "13D0360",
+	"coordinates": [
+		103.8475293,
+		1.3722439
+	],
+	"svy21": [
+		29581.48,
+		39361.28
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

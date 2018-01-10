@@ -1,0 +1,52 @@
+{
+	"name": "GENTLE DENTAL GROUP",
+	"tel": "68874456",
+	"fax": "67348161",
+	"licensee": "NG KOK BOON",
+	"licensePeriod": "02/12/2013 to 01/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402559",
+	"address": "401 RIVER VALLEY ROAD, Singapore 248299",
+	"doctorInCharge": [
+		{
+			"name": "NG KOK BOON",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 07:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402559",
+	"coordinates": [
+		103.8301549,
+		1.2953535
+	],
+	"svy21": [
+		27647.91,
+		30859.13
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

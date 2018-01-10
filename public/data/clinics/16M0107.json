@@ -1,0 +1,37 @@
+{
+	"name": "SJ CLINIC & SURGERY",
+	"licensee": "SJ CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "14/04/2016 to 13/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0107",
+	"address": "391 ORCHARD ROAD, NGEE ANN CITY, #05-26 Singapore 238872",
+	"doctorInCharge": [
+		{
+			"name": "Goh Yong Chiang Kelvin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0107",
+	"coordinates": [
+		103.8351819,
+		1.3022417
+	],
+	"svy21": [
+		28207.37,
+		31620.79
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

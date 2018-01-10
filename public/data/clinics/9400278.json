@@ -1,0 +1,55 @@
+{
+	"name": "CHUA MEDICAL CENTRE PTE LTD",
+	"tel": "67853825",
+	"fax": "67853825",
+	"licensee": "CHUA MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "28/05/2014 to 27/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400278",
+	"address": "BLK 248 Simei St 3, #01-134 Singapore 520248",
+	"doctorInCharge": [
+		{
+			"name": "Chua Teo Ngee",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:30 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:30 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:30 pm to 06:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:30 pm to 06:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:30 pm to 06:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "09:00 am to 03:00 pm",
+		"Public Holiday": "09:00 am to 03:00 pm"
+	},
+	"id": "9400278",
+	"coordinates": [
+		103.9535411,
+		1.3435938
+	],
+	"svy21": [
+		41379.47,
+		36193.62
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

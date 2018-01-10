@@ -1,0 +1,56 @@
+{
+	"name": "HISEMAINN MEDICAL CLINIC (JURONG WEST)",
+	"tel": "67958990",
+	"fax": "67939134",
+	"licensee": "CHAR MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "17/01/2016 to 16/01/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403514",
+	"address": "BLK 276 JURONG WEST ST 25, #01-06 Singapore 640276",
+	"doctorInCharge": [
+		{
+			"name": "Pang Hau Yun",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 03:30 pm",
+		"Tuesday": "08:30 am to 03:30 pm",
+		"Wednesday": "08:30 am to 03:30 pm",
+		"Thursday": "08:30 am to 03:30 pm",
+		"Friday": "08:30 am to 03:30 pm",
+		"Saturday": "08:30 pm to 12:30 pm",
+		"Sunday": "08:30 pm to 12:30 pm"
+	},
+	"id": "9403514",
+	"coordinates": [
+		103.7037307,
+		1.3536097
+	],
+	"svy21": [
+		13578.33,
+		37301.19
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

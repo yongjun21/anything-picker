@@ -1,0 +1,49 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "63882667",
+	"fax": "63882667",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402858",
+	"address": "BLK 1 RIVERVALE ST, Singapore 545088",
+	"doctorInCharge": [
+		{
+			"name": "CHEE CHING TENG",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9402858",
+	"coordinates": [
+		103.9032027,
+		1.3870615
+	],
+	"svy21": [
+		35777.2,
+		40999.84
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

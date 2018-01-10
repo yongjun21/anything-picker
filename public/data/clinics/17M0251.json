@@ -1,0 +1,48 @@
+{
+	"name": "TUCKER MEDICAL",
+	"tel": "66596918",
+	"fax": "66596919",
+	"licensee": "TUCKER MEDICAL PTE. LTD.",
+	"licensePeriod": "14/08/2017 to 13/08/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0251",
+	"address": "8 SINARAN DRIVE, NOVENA SPECIALIST CENTRE, #04-01 Singapore 307470",
+	"doctorInCharge": [
+		{
+			"name": "Steven Tucker",
+			"qualifications": [
+				"MD (University of Missouri, United States) 1994",
+				"Board Cert (Int Med) (American Board of Internal Medicine, United States) 1997",
+				"Board Cert (Med Oncology) (American Board of Internal Medicine, United States) 2000"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Gastroenterology",
+			"Medical Oncology"
+		]
+	},
+	"id": "17M0251",
+	"coordinates": [
+		103.8447824,
+		1.3200301
+	],
+	"svy21": [
+		29275.81,
+		33587.74
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

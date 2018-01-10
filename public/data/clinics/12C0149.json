@@ -1,0 +1,45 @@
+{
+	"name": "HALLEY MEDICAL CLINIC",
+	"tel": "63122632",
+	"fax": "63122732",
+	"licensee": "HALLEY MEDICAL PTE. LTD.",
+	"licensePeriod": "26/07/2016 to 25/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0149",
+	"address": "1 HOUGANG STREET 91, HOUGANG 1, #01-21 Singapore 538692",
+	"doctorInCharge": [
+		{
+			"name": "Tan Kum Leong Terence",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "12C0149",
+	"coordinates": [
+		103.8794723,
+		1.3757153
+	],
+	"svy21": [
+		33136.34,
+		39745.17
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

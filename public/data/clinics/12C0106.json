@@ -1,0 +1,54 @@
+{
+	"name": "JAPAN GREEN CLINIC (CITY BRANCH)",
+	"tel": "65321788",
+	"fax": "67324877",
+	"licensee": "LOH BAN CHYE",
+	"licensePeriod": "09/02/2017 to 08/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "12C0106",
+	"address": "1 RAFFLES PLACE, ONE RAFFLES PLACE, #19-02 Singapore 048616",
+	"doctorInCharge": [
+		{
+			"name": "LOH BAN CHYE",
+			"qualifications": [
+				"MB (Tokyo Medical and Dental University, Japan) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology",
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "12C0106",
+	"coordinates": [
+		103.8510725,
+		1.2843495
+	],
+	"svy21": [
+		29975.87,
+		29642.37
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

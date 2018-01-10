@@ -1,0 +1,47 @@
+{
+	"name": "MW MEDICAL®CENTRE CHINA SQUARE CENTRAL",
+	"tel": "62500625",
+	"fax": "62500665",
+	"licensee": "MW MEDICAL PTE. LTD.",
+	"licensePeriod": "29/01/2016 to 28/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "11C0008",
+	"address": "18 CROSS STREET, CHINA SQUARE CENTRAL, #02-09 Singapore 048423",
+	"doctorInCharge": [
+		{
+			"name": "CHEW HIM LIM MADELEINE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "11C0008",
+	"coordinates": [
+		103.8468829,
+		1.2835543
+	],
+	"svy21": [
+		29509.6,
+		29554.43
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

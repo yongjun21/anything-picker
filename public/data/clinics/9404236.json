@@ -1,0 +1,48 @@
+{
+	"name": "SMILEY DENTALCARE",
+	"tel": "64760149",
+	"fax": "64760174",
+	"licensee": "HLBK PTE. LTD.",
+	"licensePeriod": "22/09/2014 to 21/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404236",
+	"address": "BLK 84 REDHILL LANE, #01-370 Singapore 150084",
+	"doctorInCharge": [
+		{
+			"name": "TAN WEE CHEOW",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:30 am to 12:30 pm",
+		"Saturday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9404236",
+	"coordinates": [
+		103.8188511,
+		1.2870858
+	],
+	"svy21": [
+		26389.89,
+		29944.93
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

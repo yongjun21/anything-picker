@@ -1,0 +1,58 @@
+{
+	"name": "E MEDICAL CLINIC & SURGERY",
+	"tel": "63569391",
+	"fax": "63569391",
+	"licensee": "LEE KONG HOW",
+	"licensePeriod": "28/02/2016 to 27/02/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0029",
+	"address": "BLK 126 LORONG 1 TOA PAYOH, #01-567 Singapore 310126",
+	"doctorInCharge": [
+		{
+			"name": "LEE KONG HOW",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 02:00 pm, 06:00 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "06:00 pm to 08:30 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 02:00 pm",
+		"Sunday": "09:00 am to 02:00 pm"
+	},
+	"id": "12C0029",
+	"coordinates": [
+		103.8451309,
+		1.3378147
+	],
+	"svy21": [
+		29314.58,
+		35554.27
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"name": "JIREH FAMILY CLINIC",
+	"tel": "63660373",
+	"fax": "63633924",
+	"licensee": "JIREH MEDIPLAN PTE LTD",
+	"licensePeriod": "16/01/2015 to 15/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402063",
+	"address": "BLK 883 WOODLANDS ST 82, #01-466 Singapore 730883",
+	"doctorInCharge": [
+		{
+			"name": "HO YOW  CHAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "08:30 am to 12:00 pm"
+	},
+	"id": "9402063",
+	"coordinates": [
+		103.790548,
+		1.4427533
+	],
+	"svy21": [
+		23240.3,
+		47157.9
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

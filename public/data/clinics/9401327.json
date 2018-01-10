@@ -1,0 +1,50 @@
+{
+	"name": "PLAZA DENTAL",
+	"tel": "62529960",
+	"fax": "62529960",
+	"licensee": "LEE JEE MUI",
+	"licensePeriod": "15/01/2014 to 14/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401327",
+	"address": "400 BALESTIER ROAD, BALESTIER PLAZA, #01-43 Singapore 329802",
+	"doctorInCharge": [
+		{
+			"name": "LEE JEE MUI",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1980",
+				"MFGDP(UK) (Royal College of Surgeons of England, United Kingdom) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 04:30 pm",
+		"Tuesday": "09:00 am to 04:30 pm",
+		"Wednesday": "09:00 am to 04:30 pm",
+		"Thursday": "09:00 am to 04:30 pm",
+		"Friday": "09:00 am to 04:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401327",
+	"coordinates": [
+		103.8503954,
+		1.3257247
+	],
+	"svy21": [
+		29900.47,
+		34217.43
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

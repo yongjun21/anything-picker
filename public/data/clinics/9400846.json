@@ -1,0 +1,52 @@
+{
+	"name": "KHOR CLINIC & SURGERY",
+	"tel": "65631285",
+	"fax": "65617221",
+	"licensee": "KHOR BENG LEE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400846",
+	"address": "BLK 424 BT BATOK WEST AVE 2, #01-237 Singapore 650424",
+	"doctorInCharge": [
+		{
+			"name": "KHOR BENG LEE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "09:00 am to 11:45 am",
+		"Monday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 07:00 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 07:00 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 07:00 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 07:00 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 07:00 pm to 08:30 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400846",
+	"coordinates": [
+		103.7455369,
+		1.3618554
+	],
+	"svy21": [
+		18230.93,
+		38212.74
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

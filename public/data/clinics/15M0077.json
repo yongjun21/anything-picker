@@ -1,0 +1,41 @@
+{
+	"name": "SIA TRAINING CENTRE CLINIC",
+	"tel": "65403791",
+	"fax": "65464182",
+	"licensee": "FULLERTON HEALTHCARE GROUP PTE. LIMITED",
+	"licensePeriod": "01/04/2017 to 31/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0077",
+	"address": "720 UPPER CHANGI ROAD EAST, Singapore 486852",
+	"doctorInCharge": [
+		{
+			"name": "Benedict Lim Tai Thong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"id": "15M0077",
+	"coordinates": [
+		103.9658428,
+		1.3458162
+	],
+	"svy21": [
+		42748.49,
+		36439.43
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

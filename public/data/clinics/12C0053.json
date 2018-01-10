@@ -1,0 +1,46 @@
+{
+	"name": "RAFFLESDENTAL",
+	"tel": "65333640",
+	"fax": "64388306",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "24/04/2016 to 23/04/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0053",
+	"address": "50 RAFFLES PLACE, SINGAPORE LAND TOWER, #01-02A Singapore 048623",
+	"doctorInCharge": [
+		{
+			"name": "EDGAR KIEU LI CHONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "12C0053",
+	"coordinates": [
+		103.8521332,
+		1.2846977
+	],
+	"svy21": [
+		30093.91,
+		29680.87
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

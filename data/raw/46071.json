@@ -1,0 +1,27 @@
+{
+	"name": "SOG CLINIC FOR CHILDREN",
+	"tel": "62500600",
+	"fax": "62506369",
+	"licensee": "SINGAPORE O&G LTD.",
+	"licensePeriod": "09/11/2017 to 08/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0353",
+	"address": "BLK 11A BOON TIONG ROAD, TIONG BAHRU VIEW, #01-11 Singapore 161011",
+	"doctorInCharge": [
+		{
+			"name": "Ng Koon Keng Victor",
+			"qualifications": [
+				"MB ChB (University of Dundee, United Kingdom) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	}
+}

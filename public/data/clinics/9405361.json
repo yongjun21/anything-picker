@@ -1,0 +1,59 @@
+{
+	"name": "GASTROENTEROLOGY CLINIC",
+	"tel": "67330519",
+	"fax": "62357629",
+	"licensee": "Gastroenterology Clinic Pte Ltd",
+	"licensePeriod": "04/11/2014 to 03/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405361",
+	"address": "3 Mt Elizabeth, Mt Elizabeth Medical Centre, #09-10 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Benny Ang Cheng Nee",
+			"qualifications": [
+				"MBBS (University of Wales, United Kingdom) 1982",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1985",
+				"FAMS (Academy of Medicine, Singapore) 1994",
+				"MD (University of Wales, United Kingdom) 1994",
+				"FAMS (Gastroenterology) (Academy of Medicine, Singapore) 1994"
+			],
+			"specialties": [
+				"Gastroenterology"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Gastroenterology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405361",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

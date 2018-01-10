@@ -1,0 +1,51 @@
+{
+	"name": "CLINIC D38",
+	"tel": "65558000",
+	"fax": "66023644",
+	"licensee": "ALEXANDRA HEALTH PTE. LTD.",
+	"licensePeriod": "09/11/2017 to 08/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0355",
+	"address": "2 YISHUN CENTRAL 2, YISHUN COMMUNITY HOSPITAL, #03-00 Singapore 768024",
+	"doctorInCharge": [
+		{
+			"name": "Phoa Lee Lan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1999",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Internal Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Endocrinology",
+			"Rheumatology"
+		]
+	},
+	"id": "17M0355",
+	"coordinates": [
+		103.8372422,
+		1.4237675
+	],
+	"svy21": [
+		28436.64,
+		45058.49
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

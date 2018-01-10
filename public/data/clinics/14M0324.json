@@ -1,0 +1,51 @@
+{
+	"name": "BEWELL CLINIC @ DORM PTE LTD",
+	"tel": "65656338",
+	"fax": "64763371",
+	"licensee": "BEWELL CLINIC @ DORM PTE. LTD.",
+	"licensePeriod": "31/10/2016 to 30/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0324",
+	"address": "28 TOH GUAN ROAD EAST, WESTLITE TOH GUAN DORMITORY, #01-01 Singapore 608596",
+	"doctorInCharge": [
+		{
+			"name": "Yap Boh Wei",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:00 pm, 06:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:00 pm, 06:30 pm to 08:30 pm"
+	},
+	"id": "14M0324",
+	"coordinates": [
+		103.751872,
+		1.3364993
+	],
+	"svy21": [
+		18935.86,
+		35408.97
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

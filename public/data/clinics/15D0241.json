@@ -1,0 +1,47 @@
+{
+	"name": "CARING DENTAL PUNGGOL",
+	"tel": "64816833",
+	"fax": "64818933",
+	"licensee": "SMILE CARE CONSULTANCY PTE. LTD.",
+	"licensePeriod": "10/07/2017 to 09/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0241",
+	"address": "BLK 665A PUNGGOL DRIVE, #01-02 Singapore 821665",
+	"doctorInCharge": [
+		{
+			"name": "Tham Kar Yeng",
+			"qualifications": [
+				"BDSc (University of Melbourne, Australia) 2008"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "15D0241",
+	"coordinates": [
+		103.9135785,
+		1.4021277
+	],
+	"svy21": [
+		36931.84,
+		42665.83
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

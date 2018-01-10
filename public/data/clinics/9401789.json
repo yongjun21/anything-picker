@@ -1,0 +1,49 @@
+{
+	"name": "TROPICAL DENTAL SURGERY",
+	"tel": "64490161",
+	"fax": "64874317",
+	"licensee": "WONG JI-WEI",
+	"licensePeriod": "27/07/2014 to 26/07/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401789",
+	"address": "BLK 537 BEDOK NORTH ST 3, #01-509 Singapore 460537",
+	"doctorInCharge": [
+		{
+			"name": "WONG JI-WEI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "Closed",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401789",
+	"coordinates": [
+		103.9242365,
+		1.331773
+	],
+	"svy21": [
+		38118.22,
+		34886.4
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

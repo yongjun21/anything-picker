@@ -1,0 +1,43 @@
+{
+	"name": "KHOO DENTAL SURGERY",
+	"tel": "64593833",
+	"fax": "64598660",
+	"licensee": "Khoo Kian Seng",
+	"licensePeriod": "18/01/2015 to 17/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403871",
+	"address": "BLK 316B Ang Mo Kio St 31, #01-10 Singapore 563316",
+	"doctorInCharge": [
+		{
+			"name": "Khoo Kian Seng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1972"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403871",
+	"coordinates": [
+		103.847677,
+		1.3646254
+	],
+	"svy21": [
+		29597.93,
+		38518.86
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

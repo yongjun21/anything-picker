@@ -1,0 +1,57 @@
+{
+	"name": "THOMSON PAEDIATRIC CENTRE",
+	"tel": "66651000",
+	"fax": "64250109",
+	"licensee": "THOMSON PAEDIATRIC CENTRE PTE. LTD.",
+	"licensePeriod": "03/06/2017 to 02/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0163",
+	"address": "134 JURONG GATEWAY ROAD, #01-303A Singapore 600134",
+	"doctorInCharge": [
+		{
+			"name": "Lee Jun Theodric",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 03:00 pm, 04:00 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm",
+		"Wednesday": "09:00 am to 01:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "09:00 am to 03:00 pm, 04:00 pm to 08:30 pm",
+		"Friday": "09:00 am to 01:30 pm",
+		"Saturday": "09:00 am to 01:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15M0163",
+	"coordinates": [
+		103.7388192,
+		1.3339941
+	],
+	"svy21": [
+		17483.2,
+		35132.01
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"name": "RUTH KAM HEART AND ARRHYTHMIA CLINIC @ FARRER",
+	"tel": "64430468",
+	"fax": "64430467",
+	"licensee": "RUTH KAM MING LI",
+	"licensePeriod": "06/02/2017 to 05/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0032",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, FARRER PARK MEDICAL CENTRE, #07-11 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "RUTH KAM MING LI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1990",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1991",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 1998",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2000"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "02:00 pm to 05:30 pm",
+		"Wednesday": "02:00 pm to 05:30 pm",
+		"Friday": "02:00 pm to 05:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "15M0032",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

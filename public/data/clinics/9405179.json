@@ -1,0 +1,48 @@
+{
+	"name": "HEALTHWAY ANCHORVALE CLINIC",
+	"tel": "63123106",
+	"fax": "63123107",
+	"licensee": "SILVER CROSS HEALTHCARE PTE LTD",
+	"licensePeriod": "13/05/2015 to 12/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405179",
+	"address": "BLK 308 ANCHORVALE ROAD, MULTI STOREY CAR PARK, #01-03 Singapore 540308",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9405179",
+	"coordinates": [
+		103.8864267,
+		1.3895585
+	],
+	"svy21": [
+		33910.24,
+		41275.9
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

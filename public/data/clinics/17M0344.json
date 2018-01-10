@@ -1,0 +1,41 @@
+{
+	"name": "MOBILEDOCTOR CLINIC",
+	"tel": "65322653",
+	"fax": "64599675",
+	"licensee": "MW GLOBAL PTE. LTD.",
+	"licensePeriod": "31/10/2017 to 30/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0344",
+	"address": "20 CROSS STREET, CHINA SQUARE CENTRAL (CHINA COURT), #02-11/12 Singapore 048422",
+	"doctorInCharge": [
+		{
+			"name": "Chew Him Lim Madeleine",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0344",
+	"coordinates": [
+		103.8474697,
+		1.2837458
+	],
+	"svy21": [
+		29574.9,
+		29575.61
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

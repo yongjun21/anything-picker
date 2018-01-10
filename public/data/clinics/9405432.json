@@ -1,0 +1,58 @@
+{
+	"name": "FACULTY OF DENTISTRY",
+	"tel": "67724949",
+	"fax": "67785742",
+	"licensee": "NATIONAL UNIVERSITY OF SINGAPORE",
+	"licensePeriod": "05/01/2014 to 04/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405432",
+	"address": "BLK 11 Lower Kent Ridge Road, National University Of Singapore, Singapore 119083",
+	"doctorInCharge": [
+		{
+			"name": "Ong Hui Lian Grace",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1979",
+				"MSc (Periodontology) (London) (University of London, United Kingdom) 1983",
+				"FAMS (Periodontics) (Academy of Medicine, Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Periodontology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Dental Public Health",
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Paediatric Dentistry",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9405432",
+	"coordinates": [
+		103.7817874,
+		1.2969357
+	],
+	"svy21": [
+		22265.03,
+		31034.14
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

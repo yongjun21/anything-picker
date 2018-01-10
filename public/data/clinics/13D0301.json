@@ -1,0 +1,48 @@
+{
+	"name": "THENG & PARTNERS DENTAL SURGEONS",
+	"tel": "64472173",
+	"fax": "64472173",
+	"licensee": "THENG & PARTNERS PTE. LTD",
+	"licensePeriod": "04/11/2017 to 03/11/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13D0301",
+	"address": "80 MARINE PARADE ROAD, PARKWAY PARADE, #05-09 Singapore 449269",
+	"doctorInCharge": [
+		{
+			"name": "Theng Meng Cheng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1975"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "09:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "09:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13D0301",
+	"coordinates": [
+		103.9052795,
+		1.3010698
+	],
+	"svy21": [
+		36008.6,
+		31491.32
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

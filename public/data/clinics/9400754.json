@@ -1,0 +1,49 @@
+{
+	"name": "JIREH DENTAL CLINIC",
+	"tel": "62596745",
+	"fax": "62596364",
+	"licensee": "Mohd Yosri Bin Ayub",
+	"licensePeriod": "02/04/2017 to 01/04/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400754",
+	"address": "BLK 126 Toa Payoh Lor 1, #01-553 Singapore 310126",
+	"doctorInCharge": [
+		{
+			"name": "Mohd Yosri Bin Ayub",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400754",
+	"coordinates": [
+		103.8451309,
+		1.3378147
+	],
+	"svy21": [
+		29314.58,
+		35554.27
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

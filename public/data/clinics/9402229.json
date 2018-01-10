@@ -1,0 +1,56 @@
+{
+	"name": "C.M.C. WONG BINJAI CLINIC",
+	"tel": "64693737",
+	"fax": "64693727",
+	"licensee": "WONG MEI CHUN",
+	"licensePeriod": "28/05/2017 to 27/05/2018",
+	"licenseClass": "[ 1 Year ( 2B ) ]",
+	"hciCode": "9402229",
+	"address": "15 BINJAI PARK, Singapore 589824",
+	"doctorInCharge": [
+		{
+			"name": "WONG MEI CHUN",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1977",
+				"MSc (OM) (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 07:00 pm",
+		"Tuesday": "09:00 am to 07:00 pm",
+		"Wednesday": "09:00 am to 07:00 pm",
+		"Thursday": "09:00 am to 07:00 pm",
+		"Friday": "09:00 am to 07:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "09:30 am to 11:00 am"
+	},
+	"id": "9402229",
+	"coordinates": [
+		103.7868541,
+		1.3362238
+	],
+	"svy21": [
+		22828.99,
+		35378.41
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

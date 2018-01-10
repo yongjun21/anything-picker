@@ -1,0 +1,49 @@
+{
+	"name": "EXECUTIVE HEALTH SCREENERS",
+	"tel": "62388238",
+	"fax": "62388298",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "28/04/2015 to 27/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404902",
+	"address": "290 ORCHARD ROAD, PARAGON, #07-07/08 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Low Bee Lee",
+			"qualifications": [
+				"MB BCh BAO, LRCP & SI (National University of Ireland, Ireland) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404902",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

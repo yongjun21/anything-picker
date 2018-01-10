@@ -1,0 +1,54 @@
+{
+	"name": "AMK FAMILY CLINIC PTE LTD",
+	"tel": "64544204",
+	"fax": "64538327",
+	"licensee": "AMK FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "30/04/2014 to 29/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403568",
+	"address": "51 ANG MO KIO AVE 3, NO 51 @ AMK, #01-01 Singapore 569922",
+	"doctorInCharge": [
+		{
+			"name": "Tan Chin Beng Melvyn",
+			"qualifications": [
+				"MB BCh (Royal College of Surgeons, Ireland) 1998"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:30 am to 03:00 pm, 07:00 pm to 10:00 pm",
+		"Friday": "08:30 am to 03:00 pm, 07:00 pm to 10:00 pm",
+		"Saturday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Sunday": "02:00 pm to 07:00 pm"
+	},
+	"id": "9403568",
+	"coordinates": [
+		103.8471597,
+		1.3692974
+	],
+	"svy21": [
+		29540.35,
+		39035.47
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

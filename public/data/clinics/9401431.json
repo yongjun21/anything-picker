@@ -1,0 +1,56 @@
+{
+	"name": "S P TEO CLINIC FOR WOMEN PTE LTD",
+	"tel": "62509115",
+	"fax": "62547182",
+	"licensee": "TEO SIAK PHENG",
+	"licensePeriod": "01/01/2017 to 31/12/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9401431",
+	"address": "400 BALESTIER ROAD, BALESTIER PLAZA, #02-20 Singapore 329802",
+	"doctorInCharge": [
+		{
+			"name": "TEO SIAK PHENG",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1974",
+				"M Med (O&G) (National University of Singapore, Singapore) 1981",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1983",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1984"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9401431",
+	"coordinates": [
+		103.8503954,
+		1.3257247
+	],
+	"svy21": [
+		29900.47,
+		34217.43
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

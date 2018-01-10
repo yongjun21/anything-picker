@@ -1,0 +1,54 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "65431118",
+	"fax": "65430717",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401356",
+	"address": "60 AIRPORT BOULEVARD, PASSENGER TERMINAL BUILDING 2, #26-053 Singapore 819643",
+	"doctorInCharge": [
+		{
+			"name": "SALLEH BIN OMAR B A ALKHATIA",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "06:00 am to 12:00 am",
+		"Tuesday": "06:00 am to 12:00 am",
+		"Wednesday": "06:00 am to 12:00 am",
+		"Thursday": "06:00 am to 12:00 am",
+		"Friday": "06:00 am to 12:00 am",
+		"Saturday": "06:00 am to 12:00 am",
+		"Sunday": "06:00 am to 12:00 am"
+	},
+	"id": "9401356",
+	"coordinates": [
+		103.9890673,
+		1.3549707
+	],
+	"svy21": [
+		45333.07,
+		37451.85
+	],
+	"planningArea": "CH",
+	"neighbours": [
+		"PR",
+		"TM",
+		"CB"
+	]
+}

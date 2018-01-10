@@ -1,0 +1,58 @@
+{
+	"name": "T G NG KIDNEY & MEDICAL CENTRE",
+	"tel": "68367718",
+	"fax": "68367719",
+	"licensee": "Ng Tsun Gun",
+	"licensePeriod": "31/05/2016 to 30/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "12C0013",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #09-19 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Ng Tsun Gun",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2003",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2009",
+				"FAMS (Academy of Medicine, Singapore) 2010"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "12C0013",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

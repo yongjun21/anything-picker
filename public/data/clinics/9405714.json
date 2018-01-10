@@ -1,0 +1,59 @@
+{
+	"name": "EAGLE EYE CENTRE PTE LTD (EEC)",
+	"tel": "64561000",
+	"fax": "64561006",
+	"licensee": "EAGLE EYE CENTRE PTE. LTD.",
+	"licensePeriod": "04/07/2016 to 03/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405714",
+	"address": "820 THOMSON ROAD, MOUNT ALVERNIA HOSPITAL MEDICAL CENTRE D, #06-57/58/59/60/61/62 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "Julian Theng Thiam Siew",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"FRCOphth (Royal College of Ophthalmologists, United Kingdom) 1998",
+				"FRCSEd (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 1998",
+				"M Med (Ophth) (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405714",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"name": "ST KINETICS IN-HOUSE CLINIC",
+	"tel": "66607184",
+	"fax": "62622482",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "27/07/2015 to 26/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0103",
+	"address": "249 JALAN BOON LAY, Singapore 619523",
+	"doctorInCharge": [
+		{
+			"name": "Chan Heng Liang Ivan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "11C0103",
+	"coordinates": [
+		103.7124323,
+		1.3394809
+	],
+	"svy21": [
+		14546.65,
+		35738.84
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

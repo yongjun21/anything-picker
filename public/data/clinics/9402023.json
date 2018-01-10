@@ -1,0 +1,58 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "65853333",
+	"fax": "65844260",
+	"licensee": "Raffles Medical Group Ltd",
+	"licensePeriod": "17/04/2016 to 16/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9402023",
+	"address": "BLK 259 PASIR RIS STREET 21, LOYANG POINT, #02-33 Singapore 510259",
+	"doctorInCharge": [
+		{
+			"name": "Varghese George",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2004",
+				"Dip OM (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 01:00 pm",
+		"Monday": "08:30 am to 01:00 am, 02:00 pm to 05:30 pm, 06:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:00 am, 02:00 pm to 05:30 pm, 06:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:00 am, 02:00 pm to 05:30 pm, 06:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:00 am, 02:00 pm to 05:30 pm, 06:00 pm to 09:30 pm",
+		"Friday": "08:30 am to 01:00 am, 02:00 pm to 05:30 pm, 06:00 pm to 09:30 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "08:30 am to 01:00 pm"
+	},
+	"id": "9402023",
+	"coordinates": [
+		103.9645985,
+		1.3664536
+	],
+	"svy21": [
+		42609.9,
+		38721.42
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

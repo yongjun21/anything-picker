@@ -1,0 +1,56 @@
+{
+	"name": "THE IMPLANT AND ORAL SURGERY CENTRE",
+	"tel": "63976540",
+	"fax": "64748427",
+	"licensee": "The Implant and Oral Surgery Centre",
+	"licensePeriod": "27/09/2016 to 26/09/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404589",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTER, #11-25/26 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Juliet Tay Yen Yee",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1998",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2002",
+				"MDS (National University of Singapore, Singapore) 2003",
+				"FAM (Singapore) (Academy of Medicine, Singapore, Singapore) 2006"
+			],
+			"specialties": [
+				"Oral & Maxillo-Facial Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm"
+	},
+	"id": "9404589",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

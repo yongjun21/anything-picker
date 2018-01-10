@@ -1,0 +1,52 @@
+{
+	"name": "KHOO FAMILY CLINIC & SURGERY",
+	"tel": "62955955",
+	"fax": "62967553",
+	"licensee": "Vincent Leong Weng Sun",
+	"licensePeriod": "01/07/2014 to 30/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404886",
+	"address": "BLK 2 BEACH ROAD, #01-4781 Singapore 190002",
+	"doctorInCharge": [
+		{
+			"name": "Vincent Leong Weng Sun",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404886",
+	"coordinates": [
+		103.8649284,
+		1.304033
+	],
+	"svy21": [
+		31517.89,
+		31818.88
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

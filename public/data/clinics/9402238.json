@@ -1,0 +1,54 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "62202911",
+	"fax": "62246865",
+	"licensee": "Parkway Shenton Pte Ltd",
+	"licensePeriod": "23/01/2014 to 22/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402238",
+	"address": "10 ANSON RD, INTERNATIONAL PLAZA, #36-01 Singapore 079903",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Soong Keng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402238",
+	"coordinates": [
+		103.8459237,
+		1.2758867
+	],
+	"svy21": [
+		29402.85,
+		28706.59
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

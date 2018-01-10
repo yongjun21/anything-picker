@@ -1,0 +1,42 @@
+{
+	"name": "HEALTHSERVE (JURONG) COMMUNITY MEDICAL CLINIC",
+	"tel": "83649901",
+	"fax": "67436174",
+	"licensee": "HEALTHSERVE LTD.",
+	"licensePeriod": "25/04/2017 to 24/04/2019",
+	"licenseClass": "[ 2 Years ]",
+	"hciCode": "9405802",
+	"address": "5D JALAN PAPAN, ASPRI-WESTLITE PAPAN, #01-34/36 Singapore 619421",
+	"doctorInCharge": [
+		{
+			"name": "GOH WEI LEONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9405802",
+	"coordinates": [
+		103.7279575,
+		1.3226974
+	],
+	"svy21": [
+		16274.35,
+		33882.93
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

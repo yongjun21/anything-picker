@@ -1,0 +1,52 @@
+{
+	"name": "SINGAPORE DENTAL SURGERY",
+	"tel": "68340388",
+	"fax": "68340188",
+	"licensee": "CHEE KUAN HOCK ALEXANDER LAURENCE",
+	"licensePeriod": "09/06/2015 to 08/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401509",
+	"address": "1 ORCHARD BOULEVARD, CAMDEN MEDICAL CENTRE, #10-03 Singapore 248649",
+	"doctorInCharge": [
+		{
+			"name": "CHEE KUAN HOCK ALEXANDER LAURENCE",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1984",
+				"MSc (University of London, United Kingdom) 1987"
+			],
+			"specialties": [
+				"Periodontology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Periodontology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:45 am to 05:30 pm",
+		"Tuesday": "08:45 am to 05:30 pm",
+		"Wednesday": "08:45 am to 05:30 pm",
+		"Thursday": "08:45 am to 05:30 pm",
+		"Friday": "08:45 am to 05:30 pm"
+	},
+	"id": "9401509",
+	"coordinates": [
+		103.8239072,
+		1.3031376
+	],
+	"svy21": [
+		26952.59,
+		31719.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

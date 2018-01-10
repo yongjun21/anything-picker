@@ -1,0 +1,56 @@
+{
+	"name": "KI MEDICAL CLINIC",
+	"tel": "64554475",
+	"fax": "64554475",
+	"licensee": "KI MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0241",
+	"address": "BLK 416 ANG MO KIO AVENUE 10, #01-975 Singapore 560416",
+	"doctorInCharge": [
+		{
+			"name": "Ki Yonghao Alex",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 11:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 11:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 11:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 11:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 11:00 pm",
+		"Saturday": "08:00 am to 12:30 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "08:00 am to 12:30 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "11C0241",
+	"coordinates": [
+		103.8551037,
+		1.3645417
+	],
+	"svy21": [
+		30424.42,
+		38509.62
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

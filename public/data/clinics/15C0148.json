@@ -1,0 +1,48 @@
+{
+	"name": "TAI DENTAL SURGERY (CITY PLAZA) PTE. LTD.",
+	"tel": "67488445",
+	"fax": "66519436",
+	"licensee": "TAI DENTAL SURGERY (CITY PLAZA) PTE. LTD.",
+	"licensePeriod": "15/05/2017 to 14/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15C0148",
+	"address": "810 GEYLANG RD, CITY PLAZA, #01-117 Singapore 409286",
+	"doctorInCharge": [
+		{
+			"name": "TAI HAN MIN",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974",
+				"MDS (University of Singapore, Singapore) 1979"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "15C0148",
+	"coordinates": [
+		103.8934721,
+		1.3147869
+	],
+	"svy21": [
+		34694.51,
+		33008.05
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

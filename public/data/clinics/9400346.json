@@ -1,0 +1,46 @@
+{
+	"name": "DOCTORS CLINIC & SURGERY",
+	"tel": "62691017",
+	"fax": "63621496",
+	"licensee": "Low Chee Wah Mark",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400346",
+	"address": "BLK 305 Woodlands Street 31, #01-91 Singapore 730305",
+	"doctorInCharge": [
+		{
+			"name": "Low Chee Wah Mark",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 1996",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9400346",
+	"coordinates": [
+		103.7741024,
+		1.4303615
+	],
+	"svy21": [
+		21410.13,
+		45787.7
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

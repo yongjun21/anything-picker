@@ -1,0 +1,46 @@
+{
+	"name": "BEDOK FAMILY CLINIC & SURGERY",
+	"tel": "64410236",
+	"fax": "64410276",
+	"licensee": "HEALTHWAY MEDICAL GROUP PTE LTD",
+	"licensePeriod": "14/10/2014 to 13/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402301",
+	"address": "BLK 218 BEDOK NORTH ST 1, #01-17 Singapore 460218",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9402301",
+	"coordinates": [
+		103.9342494,
+		1.327493
+	],
+	"svy21": [
+		39232.58,
+		34413.17
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

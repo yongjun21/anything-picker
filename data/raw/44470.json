@@ -18,7 +18,7 @@
 	],
 	"detailedServices": {
 		"General Medical": true,
-		"Yellow Fever Vaccination": []
+		"Yellow Fever Vaccination": true
 	},
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)",
@@ -26,7 +26,7 @@
 	],
 	"operatingHours": {
 		"Monday to Friday": "08:00 am to 02:00 pm, 05:30 pm to 10:30 pm",
-		"Saturday to Saturday": "08:00 am to 02:00 pm, 05:30 pm to 09:00 pm",
-		"Sunday to Sunday": "09:00 am to 02:00 pm, 05:30 pm to 09:00 pm"
+		"Saturday": "08:00 am to 02:00 pm",
+		"Sunday": "09:00 am to 02:00 pm"
 	}
 }

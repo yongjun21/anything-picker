@@ -1,0 +1,49 @@
+{
+	"name": "NEWLIFE DENTAL PRACTICE PTE. LTD.",
+	"tel": "62222641",
+	"fax": "62222614",
+	"licensee": "Newlife Dental Practice Pte. Ltd.",
+	"licensePeriod": "05/05/2014 to 04/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404840",
+	"address": "12 EU TONG SEN STREET, The Central, #05-171 Singapore 059819",
+	"doctorInCharge": [
+		{
+			"name": "Matthias Quake Tiang Chye",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404840",
+	"coordinates": [
+		103.846558,
+		1.2888386
+	],
+	"svy21": [
+		29473.44,
+		30138.74
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

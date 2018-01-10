@@ -1,0 +1,43 @@
+{
+	"name": "HEALTHSERVE (MANDAI) COMMUNITY CLINIC",
+	"tel": "94871377",
+	"fax": "67436174",
+	"licensee": "HEALTHSERVE LTD.",
+	"licensePeriod": "24/07/2017 to 23/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0254",
+	"address": "BLK 36 MANDAI ESTATE, WESTLITE MANDAI DORMITORY, #00-00 Singapore 729940",
+	"doctorInCharge": [
+		{
+			"name": "Goh Wei Leong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "15M0254",
+	"coordinates": [
+		103.7581856,
+		1.4072978
+	],
+	"svy21": [
+		19638.74,
+		43237.49
+	],
+	"planningArea": "SK",
+	"neighbours": [
+		"BP",
+		"LK",
+		"MD",
+		"CC",
+		"WD",
+		"CK",
+		"WC"
+	]
+}

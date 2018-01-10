@@ -1,0 +1,56 @@
+{
+	"name": "SHENTON WELLNESS CENTRE",
+	"tel": "63761630",
+	"fax": "62709766",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "25/09/2017 to 24/09/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13M0249",
+	"address": "460 ALEXANDRA ROAD, PSA BUILDING (ALEXANDRA RETAIL CENTRE), #02-15 Singapore 119963",
+	"doctorInCharge": [
+		{
+			"name": "Su Shichang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2008",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "13M0249",
+	"coordinates": [
+		103.8012641,
+		1.2739864
+	],
+	"svy21": [
+		24432.59,
+		28496.49
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

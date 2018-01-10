@@ -1,0 +1,48 @@
+{
+	"name": "OSA MEDICAL AESTHETICS CLINIC",
+	"tel": "62500108",
+	"fax": "62500106",
+	"licensee": "SKIN THERAPEUTICS PTE. LTD.",
+	"licensePeriod": "08/05/2017 to 07/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0133",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTER, #11-36 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Ong Su-Anne",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:55 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 12:55 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 12:55 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 12:55 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 12:55 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
+	"id": "15M0133",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

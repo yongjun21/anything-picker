@@ -1,0 +1,58 @@
+{
+	"name": "STOMACH, LIVER & BOWEL CLINIC",
+	"tel": "64746848",
+	"fax": "64758285",
+	"licensee": "STOMACH LIVER & BOWEL CENTRE",
+	"licensePeriod": "17/11/2016 to 16/11/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0208",
+	"address": "6A NAPIER ROAD, GLENEAGLES HOSPITAL ANNEXE BLOCK, #05-37 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "GWEE Kok Ann",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1990",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1990",
+				"FAMS (Gastroenterology) (Academy of Medicine, Singapore) 1995",
+				"PhD (University of Sheffield, United Kingdom) 1998",
+				"FRCP (Lond) (Royal College of Physicians of London, United Kingdom) 2001",
+				"FRCP (Glasg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 2001"
+			],
+			"specialties": [
+				"Gastroenterology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Gastroenterology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "11C0208",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

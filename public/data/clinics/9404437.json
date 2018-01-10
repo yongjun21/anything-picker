@@ -1,0 +1,45 @@
+{
+	"name": "I CARE DENTAL",
+	"tel": "64521189",
+	"fax": "64523116",
+	"licensee": "Yap Eng Huat",
+	"licensePeriod": "11/05/2017 to 10/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9404437",
+	"address": "301 Upper Thomson Road, Thomson Plaza, #03-15 Singapore 574408",
+	"doctorInCharge": [
+		{
+			"name": "Yap Eng Huat",
+			"qualifications": [
+				"BDS (University of Sheffield, United Kingdom) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 07:00 pm",
+		"Tuesday": "10:00 am to 07:00 pm",
+		"Wednesday": "10:00 am to 07:00 pm",
+		"Thursday": "10:00 am to 07:00 pm",
+		"Friday": "10:00 am to 07:00 pm"
+	},
+	"id": "9404437",
+	"coordinates": [
+		103.8309198,
+		1.354669
+	],
+	"svy21": [
+		27733.04,
+		37417.93
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "68752073",
+	"fax": "68752073",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/07/2017 to 30/06/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0163",
+	"address": "150 COMPASSVALE BOW, PALM VIEW PRIMARY, Singapore 544822",
+	"doctorInCharge": [
+		{
+			"name": "CHEE CHING TENG",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "13C0163",
+	"coordinates": [
+		103.8913547,
+		1.3837692
+	],
+	"svy21": [
+		34458.68,
+		40635.77
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

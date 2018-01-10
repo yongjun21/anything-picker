@@ -1,0 +1,49 @@
+{
+	"name": "STARBITE DENTAL CENTRE",
+	"tel": "65199615",
+	"fax": "62844849",
+	"licensee": "STARBITE DENTAL PTE. LTD.",
+	"licensePeriod": "10/12/2016 to 09/12/2018",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "12C0273",
+	"address": "BLK 211 HOUGANG STREET 21, #01-287 Singapore 530211",
+	"doctorInCharge": [
+		{
+			"name": "Meity Silvia Petrisia Heny Rumende",
+			"qualifications": [
+				"BDS (University of Otago, New Zealand) 2007",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 06:00 pm"
+	},
+	"id": "12C0273",
+	"coordinates": [
+		103.8877173,
+		1.3596229
+	],
+	"svy21": [
+		34053.95,
+		37965.78
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

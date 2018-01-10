@@ -1,0 +1,48 @@
+{
+	"name": "WOUND AND STOMA MEDICAL CLINIC",
+	"tel": "64432085",
+	"fax": "64432095",
+	"licensee": "WOUND AND STOMA CARE PTE. LTD.",
+	"licensePeriod": "03/11/2015 to 02/11/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0378",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #14-12 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "Charles Tsang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1993",
+				"M Med (Surg) (National University of Singapore, Singapore) 1993",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1993",
+				"MSc (Experimental Surgery) (University of Minnesota, United States) 1998",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 1999"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"id": "15M0378",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

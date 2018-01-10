@@ -1,0 +1,51 @@
+{
+	"name": "TANGS DENTAL GROUP",
+	"tel": "64799883",
+	"fax": "64716883",
+	"licensee": "TANG PUI FONG, MARGARET",
+	"licensePeriod": "06/11/2014 to 05/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401624",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #06-07 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "TANG PUI FONG, MARGARET",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1981",
+				"MSc (University of London, United Kingdom) 1985",
+				"MDS (University of Adelaide, Australia) 1991",
+				"FAM (Singapore) (Academy of Medicine, Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Prosthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"id": "9401624",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

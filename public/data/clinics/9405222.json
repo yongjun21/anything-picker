@@ -1,0 +1,57 @@
+{
+	"name": "ACUMED MEDICAL GROUP",
+	"tel": "65327766",
+	"fax": "65341767",
+	"licensee": "ACUMED MEDICAL PTE. LTD.",
+	"licensePeriod": "01/08/2017 to 31/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405222",
+	"address": "16 COLLYER QUAY, INCOME AT RAFFLES, #02-03 Singapore 049318",
+	"doctorInCharge": [
+		{
+			"name": "Eva-Leina Bte Muhammad Yoosuff",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 01:30 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 01:30 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 01:30 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 01:30 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 01:30 pm to 05:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405222",
+	"coordinates": [
+		103.8525474,
+		1.2841879
+	],
+	"svy21": [
+		30140,
+		29624.5
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

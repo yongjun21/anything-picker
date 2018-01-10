@@ -1,0 +1,40 @@
+{
+	"name": "EMMANUEL DENTAL SURGERY",
+	"tel": "63396832",
+	"fax": "63346889",
+	"licensee": "CHEN FUN YAP",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400476",
+	"address": "190 CLEMENCEAU AVE, SINGAPORE SHOPPING CENTRE, #02-14 Singapore 239924",
+	"doctorInCharge": [
+		{
+			"name": "CHEN FUN YAP",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986",
+				"MFGDP (UK) (Royal College of Surgeons of England, United Kingdom) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9400476",
+	"coordinates": [
+		103.8441113,
+		1.2981527
+	],
+	"svy21": [
+		29201.14,
+		31168.65
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

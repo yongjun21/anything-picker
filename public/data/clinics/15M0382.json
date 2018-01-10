@@ -1,0 +1,59 @@
+{
+	"name": "FRESENIUS MEDICAL CARE BUKIT MERAH CENTRAL DIALYSIS CLINIC",
+	"tel": "62730874",
+	"fax": "62735200",
+	"licensee": "FRESENIUS MEDICAL CARE SINGAPORE PTE. LTD.",
+	"licensePeriod": "09/11/2017 to 08/11/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "15M0382",
+	"address": "BLK 161 BUKIT MERAH CENTRAL, #01-3719 Singapore 150161",
+	"doctorInCharge": [
+		{
+			"name": "Nikam Milind Digamber",
+			"qualifications": [
+				"MBBS (University of Mumbai, India) 2003",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2006"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "07:00 am to 10:00 pm",
+		"Tuesday": "07:00 am to 10:00 pm",
+		"Wednesday": "07:00 am to 10:00 pm",
+		"Thursday": "07:00 am to 10:00 pm",
+		"Friday": "07:00 am to 10:00 pm",
+		"Saturday": "07:00 am to 10:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "15M0382",
+	"coordinates": [
+		103.8160061,
+		1.2839123
+	],
+	"svy21": [
+		26073.27,
+		29594.02
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

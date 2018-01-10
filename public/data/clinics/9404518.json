@@ -1,0 +1,42 @@
+{
+	"name": "TOOTHCRAFT DENTAL SURGEONS",
+	"tel": "68761236",
+	"fax": "68761782",
+	"licensee": "ToothCraft Dental Surgeons Pte. Ltd.",
+	"licensePeriod": "17/06/2016 to 16/06/2018",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "9404518",
+	"address": "681 EAST COAST ROAD, Singapore 459052",
+	"doctorInCharge": [
+		{
+			"name": "Lee Mei Fern Lynette Ann",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"id": "9404518",
+	"coordinates": [
+		103.9215714,
+		1.3118237
+	],
+	"svy21": [
+		37821.7,
+		32680.49
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

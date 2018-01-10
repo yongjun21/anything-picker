@@ -1,0 +1,45 @@
+{
+	"name": "TNG DENTAL SURGERY",
+	"tel": "67810780",
+	"fax": "67891058",
+	"licensee": "Tng Seng Ghee",
+	"licensePeriod": "31/12/2016 to 30/12/2017",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"hciCode": "9404338",
+	"address": "BLK 272 Tampines Street 22, #01-26 Singapore 520272",
+	"doctorInCharge": [
+		{
+			"name": "Tng Seng Ghee",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm"
+	},
+	"id": "9404338",
+	"coordinates": [
+		103.9502815,
+		1.3491594
+	],
+	"svy21": [
+		41016.68,
+		36809.02
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

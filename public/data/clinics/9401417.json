@@ -1,0 +1,57 @@
+{
+	"name": "S & L FAMILY CLINIC",
+	"tel": "67546203",
+	"fax": "67546203",
+	"licensee": "SIU YOUNG TONG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401417",
+	"address": "BLK 729 YISHUN ST 71, #01-105 Singapore 760729",
+	"doctorInCharge": [
+		{
+			"name": "SIU YOUNG TONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401417",
+	"coordinates": [
+		103.8315983,
+		1.4258529
+	],
+	"svy21": [
+		27808.56,
+		45289.08
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

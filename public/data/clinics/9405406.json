@@ -1,0 +1,52 @@
+{
+	"name": "SUNSHINE DENTAL",
+	"tel": "63654398",
+	"fax": "63652503",
+	"licensee": "SUNSHINE SMILE DENTAL IMPLANT CENTRE PTE. LTD.",
+	"licensePeriod": "14/12/2013 to 13/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405406",
+	"address": "900 SOUTH WOODLANDS DRIVE, WOODLANDS CIVIC CENTRE, #03-04 Singapore 730900",
+	"doctorInCharge": [
+		{
+			"name": "PAUL JONATHAN SEAH",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1996",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2001",
+				"MFGDP(UK) (Royal College of Surgeons of England, United Kingdom) 2001",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 09:30 pm",
+		"Tuesday": "09:30 am to 09:30 pm",
+		"Wednesday": "09:30 am to 09:30 pm",
+		"Thursday": "09:30 am to 09:30 pm",
+		"Friday": "09:30 am to 09:30 pm",
+		"Saturday": "09:30 am to 05:00 pm",
+		"Sunday": "09:30 am to 01:00 pm"
+	},
+	"id": "9405406",
+	"coordinates": [
+		103.7869309,
+		1.4350183
+	],
+	"svy21": [
+		22837.75,
+		46302.6
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

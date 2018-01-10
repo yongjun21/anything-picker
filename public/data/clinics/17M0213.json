@@ -1,0 +1,39 @@
+{
+	"name": "URBAN MEDICAL CENTRE",
+	"tel": "63333636",
+	"fax": "66725688",
+	"licensee": "GETHIN-JONES MEDICAL PRACTICE PTE LTD",
+	"licensePeriod": "11/07/2017 to 10/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0213",
+	"address": "108 ROBINSON ROAD, FINEXIS BUILDING, #04-01A Singapore 068900",
+	"doctorInCharge": [
+		{
+			"name": "Ong Kong Yiow Elton",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0213",
+	"coordinates": [
+		103.848971,
+		1.2795484
+	],
+	"svy21": [
+		29741.99,
+		29111.49
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

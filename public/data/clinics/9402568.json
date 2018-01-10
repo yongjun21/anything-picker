@@ -1,0 +1,41 @@
+{
+	"name": "SEMBAWANG DENTAL SURGERY",
+	"tel": "65551270",
+	"fax": "65551270",
+	"licensee": "HO VOON CHOONG",
+	"licensePeriod": "10/12/2015 to 09/12/2017",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402568",
+	"address": "BLK 406 SEMBAWANG DRIVE, #01-824 Singapore 750406",
+	"doctorInCharge": [
+		{
+			"name": "HO VOON CHOONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Sunday": "Closed"
+	},
+	"id": "9402568",
+	"coordinates": [
+		103.8169776,
+		1.4529298
+	],
+	"svy21": [
+		26181.51,
+		48283.12
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	]
+}

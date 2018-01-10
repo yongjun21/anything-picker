@@ -1,0 +1,53 @@
+{
+	"name": "Q & M DENTAL SURGERY (TOA PAYOH CENTRAL) PTE LTD",
+	"tel": "62563633",
+	"fax": "63580059",
+	"licensee": "Q & M Dental Surgery (Toa Payoh Central) Pte. Ltd.",
+	"licensePeriod": "21/02/2017 to 20/02/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403318",
+	"address": "BLK 177 TOA PAYOH CENTRAL, #01-150 Singapore 310177",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9403318",
+	"coordinates": [
+		103.8488548,
+		1.3339003
+	],
+	"svy21": [
+		29729.02,
+		35121.44
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

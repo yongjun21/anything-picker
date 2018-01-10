@@ -1,0 +1,40 @@
+{
+	"name": "HEALTHWAY DENTAL CLINIC",
+	"tel": "65606127",
+	"fax": "65606284",
+	"licensee": "HEALTHWAY MEDICAL GROUP PTE LTD",
+	"licensePeriod": "28/05/2016 to 27/05/2018",
+	"licenseClass": "[ 2 Years ]",
+	"hciCode": "14D0139",
+	"address": "3 Gateway Drive, Westgate, #04-32 Singapore 608532",
+	"doctorInCharge": [
+		{
+			"name": "Lee Hock Leong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "14D0139",
+	"coordinates": [
+		103.7427664,
+		1.3341575
+	],
+	"svy21": [
+		17922.49,
+		35150.06
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"name": "TEO CLINIC & SURGERY PTE LTD",
+	"tel": "67760216",
+	"fax": "68725008",
+	"licensee": "TEO CLINIC & SURGERY PTE LTD",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9401650",
+	"address": "BLK 352 CLEMENTI AVE 2, #01-111 Singapore 120352",
+	"doctorInCharge": [
+		{
+			"name": "TEO TIONG KIAT",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1973",
+				"GDMH (National University of Singapore, Singapore) 2014"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 04:30 pm",
+		"Tuesday": "09:00 am to 04:30 pm",
+		"Wednesday": "09:00 am to 04:30 pm",
+		"Thursday": "09:00 am to 04:30 pm",
+		"Friday": "09:00 am to 04:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9401650",
+	"coordinates": [
+		103.7713506,
+		1.3142786
+	],
+	"svy21": [
+		21103.55,
+		32951.85
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

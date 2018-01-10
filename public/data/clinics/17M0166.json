@@ -1,0 +1,56 @@
+{
+	"name": "THOMSON CARDIOLOGY CENTRE",
+	"tel": "67170008",
+	"fax": "62534468",
+	"licensee": "THOMSON CARDIOLOGY CENTRE PTE. LTD.",
+	"licensePeriod": "10/06/2017 to 09/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0166",
+	"address": "339 THOMSON ROAD, THOMSON MEDICAL CENTRE, #05-05 Singapore 307677",
+	"doctorInCharge": [
+		{
+			"name": "Leong Kui Toh Gerard",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2001"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "17M0166",
+	"coordinates": [
+		103.8414579,
+		1.3253606
+	],
+	"svy21": [
+		28905.83,
+		34177.16
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "VALLEY PARK DENTAL CLINIC",
+	"tel": "68362017",
+	"fax": "68357917",
+	"licensee": "City & Medical Health Associates Dental Surgery Pte Ltd",
+	"licensePeriod": "08/08/2016 to 07/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9404070",
+	"address": "473 RIVER VALLEY ROAD, VALLEY PARK CONDOMINIUM, #01-02 Singapore 248358",
+	"doctorInCharge": [
+		{
+			"name": "Ashim Dutt",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404070",
+	"coordinates": [
+		103.8279208,
+		1.2933967
+	],
+	"svy21": [
+		27399.27,
+		30642.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

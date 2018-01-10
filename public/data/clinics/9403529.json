@@ -1,0 +1,59 @@
+{
+	"name": "HEALTHLINK MEDICAL CLINIC & SURGERY",
+	"tel": "62890885",
+	"fax": "62849883",
+	"licensee": "HEALTHLINK MEDICAL CLINIC AND SURGERY PTE LTD",
+	"licensePeriod": "16/11/2013 to 15/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403529",
+	"address": "BLK 5 UPPER ALJUNIED LANE, #01-46 Singapore 360005",
+	"doctorInCharge": [
+		{
+			"name": "RODNEY LIM SOON AUN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995",
+				"GDMH (National University of Singapore, Singapore) 2014"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 12:30 am",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9403529",
+	"coordinates": [
+		103.8798985,
+		1.3337287
+	],
+	"svy21": [
+		33183.86,
+		35102.5
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

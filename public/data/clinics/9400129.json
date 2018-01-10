@@ -1,0 +1,59 @@
+{
+	"name": "BOON LAY CLINIC & SURGERY",
+	"tel": "62655247",
+	"fax": "62680866",
+	"licensee": "CHAU SIK TING",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400129",
+	"address": "BLK 221 BOON LAY PLACE, #01-240/244 Singapore 640221",
+	"doctorInCharge": [
+		{
+			"name": "CHAU SIK TING",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1965",
+				"DIH (OM) (Society of Apothecaries of London, United Kingdom) 1973",
+				"FAMS (OM) (Academy of Medicine, Singapore) 1974",
+				"FFOM (OM) (Faculty of Occupational Med, Royal College of Physicians of London, United Kingdom) 1984"
+			],
+			"specialties": [
+				"Occupational Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "09:00 pm to 12:00 pm",
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400129",
+	"coordinates": [
+		103.7124293,
+		1.3463482
+	],
+	"svy21": [
+		14546.35,
+		36498.19
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

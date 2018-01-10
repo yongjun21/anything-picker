@@ -1,0 +1,40 @@
+{
+	"name": "P CLINIC MEDICAL AESTHETICS",
+	"tel": "61001234",
+	"fax": "62350412",
+	"licensee": "AESTHETIC MEDICAL HOLDINGS PTE. LTD.",
+	"licensePeriod": "10/06/2016 to 09/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16C0174",
+	"address": "290 ORCHARD ROAD, PARAGON, #15-10/12 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Ho Jing Jung Wilson",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 2009",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2013"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16C0174",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

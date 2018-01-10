@@ -1,0 +1,54 @@
+{
+	"name": "DOLLY WEE CLINIC & SURGERY FOR WOMEN",
+	"tel": "67346673",
+	"fax": "67347360",
+	"licensee": "Dolly Wee Holk Leh",
+	"licensePeriod": "17/05/2016 to 16/05/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9400347",
+	"address": "3 Mount Elizabeth, Mount Elizabeth Medical Centre, #04-08 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Dolly Wee Holk Leh",
+			"qualifications": [
+				"MBBS (University of Newcastle Upon Tyne, United Kingdom) 1979",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1985",
+				"M Med (O&G) (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9400347",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

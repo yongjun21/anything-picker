@@ -1,0 +1,46 @@
+{
+	"name": "ANG MO KIO FAMILY MEDICINE CLINIC",
+	"tel": "65541133",
+	"fax": "62253735",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "23/02/2016 to 22/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0043",
+	"address": "4190 ANG MO KIO AVENUE 6, BROADWAY PLAZA, #03-01 Singapore 569841",
+	"doctorInCharge": [
+		{
+			"name": "Ngoh Hui Lee Sharon",
+			"qualifications": [
+				"MBBS (University of New South Wales, Australia) 2009"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "16M0043",
+	"coordinates": [
+		103.8459495,
+		1.3719373
+	],
+	"svy21": [
+		29405.66,
+		39327.37
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

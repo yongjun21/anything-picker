@@ -1,0 +1,54 @@
+{
+	"name": "ACUMED MEDICAL GROUP",
+	"tel": "62610377",
+	"fax": "65677365",
+	"licensee": "ACUMED MEDICAL PTE. LTD.",
+	"licensePeriod": "15/07/2015 to 14/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405236",
+	"address": "7 PIONEER ROAD NORTH, #01-40 Singapore 628459",
+	"doctorInCharge": [
+		{
+			"name": "CHEN TEIK HONG ANDREW",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm",
+		"Thursday": "08:30 am to 01:00 pm",
+		"Friday": "08:30 am to 01:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405236",
+	"coordinates": [
+		103.6954279,
+		1.3248363
+	],
+	"svy21": [
+		12654.14,
+		34119.62
+	],
+	"planningArea": "PN",
+	"neighbours": [
+		"BL",
+		"JW",
+		"TS",
+		"WC"
+	]
+}

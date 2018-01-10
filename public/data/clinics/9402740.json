@@ -1,0 +1,55 @@
+{
+	"name": "BABY N' KIDS SPECIALIST CLINIC",
+	"tel": "67676383",
+	"fax": "67676121",
+	"licensee": "BABY N' KIDS SPECIALIST CLINIC PRIVATE LIMITED",
+	"licensePeriod": "21/10/2014 to 20/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402740",
+	"address": "458 UPPER BUKIT TIMAH ROAD, THE RAIL MALL, Singapore 678073",
+	"doctorInCharge": [
+		{
+			"name": "LIEU PING PHUN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"M Med (Paed) (National University of Singapore, Singapore) 1994",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 1998"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "02:00 pm to 04:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:00 pm, 06:30 pm to 08:30 pm",
+		"Friday": "02:00 pm to 04:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402740",
+	"coordinates": [
+		103.7675803,
+		1.3599057
+	],
+	"svy21": [
+		20684.1,
+		37997.07
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "EDGEDALE MEDICAL CLINIC",
+	"tel": "66352272",
+	"fax": "66352272",
+	"licensee": "EDGEDALE MEDICAL AND AESTHETICS CLINIC PTE LTD.",
+	"licensePeriod": "13/07/2016 to 12/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0204",
+	"address": "BLK 122A EDGEDALE PLAINS, #01-187 Singapore 821122",
+	"doctorInCharge": [
+		{
+			"name": "yan shiyuan",
+			"qualifications": [
+				"MBBS (University of Queensland, Australia) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "09:00 am to 12:00 pm",
+		"Monday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "16M0204",
+	"coordinates": [
+		103.9091066,
+		1.3935098
+	],
+	"svy21": [
+		36434.2,
+		41712.89
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

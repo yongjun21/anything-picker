@@ -1,0 +1,50 @@
+{
+	"name": "ACUMED MEDICAL GROUP",
+	"tel": "68615996",
+	"fax": "68633579",
+	"licensee": "ACUMED MEDICAL PTE. LTD.",
+	"licensePeriod": "15/07/2015 to 14/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405240",
+	"address": "71 PIONEER ROAD, TUAS AMENITY CENTRE, #01-06 Singapore 639591",
+	"doctorInCharge": [
+		{
+			"name": "LIM SWEE BOON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405240",
+	"coordinates": [
+		103.6522264,
+		1.3171545
+	],
+	"svy21": [
+		7846.17,
+		33270.5
+	],
+	"planningArea": "TS",
+	"neighbours": [
+		"PN",
+		"WC"
+	]
+}

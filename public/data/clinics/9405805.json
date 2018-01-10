@@ -1,0 +1,55 @@
+{
+	"name": "INTEGRATIVE PAIN CENTRE",
+	"tel": "67334344",
+	"fax": "67334244",
+	"licensee": "INTEGRATIVE PAIN CENTRE PTE. LTD.",
+	"licensePeriod": "25/01/2015 to 24/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405805",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #08-01 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Tan Tee Yong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995",
+				"M Med (Anaes) (National University of Singapore, Singapore) 2003",
+				"FFPMANZCA (Australian and New Zealand College of Anaesthetists, Australia) 2008"
+			],
+			"specialties": [
+				"Anaesthesiology",
+				"Intensive Care Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Anaesthesiology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405805",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

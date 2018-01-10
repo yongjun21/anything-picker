@@ -1,0 +1,56 @@
+{
+	"name": "SOG - BEH CLINIC FOR WOMEN",
+	"tel": "63529227",
+	"fax": "63529272",
+	"licensee": "SINGAPORE O&G LTD.",
+	"licensePeriod": "27/06/2016 to 26/06/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "14C0185",
+	"address": "339 Thomson Road, Thomson Medical Centre, #05-03 Singapore 307677",
+	"doctorInCharge": [
+		{
+			"name": "ng koon keng",
+			"qualifications": [
+				"MB ChB (University of Dundee, United Kingdom) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"General Medical": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "14C0185",
+	"coordinates": [
+		103.8414579,
+		1.3253606
+	],
+	"svy21": [
+		28905.83,
+		34177.16
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

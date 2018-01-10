@@ -1,0 +1,49 @@
+{
+	"name": "SHARON YIP DENTAL SURGERY",
+	"tel": "67606562",
+	"fax": "67606562",
+	"licensee": "Sharon Yip Dental Surgery Pte. Ltd.",
+	"licensePeriod": "03/06/2014 to 02/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404866",
+	"address": "BLK 307 CHOA CHU KANG AVE 4, #01-695 Singapore 680307",
+	"doctorInCharge": [
+		{
+			"name": "YIP LI MEI SHARON",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 01:30 pm to 04:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 01:30 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 01:30 pm to 04:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 01:30 pm to 04:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 01:30 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404866",
+	"coordinates": [
+		103.7427049,
+		1.3852343
+	],
+	"svy21": [
+		17915.85,
+		40797.88
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

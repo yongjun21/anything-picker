@@ -21,5 +21,13 @@
 	],
 	"detailedServices": {
 		"General Medical": true
+	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Saturday": "09:30 am to 12:30 pm, 06:00 pm to 08:30 pm",
+		"Sunday and Public Holiday": "09:30 am to 12:30 pm, 06:00 pm to 08:30 pm"
 	}
 }

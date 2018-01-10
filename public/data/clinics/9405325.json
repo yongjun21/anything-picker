@@ -1,0 +1,52 @@
+{
+	"name": "TEXTILE CENTRE CLINIC",
+	"tel": "62982400",
+	"fax": "62982400",
+	"licensee": "CHIN YONG SENG",
+	"licensePeriod": "06/10/2013 to 05/10/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405325",
+	"address": "200 JLN SULTAN, TEXTILE CENTRE, #03-32 Singapore 199018",
+	"doctorInCharge": [
+		{
+			"name": "CHIN YONG SENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1979"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9405325",
+	"coordinates": [
+		103.8616308,
+		1.3039384
+	],
+	"svy21": [
+		31150.89,
+		31808.41
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

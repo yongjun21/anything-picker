@@ -1,0 +1,49 @@
+{
+	"name": "FREIA MEDICAL",
+	"tel": "67358180",
+	"fax": "00000000",
+	"licensee": "Ma Heng Ho Harold",
+	"licensePeriod": "16/08/2017 to 15/08/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0206",
+	"address": "435 ORCHARD ROAD, WISMA ATRIA, #19-03 Singapore 238877",
+	"doctorInCharge": [
+		{
+			"name": "Ma Heng Ho Harold",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 07:00 pm",
+		"Tuesday": "09:00 am to 07:00 pm",
+		"Wednesday": "09:00 am to 07:00 pm",
+		"Thursday": "09:00 am to 07:00 pm",
+		"Friday": "09:00 am to 07:00 pm",
+		"Saturday": "09:00 am to 07:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0206",
+	"coordinates": [
+		103.8332058,
+		1.3037048
+	],
+	"svy21": [
+		27987.44,
+		31782.57
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

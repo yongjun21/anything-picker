@@ -1,0 +1,43 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "66361458",
+	"fax": "65576860",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "24/04/2017 to 23/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0115",
+	"address": "3 SIMEI STREET 6, EASTPOINT MALL, #02-27 Singapore 528833",
+	"doctorInCharge": [
+		{
+			"name": "SOH WEI WEN JASON",
+			"qualifications": [
+				"MBBS (University of Adelaide, Australia) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "15M0115",
+	"coordinates": [
+		103.9530245,
+		1.3427062
+	],
+	"svy21": [
+		41321.98,
+		36095.47
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"name": "THE HEART DOCTORS CLINIC",
+	"tel": "62565680",
+	"fax": "62565621",
+	"licensee": "THE HEART DOCTORS PTE. LTD.",
+	"licensePeriod": "19/06/2016 to 18/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0173",
+	"address": "820 THOMSON ROAD, MOUNT ALVERNIA HOSPITAL MEDICAL CENTRE D, #05-56 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "Soon Chao Yang",
+			"qualifications": [
+				"MB ChB (University of Otago, New Zealand) 1997",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 2001"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "14M0173",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

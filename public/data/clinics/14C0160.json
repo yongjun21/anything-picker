@@ -1,0 +1,58 @@
+{
+	"name": "FRESENIUS MEDICAL CARE BUKIT BATOK DIALYSIS CLINIC",
+	"tel": "65694753",
+	"fax": "65696753",
+	"licensee": "FRESENIUS MEDICAL CARE SINGAPORE PTE. LTD.",
+	"licensePeriod": "13/06/2016 to 12/06/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "14C0160",
+	"address": "BLK 213 BUKIT BATOK STREET 21, #01-213 Singapore 650213",
+	"doctorInCharge": [
+		{
+			"name": "Nikam Milind Digamber",
+			"qualifications": [
+				"MBBS (University of Mumbai, India) 2003",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2006"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "06:30 am to 10:30 pm",
+		"Tuesday": "06:30 am to 10:30 pm",
+		"Wednesday": "06:30 am to 10:30 pm",
+		"Thursday": "06:30 am to 10:30 pm",
+		"Friday": "06:30 am to 10:30 pm",
+		"Saturday": "06:30 am to 10:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "14C0160",
+	"coordinates": [
+		103.7524969,
+		1.3468185
+	],
+	"svy21": [
+		19005.44,
+		36550.01
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

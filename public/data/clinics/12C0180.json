@@ -1,0 +1,50 @@
+{
+	"name": "DENTAL FOCUS HOUGANG GREEN CLINIC",
+	"tel": "63860308",
+	"fax": "63860308",
+	"licensee": "LKDS (HOUGANG GREEN) PTE. LTD.",
+	"licensePeriod": "03/09/2016 to 02/09/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0180",
+	"address": "BLK 21 HOUGANG STREET 51, HOUGANG GREEN SHOPPING MALL, #01-34 Singapore 538719",
+	"doctorInCharge": [
+		{
+			"name": "SEOW KOK SIAM JOSEPH",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "12C0180",
+	"coordinates": [
+		103.887832,
+		1.3792453
+	],
+	"svy21": [
+		34066.66,
+		40135.52
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

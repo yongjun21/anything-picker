@@ -25,10 +25,8 @@
 	],
 	"operatingHours": {
 		"Public Holiday": "Closed",
-		"Monday and Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
-		"Tuesday and Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
-		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Monday to Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
 		"Saturday": "Closed",
-		"Sunday": "09:00 am to 12:30 pm"
+		"Sunday": "09:00 am to 12:00 pm"
 	}
 }

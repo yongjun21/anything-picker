@@ -26,6 +26,9 @@
 		"Community Health Assistance Scheme (CHAS)"
 	],
 	"operatingHours": {
-		"Monday to Sunday": "08:00 am to 11:00 pm"
+		"Public Holiday": "08:00 am to 01:00 pm",
+		"Monday to Friday": "08:00 am to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "08:00 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Sunday": "08:00 am to 06:00 pm"
 	}
 }

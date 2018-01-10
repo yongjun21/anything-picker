@@ -1,0 +1,50 @@
+{
+	"name": "SMILE CENTRAL CLINIC",
+	"tel": "63844451",
+	"fax": "63844481",
+	"licensee": "SMILE CENTRAL DENTAL HOUGANG PTE. LTD",
+	"licensePeriod": "25/06/2017 to 24/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0214",
+	"address": "90 HOUGANG AVENUE 10, HOUGANG MALL, #01-18 Singapore 538766",
+	"doctorInCharge": [
+		{
+			"name": "Goh Choon Guan Daniel",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 09:30 pm",
+		"Tuesday": "10:00 am to 09:30 pm",
+		"Wednesday": "10:00 am to 09:30 pm",
+		"Thursday": "10:00 am to 09:30 pm",
+		"Friday": "10:00 am to 09:30 pm",
+		"Saturday": "10:00 am to 05:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15D0214",
+	"coordinates": [
+		103.8937756,
+		1.3724949
+	],
+	"svy21": [
+		34728.12,
+		39389.12
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

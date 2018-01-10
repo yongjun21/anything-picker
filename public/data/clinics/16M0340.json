@@ -1,0 +1,42 @@
+{
+	"name": "ASSURANCE MEDICARE CLINIC AND SURGERY",
+	"tel": "63457810",
+	"fax": "63457810",
+	"licensee": "ASSURANCE MEDICARE PTE. LTD.",
+	"licensePeriod": "03/11/2016 to 02/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0340",
+	"address": "370 TANJONG KATONG ROAD, Singapore 437127",
+	"doctorInCharge": [
+		{
+			"name": "KOH ENG HOE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "16M0340",
+	"coordinates": [
+		103.8967285,
+		1.3028882
+	],
+	"svy21": [
+		35056.94,
+		31692.37
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

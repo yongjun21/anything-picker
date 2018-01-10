@@ -1,0 +1,52 @@
+{
+	"name": "EXECUTIVE HEALTH SCREENERS",
+	"tel": "69330244",
+	"fax": "65702049",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "06/07/2017 to 05/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0229",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA HOSPITAL, -WARD 2 LEVEL 2 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Lim Khim Yong Jeremy",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15M0229",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

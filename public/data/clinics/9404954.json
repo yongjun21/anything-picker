@@ -1,0 +1,51 @@
+{
+	"name": "TAY FAMILY CLINIC",
+	"tel": "62810981",
+	"fax": "62810981",
+	"licensee": "Tay Wee Sen",
+	"licensePeriod": "31/08/2017 to 30/08/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404954",
+	"address": "BLK 326 SERANGOON AVENUE 3, #01-376 Singapore 550326",
+	"doctorInCharge": [
+		{
+			"name": "Tay Wee Sen",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9404954",
+	"coordinates": [
+		103.868997,
+		1.350352
+	],
+	"svy21": [
+		31970.61,
+		36940.61
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

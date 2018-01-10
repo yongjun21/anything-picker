@@ -1,0 +1,54 @@
+{
+	"name": "Q & M DENTAL SURGERY (SELETAR)",
+	"tel": "67023738",
+	"fax": "62866866",
+	"licensee": "Q & M DENTAL SURGERY (HOUGANG PLAZA) PTE. LTD.",
+	"licensePeriod": "09/12/2016 to 08/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0368",
+	"address": "33 SENGKANG WEST AVENUE, THE SELETAR MALL, #04-16 Singapore 797653",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "14D0368",
+	"coordinates": [
+		103.8761255,
+		1.3914702
+	],
+	"svy21": [
+		32763.85,
+		41487.26
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

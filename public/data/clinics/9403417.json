@@ -1,0 +1,49 @@
+{
+	"name": "THE DRX CLINIC",
+	"tel": "63338046",
+	"fax": "67332983",
+	"licensee": "THE DRX CLINIC PTE. LTD.",
+	"licensePeriod": "30/05/2014 to 29/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403417",
+	"address": "302 ORCHARD ROAD, TONG BUILDING, #16-01 Singapore 238862",
+	"doctorInCharge": [
+		{
+			"name": "Hwee Peik Hum Angela",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 08:00 pm",
+		"Tuesday": "10:00 am to 08:00 pm",
+		"Wednesday": "10:00 am to 08:00 pm",
+		"Thursday": "10:00 am to 08:00 pm",
+		"Friday": "10:00 am to 08:00 pm",
+		"Saturday": "10:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403417",
+	"coordinates": [
+		103.8348274,
+		1.3039454
+	],
+	"svy21": [
+		28167.92,
+		31809.18
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

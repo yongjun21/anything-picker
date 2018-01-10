@@ -1,0 +1,48 @@
+{
+	"name": "KENSINGTON SQUARE MEDICAL CLINIC AND SURGERY",
+	"tel": "69084391",
+	"fax": "69084390",
+	"licensee": "KENSINGTON SQUARE MEDICAL CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "20/04/2017 to 19/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0111",
+	"address": "2 JALAN LOKAM, KENSINGTON SQUARE, #01-57 Singapore 537846",
+	"doctorInCharge": [
+		{
+			"name": "Low Jin Kheng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "17M0111",
+	"coordinates": [
+		103.8826959,
+		1.3456077
+	],
+	"svy21": [
+		33495.15,
+		36416.04
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"name": "CHNG CLINIC AND SURGERY",
+	"tel": "62504522",
+	"fax": "62533803",
+	"licensee": "CHNG ENG SOON",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400248",
+	"address": "BLK 178 TOA PAYOH CENTRAL, #01-236 Singapore 310178",
+	"doctorInCharge": [
+		{
+			"name": "CHNG ENG SOON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9400248",
+	"coordinates": [
+		103.8492645,
+		1.3335803
+	],
+	"svy21": [
+		29774.62,
+		35086.05
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

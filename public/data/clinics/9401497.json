@@ -1,0 +1,50 @@
+{
+	"name": "SIMEI MEDICAL CENTRE",
+	"tel": "67814823",
+	"fax": "67811078",
+	"licensee": "SIM NGAK SWEE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401497",
+	"address": "BLK 248 SIMEI ST 3, #01-104 Singapore 520248",
+	"doctorInCharge": [
+		{
+			"name": "SIM NGAK SWEE",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "06:00 pm to 09:00 pm",
+		"Tuesday": "06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 01:30 pm",
+		"Thursday": "06:00 pm to 09:00 pm",
+		"Friday": "06:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 01:30 pm"
+	},
+	"id": "9401497",
+	"coordinates": [
+		103.9535411,
+		1.3435938
+	],
+	"svy21": [
+		41379.47,
+		36193.62
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

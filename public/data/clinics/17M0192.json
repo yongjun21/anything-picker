@@ -1,0 +1,54 @@
+{
+	"name": "THE CHEERY CHILD CLINIC",
+	"tel": "67027108",
+	"fax": "68753917",
+	"licensee": "THE CHEERY CHILD CLINIC",
+	"licensePeriod": "30/06/2017 to 29/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0192",
+	"address": "1187 UPPER SERANGOON ROAD, THE MIDTOWN, #02-20 Singapore 533971",
+	"doctorInCharge": [
+		{
+			"name": "Zainal Muttakin Bin Abdul Rahman",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995",
+				"MRCPCH (Paed) (Royal College of Paediatrics and Child Health, United Kingdom) 2001",
+				"M Med (Paed) (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 01:30 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:30 am to 03:30 pm",
+		"Thursday": "09:30 am to 03:30 pm",
+		"Wednesday": "06:00 pm to 09:00 pm",
+		"Friday": "06:00 pm to 09:00 pm",
+		"Saturday": "Closed",
+		"Public Holiday": "Closed",
+		"Sunday": "09:30 am to 01:30 pm"
+	},
+	"id": "17M0192",
+	"coordinates": [
+		103.8952915,
+		1.3705045
+	],
+	"svy21": [
+		34896.84,
+		39169.02
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"name": "Q & M DENTAL SURGERY (BRADDELL)",
+	"tel": "63581098",
+	"fax": "63580082",
+	"licensee": "Q & M DENTAL SURGERY (BRADDELL) PTE. LTD.",
+	"licensePeriod": "11/03/2016 to 10/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0050",
+	"address": "BLK 111 LORONG 1 TOA PAYOH, #01-360 Singapore 310111",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Periodontology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "14D0050",
+	"coordinates": [
+		103.8453061,
+		1.3412371
+	],
+	"svy21": [
+		29334.09,
+		35932.71
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

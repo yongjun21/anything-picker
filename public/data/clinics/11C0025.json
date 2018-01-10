@@ -1,0 +1,58 @@
+{
+	"name": "NIHON PREMIUM CLINIC",
+	"tel": "63972002",
+	"fax": "63972112",
+	"licensee": "NIHON PREMIUM CLINIC PTE. LTD.",
+	"licensePeriod": "02/03/2017 to 01/03/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0025",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTER, SQUARE 2, #11-12/13/30 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Look Chee Meng Melvin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1993",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1993"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery",
+			"Obstetrics & Gynaecology",
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 08:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 08:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 08:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 08:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 08:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "10:00 am to 12:30 pm"
+	},
+	"id": "11C0025",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

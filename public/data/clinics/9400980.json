@@ -1,0 +1,50 @@
+{
+	"name": "LIM DENTAL SURGERY",
+	"tel": "62888328",
+	"fax": "62888328",
+	"licensee": "LIM KIAN TONG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400980",
+	"address": "BLK 208 HOUGANG ST 21, #01-205 Singapore 530208",
+	"doctorInCharge": [
+		{
+			"name": "LIM KIAN TONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:09 am to 12:12 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:09 am to 12:12 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "09:09 am to 12:12 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "09:09 am to 12:12 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Friday": "09:09 am to 12:12 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "09:09 am to 12:12 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400980",
+	"coordinates": [
+		103.8866361,
+		1.3586968
+	],
+	"svy21": [
+		33933.62,
+		37863.37
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

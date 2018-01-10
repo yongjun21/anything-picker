@@ -1,0 +1,46 @@
+{
+	"name": "HCA HOSPICE CARE CLINIC",
+	"tel": "62512561",
+	"fax": "63522030",
+	"licensee": "HCA HOSPICE CARE",
+	"licensePeriod": "20/05/2014 to 19/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400702",
+	"address": "BLK 12 JLN TAN TOCK SENG, Singapore 308437",
+	"doctorInCharge": [
+		{
+			"name": "Chong Poh Heng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Palliative Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Palliative Medicine"
+		]
+	},
+	"id": "9400702",
+	"coordinates": [
+		103.8492176,
+		1.3205772
+	],
+	"svy21": [
+		29769.4,
+		33648.24
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

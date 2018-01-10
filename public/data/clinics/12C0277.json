@@ -1,0 +1,53 @@
+{
+	"name": "LEE RESPIRATORY AND SLEEP CLINIC",
+	"tel": "62689838",
+	"fax": "62689938",
+	"licensee": "LEE RESPIRATORY AND SLEEP CLINIC PTE. LTD.",
+	"licensePeriod": "11/12/2016 to 10/12/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0277",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #08-27 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Lee Yeow Hian",
+			"qualifications": [
+				"MB ChB (Queen's University of Belfast, United Kingdom) 1997",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 2000",
+				"M Med (Sleep Medicine) (University of Sydney, Australia) 2007",
+				"FAMS (Respiratory Med) (Academy of Medicine, Singapore) 2012"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Intensive Care Medicine",
+			"Respiratory Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "12C0277",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

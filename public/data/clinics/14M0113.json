@@ -1,0 +1,42 @@
+{
+	"name": "A.L.L. MEDICAL CENTRE",
+	"tel": "63343213",
+	"fax": "63343639",
+	"licensee": "A.L.L. MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "07/05/2016 to 06/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0113",
+	"address": "8 SINARAN DRIVE, NOVENA SPECIALIST CENTER, #05-04 Singapore 307470",
+	"doctorInCharge": [
+		{
+			"name": "Tan Aik Guan Gerald",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "14M0113",
+	"coordinates": [
+		103.8447824,
+		1.3200301
+	],
+	"svy21": [
+		29275.81,
+		33587.74
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

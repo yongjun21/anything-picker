@@ -1,0 +1,56 @@
+{
+	"name": "FAMILY CARE MEDICAL CENTRE PTE LTD",
+	"tel": "63855177",
+	"fax": "63124792",
+	"licensee": "FAMILY CARE MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "30/11/2015 to 29/11/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15C0410",
+	"address": "BLK 916 Hougang Ave 9, #01-08 Singapore 530916",
+	"doctorInCharge": [
+		{
+			"name": "Lok Ying Fang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15C0410",
+	"coordinates": [
+		103.8842937,
+		1.3749129
+	],
+	"svy21": [
+		33672.91,
+		39656.46
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

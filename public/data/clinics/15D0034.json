@@ -1,0 +1,45 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64433081",
+	"fax": "64433081",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "06/02/2017 to 05/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0034",
+	"address": "2 TAMPINES AVENUE 3, ST. HILDA'S PRIMARY SCHOOL, Singapore 529706",
+	"doctorInCharge": [
+		{
+			"name": "NOELINE TAN",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "15D0034",
+	"coordinates": [
+		103.9370071,
+		1.3493857
+	],
+	"svy21": [
+		39539.38,
+		36833.97
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

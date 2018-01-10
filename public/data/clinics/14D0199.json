@@ -1,0 +1,51 @@
+{
+	"name": "LIVERPOOL DENTAL CARE",
+	"tel": "64560406",
+	"fax": "00000000",
+	"licensee": "LIVERPOOL DENTAL & AESTHETIC CLINIC PTE. LTD.",
+	"licensePeriod": "16/07/2016 to 15/07/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "14D0199",
+	"address": "BLK 704 ANG MO KIO AVENUE 8, #01-2559 Singapore 560704",
+	"doctorInCharge": [
+		{
+			"name": "JACQUELINE FENG KUO TING",
+			"qualifications": [
+				"BDS (University of Liverpool, United Kingdom) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 09:00 pm",
+		"Sunday": "09:00 am to 05:00 pm"
+	},
+	"id": "14D0199",
+	"coordinates": [
+		103.8472307,
+		1.3704071
+	],
+	"svy21": [
+		29548.25,
+		39158.18
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

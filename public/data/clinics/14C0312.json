@@ -1,0 +1,47 @@
+{
+	"name": "CLEMENTI DENTAL SURGERY PTE LTD",
+	"tel": "67761675",
+	"fax": "67761675",
+	"licensee": "CLEMENTI DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "16/10/2016 to 15/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14C0312",
+	"address": "BLK 431 CLEMENTI AVE 3, #01-324 Singapore 120431",
+	"doctorInCharge": [
+		{
+			"name": "SOH HUNG CHEOW",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "14C0312",
+	"coordinates": [
+		103.7625352,
+		1.3137744
+	],
+	"svy21": [
+		20122.48,
+		32896.13
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

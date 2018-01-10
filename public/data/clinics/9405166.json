@@ -1,0 +1,41 @@
+{
+	"name": "THE DENTAL CLINIC , KENT RIDGE",
+	"tel": "67731613",
+	"fax": "67731613",
+	"licensee": "Neo Tsun Han",
+	"licensePeriod": "04/05/2015 to 03/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405166",
+	"address": "20 LOWER KENT RIDGE ROAD, UNIVERSITY HEALTH CENTRE, #B1 Singapore 119080",
+	"doctorInCharge": [
+		{
+			"name": "Neo Tsun Han",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"id": "9405166",
+	"coordinates": [
+		103.7765233,
+		1.2990352
+	],
+	"svy21": [
+		21679.19,
+		31266.31
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

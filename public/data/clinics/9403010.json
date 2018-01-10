@@ -1,0 +1,46 @@
+{
+	"name": "EXXONMOBIL ASIA PACIFIC PTE. LTD. (MEDICAL CLINIC)",
+	"tel": "68671512",
+	"fax": "68671516",
+	"licensee": "EXXONMOBIL ASIA PACIFIC PTE. LTD.",
+	"licensePeriod": "02/04/2015 to 01/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403010",
+	"address": "1 AYER CHAWAN PLACE, Singapore 627871",
+	"doctorInCharge": [
+		{
+			"name": "NG CHYE KHEE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978",
+				"MSc (OM) (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Occupational Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "07:30 am to 04:30 am",
+		"Tuesday": "07:30 am to 04:30 am",
+		"Wednesday": "07:30 am to 04:30 am",
+		"Thursday": "07:30 am to 04:30 am",
+		"Friday": "07:30 am to 03:30 am"
+	},
+	"id": "9403010",
+	"coordinates": [
+		103.6861364,
+		1.2725841
+	],
+	"svy21": [
+		11619.76,
+		28341.87
+	],
+	"planningArea": "WI",
+	"neighbours": [
+		"JE"
+	]
+}

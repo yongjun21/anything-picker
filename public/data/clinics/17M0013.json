@@ -1,0 +1,42 @@
+{
+	"name": "CURAMED MEDICAL AND AESTHETIC CLINIC",
+	"licensee": "CuraMed Medical (Hougang) Pte. Ltd.",
+	"licensePeriod": "24/01/2017 to 23/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0013",
+	"address": "1187 UPPER SERANGOON ROAD, THE MIDTOWN, #01-54 Singapore 533971",
+	"doctorInCharge": [
+		{
+			"name": "Kan Hun Yee",
+			"qualifications": [
+				"BM (University of Southampton, United Kingdom) 2007",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2012",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0013",
+	"coordinates": [
+		103.8952915,
+		1.3705045
+	],
+	"svy21": [
+		34896.84,
+		39169.02
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

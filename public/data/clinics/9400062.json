@@ -1,0 +1,46 @@
+{
+	"name": "ARTHUR TAN HEART CLINIC",
+	"tel": "64755438",
+	"fax": "64755209",
+	"licensee": "TAN TEOW HIN ARTHUR",
+	"licensePeriod": "01/02/2014 to 31/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400062",
+	"address": "6 NAPIER RD, GLENEAGLES MEDICAL CENTRE, #04-07 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "TAN TEOW HIN ARTHUR",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1972",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1976",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1980",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 1981"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"id": "9400062",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

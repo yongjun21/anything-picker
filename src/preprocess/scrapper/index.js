@@ -7,7 +7,7 @@ import {clinic as clinicList} from '../../../data/clinicList.json'
 
 const queue = new ThrottledQueue(100)
 const debug = []
-const clinicSubset = clinicList.slice(0, 10)
+const clinicSubset = clinicList.slice(4000, 5000)
 const jobs = clinicSubset
   .map((id, i) => queue.push(fetchClinicInfo, id, clinicSubset.length - i))
 
@@ -28,7 +28,7 @@ function fetchClinicInfo (id, k) {
   }).then(res => cheerio.load(res.data))
     .then(parseClinicInfo)
     .then(result => {
-      fs.writeFile(`data/raw/${id}.json`, JSON.stringify(result, null, '\t'))
+      fs.writeFileSync(`data/raw/${id}.json`, JSON.stringify(result, null, '\t'))
     })
     .catch(err => {
       debug.push(id)
@@ -76,14 +76,14 @@ function parseClinicInfo ($) {
         .filter((i, e) => e.type === 'text' && e.data.trim().length > 0)
         .each(function () {
           const key = this.data.trim()
-          if (key === 'General Medical' || key === 'General Dental') {
-            result.detailedServices[key] = true
-          } else {
+          if ($(this).next().next('ul').length > 0) {
             const value = []
             $(this).nextAll('ul').eq(0).children().each((i, e) => {
               value.push($(e).text())
             })
             result.detailedServices[key] = value
+          } else {
+            result.detailedServices[key] = true
           }
         })
     } else if ($(this).children('h2').text() === 'Special Services approved by MOH') {

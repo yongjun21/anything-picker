@@ -1,0 +1,57 @@
+{
+	"name": "PANDAN CLINIC PTE LTD",
+	"tel": "65603186",
+	"fax": "65669036",
+	"licensee": "TAN WAH SAN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401278",
+	"address": "BLK 415 PANDAN GARDENS, #01-115 Singapore 600415",
+	"doctorInCharge": [
+		{
+			"name": "TAN WAH SAN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1973",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401278",
+	"coordinates": [
+		103.7482586,
+		1.3207654
+	],
+	"svy21": [
+		18533.66,
+		33669.21
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

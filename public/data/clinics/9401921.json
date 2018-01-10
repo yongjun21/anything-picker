@@ -1,0 +1,57 @@
+{
+	"name": "YANG & YAP CLINIC AND SURGERY (PTE LTD) / DR YANG ING HONG MEDICAL AND AESTHETIC CLINIC",
+	"tel": "64412481",
+	"fax": "64482821",
+	"licensee": "YANG ING HONG JOSEPH",
+	"licensePeriod": "01/01/2017 to 31/12/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401921",
+	"address": "BLK 537 BEDOK NORTH ST 3, #01-571 Singapore 460537",
+	"doctorInCharge": [
+		{
+			"name": "Yap Theresa",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2006"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 07:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 07:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 07:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 07:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 07:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401921",
+	"coordinates": [
+		103.9242365,
+		1.331773
+	],
+	"svy21": [
+		38118.22,
+		34886.4
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

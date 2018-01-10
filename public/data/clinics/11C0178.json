@@ -1,0 +1,53 @@
+{
+	"name": "ORTHOPAEDIC & ARTHRITIS CENTRE",
+	"tel": "63977077",
+	"fax": "63972202",
+	"licensee": "ORTHOPAEDIC & ARTHRITIS CENTRE PTE. LTD.",
+	"licensePeriod": "24/10/2015 to 23/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0178",
+	"address": "10 SINARAN DRIVE, SQUARE 2, NOVENA MEDICAL CENTER, #09-07/08 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Yang Kuang Ying",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1998"
+			],
+			"specialties": [
+				"Orthopaedic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Orthopaedic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm"
+	},
+	"id": "11C0178",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"name": "HO SURGICAL CLINIC",
+	"tel": "67344900",
+	"fax": "62359652",
+	"licensee": "HO SOON TECK",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400687",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #14-05 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "HO SOON TECK",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1966",
+				"FRACS (Gen Surg) (Royal Australasian College of Surgeons, Australia) 1970",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1971",
+				"FRCS (Gen Surg) (Royal College of Surgeons of England, United Kingdom) 1972",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 1974"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"id": "9400687",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

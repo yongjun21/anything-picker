@@ -1,6 +1,6 @@
 {
 	"name": "DENTAL CLINIC",
-	"tel": "64353756",
+	"tel": "62572783",
 	"fax": "64382248",
 	"licensee": "Health Promotion Board",
 	"licensePeriod": "12/01/2016 to 11/01/2018",
@@ -18,5 +18,9 @@
 	],
 	"detailedServices": {
 		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Thursday": "08:00 am to 05:30 pm",
+		"Friday to Friday": "08:00 am to 05:00 pm"
 	}
 }

@@ -1,0 +1,45 @@
+{
+	"name": "DP DENTAL",
+	"tel": "62820122",
+	"fax": "62865943",
+	"licensee": "DP DENTAL PTE. LTD.",
+	"licensePeriod": "16/07/2016 to 15/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9404525",
+	"address": "BLK 205 HOUGANG STREET 21, HEARTLAND MALL-KOVAN, #03-06/07/08/09 Singapore 530205",
+	"doctorInCharge": [
+		{
+			"name": "Yue Weng Cheu",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1999",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2008",
+				"MJDF RCS (England) (Royal College of Surgeons of England, United Kingdom) 2008"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"id": "9404525",
+	"coordinates": [
+		103.8851674,
+		1.3595418
+	],
+	"svy21": [
+		33770.17,
+		37956.8
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

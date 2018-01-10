@@ -1,0 +1,47 @@
+{
+	"name": "HEALTHTEETH DENTAL SURGERY PTE.LTD.",
+	"tel": "62445088",
+	"fax": "64443035",
+	"licensee": "HEALTHTEETH DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "09/06/2014 to 08/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404876",
+	"address": "BLK 18 BEDOK SOUTH ROAD, #01-75 Singapore 460018",
+	"doctorInCharge": [
+		{
+			"name": "Chow Weng Fatt",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "09:00 am to 03:00 pm"
+	},
+	"id": "9404876",
+	"coordinates": [
+		103.9347342,
+		1.320625
+	],
+	"svy21": [
+		39286.57,
+		33653.76
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

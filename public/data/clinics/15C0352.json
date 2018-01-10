@@ -1,0 +1,57 @@
+{
+	"name": "FRESENIUS MEDICAL CARE KOVAN DIALYSIS CLINIC",
+	"tel": "62848430",
+	"fax": "62848270",
+	"licensee": "FRESENIUS MEDICAL CARE SINGAPORE PTE. LTD.",
+	"licensePeriod": "14/10/2017 to 13/10/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "15C0352",
+	"address": "2 KOVAN ROAD, SIMON PLAZA, #01-08 Singapore 548008",
+	"doctorInCharge": [
+		{
+			"name": "Nikam Milind Digamber",
+			"qualifications": [
+				"MBBS (University of Mumbai, India) 2003",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2006"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "07:00 am to 10:00 pm",
+		"Tuesday": "07:00 am to 10:00 pm",
+		"Wednesday": "07:00 am to 10:00 pm",
+		"Thursday": "07:00 am to 10:00 pm",
+		"Friday": "07:00 am to 10:00 pm",
+		"Saturday": "07:00 am to 10:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "15C0352",
+	"coordinates": [
+		103.8849928,
+		1.361976
+	],
+	"svy21": [
+		33750.73,
+		38225.97
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

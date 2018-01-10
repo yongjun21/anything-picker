@@ -1,0 +1,39 @@
+{
+	"name": "HAN'S CLINIC",
+	"tel": "62981722",
+	"fax": "62981722",
+	"licensee": "HAN CHONG FONG STANLEY",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400639",
+	"address": "101 KITCHENER ROAD, JALAN BESAR PLAZA, #01-35 Singapore 208511",
+	"doctorInCharge": [
+		{
+			"name": "HAN CHONG FONG STANLEY",
+			"qualifications": [
+				"MBBS (University of Malaya, Singapore) 1960"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9400639",
+	"coordinates": [
+		103.8580667,
+		1.3086577
+	],
+	"svy21": [
+		30754.23,
+		32330.25
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

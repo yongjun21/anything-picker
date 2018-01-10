@@ -1,0 +1,44 @@
+{
+	"name": "C Y KOK CLINIC & SURGERY",
+	"tel": "64584777",
+	"fax": "64569983",
+	"licensee": "KOK CHIN YON",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400160",
+	"address": "BLK 157 ANG MO KIO AVE 4, #01-562 Singapore 560157",
+	"doctorInCharge": [
+		{
+			"name": "KOK CHIN YON",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9400160",
+	"coordinates": [
+		103.8393951,
+		1.3753056
+	],
+	"svy21": [
+		28676.24,
+		39699.82
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

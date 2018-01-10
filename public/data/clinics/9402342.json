@@ -1,0 +1,54 @@
+{
+	"name": "SINGAPORE WOMEN'S CLINIC (CLEMENTI)",
+	"tel": "67761966",
+	"fax": "67764988",
+	"licensee": "CHAN CHI KIONG CLIFTON",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9402342",
+	"address": "BLK 352 CLEMENTI AVE 2, #01-127 Singapore 120352",
+	"doctorInCharge": [
+		{
+			"name": "CHAN CHI KIONG CLIFTON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984",
+				"M Med (O&G) (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 04:30 pm",
+		"Tuesday": "10:00 am to 06:30 pm",
+		"Wednesday": "10:00 am to 04:30 pm",
+		"Thursday": "10:00 am to 06:30 pm",
+		"Friday": "10:00 am to 04:30 pm",
+		"Saturday": "10:00 am to 04:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402342",
+	"coordinates": [
+		103.7713506,
+		1.3142786
+	],
+	"svy21": [
+		21103.55,
+		32951.85
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

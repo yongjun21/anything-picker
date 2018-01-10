@@ -1,0 +1,53 @@
+{
+	"name": "NATIONAL HEALTHCARE GROUP POLYCLINICS (ANG MO KIO)",
+	"tel": "63553000",
+	"fax": "64585664",
+	"licensee": "NATIONAL HEALTHCARE GROUP POLYCLINICS",
+	"licensePeriod": "16/03/2015 to 15/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405111",
+	"address": "BLK 723 ANG MO KIO AVENUE 8, S(560723), BLK 720 AMK AVE 6 #02-4100/4102, #01-4136 Singapore 560720",
+	"doctorInCharge": [
+		{
+			"name": "Ng Ming Yann Karen",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405111",
+	"coordinates": [
+		103.8469903,
+		1.371801
+	],
+	"svy21": [
+		29521.5,
+		39312.31
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

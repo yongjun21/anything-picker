@@ -1,0 +1,52 @@
+{
+	"name": "MILFORD MEDICAL GROUP",
+	"tel": "62869993",
+	"fax": "62824338",
+	"licensee": "KWAN PAK MUN",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401111",
+	"address": "BLK 237 SERANGOON AVE 3, #01-116 Singapore 550237",
+	"doctorInCharge": [
+		{
+			"name": "KWAN PAK MUN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9401111",
+	"coordinates": [
+		103.8701346,
+		1.353812
+	],
+	"svy21": [
+		32097.2,
+		37323.2
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

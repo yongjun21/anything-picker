@@ -1,0 +1,56 @@
+{
+	"name": "EYE CARE CLINIC PTE LTD",
+	"tel": "67335188",
+	"fax": "67336266",
+	"licensee": "EYE CARE CLINIC PTE LTD",
+	"licensePeriod": "02/11/2014 to 01/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403835",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #03-08 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "HO KEE WAI TONY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"FRCS (Ophth) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1988",
+				"FRCOphth (Royal College of Ophthalmologists, United Kingdom) 1988",
+				"FAMS (Ophth) (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403835",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

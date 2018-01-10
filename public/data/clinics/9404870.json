@@ -1,0 +1,57 @@
+{
+	"name": "APPLE EYE CENTRE",
+	"tel": "62357000",
+	"fax": "62358000",
+	"licensee": "APPLE EYE CENTRE PTE. LTD.",
+	"licensePeriod": "05/06/2014 to 04/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404870",
+	"address": "290 ORCHARD ROAD, PARAGON, #11-01 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Yeo Kim Teck",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"FRCSEd (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 1988",
+				"FRCOphth (Royal College of Ophthalmologists, United Kingdom) 1989",
+				"FAMS (Ophth) (Academy of Medicine, Singapore) 1994"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404870",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

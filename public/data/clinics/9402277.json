@@ -1,0 +1,59 @@
+{
+	"name": "KU KIDNEY & MEDICAL CENTRE",
+	"tel": "67387388",
+	"fax": "67338878",
+	"licensee": "Gordon Ku",
+	"licensePeriod": "19/11/2016 to 18/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9402277",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #09-05/06 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "Gordon Ku",
+			"qualifications": [
+				"MBBS (University of Hong Kong, China, Hong Kong) 1965",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1970",
+				"FAMS (Academy of Medicine, Singapore) 1974",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1977",
+				"FRCP (Int Med) (Royal College of Physicians of London, United Kingdom) 1987"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Endocrinology",
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402277",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

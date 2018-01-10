@@ -1,0 +1,49 @@
+{
+	"name": "STILL ROAD DENTAL SURGERY PTE LTD",
+	"tel": "68410686",
+	"fax": "67417289",
+	"licensee": "LEE KOK SIONG",
+	"licensePeriod": "15/11/2015 to 14/11/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401555",
+	"address": "BLK 8 EUNOS CRESCENT, #01-2677 Singapore 400008",
+	"doctorInCharge": [
+		{
+			"name": "LEE KOK SIONG",
+			"qualifications": [
+				"BDSc (University of Melbourne, Australia) 1987"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "06:30 pm to 08:30 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401555",
+	"coordinates": [
+		103.9046866,
+		1.3211283
+	],
+	"svy21": [
+		35942.56,
+		33709.29
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

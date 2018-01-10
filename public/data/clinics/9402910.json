@@ -1,0 +1,48 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67731606",
+	"fax": "67731606",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402910",
+	"address": "BLK 100 DOVER ROAD, Singapore 139648",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wanyi",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9402910",
+	"coordinates": [
+		103.7854383,
+		1.3005408
+	],
+	"svy21": [
+		22671.35,
+		31432.77
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

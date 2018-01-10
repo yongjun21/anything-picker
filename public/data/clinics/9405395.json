@@ -1,0 +1,50 @@
+{
+	"name": "WOO MEDICAL & CARDIAC CLINIC",
+	"tel": "67336622",
+	"fax": "64738116",
+	"licensee": "Chua Lay Hoon",
+	"licensePeriod": "02/12/2013 to 01/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405395",
+	"address": "6 NAPIER RD, GLENEAGLES MEDICAL CENTRE, #03-09 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Chua Lay Hoon",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405395",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

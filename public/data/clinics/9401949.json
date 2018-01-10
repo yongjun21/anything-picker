@@ -1,0 +1,49 @@
+{
+	"name": "YIO CHU KANG NAM SENG DENTIST",
+	"tel": "64595418",
+	"fax": "64595418",
+	"licensee": "YEE NEE HONG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401949",
+	"address": "BLK 603 ANG MO KIO AVE 5, #01-2669 Singapore 560603",
+	"doctorInCharge": [
+		{
+			"name": "YEE NEE HONG",
+			"qualifications": [
+				"Dental Therapist Exam (Institute of Dental Health, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401949",
+	"coordinates": [
+		103.8357557,
+		1.3802008
+	],
+	"svy21": [
+		28271.22,
+		40241.11
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

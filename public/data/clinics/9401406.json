@@ -1,0 +1,52 @@
+{
+	"name": "ROCHOR MEDICAL CENTRE",
+	"tel": "97873633",
+	"fax": "62928868",
+	"licensee": "KHOO SWEE TUAN GEORGE",
+	"licensePeriod": "19/05/2016 to 18/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9401406",
+	"address": "BLK 635 VEERASAMY ROAD, #01-156 Singapore 200635",
+	"doctorInCharge": [
+		{
+			"name": "KHOO SWEE TUAN GEORGE",
+			"qualifications": [
+				"MBBS (University of Malaya, Singapore) 1954",
+				"DCH (Royal College of Physicians of London, United Kingdom) 1957"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:30 am to 05:00 pm",
+		"Tuesday": "09:30 am to 05:00 pm",
+		"Wednesday": "09:30 am to 05:00 pm",
+		"Thursday": "09:30 am to 05:00 pm",
+		"Friday": "09:30 am to 05:00 pm"
+	},
+	"id": "9401406",
+	"coordinates": [
+		103.8552187,
+		1.3065885
+	],
+	"svy21": [
+		30437.28,
+		32101.45
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

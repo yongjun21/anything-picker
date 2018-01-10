@@ -1,0 +1,48 @@
+{
+	"name": "ADVANCED DENTAL CLINIC PASIR RIS PTE LTD",
+	"tel": "63843384",
+	"fax": "63843384",
+	"licensee": "ADVANCED DENTAL CLINIC PASIR RIS PTE. LTD.",
+	"licensePeriod": "17/04/2016 to 16/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0286",
+	"address": "BLK 259 PASIR RIS STREET 21, LOYANG POINT, #02-32 Singapore 510259",
+	"doctorInCharge": [
+		{
+			"name": "chua chew kiat simon jude",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 pm to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:00 pm to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "15D0286",
+	"coordinates": [
+		103.9645985,
+		1.3664536
+	],
+	"svy21": [
+		42609.9,
+		38721.42
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

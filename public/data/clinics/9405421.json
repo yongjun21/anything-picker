@@ -1,0 +1,47 @@
+{
+	"name": "JURPOINT MEDICARE CLINIC",
+	"tel": "67940070",
+	"fax": "68623629",
+	"licensee": "MUKUNDAN NAIR",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405421",
+	"address": "1 JURONG WEST CENTRAL 2, JURONG POINT SHOPPING CENTRE, #B1A-20B Singapore 648886",
+	"doctorInCharge": [
+		{
+			"name": "MUKUNDAN NAIR",
+			"qualifications": [
+				"LMSSA (Society of Apothecaries of London, United Kingdom) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:00 pm"
+	},
+	"id": "9405421",
+	"coordinates": [
+		103.706685,
+		1.3394527
+	],
+	"svy21": [
+		13907.03,
+		35735.76
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

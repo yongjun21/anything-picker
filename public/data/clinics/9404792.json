@@ -1,0 +1,52 @@
+{
+	"name": "LEE & LEE (DENTAL SURGEONS) PTE LTD",
+	"tel": "67882262",
+	"fax": "67899349",
+	"licensee": "Lee & Lee (Dental Surgeons) Pte Ltd",
+	"licensePeriod": "28/03/2014 to 27/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404792",
+	"address": "BLK 506 TAMPINES CENTRAL 1, #01-361 (LEVEL 2) Singapore 520506",
+	"doctorInCharge": [
+		{
+			"name": "Choo Keang Hai",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1990",
+				"DGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 07:00 pm",
+		"Tuesday": "09:00 am to 07:00 pm",
+		"Wednesday": "09:00 am to 07:00 pm",
+		"Thursday": "09:00 am to 07:00 pm",
+		"Friday": "09:00 am to 07:00 pm",
+		"Saturday": "09:00 am to 02:00 pm"
+	},
+	"id": "9404792",
+	"coordinates": [
+		103.9459374,
+		1.3559524
+	],
+	"svy21": [
+		40533.19,
+		37560.13
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

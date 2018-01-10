@@ -1,0 +1,58 @@
+{
+	"name": "CARITAS CLINIC",
+	"tel": "67489284",
+	"fax": "67421955",
+	"licensee": "CHAN CHEOW JU",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400172",
+	"address": "BLK 304 UBI AVE 1, #01-127 Singapore 400304",
+	"doctorInCharge": [
+		{
+			"name": "CHAN CHEOW JU",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 1986",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 07:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 07:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 07:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 07:30 pm",
+		"Friday": "08:30 am to 12:00 am, 02:00 pm to 04:00 pm",
+		"Saturday": "09:30 am to 12:00 am",
+		"Sunday": "09:45 am to 12:00 am"
+	},
+	"id": "9400172",
+	"coordinates": [
+		103.9012286,
+		1.3295526
+	],
+	"svy21": [
+		35557.69,
+		34640.79
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

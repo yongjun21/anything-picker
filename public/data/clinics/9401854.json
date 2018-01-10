@@ -1,0 +1,49 @@
+{
+	"name": "WEE MEDICAL CLINIC",
+	"tel": "67775755",
+	"fax": "63411452",
+	"licensee": "WEE HONG NEO",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401854",
+	"address": "BLK 378 CLEMENTI AVE 5, #01-342 Singapore 120378",
+	"doctorInCharge": [
+		{
+			"name": "WEE HONG NEO",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1971"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:30 am to 01:00 pm",
+		"Tuesday": "09:30 am to 01:00 pm",
+		"Thursday": "09:30 am to 01:00 pm",
+		"Friday": "09:30 am to 01:00 pm",
+		"Saturday": "09:30 am to 01:00 pm"
+	},
+	"id": "9401854",
+	"coordinates": [
+		103.767417,
+		1.317412
+	],
+	"svy21": [
+		20665.79,
+		33298.34
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

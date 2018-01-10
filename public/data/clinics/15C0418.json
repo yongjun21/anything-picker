@@ -1,0 +1,44 @@
+{
+	"name": "LIFE FAMILY CLINIC",
+	"tel": "64563535",
+	"fax": "64561630",
+	"licensee": "FAMILY CLINIC AND URGENT CARE CENTRE PTE. LTD.",
+	"licensePeriod": "11/12/2015 to 10/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15C0418",
+	"address": "BLK 713 ANG MO KIO AVE 6, #01-4052 Singapore 560713",
+	"doctorInCharge": [
+		{
+			"name": "LIM KIM SHOW",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "15C0418",
+	"coordinates": [
+		103.8465163,
+		1.3714581
+	],
+	"svy21": [
+		29468.75,
+		39274.39
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"name": "SIGLAP CLINIC PTE LTD",
+	"tel": "63488389",
+	"fax": "63488390",
+	"licensee": "SIGLAP CLINIC PTE. LTD.",
+	"licensePeriod": "06/02/2017 to 05/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15C0038",
+	"address": "BLK 308 TELOK KURAU ROAD, VIBES @ EAST COAST, #01-08 Singapore 423858",
+	"doctorInCharge": [
+		{
+			"name": "CHUA THIAM ENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "08:00 am to 12:30 pm",
+		"Monday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:30 pm",
+		"Tuesday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:30 pm",
+		"Wednesday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:30 pm",
+		"Thursday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:30 pm",
+		"Friday": "08:00 am to 12:30 pm",
+		"Saturday": "08:00 am to 12:30 pm",
+		"Sunday": "08:00 am to 12:30 pm"
+	},
+	"id": "15C0038",
+	"coordinates": [
+		103.9117201,
+		1.3094828
+	],
+	"svy21": [
+		36725.36,
+		32421.61
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

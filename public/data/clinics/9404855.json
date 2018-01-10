@@ -1,0 +1,49 @@
+{
+	"name": "NEE SOON CLINIC",
+	"tel": "67580311",
+	"fax": "67573265",
+	"licensee": "LOW KHEE HERNG",
+	"licensePeriod": "16/05/2014 to 15/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404855",
+	"address": "BLK 779 YISHUN AVE 2, #01-1547 Singapore 760779",
+	"doctorInCharge": [
+		{
+			"name": "LOW KHEE HERNG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1970"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 03:00 pm to 06:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 03:00 pm to 06:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 03:00 pm to 06:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 03:00 pm to 06:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 03:00 pm to 06:00 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9404855",
+	"coordinates": [
+		103.8332613,
+		1.4221446
+	],
+	"svy21": [
+		27993.63,
+		44879.04
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

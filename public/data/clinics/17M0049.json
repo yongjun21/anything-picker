@@ -1,0 +1,45 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "67690571",
+	"fax": "67690629",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "28/02/2017 to 27/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0049",
+	"address": "17 PETIR ROAD, HILLION MALL, #02-07/08 Singapore 678278",
+	"doctorInCharge": [
+		{
+			"name": "Gan Ow Tin",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "17M0049",
+	"coordinates": [
+		103.7628428,
+		1.378431
+	],
+	"svy21": [
+		20156.92,
+		40045.53
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

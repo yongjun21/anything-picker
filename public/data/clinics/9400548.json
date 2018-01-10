@@ -1,0 +1,49 @@
+{
+	"name": "FRANKEL CLINIC",
+	"tel": "64455457",
+	"fax": "64455457",
+	"licensee": "GAN CHENG HOE",
+	"licensePeriod": "13/04/2017 to 12/04/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400548",
+	"address": "BLK 697 EAST COAST ROAD, #01-01 Singapore 459060",
+	"doctorInCharge": [
+		{
+			"name": "GAN CHENG HOE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "09:00 am to 12:00 pm",
+		"Monday": "09:00 am to 12:00 pm, 02:30 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:30 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:30 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:30 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:30 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400548",
+	"coordinates": [
+		103.9221707,
+		1.3120573
+	],
+	"svy21": [
+		37888.4,
+		32706.32
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

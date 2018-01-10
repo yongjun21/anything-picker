@@ -1,0 +1,44 @@
+{
+	"name": "SOO KHEE CHEE SURGERY",
+	"tel": "64433238",
+	"fax": "64438138",
+	"licensee": "TIMUR INVESTMENT PTE. LTD.",
+	"licensePeriod": "24/11/2017 to 23/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0374",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #10-09 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "Oh Swee Oon Ann",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 1975",
+				"MPH (Public Health) (Columbia University, United States) 1987"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery",
+			"Respiratory Medicine"
+		]
+	},
+	"id": "17M0374",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

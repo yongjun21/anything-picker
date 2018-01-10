@@ -1,0 +1,56 @@
+{
+	"name": "WOH HUP-NKF DIALYSIS CENTRE",
+	"tel": "62990200",
+	"fax": "64679231",
+	"licensee": "THE NATIONAL KIDNEY FOUNDATION",
+	"licensePeriod": "26/05/2017 to 25/05/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "11C0072",
+	"address": "BLK 1 GHIM MOH ROAD, #01-358 Singapore 270001",
+	"doctorInCharge": [
+		{
+			"name": "Mooppil Nandakumar",
+			"qualifications": [
+				"MBBS (University of Kerala, India) 1975",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "07:00 am to 11:00 pm",
+		"Tuesday": "07:00 am to 11:00 pm",
+		"Wednesday": "07:00 am to 11:00 pm",
+		"Thursday": "07:00 am to 11:00 pm",
+		"Friday": "07:00 am to 11:00 pm",
+		"Saturday": "07:00 am to 11:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "11C0072",
+	"coordinates": [
+		103.786855,
+		1.3128798
+	],
+	"svy21": [
+		22829.05,
+		32797.14
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

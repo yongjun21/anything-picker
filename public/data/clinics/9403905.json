@@ -1,0 +1,48 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64549387",
+	"fax": "64549387",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "28/03/2015 to 27/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403905",
+	"address": "9 BISHAN ST 22,, CATHOLIC HIGH SCHOOL (PRIMARY), Singapore 579767",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wanyi",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403905",
+	"coordinates": [
+		103.8448747,
+		1.3547231
+	],
+	"svy21": [
+		29286.06,
+		37423.91
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

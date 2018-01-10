@@ -1,0 +1,51 @@
+{
+	"name": "GREENLIFE DENTAL CLINIC",
+	"tel": "67771712",
+	"fax": "67780775",
+	"licensee": "GREENLIFE DENTAL CLINIC (CLEMENTI) PTE. LTD.",
+	"licensePeriod": "05/02/2017 to 04/02/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "13C0025",
+	"address": "BLK 446 CLEMENTI AVENUE 3, #01-187 Singapore 120446",
+	"doctorInCharge": [
+		{
+			"name": "Au Eong Kah Chuan",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "13C0025",
+	"coordinates": [
+		103.7649278,
+		1.3125131
+	],
+	"svy21": [
+		20388.75,
+		32756.65
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

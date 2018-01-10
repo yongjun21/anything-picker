@@ -1,0 +1,55 @@
+{
+	"name": "DRS.ERNEST LAM & PARTNERS DENTAL SURGEONS",
+	"tel": "68362262",
+	"fax": "62351078",
+	"licensee": "Drs Ernest Lam & Partners Pte. Ltd.",
+	"licensePeriod": "08/11/2013 to 07/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403100",
+	"address": "163 TANGLIN RD, TANGLIN MALL, #03-20 Singapore 247933",
+	"doctorInCharge": [
+		{
+			"name": "LAM CHOON EN ERNEST",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1980",
+				"DGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1997",
+				"MClinDent (Prosthodontics) (London) (University of London, United Kingdom) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Paediatric Dentistry"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 pm to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9403100",
+	"coordinates": [
+		103.8238528,
+		1.3048434
+	],
+	"svy21": [
+		26946.55,
+		31908.48
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"name": "TRINITY MEDICAL & AESTHETIC CLINIC",
+	"tel": "62602822",
+	"fax": "62607543",
+	"licensee": "Trinity Medical & Aesthetic Clinic Pte. Ltd.",
+	"licensePeriod": "06/06/2016 to 05/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404181",
+	"address": "BLK 151 Simei Street 1, #01-33 Singapore 520151",
+	"doctorInCharge": [
+		{
+			"name": "Chong Wai Yip",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2005",
+				"GDMH (National University of Singapore, Singapore) 2014"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9404181",
+	"coordinates": [
+		103.9572689,
+		1.3457548
+	],
+	"svy21": [
+		41794.31,
+		36432.6
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

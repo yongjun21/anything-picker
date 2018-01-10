@@ -1,0 +1,56 @@
+{
+	"name": "BUKIT PANJANG FAMILY CLINIC",
+	"tel": "67636838",
+	"fax": "67636838",
+	"licensee": "LIM & TAN MEDICAL PTE. LTD.",
+	"licensePeriod": "30/04/2016 to 29/04/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403569",
+	"address": "BLK 524A JELAPANG ROAD, GREENRIDGE SHOPPING CENTRE, #02-13 Singapore 671524",
+	"doctorInCharge": [
+		{
+			"name": "LIM HEUK YEW",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"FRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 1999",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 03:30 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:00 am to 03:30 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:00 am to 03:30 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:00 am to 03:30 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:00 am to 03:30 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "08:00 am to 12:30 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9403569",
+	"coordinates": [
+		103.7662285,
+		1.3854057
+	],
+	"svy21": [
+		20533.73,
+		40816.74
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

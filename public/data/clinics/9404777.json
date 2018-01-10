@@ -1,0 +1,54 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "67347355",
+	"fax": "67340201",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "31/03/2014 to 30/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404777",
+	"address": "391B ORCHARD RD, NGEE ANN CITY TOWER B, #08-06 Singapore 238874",
+	"doctorInCharge": [
+		{
+			"name": "Leong Hoe Chng Janelene",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "08:00 am to 01:00 pm"
+	},
+	"id": "9404777",
+	"coordinates": [
+		103.8346761,
+		1.3024242
+	],
+	"svy21": [
+		28151.08,
+		31640.97
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

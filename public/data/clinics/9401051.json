@@ -1,0 +1,55 @@
+{
+	"name": "MARINE PARADE CLINIC",
+	"tel": "62419065",
+	"fax": "64434549",
+	"licensee": "KONG KUM LENG",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401051",
+	"address": "BLK 59 MARINE TERRACE, #01-81 Singapore 440059",
+	"doctorInCharge": [
+		{
+			"name": "KONG KUM LENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1970",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1979"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9401051",
+	"coordinates": [
+		103.9147218,
+		1.3058597
+	],
+	"svy21": [
+		37059.43,
+		32020.99
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

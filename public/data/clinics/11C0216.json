@@ -1,0 +1,50 @@
+{
+	"name": "Q & M DENTAL SURGERY (SIMEI MRT)",
+	"tel": "67416819",
+	"fax": "67896360",
+	"licensee": "Q & M DENTAL SURGERY (HOUGANG PLAZA) PTE. LTD.",
+	"licensePeriod": "18/09/2017 to 17/09/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0216",
+	"address": "30 SIMEI STREET 3, SIMEI MRT STATION, #01-08/09 Singapore 529888",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "11C0216",
+	"coordinates": [
+		103.9533717,
+		1.3432029
+	],
+	"svy21": [
+		41360.61,
+		36150.4
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

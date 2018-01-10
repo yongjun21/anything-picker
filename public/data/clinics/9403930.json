@@ -1,0 +1,54 @@
+{
+	"name": "THOMSON WOMEN'S CLINIC",
+	"tel": "65690668",
+	"fax": "65690662",
+	"licensee": "THOMSON WOMEN'S CLINIC HOLDINGS PTE LTD",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403930",
+	"address": "BLK 372 BUKIT BATOK STREET 31, #01-376 Singapore 650372",
+	"doctorInCharge": [
+		{
+			"name": "Wong Mun Tat",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 1994",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 2000",
+				"M Med (O&G) (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 06:00 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 06:00 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 06:00 pm to 08:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 06:00 pm to 08:30 pm",
+		"Saturday": "09:00 am to 11:30 pm"
+	},
+	"id": "9403930",
+	"coordinates": [
+		103.7512137,
+		1.3586692
+	],
+	"svy21": [
+		18862.68,
+		37860.4
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

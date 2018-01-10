@@ -1,0 +1,47 @@
+{
+	"name": "UNITY DENTICARE",
+	"tel": "65904407",
+	"fax": "65904385",
+	"licensee": "NTUC Health Co-operative Ltd",
+	"licensePeriod": "23/07/2016 to 22/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0207",
+	"address": "BLK 1 TANJONG PAGAR PLAZA, #01-55 Singapore 082001",
+	"doctorInCharge": [
+		{
+			"name": "Toh kwai Mui",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 08:00 pm",
+		"Tuesday": "09:00 am to 08:00 pm",
+		"Wednesday": "09:00 am to 08:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "14D0207",
+	"coordinates": [
+		103.8423932,
+		1.2755962
+	],
+	"svy21": [
+		29009.93,
+		28674.47
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

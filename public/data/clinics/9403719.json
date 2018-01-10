@@ -1,0 +1,58 @@
+{
+	"name": "HEALTHMARK PIONEER MALL CLINIC",
+	"tel": "68613100",
+	"fax": "68613182",
+	"licensee": "United Vision Holdings Pte. Ltd.",
+	"licensePeriod": "05/10/2014 to 04/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403719",
+	"address": "638 Jurong West Street 61, Pioneer Mall, #02-08 Singapore 640638",
+	"doctorInCharge": [
+		{
+			"name": "Adrian Tan Yong Kuan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"Dip OM (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 01:00 pm",
+		"Monday": "08:30 am to 01:30 pm, 04:30 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 01:30 pm, 04:30 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 01:30 pm, 04:30 pm to 10:00 pm",
+		"Thursday": "08:30 am to 01:30 pm, 04:30 pm to 10:00 pm",
+		"Friday": "08:30 am to 01:30 pm, 04:30 pm to 10:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "08:30 am to 01:00 pm"
+	},
+	"id": "9403719",
+	"coordinates": [
+		103.6971748,
+		1.3416924
+	],
+	"svy21": [
+		12848.66,
+		35983.47
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

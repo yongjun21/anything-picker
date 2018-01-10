@@ -1,0 +1,50 @@
+{
+	"name": "GANGNAM LASER CLINIC",
+	"tel": "90188415",
+	"fax": "65326933",
+	"licensee": "DERMASOLUTIONS PTE. LTD.",
+	"licensePeriod": "23/12/2015 to 22/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13M0354",
+	"address": "1 MARITIME SQUARE, HARBOURFRONT CENTRE, #03-55 Singapore 099253",
+	"doctorInCharge": [
+		{
+			"name": "Si Khin Yuen Gary",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "11:00 am to 08:00 pm",
+		"Tuesday": "11:00 am to 08:00 pm",
+		"Wednesday": "11:00 am to 08:00 pm",
+		"Thursday": "11:00 am to 08:00 pm",
+		"Friday": "09:30 am to 06:30 pm",
+		"Saturday": "09:30 am to 04:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "13M0354",
+	"coordinates": [
+		103.8202433,
+		1.2639699
+	],
+	"svy21": [
+		26544.82,
+		27388.9
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

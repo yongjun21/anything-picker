@@ -1,0 +1,49 @@
+{
+	"name": "LUMINOUS DENTAL CLINIC @ BEDOK POINT",
+	"tel": "64811618",
+	"licensee": "LUMINOUS DENTAL CLINIC @ BEDOK POINT PTE. LTD",
+	"licensePeriod": "10/03/2017 to 09/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0068",
+	"address": "BLK 799 NEW UPPER CHANGI ROAD, BEDOK POINT, #03-27 Singapore 467351",
+	"doctorInCharge": [
+		{
+			"name": "LEE TZE HONG KEVIN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "09:30 am to 09:00 pm",
+		"Tuesday": "09:30 am to 09:00 pm",
+		"Wednesday": "09:30 am to 09:00 pm",
+		"Thursday": "09:30 am to 09:00 pm",
+		"Friday": "09:30 am to 09:00 pm",
+		"Saturday": "09:30 am to 05:00 pm",
+		"Sunday": "09:30 am to 01:00 pm"
+	},
+	"id": "15D0068",
+	"coordinates": [
+		103.9323601,
+		1.3249614
+	],
+	"svy21": [
+		39022.33,
+		34133.24
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

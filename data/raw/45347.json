@@ -24,5 +24,11 @@
 		"Specialist Medical": [
 			"Dermatology"
 		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
 	}
 }

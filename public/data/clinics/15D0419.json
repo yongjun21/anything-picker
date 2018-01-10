@@ -1,0 +1,49 @@
+{
+	"name": "SHUANG DENTISTRY",
+	"tel": "62030010",
+	"licensee": "SHUANG PACIFIC PTE. LTD.",
+	"licensePeriod": "11/12/2015 to 10/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0419",
+	"address": "BLK 317B YISHUN AVENUE 9, Yishun Greenwalk, #01-284 Singapore 762317",
+	"doctorInCharge": [
+		{
+			"name": "Yap Thai Huah",
+			"qualifications": [
+				"BDS (University of Otago, New Zealand) 2013"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 09:00 pm",
+		"Sunday": "09:00 am to 09:00 pm"
+	},
+	"id": "15D0419",
+	"coordinates": [
+		103.8429504,
+		1.4341688
+	],
+	"svy21": [
+		29071.88,
+		46208.62
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

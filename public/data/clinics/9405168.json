@@ -1,0 +1,55 @@
+{
+	"name": "BEDOK DAY & NIGHT CLINIC",
+	"tel": "64441104",
+	"fax": "64441104",
+	"licensee": "Bedok Day & Night Clinic Pte. Ltd.",
+	"licensePeriod": "11/11/2017 to 10/05/2018",
+	"licenseClass": "[ < 1 Year ( 1C ) ]",
+	"hciCode": "9405168",
+	"address": "BLK 418 BEDOK NORTH AVENUE 2, #01-85 Singapore 460418",
+	"doctorInCharge": [
+		{
+			"name": "WONG CHOO WAI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 03:30 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "09:00 am to 03:30 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "09:00 am to 03:30 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "09:00 am to 03:30 pm, 06:30 pm to 09:30 pm",
+		"Friday": "09:00 am to 03:30 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "09:30 am to 12:30 pm",
+		"Public Holiday": "09:30 am to 12:30 pm",
+		"Sunday": "09:30 am to 12:30 pm"
+	},
+	"id": "9405168",
+	"coordinates": [
+		103.9300365,
+		1.3285642
+	],
+	"svy21": [
+		38763.72,
+		34531.61
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "KELINIK MAJU",
+	"tel": "67422933",
+	"fax": "67422933",
+	"licensee": "Abdul Rasheed",
+	"licensePeriod": "05/02/2014 to 04/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400830",
+	"address": "BLK 414 Eunos Road 5, #01-60 Singapore 400414",
+	"doctorInCharge": [
+		{
+			"name": "Abdul Rasheed",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1967"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9400830",
+	"coordinates": [
+		103.8982207,
+		1.3181156
+	],
+	"svy21": [
+		35222.97,
+		33376.14
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

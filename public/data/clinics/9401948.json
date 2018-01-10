@@ -1,0 +1,50 @@
+{
+	"name": "YIO CHU KANG MRT CLINIC PTE LTD",
+	"tel": "64598278",
+	"fax": "64590891",
+	"licensee": "Yio Chu Kang MRT Clinic Pte Ltd",
+	"licensePeriod": "30/10/2016 to 29/10/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401948",
+	"address": "BLK 635 Ang Mo Kio Ave 6, #01-5125 Singapore 560635",
+	"doctorInCharge": [
+		{
+			"name": "Koh Tee Lock Terence",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 12:15 pm, 02:00 pm to 03:15 pm, 05:30 pm to 08:15 pm",
+		"Tuesday": "08:00 am to 12:15 pm, 02:00 pm to 03:15 pm, 05:30 pm to 08:15 pm",
+		"Wednesday": "08:00 am to 12:15 pm, 02:00 pm to 03:15 pm, 05:30 pm to 08:15 pm",
+		"Thursday": "08:00 am to 12:15 pm, 02:00 pm to 03:15 pm, 05:30 pm to 08:15 pm",
+		"Friday": "08:00 am to 12:15 pm, 02:00 pm to 03:15 pm, 05:30 pm to 08:15 pm"
+	},
+	"id": "9401948",
+	"coordinates": [
+		103.8423784,
+		1.380769
+	],
+	"svy21": [
+		29008.25,
+		40303.93
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

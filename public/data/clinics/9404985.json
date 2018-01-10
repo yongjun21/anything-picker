@@ -1,0 +1,57 @@
+{
+	"name": "PARKWAY CANCER CENTRE",
+	"tel": "67370733",
+	"fax": "67377002",
+	"licensee": "PARKWAY CANCER CENTRE",
+	"licensePeriod": "09/10/2014 to 08/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404985",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH HOSPITAL, #02-00 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Tan Wu Meng",
+			"qualifications": [
+				"MB Bchir (University of Cambridge, United Kingdom) 2004",
+				"PhD (University of Cambridge, United Kingdom) 2004",
+				"M Med (Int Med) (National University of Singapore, Singapore) 2009",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2009"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404985",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

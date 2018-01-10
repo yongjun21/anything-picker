@@ -1,0 +1,58 @@
+{
+	"name": "BRACES & AESTHETICS DENTAL CLINIC PTE LTD",
+	"tel": "67322706",
+	"fax": "67322706",
+	"licensee": "Braces & Aesthetics Dental Clinic Pte. Ltd.",
+	"licensePeriod": "06/10/2014 to 05/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404983",
+	"address": "10 SINARAN DRIVE, SQUARE 2, #10-36 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Soh Jen",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2000",
+				"MDS (National University of Singapore, Singapore) 2000",
+				"FAM (Singapore) (Academy of Medicine, Singapore, Singapore) 2003",
+				"PhD (Groningen) (State University of Groningen, Netherlands) 2006"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "10:30 am to 12:00 pm, 01:00 pm to 06:30 pm",
+		"Tuesday": "10:30 am to 12:00 pm, 01:00 pm to 06:30 pm",
+		"Wednesday": "10:30 am to 12:00 pm, 01:00 pm to 06:30 pm",
+		"Thursday": "Closed",
+		"Friday": "10:30 am to 12:00 pm, 01:00 pm to 06:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404983",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"name": "HOUGANG FAMILY MEDICINE CLINIC @ CI YUAN COMMUNITY CLUB",
+	"tel": "63153323",
+	"fax": "63156730",
+	"licensee": "HOUGANG FAMILY MEDICINE CLINIC PTE. LTD.",
+	"licensePeriod": "09/09/2017 to 08/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0198",
+	"address": "51 HOUGANG AVENUE 9, #02-01 Singapore 538776",
+	"doctorInCharge": [
+		{
+			"name": "Yee Jenn Jet Michael",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 09:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "15M0198",
+	"coordinates": [
+		103.8829319,
+		1.3753225
+	],
+	"svy21": [
+		33521.35,
+		39701.75
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

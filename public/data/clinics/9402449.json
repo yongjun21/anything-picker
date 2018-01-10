@@ -1,0 +1,44 @@
+{
+	"name": "FAITH CLINIC (SIMEI)",
+	"tel": "64448019",
+	"fax": "67884303",
+	"licensee": "NG TSORNG CHINN",
+	"licensePeriod": "14/04/2017 to 13/04/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9402449",
+	"address": "BLK 139 SIMEI ST 1, #01-10 Singapore 520139",
+	"doctorInCharge": [
+		{
+			"name": "NG TSORNG CHINN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9402449",
+	"coordinates": [
+		103.9565613,
+		1.3466835
+	],
+	"svy21": [
+		41715.57,
+		36535.28
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

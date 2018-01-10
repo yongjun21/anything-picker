@@ -1,0 +1,50 @@
+{
+	"name": "MEDICUS CLINIC & SURGERY",
+	"tel": "65657770",
+	"fax": "00000000",
+	"licensee": "TAN KOK JIN",
+	"licensePeriod": "31/07/2017 to 30/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401086",
+	"address": "BLK 451 JURONG WEST ST 42, #01-186 Singapore 640451",
+	"doctorInCharge": [
+		{
+			"name": "TAN KOK JIN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978",
+				"MSc (OM) (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "07:30 pm to 09:30 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Wednesday": "07:30 pm to 09:30 pm",
+		"Thursday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401086",
+	"coordinates": [
+		103.7185016,
+		1.3518787
+	],
+	"svy21": [
+		15222.16,
+		37109.7
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

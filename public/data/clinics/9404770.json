@@ -1,0 +1,44 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "68840494",
+	"fax": "68922273",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "10/03/2014 to 09/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404770",
+	"address": "BLK 80 Woodlands Drive 17, Singapore 737888",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9404770",
+	"coordinates": [
+		103.7906075,
+		1.428967
+	],
+	"svy21": [
+		23246.9,
+		45633.47
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

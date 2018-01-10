@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67662367",
+	"fax": "67662367",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402904",
+	"address": "BLK 11 JELAPANG RD, Singapore 677744",
+	"doctorInCharge": [
+		{
+			"name": "Tham Sai Soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9402904",
+	"coordinates": [
+		103.7677945,
+		1.3858892
+	],
+	"svy21": [
+		20708.01,
+		40870.21
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

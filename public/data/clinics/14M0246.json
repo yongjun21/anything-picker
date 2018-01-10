@@ -1,0 +1,55 @@
+{
+	"name": "ONCOCARE CANCER CENTRE",
+	"tel": "67337890",
+	"fax": "67337891",
+	"licensee": "BROOKLINE MEDICAL PTE. LTD.",
+	"licensePeriod": "19/08/2016 to 18/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0246",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #02-17/18/19 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Tay Miah Hiang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1999",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": [
+				"Medical Oncology",
+				"Palliative Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "14M0246",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

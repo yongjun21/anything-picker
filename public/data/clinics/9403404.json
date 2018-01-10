@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "68932148",
+	"fax": "68932148",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "13/08/2015 to 12/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403404",
+	"address": "BLK 20 CHOA CHU KANG AVENUE 2, Singapore 689905",
+	"doctorInCharge": [
+		{
+			"name": "THAM SAI SOO",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403404",
+	"coordinates": [
+		103.7418329,
+		1.3777589
+	],
+	"svy21": [
+		17818.78,
+		39971.29
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

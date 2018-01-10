@@ -1,0 +1,45 @@
+{
+	"name": "ONEDOCTORS FAMILY CLINIC",
+	"tel": "65542918",
+	"fax": "65542718",
+	"licensee": "ONEDOCTORS (AMK) PTE. LTD.",
+	"licensePeriod": "15/04/2014 to 14/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405547",
+	"address": "BLK 710 ANG MO KIO AVENUE 8, #01-2613 Singapore 560710",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wei Liang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9405547",
+	"coordinates": [
+		103.8481868,
+		1.3710458
+	],
+	"svy21": [
+		29654.66,
+		39228.8
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

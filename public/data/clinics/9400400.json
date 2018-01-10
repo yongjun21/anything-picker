@@ -1,0 +1,53 @@
+{
+	"name": "DRS CHUA & PARTNERS PTE LTD",
+	"tel": "62210607",
+	"fax": "62241918",
+	"licensee": "CHUA HUA ENG DANIEL",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400400",
+	"address": "1 TANJONG PAGAR PLAZA, #01-10 Singapore 082001",
+	"doctorInCharge": [
+		{
+			"name": "CHUA HUA ENG DANIEL",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1970",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1974"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9400400",
+	"coordinates": [
+		103.8423932,
+		1.2755962
+	],
+	"svy21": [
+		29009.93,
+		28674.47
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

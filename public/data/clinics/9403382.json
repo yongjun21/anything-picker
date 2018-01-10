@@ -1,0 +1,44 @@
+{
+	"name": "BELINDA'S CLINIC FOR CHILDREN",
+	"tel": "67345833",
+	"fax": "67345840",
+	"licensee": "Murugasu Belinda",
+	"licensePeriod": "11/07/2015 to 10/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403382",
+	"address": "3 Mount Elizabeth, Mt Elizabeth Medical Centre, #15-17 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Murugasu Belinda",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981",
+				"M Med (Paed) (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"id": "9403382",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

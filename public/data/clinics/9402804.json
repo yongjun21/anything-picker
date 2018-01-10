@@ -1,0 +1,48 @@
+{
+	"name": "MILLENNIUM DENTAL SURGEONS PTE LTD",
+	"tel": "62510686",
+	"fax": "62510698",
+	"licensee": "MILLENNIUM DENTAL SURGEONS PTE. LTD.",
+	"licensePeriod": "12/02/2015 to 11/02/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402804",
+	"address": "BLK 503 BISHAN ST 11, #01-446 Singapore 570503",
+	"doctorInCharge": [
+		{
+			"name": "BENG SUI-HSIANG SHAWN",
+			"qualifications": [
+				"BDSc (University of Western Australia, Australia) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Friday": "07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 02:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9402804",
+	"coordinates": [
+		103.8480475,
+		1.3490324
+	],
+	"svy21": [
+		29639.17,
+		36794.67
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

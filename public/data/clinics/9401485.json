@@ -1,0 +1,51 @@
+{
+	"name": "SHERATON MEDICAL CLINIC",
+	"tel": "63864088",
+	"fax": "63868801",
+	"licensee": "YAP YONG SANG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401485",
+	"address": "BLK 681 HOUGANG AVE 8, #01-843 Singapore 530681",
+	"doctorInCharge": [
+		{
+			"name": "YAP YONG SANG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9401485",
+	"coordinates": [
+		103.8856792,
+		1.3729784
+	],
+	"svy21": [
+		33827.09,
+		39442.56
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

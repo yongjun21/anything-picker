@@ -1,0 +1,53 @@
+{
+	"name": "CHEONG FAMILY CLINIC PTE LTD",
+	"tel": "62975125",
+	"fax": "62977332",
+	"licensee": "CHEONG CHIN LEE ANGELA",
+	"licensePeriod": "18/03/2017 to 17/03/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402131",
+	"address": "BLK 45 OWEN RD, #01-293 Singapore 210045",
+	"doctorInCharge": [
+		{
+			"name": "CHEONG CHIN LEE ANGELA",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9402131",
+	"coordinates": [
+		103.8508255,
+		1.3155957
+	],
+	"svy21": [
+		29948.35,
+		33097.41
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

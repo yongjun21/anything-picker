@@ -1,0 +1,51 @@
+{
+	"name": "JCL DENTAL SURGERY",
+	"tel": "63431091",
+	"fax": "63431091",
+	"licensee": "Jacqueline Catherine John",
+	"licensePeriod": "07/06/2015 to 06/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403965",
+	"address": "BLK 5 Upper Aljunied Lane, #01-42 Singapore 360005",
+	"doctorInCharge": [
+		{
+			"name": "Jacqueline Catherine John",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "06:30 pm to 09:00 pm",
+		"Tuesday": "09:30 am to 11:30 am",
+		"Wednesday": "09:30 am to 03:00 pm",
+		"Thursday": "06:30 pm to 09:00 pm",
+		"Friday": "10:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "09:30 am to 12:30 pm",
+		"Sunday": "09:30 am to 12:30 pm"
+	},
+	"id": "9403965",
+	"coordinates": [
+		103.8798985,
+		1.3337287
+	],
+	"svy21": [
+		33183.86,
+		35102.5
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"name": "CHNG DENTAL SURGERY",
+	"tel": "62547024",
+	"fax": "62547024",
+	"licensee": "CHNG JOO LAM",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400249",
+	"address": "BLK 2 BALESTIER ROAD, #01-679 Singapore 320002",
+	"doctorInCharge": [
+		{
+			"name": "CHNG JOO LAM",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1969"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9400249",
+	"coordinates": [
+		103.8429355,
+		1.3258962
+	],
+	"svy21": [
+		29070.26,
+		34236.38
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "YEO CLINIC",
+	"tel": "65660601",
+	"fax": "65606792",
+	"licensee": "YEO KHEE HONG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401935",
+	"address": "BLK 134 BT BATOK WEST AVE 6, #01-447 Singapore 650134",
+	"doctorInCharge": [
+		{
+			"name": "YEO KHEE HONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9401935",
+	"coordinates": [
+		103.7445096,
+		1.3515909
+	],
+	"svy21": [
+		18116.56,
+		37077.75
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "68449291",
+	"fax": "63112390",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "07/03/2017 to 06/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13M0348",
+	"address": "BLK 203 BEDOK NORTH STREET 1, #01-467 Singapore 460203",
+	"doctorInCharge": [
+		{
+			"name": "Ooi Poh Hin Patrick",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "13M0348",
+	"coordinates": [
+		103.9291946,
+		1.3257446
+	],
+	"svy21": [
+		38670.04,
+		34219.83
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

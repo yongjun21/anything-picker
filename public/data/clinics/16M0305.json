@@ -1,0 +1,50 @@
+{
+	"name": "RENALTEAM DIALYSIS CENTRE YISHUN",
+	"tel": "64849501",
+	"fax": "63380382",
+	"licensee": "RENALTEAM PTE LTD",
+	"licensePeriod": "03/10/2016 to 02/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0305",
+	"address": "BLK 701B YISHUN AVENUE 5, GOLDEN PALMS, #02-612 Singapore 762701",
+	"doctorInCharge": [
+		{
+			"name": "Lim Choo Gee",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 2000",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2006"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"id": "16M0305",
+	"coordinates": [
+		103.8273843,
+		1.4298338
+	],
+	"svy21": [
+		27339.6,
+		45729.27
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

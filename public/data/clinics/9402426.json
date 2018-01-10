@@ -1,0 +1,43 @@
+{
+	"name": "YIM MEDICAL CENTRE (ADMIRALTY MRT)",
+	"tel": "68939181",
+	"fax": "68939183",
+	"licensee": "YIM LI JEN JEAN",
+	"licensePeriod": "09/02/2015 to 08/02/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402426",
+	"address": "BLK 678 WOODLANDS AVE 6, #01-722 Singapore 730678",
+	"doctorInCharge": [
+		{
+			"name": "YIM LI JEN JEAN",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9402426",
+	"coordinates": [
+		103.8012931,
+		1.4399837
+	],
+	"svy21": [
+		24436.06,
+		46851.62
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "Q & M DENTAL SURGERY (BT BATOK)",
+	"tel": "65696116",
+	"fax": "65620172",
+	"licensee": "Q & M DENTAL SURGERY (GOMBAK MRT) PTE. LTD.",
+	"licensePeriod": "04/10/2015 to 03/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0160",
+	"address": "BLK 151 BUKIT BATOK STREET 11, #01-248 Singapore 650151",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "11C0160",
+	"coordinates": [
+		103.7442115,
+		1.348747
+	],
+	"svy21": [
+		18083.37,
+		36763.29
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

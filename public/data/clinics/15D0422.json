@@ -1,0 +1,47 @@
+{
+	"name": "CASA DENTAL (HOLLAND)",
+	"tel": "68730451",
+	"fax": "68730452",
+	"licensee": "CASA DENTAL (HOLLAND) PTE. LTD.",
+	"licensePeriod": "14/12/2015 to 13/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0422",
+	"address": "BLK 45 HOLLAND DRIVE, #01-353 Singapore 270045",
+	"doctorInCharge": [
+		{
+			"name": "lee joke nan",
+			"qualifications": [
+				"BDSc (University of Melbourne, Australia) 2008"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 01:00 pm, 02:00 pm to 08:30 pm",
+		"Tuesday": "10:00 am to 01:00 pm, 02:00 pm to 08:30 pm",
+		"Wednesday": "10:00 am to 01:00 pm, 02:00 pm to 08:30 pm",
+		"Thursday": "10:00 am to 01:00 pm, 02:00 pm to 08:30 pm",
+		"Friday": "10:00 am to 01:00 pm, 02:00 pm to 08:30 pm",
+		"Saturday": "10:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Sunday": "10:00 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "15D0422",
+	"coordinates": [
+		103.7929359,
+		1.3086179
+	],
+	"svy21": [
+		23505.78,
+		32325.87
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

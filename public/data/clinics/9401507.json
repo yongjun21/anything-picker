@@ -1,0 +1,49 @@
+{
+	"name": "SINGAPORE CANCER SOCIETY",
+	"tel": "64999133",
+	"fax": "64999140",
+	"licensee": "Singapore Cancer Society",
+	"licensePeriod": "03/06/2017 to 02/06/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401507",
+	"address": "BLK 9 BISHAN PLACE, JUNCTION 8 OFFICE TOWER, #06-05 Singapore 579837",
+	"doctorInCharge": [
+		{
+			"name": "Hafidza Binte Mohd Said",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 04:00 pm"
+	},
+	"id": "9401507",
+	"coordinates": [
+		103.8487608,
+		1.350482
+	],
+	"svy21": [
+		29718.55,
+		36954.96
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

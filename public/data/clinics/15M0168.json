@@ -1,0 +1,59 @@
+{
+	"name": "HEARTLAND FAMILY CLINIC",
+	"tel": "62500655",
+	"fax": "62502803",
+	"licensee": "HEARTLAND FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "05/06/2017 to 04/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0168",
+	"address": "BLK 333C YISHUN STREET 31, #01-167 Singapore 763333",
+	"doctorInCharge": [
+		{
+			"name": "Lee Kwang How",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2006",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2012",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2013",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2014"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "06:00 pm to 09:00 pm"
+	},
+	"id": "15M0168",
+	"coordinates": [
+		103.8457902,
+		1.43189
+	],
+	"svy21": [
+		29387.9,
+		45956.64
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

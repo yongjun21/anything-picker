@@ -1,0 +1,50 @@
+{
+	"name": "SHENTON DENTAL SURGERY",
+	"tel": "63333360",
+	"fax": "63333361",
+	"licensee": "HO HAR LIAN",
+	"licensePeriod": "27/11/2017 to 26/11/2018",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"hciCode": "9401482",
+	"address": "1 COLEMAN STREET, THE ADELPHI, #03-20 Singapore 179803",
+	"doctorInCharge": [
+		{
+			"name": "HO HAR LIAN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1982",
+				"MFGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1999"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm"
+	},
+	"id": "9401482",
+	"coordinates": [
+		103.8511842,
+		1.291185
+	],
+	"svy21": [
+		29988.3,
+		30398.2
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

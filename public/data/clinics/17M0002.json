@@ -1,0 +1,41 @@
+{
+	"name": "FULLERTON HEALTH @ GLOBALFOUNDRIES",
+	"tel": "66703333",
+	"fax": "66700455",
+	"licensee": "FULLERTON HEALTHCARE GROUP PTE. LIMITED",
+	"licensePeriod": "04/01/2017 to 03/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0002",
+	"address": "60 WOODLANDS IND PARK D ST 2, FAB 7 GLOBALFOUNDRIES, #03-00 Singapore 738406",
+	"doctorInCharge": [
+		{
+			"name": "Ong Kong Yiow Elton",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0002",
+	"coordinates": [
+		103.767572,
+		1.4394608
+	],
+	"svy21": [
+		20683.42,
+		46793.89
+	],
+	"planningArea": "SK",
+	"neighbours": [
+		"BP",
+		"LK",
+		"MD",
+		"CC",
+		"WD",
+		"CK",
+		"WC"
+	]
+}

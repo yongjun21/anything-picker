@@ -1,0 +1,48 @@
+{
+	"name": "ISLAND FAMILY CLINIC (SENGKANG)",
+	"tel": "63842759",
+	"fax": "63842759",
+	"licensee": "IFC SENGKANG PTE. LTD.",
+	"licensePeriod": "14/05/2017 to 13/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0146",
+	"address": "BLK 279 SENGKANG EAST AVENUE, #01-05 Singapore 540279",
+	"doctorInCharge": [
+		{
+			"name": "LAI TIEN YEW JEFFREY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "15M0146",
+	"coordinates": [
+		103.8929955,
+		1.3862184
+	],
+	"svy21": [
+		34641.27,
+		40906.58
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

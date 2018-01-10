@@ -1,0 +1,53 @@
+{
+	"name": "CHANG CLINIC & SURGERY",
+	"tel": "62216955",
+	"fax": "62216337",
+	"licensee": "CHANG CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "24/06/2016 to 23/06/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9403519",
+	"address": "BLK 7 EVERTON PARK, #01-21 Singapore 080007",
+	"doctorInCharge": [
+		{
+			"name": "CHANG CHEAN SENG STEPHEN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "09:00 pm to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9403519",
+	"coordinates": [
+		103.8386805,
+		1.2769243
+	],
+	"svy21": [
+		28596.74,
+		28821.33
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

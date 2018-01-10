@@ -1,0 +1,53 @@
+{
+	"name": "THOMSON DENTAL SURGEONS",
+	"tel": "67379831",
+	"fax": "67344185",
+	"licensee": "Chay Weng Fook",
+	"licensePeriod": "25/05/2015 to 24/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402614",
+	"address": "8 SINARAN DRIVE, Novena Specialist Center, #05-12/13 Singapore 307470",
+	"doctorInCharge": [
+		{
+			"name": "Chay Weng Fook",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 02:00 pm"
+	},
+	"id": "9402614",
+	"coordinates": [
+		103.8447824,
+		1.3200301
+	],
+	"svy21": [
+		29275.81,
+		33587.74
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

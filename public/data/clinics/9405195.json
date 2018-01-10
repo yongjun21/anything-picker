@@ -1,0 +1,51 @@
+{
+	"name": "BRIGHT SMILE DENTAL SURGERY PTE. LTD.",
+	"tel": "62746800",
+	"fax": "62741083",
+	"licensee": "BRIGHT SMILE DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "29/05/2015 to 28/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405195",
+	"address": "BLK 18 JALAN MEMBINA, #01-05 Singapore 164018",
+	"doctorInCharge": [
+		{
+			"name": "CHONG TUCK FUNG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 08:30 pm",
+		"Tuesday": "09:00 am to 08:30 pm",
+		"Wednesday": "09:00 am to 08:30 pm",
+		"Thursday": "09:00 am to 08:30 pm",
+		"Friday": "09:00 am to 08:30 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405195",
+	"coordinates": [
+		103.8267854,
+		1.2856974
+	],
+	"svy21": [
+		27272.92,
+		29791.41
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

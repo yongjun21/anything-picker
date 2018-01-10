@@ -1,0 +1,53 @@
+{
+	"name": "NYAM ENDOSCOPY CENTRE",
+	"tel": "68369909",
+	"fax": "68369919",
+	"licensee": "Nyam Endoscopy Pte. Ltd.",
+	"licensePeriod": "10/06/2017 to 09/06/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405091",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #17-17 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Nyam Ngian Kwong Denis Christopher",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1990",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1991",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405091",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"name": "LE MINT'S DENTAL SURGERY",
+	"tel": "63386123",
+	"fax": "63444312",
+	"licensee": "LE MINT'S DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "20/08/2016 to 19/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0249",
+	"address": "1 COLEMAN STREET, THE ADELPHI, #01-04 Singapore 179803",
+	"doctorInCharge": [
+		{
+			"name": "LEE FUEN FUEN",
+			"qualifications": [
+				"BDENTSc (University of Dublin, Ireland) 1997",
+				"MFGDP (UK) (Royal College of Surgeons of England, United Kingdom) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 01:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 01:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 01:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 01:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 01:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 01:00 pm to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "14D0249",
+	"coordinates": [
+		103.8511842,
+		1.291185
+	],
+	"svy21": [
+		29988.3,
+		30398.2
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

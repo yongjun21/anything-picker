@@ -1,0 +1,59 @@
+{
+	"name": "OON_CH CLINIC",
+	"tel": "67378720",
+	"fax": "62548571",
+	"licensee": "OON CHONG HAU",
+	"licensePeriod": "19/11/2016 to 18/11/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400167",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #05-02 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "OON CHONG HAU",
+			"qualifications": [
+				"MB Bchir (University of Cambridge, United Kingdom) 1972",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1975",
+				"Dip Phy Rehab Med (Royal College of Physicians, United Kingdom) 1980",
+				"FAMS (Academy of Medicine, Singapore) 1981",
+				"FACC (American College of Cardiology, United States) 1994",
+				"FRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1997",
+				"FRCP (Lond) (Royal College of Physicians of London, United Kingdom) 1998"
+			],
+			"specialties": [
+				"Internal Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Internal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400167",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

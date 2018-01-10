@@ -1,0 +1,46 @@
+{
+	"name": "DHOBY DENTAL SURGERY",
+	"tel": "68367553",
+	"fax": "68367553",
+	"licensee": "SMILE CREATION PTE. LTD.",
+	"licensePeriod": "08/01/2016 to 07/01/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "14C0004",
+	"address": "150 ORCHARD ROAD, ORCHARD PLAZA, #02-09 Singapore 238841",
+	"doctorInCharge": [
+		{
+			"name": "Onn Lok Sang",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1991",
+				"MSc (University of London, United Kingdom) 1999",
+				"M Orth RCS (England) (Royal College of Surgeons of England, United Kingdom) 2000"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"id": "14C0004",
+	"coordinates": [
+		103.8411501,
+		1.3012573
+	],
+	"svy21": [
+		28871.58,
+		31511.94
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

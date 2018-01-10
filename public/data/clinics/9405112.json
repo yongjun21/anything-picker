@@ -1,0 +1,46 @@
+{
+	"name": "THE EYE & AESTHETICS CLINIC",
+	"tel": "68844726",
+	"fax": "68844316",
+	"licensee": "THE EYE & AESTHETICS CLINIC PTE. LTD.",
+	"licensePeriod": "05/02/2017 to 04/02/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405112",
+	"address": "3 TEMASEK BOULEVARD, SUNTEC CITY MALL, #B1-124 Singapore 038983",
+	"doctorInCharge": [
+		{
+			"name": "Chuah Chin Tek",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"FRCSEd (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 2000",
+				"M Med (Ophth) (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"id": "9405112",
+	"coordinates": [
+		103.8590144,
+		1.2959319
+	],
+	"svy21": [
+		30859.72,
+		30923.1
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

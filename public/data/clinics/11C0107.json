@@ -1,0 +1,49 @@
+{
+	"name": "DOVER DENTAL SURGERY",
+	"tel": "67790233",
+	"fax": "67762851",
+	"licensee": "DOVER DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "29/07/2015 to 28/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0107",
+	"address": "BLK 28 DOVER CRESCENT, MULTI STOREY CAR PARK, #01-87 Singapore 130028",
+	"doctorInCharge": [
+		{
+			"name": "KEITH ALAN LIEW",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2002",
+				"MFGDP(UK) (Royal College of Surgeons of England, United Kingdom) 2006"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "11C0107",
+	"coordinates": [
+		103.7816972,
+		1.3047636
+	],
+	"svy21": [
+		22255.01,
+		31899.7
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

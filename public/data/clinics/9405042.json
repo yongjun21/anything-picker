@@ -1,0 +1,52 @@
+{
+	"name": "KIDS CLINIC @ BISHAN",
+	"tel": "63568909",
+	"fax": "63569336",
+	"licensee": "KIDS CLINIC @ BISHAN PTE. LTD.",
+	"licensePeriod": "12/12/2014 to 11/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405042",
+	"address": "BLK 116 BISHAN STREET 12, BISHAN VIEW, #01-28 Singapore 570116",
+	"doctorInCharge": [
+		{
+			"name": "OH MENG CHOO",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997",
+				"MRCPCH (Paed) (Royal College of Paediatrics and Child Health, United Kingdom) 2001",
+				"M Med (Paed) (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm",
+		"Thursday": "09:00 am to 01:00 pm",
+		"Friday": "09:00 am to 01:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405042",
+	"coordinates": [
+		103.8493161,
+		1.3478007
+	],
+	"svy21": [
+		29780.35,
+		36658.48
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "ICON SOC MOUNT ELIZABETH MEDICAL CLINIC",
+	"tel": "67378000",
+	"fax": "67379149",
+	"licensee": "ICON SOC PTE LTD",
+	"licensePeriod": "24/02/2017 to 23/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17C0044",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #17-03/04 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "HSIEH WEN SON",
+			"qualifications": [
+				"MD (Johns Hopkins University, United States) 1994",
+				"Board Cert (Int Med) (American Board of Internal Medicine, United States) 1998",
+				"Board Cert (Med Oncology) (American Board of Internal Medicine, United States) 2000"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	},
+	"id": "17C0044",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

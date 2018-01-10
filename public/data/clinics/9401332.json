@@ -1,0 +1,55 @@
+{
+	"name": "PREMIER CLINIC & SURGERY PTE LTD",
+	"tel": "64562982",
+	"fax": "64535316",
+	"licensee": "PREMIER CLINIC & SURGERY PTE LTD",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401332",
+	"address": "BLK 631 ANG MO KIO AVE 4, #01-936 Singapore 560631",
+	"doctorInCharge": [
+		{
+			"name": "Quek Meng Poo",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1975"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:30 am to 12:30 am, 02:30 pm to 04:30 pm, 07:15 pm to 09:00 pm",
+		"Tuesday": "09:30 am to 12:30 am, 02:30 pm to 04:30 pm, 07:15 pm to 09:00 pm",
+		"Wednesday": "09:30 am to 12:30 am, 02:30 pm to 04:30 pm, 07:15 pm to 09:00 pm",
+		"Thursday": "09:30 am to 12:15 pm",
+		"Friday": "Closed",
+		"Saturday": "09:30 am to 12:30 pm",
+		"Sunday": "09:30 am to 12:30 pm"
+	},
+	"id": "9401332",
+	"coordinates": [
+		103.8407357,
+		1.3795573
+	],
+	"svy21": [
+		28825.43,
+		40169.95
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

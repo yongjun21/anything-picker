@@ -1,0 +1,39 @@
+{
+	"name": "GK MEDICAL GROUP",
+	"tel": "62973303",
+	"fax": "62973303",
+	"licensee": "GK MEDICAL GROUP PTE. LTd.",
+	"licensePeriod": "07/09/2016 to 06/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0267",
+	"address": "235 JALAN BESAR, #01-01 Singapore 208909",
+	"doctorInCharge": [
+		{
+			"name": "Lee Yin San",
+			"qualifications": [
+				"MBBS (University of Adelaide, Australia) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0267",
+	"coordinates": [
+		103.8578213,
+		1.309646
+	],
+	"svy21": [
+		30726.93,
+		32439.53
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

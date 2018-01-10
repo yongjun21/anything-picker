@@ -1,0 +1,51 @@
+{
+	"name": "SENGKANG DENTAL SURGERY",
+	"tel": "63889882",
+	"fax": "62880818",
+	"licensee": "TEO HIOW HOONG",
+	"licensePeriod": "11/01/2017 to 10/01/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404344",
+	"address": "BLK 118 RIVERVALE DRIVE, RIVERVALE PLAZA, #02-19 Singapore 540118",
+	"doctorInCharge": [
+		{
+			"name": "TEO HIOW HOONG",
+			"qualifications": [
+				"BDSc (University of Queensland, Australia) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 08:30 pm",
+		"Tuesday": "09:30 am to 08:30 pm",
+		"Wednesday": "09:30 am to 08:30 pm",
+		"Thursday": "09:30 am to 08:30 pm",
+		"Friday": "09:30 am to 08:30 pm",
+		"Saturday": "09:30 am to 12:30 pm",
+		"Sunday": "09:30 am to 12:30 pm"
+	},
+	"id": "9404344",
+	"coordinates": [
+		103.901841,
+		1.3853374
+	],
+	"svy21": [
+		35625.67,
+		40809.19
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

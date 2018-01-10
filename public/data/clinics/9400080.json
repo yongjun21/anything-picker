@@ -1,0 +1,53 @@
+{
+	"name": "AZIZ CLINIC FOR WOMEN PTE LTD",
+	"tel": "68420220",
+	"fax": "68460084",
+	"licensee": "ABDUL AZIZ BIN MOHD ALI SUJAK",
+	"licensePeriod": "01/05/2015 to 30/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400080",
+	"address": "18 JALAN MASJID, KEMBANGAN PLAZA, #01-08 Singapore 418944",
+	"doctorInCharge": [
+		{
+			"name": "ABDUL AZIZ BIN MOHD ALI SUJAK",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:30 pm",
+		"Saturday": "09:00 am to 03:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400080",
+	"coordinates": [
+		103.9126428,
+		1.3203726
+	],
+	"svy21": [
+		36828.01,
+		33625.75
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

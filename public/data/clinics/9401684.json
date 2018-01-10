@@ -1,0 +1,65 @@
+{
+	"name": "THE EDINBURGH CLINIC",
+	"tel": "67634500",
+	"fax": "67634501",
+	"licensee": "TAN TZE LEE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401684",
+	"address": "BLK 306 CHOA CHU KANG AVE 4, #01-685 Singapore 680306",
+	"doctorInCharge": [
+		{
+			"name": "TAN TZE LEE",
+			"qualifications": [
+				"MB ChB (University of Edinburgh, United Kingdom) 1987",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1992",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2010",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2015",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2016",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2016",
+				"FAMS (Family Medicine) (Academy of Medicine, Singapore) 2017"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401684",
+	"coordinates": [
+		103.742878,
+		1.3849567
+	],
+	"svy21": [
+		17935.11,
+		40767.19
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

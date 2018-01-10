@@ -1,0 +1,48 @@
+{
+	"name": "G H GOH DENTAL SURGERY",
+	"tel": "62733133",
+	"fax": "62733133",
+	"licensee": "GOH GUAN HUAT",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400557",
+	"address": "BLK 161 BT MERAH CENTRAL, #01-3731 Singapore 150161",
+	"doctorInCharge": [
+		{
+			"name": "GOH GUAN HUAT",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1973"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 08:00 pm",
+		"Tuesday": "09:00 am to 08:00 pm",
+		"Wednesday": "09:00 am to 08:00 pm",
+		"Thursday": "09:00 am to 08:00 pm",
+		"Friday": "09:00 am to 08:00 pm",
+		"Saturday": "09:00 am to 02:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400557",
+	"coordinates": [
+		103.8160061,
+		1.2839123
+	],
+	"svy21": [
+		26073.27,
+		29594.02
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

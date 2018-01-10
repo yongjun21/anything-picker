@@ -1,0 +1,51 @@
+{
+	"name": "AEON MEDICAL AND AESTHETIC CENTRE",
+	"tel": "67332002",
+	"fax": "67332025",
+	"licensee": "ALPHA OMEGA MEDICAL PTE. LTD.",
+	"licensePeriod": "17/11/2017 to 16/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0098",
+	"address": "9 SCOTTS ROAD, SCOTTS MEDICAL CENTER, PACIFIC PLAZA, #06-01/02/03 Singapore 228210",
+	"doctorInCharge": [
+		{
+			"name": "Kim Michael James",
+			"qualifications": [
+				"MD (Seoul National University, Korea, South) 2000"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "01:00 pm to 09:00 pm",
+		"Tuesday": "10:00 am to 09:00 pm",
+		"Wednesday": "10:00 am to 06:30 pm",
+		"Thursday": "10:00 am to 09:00 pm",
+		"Friday": "01:00 pm to 09:00 pm",
+		"Saturday": "10:00 am to 04:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "14M0098",
+	"coordinates": [
+		103.8321282,
+		1.306547
+	],
+	"svy21": [
+		27867.52,
+		32096.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

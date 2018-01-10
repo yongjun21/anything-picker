@@ -1,0 +1,43 @@
+{
+	"name": "6-10 CLINIC & SURGERY",
+	"tel": "62837998",
+	"fax": "62837998",
+	"licensee": "LOO CHARLES D",
+	"licensePeriod": "01/12/2016 to 30/11/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400004",
+	"address": "BLK 253 SERANGOON CENTRAL DR, #01-187 Singapore 550253",
+	"doctorInCharge": [
+		{
+			"name": "LOO CHARLES D",
+			"qualifications": [
+				"MD (Loma Linda University, United States) 1972"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Friday": "08:00 am to 11:30 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "08:00 am to 11:30 am, 02:00 pm to 04:30 pm, 06:00 pm to 09:30 pm"
+	},
+	"id": "9400004",
+	"coordinates": [
+		103.8708515,
+		1.3540394
+	],
+	"svy21": [
+		32176.99,
+		37348.35
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

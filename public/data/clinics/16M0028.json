@@ -1,0 +1,40 @@
+{
+	"name": "FULLERTON HEALTHCARE @ BAT",
+	"tel": "67515496",
+	"fax": "67515496",
+	"licensee": "FULLERTON HEALTHCARE GROUP PTE. LIMITED",
+	"licensePeriod": "27/01/2016 to 26/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0028",
+	"address": "15 SENOKO LOOP, GROUND FLOOR, Singapore 758168",
+	"doctorInCharge": [
+		{
+			"name": "Lim Tai Thong Benedict",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0028",
+	"coordinates": [
+		103.802983,
+		1.4592948
+	],
+	"svy21": [
+		24624.15,
+		48986.95
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	]
+}

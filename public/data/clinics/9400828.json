@@ -1,0 +1,57 @@
+{
+	"name": "POW FAMILY CLINIC & SURGERY",
+	"tel": "62878105",
+	"fax": "62875427",
+	"licensee": "POW CHUN WEI",
+	"licensePeriod": "16/12/2016 to 15/12/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400828",
+	"address": "BLK 620 HOUGANG AVE 8, #01-264 Singapore 530620",
+	"doctorInCharge": [
+		{
+			"name": "POW CHUN WEI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9400828",
+	"coordinates": [
+		103.8839681,
+		1.370144
+	],
+	"svy21": [
+		33636.68,
+		39129.14
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

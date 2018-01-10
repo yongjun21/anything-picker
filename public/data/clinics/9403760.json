@@ -1,0 +1,55 @@
+{
+	"name": "SY LIM CHILDREN'S CLINIC",
+	"tel": "68352868",
+	"fax": "68352878",
+	"licensee": "LIM SIEW YIN",
+	"licensePeriod": "01/03/2017 to 28/02/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9403760",
+	"address": "402 ORCHARD RD, DELFI ORCHARD, #05-18 Singapore 238876",
+	"doctorInCharge": [
+		{
+			"name": "LIM SIEW YIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981",
+				"M Med (Paed) (National University of Singapore, Singapore) 1987",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "10:00 am to 12:30 pm, 03:00 pm to 05:00 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Wednesday": "09:30 am to 11:30 am, 02:30 pm to 05:00 pm",
+		"Thursday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9403760",
+	"coordinates": [
+		103.82847,
+		1.3071789
+	],
+	"svy21": [
+		27460.4,
+		32166.72
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"name": "HEALTHCARE HOUGANG MEDICAL CLINIC",
+	"tel": "62881426",
+	"fax": "62881426",
+	"licensee": "HH Medical Private Limited",
+	"licensePeriod": "01/05/2017 to 30/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0110",
+	"address": "BLK 311 HOUGANG AVENUE 5, #01-191 Singapore 530311",
+	"doctorInCharge": [
+		{
+			"name": "Lim Hock Hin",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "17M0110",
+	"coordinates": [
+		103.8948582,
+		1.3656707
+	],
+	"svy21": [
+		34848.63,
+		38634.53
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

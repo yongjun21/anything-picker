@@ -1,0 +1,55 @@
+{
+	"name": "CARDIAC SOLUTIONS MEDICAL CENTRE",
+	"tel": "62546678",
+	"fax": "62546676",
+	"licensee": "NEWTON INTERNATIONAL LLP",
+	"licensePeriod": "09/11/2016 to 08/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0350",
+	"address": "38 IRRAWADDY ROAD, Mt Elizabeth Hospital Novena, #06-51 / 52 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Ong Hean Yee",
+			"qualifications": [
+				"MB ChB (Queen's University of Belfast, United Kingdom) 1994",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1998"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:00 pm",
+		"Tuesday": "08:00 am to 05:00 pm",
+		"Wednesday": "08:00 am to 05:00 pm",
+		"Thursday": "08:00 am to 05:00 pm",
+		"Friday": "08:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "16M0350",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"name": "OXFORD DENTAL CLINIC",
+	"tel": "62857009",
+	"fax": "62827785",
+	"licensee": "KOH SIM NOI",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9401259",
+	"address": "BLK 356 HOUGANG AVE 7, #01-797 Singapore 530356",
+	"doctorInCharge": [
+		{
+			"name": "KOH SIM NOI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401259",
+	"coordinates": [
+		103.8988131,
+		1.3725931
+	],
+	"svy21": [
+		35288.75,
+		39399.99
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"name": "HARMONY DENTAL SURGERY",
+	"tel": "63857033",
+	"fax": "63857033",
+	"licensee": "HARMONY DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "23/07/2014 to 22/07/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405656",
+	"address": "BLK 683 Hougang Ave 8, #01-945 Singapore 530683",
+	"doctorInCharge": [
+		{
+			"name": "Chin Chong Meng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1991",
+				"MDS (National University of Singapore, Singapore) 1996",
+				"FAMS (Oral & Maxillofacial Surgery) (Academy of Medicine, Singapore, Singapore) 2014"
+			],
+			"specialties": [
+				"Oral & Maxillo-Facial Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "Closed",
+		"Public Holiday": "Closed",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405656",
+	"coordinates": [
+		103.8863678,
+		1.3733127
+	],
+	"svy21": [
+		33903.73,
+		39479.52
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

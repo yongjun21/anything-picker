@@ -1,0 +1,50 @@
+{
+	"name": "TANGLIN MEDICAL CLINIC",
+	"tel": "67343831",
+	"fax": "67343860",
+	"licensee": "TAN BENG SIM VINCENT",
+	"licensePeriod": "04/05/2015 to 03/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401623",
+	"address": "19 TANGLIN RD, TANGLIN SHOPPING CENTRE, #06-16/17 Singapore 247909",
+	"doctorInCharge": [
+		{
+			"name": "TAN BENG SIM VINCENT",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 am, 02:30 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 12:30 am, 02:30 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 12:30 am, 02:30 pm to 05:30 pm",
+		"Thursday": "09:00 am to 12:30 am, 02:30 pm to 05:30 pm",
+		"Friday": "09:00 am to 12:30 am, 02:30 pm to 05:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9401623",
+	"coordinates": [
+		103.8270506,
+		1.3064027
+	],
+	"svy21": [
+		27302.43,
+		32080.89
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

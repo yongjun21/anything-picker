@@ -1,0 +1,55 @@
+{
+	"name": "THAI SHEN FAMILY CLINIC PTE LTD",
+	"tel": "64448134",
+	"fax": "64448134",
+	"licensee": "CHEONG LEE CHING",
+	"licensePeriod": "22/04/2015 to 20/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402576",
+	"address": "BLK 84 BEDOK NORTH ST 4, #01-65 Singapore 460084",
+	"doctorInCharge": [
+		{
+			"name": "CHEONG LEE CHING",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 07:00 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 01:00 pm to 03:00 pm, 07:00 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 01:00 pm to 03:00 pm, 07:00 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 01:00 pm to 03:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 01:00 pm to 03:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "08:30 am to 12:00 pm",
+		"Public Holiday": "08:30 am to 12:00 pm"
+	},
+	"id": "9402576",
+	"coordinates": [
+		103.9392084,
+		1.3317825
+	],
+	"svy21": [
+		39784.44,
+		34887.51
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

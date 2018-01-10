@@ -1,0 +1,51 @@
+{
+	"name": "PIONEER MEDICAL CENTRE PTE LTD",
+	"tel": "67907668",
+	"fax": "67907228",
+	"licensee": "PIONEER MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "21/10/2017 to 20/10/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0283",
+	"address": "BLK 651 JURONG WEST STREET 61, MULTI STOREY CAR PARK, #01-06 Singapore 640651",
+	"doctorInCharge": [
+		{
+			"name": "Kelvin Lee Swee Meng",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1999",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 02:30 pm, 06:30 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 02:30 pm, 06:30 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 02:30 pm, 06:30 pm to 10:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:30 pm to 04:30 pm, 06:30 pm to 10:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:30 pm to 04:30 pm, 06:30 pm to 10:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "08:30 am to 12:00 pm, 07:00 pm to 10:00 pm"
+	},
+	"id": "13C0283",
+	"coordinates": [
+		103.6971563,
+		1.3371188
+	],
+	"svy21": [
+		12846.57,
+		35477.74
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

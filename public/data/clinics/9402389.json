@@ -1,0 +1,54 @@
+{
+	"name": "MT A DENTAL CENTRE",
+	"tel": "62511189",
+	"fax": "62515394",
+	"licensee": "PROGRESSIVE DENTAL SPECIALISTS PTE LTD",
+	"licensePeriod": "01/08/2016 to 31/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9402389",
+	"address": "820 THOMSON ROAD, MOUNT ALVERNIA HOSPITAL MEDICAL CENTRE D, #08-51 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "ANTHONY GOH SZE CHERN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Paediatric Dentistry"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 01:00 pm to 04:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 01:00 pm to 04:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 01:00 pm to 04:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 01:00 pm to 04:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 01:00 pm to 04:00 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
+	"id": "9402389",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

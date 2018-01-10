@@ -1,0 +1,53 @@
+{
+	"name": "PROHEALTH MEDICAL GROUP @ PUNGGOL DAMAI PTE LTD",
+	"tel": "65091580",
+	"fax": "65091581",
+	"licensee": "PROHEALTH MEDICAL GROUP @PUNGGOL DAMAI PTE. LTD.",
+	"licensePeriod": "29/06/2016 to 28/06/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "12C0126",
+	"address": "BLK 612 PUNGGOL DRIVE, MULTI STOREY CAR PARK, #01-05 Singapore 820612",
+	"doctorInCharge": [
+		{
+			"name": "chee weng chung",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 11:00 pm",
+		"Tuesday": "08:00 am to 11:00 pm",
+		"Wednesday": "08:00 am to 11:00 pm",
+		"Thursday": "08:00 am to 11:00 pm",
+		"Friday": "08:00 am to 11:00 pm",
+		"Saturday": "08:00 am to 11:00 pm",
+		"Sunday": "08:00 am to 11:00 pm"
+	},
+	"id": "12C0126",
+	"coordinates": [
+		103.9086656,
+		1.40461
+	],
+	"svy21": [
+		36385.09,
+		42940.29
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

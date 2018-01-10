@@ -1,0 +1,50 @@
+{
+	"name": "THE IRON SUITES MEDICAL CENTRE",
+	"tel": "67021929",
+	"fax": "67021939",
+	"licensee": "THE IRON SUITES PTE. LTD.",
+	"licensePeriod": "17/05/2017 to 16/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0140",
+	"address": "160 ROBINSON ROAD, SINGAPORE BUSINESS FEDERATION CENTER, #04-11 Singapore 068914",
+	"doctorInCharge": [
+		{
+			"name": "Yeo Poh Shuan Daniel",
+			"qualifications": [
+				"MBBS (University of Western Australia, Australia) 1999",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2004",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 2008",
+				"Testamur (ASCeXAM) (The National Board of Echocardiography, United States) 2009",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2011",
+				"Diplomate (ASCeXAM) (The National Board of Echocardiography, United States) 2012",
+				"FACC (American College of Cardiology, United States) 2013"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"id": "17M0140",
+	"coordinates": [
+		103.8478546,
+		1.2781279
+	],
+	"svy21": [
+		29617.75,
+		28954.42
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

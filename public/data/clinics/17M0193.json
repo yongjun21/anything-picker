@@ -1,0 +1,48 @@
+{
+	"name": "LUX MEDICAL AESTHETIC CLINIC",
+	"tel": "68159922",
+	"fax": "62911007",
+	"licensee": "LUX INC LIFESTYLE PTE. LTD.",
+	"licensePeriod": "30/06/2017 to 29/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0193",
+	"address": "2 HANDY ROAD, THE CATHAY, #02-09 Singapore 229233",
+	"doctorInCharge": [
+		{
+			"name": "Shiau Onn Ling, Kellyn",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "10:30 am to 08:00 pm",
+		"Tuesday": "10:30 am to 08:00 pm",
+		"Wednesday": "10:30 am to 08:00 pm",
+		"Thursday": "10:30 am to 08:00 pm",
+		"Friday": "10:30 am to 08:00 pm",
+		"Saturday": "10:30 am to 04:00 pm",
+		"Sunday": "10:30 am to 04:00 pm"
+	},
+	"id": "17M0193",
+	"coordinates": [
+		103.8478269,
+		1.299206
+	],
+	"svy21": [
+		29614.65,
+		31285.12
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

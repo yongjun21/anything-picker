@@ -1,0 +1,58 @@
+{
+	"name": "CHEONG MEDICAL CLINIC",
+	"tel": "64686311",
+	"fax": "64686311",
+	"licensee": "SPECIALIST DIABETES & HYPERTENSION CLINIC PTE. LTD.",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400227",
+	"address": "BLK 76 JLN JURONG KECHIL, Singapore 598589",
+	"doctorInCharge": [
+		{
+			"name": "Cheong Pak Yean",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1979",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1979",
+				"FAMS (Int Med) (Academy of Medicine, Singapore) 1993",
+				"FRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1996",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 1997",
+				"FACP (Int Med) (American College of Physicians, United States) 1999",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Internal Medicine",
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Internal Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9400227",
+	"coordinates": [
+		103.7733294,
+		1.3405487
+	],
+	"svy21": [
+		21323.85,
+		35856.66
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

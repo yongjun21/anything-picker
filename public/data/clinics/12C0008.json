@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67900969",
+	"fax": "67900969",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "25/01/2016 to 24/01/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0008",
+	"address": "20 JURONG WEST STREET 61, Singapore 648200",
+	"doctorInCharge": [
+		{
+			"name": "Tham Sai Soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "12C0008",
+	"coordinates": [
+		103.6997017,
+		1.336413
+	],
+	"svy21": [
+		13129.85,
+		35399.68
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

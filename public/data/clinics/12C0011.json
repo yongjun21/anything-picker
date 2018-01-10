@@ -1,0 +1,48 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "63533835",
+	"fax": "63533835",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "27/01/2016 to 26/01/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0011",
+	"address": "6 BISHAN STREET 12,, GUANGYANG PRIMARY SCHOOL, Singapore 579806",
+	"doctorInCharge": [
+		{
+			"name": "LIM WANYI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "12C0011",
+	"coordinates": [
+		103.8494532,
+		1.3456901
+	],
+	"svy21": [
+		29795.61,
+		36425.1
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"name": "THE BALMORAL CLINIC",
+	"tel": "63452202",
+	"fax": "62423293",
+	"licensee": "Koh Thong Kiang Adrian",
+	"licensePeriod": "06/07/2017 to 05/07/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9405229",
+	"address": "5 STADIUM WALK, LEISURE PARK KALLANG, #02-21 Singapore 397693",
+	"doctorInCharge": [
+		{
+			"name": "Koh Thong Kiang Adrian",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987",
+				"MCGP (Family Med) (College of General Practitioners, Malaysia) 1993",
+				"Dip Pract Derm (University of Wales, United Kingdom) 1996",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Thursday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Saturday": "09:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405229",
+	"coordinates": [
+		103.876474,
+		1.3023011
+	],
+	"svy21": [
+		32802.8,
+		31627.4
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

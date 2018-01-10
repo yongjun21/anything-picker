@@ -1,0 +1,54 @@
+{
+	"name": "UNITY DENTICARE",
+	"tel": "65904399",
+	"fax": "65904385",
+	"licensee": "NTUC Health Co-operative Ltd",
+	"licensePeriod": "14/08/2016 to 13/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14C0230",
+	"address": "220 ORCHARD ROAD, MIDPOINT ORCHARD, #02-12 Singapore 238852",
+	"doctorInCharge": [
+		{
+			"name": "Ong Kheng Lok",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1987",
+				"MDSc (University of Queensland, Australia) 1998"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "14C0230",
+	"coordinates": [
+		103.8386597,
+		1.3017875
+	],
+	"svy21": [
+		28594.42,
+		31570.57
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

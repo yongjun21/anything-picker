@@ -1,0 +1,52 @@
+{
+	"name": "SMILE MAKERS DENTAL CLINIC",
+	"tel": "63972739",
+	"fax": "63972739",
+	"licensee": "Smile Makers Dental Clinic Pte. Ltd.",
+	"licensePeriod": "13/10/2014 to 12/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404992",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTRE, SQUARE 2, #09-26 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Asha Karunakaran",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1982",
+				"DGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1997",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 06:00 pm",
+		"Tuesday": "08:30 am to 06:00 pm",
+		"Wednesday": "08:30 am to 06:00 pm",
+		"Thursday": "08:30 am to 04:30 pm",
+		"Friday": "11:00 am to 07:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404992",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

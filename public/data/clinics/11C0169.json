@@ -1,0 +1,52 @@
+{
+	"name": "NIPPON MEDICAL CARE",
+	"tel": "64747707",
+	"fax": "64744391",
+	"licensee": "NIPPON MEDICAL CARE PTE LTD",
+	"licensePeriod": "16/11/2017 to 15/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "11C0169",
+	"address": "6A NAPIER ROAD, GLENEAGLES HOSPITAL, #03-31 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "Ho Sin Teck Winston",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"Dip Geriatric Med (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "11C0169",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

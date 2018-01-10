@@ -1,0 +1,48 @@
+{
+	"name": "LEE DENTAL SURGERY",
+	"tel": "63863522",
+	"fax": "63863522",
+	"licensee": "LEE SUILING",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400923",
+	"address": "BLK 644 HOUGANG AVE 8, #01-275 Singapore 530644",
+	"doctorInCharge": [
+		{
+			"name": "LEE SUILING",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm"
+	},
+	"id": "9400923",
+	"coordinates": [
+		103.8812611,
+		1.3714374
+	],
+	"svy21": [
+		33335.42,
+		39272.14
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"name": "THE FAMILY CLINIC @ TOWNER",
+	"tel": "62950995",
+	"fax": "62950997",
+	"licensee": "Jitendra Kumar Sen",
+	"licensePeriod": "27/03/2017 to 26/03/2018",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"hciCode": "9404014",
+	"address": "BLK 101 Towner Road, #01-202 Singapore 322101",
+	"doctorInCharge": [
+		{
+			"name": "Jitendra Kumar Sen",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 09:00 pm",
+		"Tuesday": "08:30 am to 09:00 pm",
+		"Wednesday": "08:30 am to 09:00 pm",
+		"Thursday": "08:30 am to 09:00 pm",
+		"Friday": "08:30 am to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9404014",
+	"coordinates": [
+		103.8610875,
+		1.3194254
+	],
+	"svy21": [
+		31090.4,
+		33520.89
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

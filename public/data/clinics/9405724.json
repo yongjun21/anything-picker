@@ -1,0 +1,59 @@
+{
+	"name": "TAMPINES ENDOSCOPY & SURGERY CENTRE",
+	"tel": "67860080",
+	"fax": "67860060",
+	"licensee": "DR HEAH SIEU MIN",
+	"licensePeriod": "04/09/2017 to 03/09/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405724",
+	"address": "BLK 801 TAMPINES AVENUE 4, #01-273 Singapore 520801",
+	"doctorInCharge": [
+		{
+			"name": "Heah Sieu Min",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1990",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1994",
+				"FAMS (Academy of Medicine, Singapore) 2000"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Anaesthesiology",
+			"General Surgery",
+			"Otorhinolaryngology",
+			"Urology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 09:00 pm",
+		"Tuesday": "08:30 am to 09:00 pm",
+		"Wednesday": "08:30 am to 09:00 pm",
+		"Thursday": "08:30 am to 09:00 pm",
+		"Friday": "08:30 am to 09:00 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9405724",
+	"coordinates": [
+		103.938014,
+		1.3471923
+	],
+	"svy21": [
+		39651.45,
+		36591.45
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

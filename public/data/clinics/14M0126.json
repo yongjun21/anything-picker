@@ -1,0 +1,55 @@
+{
+	"name": "THOMSON WELLTH CLINIC",
+	"tel": "67350300",
+	"fax": "62534468",
+	"licensee": "THOMSON MEDICAL PTE. LTD.",
+	"licensePeriod": "27/12/2016 to 19/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0126",
+	"address": "9 SCOTTS ROAD, SCOTTS MEDICAL CENTRE AT PACIFIC PLAZA, #10-02/03/04/05/06 Singapore 228210",
+	"doctorInCharge": [
+		{
+			"name": "Lau Pik Onn",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 06:00 pm",
+		"Tuesday": "08:30 am to 06:00 pm",
+		"Wednesday": "08:30 am to 06:00 pm",
+		"Thursday": "08:30 am to 06:30 pm",
+		"Friday": "08:30 am to 07:00 pm",
+		"Saturday": "08:30 am to 01:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "14M0126",
+	"coordinates": [
+		103.8321282,
+		1.306547
+	],
+	"svy21": [
+		27867.52,
+		32096.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

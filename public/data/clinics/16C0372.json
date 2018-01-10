@@ -1,0 +1,41 @@
+{
+	"name": "IM MEDICAL CLINIC",
+	"tel": "65656626",
+	"fax": "68469100",
+	"licensee": "IM HOLDINGS PTE. LTD.",
+	"licensePeriod": "14/12/2016 to 13/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16C0372",
+	"address": "1 TRAS LINK, ORCHID HOTEL, #02-12 Singapore 078867",
+	"doctorInCharge": [
+		{
+			"name": "Fong Seng Yew",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16C0372",
+	"coordinates": [
+		103.8438472,
+		1.2769367
+	],
+	"svy21": [
+		29171.75,
+		28822.7
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"name": "HEAL MEDICAL CENTRE",
+	"tel": "62509550",
+	"fax": "63550598",
+	"licensee": "HEAL BALESTIER CLINIC PTE. LTD.",
+	"licensePeriod": "21/12/2015 to 20/12/2017",
+	"licenseClass": "[ 2 Years ]",
+	"hciCode": "9405133",
+	"address": "BLK 262 BALESTIER ROAD, OKIO, #04-01/02 Singapore 329714",
+	"doctorInCharge": [
+		{
+			"name": "FONG LIAN IM",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Liposuction"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Plastic Surgery"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9405133",
+	"coordinates": [
+		103.8531997,
+		1.3221334
+	],
+	"svy21": [
+		30212.57,
+		33820.32
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

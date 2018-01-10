@@ -1,0 +1,39 @@
+{
+	"name": "AFPD MEDICAL CLINIC",
+	"tel": "64249582",
+	"fax": "65870185",
+	"licensee": "TAN CHAI LEE",
+	"licensePeriod": "23/07/2016 to 22/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0145",
+	"address": "10 TAMPINES INDUSTRIAL AVENUE 3, Singapore 528798",
+	"doctorInCharge": [
+		{
+			"name": "WU EU LI",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1969"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "12C0145",
+	"coordinates": [
+		103.9296947,
+		1.3603925
+	],
+	"svy21": [
+		38725.54,
+		38051.02
+	],
+	"planningArea": "PL",
+	"neighbours": [
+		"BD",
+		"PR",
+		"HG",
+		"SE",
+		"TM"
+	]
+}

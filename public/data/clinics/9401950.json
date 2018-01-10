@@ -1,0 +1,54 @@
+{
+	"name": "YIP DENTAL SURGERY PTE LTD",
+	"tel": "65358833",
+	"fax": "67333478",
+	"licensee": "YIP WING KONG",
+	"licensePeriod": "25/04/2015 to 24/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401950",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #04-01 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "YIP WING KONG",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1964",
+				"FAAOP (American Academy of Oral Pathology, United States) 1971",
+				"MSD (Indiana University School of Dentistry, United States) 1971",
+				"FAM (Singapore) (Academy of Medicine, Singapore, Singapore) 1976"
+			],
+			"specialties": [
+				"Oral & Maxillo-Facial Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 06:00 pm",
+		"Tuesday": "08:30 am to 06:00 pm",
+		"Wednesday": "08:30 am to 06:00 pm",
+		"Thursday": "08:30 am to 06:00 pm",
+		"Friday": "08:30 am to 06:00 pm",
+		"Saturday": "08:30 am to 06:00 pm"
+	},
+	"id": "9401950",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

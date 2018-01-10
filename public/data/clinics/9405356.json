@@ -1,0 +1,48 @@
+{
+	"name": "ACE FAMILY DENTALCARE",
+	"tel": "64488495",
+	"fax": "64499497",
+	"licensee": "MY FAVOURITE DENTIST PTE. LTD.",
+	"licensePeriod": "27/10/2013 to 26/10/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405356",
+	"address": "BLK 56 NEW UPPER CHANGI ROAD, #01-1288 Singapore 461056",
+	"doctorInCharge": [
+		{
+			"name": "Tan Wee Yang",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 08:30 pm",
+		"Tuesday": "09:00 am to 08:30 pm",
+		"Wednesday": "09:00 am to 08:30 pm",
+		"Thursday": "09:00 am to 08:30 pm",
+		"Friday": "09:00 am to 08:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405356",
+	"coordinates": [
+		103.9410826,
+		1.3249938
+	],
+	"svy21": [
+		39993.06,
+		34136.86
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

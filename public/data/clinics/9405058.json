@@ -1,0 +1,38 @@
+{
+	"name": "BLOOD SERVICES GROUP (MEDICAL CLINIC)",
+	"tel": "62130606",
+	"fax": "62238682",
+	"licensee": "Health Sciences Authority",
+	"licensePeriod": "01/04/2017 to 31/03/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405058",
+	"address": "BLK 11 OUTRAM ROAD, Singapore 169078",
+	"doctorInCharge": [
+		{
+			"name": "Tan Hwee Huang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": true
+	},
+	"id": "9405058",
+	"coordinates": [
+		103.8384762,
+		1.2804058
+	],
+	"svy21": [
+		28574,
+		29206.29
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

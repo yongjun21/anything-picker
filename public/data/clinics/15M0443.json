@@ -1,0 +1,57 @@
+{
+	"name": "COLORECTAL PRACTICE",
+	"tel": "62621226",
+	"fax": "67378069",
+	"licensee": "COLORECTAL PRACTICE PTE. LTD.",
+	"licensePeriod": "30/12/2015 to 29/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0443",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #13-05 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Dennis Koh",
+			"qualifications": [
+				"BMBS (University of Nottingham, United Kingdom) 1998",
+				"Bachelor of Medical Science (University of Nottingham, United Kingdom) 1996",
+				"M Med (Surg) (National University of Singapore, Singapore) 2005",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 2009"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 pm to 06:00 pm",
+		"Tuesday": "09:00 pm to 06:00 pm",
+		"Wednesday": "09:00 pm to 06:00 pm",
+		"Thursday": "09:00 pm to 06:00 pm",
+		"Friday": "09:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15M0443",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

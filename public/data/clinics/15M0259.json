@@ -1,0 +1,54 @@
+{
+	"name": "O2 MEDICAL CLINIC",
+	"tel": "63849443",
+	"fax": "63330633",
+	"licensee": "O2 MEDICAL GROUP PTE. LTD.",
+	"licensePeriod": "30/07/2017 to 29/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0259",
+	"address": "BLK 527D PASIR RIS STREET 51, #01-05 Singapore 514527",
+	"doctorInCharge": [
+		{
+			"name": "Samuel Toh",
+			"qualifications": [
+				"MB BCh BAO (National University of Ireland, Ireland) 2005",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2015"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "08:00 am to 01:00 pm",
+		"Sunday": "08:00 am to 01:00 pm"
+	},
+	"id": "15M0259",
+	"coordinates": [
+		103.9479224,
+		1.3696863
+	],
+	"svy21": [
+		40754.03,
+		39078.77
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

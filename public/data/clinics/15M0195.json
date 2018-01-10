@@ -1,0 +1,59 @@
+{
+	"name": "SOZO CARDIOLOGY",
+	"tel": "62502500",
+	"fax": "66357888",
+	"licensee": "SOZO CARDIOLOGY PTE. LTD.",
+	"licensePeriod": "10/05/2017 to 09/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0195",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA HOSPITAL, #06-38/39 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "OOI YAU WEI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2004",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 2009",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2012"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "15M0195",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

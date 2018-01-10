@@ -1,0 +1,41 @@
+{
+	"name": "EXXONMOBIL ASIA PACIFIC PTE. LTD. MEDICAL CLINIC",
+	"tel": "66316128",
+	"fax": "66317310",
+	"licensee": "EXXONMOBIL ASIA PACIFIC PTE. LTD.",
+	"licensePeriod": "01/03/2014 to 28/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403011",
+	"address": "BLK 18 PIONEER RD, PIONEER EAST BUILDING, Singapore 628498",
+	"doctorInCharge": [
+		{
+			"name": "NG CHYE KHEE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978",
+				"MSc (OM) (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Occupational Medicine"
+		]
+	},
+	"id": "9403011",
+	"coordinates": [
+		103.6871792,
+		1.3077665
+	],
+	"svy21": [
+		11736.03,
+		32232.17
+	],
+	"planningArea": "BL",
+	"neighbours": [
+		"JE",
+		"PN",
+		"JW"
+	]
+}

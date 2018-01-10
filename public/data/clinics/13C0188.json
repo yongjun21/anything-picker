@@ -1,0 +1,57 @@
+{
+	"name": "SHIFA CLINIC (JURONG)",
+	"tel": "64698941",
+	"fax": "64698523",
+	"licensee": "SHIFA JURONG PTE. LTD.",
+	"licensePeriod": "31/07/2017 to 30/07/2018",
+	"licenseClass": "[ 1 Year ( 2B ) ]",
+	"hciCode": "13C0188",
+	"address": "BLK 501 Jurong West Street 51, #01-277 Singapore 640501",
+	"doctorInCharge": [
+		{
+			"name": "Mohamed Ghazali",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"Dip OM (National University of Singapore, Singapore) 1999",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "06:00 pm to 09:00 pm",
+		"Thursday": "06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0188",
+	"coordinates": [
+		103.7192222,
+		1.3498123
+	],
+	"svy21": [
+		15302.34,
+		36881.19
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"name": "AWWA DENTAL CLINIC",
+	"tel": "65115280",
+	"fax": "65115281",
+	"licensee": "AWWA LTD.",
+	"licensePeriod": "11/07/2017 to 10/07/2019",
+	"licenseClass": "[ 2 Years ]",
+	"hciCode": "17C0211",
+	"address": "11 Lorong Napiri, Singapore 547532",
+	"doctorInCharge": [
+		{
+			"name": "Tan Jin Bee Elizabeth",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983",
+				"MSc (University of Bristol, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "17C0211",
+	"coordinates": [
+		103.8787422,
+		1.3730071
+	],
+	"svy21": [
+		33055.1,
+		39445.72
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

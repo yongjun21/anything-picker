@@ -1,0 +1,49 @@
+{
+	"name": "SAW & LEE DENTAL SURGERY",
+	"tel": "65336667",
+	"fax": "68875282",
+	"licensee": "Saw and Lee Pte.Ltd.",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401455",
+	"address": "101 UPPER CROSS ST, PEOPLE'S PARK CENTRE, #B1-45 Singapore 058357",
+	"doctorInCharge": [
+		{
+			"name": "SAW LEE HIN",
+			"qualifications": [
+				"BDS (University of Newcastle Upon Tyne, United Kingdom) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "09:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "09:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "09:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401455",
+	"coordinates": [
+		103.8439801,
+		1.2857701
+	],
+	"svy21": [
+		29186.54,
+		29799.45
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

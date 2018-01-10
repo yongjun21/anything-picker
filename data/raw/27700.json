@@ -20,15 +20,13 @@
 		}
 	],
 	"detailedServices": {
-		"Abortion": [
-			"Obstetrics & Gynaecology"
-		],
+		"Abortion": true,
 		"Specialist Medical": [
 			"Obstetrics & Gynaecology"
 		]
 	},
 	"operatingHours": {
-		"Monday to Friday": "09:00 am to 05:00 pm",
+		"Monday to Friday": "Closed",
 		"Saturday": "09:00 am to 01:00 pm"
 	}
 }

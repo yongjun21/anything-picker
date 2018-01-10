@@ -1,0 +1,67 @@
+{
+	"name": "NOVENA SURGERY",
+	"tel": "62549331",
+	"fax": "63976465",
+	"licensee": "NOVENA SURGERY PTE. LTD",
+	"licensePeriod": "01/03/2017 to 28/02/2018",
+	"licenseClass": "[ 1 Year ( 2D ) ]",
+	"hciCode": "9404742",
+	"address": "10 Sinaran Drive, Novena Medical Center @Square 2, #08-18 to 22, 24 to 29 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Lim Beng Hai",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1991",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 1991",
+				"FAMS (Orth Surg) (Academy of Medicine, Singapore) 1997"
+			],
+			"specialties": [
+				"Hand Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Day Surgery",
+		"Endoscopy",
+		"Liposuction"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true,
+		"Specialist Medical": [
+			"Anaesthesiology",
+			"Cardiology",
+			"General Surgery",
+			"Hand Surgery",
+			"Obstetrics & Gynaecology",
+			"Orthopaedic Surgery",
+			"Otorhinolaryngology",
+			"Paediatric Surgery",
+			"Plastic Surgery",
+			"Urology"
+		],
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Paediatric Dentistry"
+		]
+	},
+	"id": "9404742",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

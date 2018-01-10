@@ -1,0 +1,55 @@
+{
+	"name": "C & K FAMILY CLINIC PTE LTD",
+	"tel": "62429588",
+	"fax": "62429277",
+	"licensee": "C & K FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "06/10/2016 to 05/10/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402741",
+	"address": "108 UPPER EAST COAST ROAD, Singapore 455297",
+	"doctorInCharge": [
+		{
+			"name": "Chua Tee Lian",
+			"qualifications": [
+				"MB ChB (University of Leicester, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "09:00 am to 12:00 pm",
+		"Monday": "09:00 am to 12:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9402741",
+	"coordinates": [
+		103.9293052,
+		1.3131693
+	],
+	"svy21": [
+		38682.4,
+		32829.32
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

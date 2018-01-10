@@ -1,0 +1,56 @@
+{
+	"name": "EVERHEALTH FAMILY CLINIC & SURGERY",
+	"tel": "67933113",
+	"fax": "67930932",
+	"licensee": "WONG MING",
+	"licensePeriod": "18/04/2014 to 17/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400492",
+	"address": "BLK 762 JURONG WEST ST 75, GEK POH SHOPPING CENTRE, #01-290 Singapore 640762",
+	"doctorInCharge": [
+		{
+			"name": "WONG MING",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 08:00 pm",
+		"Tuesday": "09:00 am to 08:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:30 pm to 06:00 pm",
+		"Thursday": "09:00 am to 08:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 06:00 pm to 08:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400492",
+	"coordinates": [
+		103.6977321,
+		1.3487436
+	],
+	"svy21": [
+		12910.72,
+		36763.15
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

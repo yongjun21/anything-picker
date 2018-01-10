@@ -1,0 +1,54 @@
+{
+	"name": "OON SKIN CLINIC",
+	"tel": "67345735",
+	"fax": "67356163",
+	"licensee": "OON BENG BEE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401238",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #08-05 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "OON BENG BEE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1964",
+				"Dip Derm (University of London, United Kingdom) 1971",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1972",
+				"FAMS (Derm) (Academy of Medicine, Singapore) 1980"
+			],
+			"specialties": [
+				"Dermatology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Dermatology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm, 09:00 am to 12:30 am",
+		"Tuesday": "09:00 am to 05:00 pm, 09:00 am to 12:30 am",
+		"Wednesday": "09:00 am to 05:00 pm, 09:00 am to 12:30 am",
+		"Thursday": "09:00 am to 05:00 pm, 09:00 am to 12:30 am",
+		"Friday": "09:00 am to 05:00 pm, 09:00 am to 12:30 am",
+		"Saturday": "09:00 am to 05:00 pm, 09:00 am to 12:30 am"
+	},
+	"id": "9401238",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

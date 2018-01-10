@@ -1,0 +1,45 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67772471",
+	"fax": "67772471",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "13/03/2015 to 12/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403321",
+	"address": "1020 Dover Road,, New Town Secondary School, Singapore 139657",
+	"doctorInCharge": [
+		{
+			"name": "THAM SAI SOO",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403321",
+	"coordinates": [
+		103.7731886,
+		1.3097759
+	],
+	"svy21": [
+		21308.1,
+		32453.96
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

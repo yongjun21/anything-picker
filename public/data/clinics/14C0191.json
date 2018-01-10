@@ -1,0 +1,54 @@
+{
+	"name": "SMG SPECIALIST CENTRE",
+	"tel": "67351000",
+	"fax": "66843211",
+	"licensee": "SMG SPECIALIST CENTRE PTE. LTD.",
+	"licensePeriod": "09/07/2016 to 08/07/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "14C0191",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #05-34/35 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Wong Seng Weng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1999"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "02:00 pm to 06:00 pm",
+		"Wednesday": "02:00 pm to 06:00 pm",
+		"Friday": "02:00 pm to 06:00 pm"
+	},
+	"id": "14C0191",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

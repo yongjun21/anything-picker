@@ -1,0 +1,45 @@
+{
+	"name": "HEALTHWAY MEDICAL CLINIC",
+	"tel": "67622555",
+	"fax": "67628098",
+	"licensee": "HEALTHWAY MEDICAL GROUP PTE LTD",
+	"licensePeriod": "14/09/2015 to 13/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405301",
+	"address": "BLK 534 CHOA CHU KANG ST 51, LIMBANG SHOPPING CENTRE, #01-37 Singapore 680534",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9405301",
+	"coordinates": [
+		103.743191,
+		1.3922424
+	],
+	"svy21": [
+		17969.98,
+		41572.8
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

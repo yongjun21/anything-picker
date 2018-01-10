@@ -1,0 +1,52 @@
+{
+	"name": "VINCENT'S DENTAL SURGERY",
+	"tel": "63464346",
+	"fax": "63423347",
+	"licensee": "Tan Wee Hsin Vincent",
+	"licensePeriod": "24/09/2017 to 23/09/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9404566",
+	"address": "245 TANJONG KATONG ROAD, BENG TONG MANSION, Singapore 437033",
+	"doctorInCharge": [
+		{
+			"name": "Tan Wee Hsin Vincent",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986",
+				"MSc (Implant Dentistry)(University of Warwick) (University of Warwick, United Kingdom) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 04:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404566",
+	"coordinates": [
+		103.8952184,
+		1.3083175
+	],
+	"svy21": [
+		34888.88,
+		32292.71
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"name": "TRINITY MEDICAL CLINIC",
+	"tel": "67788868",
+	"fax": "67788868",
+	"licensee": "Lee Kim Kee",
+	"licensePeriod": "20/11/2016 to 19/11/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9405023",
+	"address": "BLK 19A DOVER CRESCENT, #01-01 Singapore 131019",
+	"doctorInCharge": [
+		{
+			"name": "Lee Kim Kee",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1977"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9405023",
+	"coordinates": [
+		103.7845484,
+		1.3073538
+	],
+	"svy21": [
+		22572.34,
+		32186.11
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

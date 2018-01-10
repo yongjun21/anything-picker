@@ -1,0 +1,47 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "65640866",
+	"fax": "65640866",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "06/03/2017 to 05/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0066",
+	"address": "30 BUKIT BATOK STREET 32, ST. ANTHONY'S PRIMARY SCHOOL, Singapore 659401",
+	"doctorInCharge": [
+		{
+			"name": "THAM SAI SOO",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "15D0066",
+	"coordinates": [
+		103.7492519,
+		1.3641168
+	],
+	"svy21": [
+		18644.37,
+		38462.78
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

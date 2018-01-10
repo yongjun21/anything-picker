@@ -1,0 +1,50 @@
+{
+	"name": "OOI CLINIC",
+	"tel": "62519070",
+	"fax": "62549789",
+	"licensee": "OOI SIEW HONG",
+	"licensePeriod": "13/03/2015 to 12/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402814",
+	"address": "BLK 1 THOMSON RD, BALESTIER HILL SHOPPING CENTRE, #01-342A Singapore 300001",
+	"doctorInCharge": [
+		{
+			"name": "OOI SIEW HONG",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 1971"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 12:00 am",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 am"
+	},
+	"id": "9402814",
+	"coordinates": [
+		103.8425716,
+		1.3255959
+	],
+	"svy21": [
+		29029.77,
+		34203.18
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

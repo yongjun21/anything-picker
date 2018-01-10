@@ -1,8 +1,9 @@
 {
 	"name": "KWAN IM THONG HOOD CHO TEMPLE - NKF DIALYSIS CENTRE KOLAM AYER BRANCH",
 	"tel": "62990200",
+	"fax": "62913969",
 	"licensee": "THE NATIONAL KIDNEY FOUNDATION",
-	"licensePeriod": "21/09/2015 to 20/09/2017",
+	"licensePeriod": "21/09/2017 to 20/09/2019",
 	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "15M0321",
 	"address": "BLK 43 BENDEMEER ROAD, #01-1018 Singapore 330043",
@@ -22,6 +23,7 @@
 		"Renal Dialysis"
 	],
 	"detailedServices": {
+		"General Medical": true,
 		"Specialist Medical": [
 			"Renal Medicine"
 		]

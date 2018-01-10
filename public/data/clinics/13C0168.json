@@ -1,0 +1,45 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "65560872",
+	"fax": "64382248",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "04/07/2017 to 03/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0168",
+	"address": "10 SEMBAWANG DRIVE, SEMBAWANG PRIMARY SCHOOL, Singapore 757715",
+	"doctorInCharge": [
+		{
+			"name": "CHEE CHING TENG",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "13C0168",
+	"coordinates": [
+		103.8210215,
+		1.4450436
+	],
+	"svy21": [
+		26631.53,
+		47411.11
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	]
+}

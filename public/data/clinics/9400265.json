@@ -1,0 +1,57 @@
+{
+	"name": "CHOONG'S CLINIC",
+	"tel": "63442400",
+	"fax": "63442400",
+	"licensee": "CHONG HOI WAH",
+	"licensePeriod": "15/06/2014 to 14/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400265",
+	"address": "BLK 21 OLD AIRPORT RD, #01-97 Singapore 390021",
+	"doctorInCharge": [
+		{
+			"name": "CHONG HOI WAH",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 2002"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "08:00 am to 11:30 am",
+		"Monday": "08:00 am to 11:30 am, 02:30 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Tuesday": "08:00 am to 11:30 am, 02:30 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Wednesday": "08:00 am to 11:30 am, 02:30 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Thursday": "08:00 am to 11:30 am, 02:30 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Friday": "08:00 am to 11:30 am, 02:30 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Saturday": "08:00 am to 11:30 am",
+		"Sunday": "08:00 am to 11:30 am"
+	},
+	"id": "9400265",
+	"coordinates": [
+		103.884413,
+		1.3075861
+	],
+	"svy21": [
+		33686.34,
+		32211.81
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

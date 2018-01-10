@@ -1,0 +1,42 @@
+{
+	"name": "GREENLIFE DENTAL CLINIC",
+	"tel": "62410123",
+	"fax": "62412550",
+	"licensee": "Greenlife Dental Clinic (Bedok) Pte Ltd",
+	"licensePeriod": "09/05/2016 to 08/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0129",
+	"address": "BLK 210 NEW UPPER CHANGI ROAD, #01-733 Singapore 460210",
+	"doctorInCharge": [
+		{
+			"name": "Au Eong Kah Chuan",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "16D0129",
+	"coordinates": [
+		103.9318706,
+		1.3245975
+	],
+	"svy21": [
+		38967.85,
+		34092.99
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

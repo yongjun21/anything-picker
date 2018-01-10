@@ -1,0 +1,51 @@
+{
+	"name": "W M WONG CARDIAC & MEDICAL CLINIC",
+	"tel": "64720198",
+	"fax": "64720231",
+	"licensee": "Wong Wui Min",
+	"licensePeriod": "01/09/2014 to 31/08/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401849",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #10-10 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Wong Wui Min",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1980",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1980",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 1985",
+				"FRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1995"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9401849",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

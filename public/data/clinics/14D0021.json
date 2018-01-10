@@ -1,0 +1,54 @@
+{
+	"name": "SYNERGY DENTAL SPECIALISTS",
+	"tel": "65325483",
+	"fax": "65325583",
+	"licensee": "SYNERGY DENTAL SPECIALISTS PTE. LTD.",
+	"licensePeriod": "29/01/2016 to 28/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0021",
+	"address": "30 RAFFLES PLACE, CHEVRON HOUSE, #03-05 Singapore 048622",
+	"doctorInCharge": [
+		{
+			"name": "ONG SIU-MIN ETHEL",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986",
+				"MSc (University of London, United Kingdom) 1990"
+			],
+			"specialties": [
+				"Periodontology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Periodontology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "14D0021",
+	"coordinates": [
+		103.8520088,
+		1.2842148
+	],
+	"svy21": [
+		30080.07,
+		29627.47
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"name": "JADE MEDICAL CLINIC PTE LTD",
+	"tel": "62259813",
+	"fax": "62259541",
+	"licensee": "JADE MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "16/12/2013 to 15/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405410",
+	"address": "6 EU TONG SEN STREET, The Central, #04-46/47 Singapore 059817",
+	"doctorInCharge": [
+		{
+			"name": "leow cheng gek",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405410",
+	"coordinates": [
+		103.846558,
+		1.2888386
+	],
+	"svy21": [
+		29473.44,
+		30138.74
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

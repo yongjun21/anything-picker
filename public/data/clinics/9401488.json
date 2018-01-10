@@ -1,0 +1,58 @@
+{
+	"name": "SIA-NKF DIALYSIS CENTRE",
+	"tel": "62990200",
+	"fax": "62519484",
+	"licensee": "THE NATIONAL KIDNEY FOUNDATION",
+	"licensePeriod": "03/12/2016 to 02/12/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9401488",
+	"address": "BLK 225 Toa Payoh Lor 8, #01-54 Singapore 310225",
+	"doctorInCharge": [
+		{
+			"name": "MOOPPIL NANDAKUMAR",
+			"qualifications": [
+				"MBBS (University of Kerala, India) 1975",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "07:00 am to 11:00 pm",
+		"Tuesday": "07:00 am to 11:00 pm",
+		"Wednesday": "07:00 am to 11:00 pm",
+		"Thursday": "07:00 am to 11:00 pm",
+		"Friday": "07:00 am to 11:00 pm",
+		"Saturday": "07:00 am to 11:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401488",
+	"coordinates": [
+		103.8559142,
+		1.3395075
+	],
+	"svy21": [
+		30514.65,
+		35741.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

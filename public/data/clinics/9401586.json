@@ -1,0 +1,42 @@
+{
+	"name": "T S WONG CLINIC & SURGERY",
+	"tel": "63688670",
+	"fax": "63689278",
+	"licensee": "WONG TECK SIN @ WONG BEE CHUNG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401586",
+	"address": "BLK 166 WOODLANDS ST 13, #02-523 Singapore 730166",
+	"doctorInCharge": [
+		{
+			"name": "WONG TECK SIN @ WONG BEE CHUNG",
+			"qualifications": [
+				"MBBS (University of New South Wales, Australia) 1975"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9401586",
+	"coordinates": [
+		103.7754005,
+		1.4336333
+	],
+	"svy21": [
+		21554.59,
+		46149.49
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

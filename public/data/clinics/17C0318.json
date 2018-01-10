@@ -1,0 +1,51 @@
+{
+	"name": "GSH CLINIC & SURGERY PTE. LTD.",
+	"tel": "62605942",
+	"fax": "62605742",
+	"licensee": "GSH CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "13/10/2017 to 12/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17C0318",
+	"address": "9 YIO CHU KANG ROAD, SPACE @ KOVAN, #01-40 Singapore 545523",
+	"doctorInCharge": [
+		{
+			"name": "Goh Sing Hong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2001",
+				"Dip OM (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:30 pm, 06:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:30 pm, 06:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:30 pm, 06:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:30 pm, 06:00 pm to 09:30 pm",
+		"Saturday": "08:30 am to 01:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "17C0318",
+	"coordinates": [
+		103.8768836,
+		1.3546652
+	],
+	"svy21": [
+		32848.29,
+		37417.56
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

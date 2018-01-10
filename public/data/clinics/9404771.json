@@ -1,0 +1,53 @@
+{
+	"name": "EYE CLINIC SINGAPORE INTERNATIONAL",
+	"tel": "67349766",
+	"fax": "67388061",
+	"licensee": "EYE CLINIC SINGAPORE INTERNATIONAL PTE. LTD.",
+	"licensePeriod": "10/03/2014 to 09/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404771",
+	"address": "290 ORCHARD ROAD, PARAGON, #16-11 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Law Ngai Mun",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983",
+				"FRCS (Ophth) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1988",
+				"FRCOphth (Royal College of Ophthalmologists, United Kingdom) 1989",
+				"FAMS (Ophth) (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 am",
+		"Tuesday": "01:00 pm to 04:00 pm",
+		"Wednesday": "09:00 am to 12:00 am",
+		"Thursday": "09:00 am to 12:00 am",
+		"Friday": "01:00 pm to 04:00 pm"
+	},
+	"id": "9404771",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

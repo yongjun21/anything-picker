@@ -1,0 +1,59 @@
+{
+	"name": "S Y LEE CLINIC",
+	"tel": "62504433",
+	"fax": "62506676",
+	"licensee": "LEE SUAN YEW",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401440",
+	"address": "400 BALESTIER ROAD, BALESTIER PLAZA, #01-11 Singapore 329802",
+	"doctorInCharge": [
+		{
+			"name": "LEE SUAN YEW",
+			"qualifications": [
+				"MB Bchir (University of Cambridge, United Kingdom) 1961",
+				"MRCP (Int Med) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1966",
+				"FRCP (Int Med) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1980",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 1980",
+				"FAMS (Academy of Medicine, Singapore) 1981"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401440",
+	"coordinates": [
+		103.8503954,
+		1.3257247
+	],
+	"svy21": [
+		29900.47,
+		34217.43
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

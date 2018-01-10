@@ -1,6 +1,6 @@
 {
 	"name": "NEWPORT DENTAL",
-	"tel": "68014007",
+	"tel": "63867578",
 	"fax": "68014007",
 	"licensee": "NEWPORT DENTAL GROUP",
 	"licensePeriod": "26/02/2016 to 25/02/2018",
@@ -22,5 +22,10 @@
 			"Oral & Maxillo-Facial Surgery",
 			"Orthodontics"
 		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 08:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 am to 06:00 pm"
 	}
 }

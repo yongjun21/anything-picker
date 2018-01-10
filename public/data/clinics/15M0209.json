@@ -1,0 +1,51 @@
+{
+	"name": "THE GOOD LIFE MEDICAL CENTER",
+	"tel": "67107551",
+	"fax": "67781372",
+	"licensee": "THE GOOD LIFE PTE. LTD.",
+	"licensePeriod": "23/06/2017 to 22/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0209",
+	"address": "820 THOMSON ROAD, MOUNT ALVERNIA HOSPITAL, #07-57 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "Carol Tan",
+			"qualifications": [
+				"MBBS (University of Adelaide, Australia) 1986",
+				"MRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1991"
+			],
+			"specialties": [
+				"Geriatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Geriatric Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "15M0209",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

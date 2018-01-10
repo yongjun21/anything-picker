@@ -1,0 +1,49 @@
+{
+	"name": "FRIENDS DENTAL SURGEONS",
+	"tel": "67855567",
+	"fax": "67855352",
+	"licensee": "NG GHIM CHEW SHAWN",
+	"licensePeriod": "02/07/2015 to 01/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402497",
+	"address": "BLK 201D TAMPINES ST 21, #01-1121 Singapore 524201",
+	"doctorInCharge": [
+		{
+			"name": "NG GHIM CHEW SHAWN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1996",
+				"MFGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1999"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402497",
+	"coordinates": [
+		103.9535865,
+		1.3522623
+	],
+	"svy21": [
+		41384.47,
+		37152.14
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

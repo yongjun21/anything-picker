@@ -1,0 +1,41 @@
+{
+	"name": "MEDICAL AESTHETICS",
+	"tel": "67744377",
+	"fax": "67744486",
+	"licensee": "REJUVE AESTHETICS PTE. LTD.",
+	"licensePeriod": "12/01/2015 to 11/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405793",
+	"address": "BLK 450 CLEMENTI AVENUE 3, #01-291 Singapore 120450",
+	"doctorInCharge": [
+		{
+			"name": "ROBERT ONG CHEE MENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9405793",
+	"coordinates": [
+		103.7654763,
+		1.3135389
+	],
+	"svy21": [
+		20449.8,
+		32870.07
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

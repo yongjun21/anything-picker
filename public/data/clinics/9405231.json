@@ -1,0 +1,50 @@
+{
+	"name": "CORPORATE DENTAL CLINIC",
+	"tel": "67477919",
+	"fax": "67479332",
+	"licensee": "Sivagnanam Rajendram",
+	"licensePeriod": "08/07/2017 to 07/07/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9405231",
+	"address": "38 HAIG ROAD, Singapore 438741",
+	"doctorInCharge": [
+		{
+			"name": "Sivagnanam Rajendram",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978",
+				"DGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 07:00 pm",
+		"Tuesday": "08:30 am to 07:00 pm",
+		"Wednesday": "08:30 am to 07:00 pm",
+		"Thursday": "08:30 am to 07:00 pm",
+		"Friday": "08:30 am to 07:00 pm",
+		"Saturday": "08:30 am to 02:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405231",
+	"coordinates": [
+		103.8957891,
+		1.3129996
+	],
+	"svy21": [
+		34952.37,
+		32810.43
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

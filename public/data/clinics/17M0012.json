@@ -1,0 +1,56 @@
+{
+	"name": "LIVEWELL MEDICAL FAMILY CLINIC",
+	"tel": "69099888",
+	"fax": "69091448",
+	"licensee": "LIVEWELL MEDICAL PTE. LTD.",
+	"licensePeriod": "24/01/2017 to 23/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0012",
+	"address": "20 AH HOOD ROAD, ZHONGSHAN MALL, #01-08 Singapore 329984",
+	"doctorInCharge": [
+		{
+			"name": "Chong Soon Thye",
+			"qualifications": [
+				"MB BCh BAO, LRCP & SI (National University of Ireland, Ireland) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "06:30 pm to 09:30 pm",
+		"Monday": "08:30 am to 01:30 pm, 06:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:30 pm, 06:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:30 pm, 06:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:30 pm, 06:00 pm to 09:30 pm",
+		"Friday": "08:30 am to 01:30 pm, 06:00 pm to 09:30 pm",
+		"Saturday": "06:30 pm to 09:30 pm",
+		"Sunday": "06:30 pm to 09:30 pm"
+	},
+	"id": "17M0012",
+	"coordinates": [
+		103.8465544,
+		1.326945
+	],
+	"svy21": [
+		29473.01,
+		34352.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"name": "EASTERN CLINIC & SURGERY PTE LTD",
+	"tel": "65631206",
+	"fax": "65643569",
+	"licensee": "EASTERN CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "17/08/2015 to 16/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404536",
+	"address": "BLK 318 JURONG EAST STREET 31, #01-48 Singapore 600318",
+	"doctorInCharge": [
+		{
+			"name": "TAN CHIN HOR",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1975"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Wednesday": "Closed",
+		"Thursday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404536",
+	"coordinates": [
+		103.7305607,
+		1.3475082
+	],
+	"svy21": [
+		16564.18,
+		36626.37
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

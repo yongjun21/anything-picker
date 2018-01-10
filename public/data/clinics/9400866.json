@@ -1,0 +1,49 @@
+{
+	"name": "KOH DENTAL SURGERY PTE LTD - JURONG EAST",
+	"tel": "65600033",
+	"fax": "65600033",
+	"licensee": "LEE YAU CHU",
+	"licensePeriod": "15/11/2013 to 14/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400866",
+	"address": "BLK 252 JURONG EAST ST 24, #01-149 Singapore 600252",
+	"doctorInCharge": [
+		{
+			"name": "KOH CHIN TECK",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 12:30 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400866",
+	"coordinates": [
+		103.7381453,
+		1.3430264
+	],
+	"svy21": [
+		17408.24,
+		36130.76
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

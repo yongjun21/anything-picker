@@ -1,0 +1,26 @@
+{
+	"name": "RESTE MEDICAL",
+	"tel": "64633670",
+	"fax": "65433645",
+	"licensee": "RESTE MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "23/09/2017 to 22/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0299",
+	"address": "170 UPPER BUKIT TIMAH ROAD, BUKIT TIMAH SHOPPING CENTRE, #01-03/04 Singapore 588179",
+	"doctorInCharge": [
+		{
+			"name": "Yang Ing Woei",
+			"qualifications": [
+				"MBBS (University of New South Wales, Australia) 1999"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	}
+}

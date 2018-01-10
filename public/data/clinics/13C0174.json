@@ -1,0 +1,58 @@
+{
+	"name": "PARKWAY DENTAL PRACTICE",
+	"tel": "68369808",
+	"fax": "68361193",
+	"licensee": "PARKWAY DENTAL PTE. LTD.",
+	"licensePeriod": "11/07/2017 to 10/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0174",
+	"address": "9 SCOTTS ROAD, PACIFIC PLAZA, #12-02 Singapore 228210",
+	"doctorInCharge": [
+		{
+			"name": "YONG THAN FUI",
+			"qualifications": [
+				"BDS (University of Malaya (Malaysia), Malaysia) 1995",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2002",
+				"MDS (National University of Singapore, Singapore) 2002",
+				"FAM (Singapore) (Academy of Medicine, Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 04:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0174",
+	"coordinates": [
+		103.8321282,
+		1.306547
+	],
+	"svy21": [
+		27867.52,
+		32096.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

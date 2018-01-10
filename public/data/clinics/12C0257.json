@@ -1,0 +1,57 @@
+{
+	"name": "RENALTEAM DIALYSIS CENTRE WOODLANDS",
+	"tel": "63639585",
+	"fax": "63633006",
+	"licensee": "RENALTEAM PTE. LTD.",
+	"licensePeriod": "28/11/2016 to 27/11/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "12C0257",
+	"address": "BLK 325 WOODLANDS STREET 32, #01-147 Singapore 730325",
+	"doctorInCharge": [
+		{
+			"name": "PWEE HOCK SWEE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1965",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1971",
+				"MRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1971",
+				"FAMS (Academy of Medicine, Singapore) 1973",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1975"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "07:00 am to 10:00 pm",
+		"Tuesday": "07:00 am to 10:00 pm",
+		"Wednesday": "07:00 am to 10:00 pm",
+		"Thursday": "07:00 am to 10:00 pm",
+		"Friday": "07:00 am to 10:00 pm",
+		"Saturday": "07:00 am to 10:00 pm"
+	},
+	"id": "12C0257",
+	"coordinates": [
+		103.7795177,
+		1.4307889
+	],
+	"svy21": [
+		22012.77,
+		45834.96
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

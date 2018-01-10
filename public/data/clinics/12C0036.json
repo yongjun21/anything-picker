@@ -1,0 +1,55 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "63389775",
+	"fax": "63389002",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "13/03/2016 to 12/03/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0036",
+	"address": "11 ORCHARD ROAD, DHOBY GHAUT MRT STATION, #B2-01 Singapore 238826",
+	"doctorInCharge": [
+		{
+			"name": "Tan Sue May",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "12C0036",
+	"coordinates": [
+		103.8461152,
+		1.2987013
+	],
+	"svy21": [
+		29424.14,
+		31229.31
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

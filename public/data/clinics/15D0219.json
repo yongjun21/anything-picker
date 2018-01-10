@@ -1,0 +1,46 @@
+{
+	"name": "UNITY DENTICARE",
+	"tel": "63366222",
+	"fax": "65904385",
+	"licensee": "NTUC Health Co-operative Ltd",
+	"licensePeriod": "08/05/2017 to 07/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0219",
+	"address": "BLK 180A MARSILING ROAD, #01-2208 Singapore 731180",
+	"doctorInCharge": [
+		{
+			"name": "Toh Kwai Mui",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "15D0219",
+	"coordinates": [
+		103.7781449,
+		1.4390562
+	],
+	"svy21": [
+		21860.02,
+		46749.11
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

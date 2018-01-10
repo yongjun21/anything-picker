@@ -1,0 +1,56 @@
+{
+	"name": "GYNAE CONSULTANCY PTE LTD",
+	"tel": "67343328",
+	"fax": "67362328",
+	"licensee": "GYNAE CONSULTANCY PTE. LTD.",
+	"licensePeriod": "04/06/2016 to 03/06/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405605",
+	"address": "3 Mount Elizabeth, Mount Elizabeth Medical Centre, #09-07 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Yap Lip Kee",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1984",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1987"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9405605",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

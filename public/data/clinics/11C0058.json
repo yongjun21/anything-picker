@@ -1,0 +1,48 @@
+{
+	"name": "WOW DENTAL SURGERY PTE. LTD.",
+	"tel": "65699969",
+	"fax": "65699969",
+	"licensee": "WOW DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "06/05/2015 to 05/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0058",
+	"address": "BLK 504 JURONG WEST STREET 51, #01-229 Singapore 640504",
+	"doctorInCharge": [
+		{
+			"name": "LIM FOONG FEE",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "05:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "05:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "05:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 02:00 pm",
+		"Sunday": "09:00 am to 02:00 pm"
+	},
+	"id": "11C0058",
+	"coordinates": [
+		103.7188438,
+		1.3498276
+	],
+	"svy21": [
+		15260.22,
+		36882.9
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

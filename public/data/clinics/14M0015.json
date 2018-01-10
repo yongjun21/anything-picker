@@ -1,0 +1,51 @@
+{
+	"name": "S&N AESTHETIC CLINIC",
+	"tel": "65675583",
+	"fax": "67926566",
+	"licensee": "Soh Chern Tau",
+	"licensePeriod": "28/01/2016 to 27/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0015",
+	"address": "BLK 350 JURONG EAST AVENUE 1, #01-1239 Singapore 600350",
+	"doctorInCharge": [
+		{
+			"name": "soh chern tau",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2005",
+				"GDA (Singapore College of Traditional Chinese Medicine, Singapore) 2015"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "11:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "11:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "11:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "11:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "11:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "14M0015",
+	"coordinates": [
+		103.7312556,
+		1.3440494
+	],
+	"svy21": [
+		16641.5,
+		36243.91
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

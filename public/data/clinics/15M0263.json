@@ -1,0 +1,52 @@
+{
+	"name": "DR CHUA'S FAMILY CLINIC PTE. LTD.",
+	"tel": "67928505",
+	"fax": "67928505",
+	"licensee": "DR CHUA'S FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "30/07/2017 to 29/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0263",
+	"address": "BLK 638 JURONG WEST STREET 61, PIONEER MALL, #02-04 Singapore 640638",
+	"doctorInCharge": [
+		{
+			"name": "CHUA KOK KEONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 03:00 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:00 am to 03:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:00 am to 03:00 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:00 am to 03:00 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:00 am to 03:00 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:00 am to 01:00 pm",
+		"Sunday": "05:00 pm to 09:30 pm"
+	},
+	"id": "15M0263",
+	"coordinates": [
+		103.6971748,
+		1.3416924
+	],
+	"svy21": [
+		12848.66,
+		35983.47
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

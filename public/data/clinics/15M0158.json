@@ -1,0 +1,53 @@
+{
+	"name": "BLOODBANK@WESTGATE TOWER",
+	"tel": "67107548",
+	"fax": "62238682",
+	"licensee": "Health Sciences Authority",
+	"licensePeriod": "28/05/2017 to 27/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0158",
+	"address": "1 GATEWAY DRIVE, WESTGATE TOWER, #10-01 to 05 Singapore 608531",
+	"doctorInCharge": [
+		{
+			"name": "Jason Chay",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2002",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2009",
+				"FRC Path (Royal College of Pathologists, United Kingdom) 2013"
+			],
+			"specialties": [
+				"Haematology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": true
+	},
+	"operatingHours": {
+		"Monday": "12:00 pm to 08:00 pm",
+		"Tuesday": "12:00 pm to 08:00 pm",
+		"Wednesday": "12:00 pm to 08:00 pm",
+		"Thursday": "12:00 pm to 08:00 pm",
+		"Friday": "12:00 pm to 08:00 pm",
+		"Saturday": "10:00 am to 05:00 pm"
+	},
+	"id": "15M0158",
+	"coordinates": [
+		103.7429445,
+		1.3345993
+	],
+	"svy21": [
+		17942.3,
+		35198.91
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

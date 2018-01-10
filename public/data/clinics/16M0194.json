@@ -1,0 +1,43 @@
+{
+	"name": "MEDICAL & AESTHETICS FOCUS CLINIC",
+	"tel": "67470573",
+	"fax": "67471045",
+	"licensee": "Medical Focus International Pte Ltd",
+	"licensePeriod": "29/06/2016 to 28/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0194",
+	"address": "13 STAMFORD ROAD, CAPITOL PIAZZA, #B2-36/37 Singapore 178905",
+	"doctorInCharge": [
+		{
+			"name": "Wong Lai Lin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"Dip Derm (University of Wales, United Kingdom) 1998",
+				"DIP (Basic Ultrasonography) (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0194",
+	"coordinates": [
+		103.851262,
+		1.2930788
+	],
+	"svy21": [
+		29996.95,
+		30607.62
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

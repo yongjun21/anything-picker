@@ -1,0 +1,44 @@
+{
+	"name": "KERRY MEDICAL",
+	"tel": "68189945",
+	"fax": "65353700",
+	"licensee": "KERRY MEDICAL CLINIC (HILLFORD) PTE. LTD.",
+	"licensePeriod": "29/06/2017 to 28/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0188",
+	"address": "182 JALAN JURONG KECHIL, THE HILLFORD, #01-65 Singapore 596152",
+	"doctorInCharge": [
+		{
+			"name": "Ho Kai Kwong Jeffrey",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"Dip OM (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0188",
+	"coordinates": [
+		103.7695439,
+		1.3440434
+	],
+	"svy21": [
+		20902.58,
+		36243.1
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

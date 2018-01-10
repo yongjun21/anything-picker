@@ -1,0 +1,52 @@
+{
+	"name": "NORTHEAST MEDICAL GROUP",
+	"tel": "67867848",
+	"fax": "67835638",
+	"licensee": "NORTHEAST (TAMPINES) MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "13/05/2016 to 12/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405180",
+	"address": "20 TAMPINES CENTRAL 1, TAMPINES MRT STATION, #01-25 Singapore 529538",
+	"doctorInCharge": [
+		{
+			"name": "Tan Teck Jack",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 07:00 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 07:00 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 07:00 pm to 10:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 07:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 07:00 pm to 10:00 pm",
+		"Saturday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 07:00 pm to 10:00 pm",
+		"Sunday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 07:00 pm to 10:00 pm"
+	},
+	"id": "9405180",
+	"coordinates": [
+		103.9451447,
+		1.3533015
+	],
+	"svy21": [
+		40444.98,
+		37267.01
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

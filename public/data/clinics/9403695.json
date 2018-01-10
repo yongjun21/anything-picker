@@ -1,0 +1,54 @@
+{
+	"name": "DAWSON PLACE CLINIC",
+	"tel": "64750889",
+	"fax": "64756889",
+	"licensee": "Chan Hian Kiang",
+	"licensePeriod": "17/12/2013 to 16/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403695",
+	"address": "BLK 57 Dawson Road, Dawson Place, #02-03 Singapore 142057",
+	"doctorInCharge": [
+		{
+			"name": "Chan Hian Kiang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "08:00 am to 01:00 pm",
+		"Sunday": "08:00 am to 01:00 pm"
+	},
+	"id": "9403695",
+	"coordinates": [
+		103.810959,
+		1.2927034
+	],
+	"svy21": [
+		25511.57,
+		30566.1
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

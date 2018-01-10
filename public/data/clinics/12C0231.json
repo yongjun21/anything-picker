@@ -1,0 +1,55 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "66362490",
+	"fax": "65436410",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "19/10/2016 to 18/10/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0231",
+	"address": "2 CHANGI BUSINESS PARK AVENUE 1, UE BIZHUB EAST, #01-03 Singapore 486015",
+	"doctorInCharge": [
+		{
+			"name": "Felix Tan Han Young (Felix Chen Hanxian)",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2008"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "12C0231",
+	"coordinates": [
+		103.9631219,
+		1.3358711
+	],
+	"svy21": [
+		42445.75,
+		35339.74
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"name": "SHENTON FAMILY MEDICAL CLINIC",
+	"tel": "65545130",
+	"fax": "65549347",
+	"licensee": "SHENTON FAMILY MEDICAL CLINIC (ANG MO KIO)",
+	"licensePeriod": "11/05/2016 to 10/05/2018",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
+	"hciCode": "9405578",
+	"address": "BLK 728 ANG MO KIO AVENUE 6, #01-4208 Singapore 560728",
+	"doctorInCharge": [
+		{
+			"name": "Gregory Leong Goh Han",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997",
+				"Dip Geriatric Med (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "09:00 am to 12:30 pm",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:30 pm, 07:00 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:30 pm, 07:00 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:30 pm, 07:00 pm to 10:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:30 pm, 07:00 pm to 10:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:30 pm, 07:00 pm to 10:00 pm",
+		"Saturday": "09:00 am to 12:30 pm, 07:00 pm to 10:00 pm",
+		"Sunday": "09:00 am to 12:30 pm, 07:00 pm to 10:00 pm"
+	},
+	"id": "9405578",
+	"coordinates": [
+		103.8456829,
+		1.3726284
+	],
+	"svy21": [
+		29376,
+		39403.8
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

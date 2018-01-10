@@ -1,0 +1,54 @@
+{
+	"name": "SEMBAWANG MART MEDICAL CENTRE",
+	"tel": "64819793",
+	"fax": "64819796",
+	"licensee": "SEMBAWANG MART MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "17/02/2016 to 16/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0038",
+	"address": "BLK 511 CANBERRA ROAD, SEMBAWANG MART, #02-02A Singapore 750511",
+	"doctorInCharge": [
+		{
+			"name": "Muhammad Iqbal Bin Abdullah",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 08:00 pm",
+		"Saturday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Sunday": "06:00 pm to 10:00 pm",
+		"Public Holiday": "06:00 pm to 10:00 pm"
+	},
+	"id": "16M0038",
+	"coordinates": [
+		103.8196196,
+		1.4538116
+	],
+	"svy21": [
+		26475.53,
+		48380.63
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	]
+}

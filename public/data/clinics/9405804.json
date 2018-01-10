@@ -1,0 +1,43 @@
+{
+	"name": "HEALTHWERKZ MEDICAL CENTRE",
+	"tel": "65557628",
+	"fax": "65557620",
+	"licensee": "HEALTHWERKZ MEDICAL GROUP PTE. LTD.",
+	"licensePeriod": "20/01/2015 to 19/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405804",
+	"address": "BLK 355 sembawang way, #01-02 Singapore 750355",
+	"doctorInCharge": [
+		{
+			"name": "Liau Kah Han",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9405804",
+	"coordinates": [
+		103.8187276,
+		1.4495449
+	],
+	"svy21": [
+		26376.26,
+		47908.83
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	]
+}

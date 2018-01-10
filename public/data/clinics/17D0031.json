@@ -1,0 +1,41 @@
+{
+	"name": "KOH DENTAL SURGERY PTE LTD",
+	"tel": "67770181",
+	"fax": "67755952",
+	"licensee": "KOH DENTAL SURGERY PTE LTD",
+	"licensePeriod": "15/02/2017 to 14/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17D0031",
+	"address": "1 WEST COAST DRIVE, NEWEST, #01-03/04 Singapore 128020",
+	"doctorInCharge": [
+		{
+			"name": "Koh Chin Teck",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "17D0031",
+	"coordinates": [
+		103.7574513,
+		1.3164132
+	],
+	"svy21": [
+		19556.7,
+		33187.93
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"name": "VISTA FAMILY CLINIC",
+	"tel": "67798567",
+	"fax": "68723257",
+	"licensee": "SI HOE YEEN LING",
+	"licensePeriod": "01/12/2013 to 30/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402205",
+	"address": "BLK 320 CLEMENTI AVE 4, #01-47 Singapore 120320",
+	"doctorInCharge": [
+		{
+			"name": "SI HOE YEEN LING",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402205",
+	"coordinates": [
+		103.7653107,
+		1.3169013
+	],
+	"svy21": [
+		20431.38,
+		33241.88
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

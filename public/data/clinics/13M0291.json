@@ -1,0 +1,54 @@
+{
+	"name": "RAVENNA UROLOGY CLINIC",
+	"tel": "64797822",
+	"fax": "64793989",
+	"licensee": "RAVENNA UROLOGY CLINIC PTE. LTD.",
+	"licensePeriod": "25/10/2017 to 24/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13M0291",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #07-12 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Sim Hong Gee",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"MRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 2000",
+				"M Med (Surg) (National University of Singapore, Singapore) 2001",
+				"FAMS (Urology) (Academy of Medicine, Singapore) 2005"
+			],
+			"specialties": [
+				"Urology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Urology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "13M0291",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "63867897",
+	"fax": "63867876",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "03/09/2017 to 02/09/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402157",
+	"address": "BLK 809 HOUGANG CENTRAL, #01-180 Singapore 530809",
+	"doctorInCharge": [
+		{
+			"name": "Thien Sook Kyen",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:00 am to 01:00 pm",
+		"Sunday": "08:00 am to 01:00 pm",
+		"Public Holiday": "08:00 am to 01:00 pm"
+	},
+	"id": "9402157",
+	"coordinates": [
+		103.8936682,
+		1.371196
+	],
+	"svy21": [
+		34716.18,
+		39245.49
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

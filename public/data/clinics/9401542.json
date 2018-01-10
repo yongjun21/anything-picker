@@ -1,0 +1,45 @@
+{
+	"name": "ST GEORGES CLINIC AND SURGERY",
+	"tel": "62984833",
+	"fax": "62984833",
+	"licensee": "LEE SIEW KHIM",
+	"licensePeriod": "16/03/2015 to 15/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401542",
+	"address": "BLK 3 ST GEORGE'S RD, #01-105 Singapore 320003",
+	"doctorInCharge": [
+		{
+			"name": "LEE SIEW KHIM",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9401542",
+	"coordinates": [
+		103.8611073,
+		1.3225874
+	],
+	"svy21": [
+		31092.61,
+		33870.52
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

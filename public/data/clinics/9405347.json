@@ -1,0 +1,43 @@
+{
+	"name": "CENTRAL 24-HR CLINIC (CLEMENTI)",
+	"tel": "67732925",
+	"fax": "67732927",
+	"licensee": "CMI LIFEMED PTE. LTD.",
+	"licensePeriod": "22/10/2015 to 21/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405347",
+	"address": "BLK 450 Clementi Ave 3, #01-291 Singapore 120450",
+	"doctorInCharge": [
+		{
+			"name": "Lye Tong Fong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995",
+				"Dip OM (National University of Singapore, Singapore) 2009",
+				"GDMH (National University of Singapore, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"id": "9405347",
+	"coordinates": [
+		103.7654763,
+		1.3135389
+	],
+	"svy21": [
+		20449.8,
+		32870.07
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

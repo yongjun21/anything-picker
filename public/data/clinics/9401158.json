@@ -1,0 +1,56 @@
+{
+	"name": "NEIGHBOURHOOD MEDICAL CLINIC",
+	"tel": "63868689",
+	"fax": "63862510",
+	"licensee": "TAN HENG KWANG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401158",
+	"address": "BLK 683 HOUGANG AVE 8, #01-901 Singapore 530683",
+	"doctorInCharge": [
+		{
+			"name": "TAN HENG KWANG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9401158",
+	"coordinates": [
+		103.8863678,
+		1.3733127
+	],
+	"svy21": [
+		33903.73,
+		39479.52
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

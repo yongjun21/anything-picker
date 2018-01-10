@@ -1,0 +1,51 @@
+{
+	"name": "UNITED DENTAL SURGERY",
+	"tel": "67585222",
+	"fax": "66003343",
+	"licensee": "NG SWEE LIN",
+	"licensePeriod": "24/07/2015 to 23/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402511",
+	"address": "BLK 769 YISHUN AVE 3, #01-281 Singapore 760769",
+	"doctorInCharge": [
+		{
+			"name": "NG SWEE LIN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 12:30 pm",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9402511",
+	"coordinates": [
+		103.8332224,
+		1.4246021
+	],
+	"svy21": [
+		27989.3,
+		45150.77
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

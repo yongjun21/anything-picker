@@ -1,0 +1,59 @@
+{
+	"name": "RENALTEAM DIALYSIS CENTRE ANG MO KIO",
+	"tel": "64849300",
+	"fax": "64512930",
+	"licensee": "RENALTEAM PTE. LTD.",
+	"licensePeriod": "28/03/2017 to 27/03/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "13C0074",
+	"address": "BLK 128 ANG MO KIO AVENUE 3, #01-1841 Singapore 560128",
+	"doctorInCharge": [
+		{
+			"name": "PWEE HOCK SWEE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1965",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1971",
+				"MRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1971",
+				"FAMS (Academy of Medicine, Singapore) 1973",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1975"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "07:00 am to 06:00 pm",
+		"Tuesday": "07:00 am to 06:00 pm",
+		"Wednesday": "07:00 am to 06:00 pm",
+		"Thursday": "07:00 am to 06:00 pm",
+		"Friday": "07:00 am to 06:00 pm",
+		"Saturday": "07:00 am to 06:00 pm"
+	},
+	"id": "13C0074",
+	"coordinates": [
+		103.843547,
+		1.370832
+	],
+	"svy21": [
+		29138.3,
+		39205.16
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

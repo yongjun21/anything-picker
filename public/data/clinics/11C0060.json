@@ -1,0 +1,50 @@
+{
+	"name": "ST ANDREW'S MISSION HOSPITAL CLINIC (ELLIOT ROAD)",
+	"tel": "65173806",
+	"fax": "65173801",
+	"licensee": "ST ANDREW'S MISSION HOSPITAL",
+	"licensePeriod": "11/05/2015 to 10/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0060",
+	"address": "1 ELLIOT ROAD, Singapore 458686",
+	"doctorInCharge": [
+		{
+			"name": "Edward Balan Menon",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Rehabilitation Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Tuesday": "09:00 am to 02:00 pm",
+		"Thursday": "09:00 am to 02:00 pm"
+	},
+	"id": "11C0060",
+	"coordinates": [
+		103.92975,
+		1.3107579
+	],
+	"svy21": [
+		38731.91,
+		32562.68
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

@@ -3,7 +3,7 @@
 	"tel": "62990200",
 	"fax": "67430817",
 	"licensee": "THE NATIONAL KIDNEY FOUNDATION",
-	"licensePeriod": "13/11/2015 to 12/11/2017",
+	"licensePeriod": "13/11/2017 to 12/11/2019",
 	"licenseClass": "[ 2 Years ( 2C ) ]",
 	"hciCode": "9402183",
 	"address": "BLK 102 ALJUNIED CRESCENT, #01-265 Singapore 380102",
@@ -23,6 +23,7 @@
 		"Renal Dialysis"
 	],
 	"detailedServices": {
+		"General Medical": true,
 		"Specialist Medical": [
 			"Renal Medicine"
 		]

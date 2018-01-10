@@ -1,6 +1,6 @@
 {
 	"name": "MAYAN MEDICAL CLINIC",
-	"tel": "67348992",
+	"tel": "88762242",
 	"fax": "00000000",
 	"licensee": "Maryan Pte Ltd",
 	"licensePeriod": "01/03/2016 to 28/02/2018",
@@ -20,5 +20,10 @@
 	],
 	"detailedServices": {
 		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 07:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
 	}
 }

@@ -1,0 +1,50 @@
+{
+	"name": "THE FAHRENHEIT MEDICAL CENTRE",
+	"tel": "64438063",
+	"fax": "64438063",
+	"licensee": "MOHD EMRAN BIN MAMAT",
+	"licensePeriod": "12/03/2017 to 11/03/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "13C0053",
+	"address": "BLK 218 BEDOK NORTH STREET 1, #01-27 Singapore 460218",
+	"doctorInCharge": [
+		{
+			"name": "MOHD EMRAN BIN MAMAT",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "09:00 am to 01:00 pm, 03:00 pm to 05:00 pm",
+		"Monday": "09:00 am to 01:00 pm, 03:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 03:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 03:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 03:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 03:00 pm to 05:00 pm, 07:00 pm to 09:00 pm"
+	},
+	"id": "13C0053",
+	"coordinates": [
+		103.9342494,
+		1.327493
+	],
+	"svy21": [
+		39232.58,
+		34413.17
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

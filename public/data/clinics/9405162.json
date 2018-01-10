@@ -1,0 +1,54 @@
+{
+	"name": "FRONTIER MEDICAL ASSOCIATES",
+	"tel": "68622340",
+	"fax": "68622170",
+	"licensee": "FRONTIER MEDICAL ASSOCIATES (JW) PTE. LTD.",
+	"licensePeriod": "30/04/2015 to 29/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405162",
+	"address": "BLK 678D JURONG WEST STREET 64, #01-347 Singapore 644678",
+	"doctorInCharge": [
+		{
+			"name": "POH ZHONGXIAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 03:00 pm, 06:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 03:00 pm, 06:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 03:00 pm, 06:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 03:00 pm, 06:00 pm to 09:30 pm",
+		"Friday": "08:30 am to 03:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405162",
+	"coordinates": [
+		103.7033954,
+		1.3448649
+	],
+	"svy21": [
+		13540.96,
+		36334.23
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"name": "NKF DIALYSIS CENTRE",
+	"tel": "62990200",
+	"licensee": "THE NATIONAL KIDNEY FOUNDATION",
+	"licensePeriod": "29/02/2016 to 10/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0007",
+	"address": "BLK 940 JURONG WEST STREET 91, #01-441 Singapore 640940",
+	"doctorInCharge": [
+		{
+			"name": "Mooppil Nandakumar",
+			"qualifications": [
+				"MBBS (University of Kerala, India) 1975",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"id": "16M0007",
+	"coordinates": [
+		103.6888734,
+		1.3433079
+	],
+	"svy21": [
+		11924.8,
+		36162.15
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"name": "MERIDIAN MEDICAL AND DENTAL CENTRE",
+	"tel": "62825205",
+	"fax": "62845205",
+	"licensee": "EUGENE UNG",
+	"licensePeriod": "13/10/2016 to 12/10/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401101",
+	"address": "BLK 327 HOUGANG AVE 5, #01-162 Singapore 530327",
+	"doctorInCharge": [
+		{
+			"name": "EUGENE UNG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1979"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9401101",
+	"coordinates": [
+		103.8959876,
+		1.3683068
+	],
+	"svy21": [
+		34974.31,
+		38926.02
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

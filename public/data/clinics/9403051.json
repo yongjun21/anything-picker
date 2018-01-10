@@ -1,0 +1,54 @@
+{
+	"name": "TAY ORTHOPAEDIC CLINIC PTE LTD",
+	"tel": "67381131",
+	"fax": "62355731",
+	"licensee": "TAY CHONG KAM",
+	"licensePeriod": "30/07/2015 to 29/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403051",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #13-12 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "TAY CHONG KAM",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1971",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 1975",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1976",
+				"FAMS (Orth Surg) (Academy of Medicine, Singapore) 1979"
+			],
+			"specialties": [
+				"Orthopaedic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Orthopaedic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9403051",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

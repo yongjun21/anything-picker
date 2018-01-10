@@ -21,10 +21,7 @@
 	],
 	"detailedServices": {
 		"General Medical": true,
-		"Yellow Fever Vaccination": [
-			"Geriatric Medicine",
-			"Infectious Diseases"
-		],
+		"Yellow Fever Vaccination": true,
 		"Specialist Medical": [
 			"Geriatric Medicine",
 			"Infectious Diseases"
@@ -34,6 +31,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Monday to Friday": "09:00 am to 06:00 pm"
+		"Monday to Friday": "09:00 am to 06:00 pm",
+		"Saturday to Saturday": "09:00 am to 01:00 pm"
 	}
 }

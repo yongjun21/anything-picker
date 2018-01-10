@@ -1,0 +1,48 @@
+{
+	"name": "ACE DENTAL CENTRE",
+	"tel": "64579032",
+	"fax": "65829390",
+	"licensee": "WOO SIEW KAY",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400017",
+	"address": "BLK 338 ANG MO KIO AVE 1, #01-1669 Singapore 560338",
+	"doctorInCharge": [
+		{
+			"name": "WOO SIEW KAY",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1979"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "Closed",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400017",
+	"coordinates": [
+		103.848987,
+		1.3638957
+	],
+	"svy21": [
+		29743.71,
+		38438.18
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

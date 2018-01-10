@@ -1,0 +1,55 @@
+{
+	"name": "1AESTHETICS, MEDICAL & SURGERY",
+	"tel": "66125173",
+	"fax": "96707265",
+	"licensee": "1AESTHETICS PTE. LTD.",
+	"licensePeriod": "11/11/2016 to 10/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0337",
+	"address": "3 GATEWAY DRIVE, WESTGATE, #03-21 Singapore 608532",
+	"doctorInCharge": [
+		{
+			"name": "Wan Chee Kwang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007",
+				"MRCSEd (Royal College of Surgeons of Edinburgh, United Kingdom) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "01:00 pm to 09:00 pm",
+		"Tuesday": "01:00 pm to 09:00 pm",
+		"Wednesday": "01:00 pm to 09:00 pm",
+		"Thursday": "01:00 pm to 06:00 pm",
+		"Friday": "01:00 pm to 09:00 pm",
+		"Saturday": "01:00 pm to 09:00 pm",
+		"Sunday": "01:00 pm to 09:00 pm",
+		"Public Holiday": "01:00 pm to 09:00 pm"
+	},
+	"id": "14M0337",
+	"coordinates": [
+		103.7427664,
+		1.3341575
+	],
+	"svy21": [
+		17922.49,
+		35150.06
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

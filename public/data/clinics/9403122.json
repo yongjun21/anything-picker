@@ -1,0 +1,51 @@
+{
+	"name": "NATIONAL HEALTHCARE GROUP POLYCLINICS (WOODLANDS)",
+	"tel": "63553000",
+	"fax": "63674964",
+	"licensee": "NATIONAL HEALTHCARE GROUP POLYCLINICS",
+	"licensePeriod": "19/09/2014 to 18/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403122",
+	"address": "10 WOODLANDS ST 31, Singapore 738579",
+	"doctorInCharge": [
+		{
+			"name": "SIM CHIN SING EVAN",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1996",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403122",
+	"coordinates": [
+		103.7752268,
+		1.4309083
+	],
+	"svy21": [
+		21535.25,
+		45848.17
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

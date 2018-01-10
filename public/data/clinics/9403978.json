@@ -1,0 +1,54 @@
+{
+	"name": "TONG CLINIC & SURGERY",
+	"tel": "64528311",
+	"fax": "64528311",
+	"licensee": "Tong Teck Hwee",
+	"licensePeriod": "08/11/2014 to 07/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403978",
+	"address": "BLK 316B ANG MO KIO STREET 31, MULTI STOREY CAR PARK, #01-05 Singapore 563316",
+	"doctorInCharge": [
+		{
+			"name": "Tong Teck Hwee",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1972"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 pm to 12:30 pm",
+		"Sunday": "08:30 pm to 12:30 pm"
+	},
+	"id": "9403978",
+	"coordinates": [
+		103.847677,
+		1.3646254
+	],
+	"svy21": [
+		29597.93,
+		38518.86
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

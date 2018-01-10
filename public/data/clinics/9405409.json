@@ -1,0 +1,47 @@
+{
+	"name": "EHA CLINIC @ JURONG",
+	"tel": "65660257",
+	"fax": "68447136",
+	"licensee": "Tam Tak Chuen",
+	"licensePeriod": "25/04/2016 to 15/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405409",
+	"address": "BLK 492 JURONG WEST STREET 41, #01-40 Singapore 640492",
+	"doctorInCharge": [
+		{
+			"name": "Tam Tak Chuen",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2006",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9405409",
+	"coordinates": [
+		103.7251805,
+		1.3499454
+	],
+	"svy21": [
+		15965.43,
+		36895.89
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

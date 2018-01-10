@@ -1,0 +1,50 @@
+{
+	"name": "TEBAN DENTAL CENTRE PTE LTD",
+	"tel": "65613277",
+	"fax": "65613277",
+	"licensee": "LIEU PING HENG",
+	"licensePeriod": "15/06/2014 to 14/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403218",
+	"address": "BLK 61 TEBAN GARDENS ROAD, #01-08 Singapore 600061",
+	"doctorInCharge": [
+		{
+			"name": "LIEU PING HENG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "06:30 pm to 08:00 pm",
+		"Tuesday": "06:30 pm to 08:00 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "06:30 pm to 08:00 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403218",
+	"coordinates": [
+		103.7382928,
+		1.3221364
+	],
+	"svy21": [
+		17424.57,
+		33820.84
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

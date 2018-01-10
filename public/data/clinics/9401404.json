@@ -1,0 +1,50 @@
+{
+	"name": "ROCHOR CENTRE CLINIC",
+	"tel": "65358833",
+	"fax": "62933638",
+	"licensee": "WEE JOO LING MARY",
+	"licensePeriod": "15/01/2017 to 14/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9401404",
+	"address": "175 BENCOOLEN STREET, BURLINGTON SQUARE, #01-20 Singapore 189649",
+	"doctorInCharge": [
+		{
+			"name": "WEE JOO LING MARY",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1968",
+				"Dip (Trop Public Health) (The London School of Hygiene and Tropical Medicine, United Kingdom) 1974"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9401404",
+	"coordinates": [
+		103.8527007,
+		1.3022443
+	],
+	"svy21": [
+		30157.05,
+		31621.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

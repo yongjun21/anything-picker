@@ -1,0 +1,52 @@
+{
+	"name": "DR. SMILE DENTAL CLINIC",
+	"tel": "67792788",
+	"fax": "67792788",
+	"licensee": "KH DENTAL PTE. LTD.",
+	"licensePeriod": "21/04/2017 to 20/04/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "15D0109",
+	"address": "BLK 443 CLEMENTI AVENUE 3, #01-81 Singapore 120443",
+	"doctorInCharge": [
+		{
+			"name": "Hsu Wei Cheng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "09:00 am to 05:00 pm"
+	},
+	"id": "15D0109",
+	"coordinates": [
+		103.7640104,
+		1.3142105
+	],
+	"svy21": [
+		20286.66,
+		32944.35
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"name": "MARINA BAY DENTAL",
+	"tel": "66345700",
+	"fax": "66345701",
+	"licensee": "DENTAL AESTHETICS PRIVATE LIMITED",
+	"licensePeriod": "04/03/2017 to 03/03/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "15D0064",
+	"address": "8A MARINA BOULEVARD, MARINA BAY LINK MALL, #B2-21 Singapore 018984",
+	"doctorInCharge": [
+		{
+			"name": "Jessica Lauren Chi",
+			"qualifications": [
+				"DDS (University of Southern California School of Dentistry, United States) 2007"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "15D0064",
+	"coordinates": [
+		103.8533493,
+		1.2802277
+	],
+	"svy21": [
+		30229.26,
+		29186.6
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

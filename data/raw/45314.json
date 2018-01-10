@@ -1,6 +1,6 @@
 {
 	"name": "AA DENTAL SURGERY",
-	"tel": "62259383",
+	"tel": "62352629",
 	"fax": "62259382",
 	"licensee": "AA DENTAL SURGERY PTE. LTD.",
 	"licensePeriod": "23/12/2015 to 22/12/2017",
@@ -18,5 +18,9 @@
 	],
 	"detailedServices": {
 		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "10:00 am to 08:00 pm",
+		"Saturday": "10:00 am to 03:00 pm"
 	}
 }

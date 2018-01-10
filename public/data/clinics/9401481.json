@@ -1,0 +1,54 @@
+{
+	"name": "SHENTON CLINIC",
+	"tel": "65654442",
+	"fax": "65696635",
+	"licensee": "TAN KOK ENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401481",
+	"address": "BLK 498 JURONG WEST ST 41, #01-464 Singapore 640498",
+	"doctorInCharge": [
+		{
+			"name": "TAN HUI LING DIANA",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 1998"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:30 pm, 06:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:30 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401481",
+	"coordinates": [
+		103.7243073,
+		1.3483334
+	],
+	"svy21": [
+		15868.25,
+		36717.64
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

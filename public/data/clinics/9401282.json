@@ -1,0 +1,46 @@
+{
+	"name": "PANG DENTAL SURGERY",
+	"tel": "64520177",
+	"fax": "64520177",
+	"licensee": "PANG KOK THAI",
+	"licensePeriod": "12/08/2015 to 11/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401282",
+	"address": "6 SIN MING ROAD, SIN MING PLAZA TOWER 2, #01-11 Singapore 575585",
+	"doctorInCharge": [
+		{
+			"name": "PANG KOK THAI",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1973"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 03:30 pm"
+	},
+	"id": "9401282",
+	"coordinates": [
+		103.8364072,
+		1.3528637
+	],
+	"svy21": [
+		28343.73,
+		37218.31
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

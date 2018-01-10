@@ -1,0 +1,54 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "63196692",
+	"fax": "62618863",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "01/02/2014 to 31/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403511",
+	"address": "BLK 2 Jurong Port Road, Singapore 619088",
+	"doctorInCharge": [
+		{
+			"name": "Joseph Sunil Kumar",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 2001",
+				"BSc (Medicine) (Flinders University, Australia) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 10:00 am, 03:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 10:00 am, 03:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 10:00 am, 03:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 10:00 am, 03:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 10:00 am, 03:00 pm to 05:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9403511",
+	"coordinates": [
+		103.7176599,
+		1.322023
+	],
+	"svy21": [
+		15128.33,
+		33808.4
+	],
+	"planningArea": "BL",
+	"neighbours": [
+		"JE",
+		"PN",
+		"JW"
+	]
+}

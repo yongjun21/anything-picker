@@ -1,0 +1,53 @@
+{
+	"name": "OMF INTERNATIONAL (IHQ) LTD",
+	"tel": "63194550",
+	"fax": "64721269",
+	"licensee": "OMF INTERNATIONAL (IHQ) LTD",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401211",
+	"address": "2 CLUNY RD, Singapore 259570",
+	"doctorInCharge": [
+		{
+			"name": "George Khoo Teng Hoo",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984",
+				"M Med (OM) (National University of Singapore, Singapore) 1994",
+				"GDMH (National University of Singapore, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 01:30 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 01:30 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 01:30 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 01:30 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 01:30 pm to 05:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9401211",
+	"coordinates": [
+		103.8183976,
+		1.3094519
+	],
+	"svy21": [
+		26339.44,
+		32418.06
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"name": "NEPTUNE DENTAL GROUP",
+	"tel": "64421435",
+	"fax": "64454344",
+	"licensee": "SAMSUDIN JETTY",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401163",
+	"address": "BLK 42 CHAI CHEE ST, #01-64 Singapore 461042",
+	"doctorInCharge": [
+		{
+			"name": "SAMSUDIN JETTY",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9401163",
+	"coordinates": [
+		103.9258048,
+		1.3279788
+	],
+	"svy21": [
+		38292.78,
+		34466.85
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

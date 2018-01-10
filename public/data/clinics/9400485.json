@@ -1,0 +1,55 @@
+{
+	"name": "ESTEE MEDICAL CENTRE PTE LTD",
+	"tel": "67881832",
+	"fax": "67885857",
+	"licensee": "LEE SEONG TUCK",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9400485",
+	"address": "BLK 474 TAMPINES ST 43, #01-120 Singapore 520474",
+	"doctorInCharge": [
+		{
+			"name": "LEE SEONG TUCK",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"M Med (O&G) (National University of Singapore, Singapore) 1986",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:00 pm, 02:30 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:30 pm to 05:00 pm",
+		"Thursday": "07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:30 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400485",
+	"coordinates": [
+		103.9527876,
+		1.359873
+	],
+	"svy21": [
+		41295.52,
+		37993.69
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

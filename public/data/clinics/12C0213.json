@@ -1,0 +1,58 @@
+{
+	"name": "NORTHEAST MEDICAL GROUP",
+	"tel": "66943282",
+	"fax": "66943283",
+	"licensee": "NORTHEAST (BUONA VISTA) MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "18/05/2017 to 01/10/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "12C0213",
+	"address": "BLK 25 GHIM MOH LINK, #01-10 Singapore 270025",
+	"doctorInCharge": [
+		{
+			"name": "Goh Tze Chien",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2003",
+				"MRCSEd (Royal College of Surgeons of Edinburgh, United Kingdom) 2007",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2010",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2015",
+				"GDMH (National University of Singapore, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 10:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:30 am to 01:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "08:30 am to 01:00 pm"
+	},
+	"id": "12C0213",
+	"coordinates": [
+		103.7862591,
+		1.3081556
+	],
+	"svy21": [
+		22762.72,
+		32274.77
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

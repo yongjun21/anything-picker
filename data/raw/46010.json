@@ -1,0 +1,31 @@
+{
+	"name": "SMILE DESIGN DENTAL PRACTICE",
+	"tel": "64638588",
+	"fax": "64638588",
+	"licensee": "Gordon Tam Ho Fai",
+	"licensePeriod": "22/09/2017 to 21/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17D0296",
+	"address": "10 JALAN SERENE, SERENE CENTRE, #02-04 Singapore 258748",
+	"doctorInCharge": [
+		{
+			"name": "Gordon Tam Ho Fai",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Dental Public Health",
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Paediatric Dentistry",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	}
+}

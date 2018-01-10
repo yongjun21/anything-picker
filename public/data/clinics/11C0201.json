@@ -1,0 +1,53 @@
+{
+	"name": "ACCORD MEDICAL CLINIC",
+	"tel": "68441528",
+	"fax": "68443782",
+	"licensee": "ACCORD MEDICAL PTE. LTD.",
+	"licensePeriod": "09/11/2017 to 08/11/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0201",
+	"address": "BLK 325 UBI AVENUE 1, #01-701 Singapore 400325",
+	"doctorInCharge": [
+		{
+			"name": "ONG CHOR TECK, JOSEPH",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 10:00 pm",
+		"Tuesday": "08:30 am to 10:00 pm",
+		"Wednesday": "08:30 am to 10:00 pm",
+		"Thursday": "08:30 am to 10:00 pm",
+		"Friday": "08:30 am to 10:00 pm",
+		"Saturday": "09:00 am to 12:30 pm, 07:00 pm to 10:00 pm",
+		"Sunday": "09:00 am to 12:30 pm, 07:00 pm to 10:00 pm"
+	},
+	"id": "11C0201",
+	"coordinates": [
+		103.9038261,
+		1.3277047
+	],
+	"svy21": [
+		35846.77,
+		34436.47
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

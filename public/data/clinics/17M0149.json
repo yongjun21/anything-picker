@@ -1,0 +1,42 @@
+{
+	"name": "Q & M MUTUAL HEALTHCARE MEDICAL CLINIC",
+	"tel": "64893833",
+	"fax": "64893973",
+	"licensee": "MUTUAL HEALTHCARE PTE. LTD.",
+	"licensePeriod": "26/05/2017 to 25/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0149",
+	"address": "70 PUNGGOL CENTRAL, PUNGGOL MRT STATION, #01-07 Singapore 828868",
+	"doctorInCharge": [
+		{
+			"name": "Tan Seng Soon Dennis",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "17M0149",
+	"coordinates": [
+		103.9020726,
+		1.4045467
+	],
+	"svy21": [
+		35651.38,
+		42933.27
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

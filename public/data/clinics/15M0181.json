@@ -1,0 +1,70 @@
+{
+	"name": "RAFFLESSPECIALISTS",
+	"tel": "63111111",
+	"fax": "68388885",
+	"licensee": "RAFFLES HOSPITAL PTE LTD",
+	"licensePeriod": "09/06/2017 to 08/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0181",
+	"address": "1 SCOTTS ROAD, SHAW CENTRE, #05-01 TO 11 Singapore 228208",
+	"doctorInCharge": [
+		{
+			"name": "Abdul Razakjr Bin Omar",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"M Med (Int Med) (National University of Singapore, Singapore) 2000",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2000",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 2005",
+				"FACC (American College of Cardiology, United States) 2007"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiology",
+			"Dermatology",
+			"Endocrinology",
+			"Gastroenterology",
+			"General Surgery",
+			"Internal Medicine",
+			"Neurology",
+			"Neurosurgery",
+			"Obstetrics & Gynaecology",
+			"Orthopaedic Surgery",
+			"Otorhinolaryngology",
+			"Plastic Surgery",
+			"Psychiatry",
+			"Respiratory Medicine",
+			"Rheumatology",
+			"Urology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 06:00 pm",
+		"Tuesday": "08:30 am to 06:00 pm",
+		"Wednesday": "08:30 am to 06:00 pm",
+		"Thursday": "08:30 am to 06:00 pm",
+		"Friday": "08:30 am to 06:00 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "15M0181",
+	"coordinates": [
+		103.8319706,
+		1.3061133
+	],
+	"svy21": [
+		27849.98,
+		32048.9
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

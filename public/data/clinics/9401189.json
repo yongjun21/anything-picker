@@ -1,0 +1,49 @@
+{
+	"name": "NGOI DENTAL SURGERY",
+	"tel": "65612072",
+	"fax": "65612072",
+	"licensee": "NGOI SENG CHUAN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401189",
+	"address": "BLK 526 JURONG WEST ST 52, #01-317 Singapore 640526",
+	"doctorInCharge": [
+		{
+			"name": "NGOI SENG CHUAN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 am",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401189",
+	"coordinates": [
+		103.7170484,
+		1.3476719
+	],
+	"svy21": [
+		15060.41,
+		36644.54
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

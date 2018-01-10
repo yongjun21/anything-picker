@@ -1,0 +1,46 @@
+{
+	"name": "DRS KOO & NEOH MEDICAL GROUP",
+	"tel": "64443233",
+	"fax": "62142143",
+	"licensee": "DRS KOO & NEOH MEDICAL GROUP PTE LTD",
+	"licensePeriod": "02/11/2015 to 01/11/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0192",
+	"address": "900 SOUTH WOODLANDS DRIVE, WOODLANDS CIVIC CENTRE, #04-05 Singapore 730900",
+	"doctorInCharge": [
+		{
+			"name": "Neoh Chi Lim",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm"
+	},
+	"id": "11C0192",
+	"coordinates": [
+		103.7869309,
+		1.4350183
+	],
+	"svy21": [
+		22837.75,
+		46302.6
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"name": "CLINIC 10",
+	"tel": "65825123",
+	"fax": "65848001",
+	"licensee": "YAP SOEI KIAT",
+	"licensePeriod": "18/03/2017 to 17/03/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402052",
+	"address": "BLK 644 PASIR RIS DR 10, #01-20 Singapore 510644",
+	"doctorInCharge": [
+		{
+			"name": "YAP SOEI KIAT",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1966"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 01:00 pm, 07:00 pm to 10:00 pm",
+		"Tuesday": "09:30 am to 01:00 pm, 07:00 pm to 10:00 pm",
+		"Wednesday": "09:30 am to 01:00 pm, 07:00 pm to 10:00 pm",
+		"Thursday": "09:30 am to 01:00 pm, 07:00 pm to 10:00 pm",
+		"Friday": "09:30 am to 01:00 pm, 07:00 pm to 10:00 pm",
+		"Saturday": "09:30 am to 01:00 pm",
+		"Sunday": "09:30 am to 01:00 pm"
+	},
+	"id": "9402052",
+	"coordinates": [
+		103.9375745,
+		1.3780487
+	],
+	"svy21": [
+		39602.39,
+		40003.39
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"name": "BEDOK MEDICAL CENTRE",
+	"tel": "62414111",
+	"fax": "64436201",
+	"licensee": "YEO PENG HOCK HENRY",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400107",
+	"address": "BLK 18 BEDOK SOUTH RD, #01-57 Singapore 460018",
+	"doctorInCharge": [
+		{
+			"name": "YEO PENG HOCK HENRY",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1969",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1978",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9400107",
+	"coordinates": [
+		103.9347342,
+		1.320625
+	],
+	"svy21": [
+		39286.57,
+		33653.76
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

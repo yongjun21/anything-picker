@@ -1,0 +1,48 @@
+{
+	"name": "MY DENTIST'S CLINIQUE",
+	"tel": "64418887",
+	"fax": "64418887",
+	"licensee": "My Dentist's Clinique Pte. Ltd.",
+	"licensePeriod": "08/01/2014 to 07/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404671",
+	"address": "BLK 204 BEDOK NORTH STREET 1, #01-425 Singapore 460204",
+	"doctorInCharge": [
+		{
+			"name": "Chua Teck Hum",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 07:00 pm",
+		"Friday": "09:00 am to 07:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "01:00 pm to 05:00 pm"
+	},
+	"id": "9404671",
+	"coordinates": [
+		103.9299959,
+		1.3263591
+	],
+	"svy21": [
+		38759.21,
+		34287.78
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

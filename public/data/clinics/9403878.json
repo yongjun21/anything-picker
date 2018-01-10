@@ -1,0 +1,55 @@
+{
+	"name": "ONG MEDICAL CLINIC",
+	"tel": "64523586",
+	"fax": "64559059",
+	"licensee": "Ong Theng Sung",
+	"licensePeriod": "18/01/2015 to 17/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403878",
+	"address": "BLK 316B Ang Mo Kio St 31, #01-10 Singapore 563316",
+	"doctorInCharge": [
+		{
+			"name": "Ong Theng Sung",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1971"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm",
+		"Thursday": "08:30 am to 12:30 pm",
+		"Friday": "08:30 am to 12:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9403878",
+	"coordinates": [
+		103.847677,
+		1.3646254
+	],
+	"svy21": [
+		29597.93,
+		38518.86
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

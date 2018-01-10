@@ -1,0 +1,54 @@
+{
+	"name": "K C TAN SKIN CLINIC",
+	"tel": "68352868",
+	"fax": "68352878",
+	"licensee": "TAN KONG CHONG",
+	"licensePeriod": "01/03/2017 to 28/02/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9403724",
+	"address": "402 ORCHARD RD, DELFI ORCHARD, #05-18 Singapore 238876",
+	"doctorInCharge": [
+		{
+			"name": "TAN KONG CHONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1988"
+			],
+			"specialties": [
+				"Dermatology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Dermatology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Tuesday": "02:30 pm to 05:00 pm",
+		"Wednesday": "09:30 am to 11:30 am, 02:30 pm to 05:00 pm",
+		"Thursday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9403724",
+	"coordinates": [
+		103.82847,
+		1.3071789
+	],
+	"svy21": [
+		27460.4,
+		32166.72
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

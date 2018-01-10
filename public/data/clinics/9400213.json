@@ -1,0 +1,48 @@
+{
+	"name": "CHEE HWAN KOG CHARITY CLINIC",
+	"tel": "63125381",
+	"fax": "63125382",
+	"licensee": "Chee Hwan Kog, Singapore",
+	"licensePeriod": "23/01/2016 to 22/01/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400213",
+	"address": "BLK 67 ANCHORVALE LINK, Singapore 545071",
+	"doctorInCharge": [
+		{
+			"name": "Kok Kah Hoong Allan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Tuesday": "Closed",
+		"Thursday": "Closed",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400213",
+	"coordinates": [
+		103.8902564,
+		1.3938342
+	],
+	"svy21": [
+		34336.42,
+		41748.69
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

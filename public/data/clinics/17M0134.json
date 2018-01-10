@@ -1,0 +1,43 @@
+{
+	"name": "CANBERRA CARE MEDICAL CLINIC",
+	"tel": "64831128",
+	"fax": "64831128",
+	"licensee": "CANBERRA CARE MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "10/05/2017 to 09/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0134",
+	"address": "BLK 120 CANBERRA CRESCENT, MULTI STOREY CAR PARK, #01-04 Singapore 750120",
+	"doctorInCharge": [
+		{
+			"name": "Chew So-Phia",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 2004",
+				"MRCPCH (Paed) (Royal College of Paediatrics and Child Health, United Kingdom) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "17M0134",
+	"coordinates": [
+		103.8314398,
+		1.4456538
+	],
+	"svy21": [
+		27790.92,
+		47478.57
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	]
+}

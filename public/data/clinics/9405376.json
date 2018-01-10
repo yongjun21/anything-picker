@@ -1,0 +1,52 @@
+{
+	"name": "MY FAMILY CLINIC (PUNGGOL CENTRAL)",
+	"tel": "68537351",
+	"fax": "68537352",
+	"licensee": "MY FAMILY CLINIC (PUNGGOL CENTRAL) PTE. LTD.",
+	"licensePeriod": "19/11/2013 to 18/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405376",
+	"address": "BLK 301 PUNGGOL CENTRAL, #01-02 Singapore 820301",
+	"doctorInCharge": [
+		{
+			"name": "Yap Daniel",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Sunday": "08:30 am to 01:00 pm",
+		"Public Holiday": "08:30 am to 01:00 pm"
+	},
+	"id": "9405376",
+	"coordinates": [
+		103.906138,
+		1.4037194
+	],
+	"svy21": [
+		36103.81,
+		42841.8
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

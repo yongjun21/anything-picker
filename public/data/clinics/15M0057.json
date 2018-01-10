@@ -1,0 +1,51 @@
+{
+	"name": "ST AEROSPACE ENGINEERING MEDICAL CENTRE",
+	"tel": "64806854",
+	"fax": "62253735",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "23/02/2017 to 22/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0057",
+	"address": "600 WEST CAMP ROAD, Singapore 797654",
+	"doctorInCharge": [
+		{
+			"name": "Chen Chih Min",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 1993",
+				"MCGP (Family Med) (College of General Practitioners, Malaysia) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 11:30 am",
+		"Tuesday": "08:30 am to 11:30 am",
+		"Wednesday": "08:30 am to 11:30 am",
+		"Thursday": "08:30 am to 11:30 am",
+		"Friday": "08:30 am to 11:30 am",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "15M0057",
+	"coordinates": [
+		103.8628504,
+		1.4169018
+	],
+	"svy21": [
+		31286.47,
+		44299.34
+	],
+	"planningArea": "SL",
+	"neighbours": [
+		"PG",
+		"SE",
+		"YS"
+	]
+}

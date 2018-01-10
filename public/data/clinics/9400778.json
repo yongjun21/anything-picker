@@ -1,0 +1,44 @@
+{
+	"name": "JURONG EAST CLINIC",
+	"tel": "65608004",
+	"fax": "65677748",
+	"licensee": "ONG PIN KIN",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400778",
+	"address": "BLK 114 JURONG EAST ST 13, #01-406 Singapore 600114",
+	"doctorInCharge": [
+		{
+			"name": "ONG PIN KIN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9400778",
+	"coordinates": [
+		103.73461,
+		1.3392139
+	],
+	"svy21": [
+		17014.78,
+		35709.2
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

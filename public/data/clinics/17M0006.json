@@ -1,0 +1,58 @@
+{
+	"name": "ADMIRALTY MEDICAL CENTRE",
+	"tel": "68078000",
+	"fax": "68078090",
+	"licensee": "ADMIRALTY MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "07/07/2017 to 06/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0006",
+	"address": "BLK 676 WOODLANDS DRIVE 71, Kampung Admiralty, #03-01 Singapore 730676",
+	"doctorInCharge": [
+		{
+			"name": "Yip Chee Chew",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"FRCSEd (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 1998",
+				"M Med (Ophth) (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Day Surgery",
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Anaesthesiology",
+			"Diagnostic Radiology",
+			"Endocrinology",
+			"Gastroenterology",
+			"General Surgery",
+			"Hand Surgery",
+			"Internal Medicine",
+			"Ophthalmology",
+			"Orthopaedic Surgery",
+			"Otorhinolaryngology",
+			"Pathology",
+			"Renal Medicine"
+		]
+	},
+	"id": "17M0006",
+	"coordinates": [
+		103.8007207,
+		1.4397495
+	],
+	"svy21": [
+		24372.36,
+		46825.73
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

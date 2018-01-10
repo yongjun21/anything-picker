@@ -1,0 +1,46 @@
+{
+	"name": "STATS CHIPPAC CLINIC",
+	"tel": "68241300",
+	"fax": "67207823",
+	"licensee": "STATS CHIPPAC LTD.",
+	"licensePeriod": "29/11/2014 to 28/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402695",
+	"address": "5 YISHUN STREET 23, Singapore 768442",
+	"doctorInCharge": [
+		{
+			"name": "Yeo Lock Peow",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9402695",
+	"coordinates": [
+		103.8426061,
+		1.4395276
+	],
+	"svy21": [
+		29033.56,
+		46801.17
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

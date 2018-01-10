@@ -1,0 +1,59 @@
+{
+	"name": "NHG 1-HEALTH",
+	"tel": "65546868",
+	"fax": "65561479",
+	"licensee": "TAN TOCK SENG HOSPITAL PTE LTD",
+	"licensePeriod": "06/10/2016 to 05/10/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9404981",
+	"address": "4190 ANG MO KIO AVENUE 6, BROADWAY PLAZA, #03-03 Singapore 569841",
+	"doctorInCharge": [
+		{
+			"name": "Roy Kan Kum Chuen",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"M Med (Anaes) (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Anaesthesiology",
+				"Intensive Care Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Day Surgery",
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Gastroenterology",
+			"General Surgery",
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9404981",
+	"coordinates": [
+		103.8459495,
+		1.3719373
+	],
+	"svy21": [
+		29405.66,
+		39327.37
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

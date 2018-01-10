@@ -1,0 +1,55 @@
+{
+	"name": "STUDENT HEALTH CENTRE",
+	"tel": "64353895",
+	"fax": "64387166",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403131",
+	"address": "BLK 3 SECOND HOSPITAL AVE, LEVEL 3 HEALTH PROMOTION BOARD, Singapore 168937",
+	"doctorInCharge": [
+		{
+			"name": "Veronica Tay Lian Hwa",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978",
+				"M Sc (Public Health) (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Public Health"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine",
+			"Public Health"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Tuesday": "08:00 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Wednesday": "08:00 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Thursday": "08:00 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Friday": "08:00 am to 12:30 pm, 01:30 pm to 05:00 pm",
+		"Saturday": "08:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403131",
+	"coordinates": [
+		103.8383462,
+		1.2796022
+	],
+	"svy21": [
+		28559.54,
+		29117.43
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

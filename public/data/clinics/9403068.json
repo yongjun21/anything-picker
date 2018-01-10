@@ -1,0 +1,53 @@
+{
+	"name": "JOANNA LIN'S MEDICAL AND CANCER CLINIC",
+	"tel": "96223667",
+	"fax": "68387389",
+	"licensee": "LIN JOANNA",
+	"licensePeriod": "14/06/2017 to 13/06/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403068",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #03-07 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "LIN JOANNA",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1987",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1991",
+				"FAMS (Med Oncology) (Academy of Medicine, Singapore) 1998"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm"
+	},
+	"id": "9403068",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

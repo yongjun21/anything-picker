@@ -1,0 +1,53 @@
+{
+	"name": "PRAISE FAMILY CLINIC",
+	"tel": "67843785",
+	"fax": "67852411",
+	"licensee": "JIREH MEDIPLAN PTE LTD",
+	"licensePeriod": "01/07/2016 to 30/06/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9402337",
+	"address": "BLK 717 TAMPINES ST 72, #01-75 Singapore 520717",
+	"doctorInCharge": [
+		{
+			"name": "Siow Kwang Thye",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9402337",
+	"coordinates": [
+		103.9351473,
+		1.3588153
+	],
+	"svy21": [
+		39332.36,
+		37876.64
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

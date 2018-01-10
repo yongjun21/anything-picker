@@ -1,0 +1,52 @@
+{
+	"name": "MEDICAL CENTRE ( STMICROELECTRONICS PTE LTD-TOA PAYOH",
+	"tel": "63507733",
+	"fax": "63507864",
+	"licensee": "STMicroelectronics Pte Ltd",
+	"licensePeriod": "07/01/2016 to 06/01/2018",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "9405443",
+	"address": "BLK 629 LORONG 4 TOA PAYOH, Singapore 319521",
+	"doctorInCharge": [
+		{
+			"name": "NEOH CHI LIM",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "11:30 am to 12:30 pm",
+		"Tuesday": "11:30 am to 12:30 pm",
+		"Wednesday": "11:30 am to 12:30 pm",
+		"Thursday": "11:30 am to 12:30 pm",
+		"Friday": "11:30 am to 12:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9405443",
+	"coordinates": [
+		103.8523942,
+		1.3322702
+	],
+	"svy21": [
+		30122.92,
+		34941.2
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

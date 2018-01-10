@@ -1,0 +1,50 @@
+{
+	"name": "SOG - HENG CLINIC FOR WOMEN",
+	"tel": "63464276",
+	"fax": "63460906",
+	"licensee": "SINGAPORE O&G LTD.",
+	"licensePeriod": "11/04/2016 to 10/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14C0080",
+	"address": "BLK 34 CASSIA CRESCENT, #01-80 Singapore 390034",
+	"doctorInCharge": [
+		{
+			"name": "Ng Koon Keng",
+			"qualifications": [
+				"MB ChB (University of Dundee, United Kingdom) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Thursday": "09:30 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:30 pm to 05:30 pm"
+	},
+	"id": "14C0080",
+	"coordinates": [
+		103.8844718,
+		1.3096408
+	],
+	"svy21": [
+		33692.87,
+		32439
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

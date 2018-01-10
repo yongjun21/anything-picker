@@ -1,0 +1,41 @@
+{
+	"name": "LOH DENTAL SURGERY",
+	"tel": "69090826",
+	"fax": "62875905",
+	"licensee": "Tan Andrew",
+	"licensePeriod": "17/11/2017 to 16/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15C0387",
+	"address": "BLK 146 POTONG PASIR AVE 1, #01-139 Singapore 350146",
+	"doctorInCharge": [
+		{
+			"name": "Tan Andrew",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1979"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "15C0387",
+	"coordinates": [
+		103.8672428,
+		1.3318008
+	],
+	"svy21": [
+		31775.42,
+		34889.31
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

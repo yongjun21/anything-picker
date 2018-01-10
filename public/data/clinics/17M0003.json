@@ -1,0 +1,54 @@
+{
+	"name": "YARRA MEDICAL CLINIC",
+	"tel": "62643703",
+	"fax": "62643716",
+	"licensee": "YARRA MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "05/01/2017 to 04/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0003",
+	"address": "1 WEST COAST DRIVE, NEWEST, #01-11 Singapore 128020",
+	"doctorInCharge": [
+		{
+			"name": "Seah Kwee Kang",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2005",
+				"MRCS (Royal College of Surgeons, Ireland) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:30 pm, 05:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 01:30 pm, 05:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 01:30 pm, 05:30 pm to 08:30 pm",
+		"Thursday": "08:30 am to 01:30 pm, 05:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 01:30 pm, 05:30 pm to 08:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "17M0003",
+	"coordinates": [
+		103.7574513,
+		1.3164132
+	],
+	"svy21": [
+		19556.7,
+		33187.93
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

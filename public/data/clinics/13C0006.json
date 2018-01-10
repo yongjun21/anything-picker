@@ -1,0 +1,50 @@
+{
+	"name": "DE DENTAL PRACTICE TWO (PTE.) LTD",
+	"tel": "65436345",
+	"fax": "65436220",
+	"licensee": "DE DENTAL PRACTICE TWO (PTE.) LTD.",
+	"licensePeriod": "04/01/2017 to 03/01/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0006",
+	"address": "5 CHANGI BUSINESS PARK CENTRAL 1, CHANGI CITY POINT, #02-17 Singapore 486038",
+	"doctorInCharge": [
+		{
+			"name": "Emily Koh Lik Yiong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 08:00 pm",
+		"Tuesday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 08:00 pm",
+		"Wednesday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 08:00 pm",
+		"Thursday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 08:00 pm",
+		"Friday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 08:00 pm",
+		"Saturday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "13C0006",
+	"coordinates": [
+		103.962946,
+		1.3340836
+	],
+	"svy21": [
+		42426.19,
+		35142.09
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"name": "UNITY DENTICARE",
+	"tel": "65904393",
+	"fax": "65904385",
+	"licensee": "NTUC Health Co-operative Ltd",
+	"licensePeriod": "29/08/2016 to 28/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0264",
+	"address": "1 MARITIME SQUARE, HARBOURFRONT CENTRE, #03-17 Singapore 099253",
+	"doctorInCharge": [
+		{
+			"name": "SUN YIN PING",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "14D0264",
+	"coordinates": [
+		103.8202433,
+		1.2639699
+	],
+	"svy21": [
+		26544.82,
+		27388.9
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

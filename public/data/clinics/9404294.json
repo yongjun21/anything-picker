@@ -1,0 +1,44 @@
+{
+	"name": "HEALTHWAY GC CLINIC",
+	"tel": "62856270",
+	"fax": "62851479",
+	"licensee": "Healthway Medical Group Pte Ltd",
+	"licensePeriod": "27/11/2014 to 26/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404294",
+	"address": "9 Vernon Park, Singapore 367828",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9404294",
+	"coordinates": [
+		103.8776767,
+		1.3384547
+	],
+	"svy21": [
+		32936.59,
+		35625.08
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

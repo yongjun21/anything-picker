@@ -1,0 +1,50 @@
+{
+	"name": "FIRMA MEDICAL CENTRE",
+	"tel": "62689143",
+	"fax": "62689143",
+	"licensee": "FIRMA MEDICAL AESTHETICS (SINGAPORE) PRIVATE LIMITED",
+	"licensePeriod": "06/12/2016 to 05/12/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0267",
+	"address": "8 SINARAN DRIVE, NOVENA SPECIALIST CENTER, #04-08 Singapore 307470",
+	"doctorInCharge": [
+		{
+			"name": "Tan Siak Khim",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1971"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 08:00 pm",
+		"Tuesday": "10:00 am to 08:00 pm",
+		"Wednesday": "10:00 am to 08:00 pm",
+		"Thursday": "10:00 am to 08:00 pm",
+		"Friday": "10:00 am to 08:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "12C0267",
+	"coordinates": [
+		103.8447824,
+		1.3200301
+	],
+	"svy21": [
+		29275.81,
+		33587.74
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

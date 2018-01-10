@@ -1,0 +1,51 @@
+{
+	"name": "THE DENTAL CLINIC",
+	"tel": "67669118",
+	"fax": "67606180",
+	"licensee": "KINGDOMTIDE INC PTE. LTD.",
+	"licensePeriod": "03/12/2016 to 02/12/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405771",
+	"address": "390 UPPER BUKIT TIMAH ROAD, THE RAILMALL, Singapore 678045",
+	"doctorInCharge": [
+		{
+			"name": "darrin cho shang ying",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 06:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405771",
+	"coordinates": [
+		103.7679918,
+		1.3579338
+	],
+	"svy21": [
+		20729.88,
+		37779.03
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "63127440",
+	"fax": "63127440",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "03/03/2014 to 02/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404746",
+	"address": "31 Anchorvale Drive,, Anchor Green Primary School, Singapore 544969",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9404746",
+	"coordinates": [
+		103.8871654,
+		1.3903701
+	],
+	"svy21": [
+		33992.45,
+		41365.65
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

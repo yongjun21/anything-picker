@@ -1,0 +1,51 @@
+{
+	"name": "THE DENTAL INN",
+	"tel": "63128998",
+	"fax": "66866190",
+	"licensee": "The Dental Inn Pte. Ltd.",
+	"licensePeriod": "27/09/2014 to 26/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403777",
+	"address": "BLK 168 Punggol Field, Punggol Plaza, #04-01 Singapore 820168",
+	"doctorInCharge": [
+		{
+			"name": "Woo Kok Tim Philip",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1997",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 09:00 pm",
+		"Sunday": "09:00 am to 03:00 pm"
+	},
+	"id": "9403777",
+	"coordinates": [
+		103.9130473,
+		1.3942372
+	],
+	"svy21": [
+		36872.76,
+		41793.33
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

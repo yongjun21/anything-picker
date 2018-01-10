@@ -1,0 +1,60 @@
+{
+	"name": "TAN-TEOH CLINIC & SURGERY",
+	"tel": "62992292",
+	"fax": "62990463",
+	"licensee": "TAN CHAI LEE",
+	"licensePeriod": "19/11/2016 to 18/11/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9404630",
+	"address": "BLK 101 TOWNER ROAD, #01-212 Singapore 322101",
+	"doctorInCharge": [
+		{
+			"name": "TAN CHAI LEE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Day Surgery",
+		"Endoscopy",
+		"Liposuction"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery",
+			"Plastic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 06:00 pm",
+		"Tuesday": "08:30 am to 06:00 pm",
+		"Wednesday": "08:30 am to 06:00 pm",
+		"Thursday": "08:30 am to 06:00 pm",
+		"Friday": "08:30 am to 06:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "08:30 am to 12:00 pm",
+		"Public Holiday": "08:30 am to 12:00 pm"
+	},
+	"id": "9404630",
+	"coordinates": [
+		103.8610875,
+		1.3194254
+	],
+	"svy21": [
+		31090.4,
+		33520.89
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

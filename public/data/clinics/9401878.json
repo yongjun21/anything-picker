@@ -1,0 +1,54 @@
+{
+	"name": "WONG CLINIC",
+	"tel": "62412267",
+	"fax": "62412267",
+	"licensee": "Lawrence Wong Teck Boon",
+	"licensePeriod": "01/01/2017 to 31/12/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401878",
+	"address": "BLK 539 Bedok North Street 3, #01-603 Singapore 460539",
+	"doctorInCharge": [
+		{
+			"name": "Lawrence Wong Teck Boon",
+			"qualifications": [
+				"MB ChB (University of Leicester, United Kingdom) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:15 am to 01:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:15 am to 01:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:15 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:15 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:15 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:15 am to 12:30 pm",
+		"Sunday": "09:15 am to 12:30 pm"
+	},
+	"id": "9401878",
+	"coordinates": [
+		103.9253073,
+		1.3313139
+	],
+	"svy21": [
+		38237.4,
+		34835.63
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

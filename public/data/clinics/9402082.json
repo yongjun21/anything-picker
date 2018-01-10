@@ -1,0 +1,48 @@
+{
+	"name": "SEACARE MARITIME MEDICAL CENTRE PTE LTD",
+	"tel": "62227728",
+	"fax": "62246387",
+	"licensee": "SEACARE MARITIME MEDICAL CENTRE PTE LTD",
+	"licensePeriod": "17/01/2016 to 16/01/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402082",
+	"address": "100 TRAS STREET, AMARA CORPORATE TOWER, #18-02/03 Singapore 079027",
+	"doctorInCharge": [
+		{
+			"name": "Chia Yih Woei",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9402082",
+	"coordinates": [
+		103.8434707,
+		1.2745882
+	],
+	"svy21": [
+		29129.86,
+		28563.01
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

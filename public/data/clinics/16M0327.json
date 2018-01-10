@@ -1,0 +1,43 @@
+{
+	"name": "TPC MEDICAL CLINIC",
+	"licensee": "Lim Wee Ni",
+	"licensePeriod": "20/10/2016 to 19/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0327",
+	"address": "7 WALLICH STREET, TANJONG PAGAR CENTRE, #B1-15 Singapore 078884",
+	"doctorInCharge": [
+		{
+			"name": "Choong Kuan Siew",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "16M0327",
+	"coordinates": [
+		103.8451554,
+		1.2767249
+	],
+	"svy21": [
+		29317.34,
+		28799.28
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

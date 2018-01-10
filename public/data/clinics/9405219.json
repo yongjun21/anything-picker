@@ -1,0 +1,46 @@
+{
+	"name": "VISTA DENTAL SURGERY",
+	"tel": "67606037",
+	"fax": "67606037",
+	"licensee": "VISTA DENTAL SURGERY (YT) PTE. LTD.",
+	"licensePeriod": "29/06/2015 to 28/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405219",
+	"address": "61 CHOA CHU KANG DRIVE, YEW TEE MRT STATION, #01-06 Singapore 689715",
+	"doctorInCharge": [
+		{
+			"name": "ONG HUANG LEONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9405219",
+	"coordinates": [
+		103.7474051,
+		1.397535
+	],
+	"svy21": [
+		18438.98,
+		42158.01
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

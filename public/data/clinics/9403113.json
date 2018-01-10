@@ -1,0 +1,54 @@
+{
+	"name": "COMMUNITY WELLNESS CLINIC",
+	"tel": "63892200",
+	"fax": "68484579",
+	"licensee": "NATIONAL HEALTHCARE GROUP PTE LTD",
+	"licensePeriod": "19/12/2016 to 18/12/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403113",
+	"address": "21 GEYLANG EAST CENTRAL, LEVEL 4, SINGHEALTH POLYCLINICS-GEYLANG, Singapore 389707",
+	"doctorInCharge": [
+		{
+			"name": "WEI KER-CHIAH",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"M Med (Psych) (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": [
+				"Psychiatry"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Psychiatry"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9403113",
+	"coordinates": [
+		103.887166,
+		1.3194937
+	],
+	"svy21": [
+		33992.69,
+		33528.49
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

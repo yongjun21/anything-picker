@@ -1,0 +1,58 @@
+{
+	"name": "THE CHEST AND INTERNAL MEDICINE CLINIC",
+	"tel": "66944333",
+	"fax": "66946107",
+	"licensee": "CHEST AND INTERNAL MEDICINE CLINIC PRIVATE LIMITED",
+	"licensePeriod": "26/11/2016 to 25/11/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0253",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #10-25 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Amy Elaine Lyn-Hwa Stebbings",
+			"qualifications": [
+				"MB ChB (University of Bristol, United Kingdom) 1989",
+				"MRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1993",
+				"FAMS (Respiratory Med) (Academy of Medicine, Singapore) 1998",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2009"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Intensive Care Medicine",
+			"Respiratory Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "12C0253",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

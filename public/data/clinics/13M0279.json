@@ -1,0 +1,55 @@
+{
+	"name": "ONECARE CLINIC BOON LAY",
+	"tel": "62611580",
+	"fax": "62611584",
+	"licensee": "ONECARE MEDICAL PTE. LTD.",
+	"licensePeriod": "14/10/2017 to 13/10/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13M0279",
+	"address": "BLK 221 BOON LAY PLACE, BOON LAY SHOPPING CENTRE, #01-152 Singapore 640221",
+	"doctorInCharge": [
+		{
+			"name": "Lim Kay Hui",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm",
+		"Thursday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm",
+		"Saturday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm",
+		"Sunday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm"
+	},
+	"id": "13M0279",
+	"coordinates": [
+		103.7124293,
+		1.3463482
+	],
+	"svy21": [
+		14546.35,
+		36498.19
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

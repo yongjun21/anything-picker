@@ -1,0 +1,55 @@
+{
+	"name": "NEWCASTLE CLINIC",
+	"tel": "67362322",
+	"fax": "67389186",
+	"licensee": "NEWCASTLE CLINIC PTE. LTD.",
+	"licensePeriod": "30/10/2013 to 29/10/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404606",
+	"address": "541 ORCHARD ROAD, LIAT TOWERS, #18-02A Singapore 238881",
+	"doctorInCharge": [
+		{
+			"name": "KOO SENG LONG",
+			"qualifications": [
+				"MBBS (University of Newcastle Upon Tyne, United Kingdom) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404606",
+	"coordinates": [
+		103.8307226,
+		1.3050872
+	],
+	"svy21": [
+		27711.09,
+		31935.43
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

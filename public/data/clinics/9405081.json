@@ -1,0 +1,49 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67380355",
+	"fax": "67380355",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "21/01/2015 to 20/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405081",
+	"address": "16 WINSTEDT ROAD,, ANGLO-CHINESE SCHOOL (JUNIOR), Singapore 227988",
+	"doctorInCharge": [
+		{
+			"name": "LIM WANYI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9405081",
+	"coordinates": [
+		103.8409551,
+		1.3093512
+	],
+	"svy21": [
+		28849.87,
+		32406.93
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

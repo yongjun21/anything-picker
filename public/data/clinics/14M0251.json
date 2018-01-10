@@ -1,0 +1,54 @@
+{
+	"name": "KL NG MEDICAL CLINIC PTE LTD",
+	"tel": "62712554",
+	"fax": "62712558",
+	"licensee": "KL NG MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "21/08/2016 to 20/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0251",
+	"address": "BLK 1 JALAN BUKIT MERAH, #01-4530 Singapore 150001",
+	"doctorInCharge": [
+		{
+			"name": "Ng Shu Wei",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "08:30 am to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 04:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "14M0251",
+	"coordinates": [
+		103.8082424,
+		1.2864535
+	],
+	"svy21": [
+		25209.23,
+		29875.03
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

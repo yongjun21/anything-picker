@@ -1,0 +1,60 @@
+{
+	"name": "HEALTHMARK FAMILY CLINIC (COMPASSVALE)",
+	"tel": "68810075",
+	"fax": "68812660",
+	"licensee": "United Vision Holdings Pte. Ltd.",
+	"licensePeriod": "29/12/2014 to 28/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403866",
+	"address": "BLK 263 Compassvale Street, #01-02/03 Singapore 540263",
+	"doctorInCharge": [
+		{
+			"name": "Cheong Cher Chee David",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 12:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9403866",
+	"coordinates": [
+		103.8960423,
+		1.3948482
+	],
+	"svy21": [
+		34980.32,
+		41860.83
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

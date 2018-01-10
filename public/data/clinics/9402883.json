@@ -1,0 +1,47 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "63431251",
+	"fax": "63431251",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402883",
+	"address": "1257 UPPER SERANGOON RD,, CHIJ OUR LADY OF THE NATIVITY, Singapore 534793",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 am",
+		"Tuesday": "08:00 am to 05:30 am",
+		"Wednesday": "08:00 am to 05:30 am",
+		"Thursday": "08:00 am to 05:30 am",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9402883",
+	"coordinates": [
+		103.8975869,
+		1.3732965
+	],
+	"svy21": [
+		35152.28,
+		39477.77
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

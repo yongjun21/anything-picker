@@ -1,0 +1,57 @@
+{
+	"name": "SAW BABY & CHILD CLINIC & KHOO FAMILY CLINIC",
+	"tel": "63865732",
+	"fax": "63858053",
+	"licensee": "SAW AIK HIN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401456",
+	"address": "BLK 681 HOUGANG AVE 8, #01-827 Singapore 530681",
+	"doctorInCharge": [
+		{
+			"name": "SAW AIK HIN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976",
+				"M Med (Paed) (National University of Singapore, Singapore) 1979",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1980",
+				"FRCP (Paed) (Royal College of Physicians of Edinburgh, United Kingdom) 1991"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401456",
+	"coordinates": [
+		103.8856792,
+		1.3729784
+	],
+	"svy21": [
+		33827.09,
+		39442.56
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

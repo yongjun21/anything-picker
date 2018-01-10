@@ -1,0 +1,51 @@
+{
+	"name": "UNITED MEDICAL CLINIC",
+	"tel": "62963664",
+	"fax": "62919192",
+	"licensee": "ANG BOON LEONG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401808",
+	"address": "BLK 25 JLN BERSEH, #01-144 Singapore 200025",
+	"doctorInCharge": [
+		{
+			"name": "ANG BOON LEONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:30 pm to 06:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:30 pm to 06:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:30 pm to 06:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:30 pm to 06:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:30 pm to 06:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9401808",
+	"coordinates": [
+		103.8582215,
+		1.3062152
+	],
+	"svy21": [
+		30771.47,
+		32060.17
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

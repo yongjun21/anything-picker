@@ -1,0 +1,50 @@
+{
+	"name": "SINGHEALTH POLYCLINICS - OUTRAM",
+	"tel": "64353980",
+	"licensee": "SINGHEALTH POLYCLINICS",
+	"licensePeriod": "03/04/2015 to 02/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403130",
+	"address": "BLK 3 SECOND HOSPITAL AVENUE, LEVEL 2 HEALTH PROMOTION BOARD BUILDING, Singapore 168937",
+	"doctorInCharge": [
+		{
+			"name": "QUAH HUI MIN JOANNE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2006",
+				"MCI (National University of Singapore, Singapore) 2010",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:00 am to 12:30 pm"
+	},
+	"id": "9403130",
+	"coordinates": [
+		103.8383462,
+		1.2796022
+	],
+	"svy21": [
+		28559.54,
+		29117.43
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

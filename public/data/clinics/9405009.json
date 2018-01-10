@@ -1,0 +1,45 @@
+{
+	"name": "CENTRAL 24-HR CLINIC (BEDOK)",
+	"tel": "62476122",
+	"fax": "62476123",
+	"licensee": "IHEALTH PTE. LTD.",
+	"licensePeriod": "28/01/2015 to 27/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405009",
+	"address": "BLK 219 BEDOK CENTRAL, MULTI STOREY CAR PARK, #01-124 Singapore 460219",
+	"doctorInCharge": [
+		{
+			"name": "Goh Chiew Kai",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9405009",
+	"coordinates": [
+		103.9329544,
+		1.3250059
+	],
+	"svy21": [
+		39088.46,
+		34138.16
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

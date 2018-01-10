@@ -1,0 +1,57 @@
+{
+	"name": "FRESENIUS MEDICAL CARE TECK WHYE DIALYSIS CLINIC",
+	"tel": "64651620",
+	"fax": "64561634",
+	"licensee": "FRESENIUS MEDICAL CARE SINGAPORE PTE. LTD.",
+	"licensePeriod": "11/10/2017 to 10/10/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "13C0276",
+	"address": "BLK 16 TECK WHYE LANE, #01-117 Singapore 680016",
+	"doctorInCharge": [
+		{
+			"name": "Nikam Milind Digamber",
+			"qualifications": [
+				"MBBS (University of Mumbai, India) 2003",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2006"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Day Surgery",
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "07:00 am to 10:30 pm",
+		"Tuesday": "07:00 am to 10:30 pm",
+		"Wednesday": "07:00 am to 10:30 pm",
+		"Thursday": "07:00 am to 10:30 pm",
+		"Friday": "07:00 am to 10:30 pm",
+		"Saturday": "07:00 am to 10:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "13C0276",
+	"coordinates": [
+		103.7547648,
+		1.3783779
+	],
+	"svy21": [
+		19257.94,
+		40039.68
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

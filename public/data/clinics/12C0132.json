@@ -1,0 +1,54 @@
+{
+	"name": "NEW HEALTH FAMILY CLINIC PTE LTD",
+	"tel": "62786200",
+	"fax": "62767140",
+	"licensee": "NEW HEALTH FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "05/07/2016 to 04/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0132",
+	"address": "BLK 108 Depot Road, Depot Heights Shopping Centre, #01-08 Singapore 100108",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Hong Ying Mabel",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 06:30 pm to 07:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 06:30 pm to 07:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 06:30 pm to 07:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 06:30 pm to 07:30 pm",
+		"Friday": "08:30 am to 01:00 pm",
+		"Saturday": "08:30 am to 11:30 am",
+		"Sunday": "Closed"
+	},
+	"id": "12C0132",
+	"coordinates": [
+		103.8100313,
+		1.2811223
+	],
+	"svy21": [
+		25408.32,
+		29285.52
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

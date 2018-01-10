@@ -1,0 +1,56 @@
+{
+	"name": "CHAI CHEE CLINIC & SURGERY",
+	"tel": "62441231",
+	"fax": "62441215",
+	"licensee": "KHEMANI NEETA PARSHOTAM",
+	"licensePeriod": "03/07/2014 to 02/07/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402307",
+	"address": "BLK 25A CHAI CHEE RD, #01-453 Singapore 461025",
+	"doctorInCharge": [
+		{
+			"name": "KHEMANI NEETA PARSHOTAM",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 04:15 pm, 06:30 pm to 08:45 pm",
+		"Tuesday": "09:00 am to 04:15 pm, 06:30 pm to 08:45 pm",
+		"Wednesday": "09:00 am to 04:15 pm, 06:30 pm to 08:45 pm",
+		"Thursday": "09:00 am to 04:15 pm, 06:30 pm to 08:45 pm",
+		"Friday": "09:00 am to 04:15 pm, 06:30 pm to 08:45 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9402307",
+	"coordinates": [
+		103.9241496,
+		1.3232896
+	],
+	"svy21": [
+		38108.59,
+		33948.34
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

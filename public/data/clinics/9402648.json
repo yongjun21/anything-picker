@@ -1,0 +1,53 @@
+{
+	"name": "DE PACIFIC DENTAL GROUP (AMK) PTE LTD",
+	"tel": "64553343",
+	"fax": "64555483",
+	"licensee": "LIM ENG YONG",
+	"licensePeriod": "17/05/2014 to 16/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402648",
+	"address": "BLK 721 ANG MO KIO AVE 8, #01-2809 Singapore 560721",
+	"doctorInCharge": [
+		{
+			"name": "LIM ENG YONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "09:00 am to 05:00 pm"
+	},
+	"id": "9402648",
+	"coordinates": [
+		103.8478995,
+		1.3723498
+	],
+	"svy21": [
+		29622.68,
+		39372.99
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

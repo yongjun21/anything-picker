@@ -1,0 +1,51 @@
+{
+	"name": "ELI DENTAL SURGERY",
+	"tel": "62521234",
+	"fax": "99999999",
+	"licensee": "NG LAY CHOO",
+	"licensePeriod": "01/01/2017 to 31/12/2017",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"hciCode": "9400472",
+	"address": "BLK 73 TOA PAYOH LOR 4, #01-599 Singapore 310073",
+	"doctorInCharge": [
+		{
+			"name": "NG LAY CHOO",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1981",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2014"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400472",
+	"coordinates": [
+		103.8517143,
+		1.33432
+	],
+	"svy21": [
+		30047.25,
+		35167.85
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"name": "FEMA CLINIC & SURGERY",
+	"tel": "68543720",
+	"fax": "68543770",
+	"licensee": "FLINDERS EMA PTE. LTD.",
+	"licensePeriod": "01/11/2016 to 31/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405463",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTER, #09-32 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Chan U-Jyn Kevin",
+			"qualifications": [
+				"BMBS (Flinders University, Australia) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405463",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

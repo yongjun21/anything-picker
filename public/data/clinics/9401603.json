@@ -1,0 +1,52 @@
+{
+	"name": "TAN & YIK CLINIC & SURGERY",
+	"tel": "62584122",
+	"licensee": "Tan Gee Hwa",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401603",
+	"address": "BLK 116 Bishan Street 12, #01-36 Singapore 570116",
+	"doctorInCharge": [
+		{
+			"name": "Tan Gee Hwa",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9401603",
+	"coordinates": [
+		103.8493161,
+		1.3478007
+	],
+	"svy21": [
+		29780.35,
+		36658.48
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

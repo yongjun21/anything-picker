@@ -1,0 +1,51 @@
+{
+	"name": "SHALOM MEDICAL GROUP",
+	"tel": "63371884",
+	"fax": "63376976",
+	"licensee": "TOK CHOO BENG VINCENT",
+	"licensePeriod": "01/08/2015 to 31/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401475",
+	"address": "BLK 231 BAIN STREET, BRAS BASAH COMPLEX, #03-57 Singapore 180231",
+	"doctorInCharge": [
+		{
+			"name": "TOK CHOO BENG VINCENT",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9401475",
+	"coordinates": [
+		103.8536195,
+		1.2968153
+	],
+	"svy21": [
+		30259.31,
+		31020.77
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

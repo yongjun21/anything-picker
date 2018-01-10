@@ -1,0 +1,48 @@
+{
+	"name": "ALLURE PLASTIC SURGERY",
+	"tel": "67349988",
+	"fax": "67349988",
+	"licensee": "THE COSMETIC & PLASTIC SURGERY CENTRE PTE. LTD.",
+	"licensePeriod": "16/04/2017 to 15/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0104",
+	"address": "435 ORCHARD ROAD, WISMA ATRIA, #22-04 Singapore 238877",
+	"doctorInCharge": [
+		{
+			"name": "Ho Yew Ming Samuel",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Plastic Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Day Surgery",
+		"Liposuction"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Plastic Surgery"
+		]
+	},
+	"id": "17M0104",
+	"coordinates": [
+		103.8332058,
+		1.3037048
+	],
+	"svy21": [
+		27987.44,
+		31782.57
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

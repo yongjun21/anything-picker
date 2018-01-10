@@ -1,0 +1,50 @@
+{
+	"name": "DENTAL DESIGNS CLINIC",
+	"tel": "62218284",
+	"fax": "68421266",
+	"licensee": "DENTAL DESIGNS PTE. LTD",
+	"licensePeriod": "17/06/2016 to 16/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0184",
+	"address": "120 TELOK AYER STREET, Singapore 068589",
+	"doctorInCharge": [
+		{
+			"name": "Chan Pui Lin Jaime",
+			"qualifications": [
+				"BDS (University of London, United Kingdom) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 06:00 pm"
+	},
+	"id": "16D0184",
+	"coordinates": [
+		103.8481263,
+		1.2819715
+	],
+	"svy21": [
+		29647.97,
+		29379.42
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

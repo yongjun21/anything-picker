@@ -1,0 +1,51 @@
+{
+	"name": "Q & M DENTAL CENTRE (BUGIS)",
+	"tel": "68372292",
+	"fax": "63377309",
+	"licensee": "Q & M DENTAL SURGERY (BRADDELL) PTE. LTD.",
+	"licensePeriod": "07/12/2015 to 06/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0225",
+	"address": "516A North Bridge Road, #03-00, #04-00, #02-00, Singapore 188740",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "11C0225",
+	"coordinates": [
+		103.8559575,
+		1.2986159
+	],
+	"svy21": [
+		30519.51,
+		31219.88
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

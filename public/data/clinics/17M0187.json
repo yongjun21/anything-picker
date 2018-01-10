@@ -1,0 +1,49 @@
+{
+	"name": "ACCESS MEDICAL (BUKIT BATOK)",
+	"tel": "67478180",
+	"fax": "67478186",
+	"licensee": "ACCESS MEDICAL BUKIT BATOK PTE. LTD.",
+	"licensePeriod": "29/06/2017 to 28/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0187",
+	"address": "BLK 164 BUKIT BATOK STREET 11, #01-152 Singapore 650164",
+	"doctorInCharge": [
+		{
+			"name": "Lim Yong Chin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007",
+				"MRCS (Royal College of Surgeons, Ireland) 2010",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "17M0187",
+	"coordinates": [
+		103.7428317,
+		1.347717
+	],
+	"svy21": [
+		17929.81,
+		36649.4
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

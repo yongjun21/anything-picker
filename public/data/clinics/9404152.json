@@ -1,0 +1,48 @@
+{
+	"name": "KCS MEDICAL GROUP",
+	"tel": "64424149",
+	"fax": "64447207",
+	"licensee": "KCS Medical And Laser Centre Pte. Ltd.",
+	"licensePeriod": "04/05/2016 to 03/05/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404152",
+	"address": "BLK 718 Bedok Reservoir Road, #01-4594 Singapore 470718",
+	"doctorInCharge": [
+		{
+			"name": "Chua Ee Min",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "Closed",
+		"Tuesday": "11:00 am to 08:00 pm",
+		"Wednesday": "11:00 am to 08:00 pm",
+		"Thursday": "11:00 am to 08:00 pm",
+		"Friday": "11:00 am to 08:00 pm",
+		"Saturday": "08:30 am to 02:00 pm"
+	},
+	"id": "9404152",
+	"coordinates": [
+		103.9257485,
+		1.3366306
+	],
+	"svy21": [
+		38286.48,
+		35423.53
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

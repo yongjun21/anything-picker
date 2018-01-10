@@ -1,0 +1,47 @@
+{
+	"name": "DAVID TAN MEDICAL AESTHETICS",
+	"tel": "67367360",
+	"fax": "64911202",
+	"licensee": "DND Holdings Pte. Ltd.",
+	"licensePeriod": "04/03/2014 to 03/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404748",
+	"address": "391B ORCHARD ROAD, NGEE ANN CITY TOWER B, #09-04 Singapore 238874",
+	"doctorInCharge": [
+		{
+			"name": "David Tan Yew Weng",
+			"qualifications": [
+				"MB ChB (University of Leicester, United Kingdom) 1995",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Tuesday": "09:30 am to 06:00 pm",
+		"Wednesday": "09:30 am to 08:30 pm",
+		"Thursday": "09:30 am to 06:00 pm",
+		"Friday": "09:30 am to 06:00 pm",
+		"Saturday": "09:30 am to 06:00 pm"
+	},
+	"id": "9404748",
+	"coordinates": [
+		103.8346761,
+		1.3024242
+	],
+	"svy21": [
+		28151.08,
+		31640.97
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"name": "ASTRA WOMEN'S SPECIALIST CENTRE",
+	"tel": "65358833",
+	"fax": "65527577",
+	"licensee": "THE WOMEN'S SPECIALIST CENTRE (HC) PTE LTD",
+	"licensePeriod": "28/04/2017 to 27/04/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9401744",
+	"address": "BLK 502 BISHAN ST 11, #01-356 Singapore 570502",
+	"doctorInCharge": [
+		{
+			"name": "CHENG HUNG HENRY",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1982",
+				"M Med (O&G) (National University of Singapore, Singapore) 1988",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1988",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1993",
+				"FRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 2000"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9401744",
+	"coordinates": [
+		103.848348,
+		1.3485791
+	],
+	"svy21": [
+		29672.61,
+		36744.54
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

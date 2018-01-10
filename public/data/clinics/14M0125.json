@@ -1,0 +1,45 @@
+{
+	"name": "CENTRAL 24HR CLINIC (JURONG WEST)",
+	"tel": "65657484",
+	"fax": "65657784",
+	"licensee": "AVERMED PTE. LTD.",
+	"licensePeriod": "19/05/2016 to 18/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0125",
+	"address": "BLK 492 JURONG WEST STREET 41, #01-54 Singapore 640492",
+	"doctorInCharge": [
+		{
+			"name": "Goh Chiew Kai",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "14M0125",
+	"coordinates": [
+		103.7251805,
+		1.3499454
+	],
+	"svy21": [
+		15965.43,
+		36895.89
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

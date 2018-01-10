@@ -1,0 +1,48 @@
+{
+	"name": "AMK CENTRAL DENTAL SURGERY",
+	"tel": "64557930",
+	"fax": "64535305",
+	"licensee": "LIM FAH LIONG",
+	"licensePeriod": "22/03/2014 to 21/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400037",
+	"address": "BLK 726 ANG MO KIO AVE 6, #01-4162 Singapore 560726",
+	"doctorInCharge": [
+		{
+			"name": "LIM FAH LIONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9400037",
+	"coordinates": [
+		103.8464483,
+		1.3727836
+	],
+	"svy21": [
+		29461.18,
+		39420.95
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

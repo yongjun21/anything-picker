@@ -1,0 +1,51 @@
+{
+	"name": "SMILE INC. DENTAL SURGEONS",
+	"tel": "66361366",
+	"fax": "96373246",
+	"licensee": "SMILE INC. DENTAL SURGEONS",
+	"licensePeriod": "29/01/2016 to 28/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0016",
+	"address": "1 RAFFLES PLACE, ONE RAFFLES PLACE, #01-61 T2 Singapore 048616",
+	"doctorInCharge": [
+		{
+			"name": "ERNEST REX TAN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1991",
+				"MSc (University of London, United Kingdom) 1994"
+			],
+			"specialties": [
+				"Prosthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Dental Public Health",
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Paediatric Dentistry",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"id": "14D0016",
+	"coordinates": [
+		103.8510725,
+		1.2843495
+	],
+	"svy21": [
+		29975.87,
+		29642.37
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

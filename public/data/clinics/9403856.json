@@ -1,0 +1,44 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "63655937",
+	"fax": "63655937",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "28/01/2015 to 27/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403856",
+	"address": "11 MARSILING ROAD,, WOODLANDS SECONDARY SCHOOL, Singapore 739111",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403856",
+	"coordinates": [
+		103.7745864,
+		1.4391253
+	],
+	"svy21": [
+		21464.01,
+		46756.76
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

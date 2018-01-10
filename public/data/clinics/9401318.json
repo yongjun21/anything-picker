@@ -1,0 +1,55 @@
+{
+	"name": "PHOON CLINIC AND SURGERY",
+	"tel": "64452119",
+	"fax": "64487329",
+	"licensee": "PHOON CHIONG FOOK",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401318",
+	"address": "BLK 632 BEDOK RESERVOIR RD, #01-828 Singapore 470632",
+	"doctorInCharge": [
+		{
+			"name": "PHOON CHIONG FOOK",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1975"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "09:00 am to 12:00 pm",
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9401318",
+	"coordinates": [
+		103.9141451,
+		1.3320509
+	],
+	"svy21": [
+		36995.15,
+		34917.09
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

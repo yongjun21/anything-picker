@@ -1,0 +1,55 @@
+{
+	"name": "EAGLE EYE CENTRE",
+	"tel": "63481000",
+	"fax": "63481001",
+	"licensee": "EAGLE EYE CENTRE PTE. LTD.",
+	"licensePeriod": "02/09/2017 to 01/09/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405289",
+	"address": "319 JOO CHIAT PLACE, PARKWAY EAST MEDICAL CENTRE, #05-03 Singapore 427989",
+	"doctorInCharge": [
+		{
+			"name": "JULIAN THENG THIAM SIEW",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"FRCOphth (Royal College of Ophthalmologists, United Kingdom) 1998",
+				"FRCSEd (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 1998",
+				"M Med (Ophth) (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
+	"id": "9405289",
+	"coordinates": [
+		103.9089659,
+		1.3151173
+	],
+	"svy21": [
+		36418.82,
+		33044.64
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

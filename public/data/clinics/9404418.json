@@ -1,0 +1,56 @@
+{
+	"name": "INFECTIOUS DISEASE SPECIALISTS @ MT E",
+	"tel": "65358833",
+	"fax": "67321700",
+	"licensee": "Infection & Vaccination Consultants Pte Ltd",
+	"licensePeriod": "28/02/2017 to 27/02/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404418",
+	"address": "3 Mount Elizabeth, Mount Elizabeth Medical Centre, #09-02 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Lam Mun San",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1988",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1989",
+				"FAMS (Int Med) (Academy of Medicine, Singapore) 1995"
+			],
+			"specialties": [
+				"Infectious Diseases"
+			]
+		}
+	],
+	"detailedServices": {
+		"Yellow Fever Vaccination": true,
+		"Specialist Medical": [
+			"Infectious Diseases"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Sunday": "09:00 am to 12:30 pm",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404418",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

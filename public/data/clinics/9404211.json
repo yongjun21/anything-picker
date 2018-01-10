@@ -1,0 +1,49 @@
+{
+	"name": "CHUA TJU SIANG GASTROINTESTINAL ENDOSCOPY & LIVER CLINIC",
+	"tel": "62356136",
+	"fax": "62359450",
+	"licensee": "CHUA TJU SIANG PTE. LTD.",
+	"licensePeriod": "21/08/2014 to 20/08/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404211",
+	"address": "3 Mount Elizabeth, Mount Elizabeth Medical Centre, #10-07 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Chua Tju Siang",
+			"qualifications": [
+				"MB ChB (University of Glasgow, United Kingdom) 1995",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1998"
+			],
+			"specialties": [
+				"Gastroenterology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Gastroenterology"
+		]
+	},
+	"operatingHours": {
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404211",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

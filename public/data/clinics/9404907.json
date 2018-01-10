@@ -1,0 +1,55 @@
+{
+	"name": "THE CANCER CENTRE",
+	"tel": "68351000",
+	"fax": "62352261",
+	"licensee": "Cancer Centre Pte. Ltd.",
+	"licensePeriod": "07/07/2016 to 06/07/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9404907",
+	"address": "290 ORCHARD ROAD, PARAGON, #17-05/06 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Wong Seng Weng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1999"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404907",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

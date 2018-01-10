@@ -1,0 +1,44 @@
+{
+	"name": "MY FAMILY CLINIC (WOODLANDS)",
+	"tel": "68840658",
+	"fax": "68840658",
+	"licensee": "MY FAMILY CLINIC (WD) PTE. LTD.",
+	"licensePeriod": "03/05/2015 to 02/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402499",
+	"address": "BLK 768 WOODLANDS AVE 6, WOODLANDS MART, #02-07 Singapore 730768",
+	"doctorInCharge": [
+		{
+			"name": "LOH CHER ZOONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9402499",
+	"coordinates": [
+		103.798141,
+		1.4456229
+	],
+	"svy21": [
+		24085.29,
+		47475.18
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"name": "WHITE DENTAL GROUP",
+	"tel": "67330268",
+	"fax": "67330132",
+	"licensee": "WHITE DENTAL GROUP PTE. LTD.",
+	"licensePeriod": "15/09/2016 to 14/09/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405700",
+	"address": "271 BUKIT TIMAH RD, BALMORAL PLAZA, #B1-03 Singapore 259708",
+	"doctorInCharge": [
+		{
+			"name": "TAN SHUH CHERN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995",
+				"MClinDent (Prosthodontics) (London) (University of London, United Kingdom) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405700",
+	"coordinates": [
+		103.8354876,
+		1.3164396
+	],
+	"svy21": [
+		28241.39,
+		33190.72
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

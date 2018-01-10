@@ -1,0 +1,52 @@
+{
+	"name": "TAL DIALYSIS @ CLEMENTI",
+	"tel": "68172877",
+	"fax": "62661027",
+	"licensee": "TAL Dialysis Pte. Ltd.",
+	"licensePeriod": "29/03/2017 to 28/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0085",
+	"address": "BLK 328 CLEMENTI AVENUE 2, #01-204 Singapore 120328",
+	"doctorInCharge": [
+		{
+			"name": "Tan Seng Hoe",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1996",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1996",
+				"FAMS (Academy of Medicine, Singapore) 2000",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2004",
+				"FRCP (Lond) (Royal College of Physicians of London, United Kingdom) 2009"
+			],
+			"specialties": [
+				"Internal Medicine",
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"id": "17M0085",
+	"coordinates": [
+		103.767089,
+		1.3139916
+	],
+	"svy21": [
+		20629.28,
+		32920.13
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"name": "NEUGEN DENTAL",
+	"tel": "64448915",
+	"fax": "64448915",
+	"licensee": "NEUGEN DENTAL PTE. LTD.",
+	"licensePeriod": "17/11/2017 to 16/11/2019",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "15D0388",
+	"address": "BLK 631 BEDOK RESERVOIR ROAD, #01-978 Singapore 470631",
+	"doctorInCharge": [
+		{
+			"name": "chua hock beng dennis",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "07:00 pm to 09:00 pm",
+		"Tuesday": "10:00 am to 04:30 pm",
+		"Wednesday": "10:00 am to 04:30 pm",
+		"Thursday": "07:00 pm to 09:00 pm",
+		"Friday": "10:00 am to 04:30 pm",
+		"Saturday": "10:00 am to 01:00 pm"
+	},
+	"id": "15D0388",
+	"coordinates": [
+		103.9149418,
+		1.3329592
+	],
+	"svy21": [
+		37083.82,
+		35017.53
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

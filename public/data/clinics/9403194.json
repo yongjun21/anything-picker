@@ -1,0 +1,48 @@
+{
+	"name": "SGH SPECIALIST PRACTICE",
+	"tel": "64711188",
+	"fax": "64710611",
+	"licensee": "SINGAPORE GENERAL HOSPITAL PTE LTD",
+	"licensePeriod": "22/08/2016 to 21/08/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403194",
+	"address": "6A NAPIER ROAD, ANNEXE BLOCK, GLENEAGLES HOSPITAL, #01-39 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "Paul Chang Chee Cheng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"FRCS (Orth Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1991"
+			],
+			"specialties": [
+				"Orthopaedic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery",
+			"Obstetrics & Gynaecology",
+			"Orthopaedic Surgery",
+			"Plastic Surgery"
+		]
+	},
+	"id": "9403194",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

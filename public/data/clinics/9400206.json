@@ -1,0 +1,39 @@
+{
+	"name": "CHARIS DENTAL SURGERY",
+	"tel": "62986556",
+	"fax": "62986556",
+	"licensee": "LIEW LAY ENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400206",
+	"address": "BLK 465 CRAWFORD LANE, #02-28 Singapore 190465",
+	"doctorInCharge": [
+		{
+			"name": "LIEW LAY ENG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9400206",
+	"coordinates": [
+		103.8627464,
+		1.3051232
+	],
+	"svy21": [
+		31275.05,
+		31939.43
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

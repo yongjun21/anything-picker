@@ -1,0 +1,44 @@
+{
+	"name": "K.K. ONG HEART AND LUNG CLINIC",
+	"licensee": "K.K. ONG HEART AND LUNG CLINIC",
+	"licensePeriod": "19/07/2016 to 18/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0227",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #16-02 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "Ong Kim Kiat",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1981",
+				"FAMS (Thoracic Surg) (Academy of Medicine, Singapore) 1996"
+			],
+			"specialties": [
+				"Cardiothoracic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiothoracic Surgery"
+		]
+	},
+	"id": "16M0227",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

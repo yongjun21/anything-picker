@@ -1,0 +1,44 @@
+{
+	"name": "LIAN CLINIC",
+	"tel": "62697435",
+	"fax": "63661157",
+	"licensee": "LIAN CLINIC PTE. LTD.",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "15C0403",
+	"address": "BLK 18 Marsiling Lane, #01-269 Singapore 730018",
+	"doctorInCharge": [
+		{
+			"name": "LOH FOO KEONG JEFFREY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "15C0403",
+	"coordinates": [
+		103.7778612,
+		1.443417
+	],
+	"svy21": [
+		21828.46,
+		47231.31
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

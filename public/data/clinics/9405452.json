@@ -1,0 +1,55 @@
+{
+	"name": "FRONTIER MEDICAL ASSOCIATES",
+	"tel": "63663631",
+	"fax": "63663638",
+	"licensee": "FRONTIER MEDICAL ASSOCIATES (WOODLANDS) PTE. LTD.",
+	"licensePeriod": "19/01/2014 to 18/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405452",
+	"address": "BLK 899C WOODLANDS DR 50, #01-296 Singapore 732899",
+	"doctorInCharge": [
+		{
+			"name": "LEE WEN YAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 01:30 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 01:30 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 01:30 pm to 04:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 01:30 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 01:30 pm to 04:30 pm",
+		"Saturday": "08:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405452",
+	"coordinates": [
+		103.7952613,
+		1.4365699
+	],
+	"svy21": [
+		23764.8,
+		46474.15
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

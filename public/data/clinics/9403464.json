@@ -1,0 +1,47 @@
+{
+	"name": "SINGAPORE MEN'S HEALTH CLINIC",
+	"tel": "65355996",
+	"fax": "62601645",
+	"licensee": "Men's Health Pte. Ltd.",
+	"licensePeriod": "05/04/2014 to 04/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403464",
+	"address": "BLK 201B Tampines Street 21, #02-1097 Singapore 522201",
+	"doctorInCharge": [
+		{
+			"name": "Gan Tek Kah",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 04:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 04:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 04:30 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 04:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 04:30 pm to 08:30 pm"
+	},
+	"id": "9403464",
+	"coordinates": [
+		103.9530099,
+		1.3534532
+	],
+	"svy21": [
+		41320.3,
+		37283.82
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

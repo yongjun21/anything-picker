@@ -1,0 +1,46 @@
+{
+	"name": "G P MEDICAL CENTRE & SURGERY",
+	"tel": "63397576",
+	"fax": "63391301",
+	"licensee": "Teoh Guan Pin",
+	"licensePeriod": "26/07/2016 to 25/07/2018",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "12C0153",
+	"address": "35 SELEGIE ROAD, PARKLANE SHOPPING MALL, #03-03 Singapore 188307",
+	"doctorInCharge": [
+		{
+			"name": "Teoh Guan Pin",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "12C0153",
+	"coordinates": [
+		103.8494486,
+		1.3006453
+	],
+	"svy21": [
+		29795.13,
+		31444.27
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

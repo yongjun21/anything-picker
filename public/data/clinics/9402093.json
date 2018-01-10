@@ -1,0 +1,48 @@
+{
+	"name": "CROWN DENTAL SURGERY",
+	"tel": "67889110",
+	"fax": "67897433",
+	"licensee": "CROWN DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "09/04/2015 to 08/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402093",
+	"address": "BLK 821 TAMPINES ST 81, #01-212 Singapore 520821",
+	"doctorInCharge": [
+		{
+			"name": "TANG YICK FAN",
+			"qualifications": [
+				"BDS (University of Birmingham, United Kingdom) 1993",
+				"LDSRCS (Royal College of Surgeons of England, United Kingdom) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9402093",
+	"coordinates": [
+		103.9346491,
+		1.3484198
+	],
+	"svy21": [
+		39276.97,
+		36727.16
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

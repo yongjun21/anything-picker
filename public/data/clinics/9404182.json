@@ -1,0 +1,46 @@
+{
+	"name": "CHEW & CHEW DENTAL SURGERY PTE LTD",
+	"tel": "67386034",
+	"fax": "67386393",
+	"licensee": "CHEW SWEE CHIOK, BRUCE",
+	"licensePeriod": "30/08/2015 to 29/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404182",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #10-16 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "CHEW SWEE CHIOK, BRUCE",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1977",
+				"MDS (National University of Singapore, Singapore) 1982",
+				"FAMS (Oral & Maxillofacial Surgery) (Academy of Medicine, Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Oral & Maxillo-Facial Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"id": "9404182",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

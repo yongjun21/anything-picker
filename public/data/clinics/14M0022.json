@@ -1,0 +1,50 @@
+{
+	"name": "IDS CLINIC",
+	"tel": "65683555",
+	"fax": "65683553",
+	"licensee": "IDS CLINIC PTE. LTD.",
+	"licensePeriod": "06/10/2017 to 05/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0022",
+	"address": "8 SINARAN DRIVE, NOVENA SPECIALIST CENTER, #05-09 to 10 Singapore 307470",
+	"doctorInCharge": [
+		{
+			"name": "TAN SIAK KHIM",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1971"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "10:00 am to 08:00 pm",
+		"Tuesday": "10:00 am to 08:00 pm",
+		"Wednesday": "10:00 am to 08:00 pm",
+		"Thursday": "10:00 am to 08:00 pm",
+		"Friday": "10:00 am to 08:00 pm",
+		"Saturday": "10:00 am to 03:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "14M0022",
+	"coordinates": [
+		103.8447824,
+		1.3200301
+	],
+	"svy21": [
+		29275.81,
+		33587.74
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"name": "ASIA KIDNEY DIALYSIS CENTRE (TPY)",
+	"tel": "62588656",
+	"fax": "62972232",
+	"licensee": "TAN CHOON HIAN ROGER",
+	"licensePeriod": "05/05/2017 to 04/05/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "11C0055",
+	"address": "BLK 124 LORONG 1 TOA PAYOH, #01-483 Singapore 310124",
+	"doctorInCharge": [
+		{
+			"name": "TAN CHOON HIAN ROGER",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2002"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"id": "11C0055",
+	"coordinates": [
+		103.8446273,
+		1.3386488
+	],
+	"svy21": [
+		29258.54,
+		35646.5
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

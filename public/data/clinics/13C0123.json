@@ -1,0 +1,53 @@
+{
+	"name": "VITACARE FAMILY CLINIC (PUNGGOL CENTRAL)",
+	"tel": "66360805",
+	"fax": "66360804",
+	"licensee": "VITACARE FAMILY CLINIC (PUNGGOL CENTRAL)",
+	"licensePeriod": "15/05/2017 to 14/05/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0123",
+	"address": "BLK 622D PUNGGOL CENTRAL, #01-05 Singapore 824622",
+	"doctorInCharge": [
+		{
+			"name": "Koh Wei Thye",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 01:00 pm, 06:00 pm to 10:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 06:00 pm to 10:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 06:00 pm to 10:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 06:00 pm to 10:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 06:00 pm to 10:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 06:00 pm to 10:00 pm"
+	},
+	"id": "13C0123",
+	"coordinates": [
+		103.9105369,
+		1.4005311
+	],
+	"svy21": [
+		36593.36,
+		42489.28
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

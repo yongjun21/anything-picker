@@ -1,0 +1,49 @@
+{
+	"name": "CANAAN DENTAL SURGERY PTE LTD",
+	"tel": "64420293",
+	"fax": "62415173",
+	"licensee": "CANAAN DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "07/12/2015 to 06/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0224",
+	"address": "31 UPPER EAST COAST ROAD, CRESCENDO BUILDING, Singapore 455292",
+	"doctorInCharge": [
+		{
+			"name": "CHONG ISAAC",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 06:00 pm",
+		"Tuesday": "08:30 am to 09:00 pm",
+		"Wednesday": "08:30 am to 09:00 pm",
+		"Thursday": "08:30 am to 06:45 pm",
+		"Friday": "08:30 am to 05:30 am",
+		"Saturday": "09:00 am to 04:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "11C0224",
+	"coordinates": [
+		103.9263296,
+		1.3131268
+	],
+	"svy21": [
+		38351.24,
+		32824.6
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

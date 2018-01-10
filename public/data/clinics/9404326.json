@@ -1,0 +1,47 @@
+{
+	"name": "CHRIS DENTAL SURGEON",
+	"tel": "63333345",
+	"fax": "63333345",
+	"licensee": "CHRISTOPHER CHIN CHAO WEN",
+	"licensePeriod": "05/01/2015 to 04/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404326",
+	"address": "61 STAMFORD ROAD, STAMFORD COURT, #01-04 Singapore 178892",
+	"doctorInCharge": [
+		{
+			"name": "CHRISTOPHER CHIN CHAO WEN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "10:30 am to 01:30 pm, 02:30 pm to 06:30 pm",
+		"Tuesday": "10:30 am to 01:30 pm, 02:30 pm to 06:30 pm",
+		"Wednesday": "10:30 am to 01:30 pm, 02:30 pm to 06:30 pm",
+		"Thursday": "10:30 am to 01:30 pm, 02:30 pm to 06:30 pm",
+		"Friday": "10:30 am to 01:30 pm, 02:30 pm to 06:30 pm",
+		"Saturday": "10:00 am to 02:00 pm"
+	},
+	"id": "9404326",
+	"coordinates": [
+		103.8502264,
+		1.2944289
+	],
+	"svy21": [
+		29881.69,
+		30756.89
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

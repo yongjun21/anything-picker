@@ -1,0 +1,48 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64529181",
+	"fax": "64382248",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/02/2016 to 31/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0031",
+	"address": "100 BRIGHT HILL DRIVE, AI TONG SCHOOL, Singapore 579646",
+	"doctorInCharge": [
+		{
+			"name": "LIM WANYI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "16D0031",
+	"coordinates": [
+		103.8330203,
+		1.3605834
+	],
+	"svy21": [
+		27966.81,
+		38071.92
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

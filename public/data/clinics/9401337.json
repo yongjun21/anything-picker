@@ -1,0 +1,52 @@
+{
+	"name": "PRESIDENT MEDICAL CLINIC",
+	"tel": "62541678",
+	"fax": "62541678",
+	"licensee": "CHIA YUEN TAT",
+	"licensePeriod": "11/06/2014 to 10/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401337",
+	"address": "BLK 74 WHAMPOA DR, #01-338 Singapore 320074",
+	"doctorInCharge": [
+		{
+			"name": "CHIA YUEN TAT",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9401337",
+	"coordinates": [
+		103.8577529,
+		1.3247158
+	],
+	"svy21": [
+		30719.29,
+		34105.87
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

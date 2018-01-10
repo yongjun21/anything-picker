@@ -1,0 +1,48 @@
+{
+	"name": "Q & M DENTAL SURGERY (ELIAS MALL) PTE LTD",
+	"tel": "65848793",
+	"fax": "65830828",
+	"licensee": "Q & M DENTAL SURGERY (ELIAS MALL) PTE. LTD.",
+	"licensePeriod": "17/11/2016 to 16/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9404893",
+	"address": "BLK 625 ELIAS ROAD, ELIAS MALL, #02-308 Singapore 510625",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9404893",
+	"coordinates": [
+		103.9419782,
+		1.3786024
+	],
+	"svy21": [
+		40092.46,
+		40064.64
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

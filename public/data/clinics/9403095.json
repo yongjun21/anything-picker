@@ -1,0 +1,46 @@
+{
+	"name": "K.K. ONG HEART AND LUNG CLINIC",
+	"tel": "64760838",
+	"fax": "64760828",
+	"licensee": "K.K. ONG HEART AND LUNG CLINIC",
+	"licensePeriod": "18/10/2016 to 17/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9403095",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #07-16 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "ONG KIM KIAT",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1981",
+				"FAMS (Thoracic Surg) (Academy of Medicine, Singapore) 1996"
+			],
+			"specialties": [
+				"Cardiothoracic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiothoracic Surgery"
+		]
+	},
+	"id": "9403095",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

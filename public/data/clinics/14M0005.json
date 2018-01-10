@@ -1,0 +1,46 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "66343132",
+	"fax": "66343510",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "13/01/2016 to 12/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0005",
+	"address": "BLK 21 CHOA CHU KANG NORTH 6, YEWTEE POINT, #01-02 Singapore 689578",
+	"doctorInCharge": [
+		{
+			"name": "Dr Gan Ow Tin",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "14M0005",
+	"coordinates": [
+		103.7466363,
+		1.397066
+	],
+	"svy21": [
+		18353.42,
+		42106.15
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"name": "KIDSLINK CHILDREN'S CLINIC",
+	"tel": "63884466",
+	"fax": "63886142",
+	"licensee": "KIDSLINK CHILDREN'S CLINIC PTE LTD",
+	"licensePeriod": "02/03/2014 to 01/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403178",
+	"address": "BLK 237 COMPASSVALE WALK, #01-532 Singapore 540237",
+	"doctorInCharge": [
+		{
+			"name": "TAN CHUNG CHENG VANESSA",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"MRCP (Paed) (Royal College of Physicians, United Kingdom) 1996",
+				"M Med (Paed) (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm",
+		"Thursday": "09:00 am to 12:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9403178",
+	"coordinates": [
+		103.8985203,
+		1.3898679
+	],
+	"svy21": [
+		35256.1,
+		41310.14
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

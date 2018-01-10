@@ -1,0 +1,59 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "62360180",
+	"fax": "64381605",
+	"licensee": "Parkway Shenton Pte Ltd",
+	"licensePeriod": "26/10/2014 to 25/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404305",
+	"address": "9 Raffles Place, Republic Plaza II, #02-22 Singapore 048619",
+	"doctorInCharge": [
+		{
+			"name": "YAP SOO KOR JASON",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2003",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2006",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2007",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9404305",
+	"coordinates": [
+		103.8508367,
+		1.2831935
+	],
+	"svy21": [
+		29949.62,
+		29514.55
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

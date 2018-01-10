@@ -1,0 +1,51 @@
+{
+	"name": "HOSANNA ! DENTAL SURGERY",
+	"tel": "62588456",
+	"fax": "62560457",
+	"licensee": "HOSANNA ! DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "12/02/2016 to 11/02/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9402521",
+	"address": "BLK 123 TOA PAYOH LOR 1, #01-515 Singapore 310123",
+	"doctorInCharge": [
+		{
+			"name": "LIM CHOON PENG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 04:30 pm to 06:30 pm",
+		"Saturday": "09:00 am to 12:30 pm, 01:00 pm to 03:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402521",
+	"coordinates": [
+		103.8457038,
+		1.338649
+	],
+	"svy21": [
+		29378.35,
+		35646.53
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"name": "PROVIDENCE ORTHOPAEDICS",
+	"tel": "66842330",
+	"fax": "66842320",
+	"licensee": "PROVIDENCE ORTHOPAEDICS PTE. LTD.",
+	"licensePeriod": "17/07/2016 to 16/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0139",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #08-54 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Siow Hua Ming",
+			"qualifications": [
+				"MB ChB (University of Glasgow, United Kingdom) 1996",
+				"M Med (Ortho Surg) (National University of Singapore, Singapore) 2002",
+				"MRCSEd (Royal College of Surgeons of Edinburgh, United Kingdom) 2002",
+				"FRCS (Orth Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 2006",
+				"FAMS (Orth Surg) (Academy of Medicine, Singapore) 2008"
+			],
+			"specialties": [
+				"Orthopaedic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Orthopaedic Surgery"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "12C0139",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

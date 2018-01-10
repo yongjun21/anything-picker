@@ -1,0 +1,41 @@
+{
+	"name": "PRECIOUS MEDICAL CLINIC",
+	"tel": "65101984",
+	"fax": "68836964",
+	"licensee": "PRECIOUS MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "28/10/2017 to 27/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0341",
+	"address": "BLK 333B YISHUN STREET 31, YISHUN RIVERWALK, #01-183 Singapore 762333",
+	"doctorInCharge": [
+		{
+			"name": "Oh Eu Leong",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2008"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0341",
+	"coordinates": [
+		103.8453791,
+		1.4319578
+	],
+	"svy21": [
+		29342.15,
+		45964.14
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

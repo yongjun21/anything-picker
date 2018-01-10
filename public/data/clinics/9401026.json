@@ -1,0 +1,57 @@
+{
+	"name": "M C TONG CARDIOTHORACIC SURGERY CENTRE",
+	"tel": "67329693",
+	"fax": "62351676",
+	"licensee": "TONG MING CHUAN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401026",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #17-11 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "TONG MING CHUAN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1973",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1978",
+				"FRACS (Gen Surg) (Royal Australasian College of Surgeons, Australia) 1981",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 1981"
+			],
+			"specialties": [
+				"Cardiothoracic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiothoracic Surgery",
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 05:00 pm",
+		"Tuesday": "08:00 am to 05:00 pm",
+		"Wednesday": "08:00 am to 05:00 pm",
+		"Thursday": "08:00 am to 05:00 pm",
+		"Friday": "08:00 am to 05:00 pm",
+		"Saturday": "08:00 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401026",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

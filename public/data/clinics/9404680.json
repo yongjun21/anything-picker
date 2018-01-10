@@ -1,0 +1,48 @@
+{
+	"name": "COMBINED DENTAL SURGERY",
+	"tel": "62719762",
+	"fax": "62886926",
+	"licensee": "SEAH LENG EAN",
+	"licensePeriod": "15/01/2014 to 14/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404680",
+	"address": "BLK 2 JALAN BUKIT MERAH, #01-5150 Singapore 150002",
+	"doctorInCharge": [
+		{
+			"name": "SEAH LENG EAN",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404680",
+	"coordinates": [
+		103.8068619,
+		1.2866292
+	],
+	"svy21": [
+		25055.59,
+		29894.46
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

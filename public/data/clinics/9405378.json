@@ -1,0 +1,43 @@
+{
+	"name": "CENTRAL 24-HR CLINIC (WOODLANDS)",
+	"tel": "63654895",
+	"fax": "63621895",
+	"licensee": "HEALTH 2.0 PTE. LTD.",
+	"licensePeriod": "20/11/2013 to 19/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405378",
+	"address": "BLK 768 WOODLANDS AVENUE 6, WOODLANDS MART, #02-06A Singapore 730768",
+	"doctorInCharge": [
+		{
+			"name": "goh chiew kai",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9405378",
+	"coordinates": [
+		103.798141,
+		1.4456229
+	],
+	"svy21": [
+		24085.29,
+		47475.18
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"name": "AZURE DENTAL",
+	"tel": "64636318",
+	"fax": "64636316",
+	"licensee": "VERITAS DENTAL PTE. LTD.",
+	"licensePeriod": "25/10/2016 to 24/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0335",
+	"address": "22A SIXTH AVENUE, Singapore 276480",
+	"doctorInCharge": [
+		{
+			"name": "Prashanth Kanakamedala",
+			"qualifications": [
+				"BDS (University of Liverpool, United Kingdom) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "16D0335",
+	"coordinates": [
+		103.7949531,
+		1.3306134
+	],
+	"svy21": [
+		23730.31,
+		34758.02
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

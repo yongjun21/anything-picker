@@ -1,0 +1,56 @@
+{
+	"name": "ELIM RHEUMATIC CENTRE",
+	"tel": "65358833",
+	"fax": "66844464",
+	"licensee": "LIM UI CHONG",
+	"licensePeriod": "06/07/2016 to 05/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404997",
+	"address": "38 IRRAWADDY ROAD, Mt Elizabeth Novena Specialist Centre, #05-25 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "LIM UI CHONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1995",
+				"FAMS (Rheumatology) (Academy of Medicine, Singapore) 2000"
+			],
+			"specialties": [
+				"Rheumatology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Internal Medicine",
+			"Rheumatology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9404997",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

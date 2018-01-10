@@ -1,0 +1,53 @@
+{
+	"name": "INTERNATIONAL MEDICAL CLINIC",
+	"tel": "67334444",
+	"fax": "67334429",
+	"licensee": "TMVC Singapore Pte Ltd",
+	"licensePeriod": "03/12/2013 to 02/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404635",
+	"address": "1 ORCHARD BOULEVARD, CAMDEN MEDICAL CENTRE, #14-05/06/07 Singapore 248649",
+	"doctorInCharge": [
+		{
+			"name": "Clarice Chia Woodworth",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"Dip Pract Derm (University of Wales, United Kingdom) 1999"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 05:30 am",
+		"Tuesday": "09:00 am to 05:30 am",
+		"Wednesday": "09:00 am to 05:30 am",
+		"Thursday": "09:00 am to 05:30 am",
+		"Friday": "09:00 am to 05:30 am",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404635",
+	"coordinates": [
+		103.8239072,
+		1.3031376
+	],
+	"svy21": [
+		26952.59,
+		31719.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

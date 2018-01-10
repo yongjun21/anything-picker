@@ -1,0 +1,47 @@
+{
+	"name": "WOODGROVE DENTAL SURGERY",
+	"tel": "63683006",
+	"fax": "63657909",
+	"licensee": "WOODGROVE DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "24/12/2014 to 23/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405783",
+	"address": "BLK 326 WOODLANDS ST 32, #01-111 Singapore 730326",
+	"doctorInCharge": [
+		{
+			"name": "Leong Foong Keng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:00 pm to 08:30 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 02:00 pm to 06:00 pm, 06:30 pm to 07:30 pm",
+		"Thursday": "09:30 am to 12:30 pm, 02:00 pm to 06:00 pm, 06:30 pm to 07:30 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:00 pm to 06:00 pm, 06:30 pm to 07:30 pm",
+		"Sunday": "09:30 am to 12:30 pm"
+	},
+	"id": "9405783",
+	"coordinates": [
+		103.7795825,
+		1.4304212
+	],
+	"svy21": [
+		22019.97,
+		45794.3
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

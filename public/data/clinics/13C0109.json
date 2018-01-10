@@ -1,0 +1,64 @@
+{
+	"name": "FRESENIUS MEDICAL CARE YISHUN RING DIALYSIS CLINIC",
+	"tel": "64838410",
+	"fax": "64838415",
+	"licensee": "KIDNEY THERAPY CENTRE PTE. LTD.",
+	"licensePeriod": "30/03/2017 to 29/03/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "13C0109",
+	"address": "BLK 236 YISHUN RING ROAD, #01-1002 Singapore 760236",
+	"doctorInCharge": [
+		{
+			"name": "Tan Seng Hoe",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1996",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1996",
+				"FAMS (Academy of Medicine, Singapore) 2000",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2004",
+				"FRCP (Lond) (Royal College of Physicians of London, United Kingdom) 2009"
+			],
+			"specialties": [
+				"Internal Medicine",
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "06:30 am to 10:30 pm",
+		"Tuesday": "06:30 am to 10:30 pm",
+		"Wednesday": "06:30 am to 10:30 pm",
+		"Thursday": "06:30 am to 10:30 pm",
+		"Friday": "06:30 am to 10:30 pm",
+		"Saturday": "06:30 am to 10:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "13C0109",
+	"coordinates": [
+		103.8389989,
+		1.4341681
+	],
+	"svy21": [
+		28632.14,
+		46208.54
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

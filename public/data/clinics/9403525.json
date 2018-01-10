@@ -1,0 +1,57 @@
+{
+	"name": "G.I.F.T MEDICAL CENTRE",
+	"tel": "62861923",
+	"fax": "62861923",
+	"licensee": "SOON YAN HUEY",
+	"licensePeriod": "12/08/2017 to 11/08/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403525",
+	"address": "389 UPPER ALJUNIED RD, Singapore 367874",
+	"doctorInCharge": [
+		{
+			"name": "SOON YAN HUEY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:15 pm, 02:00 pm to 04:15 pm, 07:00 pm to 08:45 pm",
+		"Tuesday": "08:30 am to 12:15 pm, 02:00 pm to 04:15 pm, 07:00 pm to 08:45 pm",
+		"Wednesday": "08:30 am to 12:15 pm, 02:00 pm to 04:15 pm, 07:00 pm to 08:45 pm",
+		"Thursday": "08:30 am to 12:15 pm, 02:00 pm to 04:15 pm, 07:00 pm to 08:45 pm",
+		"Friday": "08:30 am to 12:15 pm, 02:00 pm to 04:15 pm, 07:00 pm to 08:45 pm",
+		"Saturday": "09:00 am to 12:15 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9403525",
+	"coordinates": [
+		103.8788299,
+		1.3331793
+	],
+	"svy21": [
+		33064.94,
+		35041.76
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

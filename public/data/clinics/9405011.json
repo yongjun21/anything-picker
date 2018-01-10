@@ -1,0 +1,49 @@
+{
+	"name": "OVSPRING DEVELOPMENTAL CLINIC",
+	"tel": "64668090",
+	"fax": "64671344",
+	"licensee": "Ovspring Developmental Clinic Pte. Ltd.",
+	"licensePeriod": "31/08/2015 to 30/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405011",
+	"address": "1 FIFTH AVENUE, GUTHRIE HOUSE, #03-11/12 Singapore 268802",
+	"doctorInCharge": [
+		{
+			"name": "June Lou",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1969",
+				"FRACP (Paed) (Royal Australasian College of Physicians, Australia) 1972",
+				"M Med (Paed) (National University of Singapore, Singapore) 1972",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 1976"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"id": "9405011",
+	"coordinates": [
+		103.7956924,
+		1.3308174
+	],
+	"svy21": [
+		23812.59,
+		34780.58
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

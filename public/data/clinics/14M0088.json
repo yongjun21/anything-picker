@@ -1,0 +1,46 @@
+{
+	"name": "SPINE NEURO SPECIALIST CENTRE",
+	"tel": "64751828",
+	"fax": "64751768",
+	"licensee": "SPINE NEURO SPECIALIST CENTRE PTE. LTD.",
+	"licensePeriod": "15/04/2016 to 14/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0088",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #08-08 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Rajendra Tiruchelvarayan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997",
+				"M Med (Surg) (National University of Singapore, Singapore) 2001",
+				"FRCS (Neurosurgery) (Royal College of Surgeons, Ireland) 2006"
+			],
+			"specialties": [
+				"Neurosurgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Neurosurgery"
+		]
+	},
+	"id": "14M0088",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

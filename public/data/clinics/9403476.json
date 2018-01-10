@@ -1,0 +1,57 @@
+{
+	"name": "KINDER CLINIC PTE LTD",
+	"tel": "67324718",
+	"fax": "67338306",
+	"licensee": "Kinder Clinic Pte Ltd",
+	"licensePeriod": "10/12/2013 to 09/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403476",
+	"address": "290 ORCHARD ROAD, PARAGON, #07-02/03 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Subramaniam Sivasankaran",
+			"qualifications": [
+				"MBBS (University of Madras, India) 1977",
+				"MRCP (Paed) (Royal College of Physicians, United Kingdom) 1986",
+				"FAMS (Academy of Medicine, Singapore) 1997"
+			],
+			"specialties": [
+				"Neonatology",
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403476",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

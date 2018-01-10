@@ -1,0 +1,57 @@
+{
+	"name": "HISEMAINN MEDICAL CLINIC (BUKIT BATOK)",
+	"tel": "65691375",
+	"fax": "65667565",
+	"licensee": "289E MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "16/01/2016 to 15/01/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403513",
+	"address": "BLK 289E BUKIT BATOK ST 25, #01-160 Singapore 654289",
+	"doctorInCharge": [
+		{
+			"name": "LO ANDY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "06:30 pm to 09:30 pm",
+		"Tuesday": "06:30 pm to 09:30 pm",
+		"Wednesday": "06:30 pm to 09:30 pm",
+		"Thursday": "06:30 pm to 09:30 pm",
+		"Friday": "06:30 pm to 09:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9403513",
+	"coordinates": [
+		103.7594314,
+		1.3441703
+	],
+	"svy21": [
+		19777.16,
+		36257.16
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

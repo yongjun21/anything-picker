@@ -1,0 +1,55 @@
+{
+	"name": "THOMSON WOMEN'S CLINIC",
+	"tel": "63335550",
+	"fax": "67533762",
+	"licensee": "THOMSON WOMEN'S CLINIC HOLDINGS PTE LTD",
+	"licensePeriod": "27/08/2017 to 26/08/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0213",
+	"address": "BLK 355 SEMBAWANG WAY, #01-02 Singapore 750355",
+	"doctorInCharge": [
+		{
+			"name": "ANG PEK SAN LAWRENCE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1996",
+				"M Med (O&G) (National University of Singapore, Singapore) 1996",
+				"MRACOG (Royal Australian College of Obstetricians and Gynaecologists, Australia) 1997"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 06:30 pm",
+		"Friday": "10:00 am to 06:30 pm",
+		"Tuesday": "10:00 am to 12:30 pm",
+		"Thursday": "10:00 am to 12:30 pm",
+		"Wednesday": "10:00 am to 06:30 pm",
+		"Saturday": "10:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0213",
+	"coordinates": [
+		103.8187276,
+		1.4495449
+	],
+	"svy21": [
+		26376.26,
+		47908.83
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	]
+}

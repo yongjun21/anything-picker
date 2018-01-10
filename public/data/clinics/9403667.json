@@ -1,0 +1,49 @@
+{
+	"name": "326 AVENUE 3 CLINIC",
+	"tel": "62801567",
+	"fax": "63827044",
+	"licensee": "LEONG SENG KEEN",
+	"licensePeriod": "24/09/2015 to 23/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403667",
+	"address": "BLK 326 SERANGOON AVE 3, #01-382 Singapore 550326",
+	"doctorInCharge": [
+		{
+			"name": "LEONG SENG KEEN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:00 pm, 06:30 pm to 09:00 pm",
+		"Sunday": "08:30 am to 12:00 pm, 06:30 pm to 09:00 pm"
+	},
+	"id": "9403667",
+	"coordinates": [
+		103.868997,
+		1.350352
+	],
+	"svy21": [
+		31970.61,
+		36940.61
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

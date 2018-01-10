@@ -1,0 +1,39 @@
+{
+	"name": "PARSONS MEDICAL CLINIC AND SURGERY PTE LTD",
+	"licensee": "Parsons Medical Clinic and Surgery Pte Ltd",
+	"licensePeriod": "21/10/2016 to 20/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0330",
+	"address": "360 ORCHARD ROAD, INTERNATIONAL BUILDING, #04-10 Singapore 238869",
+	"doctorInCharge": [
+		{
+			"name": "Keith Ong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0330",
+	"coordinates": [
+		103.8310033,
+		1.3060752
+	],
+	"svy21": [
+		27742.33,
+		32044.67
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

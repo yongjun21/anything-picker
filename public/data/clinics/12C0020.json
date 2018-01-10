@@ -1,0 +1,47 @@
+{
+	"name": "DR SEOW DENTAL CENTRE",
+	"tel": "67770113",
+	"fax": "64631632",
+	"licensee": "Seow Onn Choong",
+	"licensePeriod": "14/02/2016 to 13/02/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0020",
+	"address": "BLK 43 HOLLAND DRIVE, #01-51 Singapore 270043",
+	"doctorInCharge": [
+		{
+			"name": "Seow Onn Choong",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978",
+				"MDS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "12C0020",
+	"coordinates": [
+		103.7928976,
+		1.3074341
+	],
+	"svy21": [
+		23501.52,
+		32194.98
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

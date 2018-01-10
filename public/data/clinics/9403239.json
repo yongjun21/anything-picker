@@ -1,0 +1,55 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "67653363",
+	"fax": "67657877",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "01/08/2014 to 31/07/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403239",
+	"address": "21 CHOA CHU KANG AVE 4, LOT 1 SHOPPERS' MALL, #B1-07A Singapore 689812",
+	"doctorInCharge": [
+		{
+			"name": "Gan Ow Tin",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Sunday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm"
+	},
+	"id": "9403239",
+	"coordinates": [
+		103.7450118,
+		1.3849746
+	],
+	"svy21": [
+		18172.58,
+		40769.15
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

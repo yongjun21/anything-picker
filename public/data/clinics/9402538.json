@@ -1,0 +1,48 @@
+{
+	"name": "SCOTTS DENTAL CENTRE",
+	"tel": "68870380",
+	"fax": "68870380",
+	"licensee": "TAN TZEE JEN",
+	"licensePeriod": "19/09/2015 to 18/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402538",
+	"address": "8 EU TONG SEN STREET, THE CENTRAL, #18-87 Singapore 059818",
+	"doctorInCharge": [
+		{
+			"name": "TAN TZEE JEN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986",
+				"D ORTH RCS (ENGLAND) (Royal College of Surgeons of England, United Kingdom) 1992",
+				"MSc (University of London, United Kingdom) 1992",
+				"MDORCPS (Glasgow) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1994",
+				"FAM (Singapore) (Academy of Medicine, Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"id": "9402538",
+	"coordinates": [
+		103.846558,
+		1.2888386
+	],
+	"svy21": [
+		29473.44,
+		30138.74
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

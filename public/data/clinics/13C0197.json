@@ -1,0 +1,59 @@
+{
+	"name": "BVH COMMUNITY AND CONTINUING CARE CLINIC",
+	"tel": "62485749",
+	"fax": "68813872",
+	"licensee": "BRIGHT VISION HOSPITAL",
+	"licensePeriod": "02/08/2017 to 01/08/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0197",
+	"address": "5 LORONG NAPIRI, BRIGHT VISION HOSPITAL (LEVEL 2), Singapore 547530",
+	"doctorInCharge": [
+		{
+			"name": "Lee Kheng Hock",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1992",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "13C0197",
+	"coordinates": [
+		103.8780311,
+		1.372037
+	],
+	"svy21": [
+		32975.96,
+		39338.44
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

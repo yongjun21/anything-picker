@@ -1,0 +1,47 @@
+{
+	"name": "PREMIER DENTAL CARE",
+	"tel": "62415339",
+	"fax": "67865108",
+	"licensee": "Goh Jia Fen Jennifer",
+	"licensePeriod": "17/10/2016 to 16/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0320",
+	"address": "BLK 418 BEDOK NORTH AVENUE 2, #01-63 Singapore 460418",
+	"doctorInCharge": [
+		{
+			"name": "Goh Jia Fen Jennifer",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:15 am to 05:00 pm",
+		"Tuesday": "09:15 am to 05:00 pm",
+		"Wednesday": "09:15 am to 05:00 pm",
+		"Thursday": "09:15 am to 05:00 pm",
+		"Friday": "09:15 am to 05:00 pm",
+		"Saturday": "09:15 am to 12:30 pm"
+	},
+	"id": "16D0320",
+	"coordinates": [
+		103.9300365,
+		1.3285642
+	],
+	"svy21": [
+		38763.72,
+		34531.61
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

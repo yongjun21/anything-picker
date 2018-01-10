@@ -1,0 +1,44 @@
+{
+	"name": "TAY MEDICAL CENTRE CLINIC & SURGERY",
+	"tel": "67793188",
+	"fax": "67793188",
+	"licensee": "TAY KIM TENG TONY",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401632",
+	"address": "BLK 6 HOLLAND CLOSE, #01-28 Singapore 271006",
+	"doctorInCharge": [
+		{
+			"name": "TAY KIM TENG TONY",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1970"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9401632",
+	"coordinates": [
+		103.7952646,
+		1.3071157
+	],
+	"svy21": [
+		23764.95,
+		32159.76
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

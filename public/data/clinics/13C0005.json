@@ -1,0 +1,55 @@
+{
+	"name": "ORANGE ORTHODONTICS & DENTOFACIAL ORTHOPAEDICS",
+	"tel": "67370544",
+	"fax": "67370543",
+	"licensee": "VICPEARLY WONG",
+	"licensePeriod": "04/01/2017 to 03/01/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0005",
+	"address": "304 ORCHARD ROAD, LUCKY PLAZA, #05-44 Singapore 238863",
+	"doctorInCharge": [
+		{
+			"name": "VICPEARLY WONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1999",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2003",
+				"MDS (Orthodontics) (Singapore) (National University of Singapore, Singapore) 2004",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2004"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm"
+	},
+	"id": "13C0005",
+	"coordinates": [
+		103.8339619,
+		1.3045061
+	],
+	"svy21": [
+		28071.6,
+		31871.17
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

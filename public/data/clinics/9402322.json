@@ -1,0 +1,58 @@
+{
+	"name": "KIDNEY MEDICAL CENTRE",
+	"tel": "64729360",
+	"fax": "64722460",
+	"licensee": "LEONG SEE ODD",
+	"licensePeriod": "05/12/2016 to 04/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9402322",
+	"address": "6 NAPIER RD, GLENEAGLES MEDICAL CENTRE, #03-08 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "LEONG SEE ODD",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1991",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1991",
+				"FAMS (Academy of Medicine, Singapore) 1996",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2003",
+				"FRCP (Lond) (Royal College of Physicians of London, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402322",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "HO TONG CLINIC",
+	"tel": "67456517",
+	"fax": "64671335",
+	"licensee": "SEE BENG TECK",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400688",
+	"address": "BLK 35 CIRCUIT RD, #01-448 Singapore 370035",
+	"doctorInCharge": [
+		{
+			"name": "SEE BENG TECK",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1972"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:30 am to 09:30 am, 02:30 pm to 12:00 pm, 07:30 pm to 12:00 pm",
+		"Tuesday": "09:30 am to 09:30 am, 02:30 pm to 12:00 pm, 07:30 pm to 12:00 pm",
+		"Wednesday": "09:30 am to 09:30 am, 02:30 pm to 12:00 pm, 07:30 pm to 12:00 pm",
+		"Thursday": "09:30 am to 09:30 am, 02:30 pm to 12:00 pm, 07:30 pm to 12:00 pm",
+		"Friday": "09:30 am to 09:30 am, 02:30 pm to 12:00 pm, 07:30 pm to 12:00 pm",
+		"Saturday": "09:30 am to 09:30 am, 02:30 pm to 12:00 pm, 07:30 pm to 12:00 pm"
+	},
+	"id": "9400688",
+	"coordinates": [
+		103.8860103,
+		1.329159
+	],
+	"svy21": [
+		33864.05,
+		34597.23
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

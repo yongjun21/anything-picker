@@ -1,0 +1,48 @@
+{
+	"name": "NG & LUM DENTAL SURGERY",
+	"tel": "63363813",
+	"fax": "63381836",
+	"licensee": "Lum Yew Meng",
+	"licensePeriod": "29/03/2017 to 28/03/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9405634",
+	"address": "8 WILKIE ROAD, WILKIE EDGE, #01-01 Singapore 228095",
+	"doctorInCharge": [
+		{
+			"name": "Lum Yew Meng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1973",
+				"MDS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405634",
+	"coordinates": [
+		103.8495113,
+		1.302122
+	],
+	"svy21": [
+		29802.1,
+		31607.56
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

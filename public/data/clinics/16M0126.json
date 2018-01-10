@@ -1,0 +1,49 @@
+{
+	"name": "B.BRAUN DIALYSIS CENTRE",
+	"tel": "62130933",
+	"fax": "62130930",
+	"licensee": "B. BRAUN AVITUM HOLDINGS SINGAPORE PTE. LTD.",
+	"licensePeriod": "08/05/2016 to 07/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0126",
+	"address": "388 EAST COAST ROAD, Singapore 428990",
+	"doctorInCharge": [
+		{
+			"name": "Ng Tsun Gun",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2003",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2009",
+				"FAMS (Academy of Medicine, Singapore) 2010"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"id": "16M0126",
+	"coordinates": [
+		103.911591,
+		1.308642
+	],
+	"svy21": [
+		36711,
+		32328.64
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"name": "SBCC WOMEN'S CLINIC",
+	"tel": "67741654",
+	"fax": "67743654",
+	"licensee": "SBCC WOMEN'S CLINIC PTE. LTD.",
+	"licensePeriod": "07/03/2016 to 06/03/2018",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "11C0138",
+	"address": "BLK 443 CLEMENTI AVENUE 3, #01-53 Singapore 120443",
+	"doctorInCharge": [
+		{
+			"name": "Wong Chin Khoon",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"M Med (Paed) (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "11C0138",
+	"coordinates": [
+		103.7640104,
+		1.3142105
+	],
+	"svy21": [
+		20286.66,
+		32944.35
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

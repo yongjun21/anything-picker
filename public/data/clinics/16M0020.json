@@ -1,0 +1,41 @@
+{
+	"name": "STMICROELECTRONICS PTE LTD (MEDICAL CENTRE)",
+	"tel": "64276659",
+	"fax": "64821411",
+	"licensee": "STMICROELECTRONICS PTE LTD",
+	"licensePeriod": "17/01/2016 to 16/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0020",
+	"address": "18 ANG MO KIO INDUSTRIAL PARK 2, Singapore 569505",
+	"doctorInCharge": [
+		{
+			"name": "Neoh Chi Lim",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0020",
+	"coordinates": [
+		103.8656901,
+		1.373271
+	],
+	"svy21": [
+		31602.56,
+		39474.87
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

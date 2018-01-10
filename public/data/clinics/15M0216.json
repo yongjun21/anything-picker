@@ -1,0 +1,55 @@
+{
+	"name": "PANHEALTH FAMILY CLINIC",
+	"tel": "69660595",
+	"licensee": "PANHEALTH MEDICAL PUNGGOL PTE. LTD.",
+	"licensePeriod": "26/06/2017 to 25/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0216",
+	"address": "BLK 312B SUMANG LINK, #01-03 Singapore 822312",
+	"doctorInCharge": [
+		{
+			"name": "Yip On Luk Laurel",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2007",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2013",
+				"PG Dip (Practical Derm) (Cardiff University, United Kingdom) 2015",
+				"GDMH (National University of Singapore, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "15M0216",
+	"coordinates": [
+		103.9006147,
+		1.4113531
+	],
+	"svy21": [
+		35489.11,
+		43685.88
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

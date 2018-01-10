@@ -1,0 +1,48 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64751913",
+	"fax": "64751913",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "25/03/2016 to 24/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0059",
+	"address": "2A PRINCE CHARLES CRESCENT,, Alexandra Primary School, Singapore 159016",
+	"doctorInCharge": [
+		{
+			"name": "LIM WANYI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "14D0059",
+	"coordinates": [
+		103.8244247,
+		1.2913344
+	],
+	"svy21": [
+		27010.19,
+		30414.72
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

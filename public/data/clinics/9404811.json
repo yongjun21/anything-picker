@@ -1,0 +1,49 @@
+{
+	"name": "MY FAMILY CLINIC™ (TOA PAYOH CENTRAL)",
+	"tel": "62380301",
+	"fax": "62380351",
+	"licensee": "MY FAMILY CLINIC (TPY) PTE. LTD.",
+	"licensePeriod": "11/04/2014 to 10/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404811",
+	"address": "BLK 79D TOA PAYOH CENTRAL, #01-53 Singapore 314079",
+	"doctorInCharge": [
+		{
+			"name": "Goh Chee Hwei",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2004",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9404811",
+	"coordinates": [
+		103.8491655,
+		1.3346408
+	],
+	"svy21": [
+		29763.6,
+		35203.33
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "THE MEDICAL CLINIC PTE LTD",
+	"tel": "65355151",
+	"fax": "65355627",
+	"licensee": "David Tay Kew Wei",
+	"licensePeriod": "08/03/2015 to 07/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404377",
+	"address": "63 Chulia Street., OCBC Centre East, #01-02 Singapore 049514",
+	"doctorInCharge": [
+		{
+			"name": "David Tay Kew Wei",
+			"qualifications": [
+				"BMBS (University of Nottingham, United Kingdom) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404377",
+	"coordinates": [
+		103.8496656,
+		1.2848904
+	],
+	"svy21": [
+		29819.28,
+		29702.18
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

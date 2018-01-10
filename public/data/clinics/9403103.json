@@ -1,0 +1,55 @@
+{
+	"name": "INTERNATIONAL MEDICAL CLINIC",
+	"tel": "64654440",
+	"fax": "64654441",
+	"licensee": "TMVC SINGAPORE PTE LTD",
+	"licensePeriod": "03/08/2016 to 02/08/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403103",
+	"address": "293 HOLLAND RD, COLD STORAGE JELITA, #02-04 Singapore 278628",
+	"doctorInCharge": [
+		{
+			"name": "CLARICE SOEK-YIN CHIA WOODWORTH",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"Dip Pract Derm (University of Wales, United Kingdom) 1999"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9403103",
+	"coordinates": [
+		103.7858505,
+		1.3175456
+	],
+	"svy21": [
+		22717.27,
+		33313.06
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

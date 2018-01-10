@@ -1,0 +1,95 @@
+{
+	"name": "PACIFIC HEALTHCARE SPECIALIST CENTRE",
+	"tel": "62388566",
+	"fax": "68836956",
+	"licensee": "PACIFIC HEALTHCARE SPECIALIST SERVICES PTE. LTD.",
+	"licensePeriod": "31/03/2016 to 30/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0069",
+	"address": "290 ORCHARD ROAD, PARAGON, #12-01 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Mathew Tung Yu Yee",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984",
+				"FRCS (Neurosurgery) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1996"
+			],
+			"specialties": [
+				"Neurosurgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Anaesthesiology",
+			"Cardiology",
+			"Cardiothoracic Surgery",
+			"Dermatology",
+			"Diagnostic Radiology",
+			"Emergency Medicine",
+			"Endocrinology",
+			"Gastroenterology",
+			"General Surgery",
+			"Geriatric Medicine",
+			"Haematology",
+			"Hand Surgery",
+			"Infectious Diseases",
+			"Intensive Care Medicine",
+			"Internal Medicine",
+			"Medical Oncology",
+			"Neonatology",
+			"Neurology",
+			"Neurosurgery",
+			"Nuclear Medicine",
+			"Obstetrics & Gynaecology",
+			"Occupational Medicine",
+			"Ophthalmology",
+			"Orthopaedic Surgery",
+			"Otorhinolaryngology",
+			"Paediatric Medicine",
+			"Paediatric Surgery",
+			"Palliative Medicine",
+			"Pathology",
+			"Plastic Surgery",
+			"Psychiatry",
+			"Public Health",
+			"Radiation Oncology",
+			"Rehabilitation Medicine",
+			"Renal Medicine",
+			"Respiratory Medicine",
+			"Rheumatology",
+			"Sports Medicine",
+			"Urology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "14M0069",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

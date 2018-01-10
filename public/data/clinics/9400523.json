@@ -1,0 +1,57 @@
+{
+	"name": "FAMILY MEDICAL CLINIC PTE LTD",
+	"tel": "65676775",
+	"fax": "65676775",
+	"licensee": "FAMILY MEDICAL CLINIC PTE LTD",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400523",
+	"address": "BLK 280 BT BATOK EAST AVE 3, #01-317 Singapore 650280",
+	"doctorInCharge": [
+		{
+			"name": "TAY SIEW TEE CELENA",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:00 pm"
+	},
+	"id": "9400523",
+	"coordinates": [
+		103.7570446,
+		1.3477015
+	],
+	"svy21": [
+		19511.55,
+		36647.63
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"name": "ST. ANDREW'S MISSION HOSPITAL CLINIC (KAMPONG GLAM)",
+	"tel": "62911861",
+	"fax": "62911862",
+	"licensee": "ST ANDREW'S MISSION HOSPITAL",
+	"licensePeriod": "31/03/2016 to 30/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0081",
+	"address": "BLK 5 BEACH ROAD, #01-4919 Singapore 190005",
+	"doctorInCharge": [
+		{
+			"name": "Edward Balan Menon",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Rehabilitation Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "16M0081",
+	"coordinates": [
+		103.8648158,
+		1.3043462
+	],
+	"svy21": [
+		31505.35,
+		31853.52
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

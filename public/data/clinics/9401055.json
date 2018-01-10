@@ -1,0 +1,49 @@
+{
+	"name": "MARTIN MEDICAL CENTRE",
+	"tel": "62692446",
+	"fax": "62692446",
+	"licensee": "CHRISTOPHER MARTIN",
+	"licensePeriod": "20/06/2015 to 19/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401055",
+	"address": "BLK 111 WOODLANDS ST 13, #01-80 Singapore 730111",
+	"doctorInCharge": [
+		{
+			"name": "CHRISTOPHER MARTIN",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1979"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 12:30 pm",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9401055",
+	"coordinates": [
+		103.7820594,
+		1.4379438
+	],
+	"svy21": [
+		22295.64,
+		46626.1
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

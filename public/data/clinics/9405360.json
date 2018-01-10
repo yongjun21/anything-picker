@@ -1,0 +1,56 @@
+{
+	"name": "HEALTHSPRINGS MEDICAL CLINIC",
+	"tel": "68926681",
+	"fax": "68920061",
+	"licensee": "Healthsprings Medical Pte. Ltd.",
+	"licensePeriod": "30/10/2017 to 29/10/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9405360",
+	"address": "BLK 524A JELAPANG ROAD, GREENRIDGE SHOPPING CENTRE, #02-01/02 Singapore 671524",
+	"doctorInCharge": [
+		{
+			"name": "Soh Lea Sar",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"Dip Geriatric Med (National University of Singapore, Singapore) 1998",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 04:00 pm, 06:00 pm to 09:30 pm",
+		"Tuesday": "08:00 am to 04:00 pm, 06:00 pm to 09:30 pm",
+		"Wednesday": "08:00 am to 04:00 pm, 06:00 pm to 09:30 pm",
+		"Thursday": "08:00 am to 03:00 pm, 06:00 pm to 09:30 pm",
+		"Friday": "08:00 am to 03:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405360",
+	"coordinates": [
+		103.7662285,
+		1.3854057
+	],
+	"svy21": [
+		20533.73,
+		40816.74
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

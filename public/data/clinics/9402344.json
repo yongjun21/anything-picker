@@ -1,0 +1,39 @@
+{
+	"name": "ST ANTHONY MEDICAL CLINIC",
+	"tel": "63656683",
+	"fax": "63658339",
+	"licensee": "Society of St. Vincent De Paul (National Council of Singapore)",
+	"licensePeriod": "04/02/2014 to 03/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402344",
+	"address": "25 WOODLANDS AVE 1, Singapore 739064",
+	"doctorInCharge": [
+		{
+			"name": "TOK CHOO BENG, VINCENT",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9402344",
+	"coordinates": [
+		103.7796521,
+		1.4295932
+	],
+	"svy21": [
+		22027.72,
+		45702.74
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

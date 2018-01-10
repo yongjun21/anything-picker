@@ -1,0 +1,54 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "62383631",
+	"fax": "62389801",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "17/06/2016 to 16/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "11C0171",
+	"address": "333 ORCHARD ROAD, MANDARIN ORCHARD SINGAPORE, #06-01 Singapore 238867",
+	"doctorInCharge": [
+		{
+			"name": "Hoe Wan Sin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "11C0171",
+	"coordinates": [
+		103.836341,
+		1.3020645
+	],
+	"svy21": [
+		28336.36,
+		31601.2
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

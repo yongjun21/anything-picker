@@ -1,0 +1,55 @@
+{
+	"name": "ZENITH MEDICAL CLINIC",
+	"tel": "64433678",
+	"fax": "64433678",
+	"licensee": "ZENITH MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "07/10/2016 to 06/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0301",
+	"address": "BLK 266C PUNGGOL WAY, #01-374 Singapore 823266",
+	"doctorInCharge": [
+		{
+			"name": "ANG TENG SOON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2010",
+				"MRCS (Surgery) (Royal College of Surgeons of Edinburgh, United Kingdom) 2013",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 06:00 pm to 11:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 06:00 pm to 11:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 06:00 pm to 11:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 06:00 pm to 11:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 06:00 pm to 11:00 pm",
+		"Saturday": "08:00 am to 01:00 pm",
+		"Sunday": "06:00 pm to 11:00 pm",
+		"Public Holiday": "06:00 pm to 11:00 pm"
+	},
+	"id": "14M0301",
+	"coordinates": [
+		103.8978052,
+		1.4051542
+	],
+	"svy21": [
+		35176.48,
+		43000.43
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

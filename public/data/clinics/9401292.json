@@ -1,0 +1,46 @@
+{
+	"name": "REGIONAL PATIENTCARE MEDICAL GROUP PTE LTD (YISHUN CENTRAL BRANCH)",
+	"tel": "67561611",
+	"fax": "67568028",
+	"licensee": "REGIONAL PATIENTCARE MEDICAL GROUP PTE LTD",
+	"licensePeriod": "17/03/2015 to 16/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401292",
+	"address": "BLK 932 YISHUN CENTRAL 1, #01-97 Singapore 760932",
+	"doctorInCharge": [
+		{
+			"name": "YAP TIONG TOH",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9401292",
+	"coordinates": [
+		103.8371504,
+		1.4263622
+	],
+	"svy21": [
+		28426.43,
+		45345.4
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

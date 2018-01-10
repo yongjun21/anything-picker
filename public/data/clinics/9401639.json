@@ -1,0 +1,56 @@
+{
+	"name": "TEH LIP BIN GASTROENTEROLOGY AND MEDICAL CLINIC",
+	"tel": "64721822",
+	"fax": "64725658",
+	"licensee": "TEH LIP BIN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401639",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #04-04 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "TEH LIP BIN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1975",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1978",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1979",
+				"FAMS (Gastroenterology) (Academy of Medicine, Singapore) 1984"
+			],
+			"specialties": [
+				"Gastroenterology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Gastroenterology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "01:09 am to 01:00 pm, 02:02 pm to 05:00 pm",
+		"Tuesday": "01:09 am to 01:00 pm, 02:02 pm to 05:00 pm",
+		"Wednesday": "01:09 am to 01:00 pm, 02:02 pm to 05:00 pm",
+		"Thursday": "01:09 am to 01:00 pm, 02:02 pm to 05:00 pm",
+		"Friday": "01:09 am to 01:00 pm, 02:02 pm to 05:00 pm",
+		"Saturday": "01:09 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401639",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

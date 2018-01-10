@@ -1,0 +1,49 @@
+{
+	"name": "TDH THE DENTAL HUB",
+	"tel": "62749682",
+	"fax": "62749682",
+	"licensee": "THE DENTAL HUB@SG PTE. LTD.",
+	"licensePeriod": "24/02/2016 to 23/02/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0026",
+	"address": "460 ALEXANDRA ROAD, PSA BUILDING, #02-16 Singapore 119963",
+	"doctorInCharge": [
+		{
+			"name": "Toh Teck Kiong Ainsley",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2002",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 07:00 pm",
+		"Tuesday": "09:30 am to 07:00 pm",
+		"Wednesday": "09:30 am to 07:00 pm",
+		"Thursday": "09:30 am to 07:00 pm",
+		"Friday": "09:30 am to 07:00 pm"
+	},
+	"id": "12C0026",
+	"coordinates": [
+		103.8012641,
+		1.2739864
+	],
+	"svy21": [
+		24432.59,
+		28496.49
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

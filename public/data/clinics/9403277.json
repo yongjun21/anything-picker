@@ -1,0 +1,54 @@
+{
+	"name": "BL MEDICAL ASSOCIATES",
+	"tel": "62651052",
+	"fax": "67783538",
+	"licensee": "LIM BEE LIN",
+	"licensePeriod": "21/10/2016 to 20/10/2018",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "9403277",
+	"address": "2 SCIENCE PARK DRIVE, ASCENT, #01-10 Singapore 118222",
+	"doctorInCharge": [
+		{
+			"name": "LIM BEE LIN",
+			"qualifications": [
+				"MB Bchir (University of Cambridge, United Kingdom) 1981"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9403277",
+	"coordinates": [
+		103.784855,
+		1.2907615
+	],
+	"svy21": [
+		22606.42,
+		30351.42
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

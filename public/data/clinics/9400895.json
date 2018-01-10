@@ -1,0 +1,56 @@
+{
+	"name": "LAI MEDICAL CLINIC PTE LTD",
+	"tel": "65632935",
+	"fax": "65638276",
+	"licensee": "LAI OI LENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400895",
+	"address": "BLK 213 BT BATOK ST 21, #01-209 Singapore 650213",
+	"doctorInCharge": [
+		{
+			"name": "LAI OI LENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 06:30 pm to 08:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400895",
+	"coordinates": [
+		103.7524969,
+		1.3468185
+	],
+	"svy21": [
+		19005.44,
+		36550.01
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

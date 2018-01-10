@@ -1,0 +1,52 @@
+{
+	"name": "ASIAMEDIC WELLNESS ASSESSMENT CENTRE",
+	"tel": "67898888",
+	"fax": "65056090",
+	"licensee": "ASIAMEDIC WELLNESS ASSESSMENT CENTRE PTE. LTD.",
+	"licensePeriod": "15/09/2017 to 14/09/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9402258",
+	"address": "350 ORCHARD ROAD, SHAW HOUSE, #08-00 Singapore 238868",
+	"doctorInCharge": [
+		{
+			"name": "Wong Kae Thong",
+			"qualifications": [
+				"MD (University of Western Ontario, Canada) 2000",
+				"MRCPCH (Paed) (Royal College of Paediatrics and Child Health, United Kingdom) 2006",
+				"M Med (Paed) (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm"
+	},
+	"id": "9402258",
+	"coordinates": [
+		103.8315073,
+		1.3058098
+	],
+	"svy21": [
+		27798.42,
+		32015.33
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,6 +1,6 @@
 {
 	"name": "THE PAIN CLINIC BY KY HO ANAESTHESIA",
-	"tel": "66352890",
+	"tel": "62545447",
 	"fax": "66352895",
 	"licensee": "KY HO ANAESTHESIA PTE. LTD.",
 	"licensePeriod": "30/12/2015 to 29/12/2017",
@@ -24,5 +24,10 @@
 			"Anaesthesiology",
 			"Hand Surgery"
 		]
+	},
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
 	}
 }

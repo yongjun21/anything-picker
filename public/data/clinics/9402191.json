@@ -1,0 +1,54 @@
+{
+	"name": "POON'S CLINIC FOR WOMEN PTE LTD",
+	"tel": "68581233",
+	"fax": "68581211",
+	"licensee": "POON KING FU",
+	"licensePeriod": "03/10/2014 to 02/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402191",
+	"address": "BLK 108 HOUGANG AVE 1, #01-1259 Singapore 530108",
+	"doctorInCharge": [
+		{
+			"name": "POON KING FU",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987",
+				"MRACOG (Royal Australian College of Obstetricians and Gynaecologists, Australia) 1994",
+				"M Med (O&G) (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:00 am to 02:00 pm"
+	},
+	"id": "9402191",
+	"coordinates": [
+		103.8900932,
+		1.3527739
+	],
+	"svy21": [
+		34318.37,
+		37208.46
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "C.T. DENTAL SURGEONS",
+	"tel": "68359647",
+	"fax": "62386756",
+	"licensee": "C.T. HEALTHCARE PTE. LTD.",
+	"licensePeriod": "10/03/2017 to 09/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17D0061",
+	"address": "16 COLLYER QUAY, INCOME AT RAFFLES, #36-01/02 Singapore 049318",
+	"doctorInCharge": [
+		{
+			"name": "Lee Tong How",
+			"qualifications": [
+				"BDS (University of Adelaide, Australia) 1991",
+				"Cert Orthodontics (New York) (New York University College of Dentistry, United States) 1998"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"id": "17D0061",
+	"coordinates": [
+		103.8525474,
+		1.2841879
+	],
+	"svy21": [
+		30140,
+		29624.5
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

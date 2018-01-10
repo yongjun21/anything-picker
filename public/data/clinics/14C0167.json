@@ -1,0 +1,59 @@
+{
+	"name": "FRESENIUS MEDICAL CARE HOUGANG DIALYSIS CLINIC",
+	"tel": "63820522",
+	"fax": "63820930",
+	"licensee": "FRESENIUS MEDICAL CARE SINGAPORE PTE. LTD.",
+	"licensePeriod": "13/06/2016 to 12/06/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "14C0167",
+	"address": "BLK 620 HOUGANG AVENUE 8, #01-276 Singapore 530620",
+	"doctorInCharge": [
+		{
+			"name": "Lye Wai Choong",
+			"qualifications": [
+				"MBBS (University of New South Wales, Australia) 1983",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1987",
+				"FAMS (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "06:30 am to 10:30 pm",
+		"Tuesday": "06:30 am to 10:30 pm",
+		"Wednesday": "06:30 am to 10:30 pm",
+		"Thursday": "06:30 am to 10:30 pm",
+		"Friday": "06:30 am to 10:30 pm",
+		"Saturday": "06:30 am to 10:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "14C0167",
+	"coordinates": [
+		103.8839681,
+		1.370144
+	],
+	"svy21": [
+		33636.68,
+		39129.14
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

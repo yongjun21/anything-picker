@@ -1,0 +1,55 @@
+{
+	"name": "PROFILE DENTAL SURGERY PTE LTD",
+	"tel": "63396806",
+	"fax": "63396806",
+	"licensee": "PROFILE DENTAL SURGERY PRIVATE LIMITED",
+	"licensePeriod": "23/10/2017 to 22/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9403943",
+	"address": "150 ORCHARD ROAD, ORCHARD PLAZA, #07-12 Singapore 238841",
+	"doctorInCharge": [
+		{
+			"name": "TENGKU SINANNAGA",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994",
+				"MDSc (University of Queensland, Australia) 1998"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 07:00 pm",
+		"Tuesday": "09:00 am to 07:00 pm",
+		"Wednesday": "09:00 am to 07:00 pm",
+		"Thursday": "09:00 am to 07:00 pm",
+		"Friday": "09:00 am to 07:00 pm",
+		"Saturday": "09:00 am to 07:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403943",
+	"coordinates": [
+		103.8411501,
+		1.3012573
+	],
+	"svy21": [
+		28871.58,
+		31511.94
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

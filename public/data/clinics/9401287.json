@@ -1,0 +1,44 @@
+{
+	"name": "PARIQUA CLINIC",
+	"tel": "62921351",
+	"fax": "62921351",
+	"licensee": "Judy Chen Pei Siang",
+	"licensePeriod": "07/04/2017 to 06/04/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401287",
+	"address": "BLK 47 Bendemeer Road, #01-1463 Singapore 330047",
+	"doctorInCharge": [
+		{
+			"name": "Judy Chen Pei Siang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9401287",
+	"coordinates": [
+		103.866812,
+		1.3233974
+	],
+	"svy21": [
+		31727.49,
+		33960.1
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

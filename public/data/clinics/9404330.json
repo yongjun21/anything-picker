@@ -1,0 +1,48 @@
+{
+	"name": "MYAT SAYDANAR MEDICAL CENTER",
+	"tel": "63366237",
+	"fax": "63383684",
+	"licensee": "MYAT SAYDANAR MEDICAL CENTER PTE. LTD.",
+	"licensePeriod": "28/12/2014 to 27/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404330",
+	"address": "5 COLEMAN STREET, EXCELSIOR HOTEL & SHOPPING CENTRE, #02-24 Singapore 179805",
+	"doctorInCharge": [
+		{
+			"name": "Thant Zin",
+			"qualifications": [
+				"MBBS (Institute of Medicine (I), Yangon, Myanmar) 1988",
+				"FRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "02:30 pm to 07:00 pm",
+		"Wednesday": "02:30 pm to 07:00 pm",
+		"Thursday": "02:30 pm to 07:00 pm",
+		"Friday": "02:30 pm to 07:00 pm",
+		"Saturday": "04:00 pm to 07:00 pm",
+		"Sunday": "12:30 pm to 06:30 pm"
+	},
+	"id": "9404330",
+	"coordinates": [
+		103.8498204,
+		1.2920159
+	],
+	"svy21": [
+		29836.51,
+		30490.08
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"name": "TEMASEK MEDICAL CENTRE",
+	"tel": "65551155",
+	"fax": "64811568",
+	"licensee": "JL MEDICAL (SEMBAWANG) PTE. LTD.",
+	"licensePeriod": "03/10/2016 to 02/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16C0308",
+	"address": "BLK 406 SEMBAWANG DRIVE, #01-824 Singapore 750406",
+	"doctorInCharge": [
+		{
+			"name": "LEE YENG FEN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "16C0308",
+	"coordinates": [
+		103.8169776,
+		1.4529298
+	],
+	"svy21": [
+		26181.51,
+		48283.12
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	]
+}

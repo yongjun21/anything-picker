@@ -1,0 +1,53 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "63277273",
+	"fax": "65347860",
+	"licensee": "Parkway Shenton Pte Ltd",
+	"licensePeriod": "23/01/2015 to 22/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404351",
+	"address": "1 Raffles Quay, One Raffles Quay North Tower, #09-02 Singapore 048583",
+	"doctorInCharge": [
+		{
+			"name": "EDWIN CHNG AIK CHEN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9404351",
+	"coordinates": [
+		103.8518998,
+		1.2811834
+	],
+	"svy21": [
+		30067.94,
+		29292.28
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

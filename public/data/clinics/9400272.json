@@ -1,0 +1,56 @@
+{
+	"name": "CHUA CLINIC",
+	"tel": "63865720",
+	"fax": "63865720",
+	"licensee": "CHUA SENG CHEW",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400272",
+	"address": "BLK 678 HOUGANG AVE 8, #01-513 Singapore 530678",
+	"doctorInCharge": [
+		{
+			"name": "CHUA SENG CHEW",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "01:08 am to 01:12 pm, 02:02 pm to 02:04 pm, 03:07 pm to 03:09 pm",
+		"Tuesday": "01:08 am to 01:12 pm, 02:02 pm to 02:04 pm, 03:07 pm to 03:09 pm",
+		"Wednesday": "01:08 am to 01:12 pm, 02:02 pm to 02:04 pm, 03:07 pm to 03:09 pm",
+		"Thursday": "01:08 am to 01:12 pm, 02:02 pm to 02:04 pm, 03:07 pm to 03:09 pm",
+		"Friday": "01:08 am to 01:12 pm, 02:02 pm to 02:04 pm",
+		"Saturday": "01:08 am to 01:12 pm",
+		"Sunday": "01:08 am to 01:10 am"
+	},
+	"id": "9400272",
+	"coordinates": [
+		103.8842364,
+		1.3708408
+	],
+	"svy21": [
+		33666.53,
+		39206.18
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

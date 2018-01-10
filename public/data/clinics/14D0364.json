@@ -1,0 +1,50 @@
+{
+	"name": "DE DENTAL PRACTICE",
+	"tel": "67847800",
+	"fax": "67841908",
+	"licensee": "DE DENTAL PRACTICE PTE. LTD.",
+	"licensePeriod": "05/12/2016 to 04/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0364",
+	"address": "3 Simei Street 6, Eastpoint Mall, #03-13 Singapore 528833",
+	"doctorInCharge": [
+		{
+			"name": "Emily Koh Lik Yiong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "10:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "10:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "10:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm",
+		"Friday": "10:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "14D0364",
+	"coordinates": [
+		103.9530245,
+		1.3427062
+	],
+	"svy21": [
+		41321.98,
+		36095.47
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

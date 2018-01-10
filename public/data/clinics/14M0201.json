@@ -1,0 +1,49 @@
+{
+	"name": "NKF HEALTH SCREENING CENTRE",
+	"tel": "62990200",
+	"fax": "65062138",
+	"licensee": "THE NATIONAL KIDNEY FOUNDATION",
+	"licensePeriod": "17/07/2016 to 16/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0201",
+	"address": "81 KIM KEAT ROAD, LEVEL 5 NKF CENTRE, Singapore 328836",
+	"doctorInCharge": [
+		{
+			"name": "Mooppil Nandakumar",
+			"qualifications": [
+				"MBBS (University of Kerala, India) 1975",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "14M0201",
+	"coordinates": [
+		103.8544417,
+		1.3264806
+	],
+	"svy21": [
+		30350.79,
+		34301.01
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

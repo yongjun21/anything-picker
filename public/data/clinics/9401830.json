@@ -1,0 +1,56 @@
+{
+	"name": "UROLOGICAL CLINIC",
+	"tel": "67388051",
+	"fax": "67388052",
+	"licensee": "RAYMOND WUJANTO",
+	"licensePeriod": "12/05/2017 to 11/05/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9401830",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #14-02 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "RAYMOND WUJANTO",
+			"qualifications": [
+				"MB ChB (University of Manchester, United Kingdom) 1978",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1984",
+				"MD (University of Manchester, United Kingdom) 1987",
+				"FAMS (Urology) (Academy of Medicine, Singapore) 1990"
+			],
+			"specialties": [
+				"Urology"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Urology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9401830",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

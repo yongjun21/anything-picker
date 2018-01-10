@@ -1,0 +1,58 @@
+{
+	"name": "GLEN ARDEN ENDOCRINOLOGY SPECIALIST CLINIC PTE LTD",
+	"tel": "64751600",
+	"fax": "64751603",
+	"licensee": "GLEN ARDEN ENDOCRINOLOGY SPECIALIST CLINIC PTE. LTD.",
+	"licensePeriod": "13/08/2016 to 12/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0223",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #03-02 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "CHEN YUAN TUD",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"MRCP (Endocrinology) (Royal College of Physicians, United Kingdom) 1999"
+			],
+			"specialties": [
+				"Endocrinology",
+				"Internal Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Endocrinology",
+			"Internal Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "14M0223",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

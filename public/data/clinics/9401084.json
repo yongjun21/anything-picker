@@ -1,0 +1,45 @@
+{
+	"name": "MEDICO CLINIC & SURGERY",
+	"tel": "65610934",
+	"fax": "64630541",
+	"licensee": "CHUA PONG KUAN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401084",
+	"address": "BLK 249 JURONG EAST ST 24, #01-88 Singapore 600249",
+	"doctorInCharge": [
+		{
+			"name": "CHUA PONG KUAN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1973"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9401084",
+	"coordinates": [
+		103.7392597,
+		1.3425624
+	],
+	"svy21": [
+		17532.26,
+		36079.45
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

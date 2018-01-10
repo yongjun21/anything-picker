@@ -1,0 +1,44 @@
+{
+	"name": "THOMSON PAEDIATRIC CENTRE",
+	"tel": "65111187",
+	"fax": "64991249",
+	"licensee": "THOMSON PAEDIATRIC CENTRE PTE. LTD.",
+	"licensePeriod": "19/03/2017 to 18/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0075",
+	"address": "17 PETIR ROAD, HILLION MALL, #02-05 Singapore 678278",
+	"doctorInCharge": [
+		{
+			"name": "Leo Deng Jin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005",
+				"MRCPCH (Royal College of Paediatrics and Child Health, United Kingdom) 2012"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"id": "17M0075",
+	"coordinates": [
+		103.7628428,
+		1.378431
+	],
+	"svy21": [
+		20156.92,
+		40045.53
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

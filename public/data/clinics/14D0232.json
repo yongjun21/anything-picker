@@ -1,0 +1,51 @@
+{
+	"name": "UNITY DENTICARE",
+	"tel": "65904391",
+	"fax": "65904385",
+	"licensee": "NTUC Health Co-operative Ltd",
+	"licensePeriod": "25/07/2016 to 24/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0232",
+	"address": "18 YISHUN AVENUE 9, JUNCTION NINE, #02-11 Singapore 768897",
+	"doctorInCharge": [
+		{
+			"name": "Toh Kwai Mui",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 08:30 pm",
+		"Friday": "09:00 am to 01:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "14D0232",
+	"coordinates": [
+		103.841661,
+		1.4331228
+	],
+	"svy21": [
+		28928.38,
+		46092.96
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

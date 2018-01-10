@@ -1,0 +1,51 @@
+{
+	"name": "FULLERTON HEALTH @ NTU",
+	"tel": "67936828",
+	"fax": "67936338",
+	"licensee": "FULLERTON HEALTHCARE GROUP PTE. LIMITED",
+	"licensePeriod": "30/07/2016 to 29/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0215",
+	"address": "36 NANYANG AVENUE, NANYANG TECHNOLOGICAL UNIVERSITY, #01-01/02 Singapore 639801",
+	"doctorInCharge": [
+		{
+			"name": "Elton Ong Kong Yiow",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 09:00 pm",
+		"Tuesday": "08:30 am to 09:00 pm",
+		"Wednesday": "08:30 am to 09:00 pm",
+		"Thursday": "08:30 am to 09:00 pm",
+		"Friday": "08:30 am to 09:00 pm"
+	},
+	"id": "14M0215",
+	"coordinates": [
+		103.6826688,
+		1.3453699
+	],
+	"svy21": [
+		11234.32,
+		36390.2
+	],
+	"planningArea": "WC",
+	"neighbours": [
+		"LK",
+		"PN",
+		"JW",
+		"SK",
+		"TH",
+		"CK",
+		"TS"
+	]
+}

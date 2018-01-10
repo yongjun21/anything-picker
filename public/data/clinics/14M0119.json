@@ -1,0 +1,47 @@
+{
+	"name": "O MEDICAL CLINIC",
+	"tel": "62354434",
+	"fax": "62234436",
+	"licensee": "ONLISM PTE. LTD.",
+	"licensePeriod": "04/11/2016 to 03/11/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "14M0119",
+	"address": "501 ORCHARD ROAD, WHEELOCK PLACE, #05-08 Singapore 238880",
+	"doctorInCharge": [
+		{
+			"name": "Chin Xu Yang",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "10:30 am to 08:30 pm",
+		"Tuesday": "10:30 am to 08:30 pm",
+		"Wednesday": "10:30 am to 08:30 pm",
+		"Thursday": "10:30 am to 08:30 pm",
+		"Friday": "10:30 am to 08:30 pm",
+		"Saturday": "10:30 am to 06:30 pm"
+	},
+	"id": "14M0119",
+	"coordinates": [
+		103.830642,
+		1.3046763
+	],
+	"svy21": [
+		27702.12,
+		31889.99
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

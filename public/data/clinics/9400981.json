@@ -1,0 +1,47 @@
+{
+	"name": "LIM DENTAL SURGERY",
+	"tel": "67819209",
+	"fax": "67819209",
+	"licensee": "LIM YEW LEONG MICHAEL",
+	"licensePeriod": "06/11/2013 to 05/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400981",
+	"address": "BLK 537 BEDOK NORTH ST 3, #01-563 Singapore 460537",
+	"doctorInCharge": [
+		{
+			"name": "LIM YEW LEONG MICHAEL",
+			"qualifications": [
+				"BDS (University of Newcastle Upon Tyne, United Kingdom) 1981",
+				"DDPHRCS (ENGLAND) (Royal College of Surgeons of England, United Kingdom) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Tuesday": "10:00 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Wednesday": "10:00 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Thursday": "10:00 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Friday": "10:00 am to 12:30 pm, 01:30 pm to 05:30 pm"
+	},
+	"id": "9400981",
+	"coordinates": [
+		103.9242365,
+		1.331773
+	],
+	"svy21": [
+		38118.22,
+		34886.4
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

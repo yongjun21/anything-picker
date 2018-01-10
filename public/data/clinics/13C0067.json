@@ -1,0 +1,49 @@
+{
+	"name": "A & A CLINIC",
+	"tel": "63390883",
+	"fax": "63390883",
+	"licensee": "yang chyan yeow aylwin",
+	"licensePeriod": "25/03/2017 to 24/03/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0067",
+	"address": "BLK 570B WOODLANDS AVENUE 1, #01-07 Singapore 732570",
+	"doctorInCharge": [
+		{
+			"name": "yang chyan yeow aylwin",
+			"qualifications": [
+				"MB ChB (University of Leicester, United Kingdom) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "13C0067",
+	"coordinates": [
+		103.7904541,
+		1.431064
+	],
+	"svy21": [
+		23229.82,
+		45865.34
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

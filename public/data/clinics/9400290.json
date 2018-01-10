@@ -1,0 +1,50 @@
+{
+	"name": "CITYMED HEALTH ASSOCIATES PTE LTD",
+	"tel": "62262636",
+	"fax": "62262733",
+	"licensee": "CHAN SUEN MENG",
+	"licensePeriod": "01/07/2015 to 30/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400290",
+	"address": "19 KEPPEL RD, JIT POH BUILDING, #01-01 Singapore 089058",
+	"doctorInCharge": [
+		{
+			"name": "CHAN SUEN MENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:15 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:15 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:15 pm to 05:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:15 pm to 05:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:15 pm to 05:30 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9400290",
+	"coordinates": [
+		103.8424327,
+		1.2729951
+	],
+	"svy21": [
+		29014.33,
+		28386.86
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,66 @@
+{
+	"name": "YAP WEE SEE RESPIRATORY AND SLEEP CLINIC",
+	"tel": "62684890",
+	"fax": "62684710",
+	"licensee": "YAP WEE SEE RESPIRATORY AND SLEEP CLINIC PTE. LTD.",
+	"licensePeriod": "26/06/2016 to 25/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0181",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #08-27 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "YAP WEE SEE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1996",
+				"FAMS (Respiratory Med) (Academy of Medicine, Singapore) 2001",
+				"FRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 2005",
+				"FCCP (American College of Chest Physicians, United States) 2012",
+				"FRCP (Int Med) (Royal College of Physicians of London, United Kingdom) 2012"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Internal Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Intensive Care Medicine",
+			"Internal Medicine",
+			"Respiratory Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "14M0181",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

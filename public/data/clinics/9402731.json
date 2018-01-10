@@ -1,0 +1,48 @@
+{
+	"name": "Q & M DENTAL SURGERY (BT PANJANG) PTE LTD",
+	"tel": "67663363",
+	"fax": "67637056",
+	"licensee": "Q & M DENTAL SURGERY (BUKIT PANJANG) PTE. LTD.",
+	"licensePeriod": "08/08/2015 to 07/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402731",
+	"address": "BLK 257 BANGKIT RD, #01-47 Singapore 670257",
+	"doctorInCharge": [
+		{
+			"name": "ANG EE PENG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9402731",
+	"coordinates": [
+		103.7732123,
+		1.3785087
+	],
+	"svy21": [
+		21310.93,
+		40054.09
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

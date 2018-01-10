@@ -1,0 +1,40 @@
+{
+	"name": "TEBAN GARDEN CLINIC",
+	"tel": "65619052",
+	"fax": "65623906",
+	"licensee": "CHEW MEDICAL SERVICES PTE. LTD.",
+	"licensePeriod": "31/03/2017 to 30/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17C0088",
+	"address": "BLK 61 TEBAN GARDENS RD, TEBAN PLACE, #01-01 Singapore 600061",
+	"doctorInCharge": [
+		{
+			"name": "Chew Ee Hern Kevin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17C0088",
+	"coordinates": [
+		103.7382928,
+		1.3221364
+	],
+	"svy21": [
+		17424.57,
+		33820.84
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

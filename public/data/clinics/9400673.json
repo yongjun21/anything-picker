@@ -1,0 +1,46 @@
+{
+	"name": "HENRY KWEK DENTAL SURGERY",
+	"tel": "67328466",
+	"fax": "67351966",
+	"licensee": "KWEK SWEE NGUANG HENRY",
+	"licensePeriod": "04/03/2014 to 03/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400673",
+	"address": "1 GRANGE ROAD, ORCHARD BUILDING, #10-05 Singapore 239693",
+	"doctorInCharge": [
+		{
+			"name": "KWEK SWEE NGUANG HENRY",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983",
+				"MSc (Periodontology) (London) (University of London, United Kingdom) 1987",
+				"FAMS (Periodontics) (Academy of Medicine, Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Periodontology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Periodontology"
+		]
+	},
+	"id": "9400673",
+	"coordinates": [
+		103.8373592,
+		1.3013988
+	],
+	"svy21": [
+		28449.68,
+		31527.59
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

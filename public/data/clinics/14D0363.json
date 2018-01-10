@@ -1,0 +1,50 @@
+{
+	"name": "THE DENTAL BOUTIQUE",
+	"tel": "68761761",
+	"licensee": "THE DENTAL BOUTIQUE @ BEDOK PTE LTD",
+	"licensePeriod": "05/12/2016 to 04/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0363",
+	"address": "BLK 204 BEDOK NORTH STREET 1, #01-401 Singapore 460204",
+	"doctorInCharge": [
+		{
+			"name": "TANG YICK FAN",
+			"qualifications": [
+				"BDS (University of Birmingham, United Kingdom) 1993",
+				"LDSRCS (Royal College of Surgeons of England, United Kingdom) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "14D0363",
+	"coordinates": [
+		103.9299959,
+		1.3263591
+	],
+	"svy21": [
+		38759.21,
+		34287.78
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

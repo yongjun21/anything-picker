@@ -1,0 +1,57 @@
+{
+	"name": "PROHEALTH MEDICAL GROUP @ BUANGKOK PTE LTD",
+	"tel": "64818066",
+	"fax": "64818096",
+	"licensee": "PROHEALTH MEDICAL GROUP @ BUANGKOK PTE. LTD.",
+	"licensePeriod": "15/04/2014 to 14/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405549",
+	"address": "BLK 275D COMPASSVALE LINK, #01-01(UNIT 12) Singapore 544275",
+	"doctorInCharge": [
+		{
+			"name": "Tan Eileen",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 11:00 pm",
+		"Tuesday": "08:00 am to 11:00 pm",
+		"Wednesday": "08:00 am to 11:00 pm",
+		"Thursday": "08:00 am to 11:00 pm",
+		"Friday": "08:00 am to 11:00 pm",
+		"Saturday": "08:00 am to 11:00 pm",
+		"Sunday": "08:00 am to 11:00 pm"
+	},
+	"id": "9405549",
+	"coordinates": [
+		103.8937135,
+		1.382905
+	],
+	"svy21": [
+		34721.19,
+		40540.21
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

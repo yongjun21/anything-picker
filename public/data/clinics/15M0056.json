@@ -1,0 +1,47 @@
+{
+	"name": "EAGLE EYE CENTRE",
+	"tel": "64751000",
+	"fax": "64751880",
+	"licensee": "EAGLE EYE CENTRE PTE. LTD",
+	"licensePeriod": "31/05/2016 to 30/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0056",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #06-16/17 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "JULIAN THENG THIAM SIEW",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"FRCOphth (Royal College of Ophthalmologists, United Kingdom) 1998",
+				"FRCSEd (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 1998",
+				"M Med (Ophth) (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"id": "15M0056",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

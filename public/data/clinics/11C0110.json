@@ -1,0 +1,57 @@
+{
+	"name": "TUCKER MEDICAL",
+	"tel": "66596918",
+	"fax": "66596919",
+	"licensee": "Steven Jay Tucker",
+	"licensePeriod": "01/08/2015 to 31/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0110",
+	"address": "8 SINARAN DRIVE, Novena Specialist Center, #04-03 Singapore 307470",
+	"doctorInCharge": [
+		{
+			"name": "Steven Jay Tucker",
+			"qualifications": [
+				"MD (University of Missouri, United States) 1994",
+				"Board Cert (Int Med) (American Board of Internal Medicine, United States) 1997",
+				"Board Cert (Med Oncology) (American Board of Internal Medicine, United States) 2000"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "11C0110",
+	"coordinates": [
+		103.8447824,
+		1.3200301
+	],
+	"svy21": [
+		29275.81,
+		33587.74
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

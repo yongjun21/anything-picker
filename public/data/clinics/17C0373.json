@@ -1,0 +1,62 @@
+{
+	"name": "JURONG MEDICAL CENTRE",
+	"tel": "67162000",
+	"fax": "65517999",
+	"licensee": "NATIONAL UNIVERSITY HEALTH SERVICES GROUP PTE. LTD.",
+	"licensePeriod": "24/11/2017 to 23/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17C0373",
+	"address": "60 JURONG WEST CENTRAL 3, Singapore 648346",
+	"doctorInCharge": [
+		{
+			"name": "Cheah Wei Keat",
+			"qualifications": [
+				"MBBS (University of Western Australia, Australia) 1989",
+				"FRACS (Gen Surg) (Royal Australasian College of Surgeons, Australia) 1997"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Day Surgery",
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true,
+		"Specialist Medical": [
+			"Anaesthesiology",
+			"Dermatology",
+			"General Surgery",
+			"Hand Surgery",
+			"Ophthalmology",
+			"Orthopaedic Surgery",
+			"Otorhinolaryngology"
+		],
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"id": "17C0373",
+	"coordinates": [
+		103.7045269,
+		1.3405613
+	],
+	"svy21": [
+		13666.86,
+		35858.35
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

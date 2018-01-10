@@ -1,0 +1,45 @@
+{
+	"name": "GOODHEALTH MEDICAL CENTRE",
+	"tel": "63862772",
+	"fax": "63869748",
+	"licensee": "TAN LEAN BENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400597",
+	"address": "BLK 644 HOUGANG AVE 8, #01-275 Singapore 530644",
+	"doctorInCharge": [
+		{
+			"name": "TAN LEAN BENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9400597",
+	"coordinates": [
+		103.8812611,
+		1.3714374
+	],
+	"svy21": [
+		33335.42,
+		39272.14
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

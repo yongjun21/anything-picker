@@ -1,0 +1,53 @@
+{
+	"name": "HEALTHMATTERS - THE FAMILY PRACTICE",
+	"tel": "65557555",
+	"fax": "65827064",
+	"licensee": "Khairian Bee Binte Mohd",
+	"licensePeriod": "21/07/2015 to 20/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404031",
+	"address": "1 Pasir Ris Close,, E!Hub@Downtown East, #01-101 Singapore 519599",
+	"doctorInCharge": [
+		{
+			"name": "Khairian Bee Binte Mohd",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9404031",
+	"coordinates": [
+		103.9554448,
+		1.3791272
+	],
+	"svy21": [
+		41591.12,
+		40122.74
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

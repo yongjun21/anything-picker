@@ -1,0 +1,55 @@
+{
+	"name": "Y C GOH CLINIC & SURGERY FOR WOMEN",
+	"tel": "64533440",
+	"fax": "64523692",
+	"licensee": "GOH YONG CHEW",
+	"licensePeriod": "01/01/2017 to 31/12/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9401907",
+	"address": "301 UPPER THOMSON ROAD, THOMSON PLAZA, #03-09 Singapore 574408",
+	"doctorInCharge": [
+		{
+			"name": "GOH YONG CHEW",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974",
+				"M Med (O&G) (National University of Singapore, Singapore) 1984",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1984",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1987",
+				"FRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1999"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 05:00 pm",
+		"Tuesday": "09:30 am to 05:00 pm",
+		"Wednesday": "09:30 am to 05:00 pm",
+		"Thursday": "09:30 am to 01:00 pm",
+		"Friday": "09:30 am to 05:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401907",
+	"coordinates": [
+		103.8309198,
+		1.354669
+	],
+	"svy21": [
+		27733.04,
+		37417.93
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "HEALTHWAY MEDICAL CLINIC",
+	"tel": "68926330",
+	"fax": "68926329",
+	"licensee": "HEALTHWAY MEDICAL ENTERPRISES PTE LTD",
+	"licensePeriod": "14/09/2015 to 13/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405300",
+	"address": "BLK 475 CHOA CHU KANG AVE 3, SUNSHINE PLACE, #02-03 Singapore 680475",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9405300",
+	"coordinates": [
+		103.7390155,
+		1.3778973
+	],
+	"svy21": [
+		17505.24,
+		39986.6
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

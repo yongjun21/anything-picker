@@ -1,0 +1,53 @@
+{
+	"name": "VIBRANT LIVING HEALTH AND MEDICAL CENTER",
+	"tel": "00000000",
+	"fax": "67122211",
+	"licensee": "PROCTER & GAMBLE INTERNATIONAL OPERATIONS SA SINGAPORE BRANCH",
+	"licensePeriod": "31/10/2017 to 30/10/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13M0300",
+	"address": "70 BIOPOLIS STREET, HEALTH CENTER 1S22, Singapore 138547",
+	"doctorInCharge": [
+		{
+			"name": "Tan Eng Chun",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2006",
+				"Dip OM (National University of Singapore, Singapore) 2007",
+				"MPH (National University of Singapore, Singapore) 2009",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 12:30 pm",
+		"Tuesday": "09:30 am to 12:30 pm",
+		"Wednesday": "09:30 am to 12:30 pm",
+		"Thursday": "09:30 am to 12:30 pm",
+		"Friday": "09:30 am to 12:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "13M0300",
+	"coordinates": [
+		103.7919357,
+		1.302918
+	],
+	"svy21": [
+		23394.46,
+		31695.61
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

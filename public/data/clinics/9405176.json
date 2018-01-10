@@ -1,0 +1,57 @@
+{
+	"name": "H L KONG MEDICAL ONCOLOGY CENTRE",
+	"tel": "62359383",
+	"fax": "63977113",
+	"licensee": "H L KONG MEDICAL ONCOLOGY CENTRE PTE. LTD.",
+	"licensePeriod": "11/05/2015 to 10/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405176",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTER, #11-08 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "KONG HWAI LOONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1993",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1993",
+				"FAMS (Med Oncology) (Academy of Medicine, Singapore) 1998"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405176",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

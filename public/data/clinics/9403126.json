@@ -1,0 +1,49 @@
+{
+	"name": "SINGHEALTH POLYCLINICS-GEYLANG",
+	"tel": "62364800",
+	"licensee": "SINGHEALTH POLYCLINICS",
+	"licensePeriod": "01/10/2014 to 30/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403126",
+	"address": "21 GEYLANG EAST CENTRAL, Singapore 389707",
+	"doctorInCharge": [
+		{
+			"name": "TING SING SHING",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2000"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:00 am to 12:30 pm"
+	},
+	"id": "9403126",
+	"coordinates": [
+		103.887166,
+		1.3194937
+	],
+	"svy21": [
+		33992.69,
+		33528.49
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

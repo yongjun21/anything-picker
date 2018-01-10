@@ -1,0 +1,52 @@
+{
+	"name": "JESSELTON DENTAL CENTRE",
+	"tel": "67342234",
+	"fax": "66845857",
+	"licensee": "RESILIENT HEALTHCARE GROUP PTE. LTD.",
+	"licensePeriod": "16/04/2017 to 15/04/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "15D0099",
+	"address": "9 SCOTTS ROAD, PACIFIC PLAZA, #06-05 Singapore 228210",
+	"doctorInCharge": [
+		{
+			"name": "Yeo Jun-Chern Egwin",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 03:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15D0099",
+	"coordinates": [
+		103.8321282,
+		1.306547
+	],
+	"svy21": [
+		27867.52,
+		32096.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

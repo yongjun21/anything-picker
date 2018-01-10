@@ -1,0 +1,50 @@
+{
+	"name": "MAURICE CHOO CLINIC",
+	"tel": "63636060",
+	"fax": "65656060",
+	"licensee": "MAURICE CHOO CLINIC PTE. LTD.",
+	"licensePeriod": "23/07/2016 to 22/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14C0211",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #07-07/08 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "CHOO HOCK HENG MAURICE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1978",
+				"MRCP (Cardiology) (Royal College of Physicians, United Kingdom) 1979",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 1981",
+				"FRCP (Cardiology) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1990",
+				"FRCP (Cardiology) (Royal College of Physicians of Edinburgh, United Kingdom) 1991",
+				"MD (National University of Singapore, Singapore) 1993",
+				"FRCP (Cardiology) (Royal College of Physicians of London, United Kingdom) 1994"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"id": "14C0211",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

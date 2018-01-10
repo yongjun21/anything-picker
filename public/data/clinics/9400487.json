@@ -1,0 +1,56 @@
+{
+	"name": "ESTHER YEO CLINIC",
+	"tel": "65652822",
+	"fax": "65633941",
+	"licensee": "YEO MAY LENE ESTHER",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400487",
+	"address": "BLK 256 JURONG EAST ST 24, #01-389 Singapore 600256",
+	"doctorInCharge": [
+		{
+			"name": "YEO MAY LENE ESTHER",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400487",
+	"coordinates": [
+		103.7382634,
+		1.3441653
+	],
+	"svy21": [
+		17421.39,
+		36256.69
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

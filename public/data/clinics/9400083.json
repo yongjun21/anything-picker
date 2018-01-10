@@ -1,0 +1,49 @@
+{
+	"name": "B K LIM DENTAL SURGERY",
+	"tel": "64483328",
+	"fax": "64483328",
+	"licensee": "LIM BOON KEE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400083",
+	"address": "BLK 632 BEDOK RESERVOIR RD, #01-822 Singapore 470632",
+	"doctorInCharge": [
+		{
+			"name": "LIM BOON KEE",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1972",
+				"MDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 04:30 pm",
+		"Thursday": "09:00 am to 04:30 pm",
+		"Friday": "09:00 am to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9400083",
+	"coordinates": [
+		103.9141451,
+		1.3320509
+	],
+	"svy21": [
+		36995.15,
+		34917.09
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

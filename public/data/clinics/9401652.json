@@ -1,0 +1,53 @@
+{
+	"name": "TEOH CLINIC FOR CHILDREN",
+	"tel": "62351443",
+	"fax": "62359303",
+	"licensee": "TEOH HOON CHEOW",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401652",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #09-05 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "TEOH HOON CHEOW",
+			"qualifications": [
+				"MBBS (University of Malaya, Singapore) 1961",
+				"MRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1966",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 1969"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 04:30 pm",
+		"Tuesday": "09:30 am to 04:30 pm",
+		"Wednesday": "09:30 am to 04:30 pm",
+		"Thursday": "09:30 am to 04:30 pm",
+		"Friday": "09:30 am to 04:30 pm",
+		"Saturday": "09:30 am to 04:30 pm"
+	},
+	"id": "9401652",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

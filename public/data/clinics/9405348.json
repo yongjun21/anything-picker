@@ -1,0 +1,58 @@
+{
+	"name": "FAMILY HEALTHCARE CLINIC & SURGERY PTE LTD",
+	"tel": "63871120",
+	"fax": "63875432",
+	"licensee": "FAMILY HEALTHCARE CLINIC & SURGERY PTE LTD",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405348",
+	"address": "BLK 523 HOUGANG AVE 6, #01-119 Singapore 530523",
+	"doctorInCharge": [
+		{
+			"name": "CHENG SOO HONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1979",
+				"MSc (OM) (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405348",
+	"coordinates": [
+		103.890707,
+		1.3737209
+	],
+	"svy21": [
+		34386.63,
+		39524.67
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

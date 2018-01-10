@@ -1,0 +1,45 @@
+{
+	"name": "WONG CLINIC AND SURGERY",
+	"tel": "64548361",
+	"fax": "64548361",
+	"licensee": "WONG KAI PENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401880",
+	"address": "BLK 416 ANG MO KIO AVE 10, #01-997 Singapore 560416",
+	"doctorInCharge": [
+		{
+			"name": "WONG KAI PENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1973"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9401880",
+	"coordinates": [
+		103.8551037,
+		1.3645417
+	],
+	"svy21": [
+		30424.42,
+		38509.62
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

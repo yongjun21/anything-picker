@@ -1,0 +1,50 @@
+{
+	"name": "ASTIQUE THE AESTHETIC CLINIC",
+	"tel": "67323801",
+	"fax": "62350966",
+	"licensee": "ASIAMEDIC ASTIQUE THE AESTHETIC CLINIC PTE. LTD.",
+	"licensePeriod": "11/10/2017 to 10/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13C0277",
+	"address": "350 ORCHARD ROAD, SHAW HOUSE, #08-00 Singapore 238868",
+	"doctorInCharge": [
+		{
+			"name": "Leong Su Ting Celine",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "11:00 am to 08:00 pm",
+		"Tuesday": "11:00 am to 08:00 pm",
+		"Wednesday": "11:00 am to 08:00 pm",
+		"Thursday": "11:00 am to 08:00 pm",
+		"Friday": "11:00 am to 08:00 pm",
+		"Saturday": "11:00 am to 04:00 pm"
+	},
+	"id": "13C0277",
+	"coordinates": [
+		103.8315073,
+		1.3058098
+	],
+	"svy21": [
+		27798.42,
+		32015.33
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

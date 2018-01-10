@@ -1,0 +1,61 @@
+{
+	"name": "HEART MATTERS MEDICAL CENTRE PTE LTD",
+	"tel": "68361880",
+	"fax": "68361883",
+	"licensee": "HEART MATTERS MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "21/11/2015 to 20/11/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0214",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #16-08 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Dinesh Nair",
+			"qualifications": [
+				"MB BCh BAO (National University of Ireland, Ireland) 1996",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 2001",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2001",
+				"FAMS (Academy of Medicine, Singapore) 2005",
+				"FSCAI (Society for Cardiac Angiography and Interventions, United States) 2010",
+				"FCCP (American College of Chest Physicians, United States) 2010",
+				"FACC (American College of Cardiology, United States) 2010",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2010",
+				"FESC (European Society of Cardiology, France) 2011",
+				"FRCP (Royal College of Physicians of London, United Kingdom) 2013"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm, 08:00 am to 01:00 pm",
+		"Tuesday": "08:00 am to 05:30 pm, 08:00 am to 01:00 pm",
+		"Wednesday": "08:00 am to 05:30 pm, 08:00 am to 01:00 pm",
+		"Thursday": "08:00 am to 05:30 pm, 08:00 am to 01:00 pm",
+		"Friday": "08:00 am to 05:30 pm, 08:00 am to 01:00 pm",
+		"Saturday": "08:00 am to 05:30 pm, 08:00 am to 01:00 pm"
+	},
+	"id": "11C0214",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

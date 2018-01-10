@@ -1,0 +1,49 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "63831679",
+	"fax": "63831679",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "24/01/2014 to 23/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402920",
+	"address": "220 Lorong Chuan, ST. GABRIEL'S PRIMARY SCHOOL, Singapore 556742",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wanyi",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9402920",
+	"coordinates": [
+		103.8623277,
+		1.3493406
+	],
+	"svy21": [
+		31228.39,
+		36828.76
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

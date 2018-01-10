@@ -1,0 +1,53 @@
+{
+	"name": "TRINITY MEDICAL (SHENTON)",
+	"tel": "62279918",
+	"fax": "62272207",
+	"licensee": "TRINITY MEDICAL PTE. LTD.",
+	"licensePeriod": "16/03/2015 to 15/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0030",
+	"address": "6 SHENTON WAY, OUE DOWNTOWN, #21-10 Singapore 068809",
+	"doctorInCharge": [
+		{
+			"name": "LIM YEEU KUANG",
+			"qualifications": [
+				"MB BCh BAO (National University of Ireland, Ireland) 1998"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "11C0030",
+	"coordinates": [
+		103.8484086,
+		1.2769807
+	],
+	"svy21": [
+		29679.4,
+		28827.56
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

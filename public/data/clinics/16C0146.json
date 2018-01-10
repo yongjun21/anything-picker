@@ -1,0 +1,53 @@
+{
+	"name": "DR. TAN & PARTNERS",
+	"tel": "62387810",
+	"fax": "62387812",
+	"licensee": "REPUBLIC HEALTHCARE PTE. LTD.",
+	"licensePeriod": "08/08/2017 to 07/08/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16C0146",
+	"address": "11 UNITY STREET, ROBERTSON WALK, #02-06/07 Singapore 237995",
+	"doctorInCharge": [
+		{
+			"name": "TAN KOK KUAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 09:00 pm",
+		"Tuesday": "08:00 am to 09:00 pm",
+		"Wednesday": "08:00 am to 09:00 pm",
+		"Thursday": "08:00 am to 09:00 pm",
+		"Friday": "08:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 02:00 pm",
+		"Sunday": "09:00 am to 02:00 pm"
+	},
+	"id": "16C0146",
+	"coordinates": [
+		103.8414749,
+		1.2919003
+	],
+	"svy21": [
+		28907.73,
+		30477.29
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

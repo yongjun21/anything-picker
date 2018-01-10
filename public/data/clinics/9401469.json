@@ -1,0 +1,54 @@
+{
+	"name": "SERANGOON GARDEN CLINIC & DISPENSARY",
+	"tel": "62805222",
+	"fax": "63826410",
+	"licensee": "AJITH DAMODARAN",
+	"licensePeriod": "01/01/2017 to 31/12/2017",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"hciCode": "9401469",
+	"address": "BLK 263 SERANGOON CENTRAL DRIVE, #01-51 Singapore 550263",
+	"doctorInCharge": [
+		{
+			"name": "AJITH DAMODARAN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1984",
+				"Dip Geriatric Med (National University of Singapore, Singapore) 2012",
+				"GDPM (National University of Singapore, Singapore) 2015"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 12:30 pm, 04:00 pm to 07:30 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 04:00 pm to 07:30 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 04:00 pm to 07:30 pm",
+		"Thursday": "09:30 am to 12:30 pm, 04:00 pm to 07:30 pm",
+		"Friday": "09:30 am to 12:30 pm",
+		"Saturday": "09:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401469",
+	"coordinates": [
+		103.8719396,
+		1.3538632
+	],
+	"svy21": [
+		32298.08,
+		37328.87
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

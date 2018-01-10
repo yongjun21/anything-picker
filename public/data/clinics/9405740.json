@@ -1,0 +1,56 @@
+{
+	"name": "E. L. CHIN FAMILY CLINIC & SURGERY PTE. LTD.",
+	"tel": "67775182",
+	"fax": "67755182",
+	"licensee": "CHIN EN LOY CONRAD A",
+	"licensePeriod": "02/11/2014 to 01/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405740",
+	"address": "BLK 432 CLEMENTI AVE 3, #01-272 Singapore 120432",
+	"doctorInCharge": [
+		{
+			"name": "CHIN EN LOY CONRAD A",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Public Holiday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm, 06:30 pm to 08:30 pm"
+	},
+	"id": "9405740",
+	"coordinates": [
+		103.7627406,
+		1.3140206
+	],
+	"svy21": [
+		20145.34,
+		32923.35
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

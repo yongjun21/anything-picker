@@ -1,0 +1,60 @@
+{
+	"name": "KO DJENG DENTAL CENTRE (JELITA BRANCH)",
+	"tel": "64657177",
+	"fax": "68750310",
+	"licensee": "KO DJENG DENTAL CENTRE PTE. LTD.",
+	"licensePeriod": "11/05/2017 to 10/05/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9405171",
+	"address": "293 HOLLAND ROAD, COLD STORAGE JELITA SHOPPING CENTRE, #02-09 Singapore 278628",
+	"doctorInCharge": [
+		{
+			"name": "Lim Sze Kheng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2004",
+				"MDS (National University of Singapore, Singapore) 2009",
+				"MRD RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2009"
+			],
+			"specialties": [
+				"Prosthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:30 pm"
+	},
+	"id": "9405171",
+	"coordinates": [
+		103.7858505,
+		1.3175456
+	],
+	"svy21": [
+		22717.27,
+		33313.06
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

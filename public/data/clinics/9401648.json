@@ -1,0 +1,52 @@
+{
+	"name": "TENG CLINIC",
+	"tel": "64733187",
+	"fax": "64733187",
+	"licensee": "SIAH KIM BIN",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401648",
+	"address": "BLK 171 STIRLING ROAD, #01-1101 Singapore 140171",
+	"doctorInCharge": [
+		{
+			"name": "SIAH KIM BIN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1970"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Sunday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm"
+	},
+	"id": "9401648",
+	"coordinates": [
+		103.8038469,
+		1.2907325
+	],
+	"svy21": [
+		24720.06,
+		30348.18
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

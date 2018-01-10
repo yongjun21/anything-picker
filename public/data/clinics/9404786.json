@@ -1,0 +1,45 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64816081",
+	"fax": "64816081",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "24/03/2014 to 23/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404786",
+	"address": "BLK 10 Admiralty Link, Singapore 757521",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9404786",
+	"coordinates": [
+		103.8174362,
+		1.4540384
+	],
+	"svy21": [
+		26232.55,
+		48405.7
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	]
+}

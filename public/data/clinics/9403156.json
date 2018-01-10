@@ -1,0 +1,46 @@
+{
+	"name": "PROHEALTH 24-HOUR MEDICAL CLINIC",
+	"tel": "67652115",
+	"fax": "67623115",
+	"licensee": "LOH SEOW FOONG",
+	"licensePeriod": "24/01/2014 to 23/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403156",
+	"address": "BLK 259 BUKIT PANJANG RING RD, #01-18 Singapore 671259",
+	"doctorInCharge": [
+		{
+			"name": "LOH SEOW FOONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9403156",
+	"coordinates": [
+		103.7733101,
+		1.3770429
+	],
+	"svy21": [
+		21321.8,
+		39892.01
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

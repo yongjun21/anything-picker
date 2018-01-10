@@ -1,0 +1,53 @@
+{
+	"name": "GYNAECOLOGY & ONCOLOGY SPECIALISTS",
+	"tel": "64793301",
+	"fax": "64793352",
+	"licensee": "KEMOS HEALTHCARE PTE. LTD.",
+	"licensePeriod": "22/04/2017 to 21/04/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0096",
+	"address": "6A NAPIER ROAD, GLENEAGLES HOSPITAL, ANNEXE BLOCK, #05-36 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "Chia Yin Nin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 2002"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 05:00 pm"
+	},
+	"id": "13C0096",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

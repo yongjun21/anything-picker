@@ -1,0 +1,44 @@
+{
+	"name": "TEMASEK MEDICAL CENTRE",
+	"tel": "67665766",
+	"fax": "67665800",
+	"licensee": "JL MEDICAL (YEW TEE) PTE. LTD.",
+	"licensePeriod": "06/09/2016 to 05/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16C0266",
+	"address": "BLK 624 CHOA CHU KANG ST 62, #01-226 Singapore 680624",
+	"doctorInCharge": [
+		{
+			"name": "LEE YENG FEN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "16C0266",
+	"coordinates": [
+		103.7470848,
+		1.3980474
+	],
+	"svy21": [
+		18403.33,
+		42214.67
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

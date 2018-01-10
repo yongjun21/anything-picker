@@ -1,0 +1,60 @@
+{
+	"name": "ABOUT BRACES DENTAL SURGERY",
+	"tel": "63977177",
+	"fax": "63976727",
+	"licensee": "ABOUT BRACES DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "19/02/2017 to 18/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13C0030",
+	"address": "8 SINARAN DRIVE, Novena Specialist Center, #06-01 Singapore 307470",
+	"doctorInCharge": [
+		{
+			"name": "Vaz Stefan Claude",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1989",
+				"MSc (University of London, United Kingdom) 1995",
+				"FAMS (Orthodontics) (Academy of Medicine, Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 06:00 pm",
+		"Tuesday": "08:00 am to 06:00 pm",
+		"Wednesday": "08:00 am to 06:00 pm",
+		"Thursday": "08:00 am to 06:00 pm",
+		"Friday": "08:00 am to 06:00 pm",
+		"Saturday": "08:00 am to 01:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "13C0030",
+	"coordinates": [
+		103.8447824,
+		1.3200301
+	],
+	"svy21": [
+		29275.81,
+		33587.74
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

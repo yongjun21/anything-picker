@@ -1,0 +1,39 @@
+{
+	"name": "SRC MEDICAL CENTRE",
+	"tel": "63570116",
+	"fax": "63570263",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "17/07/2016 to 16/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0141",
+	"address": "1 Merlimau Road, Singapore 628260",
+	"doctorInCharge": [
+		{
+			"name": "Yeoh Sin Hock",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "12C0141",
+	"coordinates": [
+		103.7132483,
+		1.2901246
+	],
+	"svy21": [
+		14637.2,
+		30281.26
+	],
+	"planningArea": "WI",
+	"neighbours": [
+		"JE"
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "64532288",
+	"fax": "64553182",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "25/07/2014 to 24/07/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401368",
+	"address": "BLK 722 ANG MO KIO AVE 8, #01-2825 Singapore 560722",
+	"doctorInCharge": [
+		{
+			"name": "Wong Wei Mon",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2005",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2006",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2014",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 01:00 pm",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "08:30 am to 01:00 pm"
+	},
+	"id": "9401368",
+	"coordinates": [
+		103.8475293,
+		1.3722439
+	],
+	"svy21": [
+		29581.48,
+		39361.28
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"name": "ACCESS MEDICAL (KIM KEAT)",
+	"tel": "67107326",
+	"fax": "62523511",
+	"licensee": "ACCESS MEDICAL KIM KEAT PTE LTD",
+	"licensePeriod": "14/10/2016 to 13/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0317",
+	"address": "19 LORONG 7 TOA PAYOH, #01-272 Singapore 310066",
+	"doctorInCharge": [
+		{
+			"name": "LIM YONG CHIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007",
+				"MRCS (Royal College of Surgeons, Ireland) 2010",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "16M0317",
+	"coordinates": [
+		103.8517784,
+		1.3350133
+	],
+	"svy21": [
+		30054.38,
+		35244.51
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

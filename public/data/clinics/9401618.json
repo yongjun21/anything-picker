@@ -1,0 +1,51 @@
+{
+	"name": "TANAMERA CLINIC",
+	"tel": "64412982",
+	"fax": "64412982",
+	"licensee": "KOH CHONG CHENG JAMES",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401618",
+	"address": "BLK 73 BEDOK SOUTH AVE 3, #01-462 Singapore 460073",
+	"doctorInCharge": [
+		{
+			"name": "KOH CHONG CHENG JAMES",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 11:30 am, 02:00 pm to 04:00 pm",
+		"Tuesday": "08:30 am to 11:30 am, 02:00 pm to 04:00 pm",
+		"Wednesday": "08:30 am to 11:30 am",
+		"Thursday": "08:30 am to 11:30 pm, 02:00 pm to 04:00 pm",
+		"Friday": "08:30 am to 11:30 am, 02:00 pm to 04:00 pm",
+		"Saturday": "09:00 am to 11:30 am",
+		"Sunday": "09:00 am to 11:30 am"
+	},
+	"id": "9401618",
+	"coordinates": [
+		103.9439714,
+		1.319838
+	],
+	"svy21": [
+		40314.57,
+		33566.77
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

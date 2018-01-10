@@ -1,0 +1,53 @@
+{
+	"name": "JIREH MEDICAL CLINIC",
+	"tel": "63522847",
+	"fax": "64892206",
+	"licensee": "Ong Thiam Peng",
+	"licensePeriod": "04/08/2015 to 03/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403995",
+	"address": "BLK 70 Toa Payoh Lorong 4, #01-335 Singapore 310070",
+	"doctorInCharge": [
+		{
+			"name": "Ong Thiam Peng",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "07:00 pm to 09:00 pm",
+		"Tuesday": "07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403995",
+	"coordinates": [
+		103.8523333,
+		1.3344487
+	],
+	"svy21": [
+		30116.14,
+		35182.09
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

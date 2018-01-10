@@ -1,0 +1,44 @@
+{
+	"name": "DOVER MEDICAL CENTRE",
+	"tel": "67756266",
+	"fax": "67756966",
+	"licensee": "PHUA NGEE BOON",
+	"licensePeriod": "01/11/2014 to 31/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405729",
+	"address": "BLK 69 AYER RAJAH CRESCENT, #01-03 Singapore 139961",
+	"doctorInCharge": [
+		{
+			"name": "PHUA NGEE BOON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9405729",
+	"coordinates": [
+		103.7870367,
+		1.2963117
+	],
+	"svy21": [
+		22849.24,
+		30965.12
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

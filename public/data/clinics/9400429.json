@@ -1,0 +1,47 @@
+{
+	"name": "DRS.TENG & PARTNERS DENTAL SURGEONS",
+	"tel": "67788882",
+	"fax": "67782460",
+	"licensee": "BZTAG ENTERPRISE PTE. LTD.",
+	"licensePeriod": "13/09/2014 to 12/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400429",
+	"address": "BLK 725 Clementi West St 2, #01-198 Singapore 120725",
+	"doctorInCharge": [
+		{
+			"name": "Teng Kiat",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983",
+				"MFGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1999"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9400429",
+	"coordinates": [
+		103.7637743,
+		1.3035056
+	],
+	"svy21": [
+		20260.36,
+		31760.65
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

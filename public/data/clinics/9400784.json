@@ -1,0 +1,50 @@
+{
+	"name": "K. B. TAN CLINIC & LASER SURGERY",
+	"tel": "65839091",
+	"fax": "65823028",
+	"licensee": "TAN KOK BENG",
+	"licensePeriod": "11/07/2016 to 10/07/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400784",
+	"address": "BLK 625 ELIAS RD, Elias Mall, #01-310 Singapore 510625",
+	"doctorInCharge": [
+		{
+			"name": "TAN KOK BENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm"
+	},
+	"id": "9400784",
+	"coordinates": [
+		103.9419782,
+		1.3786024
+	],
+	"svy21": [
+		40092.46,
+		40064.64
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

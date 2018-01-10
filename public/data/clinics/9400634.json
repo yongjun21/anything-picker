@@ -1,0 +1,49 @@
+{
+	"name": "HAEM - ONC CLINIC PTE LTD",
+	"tel": "62351504",
+	"fax": "67379257",
+	"licensee": "HAEM-ONC CLINIC PTE LTD",
+	"licensePeriod": "20/10/2015 to 19/10/2020",
+	"licenseClass": "[ 5 Years ( 2D ) ]",
+	"hciCode": "9400634",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #13-09/10 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "NG RONALD PAUL",
+			"qualifications": [
+				"MBBS (University of Hong Kong, China, Hong Kong) 1969",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1974",
+				"FRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1983",
+				"FAMS (Int Med) (Academy of Medicine, Singapore) 1984",
+				"FAMS (Haem) (Academy of Medicine, Singapore) 1991"
+			],
+			"specialties": [
+				"Haematology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Haematology",
+			"Medical Oncology"
+		]
+	},
+	"id": "9400634",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

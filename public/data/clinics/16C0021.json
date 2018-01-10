@@ -1,0 +1,56 @@
+{
+	"name": "DR ALICIA EYE SPECIALIST",
+	"tel": "64798887",
+	"fax": "64796897",
+	"licensee": "DR ALICIA EYE SPECIALIST PTE. LTD.",
+	"licensePeriod": "17/01/2016 to 16/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16C0021",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #10-06 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "How Su-Wei Alicia Claire",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999",
+				"M Med (Ophth) (National University of Singapore, Singapore) 2004",
+				"MRCSEd (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 2004",
+				"FRCSEd (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 2007",
+				"FAMS (Ophth) (Academy of Medicine, Singapore) 2007"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "16C0021",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "EDEN DENTAL SURGERY",
+	"tel": "65821112",
+	"fax": "65821112",
+	"licensee": "Eden Dental Pte. Ltd.",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400466",
+	"address": "BLK 442 PASIR RIS DR 6, #01-46 Singapore 510442",
+	"doctorInCharge": [
+		{
+			"name": "WEE THIEM HENG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 am, 02:00 pm to 06:00 pm",
+		"Tuesday": "07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 am, 02:00 pm to 06:00 pm",
+		"Thursday": "08:30 am to 12:30 am, 02:00 pm to 06:00 pm",
+		"Friday": "08:30 am to 12:30 am, 02:00 pm to 06:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400466",
+	"coordinates": [
+		103.9579517,
+		1.3689329
+	],
+	"svy21": [
+		41870.18,
+		38995.52
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

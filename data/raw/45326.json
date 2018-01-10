@@ -27,6 +27,9 @@
 	],
 	"detailedServices": {
 		"General Medical": true,
-		"Specialist Medical": []
+		"Specialist Medical": true
+	},
+	"operatingHours": {
+		"Monday to Saturday": "09:00 am to 06:00 pm"
 	}
 }

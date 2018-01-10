@@ -1,0 +1,53 @@
+{
+	"name": "NEXUS SURGICAL ASSOCIATES",
+	"tel": "62358633",
+	"fax": "62355675",
+	"licensee": "NEXUS SURGICAL ASSOCIATES PTE. LTD.",
+	"licensePeriod": "19/10/2014 to 18/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405726",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #08-06 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Lim Khong Hee",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1998",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405726",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

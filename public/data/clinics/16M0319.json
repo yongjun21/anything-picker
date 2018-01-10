@@ -1,0 +1,54 @@
+{
+	"name": "DR ANITA'S KIDS CLINIC",
+	"tel": "66363460",
+	"fax": "66363461",
+	"licensee": "Anita Thankam Menon",
+	"licensePeriod": "17/10/2016 to 16/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0319",
+	"address": "691 EAST COAST ROAD, FRANKEL ESTATE, Singapore 459057",
+	"doctorInCharge": [
+		{
+			"name": "Anita Thankam Menon",
+			"qualifications": [
+				"MB BCh BAO, LRCP & SI (National University of Ireland, Ireland) 1991",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1998",
+				"MRCPCH (Paed) (Royal College of Paediatrics and Child Health, United Kingdom) 1999",
+				"FRCPCH (Royal College of Paediatrics and Child Health, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 01:00 pm",
+		"Tuesday": "09:30 am to 01:00 pm",
+		"Wednesday": "02:00 pm to 05:30 pm",
+		"Thursday": "02:00 pm to 05:30 pm",
+		"Friday": "02:00 pm to 05:30 pm",
+		"Saturday": "09:30 am to 01:00 pm"
+	},
+	"id": "16M0319",
+	"coordinates": [
+		103.9218266,
+		1.3118795
+	],
+	"svy21": [
+		37850.11,
+		32686.66
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

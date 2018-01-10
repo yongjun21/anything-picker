@@ -1,0 +1,55 @@
+{
+	"name": "PROHEALTH MEDICAL GROUP @FERNVALE PTE LTD",
+	"tel": "68864780",
+	"fax": "68864768",
+	"licensee": "PROHEALTH MEDICAL GROUP @FERNVALE PTE. LTD.",
+	"licensePeriod": "12/12/2016 to 11/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405440",
+	"address": "33 SENGKANG WEST AVENUE, THE SELETAR MALL, #B1-18 Singapore 797653",
+	"doctorInCharge": [
+		{
+			"name": "CHOI SAI WAI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 10:00 pm",
+		"Tuesday": "08:00 am to 10:00 pm",
+		"Wednesday": "08:00 am to 10:00 pm",
+		"Thursday": "08:00 am to 10:00 pm",
+		"Friday": "08:00 am to 10:00 pm",
+		"Saturday": "08:00 am to 10:00 pm",
+		"Sunday": "08:00 am to 10:00 pm"
+	},
+	"id": "9405440",
+	"coordinates": [
+		103.8761255,
+		1.3914702
+	],
+	"svy21": [
+		32763.85,
+		41487.26
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

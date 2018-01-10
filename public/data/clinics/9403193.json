@@ -1,0 +1,50 @@
+{
+	"name": "Q & M DENTAL SURGERY (BT TIMAH) PTE LTD",
+	"tel": "64663393",
+	"fax": "64661733",
+	"licensee": "Q & M DENTAL SURGERY (BUKIT TIMAH) PTE. LTD.",
+	"licensePeriod": "22/08/2016 to 21/08/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403193",
+	"address": "3A CHEONG CHIN NAM ROAD, Singapore 599728",
+	"doctorInCharge": [
+		{
+			"name": "LOH MEOW SONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9403193",
+	"coordinates": [
+		103.775277,
+		1.3423572
+	],
+	"svy21": [
+		21540.6,
+		36056.63
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

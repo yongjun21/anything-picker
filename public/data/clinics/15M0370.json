@@ -1,0 +1,60 @@
+{
+	"name": "ONCOCARE CANCER CENTRE",
+	"tel": "62587965",
+	"fax": "62580954",
+	"licensee": "BROOKLINE MEDICAL PTE. LTD.",
+	"licensePeriod": "28/10/2017 to 27/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0370",
+	"address": "820 THOMSON ROAD, MOUNT ALVERNIA HOSPITAL MEDICAL CENTRE D, #08-53 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "DR Tay Miah Hiang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1999",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": [
+				"Medical Oncology",
+				"Palliative Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	},
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "15M0370",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

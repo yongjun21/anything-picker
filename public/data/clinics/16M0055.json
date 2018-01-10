@@ -1,0 +1,47 @@
+{
+	"name": "LIGHTHOUSE CLINIC AND SURGERY PTE. LTD.",
+	"tel": "64251935",
+	"fax": "64251905",
+	"licensee": "LIGHTHOUSE CLINIC AND SURGERY PTE. LTD.",
+	"licensePeriod": "07/03/2016 to 06/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0055",
+	"address": "BLK 642 BUKIT BATOK CENTRAL, #01-52 Singapore 650642",
+	"doctorInCharge": [
+		{
+			"name": "CHUA GUAN KIAT",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "16M0055",
+	"coordinates": [
+		103.7517067,
+		1.3490065
+	],
+	"svy21": [
+		18917.5,
+		36791.95
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

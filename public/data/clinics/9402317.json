@@ -1,0 +1,55 @@
+{
+	"name": "HEALTHLINE FAMILY CLINIC & SURGERY PTE. LTD.",
+	"tel": "64463260",
+	"fax": "64463259",
+	"licensee": "TEO BOON LENG JOSEPH",
+	"licensePeriod": "09/07/2016 to 08/07/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9402317",
+	"address": "BLK 25A CHAI CHEE ROAD, #01-467 Singapore 461025",
+	"doctorInCharge": [
+		{
+			"name": "TEO BOON LENG JOSEPH",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 03:00 pm",
+		"Monday": "08:30 am to 03:00 pm, 06:00 pm to 11:00 pm",
+		"Tuesday": "08:30 am to 03:00 pm, 06:00 pm to 11:00 pm",
+		"Wednesday": "08:30 am to 03:00 pm, 06:00 pm to 11:00 pm",
+		"Thursday": "08:30 am to 03:00 pm, 06:00 pm to 11:00 pm",
+		"Friday": "08:30 am to 03:00 pm, 06:00 pm to 11:00 pm",
+		"Saturday": "08:30 am to 03:00 pm",
+		"Sunday": "08:30 am to 03:00 pm"
+	},
+	"id": "9402317",
+	"coordinates": [
+		103.9241496,
+		1.3232896
+	],
+	"svy21": [
+		38108.59,
+		33948.34
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

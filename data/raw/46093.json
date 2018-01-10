@@ -1,0 +1,25 @@
+{
+	"name": "SW1 CLINIC",
+	"tel": "68874232",
+	"fax": "68874234",
+	"licensee": "PHENIKS PTE. LTD.",
+	"licensePeriod": "25/11/2017 to 24/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0376",
+	"address": "290 ORCHARD ROAD, PARAGON, #13-01 to 06 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Chua Han Boon",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Plastic Surgery"
+		]
+	}
+}

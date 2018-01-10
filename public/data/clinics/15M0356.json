@@ -1,0 +1,57 @@
+{
+	"name": "DR.W FAMILY CLINIC",
+	"tel": "64754262",
+	"fax": "64754992",
+	"licensee": "W CLINIC PTE. LTD.",
+	"licensePeriod": "15/10/2017 to 14/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0356",
+	"address": "BLK 8 EMPRESS ROAD, #01-09 Singapore 260008",
+	"doctorInCharge": [
+		{
+			"name": "Winnie Foo",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "08:00 am to 08:00 pm",
+		"Tuesday": "08:00 am to 08:00 pm",
+		"Wednesday": "08:00 am to 08:00 pm",
+		"Thursday": "08:00 am to 08:00 pm",
+		"Friday": "08:00 am to 01:00 pm",
+		"Saturday": "08:00 am to 01:00 pm",
+		"Sunday": "08:00 am to 01:00 pm",
+		"Public Holiday": "08:00 am to 01:00 pm"
+	},
+	"id": "15M0356",
+	"coordinates": [
+		103.8053738,
+		1.3164119
+	],
+	"svy21": [
+		24890.02,
+		33187.67
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"name": "YISHUN CENTRAL MEDICAL CLINIC",
+	"tel": "67558931",
+	"fax": "67558931",
+	"licensee": "LAI WEE LEE",
+	"licensePeriod": "01/07/2015 to 30/06/2020",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9402364",
+	"address": "BLK 160 YISHUN ST 11, #01-212 Singapore 760160",
+	"doctorInCharge": [
+		{
+			"name": "LAI WEE LEE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9402364",
+	"coordinates": [
+		103.8333445,
+		1.4324145
+	],
+	"svy21": [
+		28002.89,
+		46014.64
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

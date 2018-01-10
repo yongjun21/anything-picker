@@ -1,0 +1,53 @@
+{
+	"name": "VIVIEN @ ROBINSON.PRACTICE",
+	"tel": "62261216",
+	"fax": "62263661",
+	"licensee": "CHONG EE MEI VIVIEN",
+	"licensePeriod": "08/03/2014 to 07/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403182",
+	"address": "80 ROBINSON ROAD, #01-01A Singapore 068898",
+	"doctorInCharge": [
+		{
+			"name": "CHONG EE MEI VIVIEN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"DCH (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1989",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403182",
+	"coordinates": [
+		103.8493164,
+		1.2801374
+	],
+	"svy21": [
+		29780.43,
+		29176.62
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

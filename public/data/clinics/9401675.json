@@ -1,0 +1,52 @@
+{
+	"name": "THE CHILDREN'S MEDICAL CENTRE",
+	"tel": "63538050",
+	"fax": "63535248",
+	"licensee": "LEONG YUET YOW",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401675",
+	"address": "BLK 508 BISHAN ST 11, #01-386 Singapore 570508",
+	"doctorInCharge": [
+		{
+			"name": "LEONG YUET YOW",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1970",
+				"M Med (Paed) (National University of Singapore, Singapore) 1975",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 1977"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:07 am to 04:07 pm, 07:03 pm to 09:03 pm, 09:01 am to 12:01 pm",
+		"Tuesday": "08:07 am to 04:07 pm, 07:03 pm to 09:03 pm, 09:01 am to 12:01 pm",
+		"Wednesday": "08:07 am to 04:07 pm, 07:03 pm to 09:03 pm, 09:01 am to 12:01 pm",
+		"Thursday": "08:07 am to 04:07 pm, 07:03 pm to 09:03 pm, 09:01 am to 12:01 pm",
+		"Friday": "08:07 am to 04:07 pm, 07:03 pm to 09:03 pm, 09:01 am to 12:01 pm",
+		"Saturday": "08:07 am to 04:07 pm, 07:03 pm to 09:03 pm, 09:01 am to 12:01 pm"
+	},
+	"id": "9401675",
+	"coordinates": [
+		103.8492208,
+		1.348745
+	],
+	"svy21": [
+		29769.74,
+		36762.89
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

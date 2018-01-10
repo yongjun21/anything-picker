@@ -1,0 +1,50 @@
+{
+	"name": "THE CLINIC @ CAPITAGREEN",
+	"tel": "63846851",
+	"fax": "64381575",
+	"licensee": "THE CLINIC @ CAPITAGREEN PTE. LTD.",
+	"licensePeriod": "12/11/2017 to 11/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0386",
+	"address": "138 MARKET STREET, CAPITAGREEN, #02-01A Singapore 048946",
+	"doctorInCharge": [
+		{
+			"name": "NG BOON KWANG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "15M0386",
+	"coordinates": [
+		103.8500838,
+		1.281858
+	],
+	"svy21": [
+		29865.83,
+		29366.87
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

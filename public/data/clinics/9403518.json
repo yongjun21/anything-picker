@@ -1,0 +1,56 @@
+{
+	"name": "BUKIT TIMAH CLINIC",
+	"tel": "64665458",
+	"fax": "64664819",
+	"licensee": "KWEE WEE HOCK DAVID",
+	"licensePeriod": "16/11/2013 to 15/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403518",
+	"address": "621A BUKIT TIMAH ROAD, Singapore 269731",
+	"doctorInCharge": [
+		{
+			"name": "KWEE WEE HOCK DAVID",
+			"qualifications": [
+				"MB ChB (University of Manchester, United Kingdom) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9403518",
+	"coordinates": [
+		103.8090586,
+		1.3245754
+	],
+	"svy21": [
+		25300.1,
+		34090.34
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

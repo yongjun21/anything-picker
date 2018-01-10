@@ -1,0 +1,60 @@
+{
+	"name": "KC ONG CHEST & MEDICAL CLINIC",
+	"tel": "62351466",
+	"fax": "62351184",
+	"licensee": "Ong Kian Chung",
+	"licensePeriod": "27/06/2015 to 26/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403966",
+	"address": "3 Mount Elizabeth, Mount Elizabeth Medical Centre, #12-03 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Ong Kian Chung",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1993"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Respiratory Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403966",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

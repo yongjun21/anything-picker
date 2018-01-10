@@ -1,0 +1,44 @@
+{
+	"name": "LD HEART CLINIC",
+	"tel": "64755442",
+	"fax": "64744540",
+	"licensee": "LAU KEAN WAH",
+	"licensePeriod": "17/10/2014 to 16/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404996",
+	"address": "6A NAPIER ROAD, GLENEAGLES HOSPITAL ANNEXE BLOCK, #03-37A Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "LAU KEAN WAH",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 1979",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"id": "9404996",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

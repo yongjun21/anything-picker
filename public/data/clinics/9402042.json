@@ -1,0 +1,51 @@
+{
+	"name": "WE CARE CLINIC AND SURGERY",
+	"tel": "65821223",
+	"fax": "60000000",
+	"licensee": "WE CARE CLINIC AND SURGERY PTE. LTD.",
+	"licensePeriod": "27/11/2016 to 26/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9402042",
+	"address": "BLK 442 PASIR RIS DR 6, #01-26 Singapore 510442",
+	"doctorInCharge": [
+		{
+			"name": "Wong Cheok Way",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "07:00 pm to 09:00 pm",
+		"Tuesday": "07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm",
+		"Thursday": "07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 01:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402042",
+	"coordinates": [
+		103.9579517,
+		1.3689329
+	],
+	"svy21": [
+		41870.18,
+		38995.52
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"name": "HEALTHWAY MEDICAL CENTRE",
+	"tel": "63528696",
+	"fax": "63528695",
+	"licensee": "HEALTHWAY MEDICAL GROUP PTE LTD",
+	"licensePeriod": "13/11/2014 to 12/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404285",
+	"address": "238 Thomson Road, Novena Square, #03-32A Singapore 307683",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9404285",
+	"coordinates": [
+		103.8438506,
+		1.3199675
+	],
+	"svy21": [
+		29172.11,
+		33580.82
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"name": "B T GOH FAMILY CLINIC & SURGERY",
+	"tel": "63544535",
+	"fax": "63544535",
+	"licensee": "GOH BEE TENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400089",
+	"address": "BLK 194 KIM KEAT AVE, #01-406 Singapore 310194",
+	"doctorInCharge": [
+		{
+			"name": "GOH BEE TENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 am, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 am, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 am to 04:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 am to 04:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400089",
+	"coordinates": [
+		103.8581819,
+		1.3309393
+	],
+	"svy21": [
+		30767.03,
+		34794.04
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

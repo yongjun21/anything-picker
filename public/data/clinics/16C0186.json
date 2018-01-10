@@ -1,0 +1,39 @@
+{
+	"name": "TANG MEDICAL & SURGERY PTE LTD",
+	"tel": "63454566",
+	"fax": "64407033",
+	"licensee": "TANG YEN HO ANDREW",
+	"licensePeriod": "20/06/2016 to 19/06/2018",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
+	"hciCode": "16C0186",
+	"address": "BLK 8 JALAN BATU, #01-11 Singapore 431008",
+	"doctorInCharge": [
+		{
+			"name": "TANG YEN HO ANDREW",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16C0186",
+	"coordinates": [
+		103.8831797,
+		1.3026393
+	],
+	"svy21": [
+		33549.09,
+		31664.81
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

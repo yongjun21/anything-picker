@@ -1,0 +1,49 @@
+{
+	"name": "STRAITS DENTAL GROUP",
+	"tel": "62354686",
+	"fax": "62354828",
+	"licensee": "STRAITS HEALTHCARE PTE. LTD.",
+	"licensePeriod": "01/09/2015 to 31/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403435",
+	"address": "360 Orchard Road, International Building, #04-01 Singapore 238869",
+	"doctorInCharge": [
+		{
+			"name": "Cheah Cheong Boon",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 07:00 pm",
+		"Tuesday": "09:00 am to 07:00 pm",
+		"Wednesday": "09:00 am to 07:00 pm",
+		"Thursday": "09:00 am to 07:00 pm",
+		"Friday": "09:00 am to 07:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403435",
+	"coordinates": [
+		103.8310033,
+		1.3060752
+	],
+	"svy21": [
+		27742.33,
+		32044.67
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

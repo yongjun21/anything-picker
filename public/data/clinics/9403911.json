@@ -1,0 +1,54 @@
+{
+	"name": "KARRI FAMILY CLINIC",
+	"tel": "67850311",
+	"fax": "67857511",
+	"licensee": "KARRI PTE. LTD.",
+	"licensePeriod": "16/03/2017 to 15/03/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9403911",
+	"address": "BLK 866A TAMPINES ST 83, TAMPINES CENTRAL COMMUNITY COMPLEX, #03-05 Singapore 521866",
+	"doctorInCharge": [
+		{
+			"name": "LESLIE TAY CHOON MONG",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403911",
+	"coordinates": [
+		103.9344779,
+		1.3553645
+	],
+	"svy21": [
+		39257.88,
+		37495.08
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"name": "ALVIN HONG NEUROSURGERY",
+	"tel": "67338803",
+	"fax": "68360949",
+	"licensee": "Hong Neurosurgery Pte. Ltd.",
+	"licensePeriod": "18/08/2015 to 17/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405276",
+	"address": "3 Mount Elizabeth, Mount Elizabeth Medical Centre, #14-14 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Alvin Hong",
+			"qualifications": [
+				"MB Bchir (University of Cambridge, United Kingdom) 1986",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1989",
+				"FRCS (Neurosurgery) (Royal College of Surgeons of Edinburgh, United Kingdom) 1994"
+			],
+			"specialties": [
+				"Neurosurgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Neurosurgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
+	"id": "9405276",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

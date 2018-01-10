@@ -3,8 +3,8 @@
 	"tel": "67860080",
 	"fax": "67860060",
 	"licensee": "DR HEAH SIEU MIN",
-	"licensePeriod": "04/09/2015 to 03/09/2017",
-	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"licensePeriod": "04/09/2017 to 03/09/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
 	"hciCode": "9405724",
 	"address": "BLK 801 TAMPINES AVENUE 4, #01-273 Singapore 520801",
 	"doctorInCharge": [
@@ -24,6 +24,7 @@
 		"Endoscopy"
 	],
 	"detailedServices": {
+		"General Medical": true,
 		"Specialist Medical": [
 			"Anaesthesiology",
 			"General Surgery",

@@ -1,0 +1,39 @@
+{
+	"name": "SSMC MEDICAL CLINIC",
+	"tel": "62487333",
+	"fax": "62487712",
+	"licensee": "SYSTEMS ON SILICON MANUFACTURING COMPANY PTE LTD",
+	"licensePeriod": "27/10/2014 to 26/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402756",
+	"address": "70 PASIR RIS DR 1, 1ST FLOOR, SYSTEMS ON SILICON MANUFACTURING COMPANY PTE, Singapore 519527",
+	"doctorInCharge": [
+		{
+			"name": "Elton Ong Kong Yiow",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9402756",
+	"coordinates": [
+		103.9348618,
+		1.3826412
+	],
+	"svy21": [
+		39300.48,
+		40511.19
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

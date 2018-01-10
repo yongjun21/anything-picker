@@ -1,0 +1,41 @@
+{
+	"name": "APAX MEDICAL & AESTHETICS CLINIC",
+	"tel": "67696007",
+	"fax": "00000000",
+	"licensee": "UNSEEN SURGERY PTE. LTD.",
+	"licensePeriod": "18/11/2015 to 17/11/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0392",
+	"address": "1 WOODLANDS ROAD, Junction 10, #02-11 Singapore 677899",
+	"doctorInCharge": [
+		{
+			"name": "Moses NG Tian Li",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2006"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "15M0392",
+	"coordinates": [
+		103.7601679,
+		1.3803368
+	],
+	"svy21": [
+		19859.25,
+		40256.27
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"name": "SINGHEALTH POLYCLINICS",
+	"tel": "62436740",
+	"fax": "64444568",
+	"licensee": "SINGHEALTH POLYCLINICS",
+	"licensePeriod": "31/07/2017 to 30/07/2019",
+	"licenseClass": "[ 2 Years ]",
+	"hciCode": "9403124",
+	"address": "11 BEDOK NORTH ST 1, HEARTBEAT@BEDOK, #02-01/#03-01 Singapore 469662",
+	"doctorInCharge": [
+		{
+			"name": "Juliana Bte Bahadin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2005",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:00 am to 12:30 pm"
+	},
+	"id": "9403124",
+	"coordinates": [
+		103.9321295,
+		1.3268644
+	],
+	"svy21": [
+		38996.66,
+		34343.66
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

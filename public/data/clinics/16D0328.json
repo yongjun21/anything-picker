@@ -1,0 +1,40 @@
+{
+	"name": "LEE DENTAL SURGERY",
+	"tel": "67866003",
+	"fax": "62259382",
+	"licensee": "MEDINA DENTAL GROUP PTE. LTD.",
+	"licensePeriod": "20/10/2016 to 19/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0328",
+	"address": "BLK 164 TAMPINES STREET 12, #01-293 Singapore 521164",
+	"doctorInCharge": [
+		{
+			"name": "Chye Chuan Hee",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2005",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2009",
+				"MPH (Singapore) (National University of Singapore, Singapore) 2015"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "16D0328",
+	"coordinates": [
+		103.9460007,
+		1.3496215
+	],
+	"svy21": [
+		40540.27,
+		36860.1
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

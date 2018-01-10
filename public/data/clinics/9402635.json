@@ -1,0 +1,53 @@
+{
+	"name": "USRAH MEDICAL CLINIC",
+	"tel": "64414139",
+	"fax": "64414139",
+	"licensee": "ROHANI BTE SAPTU",
+	"licensePeriod": "23/06/2015 to 22/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402635",
+	"address": "BLK 510 BEDOK NORTH ST 3, #01-25 Singapore 460510",
+	"doctorInCharge": [
+		{
+			"name": "ROHANI BTE SAPTU",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9402635",
+	"coordinates": [
+		103.9310515,
+		1.3321231
+	],
+	"svy21": [
+		38876.66,
+		34925.14
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

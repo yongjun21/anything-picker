@@ -1,0 +1,44 @@
+{
+	"name": "SASCO CLINIC",
+	"tel": "65420403",
+	"fax": "65405670",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "21/07/2015 to 20/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401450",
+	"address": "BLK 8 CHANGI NORTH WAY, ST AEROSPACE SERVICES COMPANY PTE LTD, Singapore 499611",
+	"doctorInCharge": [
+		{
+			"name": "Ho Sin Teck Winston",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"Dip Geriatric Med (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9401450",
+	"coordinates": [
+		103.9714063,
+		1.3504077
+	],
+	"svy21": [
+		43367.63,
+		36947.17
+	],
+	"planningArea": "CH",
+	"neighbours": [
+		"PR",
+		"TM",
+		"CB"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"name": "FONES CLINIC - PSYMED CONSULTANTS",
+	"tel": "65702280",
+	"fax": "65702280",
+	"licensee": "Calvin Fones Soon Leng",
+	"licensePeriod": "12/07/2016 to 11/07/2021",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "12C0137",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #11-47 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Calvin Fones Soon Leng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"M Med (Psych) (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Psychiatry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Psychiatry"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
+	"id": "12C0137",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "HEALTHWAY MEDICAL CLINIC",
+	"tel": "67630600",
+	"fax": "67690900",
+	"licensee": "HEALTHWAY MEDICAL GROUP PTE LTD",
+	"licensePeriod": "14/09/2015 to 13/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405303",
+	"address": "BLK 445 FAJAR ROAD, FAJAR SHOPPING CENTRE, #02-534 Singapore 670445",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9405303",
+	"coordinates": [
+		103.7707683,
+		1.3835804
+	],
+	"svy21": [
+		21038.95,
+		40614.9
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

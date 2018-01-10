@@ -1,0 +1,47 @@
+{
+	"name": "UNITY DENTICARE",
+	"tel": "65904393",
+	"fax": "65904385",
+	"licensee": "NTUC Health Co-operative Ltd",
+	"licensePeriod": "14/08/2016 to 13/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14C0226",
+	"address": "80 MARINE PARADE RD, PARKWAY PARADE, #05-02 Singapore 449269",
+	"doctorInCharge": [
+		{
+			"name": "JOHARI HAMDAN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 08:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 03:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "14C0226",
+	"coordinates": [
+		103.9052795,
+		1.3010698
+	],
+	"svy21": [
+		36008.6,
+		31491.32
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

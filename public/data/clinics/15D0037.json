@@ -1,0 +1,51 @@
+{
+	"name": "LOYAL DENTAL PTE LTD",
+	"tel": "85777266",
+	"fax": "85697180",
+	"licensee": "LOYAL DENTAL PTE. LTD.",
+	"licensePeriod": "06/02/2017 to 05/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0037",
+	"address": "BLK 809 FRENCH ROAD, KITCHENER COMPLEX, #02-54 Singapore 200809",
+	"doctorInCharge": [
+		{
+			"name": "Chen Chi Ling",
+			"qualifications": [
+				"BDSc (University of Melbourne, Australia) 1988"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "15D0037",
+	"coordinates": [
+		103.8620059,
+		1.308327
+	],
+	"svy21": [
+		31192.63,
+		32293.69
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

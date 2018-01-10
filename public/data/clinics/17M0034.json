@@ -1,0 +1,60 @@
+{
+	"name": "PANHEALTH FAMILY CLINIC (HOUGANG)",
+	"tel": "66101496",
+	"fax": "69668639",
+	"licensee": "PanHealth Medical Hougang Pte. Ltd.",
+	"licensePeriod": "15/02/2017 to 14/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0034",
+	"address": "BLK 932B HOUGANG AVENUE 9, HOUGANG CRIMSON, #01-02 Singapore 532932",
+	"doctorInCharge": [
+		{
+			"name": "Yip On Luk Laurel",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2007",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2013",
+				"PG Dip (Practical Derm) (Cardiff University, United Kingdom) 2015",
+				"GDMH (National University of Singapore, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 05:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 05:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 05:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:00 pm",
+		"Friday": "08:30 am to 01:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "08:30 am to 01:00 pm"
+	},
+	"id": "17M0034",
+	"coordinates": [
+		103.8822349,
+		1.3751267
+	],
+	"svy21": [
+		33443.79,
+		39680.09
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

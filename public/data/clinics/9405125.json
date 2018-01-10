@@ -1,0 +1,52 @@
+{
+	"name": "HK FAMILY CLINIC & SURGERY PTE LTD",
+	"tel": "65528757",
+	"fax": "65528757",
+	"licensee": "HK FAMILY CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "25/03/2015 to 24/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405125",
+	"address": "BLK 410 ANG MO KIO AVE 10, #01-817 Singapore 560410",
+	"doctorInCharge": [
+		{
+			"name": "KHOO BEE SIM",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 02:00 pm, 06:00 pm to 08:00 pm",
+		"Tuesday": "08:30 am to 02:00 pm, 06:00 pm to 08:00 pm",
+		"Wednesday": "08:30 am to 02:00 pm, 06:00 pm to 08:00 pm",
+		"Thursday": "08:30 am to 02:00 pm, 06:00 pm to 08:00 pm",
+		"Friday": "08:30 am to 02:00 pm",
+		"Saturday": "08:30 am to 02:00 pm"
+	},
+	"id": "9405125",
+	"coordinates": [
+		103.854645,
+		1.3627154
+	],
+	"svy21": [
+		30373.38,
+		38307.67
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

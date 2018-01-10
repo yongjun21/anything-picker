@@ -1,0 +1,58 @@
+{
+	"name": "MAK HEART CLINIC",
+	"tel": "65358833",
+	"fax": "64750880",
+	"licensee": "KH MAK HEART CLINIC PTE. LTD.",
+	"licensePeriod": "12/07/2016 to 11/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404890",
+	"address": "6 Napier Road, Gleneagles Medical Centre, #08-13 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Mak Koon Hou",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1989",
+				"MRCP (Int Med) (Royal College of Physicians of London, United Kingdom) 1989",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 1993",
+				"FACP (Int Med) (American College of Physicians, United States) 1995",
+				"FACC (American College of Cardiology, United States) 1996",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 1997",
+				"FESC (European Society of Cardiology, France) 1998",
+				"FRCP (Glasg) (Royal College of Physicians of Glasgow, United Kingdom) 1998",
+				"MD (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Cardiology",
+				"Intensive Care Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9404890",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

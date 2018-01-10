@@ -1,0 +1,45 @@
+{
+	"name": "PEACE FAMILY CLINIC & SURGERY",
+	"tel": "65556674",
+	"fax": "65556674",
+	"licensee": "SILVER CROSS HEALTHCARE PTE LTD",
+	"licensePeriod": "09/06/2015 to 08/06/2020",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9405200",
+	"address": "BLK 406 SEMBAWANG DR, #01-820 Singapore 750406",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9405200",
+	"coordinates": [
+		103.8169776,
+		1.4529298
+	],
+	"svy21": [
+		26181.51,
+		48283.12
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	]
+}

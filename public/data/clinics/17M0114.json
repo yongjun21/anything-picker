@@ -1,0 +1,39 @@
+{
+	"name": "ACCLARO CLINIC",
+	"tel": "65101980",
+	"fax": "68836963",
+	"licensee": "Acclaro Pte. Ltd.",
+	"licensePeriod": "22/04/2017 to 21/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0114",
+	"address": "290 ORCHARD ROAD, PARAGON, #19-01 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Teng Tze Yeong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0114",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

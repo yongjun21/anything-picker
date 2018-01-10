@@ -1,0 +1,48 @@
+{
+	"name": "MEDICARE ASSOCIATES & DENTAL SURGERY",
+	"tel": "67880139",
+	"fax": "67880137",
+	"licensee": "CHAN SIANG BOON EDWIN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401081",
+	"address": "BLK 482 TAMPINES AVE 9 ST 43, #01-236 Singapore 520482",
+	"doctorInCharge": [
+		{
+			"name": "CHAN SIANG BOON EDWIN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9401081",
+	"coordinates": [
+		103.9530009,
+		1.3616305
+	],
+	"svy21": [
+		41319.25,
+		38188.03
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"name": "ACMS MEDICAL CLINIC",
+	"licensee": "MALCOLM LIM PTE LTD",
+	"licensePeriod": "07/07/2016 to 06/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0198",
+	"address": "1 GRANGE ROAD, ORCHARD BUILDING, #06-06 Singapore 239693",
+	"doctorInCharge": [
+		{
+			"name": "Lim Chun Liat Malcolm",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0198",
+	"coordinates": [
+		103.8373592,
+		1.3013988
+	],
+	"svy21": [
+		28449.68,
+		31527.59
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

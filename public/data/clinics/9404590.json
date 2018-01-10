@@ -1,0 +1,49 @@
+{
+	"name": "ALLSMILES DENTAL CARE PTE LTD",
+	"tel": "65692988",
+	"fax": "65697113",
+	"licensee": "ALLSMILES DENTAL CARE PTE. LTD.",
+	"licensePeriod": "19/10/2013 to 18/10/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404590",
+	"address": "BLK 502 JURONG WEST AVENUE 1, #01-817 Singapore 640502",
+	"doctorInCharge": [
+		{
+			"name": "OH CHIN HONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "09:00 am to 01:00 pm",
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "9404590",
+	"coordinates": [
+		103.7183347,
+		1.3505013
+	],
+	"svy21": [
+		15203.57,
+		36957.39
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

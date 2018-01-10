@@ -1,0 +1,49 @@
+{
+	"name": "THE GERIATRIC PRACTICE",
+	"tel": "62622864",
+	"fax": "62622865",
+	"licensee": "The Geriatric Practice Pte Ltd",
+	"licensePeriod": "13/05/2016 to 12/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0143",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #09-21 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Chong Mei Sian",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 2000",
+				"FAMS (Geriatric Medicine) (Academy of Medicine, Singapore) 2003",
+				"GD (Clinical Epidemiology) (University of Newcastle, Australia) 2004",
+				"FRCPEd (Royal College of Physicians of Edinburgh, United Kingdom) 2011"
+			],
+			"specialties": [
+				"Geriatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Geriatric Medicine"
+		]
+	},
+	"id": "16M0143",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

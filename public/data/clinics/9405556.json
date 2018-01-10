@@ -1,0 +1,60 @@
+{
+	"name": "WEST POINT SURGERY CENTRE",
+	"tel": "62625858",
+	"fax": "62625859",
+	"licensee": "WEST POINT HOSPITAL PTE. LTD.",
+	"licensePeriod": "19/04/2017 to 18/04/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405556",
+	"address": "235 CORPORATION DRIVE, Singapore 619771",
+	"doctorInCharge": [
+		{
+			"name": "Tan Puay Ling",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"MRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 2002",
+				"M Med (Surg) (National University of Singapore, Singapore) 2003",
+				"FAMS (Hand Surgery) (Academy of Medicine, Singapore) 2006"
+			],
+			"specialties": [
+				"Hand Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Day Surgery",
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Anaesthesiology",
+			"Diagnostic Radiology",
+			"General Surgery",
+			"Hand Surgery",
+			"Orthopaedic Surgery",
+			"Sports Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9405556",
+	"coordinates": [
+		103.7230061,
+		1.3310731
+	],
+	"svy21": [
+		15723.35,
+		34809.09
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

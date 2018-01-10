@@ -1,0 +1,57 @@
+{
+	"name": "PIONEER MEDICARE",
+	"tel": "63397422",
+	"fax": "90710484",
+	"licensee": "PIONEER MEDICARE PTE LTD",
+	"licensePeriod": "06/05/2016 to 05/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0111",
+	"address": "BLK 3 SOON LEE STREET, PIONEER JUNCTION, #01-08 Singapore 627606",
+	"doctorInCharge": [
+		{
+			"name": "LIM CHAN MENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Hand Surgery"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "08:00 am to 01:00 pm"
+	},
+	"id": "14M0111",
+	"coordinates": [
+		103.6972379,
+		1.3337831
+	],
+	"svy21": [
+		12855.63,
+		35108.89
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

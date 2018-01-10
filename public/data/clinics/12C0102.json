@@ -1,0 +1,58 @@
+{
+	"name": "EAGLE EYE CENTRE",
+	"tel": "65701000",
+	"fax": "65701001",
+	"licensee": "EAGLE EYE CENTRE NOVENA PTE. LTD.",
+	"licensePeriod": "25/06/2016 to 24/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0102",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #08-22/23/24 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "JULIAN THENG THIAM SIEW",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"FRCOphth (Royal College of Ophthalmologists, United Kingdom) 1998",
+				"FRCSEd (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 1998",
+				"M Med (Ophth) (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "12C0102",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

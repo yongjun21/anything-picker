@@ -1,0 +1,56 @@
+{
+	"name": "REXULTS CLINIC",
+	"tel": "62355533",
+	"fax": "62358070",
+	"licensee": "EPIDERMA PTE. LTD.",
+	"licensePeriod": "28/07/2015 to 27/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405260",
+	"address": "302 ORCHARD ROAD, TONG BUILDING, #17-01 Singapore 238862",
+	"doctorInCharge": [
+		{
+			"name": "WONG EE PUI",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1971",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 1977",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1977",
+				"FRACS (Gen Surg) (Royal Australasian College of Surgeons, Australia) 1977",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 1979"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 07:00 pm",
+		"Tuesday": "09:00 am to 07:00 pm",
+		"Wednesday": "09:00 am to 07:00 pm",
+		"Thursday": "09:00 am to 07:00 pm",
+		"Friday": "09:00 am to 07:00 pm",
+		"Saturday": "09:00 am to 07:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405260",
+	"coordinates": [
+		103.8348274,
+		1.3039454
+	],
+	"svy21": [
+		28167.92,
+		31809.18
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

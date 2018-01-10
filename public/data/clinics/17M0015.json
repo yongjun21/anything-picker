@@ -1,0 +1,49 @@
+{
+	"name": "SATA COMMHEALTH TAMPINES MEDICAL CENTRE",
+	"tel": "67878030",
+	"fax": "67020649",
+	"licensee": "SATA COMMHEALTH",
+	"licensePeriod": "24/01/2017 to 23/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0015",
+	"address": "5 TAMPINES CENTRAL 6, TELEPARK, #01-01A Singapore 529482",
+	"doctorInCharge": [
+		{
+			"name": "Heng Boon Wah Joseph",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology",
+			"Diagnostic Radiology",
+			"Geriatric Medicine",
+			"Occupational Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "17M0015",
+	"coordinates": [
+		103.9420278,
+		1.3534413
+	],
+	"svy21": [
+		40098.11,
+		37282.45
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

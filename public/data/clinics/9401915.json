@@ -1,0 +1,42 @@
+{
+	"name": "Y T LIM CLINIC",
+	"tel": "67825977",
+	"fax": "67825977",
+	"licensee": "LIM YONG TEENG",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401915",
+	"address": "BLK 201B TAMPINES ST 21, #01-1067 Singapore 522201",
+	"doctorInCharge": [
+		{
+			"name": "LIM YONG TEENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9401915",
+	"coordinates": [
+		103.9530099,
+		1.3534532
+	],
+	"svy21": [
+		41320.3,
+		37283.82
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

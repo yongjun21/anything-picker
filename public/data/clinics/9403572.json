@@ -1,0 +1,49 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67325244",
+	"fax": "67325244",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "21/04/2014 to 20/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403572",
+	"address": "2 RIVER VALLEY GREEN,, RIVER VALLEY PRIMARY SCHOOL, Singapore 237993",
+	"doctorInCharge": [
+		{
+			"name": "LIM WANYI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403572",
+	"coordinates": [
+		103.8362937,
+		1.2938177
+	],
+	"svy21": [
+		28331.11,
+		30689.31
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

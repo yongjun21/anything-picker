@@ -1,0 +1,55 @@
+{
+	"name": "YS LAU CARDIOLOGY CLINIC PTE LTD",
+	"tel": "62512500",
+	"fax": "62512522",
+	"licensee": "YS LAU CARDIOLOGY CLINIC PTE. LTD.",
+	"licensePeriod": "26/06/2016 to 25/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0180",
+	"address": "820 THOMSON ROAD, MOUNT ALVERNIA HOSPITAL MEDICAL CENTRE D, #06-69 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "Lau Yung Sang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1989",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 1994"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "14M0180",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

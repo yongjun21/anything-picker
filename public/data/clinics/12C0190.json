@@ -1,0 +1,57 @@
+{
+	"name": "ISLAND FAMILY CLINIC (BEDOK)",
+	"tel": "62435871",
+	"fax": "62435871",
+	"licensee": "IFC BEDOK PTE. LTD.",
+	"licensePeriod": "11/09/2016 to 10/09/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0190",
+	"address": "BLK 763 BEDOK RESERVOIR VIEW, #01-283 Singapore 470763",
+	"doctorInCharge": [
+		{
+			"name": "Gan Meng San",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 01:00 pm, 06:00 pm to 11:00 pm",
+		"Monday": "08:30 am to 01:00 pm, 06:00 pm to 11:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 06:00 pm to 11:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 06:00 pm to 11:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 06:00 pm to 11:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 06:00 pm to 11:00 pm",
+		"Saturday": "08:30 am to 01:00 pm, 06:00 pm to 11:00 pm",
+		"Sunday": "08:30 am to 01:00 pm, 06:00 pm to 11:00 pm"
+	},
+	"id": "12C0190",
+	"coordinates": [
+		103.9348306,
+		1.3360721
+	],
+	"svy21": [
+		39297.22,
+		35361.81
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"name": "ELIAS FAMILY CLINIC & SURGERY",
+	"tel": "65847760",
+	"fax": "65846300",
+	"licensee": "CHUAH CHIN KHANG",
+	"licensePeriod": "26/05/2017 to 25/05/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400474",
+	"address": "BLK 625 ELIAS RD, #01-320 Singapore 510625",
+	"doctorInCharge": [
+		{
+			"name": "CHUAH CHIN KHANG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400474",
+	"coordinates": [
+		103.9419782,
+		1.3786024
+	],
+	"svy21": [
+		40092.46,
+		40064.64
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

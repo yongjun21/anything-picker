@@ -1,0 +1,59 @@
+{
+	"name": "SINCERE MEDICAL & DENTAL CLINIC",
+	"tel": "67525078",
+	"fax": "67523239",
+	"licensee": "TAN LEA KHIM",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401503",
+	"address": "BLK 292 YISHUN ST 22, #01-285 Singapore 760292",
+	"doctorInCharge": [
+		{
+			"name": "TAN LEA KHIM",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "08:30 am to 11:30 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9401503",
+	"coordinates": [
+		103.8369664,
+		1.4367248
+	],
+	"svy21": [
+		28405.95,
+		46491.24
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

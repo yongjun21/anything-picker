@@ -1,0 +1,56 @@
+{
+	"name": "FRONTIER MEDICAL ASSOCIATES",
+	"tel": "65665773",
+	"fax": "65665747",
+	"licensee": "FRONTIER MEDICAL PTE LTD",
+	"licensePeriod": "01/05/2014 to 30/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404145",
+	"address": "BLK 528 BUKIT BATOK STREET 51, #01-64 Singapore 650528",
+	"doctorInCharge": [
+		{
+			"name": "CHAN MIOW-SWAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm",
+		"Thursday": "08:30 am to 12:30 pm",
+		"Friday": "08:30 am to 12:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404145",
+	"coordinates": [
+		103.7510918,
+		1.3566515
+	],
+	"svy21": [
+		18849.11,
+		37637.3
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

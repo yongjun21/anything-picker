@@ -1,0 +1,55 @@
+{
+	"name": "KO FAMILY CLINIC",
+	"tel": "68421403",
+	"fax": "68421413",
+	"licensee": "GWCA PTE. LTD.",
+	"licensePeriod": "17/03/2014 to 16/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402623",
+	"address": "BLK 18 UPPER BOON KENG ROAD, #01-1133 Singapore 380018",
+	"doctorInCharge": [
+		{
+			"name": "KO HONG BENG GREGORY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "04:00 pm to 07:30 am",
+		"Tuesday": "08:30 am to 01:00 pm",
+		"Wednesday": "04:00 pm to 07:30 am",
+		"Thursday": "08:30 am to 01:00 pm",
+		"Friday": "04:00 pm to 07:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9402623",
+	"coordinates": [
+		103.8723015,
+		1.3148035
+	],
+	"svy21": [
+		32338.42,
+		33009.84
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"name": "VICTOR'S FAMILY CLINIC",
+	"tel": "63532885",
+	"fax": "63540258",
+	"licensee": "VICTOR'S FAMILY CLINIC",
+	"licensePeriod": "02/05/2015 to 01/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404436",
+	"address": "BLK 168 Toa Payoh Lorong 1, #01-1032 Singapore 310168",
+	"doctorInCharge": [
+		{
+			"name": "Teo Teck Leng Victor",
+			"qualifications": [
+				"MB ChB (University of Glasgow, United Kingdom) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "Closed",
+		"Public Holiday": "Closed",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9404436",
+	"coordinates": [
+		103.8434232,
+		1.3317664
+	],
+	"svy21": [
+		29124.54,
+		34885.48
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

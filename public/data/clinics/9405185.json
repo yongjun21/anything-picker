@@ -1,0 +1,48 @@
+{
+	"name": "TIONG BAHRU DENTAL SURGERY PTE. LTD.",
+	"tel": "62713083",
+	"fax": "62746618",
+	"licensee": "TIONG BAHRU DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "12/01/2016 to 11/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405185",
+	"address": "302 TIONG BAHRU ROAD, TIONG BAHRU PLAZA, #02-143 Singapore 168732",
+	"doctorInCharge": [
+		{
+			"name": "MOK TONG BEE",
+			"qualifications": [
+				"BDS (University of Adelaide, Australia) 1996",
+				"MFGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1999",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2002",
+				"MDS (National University of Singapore, Singapore) 2005",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2005",
+				"FAMS (Orthodontics) (Academy of Medicine, Singapore, Singapore) 2014"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"id": "9405185",
+	"coordinates": [
+		103.8270153,
+		1.2864589
+	],
+	"svy21": [
+		27298.49,
+		29875.61
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

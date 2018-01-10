@@ -1,0 +1,53 @@
+{
+	"name": "THE DENTAL PRACTICE (PAYA LEBAR)",
+	"tel": "67488678",
+	"fax": "67481886",
+	"licensee": "THE DENTAL PRACTICE (PAYA LEBAR) PTE. LTD.",
+	"licensePeriod": "04/10/2017 to 03/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0207",
+	"address": "10 EUNOS ROAD 8, SINGAPORE POST CENTRE, #02-123 Singapore 408600",
+	"doctorInCharge": [
+		{
+			"name": "Oh Chih Min",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2001",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2006"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15D0207",
+	"coordinates": [
+		103.8948949,
+		1.3189967
+	],
+	"svy21": [
+		34852.84,
+		33473.55
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

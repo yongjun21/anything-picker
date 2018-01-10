@@ -1,0 +1,47 @@
+{
+	"name": "SMILEFOCUS",
+	"tel": "67339882",
+	"fax": "67336426",
+	"licensee": "Dr Marcus Cooney & Associates Pte Ltd",
+	"licensePeriod": "06/09/2014 to 05/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403770",
+	"address": "1 Orchard Boulevard, Camden Medical Centre, #08-02/03 Singapore 248649",
+	"doctorInCharge": [
+		{
+			"name": "Bernard Siew",
+			"qualifications": [
+				"BDS (University of Adelaide, Australia) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 06:30 pm",
+		"Tuesday": "08:30 am to 06:30 pm",
+		"Wednesday": "08:30 am to 06:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:30 pm"
+	},
+	"id": "9403770",
+	"coordinates": [
+		103.8239072,
+		1.3031376
+	],
+	"svy21": [
+		26952.59,
+		31719.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

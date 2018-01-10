@@ -1,0 +1,44 @@
+{
+	"name": "THE HEART CLINIC",
+	"tel": "67373738",
+	"fax": "67338322",
+	"licensee": "KOH SIAM SOON PHILIP",
+	"licensePeriod": "03/09/2014 to 02/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403258",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #13-15 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "KOH SIAM SOON PHILIP",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"id": "9403258",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

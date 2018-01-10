@@ -1,0 +1,47 @@
+{
+	"name": "O MEDICAL CLINIC",
+	"tel": "63634434",
+	"fax": "62234436",
+	"licensee": "O MEDICAL AESTHETICS PTE. LTD.",
+	"licensePeriod": "06/07/2017 to 05/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0231",
+	"address": "15 STAMFORD ROAD, CAPITOL PIAZZA, #01-64 Singapore 178906",
+	"doctorInCharge": [
+		{
+			"name": "Chin Xu Yang",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "10:30 am to 08:30 pm",
+		"Tuesday": "10:30 am to 08:30 pm",
+		"Wednesday": "10:30 am to 08:30 pm",
+		"Thursday": "10:30 am to 08:30 pm",
+		"Friday": "10:30 am to 08:30 pm",
+		"Saturday": "10:30 am to 06:30 pm"
+	},
+	"id": "15M0231",
+	"coordinates": [
+		103.8507106,
+		1.2941621
+	],
+	"svy21": [
+		29935.58,
+		30727.4
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

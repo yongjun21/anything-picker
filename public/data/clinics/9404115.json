@@ -1,0 +1,58 @@
+{
+	"name": "RIVERVALE FAMILY CLINIC & SURGERY",
+	"tel": "63889762",
+	"fax": "63888753",
+	"licensee": "RIVERVALE CLINIC PTE. LTD.",
+	"licensePeriod": "15/03/2014 to 14/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404115",
+	"address": "BLK 118 RIVERVALE DRIVE, RIVERVALE PLAZA, #01-02 Singapore 540118",
+	"doctorInCharge": [
+		{
+			"name": "FOO TI-WEI",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 1997",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2002",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:00 am to 03:00 pm",
+		"Saturday": "08:00 am to 02:00 pm"
+	},
+	"id": "9404115",
+	"coordinates": [
+		103.901841,
+		1.3853374
+	],
+	"svy21": [
+		35625.67,
+		40809.19
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

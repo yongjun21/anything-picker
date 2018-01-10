@@ -1,0 +1,55 @@
+{
+	"name": "CN CHEW INTERNAL MEDICINE & GASTROENTEROLOGY CLINIC",
+	"tel": "63562607",
+	"fax": "63562609",
+	"licensee": "CHEW CHAY NOI",
+	"licensePeriod": "13/05/2015 to 12/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400305",
+	"address": "820 THOMSON RD, MOUNT ALVERNIA MEDICAL CENTRE BLK A, #01-05 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "CHEW CHAY NOI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1987",
+				"FAMS (Gastroenterology) (Academy of Medicine, Singapore) 1993"
+			],
+			"specialties": [
+				"Gastroenterology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Gastroenterology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 05:00 pm",
+		"Tuesday": "09:30 am to 05:00 pm",
+		"Wednesday": "09:30 am to 05:00 pm",
+		"Thursday": "09:30 am to 01:00 pm",
+		"Saturday": "09:30 am to 01:00 pm",
+		"Friday": "09:30 am to 05:00 pm"
+	},
+	"id": "9400305",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

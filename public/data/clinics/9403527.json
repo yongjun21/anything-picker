@@ -1,0 +1,52 @@
+{
+	"name": "GEYLANG SERAI CLINIC",
+	"tel": "63440878",
+	"fax": "63423265",
+	"licensee": "NG KOON KENG VICTOR",
+	"licensePeriod": "10/08/2015 to 09/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403527",
+	"address": "138 CHANGI RD, Singapore 419722",
+	"doctorInCharge": [
+		{
+			"name": "NG KOON KENG VICTOR",
+			"qualifications": [
+				"MB ChB (University of Dundee, United Kingdom) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 11:45 am",
+		"Tuesday": "08:30 am to 11:45 am",
+		"Wednesday": "08:30 am to 11:45 am",
+		"Thursday": "08:30 am to 11:45 am",
+		"Friday": "08:30 am to 11:45 am",
+		"Saturday": "08:30 am to 11:45 am"
+	},
+	"id": "9403527",
+	"coordinates": [
+		103.9016328,
+		1.3167026
+	],
+	"svy21": [
+		35602.71,
+		33219.91
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"name": "T32 DENTAL PEARL AT CLEMENTI",
+	"tel": "68730063",
+	"fax": "67338100",
+	"licensee": "T32 DENTAL PEARL AT CLEMENTI PTE. LTD.",
+	"licensePeriod": "12/11/2017 to 11/11/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "15D0384",
+	"address": "BLK 447 CLEMENTI AVENUE 3, #01-199 Singapore 120447",
+	"doctorInCharge": [
+		{
+			"name": "Narayanasamy Sivanesan",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Dental Public Health",
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Paediatric Dentistry",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 09:00 pm",
+		"Sunday": "09:00 am to 09:00 pm"
+	},
+	"id": "15D0384",
+	"coordinates": [
+		103.7648217,
+		1.3128704
+	],
+	"svy21": [
+		20376.94,
+		32796.16
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

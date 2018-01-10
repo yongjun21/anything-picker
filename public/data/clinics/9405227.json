@@ -1,0 +1,52 @@
+{
+	"name": "TH CHIA MEDICAL PRACTICE",
+	"tel": "62813268",
+	"fax": "62813268",
+	"licensee": "TH CHIA MEDICAL PRACTICE PTE. LTD.",
+	"licensePeriod": "01/07/2015 to 30/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405227",
+	"address": "BLK 151 SERANGOON NORTH AVENUE 2, #01-19 Singapore 550151",
+	"doctorInCharge": [
+		{
+			"name": "CHIA TAT HENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm"
+	},
+	"id": "9405227",
+	"coordinates": [
+		103.8737783,
+		1.3693454
+	],
+	"svy21": [
+		32502.68,
+		39040.81
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "FIRST CARE FAMILY CLINIC & SURGERY",
+	"tel": "64252350",
+	"fax": "64252351",
+	"licensee": "FIRST CARE FAMILY CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "03/11/2014 to 02/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403523",
+	"address": "BLK 253 JURONG EAST ST 24, #01-257 Singapore 600253",
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "08:00 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Sunday": "08:00 am to 01:00 pm, 06:00 pm to 10:00 pm"
+	},
+	"id": "9403523",
+	"coordinates": [
+		103.7367858,
+		1.3431884
+	],
+	"svy21": [
+		17256.94,
+		36148.67
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"name": "BISHAN GRACE CLINIC",
+	"tel": "62542232",
+	"fax": "63543287",
+	"licensee": "DR. GRACE PTE. LTD.",
+	"licensePeriod": "24/09/2016 to 23/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "12C0198",
+	"address": "BLK 150 BISHAN STREET 11, #01-151 Singapore 570150",
+	"doctorInCharge": [
+		{
+			"name": "Kwan Wai Chee Grace",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 03:00 pm",
+		"Thursday": "08:30 am to 02:00 pm",
+		"Friday": "08:30 am to 12:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "12C0198",
+	"coordinates": [
+		103.8552152,
+		1.3445294
+	],
+	"svy21": [
+		30436.86,
+		36296.76
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

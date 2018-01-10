@@ -1,0 +1,49 @@
+{
+	"name": "MY DOCTOR @ LAKESIDE",
+	"tel": "62657270",
+	"fax": "62652170",
+	"licensee": "GENERAL PRACTICE + SURGERY PTE. LTD.",
+	"licensePeriod": "13/08/2015 to 12/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405272",
+	"address": "BLK 201 BOON LAY WAY, LAKESIDE MRT STATION, #01-05 Singapore 649845",
+	"doctorInCharge": [
+		{
+			"name": "Ho Chee Wai Ernie",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 01:30 pm to 05:00 pm, 06:00 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 01:30 pm to 05:00 pm, 06:00 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 01:30 pm to 05:00 pm, 06:00 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 01:30 pm to 05:00 pm, 06:00 pm to 08:30 pm"
+	},
+	"id": "9405272",
+	"coordinates": [
+		103.7209491,
+		1.3442591
+	],
+	"svy21": [
+		15494.5,
+		36267.15
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"name": "W LUMAN DIGESTIVE AND LIVER CLINIC",
+	"tel": "67327710",
+	"fax": "67345256",
+	"licensee": "W.LUMAN DIGESTIVE AND LIVER CLINIC PTE. LTD.",
+	"licensePeriod": "29/07/2017 to 28/07/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9403989",
+	"address": "3 Mt Elizabeth, Mt Elizabeth Medical Centre, #09-01 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Widjaja Luman",
+			"qualifications": [
+				"MB ChB (University of Manchester, United Kingdom) 1988",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1991"
+			],
+			"specialties": [
+				"Gastroenterology"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Gastroenterology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9403989",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

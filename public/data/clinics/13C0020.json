@@ -1,0 +1,57 @@
+{
+	"name": "KIDNEYCARE DIALYSIS CENTRE @ PASIR RIS",
+	"tel": "65850288",
+	"fax": "65850082",
+	"licensee": "KIDNEYCARE CENTRE PTE. LTD.",
+	"licensePeriod": "24/01/2017 to 23/01/2018",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"hciCode": "13C0020",
+	"address": "BLK 625 ELIAS ROAD, ELIAS MALL, #01-306 Singapore 510625",
+	"doctorInCharge": [
+		{
+			"name": "Ng Tsun Gun",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2003",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2009",
+				"FAMS (Academy of Medicine, Singapore) 2010"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "07:00 am to 11:00 pm",
+		"Tuesday": "07:00 am to 11:00 pm",
+		"Wednesday": "07:00 am to 11:00 pm",
+		"Thursday": "07:00 am to 11:00 pm",
+		"Friday": "07:00 am to 11:00 pm",
+		"Saturday": "07:00 am to 11:00 pm"
+	},
+	"id": "13C0020",
+	"coordinates": [
+		103.9419782,
+		1.3786024
+	],
+	"svy21": [
+		40092.46,
+		40064.64
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "STAMFORD MEDICAL GROUP PTE LTD",
+	"tel": "62265502",
+	"fax": "62265052",
+	"licensee": "STAMFORD MEDICAL GROUP PTE LTD",
+	"licensePeriod": "27/03/2017 to 26/03/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "13C0069",
+	"address": "BLK 681 RACE COURSE ROAD, #01-303 Singapore 210681",
+	"doctorInCharge": [
+		{
+			"name": "Loo Chye Wang",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "13C0069",
+	"coordinates": [
+		103.8552727,
+		1.3137207
+	],
+	"svy21": [
+		30443.29,
+		32890.09
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

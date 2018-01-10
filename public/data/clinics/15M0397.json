@@ -1,0 +1,52 @@
+{
+	"name": "PROHEALTH MEDICAL GROUP @ HOUGANG PTE LTD",
+	"tel": "63847662",
+	"fax": "64720384",
+	"licensee": "PROHEALTH MEDICAL GROUP @HOUGANG PTE. LTD.",
+	"licensePeriod": "20/11/2017 to 19/11/2019",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "15M0397",
+	"address": "BLK 476D UPPER SERANGOON VIEW, #02-04 Singapore 537476",
+	"doctorInCharge": [
+		{
+			"name": "CHOI SAI WAI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 11:00 pm",
+		"Tuesday": "08:00 am to 11:00 pm",
+		"Wednesday": "08:00 am to 11:00 pm",
+		"Thursday": "08:00 am to 11:00 pm",
+		"Friday": "08:00 am to 11:00 pm",
+		"Saturday": "08:00 am to 11:00 pm",
+		"Sunday": "08:00 am to 11:00 pm"
+	},
+	"id": "15M0397",
+	"coordinates": [
+		103.9036238,
+		1.3779151
+	],
+	"svy21": [
+		35824.1,
+		39988.48
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

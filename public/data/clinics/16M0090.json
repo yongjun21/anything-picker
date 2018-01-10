@@ -1,0 +1,49 @@
+{
+	"name": "KINGSLEY CLINIC",
+	"tel": "66002688",
+	"fax": "66002688",
+	"licensee": "KINGSLEY SERVICES PTE. LTD.",
+	"licensePeriod": "01/05/2016 to 30/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0090",
+	"address": "190 YISHUN AVENUE 7, Singapore 768925",
+	"doctorInCharge": [
+		{
+			"name": "Chan Wei Chyet",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2003",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2009",
+				"Dip OM (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "16M0090",
+	"coordinates": [
+		103.8363138,
+		1.4416672
+	],
+	"svy21": [
+		28333.33,
+		47037.75
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

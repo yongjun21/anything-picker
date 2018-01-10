@@ -1,0 +1,51 @@
+{
+	"name": "WEN & WENG FAMILY CLINIC",
+	"tel": "62571198",
+	"fax": "62576502",
+	"licensee": "WEN & WENG FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "06/03/2016 to 05/03/2018",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
+	"hciCode": "12C0032",
+	"address": "BLK 505 CANBERRA LINK, #01-03 Singapore 750505",
+	"doctorInCharge": [
+		{
+			"name": "LEE TEE KIT",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:00 pm"
+	},
+	"id": "12C0032",
+	"coordinates": [
+		103.8225347,
+		1.450262
+	],
+	"svy21": [
+		26799.93,
+		47988.13
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	]
+}

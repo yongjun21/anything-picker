@@ -1,0 +1,62 @@
+{
+	"name": "PHILIP ENG RESPIRATORY & MEDICAL CLINIC",
+	"tel": "68360378",
+	"fax": "68369867",
+	"licensee": "Philip Eng Cher Tiew",
+	"licensePeriod": "15/05/2016 to 14/05/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9404854",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #14-14 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Philip Eng Cher Tiew",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1989",
+				"FAMS (Respiratory Med) (Academy of Medicine, Singapore) 1994",
+				"FCCP (American College of Chest Physicians, United States) 1994",
+				"FACP (Int Med) (American College of Physicians, United States) 1996",
+				"FRCP (Royal College of Physicians of London, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Intensive Care Medicine",
+			"Respiratory Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9404854",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "SKN MEDI AESTHETICS",
+	"tel": "67327658",
+	"fax": "67327659",
+	"licensee": "WONG FUNG WEAN",
+	"licensePeriod": "02/04/2016 to 01/04/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404806",
+	"address": "176 ORCHARD ROAD, THE CENTREPOINT, #03-21/22 Singapore 238843",
+	"doctorInCharge": [
+		{
+			"name": "WONG FUNG WEAN",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "10:30 am to 08:30 pm",
+		"Tuesday": "10:30 am to 08:30 pm",
+		"Wednesday": "10:30 am to 08:30 pm",
+		"Thursday": "10:30 am to 08:30 pm",
+		"Friday": "10:30 am to 08:30 pm",
+		"Saturday": "10:30 am to 08:30 pm",
+		"Sunday": "10:30 am to 08:30 pm"
+	},
+	"id": "9404806",
+	"coordinates": [
+		103.8397589,
+		1.301978
+	],
+	"svy21": [
+		28716.75,
+		31591.64
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

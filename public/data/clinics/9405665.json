@@ -1,0 +1,60 @@
+{
+	"name": "LIM ING HAAN CARDIOLOGY PTE LTD",
+	"tel": "62352050",
+	"fax": "62352060",
+	"licensee": "LIM ING HAAN CARDIOLOGY PTE. LTD.",
+	"licensePeriod": "05/08/2014 to 04/08/2019",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9405665",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #04-02 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Lim Ing Haan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2001",
+				"FACC (American College of Cardiology, United States) 2009",
+				"FAMS (Academy of Medicine, Singapore) 2009",
+				"FSCAI (Society for Cardiac Angiography and Interventions, United States) 2010",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2010"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology",
+			"Otorhinolaryngology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405665",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"name": "AGELESS MEDICAL CENTRE",
+	"tel": "81810680",
+	"fax": "67344011",
+	"licensee": "AGELESS WELLNESS PTE. LTD.",
+	"licensePeriod": "10/02/2017 to 09/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0046",
+	"address": "1 TANGLIN ROAD, ORCHARD PARADE HOTEL, #01-11 Singapore 247905",
+	"doctorInCharge": [
+		{
+			"name": "LAM BEE LAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "15M0046",
+	"coordinates": [
+		103.8277641,
+		1.3066133
+	],
+	"svy21": [
+		27381.84,
+		32104.18
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

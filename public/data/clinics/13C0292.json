@@ -1,0 +1,58 @@
+{
+	"name": "RENALTEAM DIALYSIS CENTRE TAMPINES",
+	"tel": "63973360",
+	"fax": "67856066",
+	"licensee": "RENALTEAM PTE. LTD.",
+	"licensePeriod": "29/10/2017 to 28/10/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "13C0292",
+	"address": "BLK 929 TAMPINES STREET 91, #01-441 Singapore 520929",
+	"doctorInCharge": [
+		{
+			"name": "PWEE HOCK SWEE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1965",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1971",
+				"MRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1971",
+				"FAMS (Academy of Medicine, Singapore) 1973",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1975"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "07:00 am to 11:00 pm",
+		"Tuesday": "07:00 am to 11:00 pm",
+		"Wednesday": "07:00 am to 11:00 pm",
+		"Thursday": "07:00 am to 11:00 pm",
+		"Friday": "07:00 am to 11:00 pm",
+		"Saturday": "07:00 am to 11:00 pm"
+	},
+	"id": "13C0292",
+	"coordinates": [
+		103.939614,
+		1.3463917
+	],
+	"svy21": [
+		39829.51,
+		36502.93
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "CARE DENTAL SURGERY",
+	"tel": "64585949",
+	"fax": "64554381",
+	"licensee": "LIM SWEE HOCK",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400170",
+	"address": "BLK 330 ANG MO KIO AVE 1, #01-1827 Singapore 560330",
+	"doctorInCharge": [
+		{
+			"name": "LIM SWEE HOCK",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "Closed",
+		"Tuesday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:30 am to 12:30 am",
+		"Sunday": "09:30 am to 12:30 am"
+	},
+	"id": "9400170",
+	"coordinates": [
+		103.8510307,
+		1.3624319
+	],
+	"svy21": [
+		29971.15,
+		38276.32
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

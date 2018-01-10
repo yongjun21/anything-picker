@@ -1,0 +1,45 @@
+{
+	"name": "HUA MEI CLINIC",
+	"tel": "65939530",
+	"fax": "65936531",
+	"licensee": "Tsao Foundation",
+	"licensePeriod": "26/12/2014 to 25/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405059",
+	"address": "298 TIONG BAHRU ROAD, CENTRAL PLAZA, #15-01 TO 06 Singapore 168730",
+	"doctorInCharge": [
+		{
+			"name": "Tan Sai Tiang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9405059",
+	"coordinates": [
+		103.8280935,
+		1.2862994
+	],
+	"svy21": [
+		27418.49,
+		29857.97
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

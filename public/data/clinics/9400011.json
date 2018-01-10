@@ -1,0 +1,56 @@
+{
+	"name": "AMPM FAMILY CLINIC & SURGERY PTE. LTD.",
+	"tel": "62530917",
+	"fax": "62599051",
+	"licensee": "AMPM FAMILY CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "06/06/2015 to 05/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400011",
+	"address": "BLK 123 TOA PAYOH LOR 1, #01-521 Singapore 310123",
+	"doctorInCharge": [
+		{
+			"name": "LIM MENG YONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "08:00 am to 01:00 pm",
+		"Sunday": "08:00 am to 01:00 pm"
+	},
+	"id": "9400011",
+	"coordinates": [
+		103.8457038,
+		1.338649
+	],
+	"svy21": [
+		29378.35,
+		35646.53
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

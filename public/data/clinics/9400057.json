@@ -1,0 +1,57 @@
+{
+	"name": "APOLLONIA DENTAL SURGERY",
+	"tel": "62256323",
+	"fax": "62233978",
+	"licensee": "Tay Lai Hock Alphonsus",
+	"licensePeriod": "26/12/2015 to 25/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400057",
+	"address": "BLK 1 TANJONG PAGAR PLAZA, #02-35 Singapore 082001",
+	"doctorInCharge": [
+		{
+			"name": "Tay Lai Hock Alphonsus",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1992",
+				"MSc (University of London, United Kingdom) 1995",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": [
+				"Periodontology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Periodontology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 07:00 pm",
+		"Tuesday": "09:00 am to 07:00 pm",
+		"Wednesday": "09:00 am to 07:00 pm",
+		"Thursday": "09:00 am to 07:00 pm",
+		"Friday": "09:00 am to 07:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400057",
+	"coordinates": [
+		103.8423932,
+		1.2755962
+	],
+	"svy21": [
+		29009.93,
+		28674.47
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

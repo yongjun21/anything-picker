@@ -1,0 +1,52 @@
+{
+	"name": "TAI DENTAL SURGERY (CHAI CHEE) PTE. LTD.",
+	"tel": "62441190",
+	"fax": "63484933",
+	"licensee": "WONG MIIN",
+	"licensePeriod": "12/01/2016 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401590",
+	"address": "BLK 25A CHAI CHEE RD, #01-465 Singapore 461025",
+	"doctorInCharge": [
+		{
+			"name": "WONG MIIN",
+			"qualifications": [
+				"Dental Therapist Exam (Institute of Dental Health, Singapore) 1985"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 08:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 08:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 08:00 pm",
+		"Thursday": "Closed",
+		"Sunday": "Closed",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 08:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9401590",
+	"coordinates": [
+		103.9241496,
+		1.3232896
+	],
+	"svy21": [
+		38108.59,
+		33948.34
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

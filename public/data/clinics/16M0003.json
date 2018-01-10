@@ -1,0 +1,58 @@
+{
+	"name": "THE CHOOLANI CLINIC",
+	"tel": "65702000",
+	"fax": "65702212",
+	"licensee": "CHOOLANI MEDICAL CONSULTING PTE. LTD.",
+	"licensePeriod": "06/01/2016 to 05/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0003",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #11-48 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "MAHESH ARJANDAS CHOOLANI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987",
+				"M Med (O&G) (National University of Singapore, Singapore) 1994",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1994",
+				"MRACOG (Royal Australian College of Obstetricians and Gynaecologists, Australia) 1995",
+				"FAMS (Academy of Medicine, Singapore) 1997",
+				"PhD (Family Medicine) (University of London, United Kingdom) 2002",
+				"FRANZCOG (Royal Australian and New Zealand College of O & G, Australia) 2003",
+				"FRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 06:00 pm"
+	},
+	"id": "16M0003",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

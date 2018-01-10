@@ -1,0 +1,56 @@
+{
+	"name": "SUMMIT MEDICAL CLINIC",
+	"tel": "64560060",
+	"fax": "64532143",
+	"licensee": "YAP GIM HONG",
+	"licensePeriod": "04/02/2015 to 03/02/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402420",
+	"address": "BLK 632 ANG MO KIO AVE 4, #01-956 Singapore 560632",
+	"doctorInCharge": [
+		{
+			"name": "YAP GIM HONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"M Med (Public Health) (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 01:30 pm to 03:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 01:30 pm to 03:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 01:30 pm to 03:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 01:30 pm to 03:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 01:30 pm to 03:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9402420",
+	"coordinates": [
+		103.8414324,
+		1.3799268
+	],
+	"svy21": [
+		28902.96,
+		40210.81
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

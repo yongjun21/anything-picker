@@ -1,0 +1,49 @@
+{
+	"name": "BEDOK TOWN DENTAL SURGERY",
+	"tel": "64466356",
+	"fax": "62450034",
+	"licensee": "BTDS PTE. LTD.",
+	"licensePeriod": "27/06/2017 to 26/06/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0161",
+	"address": "BLK 418 BEDOK NORTH AVE 2, #01-69 Singapore 460418",
+	"doctorInCharge": [
+		{
+			"name": "CHIN CHI ONN COLIN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 07:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 07:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "09:00 am to 02:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0161",
+	"coordinates": [
+		103.9300365,
+		1.3285642
+	],
+	"svy21": [
+		38763.72,
+		34531.61
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

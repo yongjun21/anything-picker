@@ -1,0 +1,53 @@
+{
+	"name": "THE DUBLIN CLINIC",
+	"tel": "67747300",
+	"fax": "67785311",
+	"licensee": "DUBLIN CLINIC PTE. LTD.",
+	"licensePeriod": "29/01/2014 to 28/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405467",
+	"address": "BLK 109 CLEMENTI STREET 11, #01-25 Singapore 120109",
+	"doctorInCharge": [
+		{
+			"name": "Teo Yi Jin",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 01:00 pm, 05:00 pm to 08:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 05:00 pm to 08:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 05:00 pm to 08:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 05:00 pm to 08:00 pm",
+		"Friday": "08:00 am to 01:00 pm",
+		"Saturday": "10:00 am to 01:00 pm",
+		"Sunday": "05:00 pm to 08:00 pm"
+	},
+	"id": "9405467",
+	"coordinates": [
+		103.7707761,
+		1.3219807
+	],
+	"svy21": [
+		21039.64,
+		33803.51
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

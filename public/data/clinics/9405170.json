@@ -1,0 +1,59 @@
+{
+	"name": "KO DJENG DENTAL CENTRE",
+	"tel": "67343163",
+	"fax": "68351151",
+	"licensee": "KO DJENG DENTAL CENTRE PTE LTD",
+	"licensePeriod": "11/05/2015 to 10/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405170",
+	"address": "304 ORCHARD ROAD, LUCKY PLAZA, #05-15 Singapore 238863",
+	"doctorInCharge": [
+		{
+			"name": "ONG HOE BOON",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995",
+				"MDSc (Orthodontics) (Melbourne) (University of Melbourne, Australia) 2000",
+				"Grad Dip Clin Dent (University of Melbourne, Australia) 2000",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2001",
+				"FAMS (Orthodontics) (Academy of Medicine, Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:30 pm"
+	},
+	"id": "9405170",
+	"coordinates": [
+		103.8339619,
+		1.3045061
+	],
+	"svy21": [
+		28071.6,
+		31871.17
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

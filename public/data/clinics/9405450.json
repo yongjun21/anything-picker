@@ -1,0 +1,53 @@
+{
+	"name": "SMILE LINK DENTAL PTE. LTD.",
+	"tel": "64537453",
+	"fax": "64537453",
+	"licensee": "Chung Chee Wah",
+	"licensePeriod": "19/01/2014 to 18/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405450",
+	"address": "BLK 452 Ang Mo Kio Ave 10, #01-1787 Singapore 560452",
+	"doctorInCharge": [
+		{
+			"name": "Chung Chee Wah",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm",
+		"Sunday": "09:00 am to 01:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 03:00 pm"
+	},
+	"id": "9405450",
+	"coordinates": [
+		103.8562008,
+		1.3688975
+	],
+	"svy21": [
+		30546.52,
+		38991.26
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

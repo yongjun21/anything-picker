@@ -1,0 +1,55 @@
+{
+	"name": "OUR FAMILY CLINIC + SURGERY",
+	"tel": "65851859",
+	"fax": "65821208",
+	"licensee": "UNIVERSAL HEALTH SERVICES PTE LTD",
+	"licensePeriod": "02/09/2014 to 01/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402365",
+	"address": "BLK 221 PASIR RIS ST 21, #01-116 Singapore 510221",
+	"doctorInCharge": [
+		{
+			"name": "MAH LI TING ADELINA",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402365",
+	"coordinates": [
+		103.9616147,
+		1.3701947
+	],
+	"svy21": [
+		42277.81,
+		39135.07
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

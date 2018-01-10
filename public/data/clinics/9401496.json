@@ -1,0 +1,51 @@
+{
+	"name": "SIMEI CLINIC & SURGERY",
+	"tel": "67855021",
+	"fax": "67879220",
+	"licensee": "SIMEI CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401496",
+	"address": "BLK 248 SIMEI ST 3, #01-132 Singapore 520248",
+	"doctorInCharge": [
+		{
+			"name": "NG TECK HWEE PETER",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:30 pm",
+		"Saturday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Sunday": "07:00 pm to 09:30 pm"
+	},
+	"id": "9401496",
+	"coordinates": [
+		103.9535411,
+		1.3435938
+	],
+	"svy21": [
+		41379.47,
+		36193.62
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

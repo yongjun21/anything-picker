@@ -1,0 +1,49 @@
+{
+	"name": "ADVANCED DENTAL CLINIC EAST COAST PTE LTD",
+	"tel": "66046646",
+	"fax": "00000000",
+	"licensee": "advanced dental clinic east coast pte ltd",
+	"licensePeriod": "05/07/2016 to 04/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0197",
+	"address": "BLK 17 BEDOK SOUTH ROAD, #01-569 Singapore 460017",
+	"doctorInCharge": [
+		{
+			"name": "Chua Chew Kiat, Simon Jude",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "16D0197",
+	"coordinates": [
+		103.9355635,
+		1.3201488
+	],
+	"svy21": [
+		39378.86,
+		33601.1
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"name": "MY FAMILY CLINIC (PIONEER)",
+	"tel": "68611182",
+	"fax": "68623880",
+	"licensee": "My Family Clinic (PN) Pte. Ltd.",
+	"licensePeriod": "14/09/2014 to 13/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403738",
+	"address": "BLK 638 Jurong West St 61, Pioneer Mall, #02-09 Singapore 640638",
+	"doctorInCharge": [
+		{
+			"name": "Yeo Thoont Kiat",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9403738",
+	"coordinates": [
+		103.6971748,
+		1.3416924
+	],
+	"svy21": [
+		12848.66,
+		35983.47
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

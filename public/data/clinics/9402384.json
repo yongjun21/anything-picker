@@ -1,0 +1,48 @@
+{
+	"name": "ESA CLINIC",
+	"tel": "65482939",
+	"fax": "65482958",
+	"licensee": "EAGLE SERVICES ASIA PRIVATE LIMITED",
+	"licensePeriod": "10/03/2017 to 12/10/2018",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "9402384",
+	"address": "51 CALSHOT ROAD, Singapore 509927",
+	"doctorInCharge": [
+		{
+			"name": "RICK CHAN WEI CHYET",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2003",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2009",
+				"Dip OM (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 11:30 am",
+		"Tuesday": "08:30 am to 11:30 am",
+		"Wednesday": "08:30 am to 11:30 am",
+		"Thursday": "08:30 am to 11:30 am",
+		"Friday": "08:30 am to 11:30 am"
+	},
+	"id": "9402384",
+	"coordinates": [
+		103.9807844,
+		1.3748414
+	],
+	"svy21": [
+		44411.14,
+		39649
+	],
+	"planningArea": "CH",
+	"neighbours": [
+		"PR",
+		"TM",
+		"CB"
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"name": "DR LAM'S DENTAL SURGERY",
+	"tel": "63464988",
+	"fax": "63453718",
+	"licensee": "DR LAM'S DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "27/12/2014 to 26/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404328",
+	"address": "473 Joo Chiat Road, Singapore 427681",
+	"doctorInCharge": [
+		{
+			"name": "Lam Chee Wai",
+			"qualifications": [
+				"BDSc (University of Queensland, Australia) 1991",
+				"MDSc (University of Melbourne, Australia) 1997"
+			],
+			"specialties": [
+				"Prosthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 08:00 pm",
+		"Tuesday": "09:00 am to 08:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 05:00 pm"
+	},
+	"id": "9404328",
+	"coordinates": [
+		103.9047627,
+		1.3064374
+	],
+	"svy21": [
+		35951.07,
+		32084.84
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

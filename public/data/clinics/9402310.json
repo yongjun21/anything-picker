@@ -1,0 +1,54 @@
+{
+	"name": "EAST COAST FAMILY CLINIC",
+	"tel": "64404556",
+	"fax": "63483858",
+	"licensee": "VASWANI CHELARAM @ DR VASWANI MOTI HASSARAM",
+	"licensePeriod": "24/07/2016 to 23/07/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9402310",
+	"address": "121 MEYER ROAD, THE MAKENA, #01-05 Singapore 437932",
+	"doctorInCharge": [
+		{
+			"name": "KIRAN KASHYAP",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 03:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 03:00 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "08:30 am to 03:00 pm, 06:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 03:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9402310",
+	"coordinates": [
+		103.8944461,
+		1.2976927
+	],
+	"svy21": [
+		34802.95,
+		31117.86
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

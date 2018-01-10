@@ -1,0 +1,45 @@
+{
+	"name": "SBCC BABY & CHILD CLINIC",
+	"tel": "63863688",
+	"fax": "63863680",
+	"licensee": "SBCC CLINIC PTE LTD",
+	"licensePeriod": "17/07/2017 to 16/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0180",
+	"address": "BLK 805 HOUGANG CENTRAL, #01-112 Singapore 530805",
+	"doctorInCharge": [
+		{
+			"name": "Seng Yi-Chern",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"MRCP (Paed) (Royal College of Physicians, United Kingdom) 1998"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"id": "13C0180",
+	"coordinates": [
+		103.8943566,
+		1.3706833
+	],
+	"svy21": [
+		34792.79,
+		39188.8
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

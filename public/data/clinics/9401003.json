@@ -1,0 +1,46 @@
+{
+	"name": "LOK DENTIST",
+	"tel": "62250176",
+	"fax": "62250176",
+	"licensee": "LOK WAN CHEE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401003",
+	"address": "34 CRAIG RD, CHINATOWN PLAZA, #01-04 Singapore 089673",
+	"doctorInCharge": [
+		{
+			"name": "LOK WAN CHEE",
+			"qualifications": [
+				""
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm",
+		"Friday": "02:00 pm to 07:00 pm",
+		"Saturday": "09:00 am to 02:00 pm"
+	},
+	"id": "9401003",
+	"coordinates": [
+		103.8420916,
+		1.278666
+	],
+	"svy21": [
+		28976.37,
+		29013.91
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

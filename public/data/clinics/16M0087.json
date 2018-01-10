@@ -1,0 +1,53 @@
+{
+	"name": "ONECARE CLINIC TAMPINES",
+	"tel": "64435938",
+	"fax": "64435708",
+	"licensee": "Onecare Clinic Tampines Pte Ltd",
+	"licensePeriod": "02/04/2016 to 01/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0087",
+	"address": "BLK 827 TAMPINES STREET 81, #01-142 Singapore 520827",
+	"doctorInCharge": [
+		{
+			"name": "Lim Kay Hui",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 03:00 pm, 05:00 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 03:00 pm, 05:00 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 03:00 pm, 05:00 pm to 10:00 pm",
+		"Thursday": "08:00 am to 03:00 pm, 05:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 03:00 pm, 05:00 pm to 10:00 pm",
+		"Saturday": "08:00 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Sunday": "08:00 am to 01:00 pm, 06:00 pm to 10:00 pm"
+	},
+	"id": "16M0087",
+	"coordinates": [
+		103.9337192,
+		1.3497215
+	],
+	"svy21": [
+		39173.48,
+		36871.09
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

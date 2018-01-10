@@ -1,0 +1,55 @@
+{
+	"name": "FIRST LIGHT FAMILY CLINIC & SURGERY",
+	"tel": "65603930",
+	"fax": "65609970",
+	"licensee": "Chayansak Virabhak",
+	"licensePeriod": "31/03/2014 to 30/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403551",
+	"address": "BLK 272 Bukit Batok East Avenue 4, #01-72 Singapore 650272",
+	"doctorInCharge": [
+		{
+			"name": "Chayansak Virabhak",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 02:00 pm, 07:00 pm to 09:30 pm",
+		"Tuesday": "09:00 am to 02:00 pm, 07:00 pm to 09:30 pm",
+		"Wednesday": "09:00 am to 02:00 pm, 07:00 pm to 09:30 pm",
+		"Thursday": "09:00 am to 02:00 pm, 07:00 pm to 09:30 pm",
+		"Friday": "09:00 am to 02:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9403551",
+	"coordinates": [
+		103.7578647,
+		1.3487903
+	],
+	"svy21": [
+		19602.82,
+		36768.03
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

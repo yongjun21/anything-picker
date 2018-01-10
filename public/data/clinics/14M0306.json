@@ -1,0 +1,58 @@
+{
+	"name": "MY FAMILY CLINIC (ANCHORVALE)",
+	"tel": "67023963",
+	"fax": "66977755",
+	"licensee": "MY FAMILY CLINIC (ANCHORVALE) PTE LTD",
+	"licensePeriod": "08/10/2016 to 07/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0306",
+	"address": "BLK 326A ANCHORVALE ROAD, #01-260 Singapore 541326",
+	"doctorInCharge": [
+		{
+			"name": "Au Min Wei Leonard",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2003",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "Closed",
+		"Tuesday": "Closed",
+		"Wednesday": "Closed",
+		"Thursday": "Closed",
+		"Friday": "Closed",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "14M0306",
+	"coordinates": [
+		103.8880001,
+		1.3949142
+	],
+	"svy21": [
+		34085.33,
+		41868.11
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"name": "ROWELL CLINIC & SURGERY",
+	"tel": "62920338",
+	"fax": "62920338",
+	"licensee": "SNG LUI CHENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401410",
+	"address": "BLK 642 ROWELL ROAD, #01-115 Singapore 200642",
+	"doctorInCharge": [
+		{
+			"name": "SNG LUI CHENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "9401410",
+	"coordinates": [
+		103.8564952,
+		1.3077805
+	],
+	"svy21": [
+		30579.35,
+		32233.25
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"name": "TC FAMILY CLINIC PTE LTD",
+	"tel": "65666687",
+	"fax": "65666687",
+	"licensee": "TC FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "31/03/2014 to 30/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402481",
+	"address": "BLK 526 JURONG WEST ST 52, #01-325 Singapore 640526",
+	"doctorInCharge": [
+		{
+			"name": "CHAN TENG MUI TAMMY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm",
+		"Thursday": "09:00 am to 12:30 pm",
+		"Friday": "06:30 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9402481",
+	"coordinates": [
+		103.7170484,
+		1.3476719
+	],
+	"svy21": [
+		15060.41,
+		36644.54
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

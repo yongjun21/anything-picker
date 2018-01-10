@@ -1,0 +1,43 @@
+{
+	"name": "GLAD CLINIC",
+	"licensee": "Glad Clinic Pte Ltd",
+	"licensePeriod": "05/10/2016 to 04/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0310",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH HOSPITAL, #11-13 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Chang Kin Yong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"MRCS (Surgery) (Royal College of Surgeons of Edinburgh, United Kingdom) 2000",
+				"M Med (Surg) (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"id": "16M0310",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"name": "RICHARD CHEW SURGERY PTE LTD",
+	"tel": "62356088",
+	"fax": "64436616",
+	"licensee": "RICHARD CHEW SURGERY PTE LTD",
+	"licensePeriod": "30/04/2017 to 29/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0126",
+	"address": "1 FARRER PARK STATION ROAD, FARRER PARK MEDICAL CENTRE CONNEXION, #08-07 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "chew kim Huat",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1975",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 1979",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1979",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1979",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 1984"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"id": "15M0126",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

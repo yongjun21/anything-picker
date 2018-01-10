@@ -1,0 +1,52 @@
+{
+	"name": "THE S.K.MED CLINIC",
+	"tel": "67772018",
+	"fax": "67781817",
+	"licensee": "Tan Hsin Hui Louisa",
+	"licensePeriod": "27/09/2016 to 26/09/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0210",
+	"address": "154 WEST COAST ROAD, WEST COAST PLAZA, #01-80 Singapore 127371",
+	"doctorInCharge": [
+		{
+			"name": "Tan Hsin Hui Louisa",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2004",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2008",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "11:30 am to 05:00 pm, 05:30 pm to 07:30 pm",
+		"Tuesday": "11:30 am to 05:00 pm, 05:30 pm to 07:30 pm",
+		"Wednesday": "11:30 am to 05:00 pm, 05:30 pm to 07:30 pm",
+		"Thursday": "11:30 am to 05:00 pm, 05:30 pm to 07:30 pm",
+		"Friday": "11:30 am to 05:00 pm, 05:30 pm to 07:30 pm",
+		"Saturday": "10:00 am to 04:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "12C0210",
+	"coordinates": [
+		103.7661313,
+		1.3036975
+	],
+	"svy21": [
+		20522.67,
+		31781.87
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

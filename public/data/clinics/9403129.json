@@ -1,0 +1,52 @@
+{
+	"name": "SINGHEALTH POLYCLINICS - TAMPINES",
+	"tel": "66436969",
+	"fax": "67833132",
+	"licensee": "SINGHEALTH POLYCLINICS",
+	"licensePeriod": "26/06/2017 to 25/06/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403129",
+	"address": "1 TAMPINES STREET 41, TAMPINES POLYCLINIC, Singapore 529203",
+	"doctorInCharge": [
+		{
+			"name": "PAUL GOH SOO CHYE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1994",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2000",
+				"FAMS (Academy of Medicine, Singapore) 2014"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:00 am to 12:30 pm"
+	},
+	"id": "9403129",
+	"coordinates": [
+		103.9458495,
+		1.35731
+	],
+	"svy21": [
+		40523.4,
+		37710.25
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

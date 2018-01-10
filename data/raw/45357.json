@@ -1,6 +1,6 @@
 {
 	"name": "Q & M MEDICAL CLINIC (BUKIT BATOK)",
-	"tel": "65099558",
+	"tel": "65653866",
 	"fax": "65099568",
 	"licensee": "Q & M MEDICAL CLINIC (BUKIT BATOK) PTE. LTD.",
 	"licensePeriod": "10/02/2016 to 09/02/2018",
@@ -21,5 +21,9 @@
 	},
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)"
-	]
+	],
+	"operatingHours": {
+		"Monday to Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Saturday and Sunday": "08:30 am to 12:30 am"
+	}
 }

@@ -1,0 +1,49 @@
+{
+	"name": "NAM AH DENTIST",
+	"tel": "62511210",
+	"fax": "62511210",
+	"licensee": "Ng Kah Hock",
+	"licensePeriod": "14/09/2015 to 13/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405294",
+	"address": "BLK 509 BEDOK NORTH STREET 3, #01-95 Singapore 460509",
+	"doctorInCharge": [
+		{
+			"name": "Ng Kah Hock",
+			"qualifications": [
+				"Dental Therapist Exam (Institute of Dental Health, Singapore) 1985"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405294",
+	"coordinates": [
+		103.931265,
+		1.3331754
+	],
+	"svy21": [
+		38900.42,
+		35041.5
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

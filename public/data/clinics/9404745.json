@@ -1,0 +1,44 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "68861887",
+	"fax": "68861887",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "03/03/2014 to 02/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404745",
+	"address": "50 EDGEDALE PLAINS,, GREENDALE PRIMARY SCHOOL, Singapore 828848",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9404745",
+	"coordinates": [
+		103.912341,
+		1.3964876
+	],
+	"svy21": [
+		36794.15,
+		42042.17
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

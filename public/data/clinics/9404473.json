@@ -1,0 +1,55 @@
+{
+	"name": "SATA COMMHEALTH UTTAMRAM MEDICAL CENTRE",
+	"tel": "62446688",
+	"fax": "62443023",
+	"licensee": "SATA CommHealth",
+	"licensePeriod": "18/06/2015 to 17/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404473",
+	"address": "351 CHAI CHEE STREET, Singapore 468982",
+	"doctorInCharge": [
+		{
+			"name": "GLENN CHERYL LATHA",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 2003"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404473",
+	"coordinates": [
+		103.9213914,
+		1.3277429
+	],
+	"svy21": [
+		37801.61,
+		34440.76
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

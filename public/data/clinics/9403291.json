@@ -1,0 +1,57 @@
+{
+	"name": "EYE CARE CLINIC BUKIT BATOK",
+	"tel": "63526888",
+	"fax": "68960060",
+	"licensee": "Ho Kee Wai Tony",
+	"licensePeriod": "20/12/2014 to 19/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403291",
+	"address": "BLK 280 BT BATOK EAST AVE 3, #01-331 Singapore 650280",
+	"doctorInCharge": [
+		{
+			"name": "HO KEE WAI TONY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"FRCS (Ophth) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1988",
+				"FRCOphth (Royal College of Ophthalmologists, United Kingdom) 1988",
+				"FAMS (Ophth) (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "Closed",
+		"Wednesday": "Closed",
+		"Tuesday": "04:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 11:00 am",
+		"Friday": "Closed",
+		"Saturday": "08:30 am to 10:30 am",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403291",
+	"coordinates": [
+		103.7570446,
+		1.3477015
+	],
+	"svy21": [
+		19511.55,
+		36647.63
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

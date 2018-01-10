@@ -1,0 +1,50 @@
+{
+	"name": "K K TAN MEDICAL CLINIC",
+	"tel": "64558839",
+	"fax": "64558839",
+	"licensee": "TAN KOK KHENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400799",
+	"address": "BLK 284 BISHAN ST 22, #01-209 Singapore 570284",
+	"doctorInCharge": [
+		{
+			"name": "TAN KOK KHENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:45 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Tuesday": "08:45 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Wednesday": "08:45 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Thursday": "08:45 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Friday": "08:45 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400799",
+	"coordinates": [
+		103.8441505,
+		1.3588667
+	],
+	"svy21": [
+		29205.47,
+		37882.09
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

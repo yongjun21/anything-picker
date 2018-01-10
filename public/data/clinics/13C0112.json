@@ -1,0 +1,48 @@
+{
+	"name": "LE PRIVATE CLINIC -MEDICAL AND LASER AESTHETICS-",
+	"tel": "67335755",
+	"fax": "64635980",
+	"licensee": "LE PRIVATE CLINIC PTE. LTD.",
+	"licensePeriod": "09/05/2017 to 08/05/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0112",
+	"address": "9 SCOTTS ROAD, #08-04 Singapore 228210",
+	"doctorInCharge": [
+		{
+			"name": "Lew Yi Ling (Liu Yiling)",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2008"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 07:00 pm",
+		"Tuesday": "10:00 am to 07:00 pm",
+		"Wednesday": "10:00 am to 07:00 pm",
+		"Thursday": "10:00 am to 07:00 pm",
+		"Friday": "10:00 am to 07:00 pm",
+		"Saturday": "10:00 am to 01:30 pm"
+	},
+	"id": "13C0112",
+	"coordinates": [
+		103.8321282,
+		1.306547
+	],
+	"svy21": [
+		27867.52,
+		32096.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

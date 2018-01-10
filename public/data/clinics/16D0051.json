@@ -1,0 +1,38 @@
+{
+	"name": "HEALTHWAY DENTAL CLINIC",
+	"tel": "67789793",
+	"fax": "67789521",
+	"licensee": "AARON SEOW INTERNATIONAL PTE LTD",
+	"licensePeriod": "01/03/2016 to 28/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0051",
+	"address": "BLK 41 HOLLAND DRIVE, #01-07 Singapore 270041",
+	"doctorInCharge": [
+		{
+			"name": "Lee Hock Leong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "16D0051",
+	"coordinates": [
+		103.7934635,
+		1.30762
+	],
+	"svy21": [
+		23564.5,
+		32215.53
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

@@ -3,8 +3,8 @@
 	"tel": "63156882",
 	"fax": "63152392",
 	"licensee": "Q & M DENTAL SURGERY (HOUGANG MALL) PTE. LTD.",
-	"licensePeriod": "11/10/2015 to 10/10/2017",
-	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"licensePeriod": "11/10/2017 to 10/10/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
 	"hciCode": "13D0275",
 	"address": "10 SENGKANG CENTRAL, BUANGKOK MRT STATION, #01-01 Singapore 545061",
 	"doctorInCharge": [
@@ -17,7 +17,10 @@
 		}
 	],
 	"detailedServices": {
-		"General Dental": true
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
 	},
 	"operatingHours": {
 		"Monday to Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"

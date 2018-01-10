@@ -1,0 +1,47 @@
+{
+	"name": "DERMATOLOGY & SURGERY CLINIC",
+	"tel": "67332668",
+	"fax": "63421586",
+	"licensee": "DERMATOLOGY & SURGERY CLINIC (ORCHARD) PTE. LTD.",
+	"licensePeriod": "09/05/2016 to 08/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0114",
+	"address": "290 ORCHARD ROAD, PARAGON, #15-09 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Ee Hock Leong",
+			"qualifications": [
+				"MB ChB (University of Sheffield, United Kingdom) 1998",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 2001"
+			],
+			"specialties": [
+				"Dermatology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Dermatology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "14M0114",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

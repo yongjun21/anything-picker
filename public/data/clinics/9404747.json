@@ -1,0 +1,49 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67528332",
+	"fax": "67528332",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "03/03/2014 to 02/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404747",
+	"address": "20 Compassvale Link,, North Vista Primary School, Singapore 544974",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9404747",
+	"coordinates": [
+		103.8959619,
+		1.3828224
+	],
+	"svy21": [
+		34971.4,
+		40531.09
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

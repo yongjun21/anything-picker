@@ -1,0 +1,53 @@
+{
+	"name": "PROCROSS MEDICAL CENTRE",
+	"tel": "67022848",
+	"fax": "67022840",
+	"licensee": "SEEDS OF NATIONS HEALTH SERVICES PTE. LTD.",
+	"licensePeriod": "11/12/2016 to 10/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0372",
+	"address": "BLK 449 HOUGANG AVENUE 10, #B1-509 Singapore 530449",
+	"doctorInCharge": [
+		{
+			"name": "Ho Kay Chun Caleb",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "12:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "12:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "12:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "12:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "12:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "14M0372",
+	"coordinates": [
+		103.8951536,
+		1.378781
+	],
+	"svy21": [
+		34881.46,
+		40084.2
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

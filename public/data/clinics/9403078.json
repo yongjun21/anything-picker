@@ -1,0 +1,56 @@
+{
+	"name": "SP CLINIC",
+	"tel": "67660286",
+	"fax": "67667074",
+	"licensee": "CHIN SIEW PANG",
+	"licensePeriod": "01/08/2015 to 31/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403078",
+	"address": "BLK 117 PENDING RD, #01-224 Singapore 670117",
+	"doctorInCharge": [
+		{
+			"name": "CHIN SIEW PANG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2008"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:00 am to 03:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "08:00 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9403078",
+	"coordinates": [
+		103.7679793,
+		1.3773013
+	],
+	"svy21": [
+		20728.55,
+		39920.59
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

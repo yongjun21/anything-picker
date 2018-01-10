@@ -1,0 +1,45 @@
+{
+	"name": "SUMMIT MEDICAL CLINIC",
+	"licensee": "TEO WEE LIAT DANIEL",
+	"licensePeriod": "12/04/2015 to 11/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402249",
+	"address": "BLK 134 Jurong Gateway Road, #01-307 Singapore 600134",
+	"doctorInCharge": [
+		{
+			"name": "TEO WEE LIAT DANIEL",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 11:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 11:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 11:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 11:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 11:00 pm"
+	},
+	"id": "9402249",
+	"coordinates": [
+		103.7388192,
+		1.3339941
+	],
+	"svy21": [
+		17483.2,
+		35132.01
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

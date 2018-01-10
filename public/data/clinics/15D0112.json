@@ -1,0 +1,52 @@
+{
+	"name": "THE BRACES PRACTICE",
+	"tel": "64632306",
+	"fax": "64632307",
+	"licensee": "THE BRACES PRACTICE PTE. LTD.",
+	"licensePeriod": "22/04/2017 to 21/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0112",
+	"address": "12A LORONG MAMBONG, HOLLAND VILLAGE, Singapore 277676",
+	"doctorInCharge": [
+		{
+			"name": "Lih Wei-Song",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"MDS (Orthodontics) (Singapore) (National University of Singapore, Singapore) 2012",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "Closed",
+		"Tuesday": "11:00 am to 09:00 pm",
+		"Wednesday": "11:00 am to 09:00 pm",
+		"Thursday": "11:00 am to 09:00 pm",
+		"Friday": "11:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "15D0112",
+	"coordinates": [
+		103.7952433,
+		1.3113155
+	],
+	"svy21": [
+		23762.58,
+		32624.16
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"name": "FAMILYCARE CLINIC AND SURGERY",
+	"tel": "64487326",
+	"fax": "64487326",
+	"licensee": "LEE KOK LEONG PHILLIP",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400527",
+	"address": "BLK 55 CHAI CHEE DRIVE, #01-188 Singapore 460055",
+	"doctorInCharge": [
+		{
+			"name": "LEE KOK LEONG PHILLIP",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978",
+				"MCGP (Family Med) (College of General Practitioners, Malaysia) 1985",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 1986",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400527",
+	"coordinates": [
+		103.9190156,
+		1.3268484
+	],
+	"svy21": [
+		37537.21,
+		34341.84
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

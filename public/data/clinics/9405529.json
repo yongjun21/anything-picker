@@ -1,0 +1,58 @@
+{
+	"name": "K M HENG WOMEN'S CLINIC PTE LTD",
+	"tel": "67425155",
+	"fax": "68423868",
+	"licensee": "K M HENG WOMEN'S CLINIC PTE. LTD.",
+	"licensePeriod": "29/03/2016 to 28/03/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405529",
+	"address": "270 SIMS AVENUE, Singapore 387514",
+	"doctorInCharge": [
+		{
+			"name": "HENG KEOK MENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1979",
+				"M Med (O&G) (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 04:00 pm",
+		"Tuesday": "08:30 am to 04:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm",
+		"Thursday": "08:30 am to 04:00 pm",
+		"Friday": "08:30 am to 04:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405529",
+	"coordinates": [
+		103.8832653,
+		1.3150387
+	],
+	"svy21": [
+		33558.59,
+		33035.87
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"name": "ETERN MEDICAL CLINIC (FERNVALE PALM)",
+	"tel": "66047224",
+	"fax": "66047660",
+	"licensee": "ETERN MEDICAL FERNVALE PALM PTE. LTD.",
+	"licensePeriod": "15/04/2016 to 14/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0083",
+	"address": "BLK 432A SENGKANG WEST WAY, #01-03 Singapore 791432",
+	"doctorInCharge": [
+		{
+			"name": "Lye Tin Fong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2006",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2008"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm",
+		"Wednesday": "06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 12:30 pm",
+		"Friday": "06:30 pm to 09:30 pm"
+	},
+	"id": "14M0083",
+	"coordinates": [
+		103.8772023,
+		1.3947505
+	],
+	"svy21": [
+		32883.68,
+		41849.98
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "ACUMED MEDICAL GROUP",
+	"tel": "65701390",
+	"fax": "65701395",
+	"licensee": "ACUMED MEDICAL PTE. LTD.",
+	"licensePeriod": "06/01/2016 to 05/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0004",
+	"address": "128 TUAS SOUTH AVENUE 3, JTC BIOMED ONE @ TUAS BIOMEDICAL PARK, #01-03 Singapore 637370",
+	"doctorInCharge": [
+		{
+			"name": "Sukhvinder Singh",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 01:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "16M0004",
+	"coordinates": [
+		103.6265246,
+		1.2890946
+	],
+	"svy21": [
+		4985.53,
+		30167.99
+	],
+	"planningArea": "TS",
+	"neighbours": [
+		"PN",
+		"WC"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "SUPREME DENTAL SURGERY",
+	"tel": "64529541",
+	"fax": "64529535",
+	"licensee": "LEONG ANN JOON JOEL",
+	"licensePeriod": "11/04/2015 to 10/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403946",
+	"address": "BLK 157 Ang Mo Kio Avenue 4, #01-554 Singapore 560157",
+	"doctorInCharge": [
+		{
+			"name": "LEONG ANN JOON JOEL",
+			"qualifications": [
+				"BDSc (University of Western Australia, Australia) 1994",
+				"MSc (University of London, United Kingdom) 1998"
+			],
+			"specialties": [
+				"Periodontology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 08:30 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 08:30 pm",
+		"Thursday": "09:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 08:30 pm"
+	},
+	"id": "9403946",
+	"coordinates": [
+		103.8393951,
+		1.3753056
+	],
+	"svy21": [
+		28676.24,
+		39699.82
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

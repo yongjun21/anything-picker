@@ -1,0 +1,50 @@
+{
+	"name": "REVIVAL MEDICAL CENTRE",
+	"tel": "63972472",
+	"fax": "63972473",
+	"licensee": "REVIVAL MEDICAL (SINGAPORE) PTE. LTD.",
+	"licensePeriod": "31/07/2017 to 30/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0267",
+	"address": "10 SINARAN DRIVE, SQUARE 2, #10-31 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Chan Bingyi",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 05:00 pm",
+		"Tuesday": "10:00 am to 05:00 pm",
+		"Wednesday": "10:00 am to 05:00 pm",
+		"Thursday": "10:00 am to 05:00 pm",
+		"Friday": "10:00 am to 05:00 pm",
+		"Saturday": "10:00 am to 02:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15M0267",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

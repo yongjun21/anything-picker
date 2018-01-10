@@ -1,0 +1,53 @@
+{
+	"name": "HEART AND ARRHYTHMIA SPECIALIST CLINIC",
+	"tel": "64751003",
+	"fax": "64751005",
+	"licensee": "K S Ng Cardiology Pte. Ltd.",
+	"licensePeriod": "01/06/2015 to 31/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405196",
+	"address": "6 Napier Road, Gleneagles Medical Centre, #03-04 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Ng Kheng Siang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405196",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

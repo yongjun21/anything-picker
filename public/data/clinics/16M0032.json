@@ -1,0 +1,41 @@
+{
+	"name": "SINGHEALTH POLYCLINICS",
+	"tel": "63450049",
+	"licensee": "SINGHEALTH POLYCLINICS",
+	"licensePeriod": "03/02/2016 to 02/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0032",
+	"address": "BLK 80 MARINE PARADE CENTRAL, #01-792, #02-101/103 Singapore 440080",
+	"doctorInCharge": [
+		{
+			"name": "Koong Ying Leng Agnes",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0032",
+	"coordinates": [
+		103.9077388,
+		1.302482
+	],
+	"svy21": [
+		36282.3,
+		31647.49
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

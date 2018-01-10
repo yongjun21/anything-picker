@@ -1,0 +1,47 @@
+{
+	"name": "IMMANUEL DIALYSIS CENTRE (WOODLANDS) PTE LTD",
+	"tel": "63641448",
+	"fax": "63642280",
+	"licensee": "IMMANUEL DIALYSIS CENTRE (WOODLANDS) PTE. LTD.",
+	"licensePeriod": "18/02/2016 to 17/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13C0130",
+	"address": "BLK 166 WOODLANDS STREET 13, #02-521 Singapore 730166",
+	"doctorInCharge": [
+		{
+			"name": "Chew Tec Huan Stephen",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1995",
+				"FAMS (Renal Medicine) (Academy of Medicine, Singapore) 2004"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"id": "13C0130",
+	"coordinates": [
+		103.7754005,
+		1.4336333
+	],
+	"svy21": [
+		21554.59,
+		46149.49
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

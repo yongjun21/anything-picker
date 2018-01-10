@@ -1,0 +1,51 @@
+{
+	"name": "HAIG SPECIALIST MEDICAL CLINIC PTE LTD.",
+	"tel": "64400180",
+	"fax": "63488801",
+	"licensee": "Haig Specialist Medical Clinic Pte Ltd",
+	"licensePeriod": "24/04/2015 to 23/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405157",
+	"address": "319 JOO CHIAT PLACE, PARKWAY EAST MEDICAL CENTRE, #03-01 Singapore 427989",
+	"doctorInCharge": [
+		{
+			"name": "Mukund S/O Harkishandas R Doshi",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1979",
+				"FAMS (Int Med) (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Internal Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Yellow Fever Vaccination": true,
+		"Specialist Medical": [
+			"Intensive Care Medicine",
+			"Internal Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9405157",
+	"coordinates": [
+		103.9089659,
+		1.3151173
+	],
+	"svy21": [
+		36418.82,
+		33044.64
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"name": "THE CLINIC @ ONE GEORGE STREET",
+	"tel": "64385322",
+	"fax": "64381575",
+	"licensee": "THE CLINIC @ ONE GEORGE STREET PTE. LTD.",
+	"licensePeriod": "13/05/2014 to 12/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405584",
+	"address": "1 GEORGE STREET, (LOBBY C), #05-05 Singapore 049145",
+	"doctorInCharge": [
+		{
+			"name": "WONG MEI WAH DEBORAH",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 am to 06:00 am",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 am to 06:00 am",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 am to 06:00 am",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 am to 06:00 am",
+		"Friday": "08:30 am to 01:00 pm, 02:00 am to 06:00 am"
+	},
+	"id": "9405584",
+	"coordinates": [
+		103.84782,
+		1.2856941
+	],
+	"svy21": [
+		29613.88,
+		29791.04
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

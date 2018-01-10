@@ -1,0 +1,57 @@
+{
+	"name": "EYE CLINIC JURONG",
+	"tel": "65613003",
+	"fax": "65613003",
+	"licensee": "Eye Clinic Singapore International Pte. Ltd.",
+	"licensePeriod": "16/11/2013 to 15/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404624",
+	"address": "BLK 463 Jurong West Street 41, #01-576 Singapore 640463",
+	"doctorInCharge": [
+		{
+			"name": "Law Ngai Mun",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983",
+				"FRCS (Ophth) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1988",
+				"FRCOphth (Royal College of Ophthalmologists, United Kingdom) 1989",
+				"FAMS (Ophth) (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 11:00 am",
+		"Tuesday": "07:00 pm to 09:00 pm",
+		"Wednesday": "07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 11:00 am",
+		"Friday": "07:00 pm to 09:00 pm",
+		"Saturday": "01:00 pm to 03:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404624",
+	"coordinates": [
+		103.7232411,
+		1.350577
+	],
+	"svy21": [
+		15749.61,
+		36965.73
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

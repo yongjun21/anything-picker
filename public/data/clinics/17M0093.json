@@ -1,0 +1,45 @@
+{
+	"name": "ONECARE CLINIC LOYANG",
+	"tel": "63522639",
+	"fax": "63582691",
+	"licensee": "ONECARE CLINIC LOYANG PTE. LTD.",
+	"licensePeriod": "06/04/2017 to 05/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0093",
+	"address": "BLK 258 PASIR RIS STREET 21, LOYANG POINT, #02-14 Singapore 510258",
+	"doctorInCharge": [
+		{
+			"name": "Lim Kay Hui",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "17M0093",
+	"coordinates": [
+		103.9646322,
+		1.3670736
+	],
+	"svy21": [
+		42613.65,
+		38789.97
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

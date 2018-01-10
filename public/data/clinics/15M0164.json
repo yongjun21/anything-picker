@@ -1,0 +1,55 @@
+{
+	"name": "IN SURGERY",
+	"tel": "62502127",
+	"fax": "63488163",
+	"licensee": "Imran Nawaz",
+	"licensePeriod": "03/06/2017 to 02/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0164",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #10-42 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Imran Nawaz",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1987",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1987",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 1995"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "15M0164",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"name": "SATA COMMHEALTH ANG MO KIO MEDICAL CENTRE",
+	"tel": "62446688",
+	"fax": "64590448",
+	"licensee": "SATA CommHealth",
+	"licensePeriod": "19/05/2017 to 18/05/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405187",
+	"address": "BLK 715 ANG MO KIO AVENUE 6, #01-4008 & 4010 Singapore 560715",
+	"doctorInCharge": [
+		{
+			"name": "Tang Teck Ung",
+			"qualifications": [
+				"MBBS (University of New South Wales, Australia) 1999",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2006"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9405187",
+	"coordinates": [
+		103.845928,
+		1.3709973
+	],
+	"svy21": [
+		29403.27,
+		39223.43
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

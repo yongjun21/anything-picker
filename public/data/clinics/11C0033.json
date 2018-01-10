@@ -1,0 +1,51 @@
+{
+	"name": "PARAMOUNT DENTAL CLINIC",
+	"tel": "62889147",
+	"fax": "62889473",
+	"licensee": "V-NEO DENTAL PTE. LTD.",
+	"licensePeriod": "18/03/2017 to 17/03/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "11C0033",
+	"address": "BLK 108 HOUGANG AVENUE 1, #01-1275 Singapore 530108",
+	"doctorInCharge": [
+		{
+			"name": "Wong Chin Wee",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 09:00 pm"
+	},
+	"id": "11C0033",
+	"coordinates": [
+		103.8900932,
+		1.3527739
+	],
+	"svy21": [
+		34318.37,
+		37208.46
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

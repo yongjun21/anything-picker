@@ -1,0 +1,55 @@
+{
+	"name": "HAND SURGERY ASSOCIATES",
+	"tel": "66905690",
+	"fax": "64697165",
+	"licensee": "CPT HAND PTE. LTD.",
+	"licensePeriod": "24/09/2016 to 23/09/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0200",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #10-51/ 52/ 53 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Tan Ter Chyan",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1995",
+				"MRCSEd (Royal College of Surgeons of Edinburgh, United Kingdom) 2001",
+				"M Med (Ortho Surg) (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Hand Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Hand Surgery",
+			"Orthopaedic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "12C0200",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

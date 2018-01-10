@@ -1,0 +1,47 @@
+{
+	"name": "KEAT HONG FAMILY MEDICINE CLINIC",
+	"tel": "65606600",
+	"fax": "67692390",
+	"licensee": "TRILINK HEALTHCARE PTE. LTD.",
+	"licensePeriod": "03/04/2017 to 02/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0091",
+	"address": "2 CHOA CHU KANG LOOP, KEAT HONG COMMUNITY CLUB, #03-02 Singapore 689687",
+	"doctorInCharge": [
+		{
+			"name": "Loke Kam Weng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1999",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "17M0091",
+	"coordinates": [
+		103.7449494,
+		1.3840959
+	],
+	"svy21": [
+		18165.63,
+		40671.99
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

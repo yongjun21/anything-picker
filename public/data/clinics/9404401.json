@@ -1,0 +1,49 @@
+{
+	"name": "ALLERGY, ARTHRITIS & RHEUMATISM CLINIC",
+	"tel": "63335550",
+	"fax": "64741847",
+	"licensee": "Cheng Yew Kuang",
+	"licensePeriod": "26/03/2015 to 25/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404401",
+	"address": "6 Napier Road, Gleneagles Medical Centre, #09-02/03 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Yew Kuang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2001"
+			],
+			"specialties": [
+				"Rheumatology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Rheumatology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9404401",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

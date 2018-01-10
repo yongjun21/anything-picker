@@ -1,0 +1,57 @@
+{
+	"name": "ONECARE CLINIC YISHUN",
+	"tel": "63342373",
+	"fax": "63342374",
+	"licensee": "ONECARE CLINIC YISHUN PTE. LTD.",
+	"licensePeriod": "14/01/2017 to 13/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0011",
+	"address": "BLK 431 YISHUN AVENUE 1, MULTI STOREY CAR PARK, #01-04 Singapore 760431",
+	"doctorInCharge": [
+		{
+			"name": "Lim Kay Hui",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 01:00 pm to 04:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 01:00 pm to 04:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 01:00 pm to 04:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 01:00 pm to 04:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 01:00 pm to 04:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Public Holiday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm"
+	},
+	"id": "15M0011",
+	"coordinates": [
+		103.8475894,
+		1.4202633
+	],
+	"svy21": [
+		29588.14,
+		44671.03
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

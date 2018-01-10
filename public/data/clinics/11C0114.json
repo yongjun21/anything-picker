@@ -1,0 +1,54 @@
+{
+	"name": "KANG CLINIC",
+	"tel": "64811044",
+	"fax": "64811044",
+	"licensee": "J&J MEDICAL ASSOCIATES PTE. LTD.",
+	"licensePeriod": "03/08/2015 to 02/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0114",
+	"address": "229 JALAN KAYU, Singapore 799453",
+	"doctorInCharge": [
+		{
+			"name": "TAN CHENG TEE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1965"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm",
+		"Thursday": "08:30 am to 12:00 pm",
+		"Friday": "08:30 am to 12:00 pm",
+		"Saturday": "08:30 am to 12:00 pm"
+	},
+	"id": "11C0114",
+	"coordinates": [
+		103.8728032,
+		1.395987
+	],
+	"svy21": [
+		32394.11,
+		41986.7
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

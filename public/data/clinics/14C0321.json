@@ -1,0 +1,53 @@
+{
+	"name": "ELITE DENTAL GROUP",
+	"tel": "63334456",
+	"fax": "65637524",
+	"licensee": "ELITE DENTAL GROUP PTE. LTD.",
+	"licensePeriod": "28/09/2016 to 27/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14C0321",
+	"address": "1 GRANGE ROAD, ORCHARD BUILDING, #12-03 Singapore 239693",
+	"doctorInCharge": [
+		{
+			"name": "Tan Teck Siang, Gerald",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2003",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2008",
+				"MJDF RCS (England) (Royal College of Surgeons of England, United Kingdom) 2008"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Dental Public Health",
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Paediatric Dentistry",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"id": "14C0321",
+	"coordinates": [
+		103.8373592,
+		1.3013988
+	],
+	"svy21": [
+		28449.68,
+		31527.59
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

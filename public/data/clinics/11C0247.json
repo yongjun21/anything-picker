@@ -1,0 +1,50 @@
+{
+	"name": "Q & M DENTAL SURGERY (TOH YI)",
+	"tel": "67627660",
+	"fax": "64622270",
+	"licensee": "Q & M DENTAL SURGERY (BUKIT PANJANG) PTE. LTD.",
+	"licensePeriod": "30/12/2015 to 29/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0247",
+	"address": "BLK 19 TOH YI DRIVE, #01-123 Singapore 590019",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "11C0247",
+	"coordinates": [
+		103.7738977,
+		1.3399627
+	],
+	"svy21": [
+		21387.09,
+		35791.86
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

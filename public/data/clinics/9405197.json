@@ -1,0 +1,57 @@
+{
+	"name": "IMPLANTDONTICS COSMETIC AND IMPLANT DENTISTRY",
+	"tel": "67377022",
+	"fax": "68367546",
+	"licensee": "IMPLANTDONTICS PTE. LTD.",
+	"licensePeriod": "01/06/2015 to 31/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405197",
+	"address": "1 ORCHARD BOULEVARD, CAMDEN MEDICAL CENTRE, #10-02 Singapore 248649",
+	"doctorInCharge": [
+		{
+			"name": "Dennis Leong Kok Mun",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1984",
+				"CERT PROSTHODONTICS (University of Northwestern, United States) 1993",
+				"MS (University of Northwestern, United States) 1993"
+			],
+			"specialties": [
+				"Prosthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:30 pm"
+	},
+	"id": "9405197",
+	"coordinates": [
+		103.8239072,
+		1.3031376
+	],
+	"svy21": [
+		26952.59,
+		31719.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

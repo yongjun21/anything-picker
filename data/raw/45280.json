@@ -1,9 +1,10 @@
 {
 	"name": "AEGIS DIALYSIS CENTRE PTE LTD",
 	"tel": "62573812",
+	"fax": "62573816",
 	"licensee": "AEGIS DIALYSIS CENTRE PTE. LTD.",
-	"licensePeriod": "23/11/2015 to 22/11/2017",
-	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"licensePeriod": "23/11/2017 to 22/11/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
 	"hciCode": "15M0400",
 	"address": "BLK 716 YISHUN STREET 71, #01-272 Singapore 760716",
 	"doctorInCharge": [
@@ -24,6 +25,8 @@
 	],
 	"detailedServices": {
 		"General Medical": true,
-		"Specialist Medical": []
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
 	}
 }

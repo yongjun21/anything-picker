@@ -1,0 +1,56 @@
+{
+	"name": "KONG CLINIC & SURGERY PTE LTD",
+	"tel": "67521401",
+	"fax": "67580136",
+	"licensee": "Kong Clinic & Surgery Pte. Ltd.",
+	"licensePeriod": "18/12/2016 to 17/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404321",
+	"address": "BLK 293 Yishun St 22, #01-223 Singapore 760293",
+	"doctorInCharge": [
+		{
+			"name": "Kong Sin Ming",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm, 12:00 pm to 04:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 12:00 pm to 04:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 12:00 pm to 04:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 12:00 pm to 04:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 12:00 pm to 04:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404321",
+	"coordinates": [
+		103.8376052,
+		1.4361143
+	],
+	"svy21": [
+		28477.04,
+		46423.74
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

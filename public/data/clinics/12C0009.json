@@ -1,0 +1,49 @@
+{
+	"name": "LAKESIDE DENTIST PTE LTD",
+	"tel": "65658161",
+	"fax": "65658161",
+	"licensee": "LAKESIDE DENTIST PTE. LTD.",
+	"licensePeriod": "25/01/2016 to 24/01/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0009",
+	"address": "BLK 342 JURONG EAST ST 31, #01-05 Singapore 600342",
+	"doctorInCharge": [
+		{
+			"name": "HOR CHUN LAY",
+			"qualifications": [
+				"Dental Therapist Exam (Institute of Dental Health, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 08:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 08:00 pm",
+		"Friday": "Closed",
+		"Sunday": "Closed",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
+	"id": "12C0009",
+	"coordinates": [
+		103.73142,
+		1.3460516
+	],
+	"svy21": [
+		16659.81,
+		36465.3
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

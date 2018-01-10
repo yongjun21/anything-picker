@@ -1,0 +1,58 @@
+{
+	"name": "HEALTHWERKZ MEDICAL CENTRE @ ORCHARD",
+	"tel": "67345987",
+	"fax": "67345977",
+	"licensee": "AMELIO MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "30/09/2017 to 29/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0334",
+	"address": "9 SCOTTS ROAD, PACIFIC PLAZA, #11-02 Singapore 228210",
+	"doctorInCharge": [
+		{
+			"name": "Kay Aih Boon Erwin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2007",
+				"Dip(Child Health)(IPPC) (University of Sydney, Australia) 2013",
+				"GDMH (National University of Singapore, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "10:00 am to 06:00 pm",
+		"Tuesday": "10:00 am to 06:00 pm",
+		"Wednesday": "10:00 am to 06:00 pm",
+		"Thursday": "10:00 am to 06:00 pm",
+		"Friday": "10:00 am to 06:00 pm",
+		"Saturday": "10:00 am to 02:00 pm"
+	},
+	"id": "15M0334",
+	"coordinates": [
+		103.8321282,
+		1.306547
+	],
+	"svy21": [
+		27867.52,
+		32096.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

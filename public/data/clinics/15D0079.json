@@ -1,0 +1,52 @@
+{
+	"name": "MANCHESTER DENTAL CARE",
+	"tel": "64436268",
+	"fax": "67489321",
+	"licensee": "MANCHESTER DENTAL CARE PTE. LTD.",
+	"licensePeriod": "26/03/2017 to 25/03/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "15D0079",
+	"address": "BLK 631 BEDOK RESERVOIR ROAD, #01-946 Singapore 470631",
+	"doctorInCharge": [
+		{
+			"name": "Khoo Huan Ding",
+			"qualifications": [
+				"BDS (University of Manchester, United Kingdom) 2009",
+				"(The Prince Philip Dental Hospital Hong Kong, China, Hong Kong) 2011"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 07:30 pm",
+		"Wednesday": "09:00 am to 07:30 pm",
+		"Thursday": "09:00 am to 07:30 pm",
+		"Saturday": "09:00 am to 02:00 pm",
+		"Sunday": "09:00 am to 02:00 pm"
+	},
+	"id": "15D0079",
+	"coordinates": [
+		103.9149418,
+		1.3329592
+	],
+	"svy21": [
+		37083.82,
+		35017.53
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

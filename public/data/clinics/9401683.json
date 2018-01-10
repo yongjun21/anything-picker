@@ -1,0 +1,55 @@
+{
+	"name": "THE DOCTOR'S CLINIC",
+	"tel": "65669901",
+	"fax": "00000000",
+	"licensee": "LOW WILKIE",
+	"licensePeriod": "18/01/2014 to 17/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401683",
+	"address": "BLK 429 JURONG WEST AVE 1, #01-318 Singapore 640429",
+	"doctorInCharge": [
+		{
+			"name": "LOW WILKIE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9401683",
+	"coordinates": [
+		103.7244968,
+		1.3519251
+	],
+	"svy21": [
+		15889.36,
+		37114.8
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

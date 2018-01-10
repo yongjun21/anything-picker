@@ -1,0 +1,56 @@
+{
+	"name": "PLUSHEALTH MEDICAL CLINIC & SURGERY",
+	"tel": "62647845",
+	"fax": "92775331",
+	"licensee": "PLUS HEALTH PTE. LTD.",
+	"licensePeriod": "15/07/2016 to 14/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0210",
+	"address": "89 WHAMPOA DRIVE, #01-841 Singapore 320089",
+	"doctorInCharge": [
+		{
+			"name": "Kee Bang Heng",
+			"qualifications": [
+				"MD (University Kebangsaan Malaysia, Malaysia) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "16M0210",
+	"coordinates": [
+		103.8549886,
+		1.3236391
+	],
+	"svy21": [
+		30411.65,
+		33986.82
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

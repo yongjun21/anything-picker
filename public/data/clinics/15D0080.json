@@ -1,0 +1,48 @@
+{
+	"name": "ADVANCED DENTAL CLINIC JURONG WEST PTE LTD",
+	"tel": "65650054",
+	"fax": "00000000",
+	"licensee": "ADVANCED DENTAL CLINIC JURONG WEST PRIVATE LIMITED",
+	"licensePeriod": "26/03/2017 to 25/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0080",
+	"address": "BLK 498 JURONG WEST STREET 41, #01-482 Singapore 640498",
+	"doctorInCharge": [
+		{
+			"name": "SNG TIAP CHING MATTHEW",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 pm to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 pm to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 pm to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 pm to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 pm to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 pm to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:00 pm to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "15D0080",
+	"coordinates": [
+		103.7243073,
+		1.3483334
+	],
+	"svy21": [
+		15868.25,
+		36717.64
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

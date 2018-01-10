@@ -1,0 +1,52 @@
+{
+	"name": "CORPORATION CLINIC (CHOA CHU KANG)",
+	"tel": "67643085",
+	"fax": "67640931",
+	"licensee": "Quek Peng Kiang",
+	"licensePeriod": "01/07/2014 to 30/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400325",
+	"address": "BLK 253 Choa Chu Kang Ave 1, #01-21 Singapore 680253",
+	"doctorInCharge": [
+		{
+			"name": "Quek Peng Kiang",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm"
+	},
+	"id": "9400325",
+	"coordinates": [
+		103.7443936,
+		1.3773661
+	],
+	"svy21": [
+		18103.76,
+		39927.84
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

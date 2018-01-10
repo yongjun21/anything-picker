@@ -1,0 +1,43 @@
+{
+	"name": "IRRAWADDY CLINIC",
+	"licensee": "E2E Pte Ltd",
+	"licensePeriod": "17/10/2016 to 16/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0321",
+	"address": "111 NORTH BRIDGE ROAD, PENINSULA PLAZA, #04-36 Singapore 179098",
+	"doctorInCharge": [
+		{
+			"name": "Nikolle Tan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997",
+				"M Med (Ophth) (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"id": "16M0321",
+	"coordinates": [
+		103.8508034,
+		1.2923176
+	],
+	"svy21": [
+		29945.9,
+		30523.45
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

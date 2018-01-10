@@ -15,10 +15,16 @@
 				"Dip (Family Med) (National University of Singapore, Singapore) 2015",
 				"PG Dip (Practical Derm) (Cardiff University, United Kingdom) 2015"
 			],
-			"specialties": []
+			"specialties": [
+				"Family Physician"
+			]
 		}
 	],
 	"detailedServices": {
 		"General Medical": true
-	}
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	]
 }

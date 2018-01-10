@@ -1,0 +1,60 @@
+{
+	"name": "FRESENIUS MEDICAL CARE TOA PAYOH DIALYSIS CLINIC",
+	"tel": "63565592",
+	"fax": "63565593",
+	"licensee": "FRESENIUS MEDICAL CARE SINGAPORE PTE. LTD.",
+	"licensePeriod": "13/06/2016 to 12/06/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "14C0157",
+	"address": "BLK 92 LORONG 4 TOA PAYOH, #01-280 Singapore 310092",
+	"doctorInCharge": [
+		{
+			"name": "Lye Wai Choong",
+			"qualifications": [
+				"MBBS (University of New South Wales, Australia) 1983",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1987",
+				"FAMS (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "06:30 am to 10:30 pm",
+		"Tuesday": "06:30 am to 10:30 pm",
+		"Wednesday": "06:30 am to 10:30 pm",
+		"Thursday": "06:30 am to 10:30 pm",
+		"Friday": "06:30 am to 10:30 pm",
+		"Saturday": "06:30 am to 10:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "14C0157",
+	"coordinates": [
+		103.8494572,
+		1.3380708
+	],
+	"svy21": [
+		29796.05,
+		35582.59
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

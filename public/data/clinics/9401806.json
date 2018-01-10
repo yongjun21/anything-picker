@@ -1,0 +1,49 @@
+{
+	"name": "UNITED FAMILY CLINIC",
+	"tel": "64572523",
+	"fax": "64572523",
+	"licensee": "NG CHOON HEE",
+	"licensePeriod": "16/01/2014 to 15/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401806",
+	"address": "BLK 163 ANG MO KIO AVE 4, #01-416 Singapore 560163",
+	"doctorInCharge": [
+		{
+			"name": "NG CHOON HEE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9401806",
+	"coordinates": [
+		103.8381765,
+		1.3735485
+	],
+	"svy21": [
+		28540.62,
+		39505.53
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

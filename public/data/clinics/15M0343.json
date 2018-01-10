@@ -1,0 +1,51 @@
+{
+	"name": "MOUNT ALVERNIA OUTREACH MEDICAL CLINIC",
+	"tel": "64735100",
+	"fax": "63476632",
+	"licensee": "REVEREND MOTHER SUPERIOR OF THE FRANCISCAN MISSIONARIES OF THE DIVINE MOTHERHOOD IN MALAYA",
+	"licensePeriod": "02/10/2017 to 01/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0343",
+	"address": "20 LENGKOK BAHRU, #01-03 Singapore 159053",
+	"doctorInCharge": [
+		{
+			"name": "Terence Tan Li Wen",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "12:00 pm to 04:00 pm, 05:00 pm to 08:00 pm",
+		"Wednesday": "12:00 pm to 04:00 pm, 05:00 pm to 08:00 pm",
+		"Thursday": "12:00 pm to 04:00 pm, 05:00 pm to 08:00 pm"
+	},
+	"id": "15M0343",
+	"coordinates": [
+		103.8148181,
+		1.287366
+	],
+	"svy21": [
+		25941.06,
+		29975.92
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

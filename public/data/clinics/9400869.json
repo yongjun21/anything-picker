@@ -1,0 +1,55 @@
+{
+	"name": "KOH'S T & T CLINIC AND SURGERY PTE. LTD.",
+	"tel": "63823103",
+	"fax": "63823103",
+	"licensee": "KOH'S T & T CLINIC AND SURGERY PTE. LTD.",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400869",
+	"address": "BLK 237 SERANGOON AVE 3, #01-126 Singapore 550237",
+	"doctorInCharge": [
+		{
+			"name": "KOH MEOW LENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:00 am to 12:00 pm",
+		"Saturday": "08:00 am to 12:00 pm",
+		"Thursday": "08:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400869",
+	"coordinates": [
+		103.8701346,
+		1.353812
+	],
+	"svy21": [
+		32097.2,
+		37323.2
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

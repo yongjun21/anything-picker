@@ -1,0 +1,53 @@
+{
+	"name": "BABY & CHILD MEDICAL GROUP PTE LTD",
+	"tel": "67831955",
+	"fax": "67834028",
+	"licensee": "LOKE HING LENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400092",
+	"address": "BLK 828 TAMPINES ST 81, #01-238 Singapore 520828",
+	"doctorInCharge": [
+		{
+			"name": "LOKE HING LENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978",
+				"M Med (Paed) (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:30 am, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400092",
+	"coordinates": [
+		103.9345881,
+		1.3489308
+	],
+	"svy21": [
+		39270.18,
+		36783.67
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

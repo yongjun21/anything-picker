@@ -1,0 +1,55 @@
+{
+	"name": "ADIDAH FAMILY CLINIC & SURGERY",
+	"tel": "67845435",
+	"fax": "67845435",
+	"licensee": "ADIDAH BTE HASSAN",
+	"licensePeriod": "19/01/2016 to 18/01/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400018",
+	"address": "BLK 821 TAMPINES ST 81, #01-210 Singapore 520821",
+	"doctorInCharge": [
+		{
+			"name": "ADIDAH BTE HASSAN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1979"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:15 pm, 02:30 pm to 06:30 pm",
+		"Tuesday": "09:00 am to 12:15 pm, 02:30 pm to 06:30 pm",
+		"Wednesday": "09:00 am to 12:15 pm, 02:30 pm to 06:30 pm",
+		"Thursday": "09:00 am to 12:15 pm",
+		"Saturday": "09:00 am to 12:15 pm",
+		"Friday": "09:00 am to 12:15 pm, 02:30 pm to 04:30 pm",
+		"Sunday": "09:00 am to 12:15 pm"
+	},
+	"id": "9400018",
+	"coordinates": [
+		103.9346491,
+		1.3484198
+	],
+	"svy21": [
+		39276.97,
+		36727.16
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

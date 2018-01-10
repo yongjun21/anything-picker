@@ -1,0 +1,53 @@
+{
+	"name": "ANNE'S BABY AND CHILD CLINIC",
+	"tel": "65667216",
+	"fax": "65667216",
+	"licensee": "CHONG SU YAN ANNE",
+	"licensePeriod": "16/10/2015 to 15/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400049",
+	"address": "BLK 214 JURONG EAST STREET 21, #01-433 Singapore 600214",
+	"doctorInCharge": [
+		{
+			"name": "CHONG SU YAN ANNE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983",
+				"M Med (Paed) (National University of Singapore, Singapore) 1989",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 1993"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 06:30 pm to 08:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 06:30 pm to 08:30 pm"
+	},
+	"id": "9400049",
+	"coordinates": [
+		103.7389852,
+		1.3392863
+	],
+	"svy21": [
+		17501.7,
+		35717.19
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

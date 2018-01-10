@@ -1,0 +1,47 @@
+{
+	"name": "HEALTHWAY HOUGANG CENTRAL CLINIC",
+	"tel": "63437620",
+	"fax": "63437621",
+	"licensee": "HEALTHWAY MEDICAL GROUP PTE LTD",
+	"licensePeriod": "30/05/2016 to 29/05/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404148",
+	"address": "90 Hougang Avenue 10, Hougang Mall, #04-06 Singapore 538766",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9404148",
+	"coordinates": [
+		103.8937756,
+		1.3724949
+	],
+	"svy21": [
+		34728.12,
+		39389.12
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

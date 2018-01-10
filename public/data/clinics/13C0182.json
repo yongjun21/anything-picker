@@ -1,0 +1,47 @@
+{
+	"name": "CHUA KAY HIAN DENTAL SURGERY",
+	"tel": "62711122",
+	"fax": "62711122",
+	"licensee": "Chua Ru Hong",
+	"licensePeriod": "22/07/2017 to 21/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0182",
+	"address": "BLK 131 JALAN BUKIT MERAH, #01-1587 Singapore 160131",
+	"doctorInCharge": [
+		{
+			"name": "Chua Ru Hong",
+			"qualifications": [
+				"BDSc (University of Queensland, Australia) 2011"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "13C0182",
+	"coordinates": [
+		103.8281784,
+		1.2801894
+	],
+	"svy21": [
+		27427.94,
+		29182.36
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

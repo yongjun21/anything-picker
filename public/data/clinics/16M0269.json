@@ -1,0 +1,37 @@
+{
+	"name": "SMRT MEDICAL CLINIC @ WOODLANDS DEPOT",
+	"tel": "63333636",
+	"fax": "66725688",
+	"licensee": "FULLERTON HEALTHCARE GROUP PTE. LIMITED",
+	"licensePeriod": "08/09/2016 to 07/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0269",
+	"address": "60 Woodlands Industrial Park E4, Woodlands Depot (SMRT), #01 Singapore 757705",
+	"doctorInCharge": [
+		{
+			"name": "Ong Kong Yiow Elton",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0269",
+	"coordinates": [
+		103.7944598,
+		1.4484639
+	],
+	"svy21": [
+		23675.63,
+		47789.33
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

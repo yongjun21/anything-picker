@@ -1,0 +1,55 @@
+{
+	"name": "ONEDOCTORS FAMILY CLINIC",
+	"tel": "64698938",
+	"fax": "64671682",
+	"licensee": "ONEDOCTORS (HV) PTE. LTD.",
+	"licensePeriod": "13/03/2016 to 12/03/2018",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "12C0037",
+	"address": "253 HOLLAND AVENUE, HOLLAND VILLAGE, #02-01 Singapore 278982",
+	"doctorInCharge": [
+		{
+			"name": "Boey Kok Hoe",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 10:00 pm",
+		"Tuesday": "09:00 am to 10:00 pm",
+		"Wednesday": "09:00 am to 10:00 pm",
+		"Thursday": "09:00 am to 10:00 pm",
+		"Friday": "09:00 am to 10:00 pm",
+		"Saturday": "09:00 am to 10:00 pm"
+	},
+	"id": "12C0037",
+	"coordinates": [
+		103.7955821,
+		1.3113304
+	],
+	"svy21": [
+		23800.29,
+		32625.8
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

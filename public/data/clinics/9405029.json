@@ -1,0 +1,42 @@
+{
+	"name": "TWIN CITY MEDICAL CENTRE",
+	"tel": "62351175",
+	"fax": "62351187",
+	"licensee": "SEAH SHENG HEANG GEOFFRY",
+	"licensePeriod": "24/11/2014 to 23/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405029",
+	"address": "1 KIM SENG PROMENADE, GREAT WORLD CITY, #01-32 Singapore 237994",
+	"doctorInCharge": [
+		{
+			"name": "SEAH SHENG HEANG GEOFFRY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"id": "9405029",
+	"coordinates": [
+		103.8320158,
+		1.2934405
+	],
+	"svy21": [
+		27855.01,
+		30647.6
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

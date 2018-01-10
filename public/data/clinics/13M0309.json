@@ -1,0 +1,48 @@
+{
+	"name": "HALLEY MEDICAL AESTHETICS",
+	"tel": "67378233",
+	"fax": "67378232",
+	"licensee": "HALLEY AESTHETICS PTE. LTD.",
+	"licensePeriod": "16/08/2016 to 15/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13M0309",
+	"address": "277 ORCHARD ROAD, ORCHARD GATEWAY, #03-15 Singapore 238858",
+	"doctorInCharge": [
+		{
+			"name": "Tan Kum Leong Terence",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 09:00 pm",
+		"Tuesday": "10:00 am to 09:00 pm",
+		"Wednesday": "10:00 am to 09:00 pm",
+		"Thursday": "10:00 am to 09:00 pm",
+		"Friday": "10:00 am to 09:00 pm",
+		"Saturday": "10:00 am to 09:00 pm",
+		"Sunday": "10:00 am to 09:00 pm"
+	},
+	"id": "13M0309",
+	"coordinates": [
+		103.8393251,
+		1.3004891
+	],
+	"svy21": [
+		28668.47,
+		31427
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"name": "P S LUI CLINIC & SURGERY FOR WOMEN",
+	"tel": "67373366",
+	"fax": "67361100",
+	"licensee": "LUI PAO SHUN",
+	"licensePeriod": "12/02/2014 to 11/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403750",
+	"address": "150 ORCHARD ROAD, ORCHARD PLAZA, #06-19 Singapore 238841",
+	"doctorInCharge": [
+		{
+			"name": "LUI PAO SHUN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1982",
+				"M Med (O&G) (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 am to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 02:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9403750",
+	"coordinates": [
+		103.8411501,
+		1.3012573
+	],
+	"svy21": [
+		28871.58,
+		31511.94
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

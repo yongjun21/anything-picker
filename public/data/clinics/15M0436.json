@@ -1,0 +1,47 @@
+{
+	"name": "THE FEVER CLINIC GLENEAGLES",
+	"tel": "64751449",
+	"fax": "64752161",
+	"licensee": "THE NOVENA MEDICAL SPECIALISTS PTE. LTD.",
+	"licensePeriod": "24/12/2015 to 23/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0436",
+	"address": "6A NAPIER ROAD, GLENEAGLES HOSPITAL ANNEXE BLOCK, #02-33 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "LOW CHIAN YONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2005",
+				"M Med (Int Med) (National University of Singapore, Singapore) 2005",
+				"FAMS (Infectious Disease) (Academy of Medicine, Singapore) 2009"
+			],
+			"specialties": [
+				"Infectious Diseases"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Infectious Diseases"
+		]
+	},
+	"id": "15M0436",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"name": "CLINIC FOR LIVER & DIGESTIVE DISORDERS PTE. LTD.",
+	"tel": "63565067",
+	"fax": "62546851",
+	"licensee": "Clinic for Liver & Digestive Disorders Pte. Ltd.",
+	"licensePeriod": "26/04/2014 to 25/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405565",
+	"address": "820 Thomson Road, Mount Alvernia Medical Centre Block A, #02-08 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "Liew Vern-Syn Kenneth",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1995",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1996",
+				"MRCP (Int Med) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1997"
+			],
+			"specialties": [
+				"Gastroenterology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Gastroenterology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm"
+	},
+	"id": "9405565",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

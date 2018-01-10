@@ -1,0 +1,52 @@
+{
+	"name": "THE PINNACLE MEDICAL CENTRE @ MARITIME",
+	"tel": "62252771",
+	"fax": "62236055",
+	"licensee": "PINNACLE MEDICAL & DENTAL CENTRE @ MARITIME (PTE.) LIMITED",
+	"licensePeriod": "19/05/2014 to 18/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405587",
+	"address": "120 CANTONMENT ROAD, MARITIME HOUSE, #02-06 Singapore 089760",
+	"doctorInCharge": [
+		{
+			"name": "LEE CHOI KHEONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405587",
+	"coordinates": [
+		103.8403501,
+		1.2766179
+	],
+	"svy21": [
+		28782.55,
+		28787.45
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

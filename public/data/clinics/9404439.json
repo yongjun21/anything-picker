@@ -1,0 +1,50 @@
+{
+	"name": "ACUFEM WOMEN'S SPECIALIST SERVICES",
+	"tel": "64743821",
+	"fax": "64746290",
+	"licensee": "AcuFem Medical Pte. Ltd.",
+	"licensePeriod": "17/05/2017 to 16/05/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9404439",
+	"address": "6A Napier Road, Gleneagles Hospital,Annexe Block, #05-38 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "John Yam",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 2000",
+				"M Med (O&G) (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"General Medical": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9404439",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

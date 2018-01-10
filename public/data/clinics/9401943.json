@@ -1,0 +1,41 @@
+{
+	"name": "YEOH SWEE INN ENDOCRINE AND MEDICAL CLINIC",
+	"tel": "64732622",
+	"fax": "64732387",
+	"licensee": "YEOH SWEE INN",
+	"licensePeriod": "25/04/2016 to 24/04/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401943",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #07-10 Singapore 258499",
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Endocrinology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9401943",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"name": "SPECIALIST DENTAL GROUP",
+	"tel": "67349393",
+	"fax": "67336032",
+	"licensee": "NORTHWESTERN NRG. PTE. LTD.",
+	"licensePeriod": "04/02/2014 to 03/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404705",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #08-10 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Neo Tee Khin",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1991",
+				"Cert Prosthodontics (Northwestern) (Northwestern University, United States) 1995",
+				"MSc (Prosthodontics) (Northwestern) (Northwestern University, United States) 1995",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 1998",
+				"FAMS (Prosthodontics) (Academy of Medicine, Singapore, Singapore) 2003",
+				"Am.Board Prosthodont (American Board of Prosthodontics, United States) 2003"
+			],
+			"specialties": [
+				"Prosthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Paediatric Dentistry",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404705",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

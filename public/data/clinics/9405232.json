@@ -1,0 +1,55 @@
+{
+	"name": "NEECARE MEDICAL CENTRE",
+	"tel": "65674990",
+	"fax": "65674660",
+	"licensee": "KOAY WEI CHEE",
+	"licensePeriod": "08/07/2015 to 07/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405232",
+	"address": "BLK 371 BUKIT BATOK STREET 31, #01-320 Singapore 650371",
+	"doctorInCharge": [
+		{
+			"name": "KOAY WEI CHEE",
+			"qualifications": [
+				"MB BCh BAO (National University of Ireland, Ireland) 2000",
+				"Dip(Primary Care Rheumatology) (University of Bath, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:45 pm, 05:30 pm to 08:45 pm",
+		"Tuesday": "08:30 am to 12:45 pm, 05:30 pm to 08:45 pm",
+		"Wednesday": "08:30 am to 12:45 pm, 05:30 pm to 08:45 pm",
+		"Thursday": "08:30 am to 12:45 pm, 05:30 pm to 08:45 pm",
+		"Saturday": "09:00 am to 12:45 pm",
+		"Sunday": "06:00 pm to 08:45 pm"
+	},
+	"id": "9405232",
+	"coordinates": [
+		103.7506946,
+		1.3592594
+	],
+	"svy21": [
+		18804.91,
+		37925.67
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

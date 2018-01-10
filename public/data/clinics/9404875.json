@@ -1,0 +1,56 @@
+{
+	"name": "TWIN CITY DENTAL CLINIC PTE LTD",
+	"tel": "62359888",
+	"fax": "62355998",
+	"licensee": "TWIN CITY DENTAL CLINIC PTE. LTD.",
+	"licensePeriod": "09/06/2014 to 08/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404875",
+	"address": "391B ORCHARD ROAD, NGEE ANN CITY TOWER B, #08-07 Singapore 238874",
+	"doctorInCharge": [
+		{
+			"name": "Poon Kee Hoon",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2000",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2005",
+				"MDS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9404875",
+	"coordinates": [
+		103.8346761,
+		1.3024242
+	],
+	"svy21": [
+		28151.08,
+		31640.97
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"name": "K N LAU CLINIC",
+	"tel": "62887019",
+	"fax": "62884456",
+	"licensee": "LAU KWOK NAM @ Low Kok Nam",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400808",
+	"address": "6 KENSINGTON PARK RD, Singapore 557258",
+	"doctorInCharge": [
+		{
+			"name": "LAU KWOK NAM @ Low Kok Nam",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1968"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "10:30 am to 12:00 pm, 01:30 pm to 06:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "10:30 am to 12:00 pm, 01:30 pm to 06:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "10:30 am to 12:00 pm, 01:30 pm to 06:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "10:30 am to 12:00 pm, 01:30 pm to 06:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "10:30 am to 12:00 pm, 01:30 pm to 06:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "10:30 am to 12:00 pm, 01:30 pm to 06:00 pm, 07:00 pm to 09:00 pm"
+	},
+	"id": "9400808",
+	"coordinates": [
+		103.8660495,
+		1.3647981
+	],
+	"svy21": [
+		31642.57,
+		38537.97
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"name": "SUSAN QUEK HEART CARE CLINIC",
+	"tel": "67373188",
+	"fax": "67333808",
+	"licensee": "QUEK SWEE SAN SUSAN",
+	"licensePeriod": "05/02/2015 to 04/02/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401567",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #15-14 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "QUEK SWEE SAN SUSAN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1973",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1977",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 1981"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401567",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "YANG & CHIN MEDICAL & DENTAL ASSOCIATES",
+	"tel": "67819192",
+	"fax": "67819192",
+	"licensee": "CHIN YOKE CHIN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401920",
+	"address": "BLK 139 TAMPINES ST 11, #01-30 Singapore 521139",
+	"doctorInCharge": [
+		{
+			"name": "CHIN YOKE CHIN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm",
+		"Friday": "08:30 am to 12:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm"
+	},
+	"id": "9401920",
+	"coordinates": [
+		103.9445092,
+		1.3461607
+	],
+	"svy21": [
+		40374.3,
+		36477.41
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

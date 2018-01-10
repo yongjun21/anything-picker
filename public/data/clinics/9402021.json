@@ -1,0 +1,55 @@
+{
+	"name": "PRINCETON FAMILY CLINIC PTE LTD.",
+	"tel": "67622278",
+	"fax": "67622278",
+	"licensee": "TAN KIAW KUANG",
+	"licensePeriod": "01/03/2014 to 28/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402021",
+	"address": "445 FAJAR RD, FAJAR SHOPPING CENTRE, #01-546 Singapore 670445",
+	"doctorInCharge": [
+		{
+			"name": "KWONG KUM HOONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "09:00 am to 12:30 pm",
+		"Monday": "09:00 am to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 03:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9402021",
+	"coordinates": [
+		103.7707683,
+		1.3835804
+	],
+	"svy21": [
+		21038.95,
+		40614.9
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

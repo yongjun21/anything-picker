@@ -1,0 +1,46 @@
+{
+	"name": "MEDICAL AESTHETICS",
+	"tel": "63850520",
+	"fax": "63860852",
+	"licensee": "CMI AESTHETICS PTE. LTD",
+	"licensePeriod": "11/07/2014 to 10/07/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403227",
+	"address": "BLK 681 HOUGANG AVE 8, #01-831 Singapore 530681",
+	"doctorInCharge": [
+		{
+			"name": "Robert Ong Chee Meng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9403227",
+	"coordinates": [
+		103.8856792,
+		1.3729784
+	],
+	"svy21": [
+		33827.09,
+		39442.56
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

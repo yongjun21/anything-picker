@@ -1,0 +1,51 @@
+{
+	"name": "RUBY MEDICAL CENTRE PTE LTD",
+	"tel": "67837847",
+	"fax": "67837847",
+	"licensee": "RUBY MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "05/08/2015 to 04/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404007",
+	"address": "BLK 505 TAMPINES CENTRAL 1, #01-339 Singapore 520505",
+	"doctorInCharge": [
+		{
+			"name": "LAI FEI LIN",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm"
+	},
+	"id": "9404007",
+	"coordinates": [
+		103.9456161,
+		1.3555485
+	],
+	"svy21": [
+		40497.43,
+		37515.47
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

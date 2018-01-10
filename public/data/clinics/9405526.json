@@ -1,0 +1,57 @@
+{
+	"name": "THE MEDICAL AND AESTHETIC CLINIC PTE LTD",
+	"tel": "67425155",
+	"fax": "68423868",
+	"licensee": "THE MEDICAL AND AESTHETIC CLINIC PTE. LTD.",
+	"licensePeriod": "26/03/2014 to 25/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405526",
+	"address": "BLK 270 SIMS AVENUE, Singapore 387514",
+	"doctorInCharge": [
+		{
+			"name": "HENG KEOK MENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1979",
+				"M Med (O&G) (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 04:00 pm",
+		"Tuesday": "08:30 am to 04:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm",
+		"Thursday": "08:30 am to 04:00 pm",
+		"Friday": "08:30 am to 04:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405526",
+	"coordinates": [
+		103.8832653,
+		1.3150387
+	],
+	"svy21": [
+		33558.59,
+		33035.87
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

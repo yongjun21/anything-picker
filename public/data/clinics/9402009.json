@@ -1,0 +1,45 @@
+{
+	"name": "FAITH FAMILY CLINIC (JURONG)",
+	"tel": "67916780",
+	"fax": "64448019",
+	"licensee": "NG TSORNG CHINN",
+	"licensePeriod": "07/11/2014 to 06/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402009",
+	"address": "BLK 762 JURONG WEST ST 75, #01-316 Singapore 640762",
+	"doctorInCharge": [
+		{
+			"name": "NG TSORNG CHINN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9402009",
+	"coordinates": [
+		103.6977321,
+		1.3487436
+	],
+	"svy21": [
+		12910.72,
+		36763.15
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

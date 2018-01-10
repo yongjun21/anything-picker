@@ -1,0 +1,41 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "62418818",
+	"fax": "65430130",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "01/06/2016 to 31/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0158",
+	"address": "20 AIRPORT BOULEVARD, SATS INFLIGHT CATERING CENTRE 1, Singapore 819659",
+	"doctorInCharge": [
+		{
+			"name": "Balbir Singh S/O Mal Singh",
+			"qualifications": [
+				"MBBS (Guru Nanak Dev University, India) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "16M0158",
+	"coordinates": [
+		103.9848113,
+		1.3412624
+	],
+	"svy21": [
+		44859.52,
+		35936.02
+	],
+	"planningArea": "CH",
+	"neighbours": [
+		"PR",
+		"TM",
+		"CB"
+	]
+}

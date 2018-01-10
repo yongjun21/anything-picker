@@ -1,0 +1,55 @@
+{
+	"name": "HEALTHLINK FAMILY CLINIC & SURGERY",
+	"tel": "64689808",
+	"fax": "64689808",
+	"licensee": "TAN SAY KEE",
+	"licensePeriod": "26/12/2016 to 25/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14C0389",
+	"address": "BLK 21 GHIM MOH ROAD, #01-187 Singapore 270021",
+	"doctorInCharge": [
+		{
+			"name": "TAN SAY KEE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "14C0389",
+	"coordinates": [
+		103.788546,
+		1.310103
+	],
+	"svy21": [
+		23017.23,
+		32490.1
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

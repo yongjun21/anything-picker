@@ -1,0 +1,49 @@
+{
+	"name": "GOH MEDICAL CLINIC",
+	"tel": "62827886",
+	"fax": "62827886",
+	"licensee": "GOH MEI YIN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400592",
+	"address": "BLK 136 POTONG PASIR AVE 3, #01-164 Singapore 350136",
+	"doctorInCharge": [
+		{
+			"name": "GOH MEI YIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm"
+	},
+	"id": "9400592",
+	"coordinates": [
+		103.8665201,
+		1.3339825
+	],
+	"svy21": [
+		31694.99,
+		35130.55
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

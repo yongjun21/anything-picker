@@ -1,0 +1,46 @@
+{
+	"name": "TLC DENTAL CENTRE",
+	"tel": "63386639",
+	"fax": "63386917",
+	"licensee": "TLC DENTAL CENTRE",
+	"licensePeriod": "14/09/2016 to 13/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16C0273",
+	"address": "360 ORCHARD ROAD, INTERNATIONAL BUILDING, #05-05 Singapore 238869",
+	"doctorInCharge": [
+		{
+			"name": "CO HAO MING KEVIN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2005",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2011"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"id": "16C0273",
+	"coordinates": [
+		103.8310033,
+		1.3060752
+	],
+	"svy21": [
+		27742.33,
+		32044.67
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "ROYCE DENTAL SURGERY",
+	"tel": "69093212",
+	"fax": "69098114",
+	"licensee": "YKB (WESTPOINT) PTE. LTD.",
+	"licensePeriod": "03/07/2017 to 02/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17D0200",
+	"address": "235 CORPORATION DRIVE, WEST POINT HOSPITAL, Singapore 619771",
+	"doctorInCharge": [
+		{
+			"name": "Yeo Kok Beng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 06:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "17D0200",
+	"coordinates": [
+		103.7230061,
+		1.3310731
+	],
+	"svy21": [
+		15723.35,
+		34809.09
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

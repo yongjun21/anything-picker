@@ -1,0 +1,53 @@
+{
+	"name": "BOON LAY CENTRAL CLINIC",
+	"tel": "62655996",
+	"fax": "62655996",
+	"licensee": "SEET HIN MIN",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400128",
+	"address": "BLK 221 BOON LAY PLACE, BOON LAY SHOPPING CENTRE, #01-242 Singapore 640221",
+	"doctorInCharge": [
+		{
+			"name": "SEET HIN MIN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1970"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400128",
+	"coordinates": [
+		103.7124293,
+		1.3463482
+	],
+	"svy21": [
+		14546.35,
+		36498.19
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

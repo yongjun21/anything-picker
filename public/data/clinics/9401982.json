@@ -1,0 +1,54 @@
+{
+	"name": "HONG FAMILY CLINIC",
+	"tel": "67843300",
+	"fax": "67843300",
+	"licensee": "HONG LEE TIONG",
+	"licensePeriod": "16/09/2014 to 15/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401982",
+	"address": "BLK 282 TAMPINES ST 22, #01-300 Singapore 520282",
+	"doctorInCharge": [
+		{
+			"name": "HONG LEE TIONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:15 pm, 02:00 pm to 04:15 pm, 06:30 pm to 08:45 pm",
+		"Tuesday": "08:30 am to 12:15 pm, 02:00 pm to 04:15 pm, 06:30 pm to 08:45 pm",
+		"Wednesday": "08:30 am to 12:15 pm, 02:00 pm to 04:15 pm, 06:30 pm to 08:45 pm",
+		"Thursday": "08:30 am to 12:15 pm, 02:00 pm to 04:15 pm, 06:30 pm to 08:45 pm",
+		"Friday": "08:30 am to 12:15 pm, 02:00 pm to 04:15 pm, 06:30 pm to 08:45 pm",
+		"Saturday": "08:30 am to 12:15 pm",
+		"Sunday": "09:00 am to 12:00 pm",
+		"Public Holiday": "09:00 am to 12:00 pm"
+	},
+	"id": "9401982",
+	"coordinates": [
+		103.9524368,
+		1.3477541
+	],
+	"svy21": [
+		41256.54,
+		36653.64
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

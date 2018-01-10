@@ -1,0 +1,53 @@
+{
+	"name": "CG DENTAL-CARE PTE LTD",
+	"tel": "67359660",
+	"fax": "67359550",
+	"licensee": "GOH HUI LING CAROLINE",
+	"licensePeriod": "15/03/2015 to 14/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403902",
+	"address": "1 ORCHARD BOULEVARD, CAMDEN MEDICAL CENTRE, #06-09A Singapore 248649",
+	"doctorInCharge": [
+		{
+			"name": "GOH HUI LING CAROLINE",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1984",
+				"MSc (University of London, United Kingdom) 1993"
+			],
+			"specialties": [
+				"Periodontology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Periodontology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9403902",
+	"coordinates": [
+		103.8239072,
+		1.3031376
+	],
+	"svy21": [
+		26952.59,
+		31719.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"name": "ACCESS MEDICAL (WHAMPOA)",
+	"tel": "62521070",
+	"fax": "67107327",
+	"licensee": "ACCESS MEDICAL WHAMPOA PTE. LTD.",
+	"licensePeriod": "01/10/2017 to 30/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0338",
+	"address": "BLK 87 WHAMPOA DRIVE, #01-869 Singapore 320087",
+	"doctorInCharge": [
+		{
+			"name": "Lim Yong Chin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007",
+				"MRCS (Royal College of Surgeons, Ireland) 2010",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "07:00 am to 01:00 pm, 06:00 pm to 12:00 am",
+		"Tuesday": "07:00 am to 01:00 pm, 06:00 pm to 12:00 am",
+		"Wednesday": "07:00 am to 01:00 pm, 06:00 pm to 12:00 am",
+		"Thursday": "07:00 am to 01:00 pm, 06:00 pm to 12:00 am",
+		"Friday": "07:00 am to 01:00 pm, 06:00 pm to 12:00 am",
+		"Saturday": "07:00 am to 01:00 pm, 06:00 pm to 12:00 am",
+		"Sunday": "07:00 am to 01:00 pm, 06:00 pm to 12:00 am"
+	},
+	"id": "15M0338",
+	"coordinates": [
+		103.8557356,
+		1.3232892
+	],
+	"svy21": [
+		30494.79,
+		33948.12
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

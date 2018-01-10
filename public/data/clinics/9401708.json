@@ -1,0 +1,53 @@
+{
+	"name": "THE LADY GYNAECOLOGIST OBSTETRICIAN'S CLINIC PTE LTD",
+	"tel": "62355909",
+	"fax": "67348963",
+	"licensee": "SIM SAI LAN PATRICIA",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9401708",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #15-16 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "SIM SAI LAN PATRICIA",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1969",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1979"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "Closed",
+		"Tuesday": "Closed",
+		"Wednesday": "Closed",
+		"Thursday": "Closed",
+		"Friday": "Closed",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9401708",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

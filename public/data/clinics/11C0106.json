@@ -1,0 +1,56 @@
+{
+	"name": "HOSPITAL DENTAL SURGERY",
+	"tel": "67340007",
+	"fax": "67381175",
+	"licensee": "HOSPITAL DENTAL SURGERY PTE LTD",
+	"licensePeriod": "27/07/2015 to 26/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0106",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #04-03/04 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "LEE YEW KEONG DAVID",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1982",
+				"MDS (University of Adelaide, Australia) 1990"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Orthodontics",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "08:00 am to 02:00 pm"
+	},
+	"id": "11C0106",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

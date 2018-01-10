@@ -1,0 +1,60 @@
+{
+	"name": "FRESENIUS MEDICAL CARE MARSILING DIALYSIS CLINIC",
+	"tel": "63633069",
+	"fax": "63630345",
+	"licensee": "KIDNEY THERAPY CENTRE PTE. LTD.",
+	"licensePeriod": "21/04/2017 to 20/04/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "13C0115",
+	"address": "BLK 136 MARSILING ROAD, #01-2168 Singapore 730136",
+	"doctorInCharge": [
+		{
+			"name": "Tan Seng Hoe",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1996",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1996",
+				"FAMS (Academy of Medicine, Singapore) 2000",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2004",
+				"FRCP (Lond) (Royal College of Physicians of London, United Kingdom) 2009"
+			],
+			"specialties": [
+				"Internal Medicine",
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "06:30 am to 10:30 pm",
+		"Tuesday": "06:30 am to 10:30 pm",
+		"Wednesday": "06:30 am to 10:30 pm",
+		"Thursday": "06:30 am to 10:30 pm",
+		"Friday": "06:30 am to 10:30 pm",
+		"Saturday": "06:30 am to 10:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "13C0115",
+	"coordinates": [
+		103.777752,
+		1.4383215
+	],
+	"svy21": [
+		21816.3,
+		46667.87
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

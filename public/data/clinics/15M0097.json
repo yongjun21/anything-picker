@@ -1,0 +1,53 @@
+{
+	"name": "BERNARD KWOK CARDIOLOGY CLINIC",
+	"tel": "64437228",
+	"fax": "67372067",
+	"licensee": "BK CARDIOLOGY PTE. LTD.",
+	"licensePeriod": "16/04/2017 to 15/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0097",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #07-18 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "KWOK WING KUIN BERNARD",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"MRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1996",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "15M0097",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

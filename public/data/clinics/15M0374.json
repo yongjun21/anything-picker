@@ -1,0 +1,54 @@
+{
+	"name": "KIDS FIRST CLINIC",
+	"tel": "64521048",
+	"licensee": "Ho Ling",
+	"licensePeriod": "30/10/2017 to 29/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0374",
+	"address": "BLK 728 ANG MO KIO AVENUE 6, #01-4224 Singapore 560728",
+	"doctorInCharge": [
+		{
+			"name": "Ho Ling",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"M Med (Paed) (National University of Singapore, Singapore) 1985",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 1990"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 06:30 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "15M0374",
+	"coordinates": [
+		103.8456829,
+		1.3726284
+	],
+	"svy21": [
+		29376,
+		39403.8
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

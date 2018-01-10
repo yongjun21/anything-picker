@@ -1,0 +1,45 @@
+{
+	"name": "FOONG SURGICAL CLINIC",
+	"tel": "67340225",
+	"fax": "62358267",
+	"licensee": "FOONG WENG CHEONG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400545",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #17-01 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "FOONG WENG CHEONG",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1957",
+				"FRCS (Gen Surg) (Royal College of Surgeons of England, United Kingdom) 1963",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1963"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"id": "9400545",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"name": "LIM ING RUEN ENT CLINIC",
+	"tel": "62352050",
+	"fax": "62352060",
+	"licensee": "LIM ING RUEN ENT PTE. LTD",
+	"licensePeriod": "25/04/2016 to 24/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0103",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #04-02 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Lim Ing Ruen",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995",
+				"FRCS (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 2000",
+				"FAMS (ENT) (Academy of Medicine, Singapore) 2005"
+			],
+			"specialties": [
+				"Otorhinolaryngology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Otorhinolaryngology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
+	"id": "14M0103",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

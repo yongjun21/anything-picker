@@ -1,0 +1,45 @@
+{
+	"name": "ESC CARDIOVASCULAR & MEDICINE CLINIC",
+	"tel": "68220120",
+	"fax": "62844497",
+	"licensee": "KINGS CARDIOLOGY PTE. LTD.",
+	"licensePeriod": "23/07/2016 to 22/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0206",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, ##15-01 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "Eric Chong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2005"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"id": "14M0206",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

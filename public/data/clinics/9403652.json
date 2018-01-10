@@ -1,0 +1,52 @@
+{
+	"name": "THE DENTAL PEOPLE",
+	"tel": "67814321",
+	"fax": "67819010",
+	"licensee": "THE DENTAL PEOPLE PTE. LTD.",
+	"licensePeriod": "12/10/2017 to 11/10/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403652",
+	"address": "BLK 139 Tampines Street 11, #01-12 Singapore 521139",
+	"doctorInCharge": [
+		{
+			"name": "Gerald Yeo See Chong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1996",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2009",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2016",
+				"MDS (Orthodontics) (Singapore) (National University of Singapore, Singapore) 2016"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 08:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 08:00 pm",
+		"Wednesday": "08:30 pm to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "9403652",
+	"coordinates": [
+		103.9445092,
+		1.3461607
+	],
+	"svy21": [
+		40374.3,
+		36477.41
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

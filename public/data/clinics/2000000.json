@@ -1,0 +1,58 @@
+{
+	"name": "NATIONAL NEUROSCIENCE INSTITUTE",
+	"tel": "62564755",
+	"fax": "62564755",
+	"licensee": "NATIONAL NEUROSCIENCE INSTITUTE OF SINGAPORE PTE LTD",
+	"licensePeriod": "06/08/2016 to 05/08/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "2000000",
+	"address": "11 Jalan Tan Tock Seng, Singapore 308433",
+	"doctorInCharge": [
+		{
+			"name": "Ng Wai Hoe",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"FRACS (Neurosurgery) (Royal Australasian College of Surgeons, Australia) 2004",
+				"MD (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": [
+				"Neurosurgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Diagnostic Radiology",
+			"Neurology",
+			"Neurosurgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:00 pm",
+		"Friday": "08:00 am to 05:30 pm"
+	},
+	"id": "2000000",
+	"coordinates": [
+		103.8513476,
+		1.3205028
+	],
+	"svy21": [
+		30006.45,
+		33640.01
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

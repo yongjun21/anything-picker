@@ -1,0 +1,48 @@
+{
+	"name": "SPECIALIST ENDOCRINE CLINIC FOR DIABETES, THYROID AND HORMONES",
+	"tel": "67354066",
+	"fax": "67354498",
+	"licensee": "DR FOO ENDOCRINE PTE. LTD.",
+	"licensePeriod": "03/06/2016 to 02/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0148",
+	"address": "1 ORCHARD BOULEVARD, CAMDEN MEDICAL CENTRE, #04-03 Singapore 248649",
+	"doctorInCharge": [
+		{
+			"name": "Foo Joo Pin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Endocrinology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Endocrinology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "14M0148",
+	"coordinates": [
+		103.8239072,
+		1.3031376
+	],
+	"svy21": [
+		26952.59,
+		31719.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

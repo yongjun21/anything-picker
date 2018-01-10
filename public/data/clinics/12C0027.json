@@ -1,0 +1,55 @@
+{
+	"name": "NORTHEAST MEDICAL GROUP",
+	"tel": "62413298",
+	"fax": "62413219",
+	"licensee": "KALLANG MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "28/02/2016 to 27/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "12C0027",
+	"address": "BLK 39 JALAN TIGA, #01-01 Singapore 390039",
+	"doctorInCharge": [
+		{
+			"name": "Lui Weng Sun",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "08:00 am to 01:00 pm",
+		"Monday": "08:00 am to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:00 am to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 05:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "08:00 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Sunday": "08:00 am to 06:00 pm"
+	},
+	"id": "12C0027",
+	"coordinates": [
+		103.8850923,
+		1.3078206
+	],
+	"svy21": [
+		33761.93,
+		32237.73
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

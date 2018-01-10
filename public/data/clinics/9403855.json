@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64435067",
+	"fax": "64435067",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "31/01/2015 to 30/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403855",
+	"address": "56 BEDOK NORTH STREET 3,, YU NENG PRIMARY SCHOOL, Singapore 469623",
+	"doctorInCharge": [
+		{
+			"name": "Noeline Tan",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403855",
+	"coordinates": [
+		103.9321503,
+		1.333889
+	],
+	"svy21": [
+		38998.94,
+		35120.41
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

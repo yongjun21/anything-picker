@@ -1,0 +1,47 @@
+{
+	"name": "DAVID LOH SURGERY",
+	"tel": "67339114",
+	"fax": "67334487",
+	"licensee": "DAVID LOH INTERNATIONAL PTE. LTD.",
+	"licensePeriod": "17/11/2017 to 16/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0389",
+	"address": "21 ORCHARD BOULEVARD, PARK HOUSE, #01-27 Singapore 248645",
+	"doctorInCharge": [
+		{
+			"name": "Loh Kwok Thye",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 06:00 pm",
+		"Tuesday": "10:00 am to 08:00 pm",
+		"Wednesday": "10:00 am to 06:00 pm",
+		"Thursday": "10:00 pm to 08:00 pm",
+		"Friday": "10:00 am to 06:00 pm",
+		"Saturday": "10:00 am to 02:00 pm"
+	},
+	"id": "15M0389",
+	"coordinates": [
+		103.8257019,
+		1.303599
+	],
+	"svy21": [
+		27152.33,
+		31770.87
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

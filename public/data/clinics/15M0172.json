@@ -1,0 +1,49 @@
+{
+	"name": "NOVU MEDICAL AESTHETIC CLINIC JURONG POINT",
+	"tel": "65153011",
+	"fax": "62350412",
+	"licensee": "AESTHETIC MEDICAL HOLDINGS PTE. LTD.",
+	"licensePeriod": "08/06/2017 to 07/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0172",
+	"address": "63 JURONG WEST CENTRAL 3, JURONG POINT SHOPPING CENTRE, #B1-41/42 Singapore 648331",
+	"doctorInCharge": [
+		{
+			"name": "Ho Jing Jung Wilson",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 2009",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2013"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 08:00 pm",
+		"Tuesday": "10:00 am to 08:00 pm",
+		"Wednesday": "10:00 am to 08:00 pm",
+		"Thursday": "10:00 am to 08:00 pm",
+		"Friday": "10:00 am to 08:00 pm",
+		"Saturday": "10:00 am to 08:00 pm",
+		"Sunday": "10:00 am to 08:00 pm"
+	},
+	"id": "15M0172",
+	"coordinates": [
+		103.705351,
+		1.339315
+	],
+	"svy21": [
+		13758.57,
+		35720.54
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

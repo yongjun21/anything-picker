@@ -1,0 +1,45 @@
+{
+	"name": "CHIN LEONG CLINIC",
+	"tel": "67789493",
+	"fax": "67746695",
+	"licensee": "TAN CHIN LEONG",
+	"licensePeriod": "15/01/2015 to 14/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404347",
+	"address": "BLK 517 WEST COAST ROAD, #01-555 Singapore 120517",
+	"doctorInCharge": [
+		{
+			"name": "TAN CHIN LEONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"Dip Acup (Singapore College of Traditional Chinese Medicine, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9404347",
+	"coordinates": [
+		103.7601573,
+		1.3074768
+	],
+	"svy21": [
+		19857.83,
+		32199.78
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

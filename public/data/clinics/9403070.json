@@ -1,0 +1,52 @@
+{
+	"name": "LIFELINE NEIGHBOURHOOD MEDICAL CLINIC",
+	"tel": "65678316",
+	"fax": "65678316",
+	"licensee": "LIFELINE NEIGHBOURHOOD MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "03/08/2017 to 02/08/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403070",
+	"address": "BLK 280 BUKIT BATOK EAST AVE 3, #01-333 Singapore 650280",
+	"doctorInCharge": [
+		{
+			"name": "CHEONG WEI KOK BERNARD",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 07:00 pm to 09:00 pm"
+	},
+	"id": "9403070",
+	"coordinates": [
+		103.7570446,
+		1.3477015
+	],
+	"svy21": [
+		19511.55,
+		36647.63
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

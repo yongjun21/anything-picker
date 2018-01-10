@@ -1,0 +1,51 @@
+{
+	"name": "DENTAL ON THE BAY",
+	"tel": "63769001",
+	"fax": "63769002",
+	"licensee": "DENTAL ON THE BAY PTE. LTD.",
+	"licensePeriod": "21/12/2016 to 20/12/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404653",
+	"address": "1 HARBOURFRONT WALK, VIVOCITY, #02-230 Singapore 098585",
+	"doctorInCharge": [
+		{
+			"name": "CHIN HOW HSUNG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "10:00 am to 09:30 pm",
+		"Tuesday": "10:00 am to 09:30 pm",
+		"Wednesday": "10:00 am to 09:30 pm",
+		"Thursday": "10:00 am to 09:30 pm",
+		"Friday": "10:00 am to 09:30 pm",
+		"Saturday": "10:00 am to 06:00 pm"
+	},
+	"id": "9404653",
+	"coordinates": [
+		103.8223086,
+		1.2643048
+	],
+	"svy21": [
+		26774.68,
+		27425.92
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

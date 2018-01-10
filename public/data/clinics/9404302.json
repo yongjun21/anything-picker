@@ -1,0 +1,56 @@
+{
+	"name": "MOUNT ELIZABETH CLINIC FOR WOMEN",
+	"tel": "67339963",
+	"fax": "67339969",
+	"licensee": "MOUNT ELIZABETH CLINIC FOR WOMEN PTE LTD",
+	"licensePeriod": "01/12/2016 to 30/11/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9404302",
+	"address": "304 ORCHARD ROAD, LUCKY PLAZA, #05-05 Singapore 238863",
+	"doctorInCharge": [
+		{
+			"name": "NEO BAN LEONG BEN",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 1974",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1982",
+				"M Med (O&G) (National University of Singapore, Singapore) 1982",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1985"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"General Medical": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9404302",
+	"coordinates": [
+		103.8339619,
+		1.3045061
+	],
+	"svy21": [
+		28071.6,
+		31871.17
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

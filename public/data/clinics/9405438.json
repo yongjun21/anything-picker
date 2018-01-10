@@ -1,0 +1,47 @@
+{
+	"name": "DOCTORS KOO, HAN & ASSOCIATES P. L.",
+	"tel": "66650032",
+	"fax": "66650370",
+	"licensee": "DRS KOO, HAN & ASSOCIATES PTE LTD",
+	"licensePeriod": "05/01/2014 to 04/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405438",
+	"address": "3A International Business Park, ICON@IBP, #01-08 Singapore 609935",
+	"doctorInCharge": [
+		{
+			"name": "KOO WEE KHIAT",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm"
+	},
+	"id": "9405438",
+	"coordinates": [
+		103.7492534,
+		1.3271141
+	],
+	"svy21": [
+		18644.39,
+		34371.21
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"name": "UNITY DENTICARE",
+	"tel": "65904390",
+	"licensee": "NTUC Health Co-operative Ltd",
+	"licensePeriod": "14/08/2016 to 13/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0233",
+	"address": "BLK 682 HOUGANG AVENUE 4, #01-324 Singapore 530682",
+	"doctorInCharge": [
+		{
+			"name": "TIJU KRISHNAN",
+			"qualifications": [
+				"BDS (University of Glasgow, United Kingdom) 1996"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 07:00 pm",
+		"Tuesday": "09:00 am to 07:00 pm",
+		"Wednesday": "09:00 am to 08:00 pm",
+		"Thursday": "09:00 am to 07:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "14D0233",
+	"coordinates": [
+		103.8857489,
+		1.3736183
+	],
+	"svy21": [
+		33834.85,
+		39513.31
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

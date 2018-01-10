@@ -1,0 +1,57 @@
+{
+	"name": "THE ORAL CARE CENTRE",
+	"tel": "63976990",
+	"fax": "63976987",
+	"licensee": "THE ORAL CARE CENTRE",
+	"licensePeriod": "14/10/2016 to 13/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "12C0243",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTER, #10-17/18 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "WONG SOON MAY ADELINE",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994",
+				"MSc (Prosthodontics) (Manchester) (University of Manchester, United Kingdom) 1999",
+				"FAMS (Prosthodontics) (Academy of Medicine, Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Prosthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:30 pm"
+	},
+	"id": "12C0243",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "HEALTHWAY MEDICAL CLINIC",
+	"tel": "65846822",
+	"fax": "65846883",
+	"licensee": "HEALTHWAY MEDICAL GROUP PTE LTD",
+	"licensePeriod": "15/07/2015 to 14/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405243",
+	"address": "BLK 625 ELIAS RD, ELIAS MALL, #01-322 Singapore 510625",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9405243",
+	"coordinates": [
+		103.9419782,
+		1.3786024
+	],
+	"svy21": [
+		40092.46,
+		40064.64
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"name": "LIFE SPRING MEDICAL CLINIC",
+	"tel": "67834500",
+	"fax": "67835460",
+	"licensee": "WONG RUEI CHIAN",
+	"licensePeriod": "25/10/2014 to 24/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403557",
+	"address": "BLK 825 TAMPINES STREET 81, #01-56 Singapore 520825",
+	"doctorInCharge": [
+		{
+			"name": "WONG RUEI CHIAN",
+			"qualifications": [
+				"MB ChB (University of Sheffield, United Kingdom) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9403557",
+	"coordinates": [
+		103.9327877,
+		1.3494375
+	],
+	"svy21": [
+		39069.81,
+		36839.69
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

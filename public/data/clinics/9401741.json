@@ -1,0 +1,55 @@
+{
+	"name": "THE WOMEN'S CLINIC & SURGERY",
+	"tel": "65821128",
+	"fax": "65829895",
+	"licensee": "CHAN CHI KIONG CLIFTON",
+	"licensePeriod": "04/05/2017 to 03/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9401741",
+	"address": "BLK 258 PASIR RIS STREET 21, LOYANG POINT, #02-08 Singapore 510258",
+	"doctorInCharge": [
+		{
+			"name": "CHAN CHI KIONG CLIFTON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984",
+				"M Med (O&G) (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 05:00 pm",
+		"Tuesday": "09:30 am to 05:00 pm",
+		"Wednesday": "07:00 pm to 09:30 pm",
+		"Thursday": "09:30 am to 05:00 pm",
+		"Friday": "07:00 pm to 09:30 pm",
+		"Saturday": "09:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401741",
+	"coordinates": [
+		103.9646322,
+		1.3670736
+	],
+	"svy21": [
+		42613.65,
+		38789.97
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

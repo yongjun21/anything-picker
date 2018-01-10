@@ -1,6 +1,6 @@
 {
 	"name": "PIONEER POLYCLINIC",
-	"tel": "65152354",
+	"tel": "68196530",
 	"fax": "68612344",
 	"licensee": "NATIONAL UNIVERSITY POLYCLINICS",
 	"licensePeriod": "17/07/2017 to 16/07/2019",
@@ -23,5 +23,10 @@
 	],
 	"detailedServices": {
 		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday to Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:00 am to 12:30 pm",
+		"Sunday and Public Holiday": "Closed"
 	}
 }

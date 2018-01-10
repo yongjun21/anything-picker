@@ -1,0 +1,55 @@
+{
+	"name": "GREENLIFE CLINIC & SURGERY",
+	"tel": "67562676",
+	"fax": "67560016",
+	"licensee": "GREENLIFE CLINIC & SURGERY PTE LTD",
+	"licensePeriod": "08/05/2015 to 07/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402469",
+	"address": "11 CANBERRA RD, SEMBAWANG MRT STATION, #02-01 Singapore 759775",
+	"doctorInCharge": [
+		{
+			"name": "WONG WENG YEW",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Tuesday": "08:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Wednesday": "08:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Thursday": "08:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Friday": "08:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Saturday": "08:00 pm to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Sunday": "06:00 pm to 08:00 pm"
+	},
+	"id": "9402469",
+	"coordinates": [
+		103.8200461,
+		1.4490508
+	],
+	"svy21": [
+		26522.99,
+		47854.2
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	]
+}

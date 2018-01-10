@@ -1,0 +1,51 @@
+{
+	"name": "ASIA HEALTHCARE DENTAL CENTRE",
+	"tel": "67372662",
+	"fax": "67371661",
+	"licensee": "GIAN SIONG LIN JIMMY",
+	"licensePeriod": "19/07/2015 to 18/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405537",
+	"address": "435 ORCHARD ROAD, WISMA ATRIA, #15-02 Singapore 238877",
+	"doctorInCharge": [
+		{
+			"name": "GIAN SIONG LIN JIMMY",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 06:00 pm",
+		"Tuesday": "08:30 am to 06:00 pm",
+		"Wednesday": "08:30 am to 06:00 pm",
+		"Thursday": "08:30 am to 06:00 pm",
+		"Friday": "08:30 am to 06:00 pm",
+		"Saturday": "08:00 am to 03:00 pm",
+		"Sunday": "08:00 am to 03:00 pm"
+	},
+	"id": "9405537",
+	"coordinates": [
+		103.8332058,
+		1.3037048
+	],
+	"svy21": [
+		27987.44,
+		31782.57
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

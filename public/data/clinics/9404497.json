@@ -1,0 +1,46 @@
+{
+	"name": "HEALTHMARK MEDICAL CLINIC",
+	"tel": "68756696",
+	"fax": "68756616",
+	"licensee": "United Vision Holdings Pte. Ltd.",
+	"licensePeriod": "18/07/2015 to 17/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404497",
+	"address": "BLK 639 Punggol Drive, #01-06 Singapore 820639",
+	"doctorInCharge": [
+		{
+			"name": "Chng Woei",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2006",
+				"Dip Acup (Singapore College of Traditional Chinese Medicine, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9404497",
+	"coordinates": [
+		103.9160547,
+		1.3994462
+	],
+	"svy21": [
+		37207.41,
+		42369.32
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

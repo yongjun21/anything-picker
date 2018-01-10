@@ -1,0 +1,54 @@
+{
+	"name": "Q & M DENTAL CENTRE PTE LTD",
+	"tel": "65091133",
+	"fax": "65093881",
+	"licensee": "Q & M DENTAL CENTRE PTE. LTD.",
+	"licensePeriod": "10/12/2015 to 09/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405404",
+	"address": "180 KITCHENER ROAD, CITY SQUARE MALL, #B1-13/14 Singapore 208539",
+	"doctorInCharge": [
+		{
+			"name": "Ng Jet Wei",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9405404",
+	"coordinates": [
+		103.8566246,
+		1.3114211
+	],
+	"svy21": [
+		30593.74,
+		32635.82
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

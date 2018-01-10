@@ -1,0 +1,52 @@
+{
+	"name": "UNITY DENTICARE",
+	"tel": "65904395",
+	"fax": "65904385",
+	"licensee": "NTUC Health Co-operative Ltd",
+	"licensePeriod": "14/08/2016 to 13/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14C0236",
+	"address": "53 ANG MO KIO AVENUE 3, AMK HUB, #03-17 Singapore 569933",
+	"doctorInCharge": [
+		{
+			"name": "Tiju Krishnan",
+			"qualifications": [
+				"BDS (University of Glasgow, United Kingdom) 1996"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 08:30 pm",
+		"Tuesday": "09:00 am to 08:30 pm",
+		"Wednesday": "09:00 am to 08:30 pm",
+		"Thursday": "09:00 am to 08:30 pm",
+		"Friday": "09:00 am to 08:30 pm",
+		"Saturday": "09:00 am to 08:30 pm",
+		"Sunday": "09:00 am to 06:00 pm"
+	},
+	"id": "14C0236",
+	"coordinates": [
+		103.8484107,
+		1.3691842
+	],
+	"svy21": [
+		29679.57,
+		39022.95
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

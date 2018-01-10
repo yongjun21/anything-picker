@@ -1,0 +1,46 @@
+{
+	"name": "DR CHAN PENG MUN CLINIC & SURGERY",
+	"tel": "67336060",
+	"fax": "67385273",
+	"licensee": "CHAN PENG MUN",
+	"licensePeriod": "04/06/2015 to 03/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400356",
+	"address": "5 KOEK RD, CUPPAGE PLAZA, #01-22/23/24 Singapore 228796",
+	"doctorInCharge": [
+		{
+			"name": "CHAN PENG MUN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1973"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 07:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 07:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 07:00 pm"
+	},
+	"id": "9400356",
+	"coordinates": [
+		103.8407258,
+		1.3019832
+	],
+	"svy21": [
+		28824.35,
+		31592.21
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

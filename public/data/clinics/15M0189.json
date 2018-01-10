@@ -1,0 +1,52 @@
+{
+	"name": "THE SURGICAL PRACTICE @ FARRER PARK",
+	"tel": "64433133",
+	"fax": "64433173",
+	"licensee": "TSP CLINICS (FP) PTE. LTD.",
+	"licensePeriod": "16/06/2017 to 15/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0189",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #13-05/06 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "Kan Yuk Man",
+			"qualifications": [
+				"MB ChB (University of Manchester, United Kingdom) 1993",
+				"FRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 1998"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery",
+			"Urology"
+		]
+	},
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "09:00 am to 05:30 pm",
+		"New Year (01/01/2018)": "09:00 am to 05:30 pm",
+		"Saturday": "12:30 pm to 05:30 pm",
+		"Sunday": "09:00 am to 05:30 pm"
+	},
+	"id": "15M0189",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

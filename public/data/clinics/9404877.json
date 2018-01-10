@@ -1,0 +1,55 @@
+{
+	"name": "DR WARREN LEE'S PAEDIATRICS, GROWTH & DIABETES CENTRE",
+	"tel": "62353678",
+	"fax": "62352618",
+	"licensee": "DR WARREN LEE'S PAEDIATRICS, GROWTH & DIABETES CENTRE PTE. LTD.",
+	"licensePeriod": "11/06/2014 to 10/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404877",
+	"address": "1 ORCHARD BOULEVARD, CAMDEN MEDICAL CENTRE, #02-06 Singapore 248649",
+	"doctorInCharge": [
+		{
+			"name": "Lee Wei Rhen Warren",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"M Med (Paed) (National University of Singapore, Singapore) 1992",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 1997",
+				"FRCP (Lond) (Royal College of Physicians of London, United Kingdom) 2000",
+				"FRCPCH (Royal College of Paediatrics and Child Health, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm"
+	},
+	"id": "9404877",
+	"coordinates": [
+		103.8239072,
+		1.3031376
+	],
+	"svy21": [
+		26952.59,
+		31719.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"name": "DR JEREMY CHAN MEDICAL CLINIC",
+	"tel": "62504191",
+	"fax": "62504196",
+	"licensee": "DJC MEDICAL PTE. LTD.",
+	"licensePeriod": "19/10/2017 to 18/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0363",
+	"address": "BLK 123 LORONG 1 TOA PAYOH, #01-493 Singapore 310123",
+	"doctorInCharge": [
+		{
+			"name": "Chan Zi Ping Jeremy",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2010",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 02:30 pm",
+		"Tuesday": "08:30 am to 02:30 pm",
+		"Wednesday": "06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 02:30 pm",
+		"Friday": "06:30 pm to 09:30 pm",
+		"Saturday": "06:30 pm to 09:30 pm",
+		"Sunday": "08:30 am to 02:30 pm"
+	},
+	"id": "15M0363",
+	"coordinates": [
+		103.8457038,
+		1.338649
+	],
+	"svy21": [
+		29378.35,
+		35646.53
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"name": "JAS MEDICAL SCREENING CENTRE PTE LTD",
+	"tel": "67416700",
+	"fax": "68416700",
+	"licensee": "LIAN TIAN YONG JOHNNY",
+	"licensePeriod": "08/03/2017 to 07/03/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403533",
+	"address": "67 LOR 27 GEYLANG, Singapore 388189",
+	"doctorInCharge": [
+		{
+			"name": "Narayanan Saravanan",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 08:00 pm",
+		"Tuesday": "08:30 am to 08:00 pm",
+		"Wednesday": "08:30 am to 08:00 pm",
+		"Thursday": "08:30 am to 08:00 pm",
+		"Friday": "08:30 am to 08:00 pm",
+		"Saturday": "08:30 am to 08:00 pm"
+	},
+	"id": "9403533",
+	"coordinates": [
+		103.8837236,
+		1.3161267
+	],
+	"svy21": [
+		33609.59,
+		33156.18
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

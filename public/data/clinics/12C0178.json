@@ -1,0 +1,54 @@
+{
+	"name": "ASIA SLEEP CENTRE",
+	"tel": "68360060",
+	"fax": "68360030",
+	"licensee": "Kenny Peter Pang",
+	"licensePeriod": "28/08/2016 to 27/08/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0178",
+	"address": "290 ORCHARD ROAD, PARAGON, #18-04 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Kenny Peter Pang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"FRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 2000",
+				"M Med (Otorhinolaryngology) (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Otorhinolaryngology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Otorhinolaryngology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "12C0178",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

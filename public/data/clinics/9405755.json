@@ -1,0 +1,42 @@
+{
+	"name": "KONG DENTAL SURGERY",
+	"tel": "92985853",
+	"fax": "67695833",
+	"licensee": "KONG DENTAL SURGERY (SINGAPORE) PTE. LTD.",
+	"licensePeriod": "19/11/2014 to 18/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405755",
+	"address": "BLK 534 CHOA CHU KANG STREET 51, Limbang Shopping Centre, #01-45 Singapore 680534",
+	"doctorInCharge": [
+		{
+			"name": "Kong Sing Huey",
+			"qualifications": [
+				"BDS (Queen's University of Belfast, United Kingdom) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"id": "9405755",
+	"coordinates": [
+		103.743191,
+		1.3922424
+	],
+	"svy21": [
+		17969.98,
+		41572.8
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

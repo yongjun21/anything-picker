@@ -1,0 +1,48 @@
+{
+	"name": "THOMSON DENTAL CENTRE",
+	"tel": "62550770",
+	"fax": "66817790",
+	"licensee": "THOMSON DENTAL CENTRE PTE. LTD.",
+	"licensePeriod": "20/12/2015 to 19/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0237",
+	"address": "8 SINARAN DRIVE, NOVENA SPECIALIST CENTER, #07-08/16/17/18/19 Singapore 307470",
+	"doctorInCharge": [
+		{
+			"name": "Eileen Neo",
+			"qualifications": [
+				"BDSc (University of Western Australia, Australia) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 07:00 pm",
+		"Tuesday": "09:00 am to 07:00 pm",
+		"Wednesday": "09:00 am to 07:00 pm",
+		"Thursday": "09:00 am to 07:00 pm",
+		"Friday": "09:00 am to 07:00 pm",
+		"Saturday": "09:00 am to 02:00 pm"
+	},
+	"id": "11C0237",
+	"coordinates": [
+		103.8447824,
+		1.3200301
+	],
+	"svy21": [
+		29275.81,
+		33587.74
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

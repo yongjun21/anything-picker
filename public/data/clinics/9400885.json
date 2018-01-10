@@ -1,0 +1,55 @@
+{
+	"name": "L & H POLYCLINIC AND SURGERY",
+	"tel": "64744544",
+	"fax": "64762215",
+	"licensee": "TONG PAIK KOON ELSIE",
+	"licensePeriod": "08/08/2015 to 07/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400885",
+	"address": "BLK 59 LENGKOK BAHRU, #01-543 Singapore 150059",
+	"doctorInCharge": [
+		{
+			"name": "TONG PAIK KOON ELSIE",
+			"qualifications": [
+				"MB ChB (University of Leeds, United Kingdom) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 06:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 06:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 06:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 06:30 pm",
+		"Friday": "08:30 am to 12:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400885",
+	"coordinates": [
+		103.8143521,
+		1.288798
+	],
+	"svy21": [
+		25889.19,
+		30134.26
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

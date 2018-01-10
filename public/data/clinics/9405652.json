@@ -1,0 +1,53 @@
+{
+	"name": "AESTHETIC DENTAL CARE",
+	"tel": "62262296",
+	"fax": "62219087",
+	"licensee": "Aesthetic Dental Care Pte. Ltd.",
+	"licensePeriod": "23/07/2016 to 22/07/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405652",
+	"address": "133 CECIL STREET, KECK SENG TOWER, #04-01 Singapore 069535",
+	"doctorInCharge": [
+		{
+			"name": "QUEK LI WEI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 01:30 pm to 05:15 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 01:30 pm to 05:15 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 01:30 pm to 05:15 pm",
+		"Thursday": "08:30 am to 12:30 pm, 01:30 pm to 05:15 pm",
+		"Friday": "08:30 am to 12:30 pm, 01:30 pm to 05:15 pm",
+		"Saturday": "08:30 am to 12:15 pm"
+	},
+	"id": "9405652",
+	"coordinates": [
+		103.849,
+		1.2802361
+	],
+	"svy21": [
+		29745.22,
+		29187.53
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

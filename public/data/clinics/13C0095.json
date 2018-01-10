@@ -1,0 +1,52 @@
+{
+	"name": "DRS CHUA & PARTNERS (AV) PTE LTD",
+	"tel": "63773179",
+	"fax": "63773169",
+	"licensee": "DRS CHUA & PARTNERS (AV) PTE. LTD.",
+	"licensePeriod": "18/04/2017 to 17/04/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0095",
+	"address": "BLK 125 Bukit Merah Lane 1, #01-174 Singapore 150125",
+	"doctorInCharge": [
+		{
+			"name": "Chua Yong Kwang Kevin",
+			"qualifications": [
+				"MB BCh BAO, LRCP & SI (National University of Ireland, Ireland) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 08:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 02:30 pm"
+	},
+	"id": "13C0095",
+	"coordinates": [
+		103.8029997,
+		1.2859337
+	],
+	"svy21": [
+		24625.77,
+		29817.55
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

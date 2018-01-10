@@ -1,0 +1,53 @@
+{
+	"name": "DENTAL ESSENCE",
+	"tel": "67339433",
+	"fax": "67339255",
+	"licensee": "DENTAL ESSENCE PTE. LTD.",
+	"licensePeriod": "03/05/2016 to 02/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405184",
+	"address": "127/129 TANGLIN ROAD, TUDOR COURT, Singapore 247922",
+	"doctorInCharge": [
+		{
+			"name": "Andrew Stewart Lui",
+			"qualifications": [
+				"BDSc (University of Melbourne, Australia) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Periodontology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405184",
+	"coordinates": [
+		103.8246389,
+		1.3051856
+	],
+	"svy21": [
+		27034.03,
+		31946.31
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

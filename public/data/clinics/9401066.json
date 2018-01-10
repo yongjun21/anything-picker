@@ -1,0 +1,48 @@
+{
+	"name": "MEDEN CLINIC & SURGERY",
+	"tel": "62713586",
+	"fax": "62713586",
+	"licensee": "CHANG HAU SENG",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401066",
+	"address": "BLK 35 TELOK BLANGAH RISE, #01-295 Singapore 090035",
+	"doctorInCharge": [
+		{
+			"name": "CHANG HAU SENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1975"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:15 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 08:30 pm",
+		"Tuesday": "09:15 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 08:30 pm",
+		"Wednesday": "09:15 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:15 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:15 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:15 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Sunday": "09:15 am to 12:00 pm"
+	},
+	"id": "9401066",
+	"coordinates": [
+		103.8221232,
+		1.273022
+	],
+	"svy21": [
+		26754.05,
+		28389.83
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"name": "Q & M DENTAL SURGERY (SERANGOON CENTRAL)",
+	"tel": "65098858",
+	"fax": "65093550",
+	"licensee": "Q & M DENTAL SURGERY (SERANGOON CENTRAL) PTE. LTD.",
+	"licensePeriod": "01/12/2014 to 30/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405762",
+	"address": "23 SERANGOON CENTRAL, NEX, #04-25 Singapore 556083",
+	"doctorInCharge": [
+		{
+			"name": "Yap Kin Wai",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1997",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2005",
+				"MDS (Periodontology) (Singapore) (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9405762",
+	"coordinates": [
+		103.8722961,
+		1.3507694
+	],
+	"svy21": [
+		32337.77,
+		36986.76
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

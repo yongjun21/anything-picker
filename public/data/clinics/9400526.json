@@ -1,0 +1,51 @@
+{
+	"name": "FAMILY POINT CLINIC & SURGERY",
+	"tel": "62680232",
+	"fax": "62680232",
+	"licensee": "YANG TUCK FOOK",
+	"licensePeriod": "11/06/2014 to 10/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400526",
+	"address": "BLK 399 YUNG SHENG ROAD, #01-55 Singapore 610399",
+	"doctorInCharge": [
+		{
+			"name": "YANG TUCK FOOK",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9400526",
+	"coordinates": [
+		103.720462,
+		1.3348449
+	],
+	"svy21": [
+		15440.24,
+		35226.17
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

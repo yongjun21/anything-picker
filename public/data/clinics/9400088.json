@@ -1,0 +1,55 @@
+{
+	"name": "B S CHEW CLINIC",
+	"tel": "65678803",
+	"fax": "65678803",
+	"licensee": "CHEW BAN SOON",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400088",
+	"address": "BLK 252 JURONG EAST ST 24, #01-109 Singapore 600252",
+	"doctorInCharge": [
+		{
+			"name": "CHEW BAN SOON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "09:00 am to 12:00 pm",
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Sunday": "09:00 am to 12:00 pm, 07:00 pm to 09:00 pm"
+	},
+	"id": "9400088",
+	"coordinates": [
+		103.7381453,
+		1.3430264
+	],
+	"svy21": [
+		17408.24,
+		36130.76
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

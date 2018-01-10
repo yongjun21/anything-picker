@@ -1,0 +1,43 @@
+{
+	"name": "EHA CLINIC",
+	"tel": "62353325",
+	"fax": "62353695",
+	"licensee": "Elias Tam Tak Chuen",
+	"licensePeriod": "07/06/2016 to 06/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405784",
+	"address": "1 SCOTTS ROAD, SHAW CENTRE, #15-01 Singapore 228208",
+	"doctorInCharge": [
+		{
+			"name": "Elias Tam Tak Chuen",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2006",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9405784",
+	"coordinates": [
+		103.8319706,
+		1.3061133
+	],
+	"svy21": [
+		27849.98,
+		32048.9
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

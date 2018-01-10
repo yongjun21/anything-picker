@@ -1,0 +1,54 @@
+{
+	"name": "HEALTH FIRST FAMILY CLINIC",
+	"tel": "67932833",
+	"fax": "67932877",
+	"licensee": "Lee Chi Keong",
+	"licensePeriod": "27/06/2016 to 26/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0112",
+	"address": "BLK 26 JALAN MEMBINA, MULTI STOREY CAR PARK, #01-06 Singapore 161026",
+	"doctorInCharge": [
+		{
+			"name": "Lee Chi Keong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "08:30 am to 12:30 pm, 07:00 pm to 09:30 pm",
+		"Public Holiday": "08:30 am to 12:30 pm, 07:00 pm to 09:30 pm"
+	},
+	"id": "12C0112",
+	"coordinates": [
+		103.8255958,
+		1.2826344
+	],
+	"svy21": [
+		27140.51,
+		29452.71
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

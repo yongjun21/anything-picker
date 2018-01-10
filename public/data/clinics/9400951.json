@@ -1,0 +1,48 @@
+{
+	"name": "LIEW CLINIC",
+	"tel": "64431794",
+	"fax": "64431794",
+	"licensee": "LIEW BEE LENG",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400951",
+	"address": "BLK 5000G MARINE PARADE ROAD, LAGUNA PARK, #01-31 Singapore 449290",
+	"doctorInCharge": [
+		{
+			"name": "LIEW BEE LENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1969"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:00 pm, 02:30 pm to 04:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:30 pm to 04:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:30 pm to 04:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:30 pm to 04:00 pm"
+	},
+	"id": "9400951",
+	"coordinates": [
+		103.9321935,
+		1.310084
+	],
+	"svy21": [
+		39003.85,
+		32488.17
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

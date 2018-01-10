@@ -1,0 +1,54 @@
+{
+	"name": "115 EASTPOINT CLINIC & SURGERY",
+	"tel": "64410180",
+	"fax": "00000000",
+	"licensee": "CHAN BENG LEONG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400001",
+	"address": "BLK 115 BEDOK NORTH RD, #01-301 Singapore 460115",
+	"doctorInCharge": [
+		{
+			"name": "CHAN BENG LEONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1992",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:30 am to 12:30 pm, 02:30 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 02:30 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 02:30 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Thursday": "09:30 am to 12:30 pm, 02:30 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:30 pm to 04:00 pm, 07:00 pm to 08:30 pm"
+	},
+	"id": "9400001",
+	"coordinates": [
+		103.9371915,
+		1.3316567
+	],
+	"svy21": [
+		39559.98,
+		34873.59
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

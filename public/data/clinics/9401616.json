@@ -1,0 +1,59 @@
+{
+	"name": "TAN-TEOH CLINIC & SURGERY",
+	"tel": "62992292",
+	"fax": "62995662",
+	"licensee": "TAN CHAI LEE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401616",
+	"address": "BLK 101 TOWNER RD, #01-216 Singapore 322101",
+	"doctorInCharge": [
+		{
+			"name": "TAN CHAI LEE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 06:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 06:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 06:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 06:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 06:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 01:00 pm, 02:00 pm to 04:00 pm",
+		"Sunday": "08:30 am to 12:30 pm",
+		"Public Holiday": "08:30 am to 12:30 pm"
+	},
+	"id": "9401616",
+	"coordinates": [
+		103.8610875,
+		1.3194254
+	],
+	"svy21": [
+		31090.4,
+		33520.89
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

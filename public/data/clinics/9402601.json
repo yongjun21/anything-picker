@@ -1,0 +1,42 @@
+{
+	"name": "BETHEL DENTAL SURGERY",
+	"tel": "67678086",
+	"fax": "67678086",
+	"licensee": "Dr Audrey Low & Associates Pte. Ltd.",
+	"licensePeriod": "29/11/2013 to 28/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402601",
+	"address": "1 Jelebu Road, Bukit Panjang Plaza, #01-63 Singapore 677743",
+	"doctorInCharge": [
+		{
+			"name": "Low Bee Lan Audrey",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"id": "9402601",
+	"coordinates": [
+		103.7643572,
+		1.3799205
+	],
+	"svy21": [
+		20325.46,
+		40210.22
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

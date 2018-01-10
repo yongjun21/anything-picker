@@ -1,0 +1,35 @@
+{
+	"name": "PCS MEDICAL CENTRE",
+	"tel": "68672037",
+	"fax": "68672036",
+	"licensee": "FULLERTON HEALTHCARE GROUP PTE. LIMITED",
+	"licensePeriod": "01/10/2017 to 30/09/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13M0253",
+	"address": "100 AYER MERBAU ROAD, PCS, Singapore 628277",
+	"doctorInCharge": [
+		{
+			"name": "Elton Ong Kong Yiow",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "13M0253",
+	"coordinates": [
+		103.711677,
+		1.2738325
+	],
+	"svy21": [
+		14462.23,
+		28479.77
+	],
+	"planningArea": "WI",
+	"neighbours": [
+		"JE"
+	]
+}

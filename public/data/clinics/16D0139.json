@@ -1,0 +1,37 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64353756",
+	"fax": "64382248",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "13/05/2016 to 12/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0139",
+	"address": "71 EDGEFIELD PLAINS, OASIS PRIMARY SCHOOL, Singapore 828716",
+	"doctorInCharge": [
+		{
+			"name": "Tan Noeline",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "16D0139",
+	"coordinates": [
+		103.9111206,
+		1.4046241
+	],
+	"svy21": [
+		36658.3,
+		42941.86
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

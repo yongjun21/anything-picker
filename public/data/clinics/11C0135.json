@@ -1,0 +1,54 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "66360160",
+	"fax": "66360159",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "03/05/2017 to 02/05/2019",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "11C0135",
+	"address": "8 MARINA VIEW, ASIA SQUARE TOWER 1, #15-01 Singapore 018960",
+	"doctorInCharge": [
+		{
+			"name": "Siew Wai Leen",
+			"qualifications": [
+				"MB BCh (University of Wales, United Kingdom) 1985",
+				"Diploma (Tropical Med & Hygiene) (University of Liverpool, United Kingdom) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "11C0135",
+	"coordinates": [
+		103.8512559,
+		1.278941
+	],
+	"svy21": [
+		29996.28,
+		29044.33
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

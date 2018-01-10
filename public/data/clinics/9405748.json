@@ -1,0 +1,52 @@
+{
+	"name": "CHARISMILE DENTISTRY",
+	"tel": "65572655",
+	"fax": "65365970",
+	"licensee": "CHARISMILE PTE. LTD.",
+	"licensePeriod": "22/08/2016 to 21/08/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405748",
+	"address": "10 ANSON ROAD, INTERNATIONAL PLAZA, #02-47 Singapore 079903",
+	"doctorInCharge": [
+		{
+			"name": "Jerry Lian Chee Wei",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 07:00 pm",
+		"Tuesday": "10:00 am to 07:00 pm",
+		"Wednesday": "10:00 am to 07:00 pm",
+		"Thursday": "10:00 am to 07:00 pm",
+		"Friday": "10:00 am to 07:00 pm",
+		"Saturday": "10:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405748",
+	"coordinates": [
+		103.8459237,
+		1.2758867
+	],
+	"svy21": [
+		29402.85,
+		28706.59
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

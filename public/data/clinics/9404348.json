@@ -1,0 +1,56 @@
+{
+	"name": "MY DOCTOR'S PLACE PTE LTD",
+	"tel": "64449687",
+	"fax": "64449050",
+	"licensee": "MY DOCTOR'S PLACE PTE. LTD.",
+	"licensePeriod": "23/01/2017 to 22/01/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404348",
+	"address": "BLK 218 BEDOK NORTH STREET 1, #01-41 Singapore 460218",
+	"doctorInCharge": [
+		{
+			"name": "Sim Buan Lee Gilbert",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 12:30 pm, 06:00 pm to 10:00 pm",
+		"Monday": "08:00 am to 04:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 04:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 04:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:00 am to 04:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 04:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "08:30 am to 12:30 pm, 06:00 pm to 10:00 pm",
+		"Sunday": "08:30 am to 12:30 pm, 06:00 pm to 10:00 pm"
+	},
+	"id": "9404348",
+	"coordinates": [
+		103.9342494,
+		1.327493
+	],
+	"svy21": [
+		39232.58,
+		34413.17
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

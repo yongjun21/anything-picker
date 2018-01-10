@@ -1,0 +1,48 @@
+{
+	"name": "DR L Y LAI & NEO CLINIC",
+	"tel": "65331927",
+	"fax": "65330380",
+	"licensee": "NEO WEE SUAN",
+	"licensePeriod": "11/12/2013 to 10/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400371",
+	"address": "1 PARK ROAD, PEOPLE'S PARK COMPLEX, #04-27 Singapore 059108",
+	"doctorInCharge": [
+		{
+			"name": "NEO WEE SUAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9400371",
+	"coordinates": [
+		103.8425196,
+		1.2841339
+	],
+	"svy21": [
+		29023.99,
+		29618.52
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

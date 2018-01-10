@@ -1,0 +1,54 @@
+{
+	"name": "FAMILY HEALTH MEDICAL CENTRE",
+	"tel": "64541980",
+	"fax": "64549501",
+	"licensee": "VIDA CHOU",
+	"licensePeriod": "29/05/2017 to 28/05/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400520",
+	"address": "BLK 226G ANG MO KIO AVE 1, #01-681 Singapore 567226",
+	"doctorInCharge": [
+		{
+			"name": "VIDA CHOU",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400520",
+	"coordinates": [
+		103.8398611,
+		1.3668259
+	],
+	"svy21": [
+		28728.1,
+		38762.18
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

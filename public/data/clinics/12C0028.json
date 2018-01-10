@@ -1,0 +1,51 @@
+{
+	"name": "CARING DENTAL",
+	"tel": "63522282",
+	"fax": "63522282",
+	"licensee": "CARING DENTAL PTE. LTD.",
+	"licensePeriod": "28/02/2016 to 27/02/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0028",
+	"address": "BLK 111 LORONG 1 TOA PAYOH, #01-362 Singapore 310111",
+	"doctorInCharge": [
+		{
+			"name": "Tan Yang Xian Christopher",
+			"qualifications": [
+				"BDSc (University of Melbourne, Australia) 2007"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 09:00 pm",
+		"Saturday": "09:00 pm to 03:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "12C0028",
+	"coordinates": [
+		103.8453061,
+		1.3412371
+	],
+	"svy21": [
+		29334.09,
+		35932.71
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

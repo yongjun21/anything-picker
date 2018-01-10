@@ -1,0 +1,56 @@
+{
+	"name": "CHANLAI HEALTHCARE CLINIC",
+	"tel": "67563456",
+	"fax": "67565600",
+	"licensee": "CHAN KAH KWOK HENRY",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400204",
+	"address": "BLK 604 YISHUN ST 61, #01-325 Singapore 760604",
+	"doctorInCharge": [
+		{
+			"name": "CHAN KAH KWOK HENRY",
+			"qualifications": [
+				"MBBS (University of Hong Kong, China, Hong Kong) 1974"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:30 am to 12:30 pm",
+		"Saturday": "09:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400204",
+	"coordinates": [
+		103.8355453,
+		1.4217135
+	],
+	"svy21": [
+		28247.8,
+		44831.37
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

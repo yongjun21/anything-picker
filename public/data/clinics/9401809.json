@@ -1,0 +1,46 @@
+{
+	"name": "UNITED MEDICAL PRACTITIONERS",
+	"tel": "67832266",
+	"fax": "67868501",
+	"licensee": "TAN JOONG PIANG",
+	"licensePeriod": "01/01/2017 to 31/12/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401809",
+	"address": "BLK 201B TAMPINES ST 21, #01-1065 Singapore 522201",
+	"doctorInCharge": [
+		{
+			"name": "TAN JOONG PIANG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "08:30 am to 12:00 pm"
+	},
+	"id": "9401809",
+	"coordinates": [
+		103.9530099,
+		1.3534532
+	],
+	"svy21": [
+		41320.3,
+		37283.82
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

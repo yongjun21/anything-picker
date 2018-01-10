@@ -1,0 +1,52 @@
+{
+	"name": "EL SHADDAI ARTHRITIS + RHEUMATISM SPECIALIST MEDICAL CENTRE",
+	"tel": "63966966",
+	"fax": "63966696",
+	"licensee": "YOON KAM HON",
+	"licensePeriod": "29/09/2015 to 28/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405321",
+	"address": "BLK 102 TOWNER ROAD, #01-258 Singapore 322102",
+	"doctorInCharge": [
+		{
+			"name": "YOON KAM HON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1997",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Internal Medicine",
+				"Rheumatology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Internal Medicine",
+			"Rheumatology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9405321",
+	"coordinates": [
+		103.862002,
+		1.3205861
+	],
+	"svy21": [
+		31192.18,
+		33649.24
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

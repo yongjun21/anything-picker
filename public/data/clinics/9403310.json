@@ -1,0 +1,50 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "62543652",
+	"fax": "62543652",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "07/02/2015 to 06/02/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403310",
+	"address": "50 BARKER ROAD,, ANGLO-CHINESE SCHOOL (PRIMARY), Singapore 309918",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wanyi",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403310",
+	"coordinates": [
+		103.8356097,
+		1.3183705
+	],
+	"svy21": [
+		28254.98,
+		33404.23
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

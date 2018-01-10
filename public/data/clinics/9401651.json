@@ -1,0 +1,57 @@
+{
+	"name": "TEOH CLINIC FAMILY PRACTICE",
+	"tel": "62555188",
+	"fax": "62506070",
+	"licensee": "TEOH CHE CHUNG ELVIN",
+	"licensePeriod": "07/10/2014 to 06/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401651",
+	"address": "BLK 47 LORONG 6 TOA PAYOH, #01-142 Singapore 310047",
+	"doctorInCharge": [
+		{
+			"name": "TEOH CHE CHUNG ELVIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "10:00 am to 12:00 pm"
+	},
+	"id": "9401651",
+	"coordinates": [
+		103.8540304,
+		1.3369103
+	],
+	"svy21": [
+		30305,
+		35454.27
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

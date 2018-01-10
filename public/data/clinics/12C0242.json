@@ -1,0 +1,59 @@
+{
+	"name": "ROPHI CLINIC",
+	"tel": "66945698",
+	"fax": "66945697",
+	"licensee": "ROPHI CLINIC PTE. LTD.",
+	"licensePeriod": "25/02/2016 to 24/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "12C0242",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #07-54/55 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Leong Hoe Nam",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2001"
+			],
+			"specialties": [
+				"Infectious Diseases"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true,
+		"Specialist Medical": [
+			"Geriatric Medicine",
+			"Infectious Diseases"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "12C0242",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

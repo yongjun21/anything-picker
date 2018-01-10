@@ -1,0 +1,58 @@
+{
+	"name": "C & A DENTAL STUDIO",
+	"tel": "64687847",
+	"fax": "64687848",
+	"licensee": "Ong Keat Siong Cliff",
+	"licensePeriod": "01/09/2014 to 31/08/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405689",
+	"address": "23A LORONG MAMBONG, HOLLAND VILLAGE, Singapore 277682",
+	"doctorInCharge": [
+		{
+			"name": "Ong Keat Siong Cliff",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995",
+				"FDSRCS (England) (Royal College of Surgeons of England, United Kingdom) 1998",
+				"MDS (Oral & Maxillofacial Surgery) (Singapore) (National University of Singapore, Singapore) 1998",
+				"FFD RCSI (Oral Surgery) (Royal College of Surgeons of Ireland, Ireland) 1998",
+				"FDSRCPS (Glasgow) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1999",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2000"
+			],
+			"specialties": [
+				"Oral & Maxillo-Facial Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:00 pm",
+		"Tuesday": "08:00 am to 05:00 pm",
+		"Wednesday": "08:00 am to 05:00 pm",
+		"Thursday": "08:00 am to 05:00 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9405689",
+	"coordinates": [
+		103.7945797,
+		1.3114324
+	],
+	"svy21": [
+		23688.73,
+		32637.08
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

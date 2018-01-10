@@ -1,0 +1,53 @@
+{
+	"name": "NEO MEDICAL CENTRE",
+	"tel": "62854210",
+	"fax": "62854210",
+	"licensee": "NEO TIAM SOON",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401161",
+	"address": "BLK 120 POTONG PASIR AVE 1, #01-818 Singapore 350120",
+	"doctorInCharge": [
+		{
+			"name": "NEO TIAM SOON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Thursday": "Closed",
+		"Saturday": "Closed"
+	},
+	"id": "9401161",
+	"coordinates": [
+		103.863388,
+		1.3354535
+	],
+	"svy21": [
+		31346.41,
+		35293.2
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

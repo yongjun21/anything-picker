@@ -1,0 +1,49 @@
+{
+	"name": "PRIME DENTAL SURGEONS",
+	"tel": "64560335",
+	"fax": "64544087",
+	"licensee": "PRIME DENTAL SURGEONS PTE. LTD.",
+	"licensePeriod": "26/12/2013 to 25/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403477",
+	"address": "BLK 163 Ang Mo Kio Ave 4, #01-422 Singapore 560163",
+	"doctorInCharge": [
+		{
+			"name": "Seet Yue Min,Edmond",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403477",
+	"coordinates": [
+		103.8381765,
+		1.3735485
+	],
+	"svy21": [
+		28540.62,
+		39505.53
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

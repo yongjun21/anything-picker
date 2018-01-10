@@ -1,0 +1,46 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "63112121",
+	"fax": "63112133",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "30/04/2017 to 29/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0124",
+	"address": "585 NORTH BRIDGE ROAD, LEVEL 2, RAFFLES HOSPITAL, Singapore 188770",
+	"doctorInCharge": [
+		{
+			"name": "TAN YEOW MENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "15M0124",
+	"coordinates": [
+		103.8574655,
+		1.3011815
+	],
+	"svy21": [
+		30687.33,
+		31503.57
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

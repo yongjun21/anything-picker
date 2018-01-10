@@ -1,0 +1,38 @@
+{
+	"name": "PRIMA DENTAL SURGERY",
+	"tel": "67830250",
+	"fax": "67830250",
+	"licensee": "ONG BENG LAY",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401338",
+	"address": "BLK 419 TAMPINES ST 41, #01-96 Singapore 520419",
+	"doctorInCharge": [
+		{
+			"name": "ONG BENG LAY",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9401338",
+	"coordinates": [
+		103.9467269,
+		1.3578325
+	],
+	"svy21": [
+		40621.05,
+		37768.03
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

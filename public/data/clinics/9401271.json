@@ -1,0 +1,57 @@
+{
+	"name": "PACIFIC MEDICAL & DENTAL GROUP",
+	"tel": "67524050",
+	"fax": "67529365",
+	"licensee": "LEONARD LIM KWANG BENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401271",
+	"address": "BLK 716 YISHUN ST 71, #01-270 Singapore 760716",
+	"doctorInCharge": [
+		{
+			"name": "LEONARD LIM KWANG BENG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1987",
+				"DGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 03:00 pm",
+		"Wednesday": "06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 03:00 pm",
+		"Friday": "06:30 pm to 09:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Public Holiday": "08:30 am to 12:30 pm"
+	},
+	"id": "9401271",
+	"coordinates": [
+		103.8274494,
+		1.4261573
+	],
+	"svy21": [
+		27346.85,
+		45322.74
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

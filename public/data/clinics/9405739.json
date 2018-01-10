@@ -1,0 +1,56 @@
+{
+	"name": "JUBILEE FAMILY PHYSICIANS",
+	"tel": "65821883",
+	"fax": "65818161",
+	"licensee": "TAN KEE WANG",
+	"licensePeriod": "27/02/2017 to 26/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405739",
+	"address": "BLK 258 PASIR RIS ST 21, #02-16 Singapore 510258",
+	"doctorInCharge": [
+		{
+			"name": "TAN KEE WANG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1999",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 12:30 pm, 01:30 pm to 04:00 pm",
+		"Wednesday": "08:00 am to 12:30 pm, 01:30 pm to 04:00 pm",
+		"Tuesday": "08:00 am to 12:30 pm, 01:30 pm to 04:00 pm",
+		"Thursday": "08:00 am to 12:30 pm, 01:30 pm to 04:00 pm",
+		"Friday": "06:30 pm to 09:00 pm",
+		"Saturday": "08:00 am to 12:30 pm"
+	},
+	"id": "9405739",
+	"coordinates": [
+		103.9646322,
+		1.3670736
+	],
+	"svy21": [
+		42613.65,
+		38789.97
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

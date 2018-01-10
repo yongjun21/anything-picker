@@ -1,0 +1,38 @@
+{
+	"name": "APPLE WELLNESS CENTER MEDICAL SERVICES",
+	"tel": "64808405",
+	"fax": "62271216",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "25/11/2016 to 24/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0362",
+	"address": "2 FUSIONOPOLIS WAY, INNOVIS BUILDING LEVEL 2, Singapore 138634",
+	"doctorInCharge": [
+		{
+			"name": "McKay Cameron Sinclair",
+			"qualifications": [
+				"MB ChB (University of Otago, New Zealand) 1991"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0362",
+	"coordinates": [
+		103.7886979,
+		1.2984262
+	],
+	"svy21": [
+		23034.12,
+		31198.94
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

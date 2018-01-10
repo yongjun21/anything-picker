@@ -1,0 +1,56 @@
+{
+	"name": "KANG AN CLINIC PTE LTD",
+	"tel": "65664856",
+	"fax": "65664856",
+	"licensee": "KANG AN CLINIC PTE LTD",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400817",
+	"address": "BLK 644 BT BATOK CENTRAL, #01-70 Singapore 650644",
+	"doctorInCharge": [
+		{
+			"name": "LEE MEOW YOONG",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1978"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:45 pm, 02:00 pm to 04:45 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:45 pm, 02:00 pm to 04:45 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:45 pm, 02:00 pm to 04:45 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:45 pm, 02:00 pm to 04:45 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:45 pm, 02:00 pm to 04:45 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9400817",
+	"coordinates": [
+		103.7517903,
+		1.3486668
+	],
+	"svy21": [
+		18926.81,
+		36754.39
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

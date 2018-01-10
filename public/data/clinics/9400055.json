@@ -1,0 +1,55 @@
+{
+	"name": "APEX MEDICAL CENTRE (JURONG) PTE LTD",
+	"tel": "67912292",
+	"fax": "67957953",
+	"licensee": "LING CHIA TIEN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400055",
+	"address": "BLK 960 JURONG WEST ST 92, #01-172 Singapore 640960",
+	"doctorInCharge": [
+		{
+			"name": "LING CHIA TIEN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 12:00 pm",
+		"Monday": "08:30 am to 08:30 pm",
+		"Tuesday": "08:30 am to 08:30 pm",
+		"Wednesday": "08:30 am to 08:30 pm",
+		"Thursday": "08:30 am to 08:30 pm",
+		"Friday": "08:30 am to 08:30 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "08:30 am to 12:00 pm, 07:00 pm to 09:00 pm"
+	},
+	"id": "9400055",
+	"coordinates": [
+		103.6914596,
+		1.3413853
+	],
+	"svy21": [
+		12212.62,
+		35949.55
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

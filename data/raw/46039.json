@@ -1,0 +1,29 @@
+{
+	"name": "ROLO MEDICAL CENTER",
+	"tel": "62660701",
+	"fax": "62660723",
+	"licensee": "ROLO Medical Center Pte Ltd",
+	"licensePeriod": "15/10/2017 to 14/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0320",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #11-52 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Felicia Tan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002",
+				"M Med (Surg) (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery",
+			"Neurosurgery"
+		]
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"name": "HEALTHPRO CLINIC AND SURGERY",
+	"tel": "67833306",
+	"fax": "65422376",
+	"licensee": "QUAH SIOK CHUAN",
+	"licensePeriod": "01/09/2014 to 31/08/2019",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9400655",
+	"address": "BLK 820 TAMPINES ST 81, #01-516 Singapore 520820",
+	"doctorInCharge": [
+		{
+			"name": "QUAH SIOK CHUAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9400655",
+	"coordinates": [
+		103.9361199,
+		1.3479297
+	],
+	"svy21": [
+		39440.66,
+		36672.97
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

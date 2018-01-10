@@ -1,0 +1,54 @@
+{
+	"name": "E MEDICAL CLINIC & SURGERY",
+	"tel": "65632798",
+	"fax": "65632798",
+	"licensee": "Chew Chee Wei",
+	"licensePeriod": "21/03/2015 to 20/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403935",
+	"address": "BLK 639 Bukit Batok Central, #01-34 Singapore 650639",
+	"doctorInCharge": [
+		{
+			"name": "Chew Chee Wei",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Tuesday": "12:00 pm to 09:00 pm",
+		"Thursday": "12:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 06:00 pm"
+	},
+	"id": "9403935",
+	"coordinates": [
+		103.7520374,
+		1.349256
+	],
+	"svy21": [
+		18954.31,
+		36819.54
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

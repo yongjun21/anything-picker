@@ -1,0 +1,57 @@
+{
+	"name": "FRESENIUS MEDICAL CARE TANGLIN DIALYSIS CLINIC",
+	"tel": "67340303",
+	"fax": "62359161",
+	"licensee": "FRESENIUS MEDICAL CARE SINGAPORE PTE. LTD.",
+	"licensePeriod": "22/07/2017 to 21/07/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9403084",
+	"address": "1 ORCHARD BOULEVARD, CAMDEN MEDICAL CENTRE, #07-09 Singapore 248649",
+	"doctorInCharge": [
+		{
+			"name": "WU YIK TIAN",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 1974",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1981",
+				"FAMS (Academy of Medicine, Singapore) 1991"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "07:00 am to 10:30 pm",
+		"Tuesday": "07:00 am to 10:30 pm",
+		"Wednesday": "07:00 am to 10:30 pm",
+		"Thursday": "07:00 am to 10:30 pm",
+		"Friday": "07:00 am to 10:30 pm",
+		"Saturday": "07:00 am to 10:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9403084",
+	"coordinates": [
+		103.8239072,
+		1.3031376
+	],
+	"svy21": [
+		26952.59,
+		31719.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

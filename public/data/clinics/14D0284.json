@@ -1,0 +1,45 @@
+{
+	"name": "MALO CLINIC NUFFIELD DENTAL",
+	"tel": "67023238",
+	"fax": "67023239",
+	"licensee": "NUFFIELD DENTAL SIMPANG BEDOK PRIVATE LIMITED",
+	"licensePeriod": "17/09/2016 to 16/09/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "14D0284",
+	"address": "430 UPPER CHANGI ROAD, EAST VILLAGE, #01-63 Singapore 487048",
+	"doctorInCharge": [
+		{
+			"name": "Samintharaj Kumar",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"id": "14D0284",
+	"coordinates": [
+		103.9462012,
+		1.3317758
+	],
+	"svy21": [
+		40562.68,
+		34886.81
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

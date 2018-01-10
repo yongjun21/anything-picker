@@ -1,0 +1,39 @@
+{
+	"name": "J DENTAL",
+	"tel": "62252635",
+	"fax": "62259382",
+	"licensee": "AZT HEALTHCARE MANAGEMENT PTE. LTD.",
+	"licensePeriod": "12/06/2017 to 11/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17D0171",
+	"address": "399 YUNG SHENG ROAD, TAMAN JURONG SHOPPING CENTRE, #01-31 Singapore 610399",
+	"doctorInCharge": [
+		{
+			"name": "FAISAL BIN ABDUL AZIZ",
+			"qualifications": [
+				"BDS (University of London, United Kingdom) 2014"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "17D0171",
+	"coordinates": [
+		103.720462,
+		1.3348449
+	],
+	"svy21": [
+		15440.24,
+		35226.17
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

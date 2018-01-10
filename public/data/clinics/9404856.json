@@ -1,0 +1,52 @@
+{
+	"name": "TOOFDOCTOR DENTAL SURGEONS (SERANGOON CENTRAL)",
+	"tel": "64875027",
+	"fax": "64875028",
+	"licensee": "Kalona Pte. Ltd.",
+	"licensePeriod": "16/05/2014 to 15/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404856",
+	"address": "BLK 263 SERANGOON CENTRAL DRIVE, #01-71 Singapore 550263",
+	"doctorInCharge": [
+		{
+			"name": "Tan Hui Ling Sharon",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "09:00 am to 05:00 pm"
+	},
+	"id": "9404856",
+	"coordinates": [
+		103.8719396,
+		1.3538632
+	],
+	"svy21": [
+		32298.08,
+		37328.87
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

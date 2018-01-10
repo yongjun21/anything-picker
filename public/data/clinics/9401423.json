@@ -1,0 +1,47 @@
+{
+	"name": "S G CLINIC FAMILY PRACTICE",
+	"tel": "63821988",
+	"fax": "62881474",
+	"licensee": "SURESH RAMCHAND MAHTANI",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401423",
+	"address": "84 SERANGOON GARDEN WAY, Singapore 555980",
+	"doctorInCharge": [
+		{
+			"name": "SURESH RAMCHAND MAHTANI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9401423",
+	"coordinates": [
+		103.8649893,
+		1.3643594
+	],
+	"svy21": [
+		31524.58,
+		38489.47
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

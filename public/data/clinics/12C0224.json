@@ -1,0 +1,60 @@
+{
+	"name": "ME NOVENA SPECIALIST GROUP",
+	"tel": "66906818",
+	"fax": "66906828",
+	"licensee": "ME NOVENA SPECIALIST GROUP PTE. LTD.",
+	"licensePeriod": "10/10/2016 to 09/10/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0224",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #08-36/37/38/39 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "TANG I HSIUNG JOHANN",
+			"qualifications": [
+				"B Med (University of Newcastle, Australia) 1998",
+				"FRANZCR (Radiation Oncology) (Royal Australian and New Zealand College of Radiologists, Australia) 2007",
+				"FAMS (Academy of Medicine, Singapore) 2007"
+			],
+			"specialties": [
+				"Radiation Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery",
+			"Obstetrics & Gynaecology",
+			"Radiation Oncology",
+			"Urology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "12C0224",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

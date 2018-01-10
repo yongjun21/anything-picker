@@ -1,0 +1,57 @@
+{
+	"name": "H L KONG MEDICAL ONCOLOGY CENTRE",
+	"tel": "62359383",
+	"fax": "62358112",
+	"licensee": "H L Kong Medical Oncology Centre Pte. Ltd.",
+	"licensePeriod": "10/05/2016 to 09/05/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403938",
+	"address": "290 ORCHARD ROAD, PARAGON, #17-01/02 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "KONG HWAI LOONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1993",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1993",
+				"FAMS (Med Oncology) (Academy of Medicine, Singapore) 1998"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9403938",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

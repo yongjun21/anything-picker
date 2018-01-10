@@ -1,0 +1,44 @@
+{
+	"name": "HEALTHSERVE DENTAL CLINIC",
+	"tel": "67439774",
+	"fax": "67436174",
+	"licensee": "HEALTHSERVE LTD.",
+	"licensePeriod": "01/10/2017 to 30/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0337",
+	"address": "1 LORONG 23 GEYLANG, BUILDING 4, #01-07 Singapore 388352",
+	"doctorInCharge": [
+		{
+			"name": "LEWIS LEE",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983",
+				"MDS (Oral & Maxillofacial Surgery) (Singapore) (National University of Singapore, Singapore) 1987",
+				"FDS RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 1989",
+				"FAMS (Oral & Maxillofacial Surgery) (Academy of Medicine, Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Oral & Maxillo-Facial Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "15D0337",
+	"coordinates": [
+		103.8807076,
+		1.3139376
+	],
+	"svy21": [
+		33273.94,
+		32914.11
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"name": "GALILEE CLINIC",
+	"tel": "67498522",
+	"fax": "67498522",
+	"licensee": "NG KAI SUM",
+	"licensePeriod": "04/02/2017 to 03/02/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9402410",
+	"address": "BLK 342 UBI AVE 1, #01-935 Singapore 400342",
+	"doctorInCharge": [
+		{
+			"name": "NG KAI SUM",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9402410",
+	"coordinates": [
+		103.90117,
+		1.3264334
+	],
+	"svy21": [
+		35551.18,
+		34295.88
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

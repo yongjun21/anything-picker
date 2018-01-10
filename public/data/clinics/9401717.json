@@ -1,0 +1,47 @@
+{
+	"name": "THE MEDICAL PRACTICE",
+	"tel": "62981228",
+	"fax": "62981228",
+	"licensee": "NG THIN ONN TONY",
+	"licensePeriod": "01/07/2016 to 30/06/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401717",
+	"address": "BLK 15 BEACH RD, #01-4683 Singapore 190015",
+	"doctorInCharge": [
+		{
+			"name": "NG THIN ONN TONY",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1965"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "10:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "10:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "10:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "10:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "10:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "10:30 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9401717",
+	"coordinates": [
+		103.8631534,
+		1.3034254
+	],
+	"svy21": [
+		31320.35,
+		31751.7
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

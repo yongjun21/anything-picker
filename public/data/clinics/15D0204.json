@@ -1,0 +1,49 @@
+{
+	"name": "TRIPOD DENTAL CLINIC",
+	"tel": "66357993",
+	"fax": "63831190",
+	"licensee": "DENTAL @ KALLANG PTE. LTD.",
+	"licensePeriod": "23/06/2017 to 22/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0204",
+	"address": "BLK 5 UPPER BOON KENG ROAD, MULTI STOREY CAR PARK, #01-18 Singapore 380005",
+	"doctorInCharge": [
+		{
+			"name": "Chow Wai Kit",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "09:00 am to 05:00 pm"
+	},
+	"id": "15D0204",
+	"coordinates": [
+		103.8725418,
+		1.3126545
+	],
+	"svy21": [
+		32365.17,
+		32772.22
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

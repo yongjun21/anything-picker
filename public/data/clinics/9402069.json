@@ -1,0 +1,49 @@
+{
+	"name": "MARITIME DENTAL SURGERY PTE LTD",
+	"tel": "62205793",
+	"fax": "62236055",
+	"licensee": "LEE SONG LENG",
+	"licensePeriod": "02/02/2015 to 01/02/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402069",
+	"address": "120 CANTONMENT ROAD, MARITIME HOUSE, #02-04 Singapore 089760",
+	"doctorInCharge": [
+		{
+			"name": "LEE SONG LENG",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1975"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9402069",
+	"coordinates": [
+		103.8403501,
+		1.2766179
+	],
+	"svy21": [
+		28782.55,
+		28787.45
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

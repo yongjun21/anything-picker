@@ -1,0 +1,57 @@
+{
+	"name": "DRS LIM & CHAN CLINIC",
+	"tel": "62803009",
+	"fax": "62832151",
+	"licensee": "CHAN SWEE MONG PAUL",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400415",
+	"address": "BLK 2 LOR LEW LIAN, #01-50 Singapore 531002",
+	"doctorInCharge": [
+		{
+			"name": "CHAN SWEE MONG PAUL",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1971",
+				"MCGP (Family Med) (College of General Practitioners, Singapore) 1977",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 1988",
+				"FAMS (Academy of Medicine, Singapore) 2015"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:00 am to 01:00 pm",
+		"Sunday": "08:00 am to 01:00 pm"
+	},
+	"id": "9400415",
+	"coordinates": [
+		103.8756801,
+		1.350608
+	],
+	"svy21": [
+		32714.36,
+		36968.92
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

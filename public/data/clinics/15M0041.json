@@ -1,0 +1,48 @@
+{
+	"name": "PRIVE VITALE CLINIC",
+	"tel": "91713328",
+	"fax": "65353318",
+	"licensee": "VITALE CLINIC (RAFFLES) PTE. LTD.",
+	"licensePeriod": "09/02/2017 to 08/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0041",
+	"address": "30 RAFFLES PLACE, CHEVRON HOUSE, #02-25 Singapore 048622",
+	"doctorInCharge": [
+		{
+			"name": "SOH HUI HIAN KAREN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "10:00 am to 07:00 pm",
+		"Tuesday": "10:00 am to 07:00 pm",
+		"Wednesday": "10:00 am to 07:00 pm",
+		"Thursday": "10:00 am to 07:00 pm",
+		"Friday": "10:00 am to 07:00 pm",
+		"Saturday": "10:00 am to 02:00 pm"
+	},
+	"id": "15M0041",
+	"coordinates": [
+		103.8520088,
+		1.2842148
+	],
+	"svy21": [
+		30080.07,
+		29627.47
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

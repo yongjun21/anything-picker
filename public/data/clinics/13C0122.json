@@ -1,0 +1,50 @@
+{
+	"name": "THE CHELSEA CLINIC",
+	"tel": "98210508",
+	"fax": "65326933",
+	"licensee": "WEN & WENG MEDICAL GROUP PTE LTD",
+	"licensePeriod": "14/05/2017 to 13/05/2019",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
+	"hciCode": "13C0122",
+	"address": "501 ORCHARD ROAD, WHEELOCK PLACE, #05-08A Singapore 238880",
+	"doctorInCharge": [
+		{
+			"name": "EWEN CHEE YEW WEN",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1997",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 12:30 pm, 02:00 pm to 06:30 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 02:00 pm to 06:30 pm",
+		"Wednesday": "09:30 am to 01:30 pm, 04:00 pm to 08:00 pm",
+		"Thursday": "09:30 am to 01:30 pm, 03:00 pm to 08:00 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:00 pm to 06:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0122",
+	"coordinates": [
+		103.830642,
+		1.3046763
+	],
+	"svy21": [
+		27702.12,
+		31889.99
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

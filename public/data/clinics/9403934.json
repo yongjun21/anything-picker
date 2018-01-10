@@ -1,0 +1,58 @@
+{
+	"name": "DOCTORS INC MEDICAL GROUP",
+	"tel": "63563633",
+	"fax": "63562622",
+	"licensee": "DOCTORS INC MEDICAL GROUP PTE. LTD.",
+	"licensePeriod": "01/05/2017 to 30/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9403934",
+	"address": "BLK 190 TOA PAYOH LORONG 6, #01-590 Singapore 310190",
+	"doctorInCharge": [
+		{
+			"name": "LOY HENG JUEN KEVIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 05:00 pm to 09:00 pm",
+		"Sunday": "05:00 pm to 09:00 pm"
+	},
+	"id": "9403934",
+	"coordinates": [
+		103.848705,
+		1.3329791
+	],
+	"svy21": [
+		29712.34,
+		35019.58
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

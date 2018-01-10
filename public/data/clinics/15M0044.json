@@ -1,0 +1,57 @@
+{
+	"name": "ETERNA MEDICAL CLINIC",
+	"tel": "68023050",
+	"fax": "64529784",
+	"licensee": "ETERNA MEDICAL GROUP PTE. LTD.",
+	"licensePeriod": "09/02/2017 to 08/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0044",
+	"address": "BLK 629 ANG MO KIO AVENUE 4, #01-994 Singapore 560629",
+	"doctorInCharge": [
+		{
+			"name": "Ng Ee Hsiang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 12:30 pm",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "08:30 am to 01:00 pm"
+	},
+	"id": "15M0044",
+	"coordinates": [
+		103.8404087,
+		1.3801047
+	],
+	"svy21": [
+		28789.04,
+		40230.49
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

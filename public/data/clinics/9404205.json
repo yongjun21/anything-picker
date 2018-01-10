@@ -1,0 +1,46 @@
+{
+	"name": "VIVA MEDICAL CLINIC",
+	"tel": "67828020",
+	"fax": "67848060",
+	"licensee": "STARDOCS PRIVATE LIMITED",
+	"licensePeriod": "11/07/2014 to 10/07/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404205",
+	"address": "BLK 450A Tampines Street 42, #01-356 Singapore 521450",
+	"doctorInCharge": [
+		{
+			"name": "Ivan Tan Yuan Jern",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed"
+	},
+	"id": "9404205",
+	"coordinates": [
+		103.9522522,
+		1.3583607
+	],
+	"svy21": [
+		41235.94,
+		37826.46
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

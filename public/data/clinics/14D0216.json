@@ -1,0 +1,49 @@
+{
+	"name": "BROADSMILE DENTAL CLINIC",
+	"tel": "64496198",
+	"fax": "64689398",
+	"licensee": "BROAD SMILE DENTAL PTE. LTD.",
+	"licensePeriod": "31/07/2016 to 30/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0216",
+	"address": "BLK 56 NEW UPPER CHANGI ROAD, #01-1316 Singapore 461056",
+	"doctorInCharge": [
+		{
+			"name": "Lim Kiat Guan",
+			"qualifications": [
+				"BDSc (University of Melbourne, Australia) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "14D0216",
+	"coordinates": [
+		103.9410826,
+		1.3249938
+	],
+	"svy21": [
+		39993.06,
+		34136.86
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

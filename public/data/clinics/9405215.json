@@ -1,0 +1,56 @@
+{
+	"name": "PANASIA SURGERY",
+	"tel": "67378538",
+	"fax": "67376130",
+	"licensee": "PANASIA SURGERY PTE LTD",
+	"licensePeriod": "24/06/2017 to 23/06/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405215",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH HOSPITAL, #11-13/14/15 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Look Chee Meng Melvin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1993",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1993"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery",
+			"Urology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405215",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

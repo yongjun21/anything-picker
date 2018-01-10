@@ -1,0 +1,48 @@
+{
+	"name": "UNITY DENTICARE",
+	"tel": "65904405",
+	"fax": "65904385",
+	"licensee": "NTUC Health Co-operative Ltd",
+	"licensePeriod": "14/08/2016 to 13/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0237",
+	"address": "BLK 261 SERANGOON CENTRAL DRIVE, ##01-09 Singapore 550261",
+	"doctorInCharge": [
+		{
+			"name": "LIM KOW KANG PAUL",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1979"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 07:00 pm",
+		"Tuesday": "09:00 am to 07:00 pm",
+		"Wednesday": "09:00 am to 07:00 pm",
+		"Thursday": "09:00 am to 07:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 06:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "14D0237",
+	"coordinates": [
+		103.8725245,
+		1.3540526
+	],
+	"svy21": [
+		32363.17,
+		37349.8
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

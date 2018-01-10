@@ -1,0 +1,67 @@
+{
+	"name": "SINGAPORE MEDICAL SPECIALISTS CENTRE",
+	"tel": "68818000",
+	"fax": "68365705",
+	"licensee": "Singapore Medical Specialists Centre Pte. Ltd.",
+	"licensePeriod": "21/10/2017 to 20/10/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405067",
+	"address": "290 ORCHARD ROAD, PARAGON, #09-23 TO 27, 30/31 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Chong Yeh Woei",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Diagnostic Radiology",
+			"Gastroenterology",
+			"General Surgery",
+			"Internal Medicine",
+			"Obstetrics & Gynaecology",
+			"Ophthalmology",
+			"Orthopaedic Surgery",
+			"Otorhinolaryngology",
+			"Urology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 06:00 pm",
+		"Tuesday": "08:30 am to 06:00 pm",
+		"Wednesday": "08:30 am to 06:00 pm",
+		"Thursday": "08:30 am to 06:00 pm",
+		"Friday": "08:30 am to 06:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405067",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "68940777",
+	"fax": "68942267",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "15/09/2015 to 14/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403881",
+	"address": "1 Woodlands Square, Causeway Point, #05-20 Singapore 738099",
+	"doctorInCharge": [
+		{
+			"name": "Nandha Kumar Kavaratnam",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 09:30 pm",
+		"Tuesday": "08:30 am to 09:30 pm",
+		"Wednesday": "08:30 am to 09:30 pm",
+		"Thursday": "08:30 am to 09:30 pm",
+		"Friday": "08:30 am to 09:30 pm",
+		"Saturday": "08:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Sunday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Public Holiday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm"
+	},
+	"id": "9403881",
+	"coordinates": [
+		103.7859815,
+		1.4360701
+	],
+	"svy21": [
+		22732.11,
+		46418.9
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

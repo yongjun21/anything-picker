@@ -1,0 +1,43 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "63127869",
+	"fax": "63127869",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "17/12/2014 to 16/12/2019",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9403858",
+	"address": "21 EDGEDALE PLAINS,, MEE TOH SCHOOL, Singapore 828867",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm"
+	},
+	"id": "9403858",
+	"coordinates": [
+		103.9085895,
+		1.3946185
+	],
+	"svy21": [
+		36376.66,
+		41835.47
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

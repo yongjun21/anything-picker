@@ -1,0 +1,55 @@
+{
+	"name": "THE FAMILY PRACTICE CLINIC & SURGERY",
+	"tel": "64748394",
+	"fax": "64748394",
+	"licensee": "SEE TOH KWOK YEE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401694",
+	"address": "BLK 117 COMMONWEALTH DR, #01-723 Singapore 140117",
+	"doctorInCharge": [
+		{
+			"name": "SEE TOH KWOK YEE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 01:00 pm to 03:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401694",
+	"coordinates": [
+		103.80027,
+		1.3065925
+	],
+	"svy21": [
+		24322,
+		32101.9
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

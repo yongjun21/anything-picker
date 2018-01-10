@@ -1,0 +1,54 @@
+{
+	"name": "GOH CLINIC + SURGERY",
+	"tel": "65676368",
+	"fax": "65672535",
+	"licensee": "GOH YEAN HOON",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400588",
+	"address": "BLK 283 BT BATOK EAST AVE 3, #01-271 Singapore 650283",
+	"doctorInCharge": [
+		{
+			"name": "GOH YEAN HOON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9400588",
+	"coordinates": [
+		103.7575394,
+		1.3469437
+	],
+	"svy21": [
+		19566.61,
+		36563.83
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

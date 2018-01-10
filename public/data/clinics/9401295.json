@@ -1,0 +1,53 @@
+{
+	"name": "PAUL W. NGUI PSYCHIATRIC CLINIC",
+	"tel": "65330088",
+	"fax": "67344427",
+	"licensee": "NGUI WILLIAM PAUL",
+	"licensePeriod": "27/02/2016 to 26/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9401295",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTER, SQUARE 2, #11-23 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "NGUI TET SHIN FRANCIS",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"M Med (Psych) (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Psychiatry"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Psychiatry"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401295",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"name": "ARIS MEDICAL CLINIC",
+	"tel": "98466226",
+	"fax": "64689724",
+	"licensee": "ARIS INTEGRATED MEDICAL PTE. LTD.",
+	"licensePeriod": "19/12/2016 to 18/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0385",
+	"address": "989 BUKIT TIMAH ROAD, MAPLEWOODS, Singapore 589629",
+	"doctorInCharge": [
+		{
+			"name": "David Chew Yee",
+			"qualifications": [
+				"MB ChB (University of Glasgow, United Kingdom) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "14M0385",
+	"coordinates": [
+		103.7841588,
+		1.3335616
+	],
+	"svy21": [
+		22529.03,
+		35084.04
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

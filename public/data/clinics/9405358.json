@@ -1,0 +1,51 @@
+{
+	"name": "A DENTAL CLINIC @ JURONG EAST CENTRAL",
+	"tel": "65690280",
+	"fax": "65690284",
+	"licensee": "Ng Seow Choon",
+	"licensePeriod": "29/10/2015 to 28/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405358",
+	"address": "BLK 135 Jurong Gateway Road, #01-333 Singapore 600135",
+	"doctorInCharge": [
+		{
+			"name": "Ng Seow Choon",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:00 am to 01:00 pm",
+		"Public Holiday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405358",
+	"coordinates": [
+		103.7396769,
+		1.3338254
+	],
+	"svy21": [
+		17578.66,
+		35113.35
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

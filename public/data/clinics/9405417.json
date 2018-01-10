@@ -1,0 +1,59 @@
+{
+	"name": "THOMSON PAEDIATRIC CENTRE",
+	"tel": "62502222",
+	"fax": "62583843",
+	"licensee": "THOMSON PAEDIATRIC CENTRE PTE. LTD.",
+	"licensePeriod": "23/12/2013 to 22/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405417",
+	"address": "339 THOMSON ROAD, THOMSON MEDICAL CENTRE, #03-05/06 Singapore 307677",
+	"doctorInCharge": [
+		{
+			"name": "Ang Poon Liat",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1970",
+				"M Med (Paed) (National University of Singapore, Singapore) 1973",
+				"MRCP (Paed) (Royal College of Physicians, United Kingdom) 1975",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 1976",
+				"MD (Paed) (National University of Singapore, Singapore) 1978"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Yellow Fever Vaccination": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm",
+		"Thursday": "09:00 am to 01:00 pm",
+		"Friday": "09:00 am to 01:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9405417",
+	"coordinates": [
+		103.8414579,
+		1.3253606
+	],
+	"svy21": [
+		28905.83,
+		34177.16
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

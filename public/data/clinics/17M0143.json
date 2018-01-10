@@ -1,0 +1,48 @@
+{
+	"name": "HC ENDOSCOPY & PILES CENTRE (GM)",
+	"tel": "62654058",
+	"fax": "62654078",
+	"licensee": "HC ENDOSCOPY & PILES CENTRE (GM)",
+	"licensePeriod": "18/05/2017 to 17/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0143",
+	"address": "BLK 21 GHIM MOH ROAD, GHIM MOH GARDENS, #01-141 Singapore 270021",
+	"doctorInCharge": [
+		{
+			"name": "Heah Sieu Min",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1990",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1994",
+				"FAMS (Academy of Medicine, Singapore) 2000"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"id": "17M0143",
+	"coordinates": [
+		103.788546,
+		1.310103
+	],
+	"svy21": [
+		23017.23,
+		32490.1
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

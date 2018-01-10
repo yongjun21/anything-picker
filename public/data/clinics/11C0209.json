@@ -1,0 +1,45 @@
+{
+	"name": "MURATA ELECTRONICS SINGAPORE (PTE) LTD ( MEDICAL CLINIC )",
+	"tel": "67584233",
+	"fax": "67536627",
+	"licensee": "KOK CHIN YON",
+	"licensePeriod": "17/11/2015 to 16/11/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0209",
+	"address": "200 YISHUN AVENUE 7, Singapore 768927",
+	"doctorInCharge": [
+		{
+			"name": "KOK CHIN YON",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Tuesday": "08:00 am to 09:30 am",
+		"Thursday": "08:00 am to 09:30 am"
+	},
+	"id": "11C0209",
+	"coordinates": [
+		103.8335865,
+		1.4394277
+	],
+	"svy21": [
+		28029.82,
+		46790.12
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

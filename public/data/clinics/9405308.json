@@ -1,0 +1,55 @@
+{
+	"name": "HEART PARTNERS CLINIC",
+	"tel": "67336622",
+	"fax": "64738116",
+	"licensee": "HEART PARTNERS PTE. LTD.",
+	"licensePeriod": "16/09/2015 to 15/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405308",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #03-09 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Victor Lim Yen Teak",
+			"qualifications": [
+				"MB ChB (University of Glasgow, United Kingdom) 1993",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1997",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 2003",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2007",
+				"FESC (European Society of Cardiology, France) 2008"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9405308",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

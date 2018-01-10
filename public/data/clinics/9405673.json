@@ -1,0 +1,56 @@
+{
+	"name": "GSH CLINIC & SURGERY PTE. LTD.",
+	"tel": "62605942",
+	"fax": "62605742",
+	"licensee": "Goh Sing Hong",
+	"licensePeriod": "17/08/2014 to 16/08/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405673",
+	"address": "BLK 730 TAMPINES STREET 71, #01-51 Singapore 520730",
+	"doctorInCharge": [
+		{
+			"name": "Goh Sing Hong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2001",
+				"Dip OM (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:30 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 01:30 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 01:30 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:30 am to 01:30 pm, 06:00 pm to 10:00 pm",
+		"Friday": "Closed",
+		"Saturday": "08:30 am to 01:30 pm",
+		"Sunday": "06:00 pm to 10:00 pm"
+	},
+	"id": "9405673",
+	"coordinates": [
+		103.9334992,
+		1.3567061
+	],
+	"svy21": [
+		39148.95,
+		37643.41
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

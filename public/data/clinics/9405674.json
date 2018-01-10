@@ -1,0 +1,55 @@
+{
+	"name": "HO MEDICAL CENTRE PTE LTD",
+	"tel": "64748923",
+	"fax": "64742244",
+	"licensee": "PAUL HO",
+	"licensePeriod": "18/08/2014 to 17/08/2019",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9405674",
+	"address": "BLK 352 CLEMENTI AVENUE 2, #01-115 Singapore 120352",
+	"doctorInCharge": [
+		{
+			"name": "PAUL HO",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1979",
+				"GDMH (National University of Singapore, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 03:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 03:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 03:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9405674",
+	"coordinates": [
+		103.7713506,
+		1.3142786
+	],
+	"svy21": [
+		21103.55,
+		32951.85
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

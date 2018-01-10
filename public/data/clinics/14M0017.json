@@ -1,0 +1,49 @@
+{
+	"name": "JANE YAP CHEST & MEDICAL CLINIC PTE LTD",
+	"tel": "63342338",
+	"fax": "63342338",
+	"licensee": "JANE YAP CHEST & MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "30/01/2016 to 29/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0017",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #09-36 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Yap Cheng Hoon, Jane",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Intensive Care Medicine",
+			"Internal Medicine",
+			"Respiratory Medicine"
+		]
+	},
+	"id": "14M0017",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

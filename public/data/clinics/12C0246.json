@@ -1,0 +1,48 @@
+{
+	"name": "REDHILL DENTAL SURGERY PTE LTD",
+	"tel": "64713660",
+	"fax": "64713660",
+	"licensee": "REDHILL DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "15/11/2016 to 14/11/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0246",
+	"address": "BLK 75D REDHILL ROAD, #01-88 Singapore 154075",
+	"doctorInCharge": [
+		{
+			"name": "ku hwee choo",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:00 pm, 01:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 01:00 pm to 05:00 pm, 06:00 pm to 08:00 pm",
+		"Wednesday": "Closed",
+		"Thursday": "09:00 am to 12:00 pm, 01:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 01:00 pm to 05:00 pm",
+		"Saturday": "10:00 am to 12:00 pm, 01:00 pm to 03:00 pm",
+		"Sunday": "10:00 am to 12:00 pm, 01:00 pm to 03:00 pm"
+	},
+	"id": "12C0246",
+	"coordinates": [
+		103.8157116,
+		1.2884648
+	],
+	"svy21": [
+		26040.49,
+		30097.41
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

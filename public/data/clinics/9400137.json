@@ -1,0 +1,56 @@
+{
+	"name": "BUKIT BATOK MEDICAL CLINIC",
+	"tel": "65603311",
+	"fax": "65692400",
+	"licensee": "KWEK THIAM SOO",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400137",
+	"address": "BLK 207 BUKIT BATOK ST 21, #01-114 Singapore 650207",
+	"doctorInCharge": [
+		{
+			"name": "KWEK THIAM SOO",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "07:00 pm to 09:00 pm",
+		"Tuesday": "07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "07:00 pm to 09:00 pm",
+		"Friday": "07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400137",
+	"coordinates": [
+		103.7493822,
+		1.3462487
+	],
+	"svy21": [
+		18658.8,
+		36487.01
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"name": "TRINITY MEDICAL CLINIC",
+	"tel": "65607088",
+	"fax": "65665067",
+	"licensee": "TRINITY HEALTHCARE GROUP PTE. LTD.",
+	"licensePeriod": "10/07/2016 to 09/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0136",
+	"address": "BLK 130 Jurong Gateway Road, #02-205/207 Singapore 600130",
+	"doctorInCharge": [
+		{
+			"name": "Chin Chow Chung",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 am, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 am, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 am, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 am, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 am, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "12C0136",
+	"coordinates": [
+		103.7393213,
+		1.3347249
+	],
+	"svy21": [
+		17539.08,
+		35212.82
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

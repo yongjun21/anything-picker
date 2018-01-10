@@ -1,0 +1,44 @@
+{
+	"name": "RENALTEAM DIALYSIS CENTRE WOODLANDS PEAK",
+	"licensee": "RENALTEAM PTE. LTD.",
+	"licensePeriod": "31/01/2017 to 30/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0019",
+	"address": "BLK 302A WOODLANDS STREET 31, WOODLANDS PEAK, #01-327 Singapore 731302",
+	"doctorInCharge": [
+		{
+			"name": "Lim Choo Gee",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 2000",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2006"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"id": "17M0019",
+	"coordinates": [
+		103.775294,
+		1.4318556
+	],
+	"svy21": [
+		21542.74,
+		45952.91
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

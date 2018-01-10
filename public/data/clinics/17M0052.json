@@ -1,0 +1,55 @@
+{
+	"name": "THE CHONG FAMILY CLINIC PTE LTD",
+	"tel": "62661998",
+	"fax": "67784886",
+	"licensee": "The Chong Family Clinic Pte Ltd",
+	"licensePeriod": "05/03/2017 to 04/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0052",
+	"address": "BLK 442 CLEMENTI AVENUE 3, #01-113 Singapore 120442",
+	"doctorInCharge": [
+		{
+			"name": "Chong Wai Mun",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 03:00 pm, 06:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 03:00 pm, 06:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 03:00 pm, 06:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 03:00 pm",
+		"Friday": "08:30 am to 03:00 pm, 06:00 pm to 09:30 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "02:00 pm to 06:00 pm"
+	},
+	"id": "17M0052",
+	"coordinates": [
+		103.7645186,
+		1.3141225
+	],
+	"svy21": [
+		20343.22,
+		32934.62
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

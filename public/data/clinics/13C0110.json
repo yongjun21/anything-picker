@@ -1,0 +1,43 @@
+{
+	"name": "PRINCETON DENTAL SURGERY",
+	"tel": "67633378",
+	"fax": "67633378",
+	"licensee": "Zhuang Ronglin",
+	"licensePeriod": "09/05/2017 to 08/05/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0110",
+	"address": "445 FAJAR ROAD, Fajar Shopping Centre, #01-546 Singapore 670445",
+	"doctorInCharge": [
+		{
+			"name": "Zhuang Ronglin",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed"
+	},
+	"id": "13C0110",
+	"coordinates": [
+		103.7707683,
+		1.3835804
+	],
+	"svy21": [
+		21038.95,
+		40614.9
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

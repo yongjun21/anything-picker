@@ -1,0 +1,49 @@
+{
+	"name": "DRS. GOH & TAN FAMILY CLINIC & SURGERY",
+	"tel": "64561600",
+	"fax": "64561406",
+	"licensee": "Goh Ching Luck",
+	"licensePeriod": "27/02/2017 to 26/02/2019",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
+	"hciCode": "9400405",
+	"address": "BLK 283 Bishan Street 22, #01-191 Singapore 570283",
+	"doctorInCharge": [
+		{
+			"name": "Goh Ching Luck",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm, 07:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 07:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 07:00 pm to 09:30 pm",
+		"Friday": "08:30 am to 12:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9400405",
+	"coordinates": [
+		103.8447486,
+		1.3589191
+	],
+	"svy21": [
+		29272.03,
+		37887.89
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

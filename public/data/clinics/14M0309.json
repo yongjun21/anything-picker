@@ -1,0 +1,53 @@
+{
+	"name": "K K SNG COLORECTAL & GENERAL SURGERY",
+	"tel": "64726188",
+	"fax": "64728168",
+	"licensee": "K K SNG COLORECTAL & GENERAL SURGERY PTE. LTD.",
+	"licensePeriod": "10/10/2016 to 09/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0309",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #06-10/11/12/13 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Kevin Kaity Sng",
+			"qualifications": [
+				"MBBS (University of Newcastle Upon Tyne, United Kingdom) 1998",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 2010"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "14M0309",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

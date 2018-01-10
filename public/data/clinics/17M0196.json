@@ -1,0 +1,49 @@
+{
+	"name": "ANG MO KIO - THYE HUA KWAN HOSPITAL DIALYSIS CENTRE",
+	"tel": "64583885",
+	"fax": "64513885",
+	"licensee": "ANG MO KIO - THYE HUA KWAN HOSPITAL LTD.",
+	"licensePeriod": "01/07/2017 to 30/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0196",
+	"address": "17 ANG MO KIO AVENUE 9, ANG MO KIO - THYE HUA KWAN HOSPITAL, #- Singapore 569766",
+	"doctorInCharge": [
+		{
+			"name": "Timothy Koh Jee Kam",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2003",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2008",
+				"M Med (Int Med) (National University of Singapore, Singapore) 2008"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"id": "17M0196",
+	"coordinates": [
+		103.8403569,
+		1.3840325
+	],
+	"svy21": [
+		28783.28,
+		40664.8
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

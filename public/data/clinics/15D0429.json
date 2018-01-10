@@ -1,0 +1,46 @@
+{
+	"name": "HEAL DENTAL CLINIC",
+	"tel": "62509550",
+	"fax": "63550598",
+	"licensee": "HEAL BALESTIER CLINIC PTE. LTD",
+	"licensePeriod": "21/12/2015 to 20/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0429",
+	"address": "262 BALESTIER ROAD, OKIO, #04-01/02 Singapore 329714",
+	"doctorInCharge": [
+		{
+			"name": "Fong Poh Seong",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
+	"id": "15D0429",
+	"coordinates": [
+		103.8531997,
+		1.3221334
+	],
+	"svy21": [
+		30212.57,
+		33820.32
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

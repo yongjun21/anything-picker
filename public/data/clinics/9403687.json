@@ -1,0 +1,46 @@
+{
+	"name": "CENTRAL 24-HR CLINIC (HOUGANG)",
+	"tel": "63876965",
+	"fax": "63868052",
+	"licensee": "CMI HEALTH SERVICES PTE. LTD.",
+	"licensePeriod": "12/11/2014 to 11/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403687",
+	"address": "BLK 681 HOUGANG AVE 8, #01-831 Singapore 530681",
+	"doctorInCharge": [
+		{
+			"name": "Goh Chiew Kai",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9403687",
+	"coordinates": [
+		103.8856792,
+		1.3729784
+	],
+	"svy21": [
+		33827.09,
+		39442.56
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

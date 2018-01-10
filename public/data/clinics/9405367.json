@@ -1,0 +1,53 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "67819033",
+	"fax": "67819601",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "10/11/2015 to 09/11/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405367",
+	"address": "1 CHANGI BUSINESS PARK CRESCENT, Plaza 8, #01-11 Singapore 486025",
+	"doctorInCharge": [
+		{
+			"name": "Krishna Prasad Giri",
+			"qualifications": [
+				"MBBS (Pondicherry University, India) 2010",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2015"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "9405367",
+	"coordinates": [
+		103.9656862,
+		1.333382
+	],
+	"svy21": [
+		42731.15,
+		35064.52
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

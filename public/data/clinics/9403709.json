@@ -1,0 +1,49 @@
+{
+	"name": "FOO & ASSOCIATES DENTAL SURGEONS",
+	"tel": "68380903",
+	"fax": "68380923",
+	"licensee": "FOO & ASSOCIATES PTE LTD",
+	"licensePeriod": "08/08/2015 to 07/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403709",
+	"address": "290 ORCHARD RD, PARAGON, #09-03/04 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "FOO MOOH THONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1989",
+				"MDS (National University of Singapore, Singapore) 1994",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 1995",
+				"MRDRCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 1995"
+			],
+			"specialties": [
+				"Prosthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Prosthodontics"
+		]
+	},
+	"id": "9403709",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

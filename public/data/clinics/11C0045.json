@@ -1,0 +1,55 @@
+{
+	"name": "PROHEALTH MEDICAL GROUP @LRT FERNVALE PTE LTD",
+	"tel": "64411672",
+	"fax": "64411673",
+	"licensee": "PROHEALTH MEDICAL GROUP PTE. LTD.",
+	"licensePeriod": "18/04/2015 to 17/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0045",
+	"address": "BLK 437 FERNVALE ROAD, MULTI STOREY CAR PARK, #01-04 Singapore 790437",
+	"doctorInCharge": [
+		{
+			"name": "CHEN QIANMING",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 11:00 pm",
+		"Tuesday": "08:00 am to 11:00 pm",
+		"Wednesday": "08:00 am to 11:00 pm",
+		"Thursday": "08:00 am to 11:00 pm",
+		"Friday": "08:00 am to 11:00 pm",
+		"Saturday": "08:00 am to 11:00 pm",
+		"Sunday": "08:00 am to 11:00 pm"
+	},
+	"id": "11C0045",
+	"coordinates": [
+		103.8763304,
+		1.3925504
+	],
+	"svy21": [
+		32786.65,
+		41606.71
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

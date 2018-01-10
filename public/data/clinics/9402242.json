@@ -1,0 +1,43 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "63191637",
+	"fax": "67419030",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "23/01/2014 to 22/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402242",
+	"address": "82 GENTING LANE LEVEL 4, NEWS CENTRE, Singapore 349567",
+	"doctorInCharge": [
+		{
+			"name": "Wong Chin Shing Sam",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9402242",
+	"coordinates": [
+		103.8765817,
+		1.325301
+	],
+	"svy21": [
+		32814.74,
+		34170.61
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

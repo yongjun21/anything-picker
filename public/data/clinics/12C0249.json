@@ -1,0 +1,55 @@
+{
+	"name": "ATRIO FAMILY CLINIC",
+	"tel": "67520838",
+	"fax": "67520838",
+	"licensee": "ATRIO FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "19/11/2016 to 18/11/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "12C0249",
+	"address": "BLK 291 YISHUN STREET 22, #01-349 Singapore 760291",
+	"doctorInCharge": [
+		{
+			"name": "TAY JUN MIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 02:00 pm, 05:30 pm to 10:30 pm",
+		"Tuesday": "08:00 am to 02:00 pm, 05:30 pm to 10:30 pm",
+		"Wednesday": "08:00 am to 02:00 pm, 05:30 pm to 10:30 pm",
+		"Thursday": "08:00 am to 02:00 pm, 05:30 pm to 10:30 pm",
+		"Friday": "08:00 am to 02:00 pm, 05:30 pm to 10:30 pm",
+		"Saturday": "08:00 am to 02:00 pm, 05:30 pm to 10:30 pm",
+		"Sunday": "09:00 am to 02:00 pm, 05:30 pm to 10:30 pm"
+	},
+	"id": "12C0249",
+	"coordinates": [
+		103.8367239,
+		1.4357608
+	],
+	"svy21": [
+		28378.96,
+		46384.65
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"name": "FRONTIER MEDICAL ASSOCIATES",
+	"tel": "64532571",
+	"fax": "64548425",
+	"licensee": "FRONTIER MEDICAL ASSOCIATES (AMK) PTE. LTD.",
+	"licensePeriod": "08/04/2015 to 07/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405138",
+	"address": "BLK 163 ANG MO KIO AVE 4, #01-426 Singapore 560163",
+	"doctorInCharge": [
+		{
+			"name": "YEO KWEE KEE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1999",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2009"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 04:30 pm",
+		"Wednesday": "08:30 am to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 04:30 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "08:30 am to 01:00 pm"
+	},
+	"id": "9405138",
+	"coordinates": [
+		103.8381765,
+		1.3735485
+	],
+	"svy21": [
+		28540.62,
+		39505.53
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

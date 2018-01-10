@@ -1,0 +1,56 @@
+{
+	"name": "SBCC BABY & CHILD CLINIC",
+	"tel": "64533933",
+	"fax": "64536832",
+	"licensee": "THOMSON PAEDIATRIC CLINIC PTE LTD",
+	"licensePeriod": "21/12/2015 to 20/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405444",
+	"address": "BLK 279 BISHAN STREET 24, #01-50 Singapore 570279",
+	"doctorInCharge": [
+		{
+			"name": "Adeline Wong Pik You",
+			"qualifications": [
+				"MB BCh BAO (National University of Ireland, Ireland) 1993",
+				"MRCP (Paed) (Royal College of Physicians, Ireland) 2000",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 2004"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm",
+		"Thursday": "09:00 am to 01:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm",
+		"Friday": "09:00 am to 01:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405444",
+	"coordinates": [
+		103.8437853,
+		1.3572228
+	],
+	"svy21": [
+		29164.82,
+		37700.32
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

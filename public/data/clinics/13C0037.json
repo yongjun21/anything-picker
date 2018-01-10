@@ -1,0 +1,51 @@
+{
+	"name": "NCCS ONCOLOGY CLINIC @ CGH",
+	"tel": "64368008",
+	"fax": "63721619",
+	"licensee": "NATIONAL CANCER CENTRE OF SINGAPORE PTE LTD",
+	"licensePeriod": "21/02/2017 to 20/02/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0037",
+	"address": "2 SIMEI STREET 3, CHANGI GENERAL HOSPITAL, #L1-01 Singapore 529889",
+	"doctorInCharge": [
+		{
+			"name": "Lim Soon Thye",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2000"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:00 pm",
+		"Tuesday": "08:00 am to 05:00 pm",
+		"Wednesday": "08:00 am to 05:00 pm",
+		"Thursday": "08:00 am to 05:00 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "13C0037",
+	"coordinates": [
+		103.9494655,
+		1.3408259
+	],
+	"svy21": [
+		40925.91,
+		35887.54
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

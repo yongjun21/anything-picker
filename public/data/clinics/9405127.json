@@ -1,0 +1,55 @@
+{
+	"name": "CLOVER MEDICAL CLINIC PTE LTD",
+	"tel": "65094480",
+	"fax": "65094480",
+	"licensee": "Tan Shu Juan",
+	"licensePeriod": "25/03/2015 to 24/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405127",
+	"address": "21 CHOA CHU KANG NORTH 6, YEW TEE POINT, #B1-25 Singapore 689578",
+	"doctorInCharge": [
+		{
+			"name": "Tan Shu Juan",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm, 01:00 pm to 05:00 pm, 06:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 01:00 pm to 05:00 pm, 06:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 01:00 pm to 05:00 pm, 06:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 12:00 pm, 01:00 pm to 05:00 pm, 06:00 pm to 09:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405127",
+	"coordinates": [
+		103.7466363,
+		1.397066
+	],
+	"svy21": [
+		18353.42,
+		42106.15
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

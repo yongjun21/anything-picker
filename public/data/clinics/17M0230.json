@@ -1,0 +1,59 @@
+{
+	"name": "TAMPINES FAMILY MEDICINE CLINIC",
+	"tel": "67026022",
+	"fax": "62893010",
+	"licensee": "TAMPINES FAMILY MEDICINE CLINIC PTE. LTD.",
+	"licensePeriod": "01/08/2017 to 31/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0230",
+	"address": "1 Tampines Walk, Our Tampines Hub, #03-34 Singapore 528523",
+	"doctorInCharge": [
+		{
+			"name": "Leong Choon Kit",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"M Med (Public Health) (National University of Singapore, Singapore) 1998",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2003",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2006",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2011",
+				"FAMS (Family Medicine) (Academy of Medicine, Singapore) 2014"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "09:00 am to 12:00 pm, 12:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 12:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 12:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 12:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 12:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "17M0230",
+	"coordinates": [
+		103.9404082,
+		1.3531336
+	],
+	"svy21": [
+		39917.87,
+		37248.41
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

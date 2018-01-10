@@ -1,0 +1,33 @@
+{
+	"name": "PINETREE MEDICAL CLINIC",
+	"tel": "66791149",
+	"fax": "61234567",
+	"licensee": "PINETREE MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "14/09/2017 to 13/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0277",
+	"address": "BLK 86 BEDOK NORTH STREET 4, #01-175 Singapore 460086",
+	"doctorInCharge": [
+		{
+			"name": "Chin Huay Feng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday to Saturday": "08:30 am to 01:00 pm",
+		"Monday to Friday": "06:30 pm to 08:30 pm",
+		"Sunday and Public Holiday": "Closed"
+	}
+}

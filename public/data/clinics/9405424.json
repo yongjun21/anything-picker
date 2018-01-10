@@ -1,0 +1,55 @@
+{
+	"name": "L'VING VINE MEDICAL & WELLNESS CLINIC",
+	"tel": "67777442",
+	"fax": "67777563",
+	"licensee": "WONG LIANG FU",
+	"licensePeriod": "04/01/2014 to 03/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405424",
+	"address": "154 WEST COAST ROAD, WEST COAST PLAZA, #01-84/85 Singapore 127371",
+	"doctorInCharge": [
+		{
+			"name": "WONG LIANG FU",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "10:30 am to 02:00 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "10:30 am to 02:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "10:30 am to 02:00 pm",
+		"Thursday": "06:30 pm to 09:30 pm",
+		"Friday": "10:30 am to 02:00 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "10:30 am to 02:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405424",
+	"coordinates": [
+		103.7661313,
+		1.3036975
+	],
+	"svy21": [
+		20522.67,
+		31781.87
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

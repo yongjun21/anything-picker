@@ -1,0 +1,48 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67565473",
+	"fax": "67565473",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2014 to 31/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403185",
+	"address": "7 YISHUN AVE 4, NAVAL BASE PRIMARY SCHOOL, Singapore 769028",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403185",
+	"coordinates": [
+		103.8387941,
+		1.4163066
+	],
+	"svy21": [
+		28609.34,
+		44233.51
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

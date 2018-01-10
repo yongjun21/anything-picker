@@ -1,0 +1,46 @@
+{
+	"name": "PARKWAY SHENTON MEDICAL GROUP",
+	"tel": "62277777",
+	"fax": "62253735",
+	"licensee": "Parkway Shenton Pte Ltd",
+	"licensePeriod": "02/08/2016 to 01/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0230",
+	"address": "1 JELEBU ROAD, BUKIT PANJANG PLAZA, #03-02 Singapore 677743",
+	"doctorInCharge": [
+		{
+			"name": "Ho Sin Teck Winston",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"Dip Geriatric Med (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "16M0230",
+	"coordinates": [
+		103.7643572,
+		1.3799205
+	],
+	"svy21": [
+		20325.46,
+		40210.22
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

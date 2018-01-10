@@ -1,0 +1,52 @@
+{
+	"name": "LEE & LEE (DENTAL SURGEONS) PTE LTD",
+	"tel": "65356113",
+	"fax": "65362730",
+	"licensee": "LEE & LEE (DENTAL SURGEONS) PTE LTD",
+	"licensePeriod": "31/05/2016 to 30/05/2021",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "12C0074",
+	"address": "BLK 153 BUKIT BATOK STREET 11, #01-290 Singapore 650153",
+	"doctorInCharge": [
+		{
+			"name": "CHOO KEANG HAI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1990",
+				"DGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:45 pm",
+		"Tuesday": "09:00 am to 06:45 pm",
+		"Wednesday": "09:00 am to 06:45 pm",
+		"Thursday": "09:00 am to 06:45 pm",
+		"Friday": "09:00 am to 06:45 pm",
+		"Saturday": "09:00 am to 01:45 pm"
+	},
+	"id": "12C0074",
+	"coordinates": [
+		103.7442765,
+		1.3474795
+	],
+	"svy21": [
+		18090.6,
+		36623.13
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

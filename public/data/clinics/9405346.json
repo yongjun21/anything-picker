@@ -1,0 +1,55 @@
+{
+	"name": "DOCTORS KOO, LOH & ASSOCIATES (PTE) LTD",
+	"tel": "62665939",
+	"fax": "62687617",
+	"licensee": "DRS KOO, LOH & ASSOCIATES (PTE) LTD",
+	"licensePeriod": "22/10/2015 to 21/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405346",
+	"address": "BLK 152 YUNG HO RD, #B1-03 Singapore 610152",
+	"doctorInCharge": [
+		{
+			"name": "Loh Yin Leng Carolyn",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405346",
+	"coordinates": [
+		103.7207086,
+		1.3270767
+	],
+	"svy21": [
+		15467.65,
+		34367.2
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

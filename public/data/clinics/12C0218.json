@@ -1,0 +1,49 @@
+{
+	"name": "Q & M DENTAL SURGERY (HOUGANG CENTRAL) PTE LTD",
+	"tel": "63862663",
+	"fax": "63870266",
+	"licensee": "Q & M DENTAL SURGERY (HOUGANG CENTRAL) PTE. LTD.",
+	"licensePeriod": "10/10/2016 to 09/10/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0218",
+	"address": "BLK 810 HOUGANG CENTRAL, #01-230/232 Singapore 530810",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "12C0218",
+	"coordinates": [
+		103.89337,
+		1.3715874
+	],
+	"svy21": [
+		34682.99,
+		39288.77
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

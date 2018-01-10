@@ -1,0 +1,55 @@
+{
+	"name": "CHOONG'S CLINIC",
+	"tel": "67885190",
+	"fax": "67885190",
+	"licensee": "CHONG HOI WENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400264",
+	"address": "BLK 480 TAMPINES ST 44, #01-261 Singapore 520480",
+	"doctorInCharge": [
+		{
+			"name": "CHONG HOI WENG",
+			"qualifications": [
+				"MB ChB (University of Dundee, United Kingdom) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 11:30 am, 02:30 pm to 04:00 pm",
+		"Tuesday": "08:30 am to 11:30 am, 02:30 pm to 04:00 pm",
+		"Wednesday": "07:00 pm to 08:30 pm",
+		"Thursday": "08:30 am to 11:30 am, 02:30 pm to 04:00 pm",
+		"Friday": "07:00 pm to 08:30 pm",
+		"Saturday": "08:30 am to 11:30 am",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400264",
+	"coordinates": [
+		103.9536131,
+		1.3618987
+	],
+	"svy21": [
+		41387.37,
+		38217.69
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

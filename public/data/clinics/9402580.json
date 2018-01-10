@@ -1,0 +1,55 @@
+{
+	"name": "CARE MEDICAL CLINIC",
+	"tel": "63872272",
+	"fax": "63872272",
+	"licensee": "LEE WEE KHENG",
+	"licensePeriod": "18/07/2017 to 17/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402580",
+	"address": "BLK 683 HOUGANG AVE 8, #01-931 Singapore 530683",
+	"doctorInCharge": [
+		{
+			"name": "LEE WEE KHENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:45 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:45 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:45 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9402580",
+	"coordinates": [
+		103.8863678,
+		1.3733127
+	],
+	"svy21": [
+		33903.73,
+		39479.52
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"name": "KEE CLINIC",
+	"tel": "67783676",
+	"fax": "67783676",
+	"licensee": "Kee Wee Kenneth",
+	"licensePeriod": "19/03/2017 to 18/03/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9405119",
+	"address": "BLK 36 HOLLAND DRIVE, BUONA VISTA COMMUNITY CLUB, #01-10 Singapore 270036",
+	"doctorInCharge": [
+		{
+			"name": "Kee Wee Kenneth",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1972"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Thursday": "09:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Saturday": "09:30 am to 12:30 pm",
+		"Sunday": "10:00 am to 12:00 pm"
+	},
+	"id": "9405119",
+	"coordinates": [
+		103.7926405,
+		1.309183
+	],
+	"svy21": [
+		23472.91,
+		32388.36
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

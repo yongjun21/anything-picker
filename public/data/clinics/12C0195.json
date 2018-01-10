@@ -1,0 +1,53 @@
+{
+	"name": "M LAM CLINIC",
+	"tel": "67481949",
+	"fax": "67474439",
+	"licensee": "Tan Peh Khee",
+	"licensePeriod": "17/09/2016 to 16/09/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "12C0195",
+	"address": "739 GEYLANG ROAD, Singapore 389649",
+	"doctorInCharge": [
+		{
+			"name": "Tan Peh Khee",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000",
+				"MRCSEd (Royal College of Surgeons of Edinburgh, United Kingdom) 2006",
+				"M Med (Ortho Surg) (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "12C0195",
+	"coordinates": [
+		103.8904701,
+		1.3149743
+	],
+	"svy21": [
+		34360.42,
+		33028.77
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

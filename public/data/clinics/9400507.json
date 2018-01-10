@@ -1,0 +1,44 @@
+{
+	"name": "FABER CLINIC & SURGERY",
+	"tel": "67767723",
+	"fax": "67767723",
+	"licensee": "NG EIK TIONG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400507",
+	"address": "BLK 501 WEST COAST DR, #01-284 Singapore 120501",
+	"doctorInCharge": [
+		{
+			"name": "NG EIK TIONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9400507",
+	"coordinates": [
+		103.7588644,
+		1.3112957
+	],
+	"svy21": [
+		19713.96,
+		32622.05
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

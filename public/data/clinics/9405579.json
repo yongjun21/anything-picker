@@ -1,0 +1,59 @@
+{
+	"name": "JOHN CHIAM MEDICAL CLINIC",
+	"tel": "67633811",
+	"fax": "67632733",
+	"licensee": "Chiam Yih Hsing",
+	"licensePeriod": "11/05/2014 to 10/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405579",
+	"address": "BLK 21 GHIM MOH ROAD, #01-145 Singapore 270021",
+	"doctorInCharge": [
+		{
+			"name": "Chiam Yih Hsing",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 1998",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 2001",
+				"MRCP (Int Med) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 2002",
+				"Dip Pract Derm (University of Wales, United Kingdom) 2004",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2005",
+				"Dip OM (National University of Singapore, Singapore) 2005",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2007",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2008",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 2010",
+				"FRCP (Glasg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 04:00 pm to 07:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 04:00 pm to 07:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 04:00 pm to 07:00 pm",
+		"Thursday": "09:00 pm to 01:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 04:00 pm to 07:00 pm",
+		"Saturday": "09:00 am to 03:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405579",
+	"coordinates": [
+		103.788546,
+		1.310103
+	],
+	"svy21": [
+		23017.23,
+		32490.1
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

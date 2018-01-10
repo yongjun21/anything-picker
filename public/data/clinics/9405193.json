@@ -1,0 +1,46 @@
+{
+	"name": "THE JURONG DISPENSARY",
+	"tel": "67774494",
+	"fax": "67771075",
+	"licensee": "TAN KOK SOO",
+	"licensePeriod": "25/05/2017 to 24/05/2018",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"hciCode": "9405193",
+	"address": "BLK 443 CLEMENTI AVENUE 3, #01-77 Singapore 120443",
+	"doctorInCharge": [
+		{
+			"name": "TAN KOK SOO",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 1967"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9405193",
+	"coordinates": [
+		103.7640104,
+		1.3142105
+	],
+	"svy21": [
+		20286.66,
+		32944.35
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

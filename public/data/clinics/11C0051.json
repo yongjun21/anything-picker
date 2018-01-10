@@ -1,0 +1,45 @@
+{
+	"name": "NORTHEAST MEDICAL GROUP",
+	"tel": "68998126",
+	"fax": "68998620",
+	"licensee": "NORTHEAST (BUKIT BATOK) MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "19/03/2017 to 18/03/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "11C0051",
+	"address": "10 BUKIT BATOK CENTRAL, BUKIT BATOK MRT STATION, #01-01 Singapore 659958",
+	"doctorInCharge": [
+		{
+			"name": "TAN TECK JACK",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "11C0051",
+	"coordinates": [
+		103.7495668,
+		1.3490341
+	],
+	"svy21": [
+		18679.35,
+		36795.01
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

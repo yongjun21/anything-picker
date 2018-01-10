@@ -1,0 +1,41 @@
+{
+	"name": "LONDON DENTAL CARE",
+	"tel": "64560406",
+	"fax": "64560509",
+	"licensee": "LONDON DENTAL CARE PTE. LTD.",
+	"licensePeriod": "04/11/2016 to 03/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0342",
+	"address": "BLK 85 MARINE PARADE CENTRAL, #01-660 Singapore 440085",
+	"doctorInCharge": [
+		{
+			"name": "Feng Jacqueline Kuo Ting",
+			"qualifications": [
+				"BDS (University of Liverpool, United Kingdom) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "16D0342",
+	"coordinates": [
+		103.9067494,
+		1.3021389
+	],
+	"svy21": [
+		36172.19,
+		31609.54
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

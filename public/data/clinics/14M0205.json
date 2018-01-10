@@ -1,0 +1,46 @@
+{
+	"name": "DR CINDY'S MEDICAL AESTHETICS",
+	"tel": "65334433",
+	"fax": "65334432",
+	"licensee": "FOURTH APRIL PTE. LTD",
+	"licensePeriod": "21/07/2016 to 20/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0205",
+	"address": "1 RAFFLES PLACE, ONE RAFFLES PLACE, #05-19 Singapore 048616",
+	"doctorInCharge": [
+		{
+			"name": "Yang Cindy",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "11:00 pm to 09:00 pm",
+		"Tuesday": "11:00 pm to 09:00 pm",
+		"Wednesday": "11:00 pm to 09:00 pm",
+		"Thursday": "11:00 pm to 09:00 pm",
+		"Friday": "11:00 pm to 09:00 pm"
+	},
+	"id": "14M0205",
+	"coordinates": [
+		103.8510725,
+		1.2843495
+	],
+	"svy21": [
+		29975.87,
+		29642.37
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

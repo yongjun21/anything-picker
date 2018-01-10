@@ -1,0 +1,51 @@
+{
+	"name": "KIDSLINK CHILDREN'S CLINIC PTE LTD",
+	"tel": "63100900",
+	"fax": "63100236",
+	"licensee": "Kidslink Children's Clinic Pte Ltd",
+	"licensePeriod": "01/03/2014 to 28/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403556",
+	"address": "BLK 309 Choa Chu Kang Avenue 4, Choa Chu Kang Centre, #04-02/03 Singapore 680309",
+	"doctorInCharge": [
+		{
+			"name": "Ng Yong Meng Winston Irving",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987",
+				"M Med (Paed) (National University of Singapore, Singapore) 1994",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 1999"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm"
+	},
+	"id": "9403556",
+	"coordinates": [
+		103.7457107,
+		1.3851178
+	],
+	"svy21": [
+		18250.36,
+		40784.98
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

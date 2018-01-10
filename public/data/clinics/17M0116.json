@@ -1,0 +1,44 @@
+{
+	"name": "UNIHEALTH 24-HR CLINIC (ANG MO KIO)",
+	"tel": "69192998",
+	"fax": "62662851",
+	"licensee": "D & R MEDICAL PRIVATE LIMITED",
+	"licensePeriod": "25/04/2017 to 24/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0116",
+	"address": "BLK 525 ANG MO KIO AVENUE 10, CHENG SAN CENTRE, #01-2407 Singapore 560525",
+	"doctorInCharge": [
+		{
+			"name": "Ong Swee Seng Raymond",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "17M0116",
+	"coordinates": [
+		103.8539767,
+		1.3726267
+	],
+	"svy21": [
+		30299,
+		39403.61
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

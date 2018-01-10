@@ -1,0 +1,54 @@
+{
+	"name": "EON MEDICAL CLINIC",
+	"tel": "63840904",
+	"fax": "63840904",
+	"licensee": "EON MEDICAL CLINIC",
+	"licensePeriod": "02/10/2017 to 01/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0340",
+	"address": "BLK 475 UPPER SERANGOON CRESCENT, MULTI STOREY CAR PARK, #01-04 Singapore 530475",
+	"doctorInCharge": [
+		{
+			"name": "Fadzil Bin Jaafar",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "15M0340",
+	"coordinates": [
+		103.9006753,
+		1.3757155
+	],
+	"svy21": [
+		35495.97,
+		39745.25
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

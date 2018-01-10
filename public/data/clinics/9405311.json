@@ -1,0 +1,54 @@
+{
+	"name": "CHAN KM GERIATRIC & MEDICAL CLINIC PTE LTD",
+	"tel": "64747789",
+	"fax": "64797739",
+	"licensee": "CHAN KM GERIATRIC & MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "24/11/2017 to 23/11/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405311",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #08-10 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Chan Kin Ming",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Geriatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Geriatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm",
+		"Tuesday": "02:00 pm to 05:00 pm",
+		"Friday": "02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405311",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

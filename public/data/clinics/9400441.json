@@ -1,0 +1,55 @@
+{
+	"name": "E.J. TAN CLINIC & SURGERY",
+	"licensee": "LOKE KAM WENG",
+	"licensePeriod": "10/07/2015 to 09/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400441",
+	"address": "BLK 104 JURONG EAST ST 13, #01-100 Singapore 600104",
+	"doctorInCharge": [
+		{
+			"name": "LOKE KAM WENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1999",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:30 pm",
+		"Saturday": "08:30 am to 12:30 pm, 07:00 pm to 09:00 pm"
+	},
+	"id": "9400441",
+	"coordinates": [
+		103.7376233,
+		1.3365847
+	],
+	"svy21": [
+		17350.12,
+		35418.46
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

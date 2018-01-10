@@ -1,0 +1,54 @@
+{
+	"name": "ONE MEDICAL CLINIC",
+	"tel": "67922143",
+	"fax": "67925793",
+	"licensee": "ONE MEDICAL PTE. LTD.",
+	"licensePeriod": "24/07/2016 to 23/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0146",
+	"address": "BLK 728 JURONG WEST AVENUE 5, #01-K1 Singapore 640728",
+	"doctorInCharge": [
+		{
+			"name": "Loke Chok Loon",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2003",
+				"MCEM (The College of Emergency Medicine, United Kingdom) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 02:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 02:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 02:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 02:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 02:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "12C0146",
+	"coordinates": [
+		103.6976983,
+		1.3460984
+	],
+	"svy21": [
+		12906.95,
+		36470.66
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

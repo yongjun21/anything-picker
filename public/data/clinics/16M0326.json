@@ -1,0 +1,45 @@
+{
+	"name": "LIFE FAMILY CLINIC",
+	"tel": "64563535",
+	"fax": "64561630",
+	"licensee": "LIFE FAMILY CLINIC (CCK) PTE. LTD.",
+	"licensePeriod": "20/10/2016 to 19/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0326",
+	"address": "10 CHOA CHU KANG AVENUE 4, CHOA CHU KANG MRT STATION, #01-28/29 Singapore 689810",
+	"doctorInCharge": [
+		{
+			"name": "LIM KIM SHOW",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "16M0326",
+	"coordinates": [
+		103.7443708,
+		1.3853632
+	],
+	"svy21": [
+		18101.25,
+		40812.12
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

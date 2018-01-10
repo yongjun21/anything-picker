@@ -1,0 +1,40 @@
+{
+	"name": "SEMBCORP MARINE ADMIRALTY YARD MEDICAL CENTRE",
+	"tel": "67506300",
+	"fax": "67506331",
+	"licensee": "SEMBCORP MARINE LTD",
+	"licensePeriod": "21/03/2016 to 20/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16C0071",
+	"address": "ADMIRALTY ROAD WEST, Singapore 759956",
+	"doctorInCharge": [
+		{
+			"name": "SOH HUN BENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16C0071",
+	"coordinates": [
+		103.824358,
+		1.4606686
+	],
+	"svy21": [
+		27002.83,
+		49138.84
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"name": "VEIN & GENERAL SURGERY CLINIC",
+	"tel": "64751002",
+	"fax": "64751162",
+	"licensee": "VEIN & GENERAL SURGERY CLINIC PTE. LTD.",
+	"licensePeriod": "31/08/2015 to 30/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405286",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #08-06 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Nalachandran Sanjay",
+			"qualifications": [
+				"MB BCh BAO (National University of Ireland, Ireland) 1997",
+				"MRCS (Surgery) (Royal College of Surgeons of Edinburgh, United Kingdom) 2000",
+				"AFRCS (Royal College of Surgeons, Ireland) 2001"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiothoracic Surgery",
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405286",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

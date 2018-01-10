@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64523540",
+	"fax": "64523540",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "25/09/2015 to 24/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403421",
+	"address": "BLK 1 ANG MO KIO STREET 42, Singapore 569277",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 pm to 05:30 pm",
+		"Tuesday": "08:00 pm to 05:30 pm",
+		"Wednesday": "08:00 pm to 05:30 pm",
+		"Thursday": "08:00 pm to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403421",
+	"coordinates": [
+		103.8525458,
+		1.365997
+	],
+	"svy21": [
+		30139.76,
+		38670.53
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

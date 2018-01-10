@@ -1,0 +1,51 @@
+{
+	"name": "SHANG DENTAL",
+	"tel": "62822345",
+	"fax": "65524928",
+	"licensee": "SHANG DENTAL PRIVATE LIMITED",
+	"licensePeriod": "23/08/2016 to 22/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0245",
+	"address": "BLK 154 SERANGOON NORTH AVENUE 1, #01-390 Singapore 550154",
+	"doctorInCharge": [
+		{
+			"name": "Ng Si Hao",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "09:00 am to 05:00 pm"
+	},
+	"id": "16D0245",
+	"coordinates": [
+		103.8731155,
+		1.3701298
+	],
+	"svy21": [
+		32428.92,
+		39127.55
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

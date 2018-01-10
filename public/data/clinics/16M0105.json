@@ -1,0 +1,41 @@
+{
+	"name": "CMY MEDICAL",
+	"licensee": "CMY MEDICAL PTE. LTD.",
+	"licensePeriod": "13/04/2016 to 12/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0105",
+	"address": "BLK 37 CHAI CHEE AVENUE, #01-295 Singapore 461037",
+	"doctorInCharge": [
+		{
+			"name": "Lau Tzun Hon",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "16M0105",
+	"coordinates": [
+		103.9262076,
+		1.325442
+	],
+	"svy21": [
+		38337.62,
+		34186.35
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

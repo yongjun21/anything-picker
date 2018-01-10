@@ -1,0 +1,46 @@
+{
+	"name": "KLINIK BURHANI",
+	"tel": "64442559",
+	"fax": "63484189",
+	"licensee": "BURHANUDIN ABDUL HUSAIN VASENWALA",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400858",
+	"address": "BLK 136 BEDOK NORTH AVE 3, #01-150 Singapore 460136",
+	"doctorInCharge": [
+		{
+			"name": "BURHANUDIN ABDUL HUSAIN VASENWALA",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1966"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm"
+	},
+	"id": "9400858",
+	"coordinates": [
+		103.9352116,
+		1.3278347
+	],
+	"svy21": [
+		39339.66,
+		34450.97
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

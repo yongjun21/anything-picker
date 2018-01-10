@@ -1,0 +1,56 @@
+{
+	"name": "HEALTHMARK CLINIC (PASIR RIS)",
+	"tel": "65827823",
+	"fax": "65827055",
+	"licensee": "UNITED VISION HOLDINGS PTE. LTD.",
+	"licensePeriod": "31/12/2015 to 30/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404665",
+	"address": "BLK 735 PASIR RIS STREET 72, PASIR RIS WEST PLAZA, #01-314 Singapore 510735",
+	"doctorInCharge": [
+		{
+			"name": "WONG HOONG-WAI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm",
+		"Tuesday": "02:00 pm to 05:00 pm",
+		"Wednesday": "06:30 pm to 09:30 pm",
+		"Thursday": "06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 01:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "08:30 am to 12:00 pm"
+	},
+	"id": "9404665",
+	"coordinates": [
+		103.9365746,
+		1.3796681
+	],
+	"svy21": [
+		39491.11,
+		40182.46
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

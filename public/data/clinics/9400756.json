@@ -1,0 +1,55 @@
+{
+	"name": "JO-LIN FAMILY CLINIC & SURGERY",
+	"tel": "67606014",
+	"fax": "67606014",
+	"licensee": "JO-LIN PTE. LTD.",
+	"licensePeriod": "02/05/2016 to 01/05/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400756",
+	"address": "BLK 533 CHOA CHU KANG ST 51, LIMBANG SHOPPING CENTRE, #01-29 Singapore 680533",
+	"doctorInCharge": [
+		{
+			"name": "LEE GAY LIN JOSEPHINE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "06:30 pm to 09:30 pm"
+	},
+	"id": "9400756",
+	"coordinates": [
+		103.7430996,
+		1.3920739
+	],
+	"svy21": [
+		17959.81,
+		41554.17
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

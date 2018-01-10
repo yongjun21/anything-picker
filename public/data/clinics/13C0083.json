@@ -1,0 +1,50 @@
+{
+	"name": "PROVIDENCE CLINIC @ REDHILL",
+	"tel": "64710301",
+	"fax": "64710301",
+	"licensee": "AI INVESTING PTE. LTD.",
+	"licensePeriod": "08/04/2017 to 07/04/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0083",
+	"address": "BLK 86 REDHILL CLOSE, #01-596 Singapore 150086",
+	"doctorInCharge": [
+		{
+			"name": "Teo sze yang",
+			"qualifications": [
+				"MD (National University of Malaysia, Malaysia) 2006"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "13C0083",
+	"coordinates": [
+		103.8186736,
+		1.2869201
+	],
+	"svy21": [
+		26370.14,
+		29926.61
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

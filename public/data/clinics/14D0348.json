@@ -1,0 +1,50 @@
+{
+	"name": "RAFFLESDENTAL",
+	"tel": "66049592",
+	"fax": "66360159",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "26/11/2016 to 25/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0348",
+	"address": "33 SENGKANG WEST AVENUE, THE SELETAR MALL, #01-54/55/56 Singapore 797653",
+	"doctorInCharge": [
+		{
+			"name": "EDGAR KIEU LI CHONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Sunday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "14D0348",
+	"coordinates": [
+		103.8761255,
+		1.3914702
+	],
+	"svy21": [
+		32763.85,
+		41487.26
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

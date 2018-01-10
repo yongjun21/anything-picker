@@ -1,0 +1,47 @@
+{
+	"name": "THE SLOANE CLINIC",
+	"tel": "65332522",
+	"fax": "65340370",
+	"licensee": "MAXGLOBE PTE. LTD.",
+	"licensePeriod": "05/03/2017 to 04/03/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403333",
+	"address": "30 RAFFLES PLACE, CHEVRON HOUSE, #03-01 Singapore 048622",
+	"doctorInCharge": [
+		{
+			"name": "Hardie Billy",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 08:00 pm",
+		"Tuesday": "10:00 am to 08:00 pm",
+		"Wednesday": "10:00 am to 08:00 pm",
+		"Thursday": "10:00 am to 08:00 pm",
+		"Friday": "10:00 am to 08:00 pm",
+		"Saturday": "10:00 am to 03:00 pm"
+	},
+	"id": "9403333",
+	"coordinates": [
+		103.8520088,
+		1.2842148
+	],
+	"svy21": [
+		30080.07,
+		29627.47
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

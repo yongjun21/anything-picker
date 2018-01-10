@@ -1,0 +1,53 @@
+{
+	"name": "PRISTINE MEDICAL CLINIC",
+	"tel": "65693445",
+	"fax": "65672440",
+	"licensee": "TAHA ZAINAB PTE. LTD.",
+	"licensePeriod": "23/12/2013 to 22/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405418",
+	"address": "BLK 463 JURONG WEST STREET 41, #01-582 Singapore 640463",
+	"doctorInCharge": [
+		{
+			"name": "Syed Shuaib bin Syed Taha",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 11:00 pm",
+		"Tuesday": "09:00 am to 11:00 pm",
+		"Wednesday": "09:00 am to 11:00 pm",
+		"Thursday": "09:00 am to 11:00 pm",
+		"Friday": "09:00 am to 11:00 pm",
+		"Saturday": "09:00 am to 11:00 pm",
+		"Sunday": "09:00 am to 11:00 pm"
+	},
+	"id": "9405418",
+	"coordinates": [
+		103.7232411,
+		1.350577
+	],
+	"svy21": [
+		15749.61,
+		36965.73
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

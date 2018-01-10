@@ -1,0 +1,51 @@
+{
+	"name": "MAYAN MEDICAL CLINIC",
+	"tel": "88762242",
+	"fax": "00000000",
+	"licensee": "Maryan Pte Ltd",
+	"licensePeriod": "01/03/2016 to 28/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0053",
+	"address": "61 KILLINEY ROAD, Singapore 239522",
+	"doctorInCharge": [
+		{
+			"name": "Khaw May May",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 07:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 07:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 07:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 07:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 07:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "16M0053",
+	"coordinates": [
+		103.8395501,
+		1.2989212
+	],
+	"svy21": [
+		28693.51,
+		31253.62
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"name": "THOMSON PAEDIATRIC CENTRE",
+	"tel": "66363808",
+	"fax": "66363809",
+	"licensee": "THOMSON PAEDIATRIC CENTRE PTE. LTD.",
+	"licensePeriod": "20/10/2016 to 19/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "11C0229",
+	"address": "148 EAST COAST ROAD, Singapore 428836",
+	"doctorInCharge": [
+		{
+			"name": "Ong Ian",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2002",
+				"MRCPCH (Paed) (Royal College of Paediatrics and Child Health, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Yellow Fever Vaccination": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "10:00 am to 01:00 pm",
+		"Wednesday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "10:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "11C0229",
+	"coordinates": [
+		103.9056844,
+		1.3062328
+	],
+	"svy21": [
+		36053.64,
+		32062.22
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

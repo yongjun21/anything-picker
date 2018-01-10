@@ -1,0 +1,43 @@
+{
+	"name": "WAN MEDICAL CLINIC",
+	"tel": "62438352",
+	"fax": "62438302",
+	"licensee": "Muhammad Iqmal Bin Abdullah",
+	"licensePeriod": "28/10/2016 to 27/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "12C0265",
+	"address": "BLK 416 BEDOK NORTH AVENUE 2, #01-21 Singapore 460416",
+	"doctorInCharge": [
+		{
+			"name": "Muhammad Iqmal Bin Abdullah",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "12C0265",
+	"coordinates": [
+		103.9306849,
+		1.3284038
+	],
+	"svy21": [
+		38835.88,
+		34513.88
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

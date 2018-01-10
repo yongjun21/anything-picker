@@ -1,0 +1,54 @@
+{
+	"name": "EAST COAST MEDICAL CENTRE",
+	"tel": "64430109",
+	"fax": "64456159",
+	"licensee": "TAN KIA CHOO",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400452",
+	"address": "BLK 57A NEW UPPER CHANGI RD, #01-1374 Singapore 462057",
+	"doctorInCharge": [
+		{
+			"name": "TAN KIA CHOO",
+			"qualifications": [
+				"MCPS (College of Physicians and Surgeons (Saskatchewan), Canada) 1974",
+				"MD (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400452",
+	"coordinates": [
+		103.9412887,
+		1.3237168
+	],
+	"svy21": [
+		40016,
+		33995.66
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

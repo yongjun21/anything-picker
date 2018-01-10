@@ -1,0 +1,51 @@
+{
+	"name": "WH DENTAL SURGEONS",
+	"tel": "62859555",
+	"fax": "63121149",
+	"licensee": "LOO SUAN NEO",
+	"licensePeriod": "08/01/2017 to 07/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0008",
+	"address": "33 SENGKANG WEST AVENUE, THE SELETAR MALL, #03-34 Singapore 797653",
+	"doctorInCharge": [
+		{
+			"name": "Alice Chua Soy Lung",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 09:00 pm",
+		"Sunday": "09:00 am to 09:00 pm"
+	},
+	"id": "15D0008",
+	"coordinates": [
+		103.8761255,
+		1.3914702
+	],
+	"svy21": [
+		32763.85,
+		41487.26
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

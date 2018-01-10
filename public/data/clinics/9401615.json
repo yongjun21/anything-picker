@@ -1,0 +1,45 @@
+{
+	"name": "TAN'S T & T CLINIC AND SURGERY",
+	"tel": "63531133",
+	"fax": "63535996",
+	"licensee": "TAN POH HENG",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401615",
+	"address": "BLK 152 BISHAN ST 11, #01-213 Singapore 570152",
+	"doctorInCharge": [
+		{
+			"name": "TAN POH HENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed"
+	},
+	"id": "9401615",
+	"coordinates": [
+		103.8546417,
+		1.3456628
+	],
+	"svy21": [
+		30373.03,
+		36422.09
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"name": "TOYU MEDICAL CENTRE",
+	"tel": "65677372",
+	"fax": "64647528",
+	"licensee": "CHOO WENG SIN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401783",
+	"address": "BLK 351 JURONG EAST ST 31, #01-85 Singapore 600351",
+	"doctorInCharge": [
+		{
+			"name": "CHOO WENG SIN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1979"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:30 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:30 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "09:30 am to 12:30 pm",
+		"Sunday": "09:30 am to 12:30 pm"
+	},
+	"id": "9401783",
+	"coordinates": [
+		103.7307783,
+		1.3448324
+	],
+	"svy21": [
+		16588.38,
+		36330.49
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

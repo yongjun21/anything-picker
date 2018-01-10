@@ -1,0 +1,50 @@
+{
+	"name": "DOVER CLINIC AND SURGERY PTE LTD",
+	"tel": "67757410",
+	"fax": "67762851",
+	"licensee": "DOVER CLINIC AND SURGERY PTE. LTD.",
+	"licensePeriod": "28/04/2015 to 27/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404789",
+	"address": "BLK 28 DOVER CRESCENT, MULTI STOREY CAR PARK, #01-89 Singapore 130028",
+	"doctorInCharge": [
+		{
+			"name": "Chai Chin Yoong",
+			"qualifications": [
+				"MB ChB (University of Edinburgh, United Kingdom) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9404789",
+	"coordinates": [
+		103.7816972,
+		1.3047636
+	],
+	"svy21": [
+		22255.01,
+		31899.7
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

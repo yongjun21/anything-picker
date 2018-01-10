@@ -1,0 +1,53 @@
+{
+	"name": "TANG FAMILY CLINIC",
+	"tel": "64680118",
+	"fax": "64680118",
+	"licensee": "GAVIN TANG WEN-YU",
+	"licensePeriod": "01/07/2014 to 30/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402691",
+	"address": "84 Jalan Jurong Kechil, Singapore 598593",
+	"doctorInCharge": [
+		{
+			"name": "GAVIN TANG WEN-YU",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1999"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 02:30 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "09:00 am to 02:30 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "09:00 am to 02:30 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "09:00 am to 02:30 pm, 06:00 pm to 10:00 pm",
+		"Friday": "09:00 am to 02:30 pm, 06:00 pm to 10:00 pm"
+	},
+	"id": "9402691",
+	"coordinates": [
+		103.7731459,
+		1.3405615
+	],
+	"svy21": [
+		21303.43,
+		35858.07
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

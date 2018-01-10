@@ -1,0 +1,57 @@
+{
+	"name": "THE NOVENA MEDICAL SPECIALISTS",
+	"tel": "63392788",
+	"fax": "63394450",
+	"licensee": "THE NOVENA MEDICAL SPECIALISTS PTE. LTD.",
+	"licensePeriod": "13/05/2017 to 12/05/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0120",
+	"address": "38 IRRAWADDY ROAD, Mt Elizabeth Novena Specialist Centre, #08-48/49 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Low Chian Yong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2005",
+				"M Med (Int Med) (National University of Singapore, Singapore) 2005",
+				"FAMS (Infectious Disease) (Academy of Medicine, Singapore) 2009"
+			],
+			"specialties": [
+				"Infectious Diseases"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true,
+		"Specialist Medical": [
+			"Infectious Diseases"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "13C0120",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

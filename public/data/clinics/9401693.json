@@ -1,0 +1,51 @@
+{
+	"name": "THE FAMILY  MEDICAL CENTRE",
+	"tel": "67873328",
+	"fax": "67873328",
+	"licensee": "LAM WEE MIN",
+	"licensePeriod": "29/06/2015 to 28/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401693",
+	"address": "BLK 827 TAMPINES ST 81, #01-148 Singapore 520827",
+	"doctorInCharge": [
+		{
+			"name": "LAM WEE MIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"Dip Derm (University of Wales, United Kingdom) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "08:30 am to 01:00 pm"
+	},
+	"id": "9401693",
+	"coordinates": [
+		103.9337192,
+		1.3497215
+	],
+	"svy21": [
+		39173.48,
+		36871.09
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

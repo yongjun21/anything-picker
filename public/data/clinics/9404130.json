@@ -1,0 +1,54 @@
+{
+	"name": "HEALTHMED FAMILY CLINIC (BUKIT PANJANG)",
+	"tel": "67604321",
+	"fax": "67604342",
+	"licensee": "United Vision Holdings Pte. Ltd.",
+	"licensePeriod": "06/04/2014 to 05/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404130",
+	"address": "BLK 416 Saujana Road, #01-50 Singapore 670416",
+	"doctorInCharge": [
+		{
+			"name": "Thong Chee Ming",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9404130",
+	"coordinates": [
+		103.7684541,
+		1.3831969
+	],
+	"svy21": [
+		20781.41,
+		40572.5
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

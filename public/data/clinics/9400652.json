@@ -1,0 +1,46 @@
+{
+	"name": "HEALTHCARE FAMILY CLINIC & SURGERY",
+	"tel": "64542373",
+	"fax": "64550869",
+	"licensee": "HEALTHCARE MEDICAL PTE. LTD.",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400652",
+	"address": "BLK 403 SIN MING AVE, #01-311 Singapore 570403",
+	"doctorInCharge": [
+		{
+			"name": "LEE ENG SENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2008"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9400652",
+	"coordinates": [
+		103.833604,
+		1.3628703
+	],
+	"svy21": [
+		28031.77,
+		38324.79
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

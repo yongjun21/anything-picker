@@ -1,0 +1,59 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "65079730",
+	"fax": "62240608",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "10/11/2013 to 09/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405371",
+	"address": "11 COLLYER QUAY, THE ARCADE, #19-01 Singapore 049317",
+	"doctorInCharge": [
+		{
+			"name": "Ho Sin Teck Winston",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"Dip Geriatric Med (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Psychiatry"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405371",
+	"coordinates": [
+		103.8520686,
+		1.2836197
+	],
+	"svy21": [
+		30086.72,
+		29561.67
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

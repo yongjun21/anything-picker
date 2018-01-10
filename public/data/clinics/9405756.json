@@ -1,0 +1,52 @@
+{
+	"name": "GENTLE DENTAL GROUP @ BUKIT TIMAH",
+	"tel": "64666110",
+	"fax": "64666112",
+	"licensee": "GENTLE DENTAL GROUP @ BUKIT TIMAH PTE. LTD.",
+	"licensePeriod": "22/11/2014 to 21/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405756",
+	"address": "110 JALAN JURONG KECHIL, #01-01 Singapore 598606",
+	"doctorInCharge": [
+		{
+			"name": "Chen Shu-Hoa Sylvia",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9405756",
+	"coordinates": [
+		103.7721164,
+		1.3411784
+	],
+	"svy21": [
+		21188.86,
+		35926.3
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

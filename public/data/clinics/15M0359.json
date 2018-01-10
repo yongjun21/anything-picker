@@ -1,0 +1,52 @@
+{
+	"name": "MY FAMILY CLINIC (PUNGGOL WATERWAY TERRACE)",
+	"tel": "64445390",
+	"fax": "66977755",
+	"licensee": "MY FAMILY CLINIC (PUNGGOL WATERWAY TERRACE) PTE. LTD.",
+	"licensePeriod": "15/10/2017 to 14/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0359",
+	"address": "BLK 308C PUNGGOL WALK, WATER TERRACES 1, #01-302 Singapore 823308",
+	"doctorInCharge": [
+		{
+			"name": "Chan Wei Tat Eugene",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 02:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:00 am to 02:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:00 am to 02:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:00 am to 02:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:00 am to 02:00 pm",
+		"Saturday": "08:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "15M0359",
+	"coordinates": [
+		103.8990744,
+		1.4080069
+	],
+	"svy21": [
+		35317.71,
+		43315.87
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

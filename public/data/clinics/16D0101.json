@@ -1,0 +1,51 @@
+{
+	"name": "GARDEN DENTAL",
+	"tel": "62199548",
+	"fax": "66487535",
+	"licensee": "BAEK CENTRE FOR AESTHETIC AND IMPLANT DENTISTRY PTE. LTD.",
+	"licensePeriod": "12/04/2016 to 11/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0101",
+	"address": "491 BUKIT TIMAH ROAD, BOTANIC GARDENS MRT STATION, #B1-02 Singapore 259777",
+	"doctorInCharge": [
+		{
+			"name": "Baek Seung Ho Robin",
+			"qualifications": [
+				"DDS (University of Michigan School of Dentistry, United States) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 09:00 pm",
+		"Sunday": "09:00 am to 09:00 pm"
+	},
+	"id": "16D0101",
+	"coordinates": [
+		103.816014,
+		1.3224881
+	],
+	"svy21": [
+		26074.17,
+		33859.54
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

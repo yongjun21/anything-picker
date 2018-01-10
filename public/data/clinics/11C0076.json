@@ -1,0 +1,40 @@
+{
+	"name": "ROYCE DENTAL SURGERY",
+	"tel": "63687467",
+	"fax": "63687321",
+	"licensee": "YKB (WOODLANDS) PTE. LTD.",
+	"licensePeriod": "01/06/2016 to 31/05/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0076",
+	"address": "BLK 371 WOODLANDS AVENUE 1, #01-821 Singapore 730371",
+	"doctorInCharge": [
+		{
+			"name": "Ng Keng Howe",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"id": "11C0076",
+	"coordinates": [
+		103.7867144,
+		1.4322823
+	],
+	"svy21": [
+		22813.66,
+		46000.06
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

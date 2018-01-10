@@ -1,0 +1,56 @@
+{
+	"name": "NORTHLAND FAMILY CLINIC & SURGERY",
+	"tel": "67535181",
+	"fax": "67536062",
+	"licensee": "LO MUN KID",
+	"licensePeriod": "24/07/2015 to 23/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401193",
+	"address": "BLK 640 YISHUN ST 61, #01-198 Singapore 760640",
+	"doctorInCharge": [
+		{
+			"name": "LO MUN KID",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 06:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9401193",
+	"coordinates": [
+		103.8388065,
+		1.4210618
+	],
+	"svy21": [
+		28610.73,
+		44759.31
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

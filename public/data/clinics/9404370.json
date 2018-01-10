@@ -1,0 +1,38 @@
+{
+	"name": "GINZA DENTAL SURGERY",
+	"tel": "67744901",
+	"fax": "67732175",
+	"licensee": "Tan Boon Eng",
+	"licensePeriod": "17/03/2016 to 16/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9404370",
+	"address": "BLK 612 CLEMENTI WEST STREET 1, #01-302 Singapore 120612",
+	"doctorInCharge": [
+		{
+			"name": "Tan Boon Eng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9404370",
+	"coordinates": [
+		103.7686334,
+		1.3034422
+	],
+	"svy21": [
+		20801.12,
+		31753.63
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

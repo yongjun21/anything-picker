@@ -1,0 +1,47 @@
+{
+	"name": "HEALTHWAY MEDICAL CLINIC",
+	"tel": "65606127",
+	"fax": "65606284",
+	"licensee": "HEALTHWAY MEDICAL ENTERPRISES PTE LTD",
+	"licensePeriod": "09/05/2016 to 08/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "12C0056",
+	"address": "3 Gateway Drive, Westgate, #04-32 Singapore 608532",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "12C0056",
+	"coordinates": [
+		103.7427664,
+		1.3341575
+	],
+	"svy21": [
+		17922.49,
+		35150.06
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"name": "NEUROLOGY AND NEUROPHYSIOLOGY CLINIC",
+	"tel": "64705688",
+	"fax": "64743021",
+	"licensee": "TAN CHAI BENG",
+	"licensePeriod": "16/02/2015 to 15/02/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402805",
+	"address": "6A NAPIER RD, GLENEAGLES HOSPITAL ANNEXE BLOCK, #05-39 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "TAN CHAI BENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Neurology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Neurology"
+		]
+	},
+	"id": "9402805",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

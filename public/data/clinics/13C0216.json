@@ -1,0 +1,59 @@
+{
+	"name": "PARKWAY CANCER CENTRE",
+	"tel": "64738688",
+	"fax": "64792309",
+	"licensee": "PARKWAY CANCER CENTRE",
+	"licensePeriod": "27/08/2017 to 26/08/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0216",
+	"address": "6A Napier Road, Gleneagles Hospital, #03-00 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "Foo Kian Fong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 1992",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1997",
+				"M Med (Int Med) (Med Oncology) (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Medical Oncology",
+			"Paediatric Medicine",
+			"Palliative Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0216",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

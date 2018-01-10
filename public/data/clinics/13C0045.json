@@ -1,0 +1,46 @@
+{
+	"name": "VISTA DENTAL SURGERY",
+	"tel": "63676266",
+	"fax": "63676266",
+	"licensee": "VISTA DENTAL SURGERY (WINX) PTE. LTD.",
+	"licensePeriod": "05/03/2017 to 04/03/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0045",
+	"address": "BLK 30 WOODLANDS AVENUE 2, WOODLANDS MRT STATION, #01-34 Singapore 738343",
+	"doctorInCharge": [
+		{
+			"name": "Ong Huang Leong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "13C0045",
+	"coordinates": [
+		103.7864625,
+		1.4369682
+	],
+	"svy21": [
+		22785.63,
+		46518.22
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

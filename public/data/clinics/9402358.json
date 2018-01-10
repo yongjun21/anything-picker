@@ -1,0 +1,46 @@
+{
+	"name": "CHARLES DENTAL SURGERY",
+	"tel": "67883829",
+	"fax": "67883829",
+	"licensee": "CHAU CHEE JAU",
+	"licensePeriod": "20/10/2016 to 19/10/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402358",
+	"address": "BLK 481 TAMPINES ST 44, #01-271 Singapore 520481",
+	"doctorInCharge": [
+		{
+			"name": "CHAU CHEE JAU",
+			"qualifications": [
+				"DDS (University of Iowa College of Dentistry, United States) 1990"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 12:00 am, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "10:00 am to 12:00 am, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "Closed",
+		"Thursday": "10:00 am to 12:00 am, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "10:00 am to 12:00 am, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "10:30 am to 12:00 pm"
+	},
+	"id": "9402358",
+	"coordinates": [
+		103.9532511,
+		1.3616296
+	],
+	"svy21": [
+		41347.09,
+		38187.93
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

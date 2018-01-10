@@ -1,0 +1,49 @@
+{
+	"name": "AE MEDICAL CLINIC",
+	"tel": "68162900",
+	"fax": "68162900",
+	"licensee": "AE Medical Fernvale Pte Ltd",
+	"licensePeriod": "19/05/2016 to 18/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0147",
+	"address": "BLK 467B FERNVALE LINK, #01-529 Singapore 792467",
+	"doctorInCharge": [
+		{
+			"name": "Wong Shing Yip",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2013",
+				"PG Dip (Clinical Derm) (Queen Mary University of London, United Kingdom) 2015"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "16M0147",
+	"coordinates": [
+		103.8779334,
+		1.3980711
+	],
+	"svy21": [
+		32965.03,
+		42217.16
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"name": "KONG KIAN CLINIC",
+	"tel": "62887101",
+	"fax": "62887101",
+	"licensee": "CHEE CHAN SEONG STEPHEN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400873",
+	"address": "BLK 187 UPPER PAYA LEBAR ROAD, Singapore 534869",
+	"doctorInCharge": [
+		{
+			"name": "CHEE CHAN SEONG STEPHEN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1962"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400873",
+	"coordinates": [
+		103.8850325,
+		1.3401084
+	],
+	"svy21": [
+		33755.2,
+		35807.95
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

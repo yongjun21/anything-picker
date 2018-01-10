@@ -1,0 +1,54 @@
+{
+	"name": "LYEN CHILDREN'S CLINIC",
+	"tel": "67342600",
+	"fax": "67326960",
+	"licensee": "Lyen Kenneth Reginald",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401024",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #09-04 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Lyen Kenneth Reginald",
+			"qualifications": [
+				"BM BCh (University of Oxford, United Kingdom) 1973",
+				"MRCP (Int Med) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1978",
+				"FRCP (Paed) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1989",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 1989"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
+	"id": "9401024",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

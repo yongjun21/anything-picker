@@ -1,0 +1,48 @@
+{
+	"name": "A&M MEDICAL CENTRE",
+	"tel": "63381988",
+	"fax": "63379050",
+	"licensee": "ASHLEY & MARTIN (SINGAPORE) PTE. LTD.",
+	"licensePeriod": "30/10/2017 to 29/10/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0297",
+	"address": "190 CLEMENCEAU AVENUE, SINGAPORE SHOPPING CENTRE, #04-17 Singapore 239924",
+	"doctorInCharge": [
+		{
+			"name": "Yap Fook Dung",
+			"qualifications": [
+				"MB BCh BAO (National University of Ireland, Ireland) 1999"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Tuesday": "05:30 pm to 07:30 pm",
+		"Wednesday": "05:30 pm to 07:30 pm",
+		"Thursday": "05:30 pm to 07:30 pm",
+		"Friday": "01:30 pm to 05:30 pm",
+		"Saturday": "10:00 am to 02:00 pm"
+	},
+	"id": "13C0297",
+	"coordinates": [
+		103.8441113,
+		1.2981527
+	],
+	"svy21": [
+		29201.14,
+		31168.65
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

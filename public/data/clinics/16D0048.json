@@ -1,0 +1,52 @@
+{
+	"name": "NEWPORT DENTAL",
+	"tel": "63867578",
+	"fax": "68014007",
+	"licensee": "NEWPORT DENTAL GROUP",
+	"licensePeriod": "26/02/2016 to 25/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0048",
+	"address": "1 STADIUM PLACE, kallang wave mall, #01-08 Singapore 397628",
+	"doctorInCharge": [
+		{
+			"name": "Divya singh",
+			"qualifications": [
+				"DDS (New York University College of Dentistry, United States) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 08:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 08:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 08:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 08:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 08:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 am to 06:00 pm"
+	},
+	"id": "16D0048",
+	"coordinates": [
+		103.8731497,
+		1.3030752
+	],
+	"svy21": [
+		32432.84,
+		31712.98
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

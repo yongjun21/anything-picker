@@ -1,0 +1,49 @@
+{
+	"name": "JANE YAP CHEST & MEDICAL CLINIC  PTE LTD",
+	"tel": "63569928",
+	"fax": "63569927",
+	"licensee": "JANE YAP CHEST & MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "30/06/2016 to 29/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9404853",
+	"address": "820 THOMSON ROAD, MOUNT ALVERNIA HOSPITAL MEDICAL CENTRE D, #05-57 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "YAP CHENG HOON, JANE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Intensive Care Medicine",
+			"Respiratory Medicine"
+		]
+	},
+	"id": "9404853",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

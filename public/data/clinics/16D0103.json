@@ -1,0 +1,50 @@
+{
+	"name": "ENHANCE DENTAL CENTRE",
+	"tel": "64818908",
+	"fax": "97850141",
+	"licensee": "ENHANCE DENTAL PTE. LTD.",
+	"licensePeriod": "13/04/2016 to 12/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0103",
+	"address": "BLK 417 YISHUN AVENUE 11, #01-333 Singapore 760417",
+	"doctorInCharge": [
+		{
+			"name": "Jessica Widiyati",
+			"qualifications": [
+				"BDSc (University of Melbourne, Australia) 2011"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 06:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "16D0103",
+	"coordinates": [
+		103.8463291,
+		1.4243851
+	],
+	"svy21": [
+		29447.88,
+		45126.78
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

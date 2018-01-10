@@ -1,0 +1,53 @@
+{
+	"name": "NYAM FAMILY CLINIC",
+	"tel": "64460069",
+	"fax": "64460069",
+	"licensee": "NYAM NGIAN CHOY RAYMOND",
+	"licensePeriod": "20/10/2015 to 19/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0174",
+	"address": "296 BEDOK ROAD, BEDOK SHOPPING COMPLEX, Singapore 469452",
+	"doctorInCharge": [
+		{
+			"name": "NYAM NGIAN CHOY RAYMOND",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 04:00 pm",
+		"Tuesday": "09:00 am to 04:00 pm",
+		"Wednesday": "09:00 am to 04:00 pm",
+		"Thursday": "07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 04:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "11C0174",
+	"coordinates": [
+		103.9485827,
+		1.3315619
+	],
+	"svy21": [
+		40827.71,
+		34863.17
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

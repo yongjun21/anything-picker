@@ -1,0 +1,41 @@
+{
+	"name": "MEDIC LASER CLINIC",
+	"tel": "62233303",
+	"fax": "62235147",
+	"licensee": "MEDIC LASER PRIVATE LIMITED",
+	"licensePeriod": "03/05/2017 to 02/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0127",
+	"address": "BLK 1 TANJONG PAGAR PLAZA, #01-28 Singapore 082001",
+	"doctorInCharge": [
+		{
+			"name": "Loo Han Woen",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000",
+				"MRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 2004",
+				"M Med (Surg) (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0127",
+	"coordinates": [
+		103.8423932,
+		1.2755962
+	],
+	"svy21": [
+		29009.93,
+		28674.47
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

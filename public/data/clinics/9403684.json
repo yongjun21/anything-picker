@@ -1,0 +1,56 @@
+{
+	"name": "BOK FAMILY CLINIC  PTE LTD",
+	"tel": "67478200",
+	"fax": "67490275",
+	"licensee": "BOK TECK SUN",
+	"licensePeriod": "30/10/2016 to 29/10/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403684",
+	"address": "BLK 117 BEDOK RESERVOIR ROAD, #01-58 Singapore 470117",
+	"doctorInCharge": [
+		{
+			"name": "BOK TECK SUN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9403684",
+	"coordinates": [
+		103.9086889,
+		1.3314132
+	],
+	"svy21": [
+		36387.94,
+		34846.56
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"name": "THE PLASTIC SURGERY PRACTICE",
+	"tel": "63976618",
+	"fax": "63977076",
+	"licensee": "Andrew Tay Plastic Surgery Pte. Ltd.",
+	"licensePeriod": "13/10/2014 to 12/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404994",
+	"address": "10 SINARAN DRIVE, SQUARE 2, #11-33 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Andrew Tay",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1995"
+			],
+			"specialties": [
+				"Plastic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Plastic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9404994",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

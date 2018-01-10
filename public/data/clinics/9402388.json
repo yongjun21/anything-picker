@@ -1,0 +1,42 @@
+{
+	"name": "MEDICAL CENTRE KEPPEL FELS LTD",
+	"tel": "68637255",
+	"fax": "68637404",
+	"licensee": "KEPPEL FELS LIMITED",
+	"licensePeriod": "16/10/2016 to 15/10/2018",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "9402388",
+	"address": "50 GUL ROAD, Singapore 629351",
+	"doctorInCharge": [
+		{
+			"name": "YEONG SENG COO",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1965",
+				"DIH (OM) (Society of Apothecaries of London, United Kingdom) 1977",
+				"MSc (OM) (University of London, United Kingdom) 1977"
+			],
+			"specialties": [
+				"Occupational Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9402388",
+	"coordinates": [
+		103.6688766,
+		1.2927591
+	],
+	"svy21": [
+		9699,
+		30572.85
+	],
+	"planningArea": "PN",
+	"neighbours": [
+		"BL",
+		"JW",
+		"TS",
+		"WC"
+	]
+}

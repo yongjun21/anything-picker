@@ -1,0 +1,50 @@
+{
+	"name": "I.DENTAL SURGEONS",
+	"tel": "63232813",
+	"fax": "63232638",
+	"licensee": "I.DENTAL SURGEONS PTE. LTD.",
+	"licensePeriod": "22/09/2015 to 21/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405313",
+	"address": "168 ROBINSON ROAD, CAPITAL TOWER, #01-04 Singapore 068912",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Eng Wah",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986",
+				"MFGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1999"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 08:00 pm",
+		"Tuesday": "09:00 am to 08:00 pm",
+		"Wednesday": "09:00 am to 08:00 pm",
+		"Thursday": "09:00 am to 08:00 pm",
+		"Friday": "09:00 am to 08:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405313",
+	"coordinates": [
+		103.8475716,
+		1.2776288
+	],
+	"svy21": [
+		29586.24,
+		28899.22
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"name": "T B LIM'S CLINIC FOR WOMEN",
+	"tel": "67344822",
+	"fax": "62357879",
+	"licensee": "LIM TECK BENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401575",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #10-06 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "LIM TECK BENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1968",
+				"M Med (O&G) (National University of Singapore, Singapore) 1972",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1973"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 05:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:30 am to 05:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:30 am to 05:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:30 am to 05:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:30 am to 05:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:30 am to 01:00 pm"
+	},
+	"id": "9401575",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

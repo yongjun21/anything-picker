@@ -1,0 +1,47 @@
+{
+	"name": "LOH CLINIC",
+	"tel": "67427320",
+	"fax": "67427320",
+	"licensee": "LOH HUNG GHEE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400996",
+	"address": "BLK 45 SIMS DR, #01-166 Singapore 380045",
+	"doctorInCharge": [
+		{
+			"name": "LOH HUNG GHEE",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 1973"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9400996",
+	"coordinates": [
+		103.8784427,
+		1.3173372
+	],
+	"svy21": [
+		33021.87,
+		33290.02
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"name": "MEDICAL ASSOCIATES CENTRE",
+	"tel": "62351062",
+	"fax": "67388875",
+	"licensee": "PANG KOK YENG",
+	"licensePeriod": "28/04/2015 to 27/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402624",
+	"address": "8 SINARAN DRIVE, Novena Specialist Center, #04-06 Singapore 307470",
+	"doctorInCharge": [
+		{
+			"name": "PANG KOK YENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9402624",
+	"coordinates": [
+		103.8447824,
+		1.3200301
+	],
+	"svy21": [
+		29275.81,
+		33587.74
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

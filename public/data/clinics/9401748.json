@@ -1,0 +1,52 @@
+{
+	"name": "THOMAS CLINIC & SURGERY",
+	"tel": "62704354",
+	"fax": "62760702",
+	"licensee": "THOMAS CHERIAN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401748",
+	"address": "BLK 61 TELOK BLANGAH HEIGHTS, #01-97 Singapore 100061",
+	"doctorInCharge": [
+		{
+			"name": "THOMAS CHERIAN",
+			"qualifications": [
+				"MBBS (Utkal University, India) 1975"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401748",
+	"coordinates": [
+		103.8120071,
+		1.275705
+	],
+	"svy21": [
+		25628.2,
+		28686.51
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

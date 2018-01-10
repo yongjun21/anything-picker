@@ -1,0 +1,54 @@
+{
+	"name": "ONG'S CLINIC",
+	"tel": "63371814",
+	"fax": "63373802",
+	"licensee": "ONG CHON-KIN FABIAN",
+	"licensePeriod": "18/01/2015 to 17/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405801",
+	"address": "BLK 175 BENCOOLEN ST, BURLINGTON SQUARE, #01-44 Singapore 189649",
+	"doctorInCharge": [
+		{
+			"name": "ONG CHON-KIN FABIAN",
+			"qualifications": [
+				"MB BCh (Royal College of Surgeons, Ireland) 1998"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405801",
+	"coordinates": [
+		103.8527007,
+		1.3022443
+	],
+	"svy21": [
+		30157.05,
+		31621.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

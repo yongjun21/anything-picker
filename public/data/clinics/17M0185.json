@@ -1,0 +1,59 @@
+{
+	"name": "AICARE FAMILY CLINIC",
+	"tel": "62667820",
+	"fax": "62667825",
+	"licensee": "AICARE FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "23/06/2017 to 22/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0185",
+	"address": "BLK 83 LORONG 2 TOA PAYOH, TOA PAYOH PEAKVIEW, #01-457 Singapore 310083",
+	"doctorInCharge": [
+		{
+			"name": "Tiong Sylvia",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2001",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2009",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "08:00 am to 12:00 pm, 01:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:00 am to 12:00 pm, 01:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:00 am to 12:00 pm, 01:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:00 am to 12:00 pm, 01:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:00 am to 12:00 pm, 01:00 pm to 05:00 pm",
+		"Saturday": "08:00 am to 12:00 pm",
+		"Sunday": "08:00 am to 12:00 pm"
+	},
+	"id": "17M0185",
+	"coordinates": [
+		103.847992,
+		1.3357879
+	],
+	"svy21": [
+		29632.99,
+		35330.16
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

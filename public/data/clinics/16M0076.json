@@ -1,0 +1,60 @@
+{
+	"name": "APTUS SURGERY CENTRE",
+	"licensee": "APTUS SURGERY CENTRE PTE. LTD.",
+	"licensePeriod": "24/03/2016 to 23/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0076",
+	"address": "290 ORCHARD ROAD, PARAGON, #07-16 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Lim Beng Hai",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1991",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 1991",
+				"FAMS (Orth Surg) (Academy of Medicine, Singapore) 1997"
+			],
+			"specialties": [
+				"Hand Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Day Surgery",
+		"Endoscopy",
+		"Liposuction"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Anaesthesiology",
+			"Gastroenterology",
+			"General Surgery",
+			"Hand Surgery",
+			"Obstetrics & Gynaecology",
+			"Ophthalmology",
+			"Orthopaedic Surgery",
+			"Otorhinolaryngology",
+			"Paediatric Surgery",
+			"Plastic Surgery",
+			"Urology"
+		]
+	},
+	"id": "16M0076",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

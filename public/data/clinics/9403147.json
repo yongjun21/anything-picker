@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "62421506",
+	"fax": "62421506",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "22/01/2014 to 21/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403147",
+	"address": "BLK 1 BEDOK SOUTH AVE 2, Singapore 469317",
+	"doctorInCharge": [
+		{
+			"name": "Noeline Tan",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403147",
+	"coordinates": [
+		103.937879,
+		1.3234459
+	],
+	"svy21": [
+		39636.53,
+		33965.69
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

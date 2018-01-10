@@ -1,0 +1,53 @@
+{
+	"name": "FOO CLINIC",
+	"tel": "67918853",
+	"fax": "67914259",
+	"licensee": "FOO YONG BOCK",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400542",
+	"address": "BLK 962 JURONG WEST ST 91, #01-306 Singapore 640962",
+	"doctorInCharge": [
+		{
+			"name": "FOO YONG BOCK",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1968"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 08:30 pm",
+		"Tuesday": "08:30 am to 08:30 pm",
+		"Wednesday": "08:30 am to 08:30 pm",
+		"Thursday": "08:30 am to 08:30 pm",
+		"Friday": "08:30 am to 08:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9400542",
+	"coordinates": [
+		103.6915126,
+		1.3418092
+	],
+	"svy21": [
+		12218.52,
+		35996.41
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

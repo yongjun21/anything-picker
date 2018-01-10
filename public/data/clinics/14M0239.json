@@ -1,0 +1,52 @@
+{
+	"name": "UNITY FAMILY MEDICINE CLINIC",
+	"tel": "62812638",
+	"fax": "65904388",
+	"licensee": "NTUC Health Co-operative Ltd",
+	"licensePeriod": "14/08/2016 to 13/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0239",
+	"address": "BLK 264 SERANGOON CENTRAL, #01-205 Singapore 550264",
+	"doctorInCharge": [
+		{
+			"name": "Eng Soo Kiang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm"
+	},
+	"id": "14M0239",
+	"coordinates": [
+		103.8721031,
+		1.3522752
+	],
+	"svy21": [
+		32316.28,
+		37153.27
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

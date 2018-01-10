@@ -1,0 +1,55 @@
+{
+	"name": "OASIS FAMILY CLINIC",
+	"tel": "64488055",
+	"fax": "64488130",
+	"licensee": "CHONG TZE-HORNG",
+	"licensePeriod": "25/07/2014 to 24/07/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403749",
+	"address": "BLK 56 NEW UPPER CHANGI ROAD, #01-1322 Singapore 461056",
+	"doctorInCharge": [
+		{
+			"name": "WANG SHI TAH",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "08:00 am to 03:00 pm",
+		"Monday": "08:00 am to 11:00 pm",
+		"Tuesday": "08:00 am to 11:00 pm",
+		"Wednesday": "08:00 am to 11:00 pm",
+		"Thursday": "08:00 am to 11:00 pm",
+		"Friday": "08:00 am to 11:00 pm",
+		"Saturday": "08:00 am to 03:00 pm",
+		"Sunday": "08:00 am to 03:00 pm"
+	},
+	"id": "9403749",
+	"coordinates": [
+		103.9410826,
+		1.3249938
+	],
+	"svy21": [
+		39993.06,
+		34136.86
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

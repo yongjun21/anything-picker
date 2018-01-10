@@ -1,0 +1,55 @@
+{
+	"name": "ONEDOCTORS MEDICAL CENTRE",
+	"tel": "66344918",
+	"fax": "66344908",
+	"licensee": "ONEDOCTORS MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "01/12/2014 to 30/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405761",
+	"address": "23 SERANGOON CENTRAL, NEX, #01-54/55 Singapore 556083",
+	"doctorInCharge": [
+		{
+			"name": "Soh Wah Ngee",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "01:00 pm to 10:00 pm",
+		"Monday": "09:00 am to 10:00 pm",
+		"Tuesday": "09:00 am to 10:00 pm",
+		"Wednesday": "09:00 am to 10:00 pm",
+		"Thursday": "09:00 am to 10:00 pm",
+		"Friday": "09:00 am to 10:00 pm",
+		"Saturday": "09:00 am to 10:00 pm",
+		"Sunday": "09:00 am to 10:00 pm"
+	},
+	"id": "9405761",
+	"coordinates": [
+		103.8722961,
+		1.3507694
+	],
+	"svy21": [
+		32337.77,
+		36986.76
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

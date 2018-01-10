@@ -1,0 +1,51 @@
+{
+	"name": "ISLAND GROUP CLINIC",
+	"tel": "62416666",
+	"fax": "62416102",
+	"licensee": "MEDICORP PTE LTD",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400733",
+	"address": "BLK 25 NEW UPPER CHANGI RD, #01-646 Singapore 462025",
+	"doctorInCharge": [
+		{
+			"name": "LEE SAI KIANG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1967",
+				"Dip Derm (University of London, United Kingdom) 1970"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400733",
+	"coordinates": [
+		103.9338356,
+		1.3232501
+	],
+	"svy21": [
+		39186.54,
+		33944.02
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"name": "RAFFLESDENTAL",
+	"tel": "63397800",
+	"fax": "63347503",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "27/02/2017 to 26/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0061",
+	"address": "6 RAFFLES BOULEVARD, MARINA SQUARE, #01-212 Singapore 039594",
+	"doctorInCharge": [
+		{
+			"name": "Kieu Li Chong, Edgar",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "15D0061",
+	"coordinates": [
+		103.857027,
+		1.291574
+	],
+	"svy21": [
+		30638.54,
+		30441.22
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"name": "PARAGON DENTAL CENTRE",
+	"tel": "65820263",
+	"fax": "65820236",
+	"licensee": "ANG TIAM TECK",
+	"licensePeriod": "28/02/2017 to 27/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9401285",
+	"address": "BLK 258 PASIR RIS ST 21, Loyang Point, #02-14 Singapore 510258",
+	"doctorInCharge": [
+		{
+			"name": "ANG TIAM TECK",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:30 am to 02:30 pm"
+	},
+	"id": "9401285",
+	"coordinates": [
+		103.9646322,
+		1.3670736
+	],
+	"svy21": [
+		42613.65,
+		38789.97
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

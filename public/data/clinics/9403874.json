@@ -1,0 +1,54 @@
+{
+	"name": "MERIDIAN MEDICAL CENTRE",
+	"tel": "62780088",
+	"fax": "62746585",
+	"licensee": "Hu Wen Wey",
+	"licensePeriod": "20/12/2014 to 19/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403874",
+	"address": "108 Depot Road, Depot Heights Shopping Centre, #01-10 Singapore 100108",
+	"doctorInCharge": [
+		{
+			"name": "Hu Wen Wey",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 11:45 am, 02:00 pm to 03:45 pm, 07:00 pm to 08:15 pm",
+		"Tuesday": "09:00 am to 11:45 am, 02:00 pm to 03:45 pm, 07:00 pm to 08:15 pm",
+		"Wednesday": "09:00 am to 11:45 am",
+		"Thursday": "09:00 am to 11:45 am, 02:00 pm to 03:45 pm, 07:00 pm to 08:15 pm",
+		"Friday": "09:00 am to 11:45 am",
+		"Saturday": "09:00 am to 11:45 am",
+		"Sunday": "09:30 am to 11:15 am"
+	},
+	"id": "9403874",
+	"coordinates": [
+		103.8100313,
+		1.2811223
+	],
+	"svy21": [
+		25408.32,
+		29285.52
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

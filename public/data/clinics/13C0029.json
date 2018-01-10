@@ -1,0 +1,59 @@
+{
+	"name": "WESTFIELD DENTAL SURGERY PTE. LTD.",
+	"tel": "63487188",
+	"fax": "63482168",
+	"licensee": "WESTFIELD DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "08/02/2017 to 07/02/2018",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"hciCode": "13C0029",
+	"address": "276 JOO CHIAT ROAD, Singapore 427530",
+	"doctorInCharge": [
+		{
+			"name": "Lee Chung Cheng Francis",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1997",
+				"MSc (Orthodontics) (London) (University of London, United Kingdom) 2005",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2006",
+				"FAMS (Orthodontics) (Academy of Medicine, Singapore, Singapore) 2010"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 08:00 pm",
+		"Tuesday": "10:00 am to 08:00 pm",
+		"Wednesday": "10:00 am to 08:00 pm",
+		"Thursday": "10:00 am to 08:00 pm",
+		"Friday": "10:00 am to 08:00 pm",
+		"Saturday": "10:00 am to 08:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "13C0029",
+	"coordinates": [
+		103.9011605,
+		1.3107159
+	],
+	"svy21": [
+		35550.17,
+		32557.92
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

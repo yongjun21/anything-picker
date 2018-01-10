@@ -1,0 +1,56 @@
+{
+	"name": "MY FAMILY CLINIC (SEGAR)",
+	"tel": "67107269",
+	"fax": "67107095",
+	"licensee": "MY FAMILY CLINIC (SEGAR) PTE. LTD.",
+	"licensePeriod": "17/10/2016 to 16/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0313",
+	"address": "BLK 485 SEGAR ROAD, #01-508 Singapore 670485",
+	"doctorInCharge": [
+		{
+			"name": "Wong Jeng Hung",
+			"qualifications": [
+				"MB ChB (University of Auckland, New Zealand) 2006"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"New Year (01/01/2018)": "08:00 am to 01:00 pm",
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "08:00 am to 01:00 pm",
+		"Sunday": "08:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "14M0313",
+	"coordinates": [
+		103.7713126,
+		1.3886813
+	],
+	"svy21": [
+		21099.53,
+		41178.93
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "FIRST IMPRESSIONS DENTAL SURGERY PTE LTD",
+	"tel": "63682661",
+	"fax": "67797635",
+	"licensee": "Lim Tien Sung",
+	"licensePeriod": "04/08/2016 to 03/08/2018",
+	"licenseClass": "[ 2 Years ( 1B ) ]",
+	"hciCode": "9402138",
+	"address": "BLK 888 WOODLANDS DR 50, 888 PLAZA, #02-735 Singapore 730888",
+	"doctorInCharge": [
+		{
+			"name": "Lim Tien Sung",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9402138",
+	"coordinates": [
+		103.7953144,
+		1.437123
+	],
+	"svy21": [
+		23770.71,
+		46535.31
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

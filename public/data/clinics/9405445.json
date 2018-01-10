@@ -1,0 +1,54 @@
+{
+	"name": "SBCC BABY & CHILD CLINIC",
+	"tel": "62765700",
+	"fax": "62762258",
+	"licensee": "THOMSON PAEDIATRIC CLINIC PTE LTD",
+	"licensePeriod": "28/02/2017 to 27/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405445",
+	"address": "302 TIONG BAHRU ROAD, TIONG BAHRU PLAZA, #02-139/140 Singapore 168732",
+	"doctorInCharge": [
+		{
+			"name": "Wong Chin Khoon",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"M Med (Paed) (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 06:30 pm to 08:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 06:30 pm to 08:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 06:30 pm to 08:00 pm",
+		"Friday": "09:00 am to 01:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405445",
+	"coordinates": [
+		103.8270153,
+		1.2864589
+	],
+	"svy21": [
+		27298.49,
+		29875.61
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"name": "SOONG CLINIC AND SURGERY",
+	"tel": "64755930",
+	"fax": "64739518",
+	"licensee": "SOONG HOLDINGS PTE. LTD.",
+	"licensePeriod": "15/04/2014 to 14/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405550",
+	"address": "BLK 162 MEI LING ST, #01-353 Singapore 140162",
+	"doctorInCharge": [
+		{
+			"name": "SOONG CHUON VUI, JOVIAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Sunday": "10:00 am to 12:30 pm"
+	},
+	"id": "9405550",
+	"coordinates": [
+		103.802857,
+		1.2922547
+	],
+	"svy21": [
+		24609.88,
+		30516.5
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

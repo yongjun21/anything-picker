@@ -1,0 +1,56 @@
+{
+	"name": "APOLLO MEDICAL CENTRE",
+	"tel": "62962777",
+	"fax": "62964348",
+	"licensee": "APOLLO MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "28/07/2016 to 27/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404921",
+	"address": "BLK 668 CHANDER ROAD, #01-24 Singapore 210668",
+	"doctorInCharge": [
+		{
+			"name": "Gurmit Singh s/o Balbir Singh",
+			"qualifications": [
+				"MBBS (Kasturba Medical College, DeeMedical U, India) 1996",
+				"MRCS (Royal College of Surgeons, Ireland) 2004",
+				"MRCSEd (Royal College of Surgeons of Edinburgh, United Kingdom) 2004",
+				"M Med (Surg) (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Sunday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Public Holiday": "10:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm"
+	},
+	"id": "9404921",
+	"coordinates": [
+		103.8514782,
+		1.3075812
+	],
+	"svy21": [
+		30021,
+		32211.22
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

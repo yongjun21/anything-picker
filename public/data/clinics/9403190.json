@@ -1,0 +1,59 @@
+{
+	"name": "MUTUAL HEALTHCARE MEDICAL CLINIC",
+	"tel": "64893833",
+	"fax": "64893973",
+	"licensee": "MUTUAL HEALTHCARE PTE. LTD.",
+	"licensePeriod": "12/04/2016 to 11/04/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9403190",
+	"address": "319B ANCHORVALE DR, #01-92 Singapore 542319",
+	"doctorInCharge": [
+		{
+			"name": "WONG TIEN HUA",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"MRCGP (Royal College of General Practitioners, United Kingdom) 2001",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9403190",
+	"coordinates": [
+		103.8904664,
+		1.3913972
+	],
+	"svy21": [
+		34359.81,
+		41479.23
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

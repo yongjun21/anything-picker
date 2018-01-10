@@ -1,0 +1,55 @@
+{
+	"name": "LIFELINE BUKIT PANJANG MEDICAL CLINIC",
+	"tel": "67605788",
+	"fax": "67630717",
+	"licensee": "ALAN CHIN YEW LIANG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403800",
+	"address": "BLK 103 GANGSA ROAD, #01-37 Singapore 670103",
+	"doctorInCharge": [
+		{
+			"name": "ALAN CHIN YEW LIANG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403800",
+	"coordinates": [
+		103.7685384,
+		1.3786707
+	],
+	"svy21": [
+		20790.78,
+		40072.02
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

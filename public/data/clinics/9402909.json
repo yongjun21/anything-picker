@@ -1,0 +1,39 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64422459",
+	"fax": "64422459",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402909",
+	"address": "BLK 307 BEDOK NORTH RD, Singapore 469680",
+	"doctorInCharge": [
+		{
+			"name": "NOELINE TAN",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9402909",
+	"coordinates": [
+		103.9317103,
+		1.329806
+	],
+	"svy21": [
+		38949.99,
+		34668.92
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

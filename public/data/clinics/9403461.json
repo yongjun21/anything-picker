@@ -1,0 +1,55 @@
+{
+	"name": "MY FAMILY CLINIC (SENJA)",
+	"tel": "63140638",
+	"fax": "63140723",
+	"licensee": "Alliance Medical Group Pte Ltd",
+	"licensePeriod": "27/11/2013 to 26/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403461",
+	"address": "BLK 628 Senja Road, #01-04 Singapore 670628",
+	"doctorInCharge": [
+		{
+			"name": "Ong Lin Min",
+			"qualifications": [
+				"MBBS (University of New South Wales, Australia) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "08:00 am to 12:00 pm",
+		"Sunday": "08:00 am to 12:00 pm"
+	},
+	"id": "9403461",
+	"coordinates": [
+		103.7604106,
+		1.3851287
+	],
+	"svy21": [
+		19886.28,
+		40786.13
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

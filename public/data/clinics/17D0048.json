@@ -1,0 +1,44 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64353782",
+	"fax": "64382248",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "28/02/2017 to 27/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17D0048",
+	"address": "20 MARYMOUNT ROAD, MARYMOUNT CONVENT SCHOOL, Singapore 297754",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wanyi",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "17D0048",
+	"coordinates": [
+		103.8400211,
+		1.3403668
+	],
+	"svy21": [
+		28745.91,
+		35836.46
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

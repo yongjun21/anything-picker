@@ -1,0 +1,50 @@
+{
+	"name": "ACACIA MEDICAL CLINIC",
+	"tel": "97889194",
+	"fax": "66840247",
+	"licensee": "ACACIA MEDICAL PTE. LTD.",
+	"licensePeriod": "19/10/2017 to 18/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0364",
+	"address": "180 DEPOT ROAD, INTERLACE, THE, #01-07 Singapore 109684",
+	"doctorInCharge": [
+		{
+			"name": "Benjamin Tan Swee An",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004",
+				"Dip Geriatric Med (National University of Singapore, Singapore) 2011",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2012",
+				"PG Dip (Palliative Medicine) (Cardiff University, United Kingdom) 2013",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2014",
+				"PG Dip (Practical Derm) (Cardiff University, United Kingdom) 2014",
+				"GDMH (National University of Singapore, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "15M0364",
+	"coordinates": [
+		103.8030238,
+		1.2822014
+	],
+	"svy21": [
+		24628.43,
+		29404.85
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

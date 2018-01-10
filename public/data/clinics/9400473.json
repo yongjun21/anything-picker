@@ -1,0 +1,39 @@
+{
+	"name": "ELIAS DENTAL SURGERY",
+	"tel": "65822253",
+	"fax": "65822253",
+	"licensee": "LIM WEE BENG",
+	"licensePeriod": "13/04/2016 to 12/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9400473",
+	"address": "BLK 625 ELIAS ROAD, ELIAS MALL, #02-324 Singapore 510625",
+	"doctorInCharge": [
+		{
+			"name": "LIM WEE BENG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9400473",
+	"coordinates": [
+		103.9419782,
+		1.3786024
+	],
+	"svy21": [
+		40092.46,
+		40064.64
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

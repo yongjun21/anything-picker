@@ -1,0 +1,49 @@
+{
+	"name": "INTERNATIONAL HEART CLINIC PTE LTD",
+	"tel": "63338383",
+	"fax": "63338338",
+	"licensee": "CHEW YEE CHIAN CHRISTOPHER",
+	"licensePeriod": "01/12/2015 to 30/11/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403309",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #06-07 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "CHEW YEE CHIAN CHRISTOPHER",
+			"qualifications": [
+				"MB Bchir (University of Cambridge, United Kingdom) 1972",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1974",
+				"Board Cert (Int Med) (American Board of Internal Medicine, United States) 1981",
+				"Board Cert (Cardiology) (American Board of Cardiology, United States) 1983",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 1994"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Anaesthesiology",
+			"Cardiology"
+		]
+	},
+	"id": "9403309",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

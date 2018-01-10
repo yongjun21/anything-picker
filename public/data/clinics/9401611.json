@@ -1,0 +1,56 @@
+{
+	"name": "TAN LEE CLINIC & SURGERY",
+	"tel": "65827448",
+	"fax": "65827659",
+	"licensee": "TAN LAY KEANG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401611",
+	"address": "BLK 446 PASIR RIS DR 6, #01-126 Singapore 510446",
+	"doctorInCharge": [
+		{
+			"name": "TAN LAY KEANG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Dermatology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 04:30 pm",
+		"Tuesday": "08:30 am to 04:30 pm",
+		"Wednesday": "08:30 am to 04:30 pm",
+		"Thursday": "08:30 am to 04:30 pm",
+		"Friday": "08:30 am to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9401611",
+	"coordinates": [
+		103.9577269,
+		1.3703062
+	],
+	"svy21": [
+		41845.14,
+		39147.37
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

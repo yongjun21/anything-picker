@@ -1,0 +1,53 @@
+{
+	"name": "WINSTEDT CLINIC",
+	"tel": "62922975",
+	"fax": "62956259",
+	"licensee": "WINSTEDT CLINIC PTE. LTD.",
+	"licensePeriod": "30/11/2013 to 29/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401870",
+	"address": "51 UPPER WELD ROAD, Singapore 207408",
+	"doctorInCharge": [
+		{
+			"name": "SARMA SUNDARI LILY",
+			"qualifications": [
+				"MBBS (University of Malaya, Singapore) 1953"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:30 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:30 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:30 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:30 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:30 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9401870",
+	"coordinates": [
+		103.8533402,
+		1.3062181
+	],
+	"svy21": [
+		30228.22,
+		32060.49
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

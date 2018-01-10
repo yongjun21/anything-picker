@@ -1,0 +1,50 @@
+{
+	"name": "CARELINK FAMILY CLINIC",
+	"tel": "62545287",
+	"fax": "62545278",
+	"licensee": "LIFE INCORPORATED PTE. LTD.",
+	"licensePeriod": "08/01/2015 to 07/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403300",
+	"address": "400 BALESTIER ROAD, BALESTIER PLAZA, #01-09/10 Singapore 329802",
+	"doctorInCharge": [
+		{
+			"name": "QUEK MONG SENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9403300",
+	"coordinates": [
+		103.8503954,
+		1.3257247
+	],
+	"svy21": [
+		29900.47,
+		34217.43
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

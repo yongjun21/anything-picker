@@ -1,0 +1,52 @@
+{
+	"name": "SEASONS CLINIC",
+	"tel": "67877836",
+	"fax": "67865186",
+	"licensee": "TAN MING CHUN",
+	"licensePeriod": "29/05/2016 to 28/05/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401463",
+	"address": "BLK 844 TAMPINES ST 82, #01-139 Singapore 520844",
+	"doctorInCharge": [
+		{
+			"name": "TAN MING CHUN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9401463",
+	"coordinates": [
+		103.9365309,
+		1.3521058
+	],
+	"svy21": [
+		39486.37,
+		37134.75
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

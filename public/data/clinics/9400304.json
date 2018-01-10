@@ -1,0 +1,53 @@
+{
+	"name": "CLINICAL ASSOCIATES MEDICAL CENTRE",
+	"tel": "67624180",
+	"fax": "67624152",
+	"licensee": "KAN SIEW YOONG",
+	"licensePeriod": "16/11/2014 to 15/11/2019",
+	"licenseClass": "[ 5 Years ( 2D ) ]",
+	"hciCode": "9400304",
+	"address": "BLK 137 TECK WHYE LANE, #01-313 Singapore 680137",
+	"doctorInCharge": [
+		{
+			"name": "KAN SIEW YOONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9400304",
+	"coordinates": [
+		103.7524838,
+		1.3800475
+	],
+	"svy21": [
+		19004.11,
+		40224.31
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

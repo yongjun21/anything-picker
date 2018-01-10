@@ -1,0 +1,52 @@
+{
+	"name": "DERMATOLOGY ASSOCIATES",
+	"tel": "63338108",
+	"fax": "63338109",
+	"licensee": "CORIUM PTE. LTD.",
+	"licensePeriod": "21/05/2016 to 20/05/2018",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "14C0132",
+	"address": "290 Orchard Road, Paragon, #15-05/06 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Ang Por",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1996"
+			],
+			"specialties": [
+				"Dermatology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Dermatology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "14C0132",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"name": "THE KID'S CLINIC",
+	"tel": "68811711",
+	"fax": "68810012",
+	"licensee": "THE KID'S CLINIC PTE. LTD",
+	"licensePeriod": "26/09/2016 to 25/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405165",
+	"address": "1 SENGKANG SQUARE, COMPASS ONE, #02-33A Singapore 545078",
+	"doctorInCharge": [
+		{
+			"name": "Tan Swee Lin Allyson",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"MRCP (Paed) (Royal College of Physicians, United Kingdom) 1998",
+				"M Med (Paed) (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 03:00 pm",
+		"Wednesday": "09:00 am to 03:00 pm",
+		"Tuesday": "09:00 am to 03:00 pm",
+		"Thursday": "09:00 am to 03:00 pm",
+		"Friday": "09:00 am to 03:00 pm",
+		"Saturday": "09:00 am to 03:00 pm"
+	},
+	"id": "9405165",
+	"coordinates": [
+		103.8950701,
+		1.3920528
+	],
+	"svy21": [
+		34872.13,
+		41551.73
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

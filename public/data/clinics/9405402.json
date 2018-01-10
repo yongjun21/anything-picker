@@ -1,0 +1,48 @@
+{
+	"name": "CLINIC @ THE SAIL",
+	"tel": "62255410",
+	"fax": "62255910",
+	"licensee": "LIM HUI CHOO ANCY",
+	"licensePeriod": "09/12/2015 to 08/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405402",
+	"address": "2 MARINA BOULEVARD, THE SAIL @ MARINA BAY, #B1-11/12 Singapore 018987",
+	"doctorInCharge": [
+		{
+			"name": "LIM HUI CHOO ANCY",
+			"qualifications": [
+				"MBBS (University of New South Wales, Australia) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405402",
+	"coordinates": [
+		103.8526586,
+		1.2807694
+	],
+	"svy21": [
+		30152.38,
+		29246.5
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

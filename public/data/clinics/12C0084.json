@@ -1,0 +1,55 @@
+{
+	"name": "THE ENDOCRINE CLINIC",
+	"tel": "65702683",
+	"fax": "65702682",
+	"licensee": "THE ENDOCRINE CLINIC @ NOVENA PTE. LTD.",
+	"licensePeriod": "19/12/2016 to 18/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "12C0084",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #08-55/56/57 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Alvin Ng Choong Meng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2003",
+				"M Med (Int Med) (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Endocrinology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Endocrinology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "12C0084",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

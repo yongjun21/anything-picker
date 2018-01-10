@@ -1,0 +1,45 @@
+{
+	"name": "FAITH CLINIC (BEDOK)",
+	"tel": "64448019",
+	"fax": "64448019",
+	"licensee": "Ng Tsorng Chinn",
+	"licensePeriod": "01/12/2016 to 30/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0365",
+	"address": "BLK 746 BEDOK RESERVOIR ROAD, #01-3013 Singapore 470746",
+	"doctorInCharge": [
+		{
+			"name": "Ng Tsorng Chinn",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "16M0365",
+	"coordinates": [
+		103.9212157,
+		1.3372864
+	],
+	"svy21": [
+		37782.02,
+		35496.03
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

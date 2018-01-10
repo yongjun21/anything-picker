@@ -1,0 +1,49 @@
+{
+	"name": "MEDILINE WEI MIN CLINIC",
+	"tel": "62479221",
+	"fax": "62479392",
+	"licensee": "MEDILINE HEALTHPLUS PTE. LTD.",
+	"licensePeriod": "17/09/2015 to 16/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405310",
+	"address": "BLK 81 MARINE PARADE CENTRAL, #01-634 Singapore 440081",
+	"doctorInCharge": [
+		{
+			"name": "LEE CHIEN NIEN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "07:00 am to 02:00 pm, 02:45 pm to 12:00 am",
+		"Tuesday": "07:00 am to 02:00 pm, 02:45 pm to 12:00 am",
+		"Wednesday": "07:00 am to 02:00 pm, 02:45 pm to 12:00 am",
+		"Thursday": "07:00 am to 02:00 pm, 02:45 pm to 12:00 am",
+		"Friday": "07:00 am to 02:00 pm, 02:45 pm to 12:00 am",
+		"Saturday": "07:00 am to 02:00 pm, 02:45 pm to 12:00 am",
+		"Sunday": "07:00 am to 02:00 pm, 02:45 pm to 12:00 am"
+	},
+	"id": "9405310",
+	"coordinates": [
+		103.9070732,
+		1.3026413
+	],
+	"svy21": [
+		36208.23,
+		31665.09
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

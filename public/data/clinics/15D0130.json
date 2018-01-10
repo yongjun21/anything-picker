@@ -1,0 +1,48 @@
+{
+	"name": "ALLSMILES DENTAL CARE PLUS",
+	"tel": "68996828",
+	"fax": "67908628",
+	"licensee": "ALLSMILES DENTAL CARE PLUS PTE. LTD.",
+	"licensePeriod": "07/05/2017 to 06/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0130",
+	"address": "BLK 502 JURONG WEST AVENUE 1, #01-805 Singapore 640502",
+	"doctorInCharge": [
+		{
+			"name": "Oh Chin Hong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "15D0130",
+	"coordinates": [
+		103.7183347,
+		1.3505013
+	],
+	"svy21": [
+		15203.57,
+		36957.39
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

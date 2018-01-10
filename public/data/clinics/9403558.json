@@ -1,0 +1,59 @@
+{
+	"name": "MY FAMILY CLINIC (RIVERVALE)",
+	"tel": "68811978",
+	"fax": "68810312",
+	"licensee": "My Family Clinic (RV) Pte. Ltd.",
+	"licensePeriod": "08/11/2016 to 07/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9403558",
+	"address": "11 Rivervale Crescent, Rivervale Mall, #02-11A Singapore 545082",
+	"doctorInCharge": [
+		{
+			"name": "Ang Corey Damien",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "08:00 am to 10:00 pm",
+		"Monday": "08:00 am to 10:00 pm",
+		"Tuesday": "08:00 am to 10:00 pm",
+		"Wednesday": "08:00 am to 10:00 pm",
+		"Thursday": "08:00 am to 10:00 pm",
+		"Friday": "08:00 am to 10:00 pm",
+		"Saturday": "08:00 am to 10:00 pm",
+		"Sunday": "08:00 am to 10:00 pm"
+	},
+	"id": "9403558",
+	"coordinates": [
+		103.9044837,
+		1.3925041
+	],
+	"svy21": [
+		35919.74,
+		41601.66
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

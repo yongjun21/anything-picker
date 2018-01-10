@@ -1,0 +1,58 @@
+{
+	"name": "KINDER CLINIC PTE LTD",
+	"tel": "64653050",
+	"fax": "64635054",
+	"licensee": "KINDER CLINIC PTE. LTD.",
+	"licensePeriod": "10/01/2017 to 09/01/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403394",
+	"address": "BLK 2 PANDAN VALLEY, ACACIA COURT, #01-212 Singapore 597626",
+	"doctorInCharge": [
+		{
+			"name": "SELVADURAI RAVINDRAN CHITRARANJAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989",
+				"MRCP (Paed) (Royal College of Physicians, United Kingdom) 1994",
+				"M Med (Paed) (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403394",
+	"coordinates": [
+		103.7789725,
+		1.3204417
+	],
+	"svy21": [
+		21951.81,
+		33633.32
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

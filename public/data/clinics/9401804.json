@@ -1,0 +1,39 @@
+{
+	"name": "UNITED DENTAL SURGERY",
+	"tel": "62808686",
+	"fax": "64840283",
+	"licensee": "LEE CHEOW TAT RAYMOND",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401804",
+	"address": "BLK 152 SERANGOON NORTH AVE 1, #01-330 Singapore 550152",
+	"doctorInCharge": [
+		{
+			"name": "LEE CHEOW TAT RAYMOND",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9401804",
+	"coordinates": [
+		103.872614,
+		1.3693473
+	],
+	"svy21": [
+		32373.11,
+		39041.02
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

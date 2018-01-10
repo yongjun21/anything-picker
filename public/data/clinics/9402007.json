@@ -1,0 +1,46 @@
+{
+	"name": "EMBRACE DENTAL SURGERY",
+	"tel": "62356325",
+	"fax": "67351505",
+	"licensee": "EMBRACE DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "05/11/2014 to 04/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402007",
+	"address": "360 ORCHARD ROAD, INTERNATIONAL BUILDING, #01-14 Singapore 238869",
+	"doctorInCharge": [
+		{
+			"name": "TAN KOK LIANG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1988",
+				"MSc (Orthodontics) (London) (University of London, United Kingdom) 1993",
+				"DOrth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 1993"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"id": "9402007",
+	"coordinates": [
+		103.8310033,
+		1.3060752
+	],
+	"svy21": [
+		27742.33,
+		32044.67
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

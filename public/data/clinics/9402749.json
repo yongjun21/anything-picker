@@ -1,0 +1,55 @@
+{
+	"name": "LIFECARE MEDICAL CENTRE",
+	"tel": "67461533",
+	"fax": "67461533",
+	"licensee": "LEE WEE CHIEH",
+	"licensePeriod": "24/10/2014 to 23/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402749",
+	"address": "BLK 36 CIRCUIT ROAD, #01-416 Singapore 370036",
+	"doctorInCharge": [
+		{
+			"name": "LEE WEE CHIEH",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 03:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 03:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 03:00 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 03:00 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 03:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402749",
+	"coordinates": [
+		103.8869308,
+		1.3290261
+	],
+	"svy21": [
+		33966.49,
+		34582.53
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

@@ -20,36 +20,26 @@ export default {
     selectedTab: String
   },
   computed: {
-    ...mapState(['schoolList', 'bookmarked', 'location']),
-    ...mapState({
-      schoolLevel: state => state.schoolLevel.selected,
-      homeSchoolDistance: state => state.homeSchoolDistance}
-    ),
+    ...mapState(['clinicList', 'bookmarked', 'location']),
+    ...mapState({schoolLevel: state => state.schoolLevel.selected}),
     ...mapGetters(['filtered', 'suggested']),
 
     // Set styling of marker depending on settings
-    visibleSchools () {
-      const {oneKm, twoKm} = this.homeSchoolDistance
+    visibleCentres () {
       const location = this.location && toSVY21(this.location)
 
       function getMarkerLabel (school) {
         if (location) {
-          if (school.levelOfEducation.indexOf('P') > -1) {
-            if (oneKm.indexOf(school.id) > -1) return 'within_1km'
-            else if (twoKm.indexOf(school.id) > -1) return 'within_2km'
-          } else {
-            let distance = Math.sqrt(
-              Math.pow(location[0] - school.svy21[0], 2) +
-              Math.pow(location[1] - school.svy21[1], 2)
-            )
-            if (distance <= 1000) return 'within_1km'
-            else if (distance <= 2000) return 'within_2km'
-          }
+          let distance = Math.sqrt(
+            Math.pow(location[0] - school.svy21[0], 2) +
+            Math.pow(location[1] - school.svy21[1], 2)
+          )
+          if (distance <= 2000) return 'within_2km'
         }
         return 'default'
       }
 
-      return this.schoolList.map(school => {
+      return this.clinicList.map(school => {
         // If a school is selected, highlight the school and provide school details
         if (school.id === this.schoolId) {
           return 'focused'
@@ -158,7 +148,7 @@ export default {
     this.map.zoomControl.setPosition('topright')
     this.map.attributionControl.setPrefix('')
 
-    const markers = this.schoolList.map(school => {
+    const markers = this.clinicList.map(school => {
       const [lng, lat] = school.coordinates
       return L.marker([lat, lng], {icon: L.divIcon()})
         .bindTooltip(school.name, {direction: 'top', offset: [0, -6]})
@@ -190,7 +180,7 @@ export default {
       else if (visibleMarkers.length > 0) this.map.fitBounds(L.featureGroup(visibleMarkers).getBounds())
     }
 
-    this.$watch('visibleSchools', function (visible) {
+    this.$watch('visibleCentres', function (visible) {
       visibleMarkers = []
       markers.forEach((marker, i) => {
         const el = marker.getElement()
@@ -217,7 +207,7 @@ export default {
 
     this.$watch('hovered', function (hovered) {
       markers.forEach((marker, i) => {
-        const isHovered = this.schoolList[i].id === this.hovered
+        const isHovered = this.clinicList[i].id === this.hovered
         if (isHovered) marker.openTooltip()
         else marker.closeTooltip()
       })
@@ -252,7 +242,7 @@ export default {
 
     this.$watch('schoolId', function (id) {
       if (id) {
-        const [lng, lat] = this.schoolList.filter(school => school.id === id)[0].coordinates
+        const [lng, lat] = this.clinicList.filter(school => school.id === id)[0].coordinates
         this.map.flyTo([lat, lng], 15)
         this.$emit('hover', id)
       } else {

@@ -1,0 +1,53 @@
+{
+	"name": "WINSLOW  CLINIC",
+	"tel": "63977309",
+	"fax": "63111186",
+	"licensee": "PROMISES HEALTHCARE PTE. LTD.",
+	"licensePeriod": "23/04/2016 to 22/04/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0011",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTRE, #09-21/22/23 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Winslow Rasaiah Munidasa",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984",
+				"M Med (Psych) (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Psychiatry"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Psychiatry"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "11C0011",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

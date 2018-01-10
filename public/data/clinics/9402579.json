@@ -1,0 +1,56 @@
+{
+	"name": "BOON KENG CLINIC & SURGERY",
+	"tel": "67465456",
+	"fax": "67456178",
+	"licensee": "YEO PHENG NAM",
+	"licensePeriod": "06/01/2014 to 05/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402579",
+	"address": "BLK 11 UPPER BOON KENG RD, #01-919 Singapore 380011",
+	"doctorInCharge": [
+		{
+			"name": "YEO PHENG NAM",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"Dip OM (National University of Singapore, Singapore) 2000",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9402579",
+	"coordinates": [
+		103.870914,
+		1.3142394
+	],
+	"svy21": [
+		32184.01,
+		32947.46
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

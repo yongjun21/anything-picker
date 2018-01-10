@@ -1,0 +1,56 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "63775727",
+	"fax": "62719493",
+	"licensee": "Parkway Shenton Pte Ltd",
+	"licensePeriod": "14/01/2015 to 13/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403882",
+	"address": "1 HarbourFront Place, HarbourFront Tower One, #01-04 Singapore 098633",
+	"doctorInCharge": [
+		{
+			"name": "Michelle Ng Yok Leng",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2002",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9403882",
+	"coordinates": [
+		103.8191393,
+		1.2647781
+	],
+	"svy21": [
+		26421.95,
+		27478.26
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

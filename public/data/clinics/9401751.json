@@ -1,0 +1,52 @@
+{
+	"name": "THOMSON PLAZA DENTAL SURGERY",
+	"tel": "64564557",
+	"fax": "67344185",
+	"licensee": "CHAY WENG FOOK",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401751",
+	"address": "301 UPPER THOMSON ROAD, THOMSON PLAZA, #03-01 Singapore 574408",
+	"doctorInCharge": [
+		{
+			"name": "YOUNG HUI LING",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "09:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "09:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "09:30 am to 02:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401751",
+	"coordinates": [
+		103.8309198,
+		1.354669
+	],
+	"svy21": [
+		27733.04,
+		37417.93
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

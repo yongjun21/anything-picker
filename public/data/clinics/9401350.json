@@ -1,0 +1,51 @@
+{
+	"name": "PWEE HOCK SWEE",
+	"tel": "67346433",
+	"fax": "67346433",
+	"licensee": "PWEE HOCK SWEE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401350",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #11-02 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "PWEE HOCK SWEE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1965",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1971",
+				"MRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1971",
+				"FAMS (Academy of Medicine, Singapore) 1973",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1975"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "11:00 am to 01:00 pm, 01:30 pm to 03:00 pm",
+		"Saturday": "11:00 am to 01:00 pm, 01:30 pm to 03:00 pm"
+	},
+	"id": "9401350",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"name": "ANN ARBOR DENTAL SURGERY PTE LTD",
+	"tel": "67887827",
+	"fax": "65442348",
+	"licensee": "ANN ARBOR DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "09/02/2015 to 08/02/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402399",
+	"address": "No. 5 TAMPINES ST 32, TAMPINES MART, #02-06 Singapore 529284",
+	"doctorInCharge": [
+		{
+			"name": "TEOH SIEW GAIK",
+			"qualifications": [
+				"DDS (University of Michigan School of Dentistry, United States) 1991"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "Closed",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "09:00 am to 05:00 pm",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402399",
+	"coordinates": [
+		103.9600422,
+		1.3543649
+	],
+	"svy21": [
+		42102.9,
+		37384.68
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

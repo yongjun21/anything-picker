@@ -1,0 +1,46 @@
+{
+	"name": "SILVER CROSS FAMILY CLINIC",
+	"tel": "68992141",
+	"fax": "68992642",
+	"licensee": "SILVER CROSS HEALTHCARE PTE LTD",
+	"licensePeriod": "09/03/2015 to 08/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405203",
+	"address": "BLK 502 Jurong West Ave 1, #01-803 Singapore 640502",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9405203",
+	"coordinates": [
+		103.7183347,
+		1.3505013
+	],
+	"svy21": [
+		15203.57,
+		36957.39
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

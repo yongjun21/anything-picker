@@ -1,0 +1,41 @@
+{
+	"name": "LIFELINE PUNGGOL MEDICAL CLINIC PTE LTD",
+	"tel": "63155428",
+	"fax": "63155429",
+	"licensee": "WONG MUN CHONG",
+	"licensePeriod": "21/02/2014 to 20/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403166",
+	"address": "BLK 198 PUNGGOL FIELD, #02-03 Singapore 820198",
+	"doctorInCharge": [
+		{
+			"name": "WONG MUN CHONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9403166",
+	"coordinates": [
+		103.9064024,
+		1.399463
+	],
+	"svy21": [
+		36133.25,
+		42371.15
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"name": "SHENTON FAMILY MEDICAL CLINIC",
+	"tel": "65095260",
+	"fax": "66340094",
+	"licensee": "SHENTON FAMILY MEDICAL CLINIC (DUXTON)",
+	"licensePeriod": "04/06/2016 to 03/06/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9405606",
+	"address": "BLK 1 CANTONMENT ROAD, PINNACLE@DUXTON, #01-02 Singapore 080001",
+	"doctorInCharge": [
+		{
+			"name": "Phua Ling Yaw",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 10:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 10:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9405606",
+	"coordinates": [
+		103.841261,
+		1.2770347
+	],
+	"svy21": [
+		28883.93,
+		28833.53
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

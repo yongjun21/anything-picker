@@ -1,0 +1,57 @@
+{
+	"name": "BOON LAY CORPORATION CLINIC PTE LTD",
+	"tel": "68994569",
+	"fax": "65646303",
+	"licensee": "BOON LAY CORPORATION CLINIC PTE. LTD.",
+	"licensePeriod": "07/10/2015 to 06/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405326",
+	"address": "BLK 350 JURONG EAST AVENUE 1, #01-1225 Singapore 600350",
+	"doctorInCharge": [
+		{
+			"name": "Lee Chang Long",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:30 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:30 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:30 pm to 06:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:30 pm to 06:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:30 pm to 06:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405326",
+	"coordinates": [
+		103.7312556,
+		1.3440494
+	],
+	"svy21": [
+		16641.5,
+		36243.91
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "63111111",
+	"fax": "63112390",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "01/08/2017 to 31/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0234",
+	"address": "1207 DOVER ROAD, UNITED WORLD COLLEGE, Singapore 139654",
+	"doctorInCharge": [
+		{
+			"name": "Wong Wei Mon",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2005",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2006",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2014",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0234",
+	"coordinates": [
+		103.7771186,
+		1.3029796
+	],
+	"svy21": [
+		21745.45,
+		31702.45
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

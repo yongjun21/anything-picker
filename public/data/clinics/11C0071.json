@@ -1,0 +1,49 @@
+{
+	"name": "ORANGE DENTAL SPECIALIST",
+	"tel": "68380903",
+	"fax": "68380923",
+	"licensee": "JS DENTAL PTE. LTD.",
+	"licensePeriod": "26/05/2015 to 25/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0071",
+	"address": "304 ORCHARD ROAD, LUCKY PLAZA, #05-52 Singapore 238863",
+	"doctorInCharge": [
+		{
+			"name": "Foo Mooh Thong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1989",
+				"MDS (National University of Singapore, Singapore) 1994",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 1995",
+				"MRDRCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 1995"
+			],
+			"specialties": [
+				"Prosthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Prosthodontics"
+		]
+	},
+	"id": "11C0071",
+	"coordinates": [
+		103.8339619,
+		1.3045061
+	],
+	"svy21": [
+		28071.6,
+		31871.17
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

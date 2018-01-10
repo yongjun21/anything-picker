@@ -1,0 +1,53 @@
+{
+	"name": "KENSINGTON FAMILY CLINIC",
+	"tel": "62884882",
+	"fax": "62884112",
+	"licensee": "KENSINGTON FAMILY CLINIC (SERANGOON GARDENS) PTE. LTD.",
+	"licensePeriod": "17/01/2017 to 16/01/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9405798",
+	"address": "14D KENSINGTON PARK ROAD, SERANGOON GARDEN ESTATE, Singapore 557265",
+	"doctorInCharge": [
+		{
+			"name": "Kwek Boon Chow",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm",
+		"Sunday": "08:00 am to 03:00 pm, 06:00 pm to 10:00 pm"
+	},
+	"id": "9405798",
+	"coordinates": [
+		103.8661052,
+		1.3652177
+	],
+	"svy21": [
+		31648.76,
+		38584.38
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

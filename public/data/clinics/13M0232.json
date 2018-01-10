@@ -1,0 +1,56 @@
+{
+	"name": "HEALTHCARE MEDICAL @ KOVAN",
+	"tel": "62821118",
+	"fax": "62822011",
+	"licensee": "HEALTHCARE (KOVAN) PTE. LTD.",
+	"licensePeriod": "11/09/2017 to 10/09/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13M0232",
+	"address": "BLK 208 HOUGANG STREET 21, #01-205 Singapore 530208",
+	"doctorInCharge": [
+		{
+			"name": "Chan Kok Yew",
+			"qualifications": [
+				"MB ChB (University of Sheffield, United Kingdom) 1995",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "13M0232",
+	"coordinates": [
+		103.8866361,
+		1.3586968
+	],
+	"svy21": [
+		33933.62,
+		37863.37
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

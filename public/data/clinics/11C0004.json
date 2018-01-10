@@ -1,0 +1,40 @@
+{
+	"name": "DR HELEN TAN. CLINIC",
+	"tel": "65621268",
+	"fax": "65610229",
+	"licensee": "Helen Tan Hui Mien",
+	"licensePeriod": "11/02/2017 to 10/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "11C0004",
+	"address": "225 JURONG EAST STREET 21, #01-801 Singapore 600225",
+	"doctorInCharge": [
+		{
+			"name": "Helen Tan Hui Mien",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "11C0004",
+	"coordinates": [
+		103.7372515,
+		1.3417812
+	],
+	"svy21": [
+		17308.77,
+		35993.08
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

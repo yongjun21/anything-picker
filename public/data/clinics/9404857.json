@@ -1,0 +1,53 @@
+{
+	"name": "AGE-LINK SPECIALIST CLINIC FOR OLDER PERSONS",
+	"tel": "67389757",
+	"fax": "67385856",
+	"licensee": "Sitoh Yih Yiow",
+	"licensePeriod": "05/12/2016 to 04/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9404857",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #11-02 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Sitoh Yih Yiow",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"MRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1996",
+				"M Med (Sleep Medicine) (University of Sydney, Australia) 2014"
+			],
+			"specialties": [
+				"Geriatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Geriatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm"
+	},
+	"id": "9404857",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

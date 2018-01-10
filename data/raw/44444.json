@@ -1,6 +1,6 @@
 {
 	"name": "ORIENT DENTAL CLINIC",
-	"tel": "64255800",
+	"tel": "65636800",
 	"fax": "64255801",
 	"licensee": "ORIENT DENTAL PTE. LTD.",
 	"licensePeriod": "02/12/2015 to 01/12/2017",
@@ -20,9 +20,12 @@
 		"General Dental": true
 	},
 	"operatingHours": {
-		"Monday and Tuesday": "09:00 am to 08:00 pm",
-		"Wednesday and Friday": "09:00 am to 05:00 pm",
-		"Thursday": "09:00 am to 08:00 pm",
-		"Saturday": "09:00 am to 01:00 pm"
+		"Monday": "09:00 am to 08:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "02:00 pm to 08:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday and Public Holiday": "Closed"
 	}
 }

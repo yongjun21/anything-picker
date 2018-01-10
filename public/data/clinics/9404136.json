@@ -1,0 +1,56 @@
+{
+	"name": "ORCHARD SURGICAL ASSOCIATES",
+	"tel": "91793801",
+	"fax": "62555667",
+	"licensee": "ORCHARD SURGICAL SPECIALISTS PTE. LTD.",
+	"licensePeriod": "06/11/2016 to 05/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9404136",
+	"address": "820 Thomson Road, Mount Alvernia Hospital Medical Centre D, #08-55 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "Richard Sim",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1994",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1994",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 05:00 pm"
+	},
+	"id": "9404136",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

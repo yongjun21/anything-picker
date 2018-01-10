@@ -1,0 +1,57 @@
+{
+	"name": "THE FAMILY PHYSICIAN CLINIC",
+	"tel": "65551828",
+	"fax": "65551829",
+	"licensee": "THE FAMILY PHYSICIAN CLINIC PTE. LTD.",
+	"licensePeriod": "05/09/2016 to 04/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0271",
+	"address": "BLK 542B SERANGOON NORTH AVENUE 3, #01-02 Singapore 552542",
+	"doctorInCharge": [
+		{
+			"name": "loh wai leong jeffrey",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2009",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 04:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 04:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 04:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:30 am to 04:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:30 am to 04:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "14M0271",
+	"coordinates": [
+		103.871417,
+		1.3736839
+	],
+	"svy21": [
+		32239.88,
+		39520.54
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

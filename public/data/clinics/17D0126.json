@@ -1,0 +1,41 @@
+{
+	"name": "OCEAN DENTAL",
+	"tel": "62663011",
+	"fax": "62663011",
+	"licensee": "Ocean Dental (Singapore) Pte. Ltd.",
+	"licensePeriod": "30/04/2017 to 29/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17D0126",
+	"address": "BLK 721 CLEMENTI WEST STREET 2, #01-118 Singapore 120721",
+	"doctorInCharge": [
+		{
+			"name": "Kooi Jun Ming Terence",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "17D0126",
+	"coordinates": [
+		103.7645553,
+		1.302462
+	],
+	"svy21": [
+		20347.27,
+		31645.26
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

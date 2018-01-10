@@ -1,0 +1,47 @@
+{
+	"name": "HUANG SURGERY PRIVATE LIMITED",
+	"tel": "68362348",
+	"fax": "68362346",
+	"licensee": "HUANG CHIA YUNG",
+	"licensePeriod": "20/06/2016 to 19/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9404091",
+	"address": "491B RIVER VALLEY ROAD, VALLEY POINT OFFICE TOWER, #03-03A Singapore 248373",
+	"doctorInCharge": [
+		{
+			"name": "HUANG CHIA YUNG",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1987"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:30 pm to 05:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:30 pm to 05:00 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:30 pm to 05:00 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:30 pm to 05:00 pm, 06:30 pm to 08:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9404091",
+	"coordinates": [
+		103.8270759,
+		1.2930723
+	],
+	"svy21": [
+		27305.25,
+		30606.88
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

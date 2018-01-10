@@ -1,0 +1,45 @@
+{
+	"name": "FAITH DENTAL SURGERY",
+	"tel": "62872655",
+	"licensee": "WEE HOCK CHYE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400509",
+	"address": "BLK 153 SERANGOON NORTH AVE 1, #01-524 Singapore 550153",
+	"doctorInCharge": [
+		{
+			"name": "WEE HOCK CHYE",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm"
+	},
+	"id": "9400509",
+	"coordinates": [
+		103.8723123,
+		1.369951
+	],
+	"svy21": [
+		32339.53,
+		39107.77
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

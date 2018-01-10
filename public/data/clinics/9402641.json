@@ -1,0 +1,54 @@
+{
+	"name": "MATERNITY & GYNAECOLOGICAL CLINIC",
+	"tel": "62525360",
+	"fax": "62525778",
+	"licensee": "KENNETH EDWARD LEE",
+	"licensePeriod": "04/07/2016 to 03/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9402641",
+	"address": "820 THOMSON ROAD, MOUNT ALVERNIA HOSPITAL MEDICAL CENTRE D, #06-53 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "KENNETH EDWARD LEE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1996"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology",
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 03:30 pm",
+		"Tuesday": "08:30 am to 03:30 pm",
+		"Thursday": "08:30 am to 03:30 pm",
+		"Friday": "08:30 am to 07:00 pm",
+		"Saturday": "08:30 am to 12:00 pm"
+	},
+	"id": "9402641",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

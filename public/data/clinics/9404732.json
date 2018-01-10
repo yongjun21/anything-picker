@@ -1,0 +1,45 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67844706",
+	"fax": "67844706",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "27/02/2014 to 26/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404732",
+	"address": "BLK 11 SIMEI STREET 3, Singapore 529896",
+	"doctorInCharge": [
+		{
+			"name": "Noeline Tan",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9404732",
+	"coordinates": [
+		103.9520801,
+		1.3402316
+	],
+	"svy21": [
+		41216.89,
+		35821.84
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

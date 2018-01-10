@@ -1,0 +1,50 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "62563501",
+	"fax": "62563501",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "25/01/2015 to 24/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403859",
+	"address": "BLK 190 DUNEARN ROAD, Singapore 309437",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wanyi",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403859",
+	"coordinates": [
+		103.8281921,
+		1.3210451
+	],
+	"svy21": [
+		27429.48,
+		33699.97
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

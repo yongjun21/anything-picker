@@ -1,0 +1,45 @@
+{
+	"name": "S H HO UROLOGY AND LAPAROSCOPY CENTRE",
+	"tel": "64752512",
+	"fax": "64752510",
+	"licensee": "URO CENTRE PTE. LTD.",
+	"licensePeriod": "01/07/2014 to 30/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404898",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #09-18 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "HO SIEW HONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"FRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 1998"
+			],
+			"specialties": [
+				"Urology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Urology"
+		]
+	},
+	"id": "9404898",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

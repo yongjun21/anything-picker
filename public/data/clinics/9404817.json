@@ -1,0 +1,56 @@
+{
+	"name": "JJ CLINIC & SURGERY",
+	"tel": "64595594",
+	"fax": "64595594",
+	"licensee": "Lan Jiann Jong",
+	"licensePeriod": "08/05/2014 to 07/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404817",
+	"address": "BLK 107 ANG MO KIO AVENUE 4, #01-150 Singapore 560107",
+	"doctorInCharge": [
+		{
+			"name": "Lan Jiann Jong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:00 pm",
+		"Public Holiday": "08:30 am to 12:00 pm"
+	},
+	"id": "9404817",
+	"coordinates": [
+		103.8373814,
+		1.371384
+	],
+	"svy21": [
+		28452.14,
+		39266.19
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

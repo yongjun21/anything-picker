@@ -1,0 +1,45 @@
+{
+	"name": "TEMASEK MEDICAL CENTRE",
+	"tel": "63668366",
+	"fax": "63668366",
+	"licensee": "JL MEDICAL (WOODLANDS) PTE. LTD.",
+	"licensePeriod": "06/09/2016 to 05/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16C0265",
+	"address": "BLK 883 WOODLANDS ST 82, #01-464 Singapore 730883",
+	"doctorInCharge": [
+		{
+			"name": "Ng Chiew Fang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "16C0265",
+	"coordinates": [
+		103.790548,
+		1.4427533
+	],
+	"svy21": [
+		23240.3,
+		47157.9
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "LEE & LEE (DENTAL SURGEONS) PTE. LTD.",
+	"tel": "65356113",
+	"fax": "65362730",
+	"licensee": "Lee & Lee (Dental Surgeons) Pte Ltd",
+	"licensePeriod": "25/04/2015 to 24/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400913",
+	"address": "10 COLLYER QUAY, OCEAN FINANCIAL CENTRE, #03-05 Singapore 049315",
+	"doctorInCharge": [
+		{
+			"name": "Ramaswamy Sreeghandhan",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1980",
+				"DGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9400913",
+	"coordinates": [
+		103.8519096,
+		1.2832048
+	],
+	"svy21": [
+		30069.03,
+		29515.79
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "CAPITAL MEDICAL CENTRE",
+	"tel": "63335144",
+	"fax": "63335748",
+	"licensee": "ALPHA WELLNESS CAPITAL",
+	"licensePeriod": "18/11/2017 to 17/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15C0394",
+	"address": "111 NORTH BRIDGE ROAD, PENINSULA PLAZA, #05-18 Singapore 179098",
+	"doctorInCharge": [
+		{
+			"name": "Kyaw Naing @ Huang Jia Dian",
+			"qualifications": [
+				"MBBS (Institute of Medicine (I), Rangoon, Myanmar) 1991",
+				"Board Cert (Int Med) (American Board of Internal Medicine, United States) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "11:30 am to 07:30 pm",
+		"Tuesday": "11:30 am to 07:30 pm",
+		"Wednesday": "11:30 am to 07:30 pm",
+		"Thursday": "11:30 am to 07:30 pm",
+		"Friday": "11:30 am to 07:30 pm",
+		"Saturday": "01:00 pm to 06:30 pm",
+		"Sunday": "01:00 pm to 06:30 pm"
+	},
+	"id": "15C0394",
+	"coordinates": [
+		103.8508034,
+		1.2923176
+	],
+	"svy21": [
+		29945.9,
+		30523.45
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

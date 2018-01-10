@@ -1,0 +1,52 @@
+{
+	"name": "ATLAS MEDICAL LASER & AESTHETICS CLINIC BY DR. SM YUEN",
+	"tel": "65560829",
+	"fax": "65560819",
+	"licensee": "ATLAS MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "06/09/2016 to 05/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405591",
+	"address": "391B ORCHARD ROAD, NGEE ANN CITY TOWER B, #24-08/09 Singapore 238874",
+	"doctorInCharge": [
+		{
+			"name": "Yuen Siu Mun",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "10:00 am to 06:30 pm",
+		"Tuesday": "10:00 am to 06:30 pm",
+		"Wednesday": "10:00 am to 08:00 pm",
+		"Thursday": "10:00 am to 08:30 pm",
+		"Friday": "10:00 am to 08:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9405591",
+	"coordinates": [
+		103.8346761,
+		1.3024242
+	],
+	"svy21": [
+		28151.08,
+		31640.97
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

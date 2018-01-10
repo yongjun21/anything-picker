@@ -1,0 +1,45 @@
+{
+	"name": "THE KIDZ CLINIC",
+	"tel": "64716808",
+	"fax": "64792733",
+	"licensee": "Yeo Kim Lian",
+	"licensePeriod": "03/04/2016 to 02/04/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404803",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #10-01 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Yeo Kim Lian",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983",
+				"M Med (Paed) (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Neonatology",
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"id": "9404803",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

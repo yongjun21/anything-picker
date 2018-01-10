@@ -1,0 +1,51 @@
+{
+	"name": "FIRST AVENUE DENTAL SURGERY",
+	"tel": "67451182",
+	"fax": "67451182",
+	"licensee": "FIRST AVENUE DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "13/10/2017 to 12/10/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "15D0350",
+	"address": "BLK 301 UBI AVENUE 1, #01-237 Singapore 400301",
+	"doctorInCharge": [
+		{
+			"name": "Bey Yee Hau",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2014"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 am to 06:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 am to 06:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 am to 06:00 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 am to 06:00 pm, 06:30 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 am to 06:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "15D0350",
+	"coordinates": [
+		103.901953,
+		1.330688
+	],
+	"svy21": [
+		35638.31,
+		34766.34
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

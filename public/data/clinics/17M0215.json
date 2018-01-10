@@ -1,0 +1,42 @@
+{
+	"name": "PARKWAY SHENTON MEDICAL GROUP",
+	"tel": "62277777",
+	"fax": "62253735",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "20/07/2017 to 19/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0215",
+	"address": "205 HOUGANG STREET 21, HEARTLAND MALL - KOVAN, #03-20 Singapore 530205",
+	"doctorInCharge": [
+		{
+			"name": "Ong Jing Hui Joshua",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0215",
+	"coordinates": [
+		103.8851674,
+		1.3595418
+	],
+	"svy21": [
+		33770.17,
+		37956.8
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

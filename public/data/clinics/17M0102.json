@@ -1,0 +1,44 @@
+{
+	"name": "S H CHEN CLINIC FOR WOMEN PTE LTD",
+	"tel": "62512218",
+	"fax": "62512268",
+	"licensee": "S H CHEN CLINIC FOR WOMEN PTE LTD",
+	"licensePeriod": "12/04/2017 to 11/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0102",
+	"address": "BLK 501 BISHAN STREET 11, ##01-362 Singapore 570501",
+	"doctorInCharge": [
+		{
+			"name": "Chen Sze Hua",
+			"qualifications": [
+				"MRCS/LRCP (Royal College of Physicians of London, United Kingdom) 1968",
+				"M Med (O&G) (National University of Singapore, Singapore) 1976"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"id": "17M0102",
+	"coordinates": [
+		103.8490773,
+		1.3484169
+	],
+	"svy21": [
+		29753.77,
+		36726.61
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

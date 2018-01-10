@@ -1,0 +1,57 @@
+{
+	"name": "EE CLINIC",
+	"tel": "64521042",
+	"fax": "64521042",
+	"licensee": "TAN LIP HONG",
+	"licensePeriod": "01/01/2015 to 31/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400470",
+	"address": "BLK 128 ANG MO KIO AVE 3, #01-1859 Singapore 560128",
+	"doctorInCharge": [
+		{
+			"name": "TAN LIP HONG",
+			"qualifications": [
+				"MB ChB (University of Leicester, United Kingdom) 1988",
+				"M Med (OM) (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 am",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400470",
+	"coordinates": [
+		103.843547,
+		1.370832
+	],
+	"svy21": [
+		29138.3,
+		39205.16
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

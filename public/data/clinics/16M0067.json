@@ -1,0 +1,46 @@
+{
+	"name": "ORCHARD HEART SPECIALIST CLINIC",
+	"tel": "68873574",
+	"fax": "67361652",
+	"licensee": "Orchard Heart Specialist Pte Ltd",
+	"licensePeriod": "25/08/2016 to 24/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0067",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #06-06 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Tan Kok Soon",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 1985",
+				"MRCP (Int Med) (Royal College of Physicians, Ireland) 1987",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1988"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"id": "16M0067",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

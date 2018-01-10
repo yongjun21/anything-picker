@@ -1,0 +1,51 @@
+{
+	"name": "SINGHEALTH POLYCLINICS - PASIR RIS",
+	"tel": "65855390",
+	"licensee": "SINGHEALTH POLYCLINICS",
+	"licensePeriod": "24/01/2014 to 23/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403159",
+	"address": "1 PASIR RIS DR 4, #01-11 Singapore 519457",
+	"doctorInCharge": [
+		{
+			"name": "MOEY KIRM SENG PETER",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2009",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2010",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2014"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:00 am to 12:30 pm"
+	},
+	"id": "9403159",
+	"coordinates": [
+		103.9594284,
+		1.3684855
+	],
+	"svy21": [
+		42034.52,
+		38946.06
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

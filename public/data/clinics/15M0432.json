@@ -1,0 +1,62 @@
+{
+	"name": "MISSION CROSS FAMILY CLINIC",
+	"tel": "66358579",
+	"fax": "65528606",
+	"licensee": "MISSION CROSS FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "23/12/2015 to 22/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0432",
+	"address": "BLK 348 YISHUN AVENUE 11, #01-03 Singapore 760348",
+	"doctorInCharge": [
+		{
+			"name": "Heng Kim Boon",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"Dip OM (National University of Singapore, Singapore) 1999",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "Closed",
+		"Wednesday": "09:00 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "09:30 am to 01:00 pm, 06:30 pm to 09:30 pm"
+	},
+	"id": "15M0432",
+	"coordinates": [
+		103.8429302,
+		1.4266249
+	],
+	"svy21": [
+		29069.63,
+		45374.45
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

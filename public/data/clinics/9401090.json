@@ -1,0 +1,54 @@
+{
+	"name": "MEDILIFE CLINIC & SURGERY",
+	"tel": "67813168",
+	"fax": "67813168",
+	"licensee": "TAN HOW KOON",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401090",
+	"address": "BLK 474 TAMPINES ST 43, #01-122 Singapore 520474",
+	"doctorInCharge": [
+		{
+			"name": "TAN HOW KOON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:00 am",
+		"Sunday": "08:30 am to 12:00 am"
+	},
+	"id": "9401090",
+	"coordinates": [
+		103.9527876,
+		1.359873
+	],
+	"svy21": [
+		41295.52,
+		37993.69
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

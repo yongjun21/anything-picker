@@ -1,0 +1,52 @@
+{
+	"name": "INTERNATIONAL PLAZA DENTAL SURGEONS",
+	"tel": "62206230",
+	"fax": "62252169",
+	"licensee": "Tan Chin Hwee",
+	"licensePeriod": "07/02/2017 to 06/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9403798",
+	"address": "10 ANSON ROAD, INTERNATIONAL PLAZA, #02-45 Singapore 079903",
+	"doctorInCharge": [
+		{
+			"name": "Tan Chin Hwee",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978",
+				"MFGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Periodontology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 07:30 pm",
+		"Tuesday": "08:30 am to 07:30 pm",
+		"Wednesday": "08:30 am to 07:30 pm",
+		"Thursday": "08:30 am to 07:30 pm",
+		"Friday": "08:30 am to 07:30 pm",
+		"Saturday": "08:30 am to 04:00 pm"
+	},
+	"id": "9403798",
+	"coordinates": [
+		103.8459237,
+		1.2758867
+	],
+	"svy21": [
+		29402.85,
+		28706.59
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

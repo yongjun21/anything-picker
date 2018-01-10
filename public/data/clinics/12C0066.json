@@ -1,0 +1,48 @@
+{
+	"name": "DR CINDY'S MEDICAL AESTHETICS",
+	"tel": "67864433",
+	"fax": "67868878",
+	"licensee": "ART OF CINDY PTE. LTD.",
+	"licensePeriod": "14/05/2016 to 13/05/2018",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "12C0066",
+	"address": "10 TAMPINES CENTRAL 1, TAMPINES ONE, #05-12 Singapore 529536",
+	"doctorInCharge": [
+		{
+			"name": "Yang Cindy",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "10:00 am to 06:00 pm",
+		"Monday": "11:00 am to 09:00 pm",
+		"Tuesday": "11:00 am to 09:00 pm",
+		"Wednesday": "11:00 am to 09:00 pm",
+		"Thursday": "11:00 am to 09:00 pm",
+		"Friday": "11:00 am to 09:00 pm",
+		"Saturday": "10:00 am to 08:00 pm",
+		"Sunday": "10:00 am to 07:00 pm"
+	},
+	"id": "12C0066",
+	"coordinates": [
+		103.9450718,
+		1.3542564
+	],
+	"svy21": [
+		40436.86,
+		37372.59
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

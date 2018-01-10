@@ -1,0 +1,48 @@
+{
+	"name": "SPECIALIST ENDOCRINE CLINIC FOR DIABETES, THYROID AND HORMONES",
+	"tel": "67354066",
+	"fax": "64439942",
+	"licensee": "DR FOO ENDOCRINE PTE. LTD.",
+	"licensePeriod": "03/12/2015 to 02/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0412",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION FARRER PARK MEDICAL CENTRE, #13-11 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "Foo Joo Pin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Endocrinology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Endocrinology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "15M0412",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

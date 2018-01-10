@@ -3,8 +3,8 @@
 	"tel": "64747789",
 	"fax": "64797739",
 	"licensee": "CHAN KM GERIATRIC & MEDICAL CLINIC PTE. LTD.",
-	"licensePeriod": "24/11/2015 to 23/11/2017",
-	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"licensePeriod": "24/11/2017 to 23/11/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
 	"hciCode": "9405311",
 	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #08-10 Singapore 258499",
 	"doctorInCharge": [
@@ -20,7 +20,9 @@
 		}
 	],
 	"detailedServices": {
-		"Specialist Medical": []
+		"Specialist Medical": [
+			"Geriatric Medicine"
+		]
 	},
 	"operatingHours": {
 		"Public Holiday": "Closed",

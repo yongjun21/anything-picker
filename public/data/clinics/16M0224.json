@@ -1,0 +1,41 @@
+{
+	"name": "THE CLINIC @ BUSINESS CITY",
+	"tel": "64385322",
+	"fax": "64381575",
+	"licensee": "the clinic @ business city pte Ltd",
+	"licensePeriod": "28/07/2016 to 27/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0224",
+	"address": "20 PASIR PANJANG ROAD, MAPLETREE BUSINESS CITY, #02-26 Singapore 117439",
+	"doctorInCharge": [
+		{
+			"name": "tregon singh Randhawa",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "16M0224",
+	"coordinates": [
+		103.7990648,
+		1.2748275
+	],
+	"svy21": [
+		24187.83,
+		28589.49
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

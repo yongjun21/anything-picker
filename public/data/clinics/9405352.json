@@ -1,0 +1,54 @@
+{
+	"name": "CARE FAMILY CLINIC",
+	"tel": "62995868",
+	"fax": "62995869",
+	"licensee": "CARE FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "26/10/2015 to 25/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405352",
+	"address": "BLK 663 BUFFALO ROAD, #01-12 Singapore 210663",
+	"doctorInCharge": [
+		{
+			"name": "Lai Kok Wei",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 01:30 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 01:30 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 01:30 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 01:30 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 01:30 pm to 04:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "01:00 pm to 06:00 pm"
+	},
+	"id": "9405352",
+	"coordinates": [
+		103.8508577,
+		1.3056812
+	],
+	"svy21": [
+		29951.94,
+		32001.12
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

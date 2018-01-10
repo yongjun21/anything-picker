@@ -1,0 +1,57 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "65342900",
+	"fax": "65337811",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "25/04/2016 to 24/04/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403295",
+	"address": "50 RAFFLES PLACE, SINGAPORE LAND TOWER, #01-02A Singapore 048623",
+	"doctorInCharge": [
+		{
+			"name": "Wong Chung Pheng Melvyn",
+			"qualifications": [
+				"BM (University of Southampton, United Kingdom) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403295",
+	"coordinates": [
+		103.8521332,
+		1.2846977
+	],
+	"svy21": [
+		30093.91,
+		29680.87
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

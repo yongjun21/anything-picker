@@ -1,0 +1,53 @@
+{
+	"name": "HOE AH LEONG SURGERY PTE LTD",
+	"tel": "64765922",
+	"fax": "64765933",
+	"licensee": "HOE AH LEONG",
+	"licensePeriod": "12/02/2014 to 11/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400689",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #03-10 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "HOE AH LEONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1986",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 1986",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "9400689",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

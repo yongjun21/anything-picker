@@ -1,0 +1,45 @@
+{
+	"name": "NEWEST MEDICAL AND LASER CLINIC PTE LTD",
+	"tel": "62660451",
+	"fax": "62660452",
+	"licensee": "NEWEST MEDICAL AND LASER CLINIC PTE. LTD.",
+	"licensePeriod": "20/01/2017 to 19/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0009",
+	"address": "1 WEST COAST DRIVE, NEWEST, #01-49/50 Singapore 128020",
+	"doctorInCharge": [
+		{
+			"name": "Low Wymin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "17M0009",
+	"coordinates": [
+		103.7574513,
+		1.3164132
+	],
+	"svy21": [
+		19556.7,
+		33187.93
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

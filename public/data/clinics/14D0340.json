@@ -1,0 +1,49 @@
+{
+	"name": "MISSION DENTAL SURGERY",
+	"tel": "65155015",
+	"fax": "65150761",
+	"licensee": "TEO CHYE CHWAN",
+	"licensePeriod": "17/11/2016 to 16/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0340",
+	"address": "BLK 395A BUKIT BATOK WEST AVENUE 5, #03-02 Singapore 651395",
+	"doctorInCharge": [
+		{
+			"name": "RICHARD KAM LUN WONG",
+			"qualifications": [
+				"BDS (University of London, United Kingdom) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "02:00 pm to 09:00 pm",
+		"Tuesday": "02:00 pm to 09:00 pm",
+		"Wednesday": "09:30 am to 12:30 pm",
+		"Thursday": "Closed",
+		"Sunday": "Closed",
+		"Friday": "09:30 am to 05:00 pm",
+		"Saturday": "09:30 am to 12:00 pm"
+	},
+	"id": "14D0340",
+	"coordinates": [
+		103.7519871,
+		1.3644897
+	],
+	"svy21": [
+		18948.77,
+		38504.01
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

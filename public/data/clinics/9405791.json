@@ -1,0 +1,57 @@
+{
+	"name": "DENTAL ESSENTIALS",
+	"tel": "66345769",
+	"fax": "66345701",
+	"licensee": "DENTAL AESTHETICS PRIVATE LIMITED",
+	"licensePeriod": "06/01/2017 to 05/01/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405791",
+	"address": "8A MARINA BOULEVARD, MARINA BAY LINK MALL, #B2-75 Singapore 018984",
+	"doctorInCharge": [
+		{
+			"name": "Tan Tze Tsung Derek",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1999",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2003",
+				"CERT PROSTHODONTICS (University of Southern California School of Dentistry, United States) 2009",
+				"Am.Board Prosthodont (American Board of Prosthodontics, United States) 2009"
+			],
+			"specialties": [
+				"Prosthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405791",
+	"coordinates": [
+		103.8533493,
+		1.2802277
+	],
+	"svy21": [
+		30229.26,
+		29186.6
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

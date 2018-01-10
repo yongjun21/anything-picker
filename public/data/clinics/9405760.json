@@ -1,0 +1,49 @@
+{
+	"name": "A DENTAL CLINIC @ CLEMENTI CENTRAL PTE LTD",
+	"tel": "67744168",
+	"fax": "67744163",
+	"licensee": "A DENTAL CLINIC @ CLEMENTI CENTRAL PTE. LTD.",
+	"licensePeriod": "29/11/2016 to 28/11/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9405760",
+	"address": "BLK 450 CLEMENTI AVENUE 3, #01-285 Singapore 120450",
+	"doctorInCharge": [
+		{
+			"name": "ng seow choon",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:00 am to 01:00 pm",
+		"Public Holiday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405760",
+	"coordinates": [
+		103.7654763,
+		1.3135389
+	],
+	"svy21": [
+		20449.8,
+		32870.07
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

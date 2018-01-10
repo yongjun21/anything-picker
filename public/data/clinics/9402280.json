@@ -1,0 +1,56 @@
+{
+	"name": "N K CHIN CHEST & MEDICAL CLINIC PTE LTD",
+	"tel": "68340738",
+	"fax": "67326866",
+	"licensee": "CHIN NYAT KOOI",
+	"licensePeriod": "28/04/2014 to 27/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402280",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #12-01 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "CHIN NYAT KOOI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Respiratory Medicine"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9402280",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

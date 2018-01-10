@@ -1,0 +1,57 @@
+{
+	"name": "UNIVERSAL MEDICAL CLINIC",
+	"tel": "67589955",
+	"fax": "68523035",
+	"licensee": "OW BOON HIN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401824",
+	"address": "BLK 103 YISHUN RING ROAD, #01-99 Singapore 760103",
+	"doctorInCharge": [
+		{
+			"name": "OW BOON HIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 12:00 pm",
+		"Monday": "08:30 am to 12:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "08:30 am to 12:00 pm"
+	},
+	"id": "9401824",
+	"coordinates": [
+		103.8288928,
+		1.4313693
+	],
+	"svy21": [
+		27507.48,
+		45899.07
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

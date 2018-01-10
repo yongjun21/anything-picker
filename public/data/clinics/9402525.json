@@ -1,0 +1,56 @@
+{
+	"name": "UNITED HEALTH FAMILY CLINIC & SURGERY",
+	"tel": "62571182",
+	"fax": "62571182",
+	"licensee": "TEOW KAY LEONG ROY",
+	"licensePeriod": "06/08/2015 to 05/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402525",
+	"address": "BLK 627 YISHUN STREET 61, #01-63 Singapore 760627",
+	"doctorInCharge": [
+		{
+			"name": "TEOW KAY LEONG ROY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "02:00 pm to 04:30 pm",
+		"Tuesday": "02:00 pm to 04:30 pm",
+		"Wednesday": "02:00 pm to 04:30 pm",
+		"Thursday": "06:30 pm to 09:00 pm",
+		"Friday": "06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9402525",
+	"coordinates": [
+		103.8370051,
+		1.4177041
+	],
+	"svy21": [
+		28410.26,
+		44388.03
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

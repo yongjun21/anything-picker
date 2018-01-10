@@ -1,0 +1,43 @@
+{
+	"name": "JURONG DENTAL SURGERY",
+	"tel": "65663731",
+	"fax": "67797635",
+	"licensee": "LIM TIEN SUNG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400777",
+	"address": "BLK 501 JURONG WEST ST 51, #01-283 Singapore 640501",
+	"doctorInCharge": [
+		{
+			"name": "LIM TIEN SUNG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm, 09:00 am to 05:00 pm",
+		"Sunday": "09:00 am to 09:00 pm, 09:00 am to 05:00 pm"
+	},
+	"id": "9400777",
+	"coordinates": [
+		103.7192222,
+		1.3498123
+	],
+	"svy21": [
+		15302.34,
+		36881.19
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

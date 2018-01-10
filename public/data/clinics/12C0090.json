@@ -1,0 +1,59 @@
+{
+	"name": "THE SURGICAL PRACTICE @ MOUNT ELIZABETH",
+	"tel": "65702122",
+	"fax": "65702022",
+	"licensee": "TSP CLINICS PTE. LTD.",
+	"licensePeriod": "14/06/2016 to 13/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0090",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #04-27/28 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Liauw Joo Yen Jennifer",
+			"qualifications": [
+				"MB ChB (University of Manchester, United Kingdom) 1996",
+				"MRCS (Royal College of Surgeons of England, United Kingdom) 1999",
+				"M Med (Surg) (National University of Singapore, Singapore) 2003",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 2004",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 2005"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery",
+			"Urology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "12C0090",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

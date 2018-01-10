@@ -1,0 +1,48 @@
+{
+	"name": "YIO CHU KANG DENTAL SURGERY",
+	"tel": "62800939",
+	"fax": "62803289",
+	"licensee": "KOH WEI KEE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401947",
+	"address": "194 YIO CHU KANG RD, Singapore 545641",
+	"doctorInCharge": [
+		{
+			"name": "KOH WEI KEE",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:30 pm"
+	},
+	"id": "9401947",
+	"coordinates": [
+		103.8736405,
+		1.3625278
+	],
+	"svy21": [
+		32487.36,
+		38286.95
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

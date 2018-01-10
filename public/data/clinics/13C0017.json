@@ -1,0 +1,52 @@
+{
+	"name": "EXECUTIVE HEALTH SCREENERS",
+	"tel": "64756266",
+	"fax": "64762437",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "16/01/2017 to 15/01/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0017",
+	"address": "6A NAPIER ROAD, GLENEAGLES HOSPITAL, ANNEX BLOCK, #02-36 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "Pok Yang Hang",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1972",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1976"
+			],
+			"specialties": [
+				"Internal Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0017",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

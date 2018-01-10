@@ -1,0 +1,54 @@
+{
+	"name": "YEO'S CLINIC",
+	"tel": "67790790",
+	"fax": "67791702",
+	"licensee": "Yeo Suan Aik",
+	"licensePeriod": "01/04/2016 to 31/03/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9402127",
+	"address": "BLK 354 Clementi Avenue 2, #01-221 Singapore 120354",
+	"doctorInCharge": [
+		{
+			"name": "Yeo Suan Aik",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:15 am to 12:30 pm, 02:15 pm to 04:30 pm, 06:45 pm to 09:00 pm",
+		"Tuesday": "09:15 am to 12:30 pm, 02:15 pm to 04:30 pm, 06:45 pm to 09:00 pm",
+		"Wednesday": "09:15 am to 12:30 pm, 02:15 pm to 04:30 pm, 06:45 pm to 09:00 pm",
+		"Thursday": "09:15 am to 12:30 pm, 02:15 pm to 04:30 pm, 06:45 pm to 09:00 pm",
+		"Friday": "09:15 am to 12:30 pm, 02:15 pm to 04:30 pm, 06:45 pm to 09:00 pm",
+		"Saturday": "09:15 am to 12:30 pm",
+		"Sunday": "09:15 am to 12:30 pm"
+	},
+	"id": "9402127",
+	"coordinates": [
+		103.7708611,
+		1.3135139
+	],
+	"svy21": [
+		21049.08,
+		32867.29
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

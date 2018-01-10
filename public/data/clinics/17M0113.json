@@ -1,0 +1,50 @@
+{
+	"name": "DOCTORS FOR LIFE MEDICAL",
+	"tel": "69090527",
+	"fax": "63869298",
+	"licensee": "TS MEDICAL PTE. LTD.",
+	"licensePeriod": "22/04/2017 to 21/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0113",
+	"address": "3 PICKERING STREET, NANKIN ROW, #01-02 Singapore 048660",
+	"doctorInCharge": [
+		{
+			"name": "Justin Sim Jit Weng",
+			"qualifications": [
+				"MB ChB (University of Bristol, United Kingdom) 2008"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "17M0113",
+	"coordinates": [
+		103.84743,
+		1.2842881
+	],
+	"svy21": [
+		29570.48,
+		29635.58
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

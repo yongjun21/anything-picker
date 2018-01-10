@@ -1,0 +1,59 @@
+{
+	"name": "GARDEN CLINIC",
+	"tel": "63821878",
+	"fax": "66484052",
+	"licensee": "GARDEN PAEDIATRIC SERVICES PTE LTD",
+	"licensePeriod": "15/09/2015 to 14/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400564",
+	"address": "BLK 304 SERANGOON AVE 2, #01-04 Singapore 550304",
+	"doctorInCharge": [
+		{
+			"name": "YAP KIAN MO",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983",
+				"M Med (Paed) (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 am, 02:30 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:00 am, 02:30 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:00 am, 02:30 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:00 am, 02:30 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:00 am, 02:30 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400564",
+	"coordinates": [
+		103.867773,
+		1.3538135
+	],
+	"svy21": [
+		31834.39,
+		37323.36
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

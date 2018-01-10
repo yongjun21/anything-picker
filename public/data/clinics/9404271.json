@@ -1,0 +1,53 @@
+{
+	"name": "THE KIDS DENTIST",
+	"tel": "62357279",
+	"fax": "62358797",
+	"licensee": "The Kids Dentist",
+	"licensePeriod": "15/11/2014 to 14/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404271",
+	"address": "1 Orchard Boulevard, Camden Medical Centre, #13-06 Singapore 248649",
+	"doctorInCharge": [
+		{
+			"name": "Mohamed Azharashid Bin Mohamed Tahir",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995",
+				"MSc (Paedodontics) (London) (University of London, United Kingdom) 1998",
+				"FAMS (Paediatric Dentistry) (Academy of Medicine, Singapore, Singapore) 2003"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Paediatric Dentistry"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm"
+	},
+	"id": "9404271",
+	"coordinates": [
+		103.8239072,
+		1.3031376
+	],
+	"svy21": [
+		26952.59,
+		31719.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

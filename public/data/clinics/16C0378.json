@@ -1,0 +1,41 @@
+{
+	"name": "TOWN CLINIC",
+	"tel": "62981456",
+	"fax": "62945683",
+	"licensee": "Khoo Yiok Bin Christine",
+	"licensePeriod": "01/01/2017 to 31/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16C0378",
+	"address": "287 BEACH ROAD, #01-00 Singapore 199551",
+	"doctorInCharge": [
+		{
+			"name": "Khoo Yiok Bin Christine",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16C0378",
+	"coordinates": [
+		103.8604818,
+		1.3009771
+	],
+	"svy21": [
+		31023.02,
+		31480.97
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

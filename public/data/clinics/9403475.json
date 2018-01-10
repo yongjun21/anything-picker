@@ -1,0 +1,52 @@
+{
+	"name": "ICON DENTAL SURGEONS",
+	"tel": "64635328",
+	"fax": "64675476",
+	"licensee": "ICON DENTAL SURGEONS PTE. LTD.",
+	"licensePeriod": "10/12/2013 to 09/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403475",
+	"address": "805 BUKIT TIMAH ROAD, SIXTH AVENUE CENTRE, #01-05 Singapore 279883",
+	"doctorInCharge": [
+		{
+			"name": "TAN CHUAN SIEN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1998",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 07:00 pm",
+		"Thursday": "09:00 am to 07:00 pm",
+		"Friday": "09:00 am to 01:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9403475",
+	"coordinates": [
+		103.7950029,
+		1.3314304
+	],
+	"svy21": [
+		23735.86,
+		34848.36
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

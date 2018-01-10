@@ -1,0 +1,47 @@
+{
+	"name": "ATRIA MEDICAL CLINIC",
+	"tel": "67341433",
+	"fax": "67362866",
+	"licensee": "PACIFIC HEALTHCARE SPECIALIST SERVICES PTE. LTD.",
+	"licensePeriod": "20/11/2016 to 19/11/2018",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "9405064",
+	"address": "290 ORCHARD ROAD, PARAGON, #12-01 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Teng Tze Yeong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405064",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"name": "CLINIC@COSTA",
+	"tel": "62433638",
+	"fax": "62433611",
+	"licensee": "A & J NULIFE PTE. LTD.",
+	"licensePeriod": "10/05/2017 to 09/05/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9405576",
+	"address": "BLK 84 BAYSHORE ROAD, COSTA DEL SOL, #01-36 Singapore 469994",
+	"doctorInCharge": [
+		{
+			"name": "Nam Min Fern Alvina",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"Dip OM (National University of Singapore, Singapore) 2000",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2004",
+				"PG Dip (Clinical Derm) (Queen Mary University of London, United Kingdom) 2014"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "08:30 am to 02:30 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 02:30 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 02:30 pm",
+		"Thursday": "08:30 am to 02:30 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 02:30 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405576",
+	"coordinates": [
+		103.940117,
+		1.3121882
+	],
+	"svy21": [
+		39885.65,
+		32720.87
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

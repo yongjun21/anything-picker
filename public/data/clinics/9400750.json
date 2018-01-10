@@ -1,0 +1,57 @@
+{
+	"name": "JAPAN GREEN CLINIC",
+	"tel": "67348871",
+	"fax": "67331213",
+	"licensee": "LOH BAN CHYE",
+	"licensePeriod": "22/05/2016 to 21/05/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9400750",
+	"address": "290 ORCHARD ROAD, PARAGON, #10-01 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "LOH BAN CHYE",
+			"qualifications": [
+				"MB (Tokyo Medical and Dental University, Japan) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Diagnostic Radiology",
+			"General Surgery",
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400750",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

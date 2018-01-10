@@ -1,0 +1,56 @@
+{
+	"name": "THE FAMILY PRACTICE-POTONG PASIR",
+	"tel": "62816906",
+	"fax": "62818602",
+	"licensee": "TAN KOK YING",
+	"licensePeriod": "18/12/2014 to 17/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402785",
+	"address": "BLK 148 POTONG PASIR AVE 1, #01-33 Singapore 350148",
+	"doctorInCharge": [
+		{
+			"name": "LIM KOON JIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 05:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 05:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 05:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 05:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402785",
+	"coordinates": [
+		103.8677743,
+		1.3323544
+	],
+	"svy21": [
+		31834.56,
+		34950.52
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

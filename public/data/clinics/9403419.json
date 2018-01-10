@@ -1,0 +1,53 @@
+{
+	"name": "WH DENTAL SURGEONS",
+	"tel": "63152555",
+	"fax": "63151152",
+	"licensee": "ALICE CHUA SOY LUNG",
+	"licensePeriod": "01/08/2017 to 31/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403419",
+	"address": "BLK 198 PONGGOL FIELD RD, #02-01 Singapore 820198",
+	"doctorInCharge": [
+		{
+			"name": "ALICE CHUA SOY LUNG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Dental Public Health",
+			"Endodontics",
+			"Orthodontics",
+			"Paediatric Dentistry"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 09:00 pm",
+		"Sunday": "09:00 am to 09:00 pm"
+	},
+	"id": "9403419",
+	"coordinates": [
+		103.9064024,
+		1.399463
+	],
+	"svy21": [
+		36133.25,
+		42371.15
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

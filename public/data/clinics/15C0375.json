@@ -1,0 +1,48 @@
+{
+	"name": "FULLERTON HEALTHCARE@DRS TRYTHALL HOY DAVIES",
+	"tel": "67958658",
+	"fax": "67958659",
+	"licensee": "DRS TRYTHALL HOY DAVIES (PTE) LTD",
+	"licensePeriod": "03/11/2017 to 02/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15C0375",
+	"address": "1 JURONG WEST CENTRAL 2, JURONG POINT SHOPPING CENTRE, #B1A-19A Singapore 648886",
+	"doctorInCharge": [
+		{
+			"name": "Benedict Lim Tai Thong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "15C0375",
+	"coordinates": [
+		103.706685,
+		1.3394527
+	],
+	"svy21": [
+		13907.03,
+		35735.76
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

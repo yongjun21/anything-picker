@@ -1,0 +1,48 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64742380",
+	"fax": "64742380",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "19/01/2015 to 18/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405076",
+	"address": "BLK 300 TANGLIN HALT ROAD, Singapore 148812",
+	"doctorInCharge": [
+		{
+			"name": "LIM WANYI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9405076",
+	"coordinates": [
+		103.8001023,
+		1.2996418
+	],
+	"svy21": [
+		24303.33,
+		31333.33
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

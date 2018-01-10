@@ -1,0 +1,50 @@
+{
+	"name": "JUNCTION 8 DENTAL SURGERY",
+	"tel": "63537707",
+	"fax": "63537707",
+	"licensee": "Chua May Ling",
+	"licensePeriod": "03/12/2016 to 02/12/2017",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"hciCode": "9405769",
+	"address": "BLK 506 BISHAN ST 11, #01-406 Singapore 570506",
+	"doctorInCharge": [
+		{
+			"name": "CHUA MAY LING",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 10:00 pm",
+		"Tuesday": "10:00 am to 10:00 pm",
+		"Wednesday": "10:00 am to 10:00 pm",
+		"Thursday": "10:00 am to 10:00 pm",
+		"Friday": "10:00 am to 10:00 pm",
+		"Saturday": "10:00 am to 10:00 pm",
+		"Sunday": "10:00 am to 10:00 pm"
+	},
+	"id": "9405769",
+	"coordinates": [
+		103.8491655,
+		1.349172
+	],
+	"svy21": [
+		29763.58,
+		36810.11
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

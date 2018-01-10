@@ -1,0 +1,50 @@
+{
+	"name": "Q & M DENTAL SURGERY (SEMBAWANG MRT) PTE LTD",
+	"tel": "67523093",
+	"fax": "67520701",
+	"licensee": "Q & M DENTAL SURGERY (SEMBAWANG MRT) PTE. LTD.",
+	"licensePeriod": "23/09/2017 to 22/09/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403431",
+	"address": "11 CANBERRA RD, SEMBAWANG MRT STATION, #02-01 Singapore 759775",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9403431",
+	"coordinates": [
+		103.8200461,
+		1.4490508
+	],
+	"svy21": [
+		26522.99,
+		47854.2
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	]
+}

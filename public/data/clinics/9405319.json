@@ -1,0 +1,62 @@
+{
+	"name": "SOON DIABETES THYROID AND ENDOCRINOLOGY CLINIC",
+	"tel": "63977101",
+	"fax": "63977102",
+	"licensee": "Soon Puay Cheow",
+	"licensePeriod": "24/09/2015 to 23/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405319",
+	"address": "10 SINARAN DRIVE, SQUARE 2, Novena Medical Center, #10-08 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Soon Puay Cheow",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"MRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1991",
+				"FAMS (Endocrinology) (Academy of Medicine, Singapore) 1997",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2002"
+			],
+			"specialties": [
+				"Endocrinology",
+				"Internal Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Endocrinology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405319",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

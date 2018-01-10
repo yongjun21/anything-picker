@@ -1,0 +1,47 @@
+{
+	"name": "APPLE DENTAL CLINIC",
+	"tel": "64416880",
+	"fax": "64447990",
+	"licensee": "LOW YONG",
+	"licensePeriod": "18/05/2014 to 17/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400058",
+	"address": "BLK 217 BEDOK NORTH ST 1, #01-67 Singapore 460217",
+	"doctorInCharge": [
+		{
+			"name": "LOW YONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 03:00 pm",
+		"Tuesday": "09:00 am to 03:00 pm",
+		"Wednesday": "09:00 am to 03:00 pm",
+		"Thursday": "09:00 am to 03:00 pm",
+		"Friday": "09:00 am to 03:00 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9400058",
+	"coordinates": [
+		103.9339207,
+		1.3268372
+	],
+	"svy21": [
+		39196,
+		34340.66
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

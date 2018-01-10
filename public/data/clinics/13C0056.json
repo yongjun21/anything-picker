@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67656407",
+	"fax": "67656407",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "15/03/2017 to 14/03/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0056",
+	"address": "11 CHOA CHU KANG STREET 52, De La Salle School, Singapore 689285",
+	"doctorInCharge": [
+		{
+			"name": "Tham Sai Soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "13C0056",
+	"coordinates": [
+		103.7432018,
+		1.3947078
+	],
+	"svy21": [
+		17971.2,
+		41845.41
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

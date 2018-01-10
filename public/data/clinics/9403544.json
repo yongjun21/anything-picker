@@ -1,0 +1,58 @@
+{
+	"name": "YOONG FAMILY CLINIC & SURGERY",
+	"tel": "67826167",
+	"fax": "67826167",
+	"licensee": "CORAL MEDICAL PTE LTD",
+	"licensePeriod": "11/08/2015 to 10/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403544",
+	"address": "BLK 333 TAMPINES ST 32, #01-536 Singapore 520333",
+	"doctorInCharge": [
+		{
+			"name": "YOONG IT SIANG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989",
+				"Dip OM (National University of Singapore, Singapore) 2000",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2003",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9403544",
+	"coordinates": [
+		103.9611297,
+		1.3533572
+	],
+	"svy21": [
+		42223.94,
+		37273.25
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

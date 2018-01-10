@@ -1,0 +1,57 @@
+{
+	"name": "C K TAN FAMILY CLINIC & SURGERY PTE LTD",
+	"tel": "62514438",
+	"fax": "62514438",
+	"licensee": "CK TAN FAMILY CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400154",
+	"address": "BLK 125 TOA PAYOH LOR 1, #01-537 Singapore 310125",
+	"doctorInCharge": [
+		{
+			"name": "TAN CHAY KOON SERENE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "06:30 pm to 08:30 pm",
+		"Tuesday": "06:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 04:00 pm",
+		"Thursday": "06:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 04:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9400154",
+	"coordinates": [
+		103.8457371,
+		1.3383313
+	],
+	"svy21": [
+		29382.05,
+		35611.4
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"name": "SINGAPORE NATIONAL EYE CENTRE",
+	"tel": "62277255",
+	"fax": "62277291",
+	"licensee": "SINGAPORE NATIONAL EYE CENTRE PTE LTD",
+	"licensePeriod": "09/12/2016 to 08/12/2017",
+	"licenseClass": "[ 1 Year ( 2D ) ]",
+	"hciCode": "1500000",
+	"address": "11 THIRD HOSPITAL AVE, Singapore 168751",
+	"doctorInCharge": [
+		{
+			"name": "Wong Tien Yin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"MPH (Public Health) (Loma Linda University, United States) 1997",
+				"FRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 1999",
+				"M Med (Ophth) (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Day Surgery"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "1500000",
+	"coordinates": [
+		103.8357365,
+		1.2810803
+	],
+	"svy21": [
+		28269.1,
+		29280.87
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

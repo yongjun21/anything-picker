@@ -1,0 +1,58 @@
+{
+	"name": "W.S. GO & ASSOCIATES DENTAL SURGEONS",
+	"tel": "68380922",
+	"fax": "67322015",
+	"licensee": "W.S. GO & ASSOCIATES PTE LTD",
+	"licensePeriod": "13/05/2015 to 12/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402697",
+	"address": "290 ORCHARD RD, PARAGON, #09-16/17 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "GO WEE SER",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983",
+				"MDS (National University of Singapore, Singapore) 1987",
+				"FDS RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 1988",
+				"FAMS (Oral & Maxillofacial Surgery) (Academy of Medicine, Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Oral & Maxillo-Facial Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9402697",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

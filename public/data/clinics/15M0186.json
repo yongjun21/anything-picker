@@ -1,0 +1,48 @@
+{
+	"name": "BONE AND JOINT SPECIALIST CLINIC",
+	"tel": "64437713",
+	"fax": "64437726",
+	"licensee": "BONE AND JOINT SPECIALIST CLINIC PTE LTD",
+	"licensePeriod": "16/06/2017 to 15/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0186",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #12-03 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "S S Sathappan",
+			"qualifications": [
+				"MB ChB (University of Bristol, United Kingdom) 1995",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 2000",
+				"M Med (Ortho Surg) (National University of Singapore, Singapore) 2001",
+				"FRCS (Orth Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 2004",
+				"FAMS (Orth Surg) (Academy of Medicine, Singapore) 2005"
+			],
+			"specialties": [
+				"Orthopaedic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Orthopaedic Surgery"
+		]
+	},
+	"id": "15M0186",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

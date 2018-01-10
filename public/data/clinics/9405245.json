@@ -1,0 +1,42 @@
+{
+	"name": "WESLEY FAMILY CLINIC AND SURGERY",
+	"tel": "65613133",
+	"fax": "65621131",
+	"licensee": "Justin Quek Pong Thia",
+	"licensePeriod": "17/07/2015 to 16/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405245",
+	"address": "BLK 265 BUKIT BATOK EAST AVENUE 4, #01-397 Singapore 650265",
+	"doctorInCharge": [
+		{
+			"name": "Justin Quek Pong Thia",
+			"qualifications": [
+				"MB ChB (University of Dundee, United Kingdom) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9405245",
+	"coordinates": [
+		103.7598628,
+		1.3500084
+	],
+	"svy21": [
+		19825.2,
+		36902.71
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

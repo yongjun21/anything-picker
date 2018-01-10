@@ -1,0 +1,52 @@
+{
+	"name": "RADLINK MEDICARE",
+	"tel": "67857515",
+	"fax": "67855928",
+	"licensee": "RADLINK MEDICARE (TAMPINES-TELEPARK)",
+	"licensePeriod": "21/09/2014 to 20/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405709",
+	"address": "5 TAMPINES CENTRAL 6, TELEPARK, #01-13 Singapore 529482",
+	"doctorInCharge": [
+		{
+			"name": "Lee Yizhi",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405709",
+	"coordinates": [
+		103.9420278,
+		1.3534413
+	],
+	"svy21": [
+		40098.11,
+		37282.45
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

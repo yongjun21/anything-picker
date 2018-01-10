@@ -1,0 +1,40 @@
+{
+	"name": "SYDNEY DENTAL CLINIC",
+	"tel": "67547664",
+	"licensee": "MOK CHUANG LONG",
+	"licensePeriod": "26/09/2013 to 25/09/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405264",
+	"address": "BLK 415 YISHUN AVENUE 11, #01-313 Singapore 760415",
+	"doctorInCharge": [
+		{
+			"name": "MOK CHUANG LONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9405264",
+	"coordinates": [
+		103.8458701,
+		1.4244426
+	],
+	"svy21": [
+		29396.8,
+		45133.15
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"name": "PASIR RIS CLINIC & SURGERY PTE LTD",
+	"tel": "65820502",
+	"fax": "65852686",
+	"licensee": "PASIR RIS CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "08/04/2016 to 07/04/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9405536",
+	"address": "BLK 442 PASIR RIS DR 6, #01-28 Singapore 510442",
+	"doctorInCharge": [
+		{
+			"name": "LIM GEOK BIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983",
+				"MCGP (Family Med) (College of General Practitioners, Malaysia) 1990",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 1992",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2000",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9405536",
+	"coordinates": [
+		103.9579517,
+		1.3689329
+	],
+	"svy21": [
+		41870.18,
+		38995.52
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

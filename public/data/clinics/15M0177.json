@@ -1,0 +1,60 @@
+{
+	"name": "CRAWFURD MEDICAL",
+	"tel": "68049580",
+	"fax": "65288783",
+	"licensee": "CRAWFURD MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "09/06/2017 to 08/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0177",
+	"address": "3 TEMASEK BOULEVARD, SUNTEC CITY MALL, #02-482 Singapore 038983",
+	"doctorInCharge": [
+		{
+			"name": "Peter Chen Dazhi",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true,
+		"Specialist Medical": [
+			"Cardiology",
+			"General Surgery"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15M0177",
+	"coordinates": [
+		103.8590144,
+		1.2959319
+	],
+	"svy21": [
+		30859.72,
+		30923.1
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

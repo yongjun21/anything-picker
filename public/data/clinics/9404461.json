@@ -1,0 +1,41 @@
+{
+	"name": "HEALTHWAY DENTAL CLINIC",
+	"tel": "62592341",
+	"fax": "62591139",
+	"licensee": "Universal Dentalcare Pte Ltd",
+	"licensePeriod": "13/06/2017 to 12/06/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404461",
+	"address": "BLK 190 LORONG 6 TOA PAYOH, #02-512 Singapore 310190",
+	"doctorInCharge": [
+		{
+			"name": "Lee Hock Leong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9404461",
+	"coordinates": [
+		103.848705,
+		1.3329791
+	],
+	"svy21": [
+		29712.34,
+		35019.58
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

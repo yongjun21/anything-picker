@@ -1,0 +1,55 @@
+{
+	"name": "NEI NEUROLOGY CLINIC PTE LTD",
+	"tel": "65358833",
+	"fax": "67347844",
+	"licensee": "NEI NEUROLOGY CLINIC PTE LTD",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401154",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #11-04 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "NEI I-PING",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1970",
+				"MRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1973",
+				"FAMS (Neurology) (Academy of Medicine, Singapore) 1976",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1977"
+			],
+			"specialties": [
+				"Neurology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Neurology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 pm to 01:00 pm"
+	},
+	"id": "9401154",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

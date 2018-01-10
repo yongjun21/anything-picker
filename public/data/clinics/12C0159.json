@@ -1,0 +1,56 @@
+{
+	"name": "MISSION (BUKIT BATOK) MEDICAL CLINIC",
+	"tel": "65150760",
+	"fax": "65150761",
+	"licensee": "LEE OH CHONG LENG",
+	"licensePeriod": "03/08/2016 to 02/08/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0159",
+	"address": "BLK 395A Bukit Batok West Ave 5, #03-02 Singapore 651395",
+	"doctorInCharge": [
+		{
+			"name": "LEE OH CHONG LENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 07:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 07:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 07:00 pm to 09:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 07:00 pm to 09:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "12C0159",
+	"coordinates": [
+		103.7519871,
+		1.3644897
+	],
+	"svy21": [
+		18948.77,
+		38504.01
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

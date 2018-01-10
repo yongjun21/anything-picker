@@ -1,0 +1,53 @@
+{
+	"name": "TOOFDOCTOR DENTAL SURGEONS SUNTEC",
+	"tel": "63380090",
+	"fax": "63386166",
+	"licensee": "TOOFDOCTOR (ADELPHI) PTE. LTD.",
+	"licensePeriod": "20/08/2017 to 19/08/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9404962",
+	"address": "3 TEMASEK BOULEVARD, SUNTEC CITY MALL, #02-326/327 Singapore 038983",
+	"doctorInCharge": [
+		{
+			"name": "TOH WEI HON",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "10:00 am to 09:00 pm",
+		"Tuesday": "10:00 am to 09:00 pm",
+		"Wednesday": "10:00 am to 09:00 pm",
+		"Thursday": "10:00 am to 09:00 pm",
+		"Friday": "10:00 am to 09:00 pm",
+		"Saturday": "10:00 am to 06:00 pm",
+		"Sunday": "10:00 am to 06:00 pm"
+	},
+	"id": "9404962",
+	"coordinates": [
+		103.8590144,
+		1.2959319
+	],
+	"svy21": [
+		30859.72,
+		30923.1
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

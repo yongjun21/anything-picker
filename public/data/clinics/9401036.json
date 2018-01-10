@@ -1,0 +1,52 @@
+{
+	"name": "MAKE-WELL FAMILY CLINIC & SURGERY",
+	"tel": "62534235",
+	"fax": "63545461",
+	"licensee": "See Shean Yaw",
+	"licensePeriod": "06/03/2016 to 05/03/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401036",
+	"address": "BLK 70 LORONG 4 TOA PAYOH, #01-351 Singapore 310070",
+	"doctorInCharge": [
+		{
+			"name": "See Shean Yaw",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401036",
+	"coordinates": [
+		103.8523333,
+		1.3344487
+	],
+	"svy21": [
+		30116.14,
+		35182.09
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

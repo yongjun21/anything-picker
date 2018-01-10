@@ -1,0 +1,52 @@
+{
+	"name": "SMILEPOINT DENTAL CENTRE",
+	"tel": "64751028",
+	"fax": "62788271",
+	"licensee": "SMILEPOINT DENTAL CENTRE PTE. LTD.",
+	"licensePeriod": "04/02/2016 to 03/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0023",
+	"address": "BLK 43 JALAN MERAH SAGA, #01-64 Singapore 278115",
+	"doctorInCharge": [
+		{
+			"name": "AUDREY NG KUEN SIEW",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1999",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "09:00 am to 05:00 pm"
+	},
+	"id": "14D0023",
+	"coordinates": [
+		103.7964308,
+		1.3107469
+	],
+	"svy21": [
+		23894.74,
+		32561.29
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

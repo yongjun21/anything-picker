@@ -1,0 +1,45 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67834879",
+	"fax": "67834879",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "10/02/2014 to 09/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405480",
+	"address": "2 TAMPINES STREET 91, JUNYUAN PRIMARY SCHOOL, Singapore 528906",
+	"doctorInCharge": [
+		{
+			"name": "Noeline Tan",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9405480",
+	"coordinates": [
+		103.9392205,
+		1.3478705
+	],
+	"svy21": [
+		39785.72,
+		36666.45
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

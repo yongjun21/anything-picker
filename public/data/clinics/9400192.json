@@ -1,0 +1,54 @@
+{
+	"name": "CHAN K H CLINIC FOR WOMEN",
+	"tel": "64743228",
+	"fax": "64743237",
+	"licensee": "CHAN KONG HON",
+	"licensePeriod": "02/01/2016 to 01/01/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9400192",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #03-14/15 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "CHAN KONG HON",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1986",
+				"M Med (O&G) (National University of Singapore, Singapore) 1986",
+				"FAMS (Academy of Medicine, Singapore) 1989"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm"
+	},
+	"id": "9400192",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

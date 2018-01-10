@@ -46,11 +46,8 @@ import {mapState, mapGetters} from 'vuex'
 import sortBy from 'lodash/sortBy'
 import {toSVY21} from 'sg-heatmap/dist/helpers/geometry'
 
-import CardForPrimary from './CardForPrimary'
-import CardForPreschool from './CardForPreschool'
-import SearchBox from '../FilterView/TabsForPrimary/SearchBox'
-
-const ListCard = process.env.VERSION === 'preschool' ? CardForPreschool : CardForPrimary
+import ListCard from './ListCard'
+import SearchBox from '../FilterView/SearchBox'
 
 export default {
   name: 'ListView',
@@ -71,20 +68,18 @@ export default {
     }
   },
   computed: {
-    ...mapState(['schoolList', 'travelTime', 'bookmarked', 'location']),
-    ...mapState({
-      homeSchoolDistance: state => state.homeSchoolDistance}
-    ),
+    ...mapState(['clinicList', 'travelTime', 'bookmarked', 'location']),
     ...mapGetters(['filtered', 'suggested']),
     renderedCards () {
       const cards = this.$route.path === '/bookmark'
         ? this.bookmarked : [...this.filtered, ...this.suggested]
-      let filtered = this.schoolList
+      let filtered = this.clinicList
         .filter(school => cards.indexOf(school.id) > -1)
 
       if (this.location) {
         const location = toSVY21(this.location)
         filtered = filtered.map(school => {
+          if (school.svy21 == null) return false
           const distance = Math.sqrt(
             Math.pow(location[0] - school.svy21[0], 2) +
             Math.pow(location[1] - school.svy21[1], 2)

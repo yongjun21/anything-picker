@@ -1,0 +1,49 @@
+{
+	"name": "NCS MEDICAL CLINIC",
+	"tel": "65704000",
+	"fax": "65567000",
+	"licensee": "SINGAPORE TELECOMMUNICATIONS LIMITED",
+	"licensePeriod": "11/03/2016 to 10/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0048",
+	"address": "5 ANG MO KIO STREET 62, BLK A, NCS HUB, #01-10 Singapore 569141",
+	"doctorInCharge": [
+		{
+			"name": "Mark Nicholson",
+			"qualifications": [
+				"MB BCh BAO (National University of Ireland, Ireland) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "14M0048",
+	"coordinates": [
+		103.8440381,
+		1.3878913
+	],
+	"svy21": [
+		29192.94,
+		41091.49
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

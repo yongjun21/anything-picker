@@ -1,0 +1,57 @@
+{
+	"name": "FAITH CLINIC (TOA PAYOH)",
+	"tel": "62527896",
+	"fax": "62527896",
+	"licensee": "NG TSORNG CHINN",
+	"licensePeriod": "07/05/2014 to 06/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402270",
+	"address": "BLK 211 TOA PAYOH LOR 8, #01-19 Singapore 310211",
+	"doctorInCharge": [
+		{
+			"name": "NG TSORNG CHINN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "09:00 am to 12:30 pm",
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9402270",
+	"coordinates": [
+		103.8537689,
+		1.3404218
+	],
+	"svy21": [
+		30275.9,
+		35842.56
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

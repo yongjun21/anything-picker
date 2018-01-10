@@ -1,0 +1,54 @@
+{
+	"name": "HL FAMILY CLINIC & SURGERY PTE LTD",
+	"tel": "62785966",
+	"fax": "62785966",
+	"licensee": "HL FAMILY CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "14/04/2016 to 13/04/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9405544",
+	"address": "BLK 111 JALAN BUKIT MERAH, #01-1704 Singapore 160111",
+	"doctorInCharge": [
+		{
+			"name": "ONG EU JIN ROY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 10:30 am, 06:00 pm to 07:30 pm",
+		"Tuesday": "08:30 am to 10:30 am, 06:00 pm to 07:30 pm",
+		"Wednesday": "08:30 am to 10:30 am, 06:00 pm to 07:30 pm",
+		"Thursday": "08:30 am to 10:30 am, 06:00 pm to 07:30 pm",
+		"Friday": "08:30 am to 10:30 am, 06:00 pm to 07:30 pm",
+		"Saturday": "08:30 am to 10:30 am",
+		"Sunday": "Closed"
+	},
+	"id": "9405544",
+	"coordinates": [
+		103.8261859,
+		1.2803211
+	],
+	"svy21": [
+		27206.19,
+		29196.93
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

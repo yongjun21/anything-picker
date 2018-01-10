@@ -1,0 +1,50 @@
+{
+	"name": "SIMPLY DENTAL",
+	"tel": "62500129",
+	"fax": "00000000",
+	"licensee": "SIMPLY DENTAL PTE. LTD.",
+	"licensePeriod": "18/05/2017 to 17/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0151",
+	"address": "BLK 212 LORONG 8 TOA PAYOH, #01-35 Singapore 310212",
+	"doctorInCharge": [
+		{
+			"name": "Tan Woei Shin Jane",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2002",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 09:30 pm",
+		"Wednesday": "09:00 am to 09:30 pm",
+		"Thursday": "09:00 am to 09:30 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "15D0151",
+	"coordinates": [
+		103.8543345,
+		1.3406429
+	],
+	"svy21": [
+		30338.85,
+		35867.01
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

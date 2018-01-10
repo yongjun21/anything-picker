@@ -1,0 +1,50 @@
+{
+	"name": "TSOI CLINIC",
+	"tel": "90626255",
+	"fax": "67345191",
+	"licensee": "TSOI WING  FOO",
+	"licensePeriod": "01/11/2014 to 31/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402776",
+	"address": "19 TANGLIN ROAD, TANGLIN SHOPPING CENTRE, #06-02 Singapore 247909",
+	"doctorInCharge": [
+		{
+			"name": "TSOI WING  FOO",
+			"qualifications": [
+				"MBBS (University of Malaya, Singapore) 1959",
+				"DPM (Psych) (Royal College of Psychiatrists, United Kingdom) 1965",
+				"MRCP (Int Med) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1965",
+				"FAMS (Psych) (Academy of Medicine, Singapore) 1973",
+				"MRC Psych (Royal College of Psychiatrists, United Kingdom) 1973",
+				"FRCP (Int Med) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1976",
+				"MRANZCP (Psych) (Royal Australian and New Zealand College of Psychiatrists, Australia) 1977",
+				"MD (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Psychiatry"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Psychiatry"
+		]
+	},
+	"id": "9402776",
+	"coordinates": [
+		103.8270506,
+		1.3064027
+	],
+	"svy21": [
+		27302.43,
+		32080.89
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"name": "NOVENA MEDICAL CENTER FAMILY CLINIC",
+	"tel": "63977318",
+	"fax": "64420188",
+	"licensee": "NOVENA MEDICAL CENTER FAMILY CLINIC (PTE.) LTD.",
+	"licensePeriod": "15/04/2016 to 14/04/2018",
+	"licenseClass": "[ 2 Years ( 1B ) ]",
+	"hciCode": "11C0043",
+	"address": "10 SINARAN DRIVE, SQUARE 2, #11-19 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Ong Chong Sen",
+			"qualifications": [
+				"MBBS (University of Western Australia, Australia) 1980",
+				"DCH (Royal College of Physicians of London, United Kingdom) 1987",
+				"MRCP (Paed) (Royal College of Physicians, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "10:00 am to 03:00 pm",
+		"Tuesday": "10:00 am to 03:00 pm",
+		"Wednesday": "10:00 am to 03:00 pm",
+		"Thursday": "10:00 am to 03:00 pm",
+		"Friday": "10:00 am to 03:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "11C0043",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

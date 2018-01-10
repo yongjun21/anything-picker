@@ -1,0 +1,50 @@
+{
+	"name": "TANGLIN DENTAL SURGEONS",
+	"tel": "67332322",
+	"fax": "64688001",
+	"licensee": "LEW KOK KEONG KENNETH",
+	"licensePeriod": "04/02/2014 to 03/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403774",
+	"address": "19 TANGLIN ROAD, TANGLIN SHOPPING CENTRE, #06-22 Singapore 247909",
+	"doctorInCharge": [
+		{
+			"name": "LEW KOK KEONG KENNETH",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1982",
+				"MDS (Orthodontics) (Adelaide) (University of Adelaide, Australia) 1987",
+				"FAMS (Orthodontics) (Academy of Medicine, Singapore, Singapore) 1991",
+				"FDS RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 1992"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Periodontology"
+		]
+	},
+	"id": "9403774",
+	"coordinates": [
+		103.8270506,
+		1.3064027
+	],
+	"svy21": [
+		27302.43,
+		32080.89
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

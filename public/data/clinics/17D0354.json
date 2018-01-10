@@ -1,0 +1,42 @@
+{
+	"name": "DENTAL FOCUS CHINATOWN CLINIC",
+	"tel": "65382741",
+	"fax": "64449846",
+	"licensee": "DENTAL FOCUS (CHINATOWN) PTE. LTD.",
+	"licensePeriod": "09/11/2017 to 08/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17D0354",
+	"address": "133 NEW BRIDGE ROAD, CHINATOWN POINT, #03-17 Singapore 059413",
+	"doctorInCharge": [
+		{
+			"name": "SEOW KOK SIAM JOSEPH",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "17D0354",
+	"coordinates": [
+		103.8446971,
+		1.2849988
+	],
+	"svy21": [
+		29266.33,
+		29714.16
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "SJ CLINIC & SURGERY",
+	"tel": "67590310",
+	"fax": "68849373",
+	"licensee": "SJ CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "07/05/2017 to 06/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0131",
+	"address": "BLK 846 YISHUN RING ROAD, YISHUN NEW TOWN, #01-3619 Singapore 760846",
+	"doctorInCharge": [
+		{
+			"name": "Goh Yong Chiang Kelvin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm"
+	},
+	"id": "15M0131",
+	"coordinates": [
+		103.8346416,
+		1.4167863
+	],
+	"svy21": [
+		28147.23,
+		44286.55
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

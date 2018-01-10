@@ -1,0 +1,53 @@
+{
+	"name": "Q & M DENTAL SURGERY (YISHUN CENTRAL) PTE LTD",
+	"tel": "68516789",
+	"fax": "68517061",
+	"licensee": "Q & M DENTAL SURGERY (YISHUN CENTRAL) PTE. LTD.",
+	"licensePeriod": "24/02/2017 to 23/02/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403025",
+	"address": "BLK 743 YISHUN AVENUE 5, #01-540 Singapore 760743",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng Raymond",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9403025",
+	"coordinates": [
+		103.833671,
+		1.4298998
+	],
+	"svy21": [
+		28039.22,
+		45736.58
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

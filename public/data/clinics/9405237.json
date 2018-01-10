@@ -1,0 +1,49 @@
+{
+	"name": "ACUMED MEDICAL GROUP",
+	"tel": "63627789",
+	"fax": "63687077",
+	"licensee": "ACUMED MEDICAL PTE. LTD.",
+	"licensePeriod": "15/07/2015 to 14/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405237",
+	"address": "BLK 303 WOODLANDS ST 31, #01-185 Singapore 730303",
+	"doctorInCharge": [
+		{
+			"name": "Kiu Oi Nah Juliana",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:00 am to 12:00 pm",
+		"Public Holiday": "09:00 am to 12:00 pm"
+	},
+	"id": "9405237",
+	"coordinates": [
+		103.7740111,
+		1.4307996
+	],
+	"svy21": [
+		21399.96,
+		45836.15
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

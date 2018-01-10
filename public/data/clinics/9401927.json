@@ -1,0 +1,53 @@
+{
+	"name": "YAP FAMILY CLINIC",
+	"tel": "63626012",
+	"fax": "63626012",
+	"licensee": "YAP CHEE KONG",
+	"licensePeriod": "24/10/2013 to 23/10/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401927",
+	"address": "BLK 132 MARSILING RISE, #01-230 Singapore 730132",
+	"doctorInCharge": [
+		{
+			"name": "YAP CHEE KONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 04:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401927",
+	"coordinates": [
+		103.7780258,
+		1.4382819
+	],
+	"svy21": [
+		21846.76,
+		46663.5
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "UNITY DENTICARE",
+	"tel": "65904398",
+	"fax": "65904385",
+	"licensee": "NTUC Health Co-operative Ltd",
+	"licensePeriod": "26/08/2016 to 25/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14C0257",
+	"address": "11 RIVERVALE CRESCENT, RIVERVALE MALL, #02-16 Singapore 545082",
+	"doctorInCharge": [
+		{
+			"name": "CHUE SHEN MIN EDMUND",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 04:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "14C0257",
+	"coordinates": [
+		103.9044837,
+		1.3925041
+	],
+	"svy21": [
+		35919.74,
+		41601.66
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

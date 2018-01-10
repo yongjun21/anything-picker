@@ -1,0 +1,52 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "63396911",
+	"fax": "63346311",
+	"licensee": "Raffles Medical Group Ltd",
+	"licensePeriod": "15/08/2017 to 14/08/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404001",
+	"address": "252 North Bridge Road, Raffles City Shopping Centre, #02-17 Singapore 179103",
+	"doctorInCharge": [
+		{
+			"name": "CHOW YUIT MEI DIANA CLAIRE",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "07:30 am to 05:30 pm",
+		"Tuesday": "07:30 am to 05:30 pm",
+		"Wednesday": "07:30 am to 05:30 pm",
+		"Thursday": "07:30 am to 05:30 pm",
+		"Friday": "07:30 am to 05:30 pm",
+		"Saturday": "07:30 am to 01:00 pm"
+	},
+	"id": "9404001",
+	"coordinates": [
+		103.8533318,
+		1.2940764
+	],
+	"svy21": [
+		30227.3,
+		30717.93
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

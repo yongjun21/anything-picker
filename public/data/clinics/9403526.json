@@ -1,0 +1,55 @@
+{
+	"name": "GEYLANG BAHRU CLINIC",
+	"tel": "67480316",
+	"fax": "67480316",
+	"licensee": "LIAO KIAN HUAT",
+	"licensePeriod": "21/06/2014 to 20/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403526",
+	"address": "BLK 16 UPPER BOON KENG RD, #01-1093 Singapore 380016",
+	"doctorInCharge": [
+		{
+			"name": "LIAO KIAN HUAT",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1993",
+				"MCGP (Family Med) (College of General Practitioners, Singapore) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "06:30 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9403526",
+	"coordinates": [
+		103.8716516,
+		1.3154318
+	],
+	"svy21": [
+		32266.09,
+		33079.31
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

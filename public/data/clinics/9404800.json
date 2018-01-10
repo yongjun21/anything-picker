@@ -1,0 +1,53 @@
+{
+	"name": "EYE CLINIC SINGAPORE INTERNATIONAL (AMK)",
+	"tel": "64576166",
+	"fax": "64560990",
+	"licensee": "Eye Clinic Singapore International Pte. Ltd.",
+	"licensePeriod": "27/03/2014 to 26/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404800",
+	"address": "BLK 721 ANG MO KIO AVENUE 8, #01-2811 Singapore 560721",
+	"doctorInCharge": [
+		{
+			"name": "Law Ngai Mun",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983",
+				"FRCS (Ophth) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1988",
+				"FRCOphth (Royal College of Ophthalmologists, United Kingdom) 1989",
+				"FAMS (Ophth) (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "11:30 am to 01:00 pm",
+		"Friday": "11:30 am to 01:00 pm",
+		"Wednesday": "02:00 pm to 04:00 pm"
+	},
+	"id": "9404800",
+	"coordinates": [
+		103.8478995,
+		1.3723498
+	],
+	"svy21": [
+		29622.68,
+		39372.99
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

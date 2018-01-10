@@ -1,0 +1,51 @@
+{
+	"name": "ALAXIS MEDICAL & AESTHETIC SURGERY",
+	"tel": "62350880",
+	"fax": "62350056",
+	"licensee": "ALAXIS MEDICARE PRIVATE LIMITED",
+	"licensePeriod": "14/06/2017 to 13/06/2018",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"hciCode": "9404462",
+	"address": "360 ORCHARD ROAD, INTERNATIONAL BUILDING, #04-05 Singapore 238869",
+	"doctorInCharge": [
+		{
+			"name": "Donald  Ng Tiong Leng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2006"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Liposuction"
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 04:00 pm, 06:00 pm to 07:30 pm",
+		"Tuesday": "09:30 am to 04:00 pm, 06:00 pm to 07:30 pm",
+		"Wednesday": "09:30 am to 04:00 pm, 06:00 pm to 07:30 pm",
+		"Thursday": "09:30 am to 04:00 pm, 06:00 pm to 07:30 pm",
+		"Friday": "09:30 am to 04:00 pm, 06:00 pm to 07:30 pm",
+		"Saturday": "09:30 am to 04:00 pm, 06:00 pm to 07:30 pm"
+	},
+	"id": "9404462",
+	"coordinates": [
+		103.8310033,
+		1.3060752
+	],
+	"svy21": [
+		27742.33,
+		32044.67
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"name": "ORIENT DENTAL CLINIC",
+	"tel": "65636800",
+	"fax": "64255801",
+	"licensee": "ORIENT DENTAL PTE. LTD.",
+	"licensePeriod": "02/12/2015 to 01/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13D0339",
+	"address": "BLK 345 JURONG EAST STREET 31, #01-13 Singapore 600345",
+	"doctorInCharge": [
+		{
+			"name": "Liu Hern Wei Jonathan",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 08:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "02:00 pm to 08:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13D0339",
+	"coordinates": [
+		103.7312191,
+		1.3455121
+	],
+	"svy21": [
+		16637.45,
+		36405.65
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

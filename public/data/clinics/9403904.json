@@ -1,0 +1,49 @@
+{
+	"name": "DAVID LOH SURGERY",
+	"tel": "67335300",
+	"fax": "67334377",
+	"licensee": "Loh Kwok Thye",
+	"licensePeriod": "15/03/2017 to 14/03/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9403904",
+	"address": "501 Orchard Road, Wheelock Place, #05-16 Singapore 238880",
+	"doctorInCharge": [
+		{
+			"name": "Loh Kwok Thye",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Liposuction"
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "11:00 am to 07:00 pm",
+		"Tuesday": "11:00 am to 07:00 pm",
+		"Wednesday": "11:00 am to 07:00 pm",
+		"Thursday": "11:00 am to 07:00 pm",
+		"Friday": "11:00 am to 07:00 pm"
+	},
+	"id": "9403904",
+	"coordinates": [
+		103.830642,
+		1.3046763
+	],
+	"svy21": [
+		27702.12,
+		31889.99
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

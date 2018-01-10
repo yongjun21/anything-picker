@@ -1,0 +1,42 @@
+{
+	"name": "AESTHETIC & MEDICAL CLINIC (DR JOSEPH YANG@ORCHARD)",
+	"tel": "67337073",
+	"fax": "67333170",
+	"licensee": "YANG AND YANG CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "04/11/2015 to 03/11/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0194",
+	"address": "435 ORCHARD ROAD, WISMA ATRIA, #17-04/05 Singapore 238877",
+	"doctorInCharge": [
+		{
+			"name": "Yang Ing Hong",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978",
+				"Dip Derm Sc (University of Wales, United Kingdom) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "11C0194",
+	"coordinates": [
+		103.8332058,
+		1.3037048
+	],
+	"svy21": [
+		27987.44,
+		31782.57
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

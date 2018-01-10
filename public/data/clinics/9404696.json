@@ -1,0 +1,52 @@
+{
+	"name": "GREENLIFE CLINIC & SURGERY",
+	"tel": "67606087",
+	"fax": "67606087",
+	"licensee": "GREENLIFE CLINIC & SURGERY PTE LTD",
+	"licensePeriod": "24/01/2017 to 23/01/2018",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"hciCode": "9404696",
+	"address": "BLK 624 CHOA CHU KANG STREET 62, YEW TEE SHOPPING CENTRE, #01-230 Singapore 680624",
+	"doctorInCharge": [
+		{
+			"name": "LOO CHOO WOON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Tuesday": "08:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Wednesday": "08:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Thursday": "08:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Friday": "08:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:00 pm to 08:30 pm",
+		"Saturday": "08:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 02:00 pm to 04:00 pm"
+	},
+	"id": "9404696",
+	"coordinates": [
+		103.7470848,
+		1.3980474
+	],
+	"svy21": [
+		18403.33,
+		42214.67
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

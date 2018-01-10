@@ -1,0 +1,55 @@
+{
+	"name": "ISLAND FAMILY CLINIC (KEAT HONG)",
+	"tel": "68910847",
+	"fax": "64620833",
+	"licensee": "IFC KEAT HONG PTE LTD",
+	"licensePeriod": "15/09/2016 to 14/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0275",
+	"address": "BLK 803 KEAT HONG CLOSE, #01-04 Singapore 680803",
+	"doctorInCharge": [
+		{
+			"name": "Tan Wee Chuan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Sunday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm"
+	},
+	"id": "16M0275",
+	"coordinates": [
+		103.7427596,
+		1.3741553
+	],
+	"svy21": [
+		17921.9,
+		39572.82
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

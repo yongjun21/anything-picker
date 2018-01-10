@@ -1,0 +1,53 @@
+{
+	"name": "W P SIM FAMILY CLINIC & SURGERY",
+	"tel": "62889924",
+	"fax": "62824332",
+	"licensee": "SIM WEE PENG",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401850",
+	"address": "BLK 153 SERANGOON NORTH AVE 1, #01-548 Singapore 550153",
+	"doctorInCharge": [
+		{
+			"name": "SIM WEE PENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:30 pm to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:30 pm to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:30 pm to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:30 pm to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:30 pm to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9401850",
+	"coordinates": [
+		103.8723123,
+		1.369951
+	],
+	"svy21": [
+		32339.53,
+		39107.77
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

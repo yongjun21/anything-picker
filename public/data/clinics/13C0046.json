@@ -1,0 +1,44 @@
+{
+	"name": "B9 DENTAL CENTRE",
+	"tel": "67778988",
+	"fax": "67778982",
+	"licensee": "R&C DENTAL PTE. LTD.",
+	"licensePeriod": "18/11/2017 to 17/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13C0046",
+	"address": "BLK 449 CLEMENTI AVENUE 3, #01-261/263 Singapore 120449",
+	"doctorInCharge": [
+		{
+			"name": "LIM YOW LONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"id": "13C0046",
+	"coordinates": [
+		103.76481,
+		1.3136157
+	],
+	"svy21": [
+		20375.65,
+		32878.57
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

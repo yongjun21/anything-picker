@@ -1,0 +1,52 @@
+{
+	"name": "SURGERY 'A' PTE LTD",
+	"tel": "67380518",
+	"licensee": "ABU RAUFF",
+	"licensePeriod": "18/07/2014 to 17/07/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403649",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #12-12 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "ABU RAUFF",
+			"qualifications": [
+				"MBBS (University of Calcutta, India) 1962",
+				"FRCS (Gen Surg) (Royal College of Surgeons of England, United Kingdom) 1968",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 1988",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1993"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9403649",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

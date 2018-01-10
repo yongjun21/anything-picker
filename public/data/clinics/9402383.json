@@ -1,0 +1,55 @@
+{
+	"name": "DR LIM LEAN HUAT & ASSOCIATES PTE LTD",
+	"tel": "63238611",
+	"fax": "63238011",
+	"licensee": "DR LIM LEAN HUAT & ASSOCIATES PTE LTD",
+	"licensePeriod": "20/05/2017 to 19/05/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402383",
+	"address": "6 SHENTON WAY, TOWER ONE, #40-03 Singapore 068809",
+	"doctorInCharge": [
+		{
+			"name": "LIM LEAN HUAT",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1966",
+				"MCGP (Family Med) (College of General Practitioners, Singapore) 1974",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 03:00 pm to 06:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 03:00 pm to 06:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 03:00 pm to 06:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 03:00 pm to 06:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 03:00 pm to 06:00 pm",
+		"Saturday": "08:30 am to 01:00 pm, 03:00 pm to 06:00 pm"
+	},
+	"id": "9402383",
+	"coordinates": [
+		103.8484086,
+		1.2769807
+	],
+	"svy21": [
+		29679.4,
+		28827.56
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

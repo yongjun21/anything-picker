@@ -1,0 +1,55 @@
+{
+	"name": "PINNACLE FAMILY CLINIC (RIVER VALLEY)",
+	"tel": "68366986",
+	"fax": "68365969",
+	"licensee": "PINNACLE MEDICAL GROUP PRIVATE LIMITED",
+	"licensePeriod": "19/11/2017 to 18/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13M0317",
+	"address": "240 RIVER VALLEY ROAD, Singapore 238297",
+	"doctorInCharge": [
+		{
+			"name": "MOK BOON RUI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 06:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 06:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 06:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 06:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 06:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "13M0317",
+	"coordinates": [
+		103.8423995,
+		1.2942057
+	],
+	"svy21": [
+		29010.63,
+		30732.21
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

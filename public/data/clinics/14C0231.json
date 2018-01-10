@@ -1,0 +1,48 @@
+{
+	"name": "UNITY DENTICARE",
+	"tel": "63366222",
+	"fax": "62508681",
+	"licensee": "NTUC Health Co-operative Ltd",
+	"licensePeriod": "09/09/2017 to 08/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14C0231",
+	"address": "BLK 510 BISHAN STREET 13, #01-08 Singapore 570510",
+	"doctorInCharge": [
+		{
+			"name": "Lee Sin Chieh",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "14C0231",
+	"coordinates": [
+		103.849692,
+		1.3488884
+	],
+	"svy21": [
+		29822.18,
+		36778.75
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

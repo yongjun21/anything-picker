@@ -1,0 +1,51 @@
+{
+	"name": "PEACE FAMILY CLINIC",
+	"tel": "62690466",
+	"fax": "63656597",
+	"licensee": "OW DAVID",
+	"licensePeriod": "31/10/2014 to 30/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402390",
+	"address": "BLK 371 WOODLANDS AVE 1, #01-821 Singapore 730371",
+	"doctorInCharge": [
+		{
+			"name": "OW DAVID",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 am to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 am to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Friday": "09:00 am to 11:00 am",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "06:30 pm to 09:00 pm"
+	},
+	"id": "9402390",
+	"coordinates": [
+		103.7867144,
+		1.4322823
+	],
+	"svy21": [
+		22813.66,
+		46000.06
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

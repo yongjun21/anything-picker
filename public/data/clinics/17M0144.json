@@ -1,0 +1,51 @@
+{
+	"name": "HC ENDOSCOPY & PILES CENTRE (HILLFORD)",
+	"tel": "64634506",
+	"fax": "64634153",
+	"licensee": "HC ENDOSCOPY & PILES CENTRE (HILLFORD)",
+	"licensePeriod": "18/05/2017 to 17/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0144",
+	"address": "182 JALAN JURONG KECHIL, THE HILLFORD, #01-66 Singapore 596152",
+	"doctorInCharge": [
+		{
+			"name": "Heah Sieu Min",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1990",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1994",
+				"FAMS (Academy of Medicine, Singapore) 2000"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"id": "17M0144",
+	"coordinates": [
+		103.7695439,
+		1.3440434
+	],
+	"svy21": [
+		20902.58,
+		36243.1
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

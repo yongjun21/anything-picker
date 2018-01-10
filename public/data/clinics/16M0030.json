@@ -1,0 +1,43 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "68488018",
+	"fax": "67478474",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "01/02/2016 to 31/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0030",
+	"address": "10 EUNOS ROAD 8, SINGAPORE POST CENTRE, #05-02 Singapore 408600",
+	"doctorInCharge": [
+		{
+			"name": "Lee Yah Leng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "16M0030",
+	"coordinates": [
+		103.8948949,
+		1.3189967
+	],
+	"svy21": [
+		34852.84,
+		33473.55
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

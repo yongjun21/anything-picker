@@ -1,0 +1,53 @@
+{
+	"name": "ACUMED MEDICAL GROUP",
+	"tel": "65159919",
+	"fax": "65159909",
+	"licensee": "ACUMED MEDICAL PTE. LTD.",
+	"licensePeriod": "15/07/2015 to 14/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405241",
+	"address": "301 BOON LAY WAY, BOON LAY MRT STATION, #01-18/19 Singapore 649846",
+	"doctorInCharge": [
+		{
+			"name": "Gamit Vikram Kumar",
+			"qualifications": [
+				"MBBS (University of Delhi, India) 2007"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 01:30 pm to 06:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 01:30 pm to 06:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 01:30 pm to 06:00 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 01:30 pm to 06:00 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 01:30 pm to 06:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Public Holiday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9405241",
+	"coordinates": [
+		103.7060646,
+		1.3386041
+	],
+	"svy21": [
+		13837.98,
+		35641.92
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

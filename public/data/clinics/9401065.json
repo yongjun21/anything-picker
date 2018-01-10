@@ -1,0 +1,43 @@
+{
+	"name": "MEDEN CLINIC & SURGERY",
+	"tel": "64741734",
+	"fax": "64741734",
+	"licensee": "FONG CHONG TOO",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401065",
+	"address": "BLK 59 LENGKOK BAHRU, #01-553 Singapore 150059",
+	"doctorInCharge": [
+		{
+			"name": "FONG CHONG TOO",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1975",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9401065",
+	"coordinates": [
+		103.8143521,
+		1.288798
+	],
+	"svy21": [
+		25889.19,
+		30134.26
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

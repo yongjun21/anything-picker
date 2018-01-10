@@ -1,0 +1,49 @@
+{
+	"name": "ALDA DENTAL SURGERY",
+	"tel": "64757113",
+	"fax": "67372349",
+	"licensee": "LOH EU-MIN EUGENE LESTER",
+	"licensePeriod": "05/01/2014 to 04/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402578",
+	"address": "BLK 48 TANGLIN HALT ROAD, #01-337 Singapore 142048",
+	"doctorInCharge": [
+		{
+			"name": "LOH EU-MIN EUGENE LESTER",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1989",
+				"MDSc (University of Sydney, Australia) 1994"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Thursday": "06:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9402578",
+	"coordinates": [
+		103.7976262,
+		1.300789
+	],
+	"svy21": [
+		24027.75,
+		31460.19
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

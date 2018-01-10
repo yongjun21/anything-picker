@@ -1,0 +1,56 @@
+{
+	"name": "MARY MEDICAL CLINIC & SURGERY",
+	"tel": "65624721",
+	"fax": "65624721",
+	"licensee": "Yao Wan Hwa, Mary",
+	"licensePeriod": "02/06/2016 to 01/06/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9403537",
+	"address": "BLK 252 Jurong East Street 24, #01-157 Singapore 600252",
+	"doctorInCharge": [
+		{
+			"name": "Yao Wan Hwa, Mary",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9403537",
+	"coordinates": [
+		103.7381453,
+		1.3430264
+	],
+	"svy21": [
+		17408.24,
+		36130.76
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

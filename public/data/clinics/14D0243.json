@@ -1,0 +1,55 @@
+{
+	"name": "FULLERTON DENTAL @ NTU",
+	"tel": "67908331",
+	"fax": "62357492",
+	"licensee": "FC DENTAL PTE. LTD.",
+	"licensePeriod": "15/08/2016 to 14/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0243",
+	"address": "36 NANYANG AVENUE, Nanyang Technological University, #01-01/02 Singapore 639801",
+	"doctorInCharge": [
+		{
+			"name": "NG FOOI CHIN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1984",
+				"MDS (National University of Singapore, Singapore) 1989",
+				"FDSRCS (England) (Royal College of Surgeons of England, United Kingdom) 1993"
+			],
+			"specialties": [
+				"Oral & Maxillo-Facial Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm"
+	},
+	"id": "14D0243",
+	"coordinates": [
+		103.6826688,
+		1.3453699
+	],
+	"svy21": [
+		11234.32,
+		36390.2
+	],
+	"planningArea": "WC",
+	"neighbours": [
+		"LK",
+		"PN",
+		"JW",
+		"SK",
+		"TH",
+		"CK",
+		"TS"
+	]
+}

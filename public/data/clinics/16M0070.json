@@ -1,0 +1,41 @@
+{
+	"name": "ARDMORE ORTHOPAEDIC CLINIC",
+	"tel": "64757177",
+	"fax": "64757277",
+	"licensee": "ARDMORE ORTHOPAEDICS PTE. LTD.",
+	"licensePeriod": "21/03/2016 to 20/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0070",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #15-10 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Sean Ng Yung Chuan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Orthopaedic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": true
+	},
+	"id": "16M0070",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

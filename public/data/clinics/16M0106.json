@@ -1,0 +1,54 @@
+{
+	"name": "HEALTHMARK FAMILY CLINIC (WATERWAY)",
+	"tel": "63849632",
+	"fax": "66367031",
+	"licensee": "UNITED VISION HOLDINGS PTE LTD",
+	"licensePeriod": "14/04/2016 to 13/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0106",
+	"address": "BLK 671 EDGEFIELD PLAINS, #02-04 Singapore 820671",
+	"doctorInCharge": [
+		{
+			"name": "Leong Kok Hean Derek",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 02:00 pm",
+		"Tuesday": "08:30 am to 02:00 pm",
+		"Wednesday": "08:30 am to 02:00 pm",
+		"Thursday": "07:00 pm to 09:30 pm",
+		"Friday": "07:00 pm to 09:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "16M0106",
+	"coordinates": [
+		103.9119913,
+		1.4056605
+	],
+	"svy21": [
+		36755.19,
+		43056.46
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

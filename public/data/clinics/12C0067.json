@@ -1,0 +1,48 @@
+{
+	"name": "ASIA KIDNEY DIALYSIS CENTRE (BEDOK) PTE LTD",
+	"tel": "64453998",
+	"fax": "64480166",
+	"licensee": "Tan Choon Hian",
+	"licensePeriod": "15/05/2016 to 14/05/2018",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
+	"hciCode": "12C0067",
+	"address": "BLK 531 BEDOK NORTH STREET 3, #01-702 Singapore 460531",
+	"doctorInCharge": [
+		{
+			"name": "Tan Choon Hian",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2002"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"id": "12C0067",
+	"coordinates": [
+		103.9261531,
+		1.3331299
+	],
+	"svy21": [
+		38331.52,
+		35036.44
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

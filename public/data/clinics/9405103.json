@@ -1,0 +1,58 @@
+{
+	"name": "NOVENA HEART CENTRE",
+	"tel": "63972004",
+	"fax": "63972051",
+	"licensee": "The Cardiovascular Institute Pte. Ltd.",
+	"licensePeriod": "17/02/2015 to 16/02/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405103",
+	"address": "10 SINARAN DRIVE, #09-05/06 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Ng Kwan Chung Kenneth",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1998",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology",
+			"Cardiothoracic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405103",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

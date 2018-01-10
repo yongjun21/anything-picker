@@ -1,0 +1,51 @@
+{
+	"name": "SO'S CLINIC",
+	"tel": "67559219",
+	"fax": "67559219",
+	"licensee": "DAVID SO WAI MING",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401529",
+	"address": "BLK 413 YISHUN RING ROAD, #01-1875 Singapore 760413",
+	"doctorInCharge": [
+		{
+			"name": "DAVID SO WAI MING",
+			"qualifications": [
+				"MBBS (University of Hong Kong, China, Hong Kong) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:30 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:30 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401529",
+	"coordinates": [
+		103.8464282,
+		1.4250107
+	],
+	"svy21": [
+		29458.91,
+		45195.97
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

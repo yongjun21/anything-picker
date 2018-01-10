@@ -1,0 +1,49 @@
+{
+	"name": "VISTA DENTAL SURGERY",
+	"tel": "63858360",
+	"fax": "63858360",
+	"licensee": "VISTA DENTAL SURGERY (HG) PTE. LTD.",
+	"licensePeriod": "10/02/2016 to 09/02/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9405481",
+	"address": "BLK 809 HOUGANG CENTRAL, #01-174 Singapore 530809",
+	"doctorInCharge": [
+		{
+			"name": "ONG HUANG LEONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405481",
+	"coordinates": [
+		103.8936682,
+		1.371196
+	],
+	"svy21": [
+		34716.18,
+		39245.49
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

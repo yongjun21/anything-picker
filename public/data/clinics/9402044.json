@@ -1,0 +1,50 @@
+{
+	"name": "818 FAMILY CLINIC AND SURGERY",
+	"tel": "63636903",
+	"fax": "63636903",
+	"licensee": "YEONG CHENG HONG",
+	"licensePeriod": "15/02/2015 to 14/02/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402044",
+	"address": "BLK 818 WOODLANDS ST 82, #01-421 Singapore 730818",
+	"doctorInCharge": [
+		{
+			"name": "YEONG CHENG HONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9402044",
+	"coordinates": [
+		103.78993,
+		1.441662
+	],
+	"svy21": [
+		23171.52,
+		47037.22
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

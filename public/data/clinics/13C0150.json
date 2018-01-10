@@ -1,0 +1,54 @@
+{
+	"name": "THOMSON WOMEN'S CLINIC",
+	"tel": "63335550",
+	"fax": "63823733",
+	"licensee": "THOMSON WOMEN'S CLINIC (SERANGOON CENTRAL) PTE. LTD.",
+	"licensePeriod": "21/06/2017 to 20/06/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0150",
+	"address": "BLK 254 SERANGOON CENTRAL DRIVE, #01-219 Singapore 550254",
+	"doctorInCharge": [
+		{
+			"name": "Tan Mei Lin Claudine",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "02:00 pm to 05:30 pm",
+		"Tuesday": "02:00 pm to 05:30 pm",
+		"Wednesday": "02:00 pm to 05:30 pm",
+		"Thursday": "09:30 am to 01:00 pm",
+		"Friday": "09:30 am to 01:00 pm",
+		"Saturday": "09:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0150",
+	"coordinates": [
+		103.8712169,
+		1.3540623
+	],
+	"svy21": [
+		32217.65,
+		37350.88
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

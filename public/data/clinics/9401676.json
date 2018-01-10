@@ -1,0 +1,46 @@
+{
+	"name": "THE CIVIC CLINIC",
+	"tel": "64412436",
+	"fax": "62453236",
+	"licensee": "OOI TEIK HUAT",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401676",
+	"address": "BLK 537 BEDOK NORTH ST 3, #01-515 Singapore 460537",
+	"doctorInCharge": [
+		{
+			"name": "OOI TEIK HUAT",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1971"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9401676",
+	"coordinates": [
+		103.9242365,
+		1.331773
+	],
+	"svy21": [
+		38118.22,
+		34886.4
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

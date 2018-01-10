@@ -1,0 +1,61 @@
+{
+	"name": "SMILE INC. DENTAL SURGEONS PTE. LTD.",
+	"tel": "96373246",
+	"fax": "67339884",
+	"licensee": "SMILE INC DENTAL SURGEONS PTE LTD",
+	"licensePeriod": "03/02/2016 to 02/02/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405471",
+	"address": "333A ORCHARD ROAD, MANDARIN GALLERY, #04-18 Singapore 238897",
+	"doctorInCharge": [
+		{
+			"name": "ERNEST REX TAN SEK HO",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1991",
+				"MSc (University of London, United Kingdom) 1994"
+			],
+			"specialties": [
+				"Prosthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Dental Public Health",
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Paediatric Dentistry",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 06:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405471",
+	"coordinates": [
+		103.836584,
+		1.3020047
+	],
+	"svy21": [
+		28363.41,
+		31594.59
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "VEDURE CLINIC",
+	"tel": "62359101",
+	"fax": "68368270",
+	"licensee": "VEDURE PTE. LTD.",
+	"licensePeriod": "24/04/2016 to 23/04/2018",
+	"licenseClass": "[ 2 Years ( 1B ) ]",
+	"hciCode": "9405159",
+	"address": "501 ORCHARD ROAD, WHEELOCK PLACE, #04-06A Singapore 238880",
+	"doctorInCharge": [
+		{
+			"name": "Hendrie Wijaya",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 1994",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2002",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "11:00 am to 06:00 pm",
+		"Tuesday": "11:00 am to 06:00 pm",
+		"Wednesday": "11:00 am to 06:00 pm",
+		"Thursday": "11:00 am to 06:00 pm",
+		"Friday": "11:00 am to 06:00 pm",
+		"Saturday": "11:00 am to 06:00 pm"
+	},
+	"id": "9405159",
+	"coordinates": [
+		103.830642,
+		1.3046763
+	],
+	"svy21": [
+		27702.12,
+		31889.99
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"name": "K N CHIN & ASSOCIATES PTE LTD MEDICAL PRACTICE",
+	"tel": "63372522",
+	"fax": "63376656",
+	"licensee": "K N CHIN & ASSOCIATES PTE LTD",
+	"licensePeriod": "01/07/2017 to 30/06/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9403350",
+	"address": "3 TEMASEK BOULEVARD, SUNTEC CITY MALL, #02-400 Singapore 038983",
+	"doctorInCharge": [
+		{
+			"name": "PETER TANG",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1973",
+				"MCGP (Family Med) (College of General Practitioners, Malaysia) 1983",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 1984",
+				"DIH (OM) (Society of Apothecaries of London, United Kingdom) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm"
+	},
+	"id": "9403350",
+	"coordinates": [
+		103.8590144,
+		1.2959319
+	],
+	"svy21": [
+		30859.72,
+		30923.1
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

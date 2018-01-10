@@ -1,0 +1,41 @@
+{
+	"name": "HEALTHWAY MEDICAL CLINIC",
+	"tel": "68722214",
+	"fax": "68722216",
+	"licensee": "HEALTHWAY MEDICAL ENTERPRISES PTE LTD",
+	"licensePeriod": "27/04/2016 to 26/04/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0059",
+	"address": "BLK 443 CLEMENTI AVENUE 3, #01-63 Singapore 120443",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "12C0059",
+	"coordinates": [
+		103.7640104,
+		1.3142105
+	],
+	"svy21": [
+		20286.66,
+		32944.35
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

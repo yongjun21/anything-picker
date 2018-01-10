@@ -1,0 +1,53 @@
+{
+	"name": "VINCENT LEE CLINIC FOR WOMEN",
+	"tel": "62352227",
+	"fax": "67381176",
+	"licensee": "LEE YUN TSHAN VINCENT",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9404663",
+	"address": "BLK 501 BISHAN STREET 11, #01-362 Singapore 570501",
+	"doctorInCharge": [
+		{
+			"name": "LEE YUN TSHAN VINCENT",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1984",
+				"M Med (O&G) (National University of Singapore, Singapore) 1984",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1988"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "09:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "09:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "09:30 am to 01:00 pm, 02:00 pm to 04:30 pm"
+	},
+	"id": "9404663",
+	"coordinates": [
+		103.8490773,
+		1.3484169
+	],
+	"svy21": [
+		29753.77,
+		36726.61
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "NAM FUNG DENTAL SURGERY",
+	"tel": "67473884",
+	"fax": "67413295",
+	"licensee": "YAP ENG HUAT",
+	"licensePeriod": "07/12/2016 to 06/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9403740",
+	"address": "702 GEYLANG ROAD, Singapore 389618",
+	"doctorInCharge": [
+		{
+			"name": "YAP ENG HUAT",
+			"qualifications": [
+				"BDS (University of Sheffield, United Kingdom) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 01:00 pm, 01:00 pm to 07:00 pm",
+		"Tuesday": "10:00 am to 01:00 pm, 01:00 pm to 07:00 pm",
+		"Wednesday": "10:00 am to 01:00 pm, 01:00 pm to 07:00 pm",
+		"Thursday": "10:00 am to 01:00 pm, 01:00 pm to 07:00 pm",
+		"Friday": "10:00 am to 01:00 pm, 01:00 pm to 07:00 pm",
+		"Saturday": "10:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403740",
+	"coordinates": [
+		103.890998,
+		1.3146575
+	],
+	"svy21": [
+		34419.17,
+		32993.74
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

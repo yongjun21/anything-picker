@@ -1,0 +1,41 @@
+{
+	"name": "BERNARD TAN DENTAL SURGERY",
+	"tel": "64711921",
+	"fax": "64711921",
+	"licensee": "BERNARD TAN DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "10/09/2016 to 09/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0272",
+	"address": "BLK 63A LENGKOK BAHRU, #01-376 Singapore 151063",
+	"doctorInCharge": [
+		{
+			"name": "TAN WEI YANG BERNARD",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2003",
+				"Grad Dip(COHE)(Sydney) (University of Sydney, Australia) 2005"
+			],
+			"specialties": [
+				"Dental Public Health"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "14D0272",
+	"coordinates": [
+		103.8153995,
+		1.289651
+	],
+	"svy21": [
+		26005.76,
+		30228.58
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

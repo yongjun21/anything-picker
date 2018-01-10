@@ -1,0 +1,53 @@
+{
+	"name": "GUTCARE DIGESTIVE●LIVER●ENDOSCOPY ASSOCIATES",
+	"tel": "64750325",
+	"fax": "64750335",
+	"licensee": "GUTCARE MANAGEMENT",
+	"licensePeriod": "17/01/2016 to 16/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0025",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #10-07 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Reuben Wong Kong Min",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2004"
+			],
+			"specialties": [
+				"Gastroenterology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Gastroenterology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "16M0025",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

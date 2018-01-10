@@ -1,0 +1,47 @@
+{
+	"name": "LIM'S DENTIST",
+	"tel": "62886520",
+	"fax": "62886520",
+	"licensee": "LIM TIANG ANN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400990",
+	"address": "BLK 2 LOR LEW LIAN, #01-32 Singapore 531002",
+	"doctorInCharge": [
+		{
+			"name": "LIM TIANG ANN",
+			"qualifications": [
+				"Dental Therapist Exam (Institute of Dental Health, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 08:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 08:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 08:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 08:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 08:00 pm",
+		"Saturday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm"
+	},
+	"id": "9400990",
+	"coordinates": [
+		103.8756801,
+		1.350608
+	],
+	"svy21": [
+		32714.36,
+		36968.92
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

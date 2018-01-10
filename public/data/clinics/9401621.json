@@ -1,0 +1,54 @@
+{
+	"name": "TANG NEUROLOGY & MEDICAL CLINIC",
+	"tel": "67328813",
+	"fax": "67389366",
+	"licensee": "TANG KOK FOO",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401621",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #14-01 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "TANG KOK FOO",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1979",
+				"MRCP (Infectious Disease) (Royal College of Physicians, United Kingdom) 1984",
+				"M Sc (Nuclear Med) (University of London, United Kingdom) 1984"
+			],
+			"specialties": [
+				"Neurology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Neurology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401621",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

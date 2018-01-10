@@ -1,0 +1,49 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "62418954",
+	"fax": "62418954",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/07/2017 to 30/06/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0162",
+	"address": "15 FERNVALE ROAD, SENGKANG GREEN PRIMARY SCHOOL, Singapore 797636",
+	"doctorInCharge": [
+		{
+			"name": "NOELINE TAN",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "13C0162",
+	"coordinates": [
+		103.8752177,
+		1.3928461
+	],
+	"svy21": [
+		32662.82,
+		41639.4
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

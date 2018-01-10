@@ -1,0 +1,48 @@
+{
+	"name": "DR SYDNEY TAN THE MEDICAL AESTHETIC CLINIC",
+	"tel": "97732670",
+	"fax": "63976090",
+	"licensee": "MEDISTETHICS PTE. LTD.",
+	"licensePeriod": "16/05/2017 to 15/05/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0124",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTER, #11-03 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Sydney Tan Thian Soo",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "13C0124",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

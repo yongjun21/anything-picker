@@ -1,0 +1,55 @@
+{
+	"name": "NEW TOWN CLINIC PTE LTD",
+	"tel": "64431784",
+	"fax": "64436457",
+	"licensee": "New Town Clinic Pte. Ltd.",
+	"licensePeriod": "01/10/2016 to 30/09/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401176",
+	"address": "BLK 59 New Upper Changi Road, #01-1224 Singapore 461059",
+	"doctorInCharge": [
+		{
+			"name": "Tan Geok Jim",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1975"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "03:30 pm to 06:00 pm",
+		"Tuesday": "06:00 pm to 09:00 pm",
+		"Wednesday": "03:30 pm to 06:00 pm",
+		"Thursday": "06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "9401176",
+	"coordinates": [
+		103.9406956,
+		1.324059
+	],
+	"svy21": [
+		39949.99,
+		34033.49
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

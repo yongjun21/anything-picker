@@ -1,0 +1,47 @@
+{
+	"name": "ROBLESS VASCULAR SURGERY",
+	"tel": "64438866",
+	"fax": "64430880",
+	"licensee": "ROBLESS VASCULAR SURGERY PTE LTD",
+	"licensePeriod": "16/04/2017 to 15/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0098",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #07-13 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "Peter Robless",
+			"qualifications": [
+				"MB ChB (University of Aberdeen, United Kingdom) 1992",
+				"FRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 1996",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 2003",
+				"MD (University of London, United Kingdom) 2006"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"id": "15M0098",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

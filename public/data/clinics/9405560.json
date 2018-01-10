@@ -1,0 +1,53 @@
+{
+	"name": "PROHEALTH MEDICAL GROUP @TAMAN JURONG PTE LTD",
+	"tel": "62682628",
+	"fax": "62683456",
+	"licensee": "PROHEALTH MEDICAL GROUP @TAMAN JURONG PTE. LTD.",
+	"licensePeriod": "21/04/2014 to 20/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405560",
+	"address": "399 YUNG SHENG ROAD, Taman Jurong Shopping Centre, #01-56 Singapore 610399",
+	"doctorInCharge": [
+		{
+			"name": "choi sai wai",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 10:00 pm",
+		"Tuesday": "08:00 am to 10:00 pm",
+		"Wednesday": "08:00 am to 10:00 pm",
+		"Thursday": "08:00 am to 10:00 pm",
+		"Friday": "08:00 am to 10:00 pm",
+		"Saturday": "08:00 am to 10:00 pm",
+		"Sunday": "08:00 am to 10:00 pm"
+	},
+	"id": "9405560",
+	"coordinates": [
+		103.720462,
+		1.3348449
+	],
+	"svy21": [
+		15440.24,
+		35226.17
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

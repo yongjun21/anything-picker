@@ -1,0 +1,46 @@
+{
+	"name": "ACCESS MEDICAL (JURONG WEST)",
+	"tel": "67478180",
+	"fax": "67478186",
+	"licensee": "ACCESS MEDICAL JURONG WEST PTE. LTD.",
+	"licensePeriod": "12/06/2017 to 11/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0170",
+	"address": "BLK 463 JURONG WEST STREET 41, #01-564 Singapore 640463",
+	"doctorInCharge": [
+		{
+			"name": "Lim Yong Chin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007",
+				"MRCS (Royal College of Surgeons, Ireland) 2010",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "17M0170",
+	"coordinates": [
+		103.7232411,
+		1.350577
+	],
+	"svy21": [
+		15749.61,
+		36965.73
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

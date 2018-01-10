@@ -1,0 +1,47 @@
+{
+	"name": "THE DENTAL SURGERY",
+	"tel": "62353272",
+	"fax": "64745171",
+	"licensee": "NG TIN TUCK",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401680",
+	"address": "400 ORCHARD ROAD, ORCHARD TOWERS, #05-25/26 Singapore 238875",
+	"doctorInCharge": [
+		{
+			"name": "NG TIN TUCK",
+			"qualifications": [
+				"BDS (University of Malaya (Singapore), Singapore) 1959"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 05:00 pm",
+		"Tuesday": "10:00 am to 05:00 pm",
+		"Wednesday": "10:00 am to 05:00 pm",
+		"Thursday": "10:00 am to 05:00 pm",
+		"Friday": "10:00 am to 05:00 pm",
+		"Saturday": "10:00 am to 05:00 pm"
+	},
+	"id": "9401680",
+	"coordinates": [
+		103.8292141,
+		1.306978
+	],
+	"svy21": [
+		27543.21,
+		32144.5
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

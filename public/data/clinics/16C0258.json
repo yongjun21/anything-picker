@@ -1,0 +1,41 @@
+{
+	"name": "CHANGI MEDICAL CENTRE",
+	"tel": "62142410",
+	"fax": "00000000",
+	"licensee": "Maninder Singh Shahi",
+	"licensePeriod": "01/09/2016 to 31/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16C0258",
+	"address": "965 UPPER CHANGI ROAD NORTH, CHANGI GARDEN, Singapore 507665",
+	"doctorInCharge": [
+		{
+			"name": "Maninder Singh Shahi",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16C0258",
+	"coordinates": [
+		103.9701466,
+		1.3605077
+	],
+	"svy21": [
+		43227.38,
+		38063.98
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

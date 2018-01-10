@@ -1,0 +1,53 @@
+{
+	"name": "CLIFFORD DISPENSARY PTE LTD",
+	"tel": "65460923",
+	"fax": "65465612",
+	"licensee": "LEE TZU HOOI",
+	"licensePeriod": "19/10/2015 to 18/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404593",
+	"address": "50 AIRPORT BOULEVARD, DNATA BUILDING, #03-50A Singapore 819658",
+	"doctorInCharge": [
+		{
+			"name": "LEE TZU HOOI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"MRCGP (Royal College of General Practitioners, United Kingdom) 1999",
+				"DipOccMed (Faculty of Occupational Med, Royal College of Physicians of London, United Kingdom) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404593",
+	"coordinates": [
+		103.98546,
+		1.3482119
+	],
+	"svy21": [
+		44931.67,
+		36704.47
+	],
+	"planningArea": "CH",
+	"neighbours": [
+		"PR",
+		"TM",
+		"CB"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"name": "M K DENTAL SURGERY",
+	"tel": "67489359",
+	"licensee": "CHUA MENG KHIANG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401027",
+	"address": "BLK 305 UBI AVE 1, #01-181 Singapore 400305",
+	"doctorInCharge": [
+		{
+			"name": "CHUA MENG KHIANG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Thursday": "06:30 pm to 09:00 pm",
+		"Friday": "06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401027",
+	"coordinates": [
+		103.9023175,
+		1.3294211
+	],
+	"svy21": [
+		35678.87,
+		34626.26
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

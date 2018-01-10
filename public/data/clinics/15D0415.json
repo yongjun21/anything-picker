@@ -1,0 +1,48 @@
+{
+	"name": "THE DENTAL GALLERY DAWSON",
+	"tel": "62520020",
+	"licensee": "TDG DAWSON PTE. LTD.",
+	"licensePeriod": "03/12/2015 to 02/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0415",
+	"address": "BLK 85 DAWSON ROAD, #01-05 Singapore 141085",
+	"doctorInCharge": [
+		{
+			"name": "Tay Swee Keng Anthony",
+			"qualifications": [
+				"BDSc (University of Melbourne, Australia) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "15D0415",
+	"coordinates": [
+		103.8097586,
+		1.2953197
+	],
+	"svy21": [
+		25377.98,
+		30855.4
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

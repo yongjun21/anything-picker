@@ -1,0 +1,53 @@
+{
+	"name": "MEDINA MEDICAL CENTRE",
+	"tel": "65882756",
+	"fax": "65882758",
+	"licensee": "SURAIDAH BTE AHMAT",
+	"licensePeriod": "11/09/2017 to 10/09/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0233",
+	"address": "BLK 479 TAMPINES STREET 44, #01-231 Singapore 520479",
+	"doctorInCharge": [
+		{
+			"name": "SURAIDAH BTE AHMAT",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 12:30 pm",
+		"Monday": "08:00 am to 12:30 am, 02:30 pm to 05:00 pm",
+		"Tuesday": "08:00 am to 12:30 am, 02:30 pm to 05:00 pm",
+		"Wednesday": "08:00 am to 12:30 am, 02:30 pm to 05:00 pm",
+		"Thursday": "08:00 am to 12:30 am, 02:30 pm to 05:00 pm",
+		"Friday": "08:00 am to 12:30 am, 02:30 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "13C0233",
+	"coordinates": [
+		103.9535674,
+		1.3614336
+	],
+	"svy21": [
+		41382.29,
+		38166.26
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

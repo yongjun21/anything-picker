@@ -1,0 +1,58 @@
+{
+	"name": "THE ENT CLINIC",
+	"tel": "67107522",
+	"fax": "67107512",
+	"licensee": "THE ENT CLINIC PTE. LTD.",
+	"licensePeriod": "20/09/2017 to 19/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0291",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #07-46/47 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Jeevendra Kanagalingam",
+			"qualifications": [
+				"BM BCh (University of Oxford, United Kingdom) 1996",
+				"MA (University of Cambridge, United Kingdom) 1997",
+				"MRCS (Royal College of Surgeons of England, United Kingdom) 1999",
+				"DLO (Royal College of Surgeons of England, United Kingdom) 2000",
+				"DOHNS (Royal College of Surgeons of England, United Kingdom) 2004",
+				"FRCS (ENT) (Royal College of Surgeons of England, United Kingdom) 2006"
+			],
+			"specialties": [
+				"Otorhinolaryngology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Otorhinolaryngology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 02:00 pm"
+	},
+	"id": "15M0291",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

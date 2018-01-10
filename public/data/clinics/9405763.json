@@ -1,0 +1,56 @@
+{
+	"name": "CHIN MEDICAL CLINIC",
+	"tel": "64688195",
+	"fax": "64688045",
+	"licensee": "CHIN MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "01/12/2016 to 30/11/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405763",
+	"address": "524A JELAPANG ROAD, GREENRIDGE SHOPPING CENTRE, #02-02A Singapore 671524",
+	"doctorInCharge": [
+		{
+			"name": "Chin Swee Aun",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 03:30 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 03:30 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 03:30 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 03:30 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 03:30 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "08:30 am to 01:00 pm"
+	},
+	"id": "9405763",
+	"coordinates": [
+		103.7662285,
+		1.3854057
+	],
+	"svy21": [
+		20533.73,
+		40816.74
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

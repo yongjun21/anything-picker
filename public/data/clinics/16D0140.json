@@ -1,0 +1,38 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64353756",
+	"fax": "64382248",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "13/05/2016 to 12/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0140",
+	"address": "49 MARINE CRESCENT, TAO NAN SCHOOL, Singapore 449761",
+	"doctorInCharge": [
+		{
+			"name": "Tan Noeline",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "16D0140",
+	"coordinates": [
+		103.9115532,
+		1.3052853
+	],
+	"svy21": [
+		36706.79,
+		31957.47
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

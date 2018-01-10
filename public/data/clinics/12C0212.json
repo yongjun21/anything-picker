@@ -1,0 +1,46 @@
+{
+	"name": "Q & M DENTAL SURGERY (PUNGGOL)",
+	"tel": "63872683",
+	"fax": "63875691",
+	"licensee": "Q & M DENTAL SURGERY (HOUGANG CENTRAL) PTE. LTD.",
+	"licensePeriod": "28/09/2016 to 27/09/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0212",
+	"address": "BLK 273C PUNGGOL PLACE, #01-880 Singapore 823273",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "12C0212",
+	"coordinates": [
+		103.9012624,
+		1.402303
+	],
+	"svy21": [
+		35561.22,
+		42685.17
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

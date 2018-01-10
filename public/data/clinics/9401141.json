@@ -1,0 +1,50 @@
+{
+	"name": "NAM SENG CLINIC PTE. LTD.",
+	"tel": "64620082",
+	"fax": "64672343",
+	"licensee": "NAM SENG CLINIC PTE. LTD.",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401141",
+	"address": "144 UPPER BUKIT TIMAH ROAD, BEAUTY WORLD CENTRE, #01-22 Singapore 588177",
+	"doctorInCharge": [
+		{
+			"name": "Koh Swee Hai",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 02:00 pm, 04:00 am to 06:00 pm, 08:00 pm to 10:00 pm",
+		"Tuesday": "09:00 am to 02:00 pm, 04:00 am to 06:00 pm, 08:00 pm to 10:00 pm",
+		"Wednesday": "09:00 am to 02:00 pm, 04:00 am to 06:00 pm, 08:00 pm to 10:00 pm",
+		"Thursday": "09:00 am to 02:00 pm, 04:00 am to 06:00 pm, 08:00 pm to 10:00 pm",
+		"Friday": "09:00 am to 02:00 pm, 04:00 am to 06:00 pm, 08:00 pm to 10:00 pm",
+		"Sunday": "09:00 am to 04:00 pm",
+		"Public Holiday": "09:00 am to 04:00 pm"
+	},
+	"id": "9401141",
+	"coordinates": [
+		103.7765394,
+		1.3424126
+	],
+	"svy21": [
+		21681.09,
+		36062.76
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

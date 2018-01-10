@@ -1,0 +1,44 @@
+{
+	"name": "VISTA MEDICAL CENTRE",
+	"tel": "67780822",
+	"fax": "67780082",
+	"licensee": "VISTA MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "04/11/2016 to 03/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405517",
+	"address": "3 SOUTH BUONA VISTA ROAD, VIVA VISTA, #01-30/31 Singapore 118136",
+	"doctorInCharge": [
+		{
+			"name": "NG KIM BOON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9405517",
+	"coordinates": [
+		103.7859096,
+		1.2798032
+	],
+	"svy21": [
+		22723.76,
+		29139.71
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

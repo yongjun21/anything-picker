@@ -1,0 +1,50 @@
+{
+	"name": "CHAIM CLINIC",
+	"tel": "62515359",
+	"fax": "62506632",
+	"licensee": "Chaim Heng Tin",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400182",
+	"address": "BLK 111 Toa Payoh Lor 1, #01-350 Singapore 310111",
+	"doctorInCharge": [
+		{
+			"name": "Chaim Heng Tin",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 1967"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9400182",
+	"coordinates": [
+		103.8453061,
+		1.3412371
+	],
+	"svy21": [
+		29334.09,
+		35932.71
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

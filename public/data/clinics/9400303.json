@@ -1,0 +1,45 @@
+{
+	"name": "CLINIC FARIDAH",
+	"tel": "64427480",
+	"fax": "64427480",
+	"licensee": "FARIDA FAKHRUDIN VASANWALA",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400303",
+	"address": "BLK 59 NEW UPPER CHANGI ROAD, #01-1230 Singapore 461059",
+	"doctorInCharge": [
+		{
+			"name": "FARIDA FAKHRUDIN VASANWALA",
+			"qualifications": [
+				"MBBS (University of Bombay, India) 1965"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9400303",
+	"coordinates": [
+		103.9406956,
+		1.324059
+	],
+	"svy21": [
+		39949.99,
+		34033.49
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

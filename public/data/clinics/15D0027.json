@@ -1,0 +1,39 @@
+{
+	"name": "DENTAL FOCUS GSM CLINIC",
+	"tel": "63462513",
+	"fax": "67471045",
+	"licensee": "DENTALTOWN (GSM) PTE. LTD.",
+	"licensePeriod": "05/02/2017 to 04/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0027",
+	"address": "BLK 1 GEYLANG SERAI, #01-206 Singapore 402001",
+	"doctorInCharge": [
+		{
+			"name": "SEOW KOK SIAM JOSEPH",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "15D0027",
+	"coordinates": [
+		103.8982279,
+		1.3167363
+	],
+	"svy21": [
+		35223.78,
+		33223.63
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

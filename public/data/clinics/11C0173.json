@@ -1,0 +1,48 @@
+{
+	"name": "LEE DENTAL PTE LTD",
+	"tel": "64491871",
+	"fax": "62414724",
+	"licensee": "LEE DENTAL PTE. LTD.",
+	"licensePeriod": "19/10/2015 to 18/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0173",
+	"address": "BLK 123 BEDOK NORTH ST 2, #01-156 Singapore 460123",
+	"doctorInCharge": [
+		{
+			"name": "MICHAEL LEE HING MUN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1987",
+				"MFGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 03:00 pm to 05:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 03:00 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 03:00 pm to 05:30 pm, 07:00 pm to 08:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 03:00 pm to 05:30 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 03:30 pm"
+	},
+	"id": "11C0173",
+	"coordinates": [
+		103.9373433,
+		1.3291987
+	],
+	"svy21": [
+		39576.9,
+		34601.8
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

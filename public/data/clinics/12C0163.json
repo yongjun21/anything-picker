@@ -1,0 +1,58 @@
+{
+	"name": "PACIFIC NEUROSURGERY A CENTRE FOR PAIN MANAGEMENT & NEUROSURGERY",
+	"tel": "62382930",
+	"fax": "62388577",
+	"licensee": "PACIFIC HEALTHCARE SPECIALIST SERVICES PTE. LTD.",
+	"licensePeriod": "08/08/2016 to 07/08/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0163",
+	"address": "290 ORCHARD ROAD, PARAGON, #12-01 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Mathew Tung Yu Yee",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984",
+				"FRCS (Neurosurgery) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1996"
+			],
+			"specialties": [
+				"Neurosurgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Neurosurgery"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "12C0163",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

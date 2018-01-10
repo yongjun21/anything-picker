@@ -1,0 +1,47 @@
+{
+	"name": "UNITED CLINIC",
+	"tel": "63383324",
+	"fax": "63379601",
+	"licensee": "LAI JIN TEE JOHN FRANCIS",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401801",
+	"address": "35 SELEGIE ROAD, PARKLANE SHOPPING MALL, #05-06 Singapore 188307",
+	"doctorInCharge": [
+		{
+			"name": "LAI JIN TEE JOHN FRANCIS",
+			"qualifications": [
+				"MB ChB (University of Leeds, United Kingdom) 1971"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 04:30 pm",
+		"Tuesday": "09:00 am to 04:30 pm",
+		"Wednesday": "09:00 am to 04:30 pm",
+		"Thursday": "09:00 am to 04:30 pm",
+		"Friday": "09:00 am to 04:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9401801",
+	"coordinates": [
+		103.8494486,
+		1.3006453
+	],
+	"svy21": [
+		29795.13,
+		31444.27
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

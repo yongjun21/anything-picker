@@ -1,0 +1,54 @@
+{
+	"name": "FAMILY HEALTHCARE CLINIC & SURGERY",
+	"tel": "62889557",
+	"fax": "62889557",
+	"licensee": "LEE CHEONG CHENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400522",
+	"address": "BLK 151 SERANGOON NORTH AVE 2, #01-35 Singapore 550151",
+	"doctorInCharge": [
+		{
+			"name": "LEE CHEONG CHENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm",
+		"Thursday": "08:30 am to 12:00 pm",
+		"Friday": "08:30 am to 12:00 pm"
+	},
+	"id": "9400522",
+	"coordinates": [
+		103.8737783,
+		1.3693454
+	],
+	"svy21": [
+		32502.68,
+		39040.81
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

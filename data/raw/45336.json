@@ -1,6 +1,6 @@
 {
 	"name": "MINMED CLINIC (PUNGGOL)",
-	"tel": "63399339",
+	"tel": "63880123",
 	"fax": "63399789",
 	"licensee": "MINISTRY MEDICAL GROUP PTE. LTD.",
 	"licensePeriod": "17/01/2016 to 16/01/2018",
@@ -26,5 +26,10 @@
 		"Chronic Disease Management Programme (CDMP)",
 		"Community Health Assistance Scheme (CHAS)",
 		"Integrated Screening Programme (ISP) "
-	]
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday to Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	}
 }

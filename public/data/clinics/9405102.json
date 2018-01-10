@@ -1,0 +1,56 @@
+{
+	"name": "CLIFFORD DISPENSARY PTE LTD",
+	"tel": "67374341",
+	"fax": "67342638",
+	"licensee": "LEE TZU HOOI",
+	"licensePeriod": "17/02/2015 to 16/02/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405102",
+	"address": "350 ORCHARD ROAD, SHAW HOUSE, #15-03 Singapore 238868",
+	"doctorInCharge": [
+		{
+			"name": "LEE TZU HOOI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"MRCGP (Royal College of General Practitioners, United Kingdom) 1999",
+				"DipOccMed (Faculty of Occupational Med, Royal College of Physicians of London, United Kingdom) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405102",
+	"coordinates": [
+		103.8315073,
+		1.3058098
+	],
+	"svy21": [
+		27798.42,
+		32015.33
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"name": "ACCENT DENTAL SURGERY PTE LTD",
+	"tel": "64535339",
+	"fax": "64535339",
+	"licensee": "CHEONG KOK HONG",
+	"licensePeriod": "20/06/2017 to 19/06/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400015",
+	"address": "BLK 446 ANG MO KIO AVE 10, #01-1669 Singapore 560446",
+	"doctorInCharge": [
+		{
+			"name": "CHEONG KOK HONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:00 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:00 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm",
+		"Sunday": "09:00 am to 01:00 pm",
+		"Saturday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm"
+	},
+	"id": "9400015",
+	"coordinates": [
+		103.8553571,
+		1.367761
+	],
+	"svy21": [
+		30452.63,
+		38865.58
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

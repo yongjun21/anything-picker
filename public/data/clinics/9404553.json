@@ -1,0 +1,58 @@
+{
+	"name": "DAILY MEDICAL CENTRE",
+	"tel": "62843218",
+	"fax": "62848618",
+	"licensee": "SEET WEI MIN ADELE",
+	"licensePeriod": "01/10/2017 to 30/09/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404553",
+	"address": "BLK 159 HOUGANG STREET 11, #01-17 Singapore 530159",
+	"doctorInCharge": [
+		{
+			"name": "SEET WEI MIN ADELE",
+			"qualifications": [
+				"MBBS (University of New South Wales, Australia) 1998"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "08:30 am to 01:00 pm"
+	},
+	"id": "9404553",
+	"coordinates": [
+		103.8795172,
+		1.3514483
+	],
+	"svy21": [
+		33141.39,
+		37061.85
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

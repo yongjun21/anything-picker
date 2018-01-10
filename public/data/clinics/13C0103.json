@@ -1,0 +1,50 @@
+{
+	"name": "PROHEALTH MEDICAL GROUP @PUNGGOL SPECTRA PTE. LTD.",
+	"tel": "64447701",
+	"fax": "64447702",
+	"licensee": "PROHEALTH MEDICAL GROUP PTE. LTD.",
+	"licensePeriod": "29/04/2017 to 28/04/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0103",
+	"address": "BLK 622D PUNGGOL CENTRAL, #01-02 Singapore 824622",
+	"doctorInCharge": [
+		{
+			"name": "CHOI SAI WAI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 11:00 pm",
+		"Tuesday": "08:00 am to 11:00 pm",
+		"Wednesday": "08:00 am to 11:00 pm",
+		"Thursday": "08:00 am to 11:00 pm",
+		"Friday": "08:00 am to 11:00 pm",
+		"Saturday": "08:00 am to 11:00 pm",
+		"Sunday": "08:00 am to 11:00 pm"
+	},
+	"id": "13C0103",
+	"coordinates": [
+		103.9105369,
+		1.4005311
+	],
+	"svy21": [
+		36593.36,
+		42489.28
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

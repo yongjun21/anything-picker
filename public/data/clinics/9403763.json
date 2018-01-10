@@ -1,0 +1,47 @@
+{
+	"name": "SHARON DENTAL & SURGERY PTE LTD",
+	"tel": "64695661",
+	"fax": "67740072",
+	"licensee": "YEO TYE CHEH",
+	"licensePeriod": "29/09/2016 to 28/09/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403763",
+	"address": "10 JLN SERENE, SERENE CENTRE, #02-13 Singapore 258748",
+	"doctorInCharge": [
+		{
+			"name": "YEO TYE CHEH",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Thursday": "09:30 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Friday": "09:30 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Saturday": "09:30 am to 03:00 pm"
+	},
+	"id": "9403763",
+	"coordinates": [
+		103.8136963,
+		1.3225906
+	],
+	"svy21": [
+		25816.24,
+		33870.87
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "Y M CHAN CLINIC & SURGERY",
+	"tel": "67831806",
+	"fax": "67831806",
+	"licensee": "CHAN YIT MENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401913",
+	"address": "BLK 406 TAMPINES ST 41, #01-31 Singapore 520406",
+	"doctorInCharge": [
+		{
+			"name": "CHAN YIT MENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401913",
+	"coordinates": [
+		103.9457929,
+		1.357829
+	],
+	"svy21": [
+		40517.1,
+		37767.64
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

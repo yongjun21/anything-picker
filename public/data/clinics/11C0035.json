@@ -1,0 +1,57 @@
+{
+	"name": "KIDSLINK CHILDREN'S CLINIC",
+	"tel": "65675600",
+	"fax": "65675990",
+	"licensee": "KIDSLINK CHILDREN'S CLINIC PTE LTD",
+	"licensePeriod": "30/03/2015 to 29/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0035",
+	"address": "BLK 351 JURONG EAST STREET 31, #01-91 Singapore 600351",
+	"doctorInCharge": [
+		{
+			"name": "Heng Joo Teck",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"M Med (Paed) (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Paediatric Cardiology",
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:10 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:10 pm to 09:00 pm",
+		"Friday": "09:10 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:10 pm to 09:00 pm",
+		"Tuesday": "09:10 am to 12:30 pm",
+		"Thursday": "09:10 am to 12:30 pm",
+		"Wednesday": "09:10 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "09:10 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "11C0035",
+	"coordinates": [
+		103.7307783,
+		1.3448324
+	],
+	"svy21": [
+		16588.38,
+		36330.49
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

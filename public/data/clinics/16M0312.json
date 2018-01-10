@@ -1,0 +1,52 @@
+{
+	"name": "L20 DAY SURGERY",
+	"tel": "68360060",
+	"fax": "68360030",
+	"licensee": "L20 DAY SURGERY CENTRE PTE LTD",
+	"licensePeriod": "07/10/2016 to 06/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0312",
+	"address": "290 ORCHARD ROAD, THE PARAGON, #20-07/08 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Pang Peter Kenny",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"FRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 2000",
+				"M Med (Otorhinolaryngology) (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Otorhinolaryngology"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Day Surgery",
+		"Endoscopy",
+		"Liposuction"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Otorhinolaryngology",
+			"Plastic Surgery"
+		]
+	},
+	"id": "16M0312",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

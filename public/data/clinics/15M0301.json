@@ -1,0 +1,54 @@
+{
+	"name": "DR. TAN & PARTNERS @ SOMERSET",
+	"tel": "62620762",
+	"fax": "62620766",
+	"licensee": "REPUBLIC HEALTHCARE PTE. LTD.",
+	"licensePeriod": "04/09/2017 to 03/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0301",
+	"address": "1 GRANGE ROAD, ORCHARD BUILDING, #10-08 Singapore 239693",
+	"doctorInCharge": [
+		{
+			"name": "Tan Kok Kuan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "10:00 am to 07:00 pm",
+		"Tuesday": "10:00 am to 07:00 pm",
+		"Wednesday": "10:00 am to 07:00 pm",
+		"Thursday": "10:00 am to 07:00 pm",
+		"Friday": "10:00 am to 07:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "15M0301",
+	"coordinates": [
+		103.8373592,
+		1.3013988
+	],
+	"svy21": [
+		28449.68,
+		31527.59
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,6 +1,6 @@
 {
 	"name": "ACE UROLOGY CLINIC & SURGERY",
-	"tel": "62567130",
+	"tel": "62551005",
 	"fax": "62547160",
 	"licensee": "ACE UROLOGY CLINIC & SURGERY",
 	"licensePeriod": "30/12/2015 to 29/12/2017",
@@ -27,5 +27,11 @@
 		"Specialist Medical": [
 			"Urology"
 		]
+	},
+	"operatingHours": {
+		"Public Holiday to Public Holiday": "Closed",
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday to Saturday": "08:00 am to 01:00 pm",
+		"Sunday to Sunday": "Closed"
 	}
 }

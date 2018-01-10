@@ -1,0 +1,52 @@
+{
+	"name": "JOY FAMILY CLINIC",
+	"tel": "64422483",
+	"fax": "64428613",
+	"licensee": "LEE HAI EAN",
+	"licensePeriod": "07/03/2014 to 06/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400762",
+	"address": "BLK 703 BEDOK RESERVOIR ROAD, #01-3506 Singapore 470703",
+	"doctorInCharge": [
+		{
+			"name": "LEE HAI EAN",
+			"qualifications": [
+				"MB BCh (University of Wales, United Kingdom) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 04:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 04:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9400762",
+	"coordinates": [
+		103.9198931,
+		1.3371651
+	],
+	"svy21": [
+		37634.82,
+		35482.61
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"name": "888 PLAZA FAMILY CLINIC",
+	"tel": "63688762",
+	"fax": "63688763",
+	"licensee": "TOP HEALTH PTE. LTD.",
+	"licensePeriod": "09/03/2014 to 08/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405507",
+	"address": "888 WOODLANDS DRIVE 50, 888 PLAZA, #01-739 Singapore 730888",
+	"doctorInCharge": [
+		{
+			"name": "LOH CHIU KHUEN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 09:30 pm",
+		"Tuesday": "08:30 am to 09:30 pm",
+		"Wednesday": "08:30 am to 09:30 pm",
+		"Thursday": "08:30 am to 09:30 pm",
+		"Friday": "08:30 am to 09:30 pm",
+		"Saturday": "08:30 am to 01:00 pm, 06:00 pm to 09:30 pm",
+		"Sunday": "09:00 am to 09:00 pm",
+		"Public Holiday": "09:00 am to 09:00 pm"
+	},
+	"id": "9405507",
+	"coordinates": [
+		103.7953144,
+		1.437123
+	],
+	"svy21": [
+		23770.71,
+		46535.31
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

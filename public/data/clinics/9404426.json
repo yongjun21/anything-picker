@@ -1,0 +1,49 @@
+{
+	"name": "BUKIT  TIMAH NAM SENG DENTAL SURGERY PTE LTD",
+	"tel": "64660043",
+	"fax": "64689103",
+	"licensee": "KOH ENG KIAN",
+	"licensePeriod": "04/05/2015 to 03/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404426",
+	"address": "144 UPPER BUKIT TIMAH ROAD, BEAUTY WORLD CENTRE, #01-16 Singapore 588177",
+	"doctorInCharge": [
+		{
+			"name": "KOH ENG KIAN",
+			"qualifications": [
+				"BDSc (University of Western Australia, Australia) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "09:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "09:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 08:30 pm",
+		"Friday": "09:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "09:30 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "9404426",
+	"coordinates": [
+		103.7765394,
+		1.3424126
+	],
+	"svy21": [
+		21681.09,
+		36062.76
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

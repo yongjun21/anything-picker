@@ -1,0 +1,41 @@
+{
+	"name": "ASHFORD DENTAL CENTRE",
+	"tel": "62032071",
+	"fax": "64815877",
+	"licensee": "NIVAAN PTE. LTD.",
+	"licensePeriod": "25/10/2017 to 24/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17D0335",
+	"address": "215 UPPER THOMSON ROAD, THOMSON RIDGE, #01-215 Singapore 574349",
+	"doctorInCharge": [
+		{
+			"name": "Harry Dev Singh",
+			"qualifications": [
+				"BDS (University of Adelaide, Australia) 2008"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "17D0335",
+	"coordinates": [
+		103.8349954,
+		1.352224
+	],
+	"svy21": [
+		28186.61,
+		37147.58
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

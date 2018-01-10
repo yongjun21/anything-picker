@@ -1,0 +1,39 @@
+{
+	"name": "WEE'S CLINIC & SURGERY PTE. LTD.",
+	"tel": "64445316",
+	"fax": "67266382",
+	"licensee": "WEE'S CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "30/06/2017 to 29/06/2018",
+	"licenseClass": "[ 1 Year ( 1C ) ]",
+	"hciCode": "17M0195",
+	"address": "BLK 418 BEDOK NORTH AVENUE 2, #01-79 Singapore 460418",
+	"doctorInCharge": [
+		{
+			"name": "Wee Teong Boo",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0195",
+	"coordinates": [
+		103.9300365,
+		1.3285642
+	],
+	"svy21": [
+		38763.72,
+		34531.61
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

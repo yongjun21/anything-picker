@@ -1,0 +1,52 @@
+{
+	"name": "HEALTHPOINT FAMILY CLINIC & SURGERY PTE LTD",
+	"tel": "64740408",
+	"fax": "64740408",
+	"licensee": "SARANI BTE OMAR",
+	"licensePeriod": "01/01/2017 to 31/12/2018",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
+	"hciCode": "9400654",
+	"address": "BLK 48 TANGLIN HALT RD, #01-337 Singapore 142048",
+	"doctorInCharge": [
+		{
+			"name": "SARANI BTE OMAR",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 06:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 06:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 06:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9400654",
+	"coordinates": [
+		103.7976262,
+		1.300789
+	],
+	"svy21": [
+		24027.75,
+		31460.19
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

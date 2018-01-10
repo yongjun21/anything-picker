@@ -1,0 +1,46 @@
+{
+	"name": "RAFFLESDENTAL",
+	"tel": "68910255",
+	"fax": "68942267",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "13/12/2016 to 12/12/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0142",
+	"address": "1 WOODLANDS SQUARE, CAUSEWAY POINT, #05-01A Singapore 738099",
+	"doctorInCharge": [
+		{
+			"name": "Kieu Li Chong, Edgar",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "11C0142",
+	"coordinates": [
+		103.7859815,
+		1.4360701
+	],
+	"svy21": [
+		22732.11,
+		46418.9
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

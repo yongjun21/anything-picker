@@ -1,0 +1,58 @@
+{
+	"name": "EPISMILE INC DENTAL GROUP PTE LTD",
+	"tel": "65540552",
+	"fax": "65540226",
+	"licensee": "EPISMILE INC DENTAL GROUP PTE. LTD.",
+	"licensePeriod": "10/08/2016 to 09/08/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9403705",
+	"address": "301 Upper Thomson Road, Thomson Plaza, #02-30 Singapore 574408",
+	"doctorInCharge": [
+		{
+			"name": "Heng Jee Kuan",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1996",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2000",
+				"MSc (University of London, United Kingdom) 2000",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2000",
+				"M Orth RCS (England) (Royal College of Surgeons of England, United Kingdom) 2000"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403705",
+	"coordinates": [
+		103.8309198,
+		1.354669
+	],
+	"svy21": [
+		27733.04,
+		37417.93
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

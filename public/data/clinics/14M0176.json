@@ -1,0 +1,57 @@
+{
+	"name": "THE HEART AND VASCULAR CENTRE",
+	"tel": "67353022",
+	"fax": "67353021",
+	"licensee": "THE HEART AND VASCULAR CENTRE PTE. LTD.",
+	"licensePeriod": "23/06/2016 to 22/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0176",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #08-06 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Paul CHIAM Toon Lim",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2001",
+				"M Med (Int Med) (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology",
+			"Internal Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm"
+	},
+	"id": "14M0176",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

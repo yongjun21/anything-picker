@@ -1,0 +1,55 @@
+{
+	"name": "TAN CHUE TIN CLINIC PTE LTD",
+	"tel": "64696664",
+	"fax": "67337555",
+	"licensee": "Tan Chue Tin",
+	"licensePeriod": "09/02/2014 to 08/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401604",
+	"address": "3 Mount Elizabeth, Mount Elizabeth Medical Centre, #14-04 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Tan Chue Tin",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1971",
+				"DPM (Psych) (Royal College of Psychiatrists, United Kingdom) 1975",
+				"MRC Psych (Royal College of Psychiatrists, United Kingdom) 1975",
+				"FAMS (Psych) (Academy of Medicine, Singapore) 1979",
+				"MRANZCP (Psych) (Royal Australian and New Zealand College of Psychiatrists, Australia) 1979"
+			],
+			"specialties": [
+				"Psychiatry"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Psychiatry"
+		]
+	},
+	"operatingHours": {
+		"Monday": "Closed",
+		"Tuesday": "Closed",
+		"Wednesday": "Closed",
+		"Thursday": "Closed",
+		"Friday": "Closed",
+		"Saturday": "Closed"
+	},
+	"id": "9401604",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "SMILE CENTRAL CLINIC",
+	"tel": "67431711",
+	"fax": "68421226",
+	"licensee": "SMILE CENTRAL DENTAL ALJUNIED PTE. LTD.",
+	"licensePeriod": "07/01/2017 to 06/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0006",
+	"address": "BLK 119 ALJUNIED AVENUE 2, #01-74 Singapore 380119",
+	"doctorInCharge": [
+		{
+			"name": "Goh Choon Guan Daniel",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15D0006",
+	"coordinates": [
+		103.8860581,
+		1.3201289
+	],
+	"svy21": [
+		33869.39,
+		33598.72
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

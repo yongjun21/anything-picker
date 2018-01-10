@@ -1,0 +1,44 @@
+{
+	"name": "LLOYD LEAS MEDICAL CLINIC",
+	"tel": "65469263",
+	"fax": "65465449",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "03/03/2017 to 02/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "12C0283",
+	"address": "1 COSFORD ROAD, Lloyd Leas Community Supervision Centre, Singapore 499549",
+	"doctorInCharge": [
+		{
+			"name": "Sahaya Nathan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm"
+	},
+	"id": "12C0283",
+	"coordinates": [
+		103.9800128,
+		1.3653212
+	],
+	"svy21": [
+		44325.34,
+		38596.29
+	],
+	"planningArea": "CH",
+	"neighbours": [
+		"PR",
+		"TM",
+		"CB"
+	]
+}

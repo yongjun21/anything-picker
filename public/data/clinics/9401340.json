@@ -1,0 +1,57 @@
+{
+	"name": "PRIME MEDICAL GROUP PTE LTD",
+	"tel": "67328096",
+	"fax": "67375841",
+	"licensee": "PRIME MEDICAL GROUP PTE LTD",
+	"licensePeriod": "22/01/2014 to 21/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401340",
+	"address": "290 ORCHARD ROAD, PARAGON, #09-11/12 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "LIEW SHAW FEI",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1984"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery",
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9401340",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"name": "HAPPY TOOTH DENTAL",
+	"tel": "64411882",
+	"fax": "64411686",
+	"licensee": "HAPPY TOOTH DENTAL PTE. LTD.",
+	"licensePeriod": "04/11/2015 to 03/11/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0198",
+	"address": "BLK 211 NEW UPPER CHANGI ROAD, #01-755 Singapore 460211",
+	"doctorInCharge": [
+		{
+			"name": "Ong Yee Shuen Patricia (Wang Yixuan)",
+			"qualifications": [
+				"BDSc (University of Melbourne, Australia) 2008"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "09:00 am to 05:00 pm"
+	},
+	"id": "11C0198",
+	"coordinates": [
+		103.9319676,
+		1.3255008
+	],
+	"svy21": [
+		38978.64,
+		34192.88
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

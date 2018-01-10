@@ -1,0 +1,48 @@
+{
+	"name": "HEALTHWAY MEDICAL CLINIC",
+	"tel": "67915680",
+	"fax": "67918133",
+	"licensee": "HEALTHWAY MEDICAL GROUP PTE LTD",
+	"licensePeriod": "14/09/2015 to 13/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405298",
+	"address": "BLK 960 JURONG WEST ST 92, #01-166 Singapore 640960",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm"
+	},
+	"id": "9405298",
+	"coordinates": [
+		103.6914596,
+		1.3413853
+	],
+	"svy21": [
+		12212.62,
+		35949.55
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

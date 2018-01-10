@@ -1,0 +1,47 @@
+{
+	"name": "GRACE DENTAL SURGERY",
+	"tel": "64585335",
+	"fax": "64585335",
+	"licensee": "HO YOKE PENG",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400604",
+	"address": "BLK 607 ANG MO KIO AVE 4, #01-1295 Singapore 560607",
+	"doctorInCharge": [
+		{
+			"name": "HO YOKE PENG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 05:00 pm"
+	},
+	"id": "9400604",
+	"coordinates": [
+		103.8388167,
+		1.3804676
+	],
+	"svy21": [
+		28611.87,
+		40270.61
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

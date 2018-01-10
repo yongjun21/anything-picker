@@ -1,0 +1,53 @@
+{
+	"name": "SUNNYVALE CLINIC & SURGERY",
+	"tel": "65670554",
+	"fax": "65670554",
+	"licensee": "CHUI CHOW YIN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401560",
+	"address": "BLK 498 JURONG WEST ST 41, #01-466 Singapore 640498",
+	"doctorInCharge": [
+		{
+			"name": "CHUI CHOW YIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 07:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9401560",
+	"coordinates": [
+		103.7243073,
+		1.3483334
+	],
+	"svy21": [
+		15868.25,
+		36717.64
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"name": "ROYCE DENTAL SURGERY",
+	"tel": "64677128",
+	"fax": "64677186",
+	"licensee": "YKB (BUONA VISTA) PTE. LTD.",
+	"licensePeriod": "09/12/2015 to 08/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0228",
+	"address": "BLK 21 GHIM MOH ROAD, #01-203 Singapore 270021",
+	"doctorInCharge": [
+		{
+			"name": "Ng Keng Howe",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "11C0228",
+	"coordinates": [
+		103.788546,
+		1.310103
+	],
+	"svy21": [
+		23017.23,
+		32490.1
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

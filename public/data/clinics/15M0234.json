@@ -1,0 +1,43 @@
+{
+	"name": "YIM CLINIC AESTHETICS",
+	"tel": "62710085",
+	"fax": "62710560",
+	"licensee": "YIM CLINIC AESTHETICS PTE. LTD.",
+	"licensePeriod": "03/12/2015 to 02/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0234",
+	"address": "BLK 11A BOON TIONG ROAD, #02-03/04/05 Singapore 161011",
+	"doctorInCharge": [
+		{
+			"name": "Yim Fu Chuen Benjamin",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 1994",
+				"MSc (Clinical Dermatology) (University of London, United Kingdom) 1999"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Wednesday": "12:00 pm to 08:00 pm",
+		"Thursday": "12:00 pm to 08:00 pm"
+	},
+	"id": "15M0234",
+	"coordinates": [
+		103.8287899,
+		1.2863658
+	],
+	"svy21": [
+		27495.99,
+		29865.31
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

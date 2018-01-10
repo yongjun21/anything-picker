@@ -1,0 +1,60 @@
+{
+	"name": "YISHUNONE FAMILY CLINIC",
+	"tel": "67590950",
+	"fax": "67590950",
+	"licensee": "YISHUNONE FAMILY CLINIC",
+	"licensePeriod": "30/09/2017 to 29/09/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13M0256",
+	"address": "BLK 743 YISHUN AVENUE 5, #01-534 Singapore 760743",
+	"doctorInCharge": [
+		{
+			"name": "CHUNG KIAN WEE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2003",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2011",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "13M0256",
+	"coordinates": [
+		103.833671,
+		1.4298998
+	],
+	"svy21": [
+		28039.22,
+		45736.58
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

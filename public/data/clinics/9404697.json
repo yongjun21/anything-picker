@@ -1,0 +1,46 @@
+{
+	"name": "HEALTHWAY MEDICAL CLINIC",
+	"tel": "62202383",
+	"fax": "62202160",
+	"licensee": "HEALTHWAY MEDICAL GROUP PTE LTD",
+	"licensePeriod": "15/06/2017 to 14/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9404697",
+	"address": "144 ROBINSON ROAD, ROBINSON SQUARE, #01-02/03 Singapore 068908",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9404697",
+	"coordinates": [
+		103.8481497,
+		1.2782661
+	],
+	"svy21": [
+		29650.59,
+		28969.7
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

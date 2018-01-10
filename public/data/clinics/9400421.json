@@ -1,0 +1,57 @@
+{
+	"name": "DRS SINGH & PARTNERS, RAFFLES CITY MEDICAL CENTRE",
+	"tel": "63388883",
+	"fax": "63383565",
+	"licensee": "SORINDER SINGH",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400421",
+	"address": "252 NORTH BRIDGE RD, RAFFLES CITY SHOPPING CENTRE, #02-16 Singapore 179103",
+	"doctorInCharge": [
+		{
+			"name": "SORINDER SINGH",
+			"qualifications": [
+				"MBBS (Agra University, India) 1974",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:45 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:45 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:45 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:45 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:45 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400421",
+	"coordinates": [
+		103.8533318,
+		1.2940764
+	],
+	"svy21": [
+		30227.3,
+		30717.93
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "LEE DISPENSARY",
+	"tel": "62410375",
+	"fax": "62410375",
+	"licensee": "LEE LENG SECK",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400928",
+	"address": "BLK 36 CHAI CHEE AVE, #01-159 Singapore 461036",
+	"doctorInCharge": [
+		{
+			"name": "LEE LENG SECK",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1966"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400928",
+	"coordinates": [
+		103.9254354,
+		1.325341
+	],
+	"svy21": [
+		38251.68,
+		34175.18
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"name": "THE PAIN SPECIALIST",
+	"tel": "66940181",
+	"fax": "66940768",
+	"licensee": "Yeo Sow Nam",
+	"licensePeriod": "19/07/2016 to 18/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0144",
+	"address": "38 Irrawaddy Road, Mount Elizabeth Novena Specialist Centre, #06-58 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Yeo Sow Nam",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"M Med (Anaes) (National University of Singapore, Singapore) 1999",
+				"FFPMANZCA (Australian and New Zealand College of Anaesthetists, Australia) 2003"
+			],
+			"specialties": [
+				"Anaesthesiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Anaesthesiology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "12C0144",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

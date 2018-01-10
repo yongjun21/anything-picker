@@ -3,10 +3,20 @@
 	"tel": "66357667",
 	"fax": "68761696",
 	"licensee": "THE DENTAL BOUTIQUE @ KATONG PTE. LTD.",
-	"licensePeriod": "23/10/2015 to 22/10/2017",
+	"licensePeriod": "23/10/2017 to 22/10/2019",
 	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "15D0367",
 	"address": "171 EAST COAST ROAD, SANTA GRAND HOTEL EAST COAST, #01-04 Singapore 428877",
+	"doctorInCharge": [
+		{
+			"name": "Tang Yick Fan",
+			"qualifications": [
+				"BDS (University of Birmingham, United Kingdom) 1993",
+				"LDSRCS (Royal College of Surgeons of England, United Kingdom) 1993"
+			],
+			"specialties": []
+		}
+	],
 	"detailedServices": {
 		"General Dental": true
 	}

@@ -1,0 +1,48 @@
+{
+	"name": "ACCESS MEDICAL (CIRCUIT ROAD)",
+	"tel": "65478840",
+	"fax": "65478842",
+	"licensee": "ACCESS MEDICAL CIRCUIT ROAD PTE. LTD.",
+	"licensePeriod": "06/01/2017 to 05/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0003",
+	"address": "BLK 88 CIRCUIT ROAD, #01-965 Singapore 370088",
+	"doctorInCharge": [
+		{
+			"name": "Lim Yong Chin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007",
+				"MRCS (Royal College of Surgeons, Ireland) 2010",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "15M0003",
+	"coordinates": [
+		103.8858517,
+		1.3235407
+	],
+	"svy21": [
+		33846.42,
+		33975.98
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "HOME DENTAL CLINIC",
+	"tel": "67343153",
+	"fax": "67435877",
+	"licensee": "Humanitarian Organization for Migration Economics",
+	"licensePeriod": "21/04/2016 to 20/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0065",
+	"address": "BLK 8 LORONG 7 TOA PAYOH, #01-291 Singapore 310008",
+	"doctorInCharge": [
+		{
+			"name": "Ng Lay Hoon",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978",
+				"MDS (Prosthodontics) (Singapore) (National University of Singapore, Singapore) 1982",
+				"FAMS (Prosthodontics) (Academy of Medicine, Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Prosthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "14D0065",
+	"coordinates": [
+		103.8566128,
+		1.3378805
+	],
+	"svy21": [
+		30592.4,
+		35561.56
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

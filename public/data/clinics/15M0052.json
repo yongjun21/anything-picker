@@ -1,0 +1,52 @@
+{
+	"name": "LIFESCAN MEDICAL CENTRE",
+	"tel": "62211358",
+	"fax": "62212696",
+	"licensee": "THE MEDICAL SUITE PTE. LTD.",
+	"licensePeriod": "23/07/2017 to 22/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0052",
+	"address": "BLK 6A SHENTON WAY, #02-19/20 Singapore 068815",
+	"doctorInCharge": [
+		{
+			"name": "Say Tian Ling",
+			"qualifications": [
+				"MB ChB (University of Leeds, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm"
+	},
+	"id": "15M0052",
+	"coordinates": [
+		103.8490079,
+		1.2779667
+	],
+	"svy21": [
+		29746.09,
+		28936.59
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

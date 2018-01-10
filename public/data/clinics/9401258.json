@@ -1,0 +1,50 @@
+{
+	"name": "OXFORD CLINIC & SURGERY",
+	"tel": "62825246",
+	"fax": "62825246",
+	"licensee": "TOH KOK THYE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401258",
+	"address": "BLK 356 HOUGANG AVE 7, #01-797 Singapore 530356",
+	"doctorInCharge": [
+		{
+			"name": "TOH KOK THYE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm",
+		"Thursday": "07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9401258",
+	"coordinates": [
+		103.8988131,
+		1.3725931
+	],
+	"svy21": [
+		35288.75,
+		39399.99
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

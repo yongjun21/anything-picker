@@ -1,0 +1,55 @@
+{
+	"name": "PAN NEUROLOGY, EPILEPSY AND SLEEP DISORDERS CLINIC",
+	"tel": "66941095",
+	"fax": "66941097",
+	"licensee": "PAN NEUROLOGY, EPILEPSY AND SLEEP DISORDERS CLINIC",
+	"licensePeriod": "25/06/2016 to 24/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405516",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #06-34 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Pan Beng Siong Andrew",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"MRCP (Neurology) (Royal College of Physicians, United Kingdom) 1997",
+				"FAMS (Neurology) (Academy of Medicine, Singapore) 2003"
+			],
+			"specialties": [
+				"Neurology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Neurology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:20 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:20 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:20 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:20 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:20 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
+	"id": "9405516",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

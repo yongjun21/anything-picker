@@ -1,0 +1,47 @@
+{
+	"name": "LEE HUNG MING EYE CENTRE",
+	"tel": "64703366",
+	"fax": "64705832",
+	"licensee": "LEE HUNG MING EYE CENTRE",
+	"licensePeriod": "05/02/2017 to 04/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15C0029",
+	"address": "6A NAPIER ROAD, GLENEAGLES HOSPITAL, #03-00 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "Lee Hung Ming",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989",
+				"FRCSEd (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 1995",
+				"M Med (Ophth) (National University of Singapore, Singapore) 1995",
+				"FAMS (Academy of Medicine, Singapore) 1999"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"id": "15C0029",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

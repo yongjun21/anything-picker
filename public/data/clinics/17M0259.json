@@ -1,0 +1,53 @@
+{
+	"name": "JURONG POLYCLINIC",
+	"tel": "66656036",
+	"fax": "65620244",
+	"licensee": "NATIONAL UNIVERSITY POLYCLINICS",
+	"licensePeriod": "06/09/2017 to 05/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0259",
+	"address": "190 JURONG EAST AVENUE 1, Singapore 609788",
+	"doctorInCharge": [
+		{
+			"name": "Wong Pey Gein Franco",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2008"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "17M0259",
+	"coordinates": [
+		103.7307179,
+		1.3497198
+	],
+	"svy21": [
+		16581.68,
+		36870.91
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

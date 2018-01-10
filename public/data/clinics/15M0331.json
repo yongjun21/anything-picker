@@ -1,0 +1,50 @@
+{
+	"name": "RENALTEAM DIALYSIS CENTRE AT REN CI COMMUNITY HOSPITAL",
+	"tel": "63973230",
+	"fax": "62507910",
+	"licensee": "RENALTEAM PTE. LTD.",
+	"licensePeriod": "29/09/2017 to 28/09/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "15M0331",
+	"address": "71 Irrawaddy Road, Ren Ci Hospital, #03-20 Singapore 329562",
+	"doctorInCharge": [
+		{
+			"name": "Boxall Mark Colin",
+			"qualifications": [
+				"MB ChB (University of Glasgow, United Kingdom) 1996",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1999",
+				"(Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 2011"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"id": "15M0331",
+	"coordinates": [
+		103.8459834,
+		1.3228901
+	],
+	"svy21": [
+		29409.47,
+		33903.99
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

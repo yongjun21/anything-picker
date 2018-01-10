@@ -1,0 +1,53 @@
+{
+	"name": "SMILE DENTAL CENTRE FOR AESTHETICS PTE LTD",
+	"tel": "63461138",
+	"fax": "64400676",
+	"licensee": "SMILE DENTAL CENTRE FOR AESTHETICS PTE. LTD.",
+	"licensePeriod": "28/10/2015 to 27/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0082",
+	"address": "231 EAST COAST ROAD, Singapore 428927",
+	"doctorInCharge": [
+		{
+			"name": "Chan Toong Sing",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1981",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Periodontology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "11C0082",
+	"coordinates": [
+		103.9073263,
+		1.3077686
+	],
+	"svy21": [
+		36236.37,
+		32232.04
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

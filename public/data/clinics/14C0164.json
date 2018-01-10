@@ -1,0 +1,57 @@
+{
+	"name": "FRESENIUS MEDICAL CARE NAPIER DIALYSIS CLINIC",
+	"tel": "64731623",
+	"fax": "64736413",
+	"licensee": "FRESENIUS MEDICAL CARE SINGAPORE PTE. LTD.",
+	"licensePeriod": "13/06/2016 to 12/06/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "14C0164",
+	"address": "6A NAPIER ROAD, GLENEAGLES HOSPITAL ANNEX BLOCK, #05-36E Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "WU YIK TIAN AKIRA",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 1974",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1981",
+				"FAMS (Academy of Medicine, Singapore) 1991"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "07:00 am to 10:00 pm",
+		"Tuesday": "07:00 am to 10:00 pm",
+		"Wednesday": "07:00 am to 10:00 pm",
+		"Thursday": "07:00 am to 10:00 pm",
+		"Friday": "07:00 am to 10:00 pm",
+		"Saturday": "07:00 am to 10:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "14C0164",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

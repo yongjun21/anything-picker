@@ -1,0 +1,55 @@
+{
+	"name": "NATIONAL HEALTHCARE GROUP POLYCLINICS (JURONG)",
+	"tel": "63553000",
+	"fax": "65620244",
+	"licensee": "NATIONAL HEALTHCARE GROUP POLYCLINICS",
+	"licensePeriod": "19/09/2014 to 18/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403120",
+	"address": "190 JURONG EAST AVE 1, Singapore 609788",
+	"doctorInCharge": [
+		{
+			"name": "Meena Sundram",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2004",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2009"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403120",
+	"coordinates": [
+		103.7307179,
+		1.3497198
+	],
+	"svy21": [
+		16581.68,
+		36870.91
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

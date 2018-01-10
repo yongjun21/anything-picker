@@ -1,0 +1,41 @@
+{
+	"name": "NATIONAL HEALTHCARE GROUP POLYCLINICS (GEYLANG)",
+	"tel": "68422440",
+	"fax": "68423224",
+	"licensee": "NATIONAL HEALTHCARE GROUP POLYCLINICS",
+	"licensePeriod": "06/09/2017 to 05/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0261",
+	"address": "21 GEYLANG EAST CENTRAL, Singapore 389707",
+	"doctorInCharge": [
+		{
+			"name": "Ting Sing Shing",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2000"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0261",
+	"coordinates": [
+		103.887166,
+		1.3194937
+	],
+	"svy21": [
+		33992.69,
+		33528.49
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

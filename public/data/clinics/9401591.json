@@ -1,0 +1,48 @@
+{
+	"name": "TAI DENTAL SURGERY (ANG MO KIO) PTE. LTD.",
+	"tel": "64579996",
+	"fax": "64579996",
+	"licensee": "TAI MEI HEONG",
+	"licensePeriod": "14/05/2015 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401591",
+	"address": "BLK 416 ANG MO KIO AVE 10, #01-1001 Singapore 560416",
+	"doctorInCharge": [
+		{
+			"name": "TAI MEI HEONG",
+			"qualifications": [
+				"Dental Therapist Exam (Institute of Dental Health, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9401591",
+	"coordinates": [
+		103.8551037,
+		1.3645417
+	],
+	"svy21": [
+		30424.42,
+		38509.62
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

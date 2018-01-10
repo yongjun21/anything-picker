@@ -1,0 +1,50 @@
+{
+	"name": "M K THAM MEDICAL & RESPIRATORY CLINIC",
+	"tel": "67338271",
+	"fax": "67353391",
+	"licensee": "THAM MENG KEAT",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401028",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #13-18 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "THAM MENG KEAT",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1978",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1982",
+				"FAMS (Respiratory Med) (Academy of Medicine, Singapore) 1988",
+				"FCCP (American College of Chest Physicians, United States) 1993",
+				"FRCP (Int Med) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1994",
+				"FRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1997"
+			],
+			"specialties": [
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Internal Medicine",
+			"Respiratory Medicine"
+		]
+	},
+	"id": "9401028",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

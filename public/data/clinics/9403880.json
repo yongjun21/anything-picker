@@ -1,0 +1,51 @@
+{
+	"name": "Q & M DENTAL SURGERY (SERANGOON NORTH) PTE LTD",
+	"tel": "62828597",
+	"fax": "62826709",
+	"licensee": "Q & M Dental Surgery (Serangoon North) Pte. Ltd.",
+	"licensePeriod": "29/12/2016 to 28/12/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403880",
+	"address": "BLK 153 Serangoon North Avenue 1, #01-536 Singapore 550153",
+	"doctorInCharge": [
+		{
+			"name": "Kuan Chee Keong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9403880",
+	"coordinates": [
+		103.8723123,
+		1.369951
+	],
+	"svy21": [
+		32339.53,
+		39107.77
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

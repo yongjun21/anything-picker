@@ -1,0 +1,57 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "65855768",
+	"fax": "65816209",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "14/10/2015 to 13/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0168",
+	"address": "BLK 625 ELIAS ROAD, ELIAS MALL, #01-324B Singapore 510625",
+	"doctorInCharge": [
+		{
+			"name": "Loh Wenying Amanda",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 03:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 03:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 03:00 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 03:00 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 03:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "11C0168",
+	"coordinates": [
+		103.9419782,
+		1.3786024
+	],
+	"svy21": [
+		40092.46,
+		40064.64
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"name": "SINGAPORE FAMILY CLINIC & SURGERY (HOUGANG)",
+	"tel": "62849692",
+	"fax": "62546535",
+	"licensee": "HEALTHWAY MEDICAL ENTERPRISES PTE LTD",
+	"licensePeriod": "14/10/2014 to 13/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402197",
+	"address": "BLK 108 HOUGANG AVE 1, #01-1299 Singapore 530108",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9402197",
+	"coordinates": [
+		103.8900932,
+		1.3527739
+	],
+	"svy21": [
+		34318.37,
+		37208.46
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

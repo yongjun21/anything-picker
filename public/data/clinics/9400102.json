@@ -1,0 +1,52 @@
+{
+	"name": "BEDOK CLINIC & SURGERY(FAMILY MEDICAL CENTRE)",
+	"tel": "62410943",
+	"fax": "64420966",
+	"licensee": "FONG KHEE LENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400102",
+	"address": "BLK 17 BEDOK SOUTH RD, #01-565 Singapore 460017",
+	"doctorInCharge": [
+		{
+			"name": "FONG KHEE LENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1973"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "10:00 am to 12:30 am, 03:00 pm to 04:30 pm, 07:00 pm to 08:30 pm",
+		"Tuesday": "10:00 am to 12:30 am, 03:00 pm to 04:30 pm, 07:00 pm to 08:30 pm",
+		"Wednesday": "10:00 am to 12:30 am, 03:00 pm to 04:30 pm, 07:00 pm to 08:30 pm",
+		"Thursday": "10:00 am to 12:30 am, 03:00 pm to 04:30 pm, 07:00 pm to 08:30 pm",
+		"Friday": "10:00 am to 12:30 am, 03:00 pm to 04:30 pm, 07:00 pm to 08:30 pm"
+	},
+	"id": "9400102",
+	"coordinates": [
+		103.9355635,
+		1.3201488
+	],
+	"svy21": [
+		39378.86,
+		33601.1
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

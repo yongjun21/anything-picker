@@ -1,0 +1,49 @@
+{
+	"name": "TOA PAYOH DENTAL CENTRE",
+	"tel": "62501492",
+	"fax": "62259382",
+	"licensee": "TOA PAYOH DENTAL CENTRE PTE. LTD.",
+	"licensePeriod": "26/06/2017 to 25/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0215",
+	"address": "BLK 107 LORONG 1 TOA PAYOH, #01-258 Singapore 310107",
+	"doctorInCharge": [
+		{
+			"name": "Abdul Rehman Rashid",
+			"qualifications": [
+				"BDS (University of London, United Kingdom) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 10:00 pm",
+		"Tuesday": "01:00 pm to 10:00 pm",
+		"Wednesday": "10:00 am to 10:00 pm",
+		"Thursday": "01:00 pm to 10:00 pm",
+		"Friday": "10:00 am to 10:00 pm",
+		"Saturday": "10:00 am to 06:00 pm"
+	},
+	"id": "15D0215",
+	"coordinates": [
+		103.847294,
+		1.3412336
+	],
+	"svy21": [
+		29555.32,
+		35932.32
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

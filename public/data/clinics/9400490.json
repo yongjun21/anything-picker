@@ -1,0 +1,54 @@
+{
+	"name": "EVANGEL MEDICAL CLINIC",
+	"tel": "64490555",
+	"fax": "62423037",
+	"licensee": "NG HWEE HIN",
+	"licensePeriod": "16/09/2017 to 15/09/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400490",
+	"address": "BLK 10 CHAI CHEE RD, #01-01 Singapore 467010",
+	"doctorInCharge": [
+		{
+			"name": "NG HWEE HIN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:30 pm to 05:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400490",
+	"coordinates": [
+		103.9248036,
+		1.3272757
+	],
+	"svy21": [
+		38181.36,
+		34389.11
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

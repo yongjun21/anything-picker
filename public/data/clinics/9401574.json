@@ -1,0 +1,39 @@
+{
+	"name": "T & T FAMILY HEALTH CLINIC & SURGERY",
+	"tel": "62934071",
+	"fax": "62993826",
+	"licensee": "TING CHOON MENG",
+	"licensePeriod": "02/04/2015 to 01/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401574",
+	"address": "181 KITCHENER ROAD, NEW PARK SHOPPING ARCADE, #01-32/36/37/38/39 Singapore 208533",
+	"doctorInCharge": [
+		{
+			"name": "TING CHOON MENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9401574",
+	"coordinates": [
+		103.8556647,
+		1.3105168
+	],
+	"svy21": [
+		30486.91,
+		32535.82
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

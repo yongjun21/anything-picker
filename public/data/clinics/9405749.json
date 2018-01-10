@@ -1,0 +1,52 @@
+{
+	"name": "MINT MEDICAL CENTRE",
+	"tel": "62729372",
+	"fax": "62729218",
+	"licensee": "MISSION INTERNATIONAL MEDICAL CENTRE",
+	"licensePeriod": "12/11/2014 to 11/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405749",
+	"address": "1 HARBOURFRONT PLACE, HARBOURFRONT TOWER ONE, #01-10 Singapore 098633",
+	"doctorInCharge": [
+		{
+			"name": "Loke Chi Wei Peter",
+			"qualifications": [
+				"MB BCh (Queen's University of Belfast, United Kingdom) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 11:00 am, 12:30 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 11:00 am, 12:30 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 11:00 am, 12:30 pm to 05:30 pm",
+		"Thursday": "09:00 am to 11:00 am, 12:30 pm to 05:30 pm",
+		"Friday": "09:00 am to 11:00 am, 12:30 pm to 05:30 pm"
+	},
+	"id": "9405749",
+	"coordinates": [
+		103.8191393,
+		1.2647781
+	],
+	"svy21": [
+		26421.95,
+		27478.26
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

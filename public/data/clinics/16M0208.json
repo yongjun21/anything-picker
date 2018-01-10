@@ -1,0 +1,53 @@
+{
+	"name": "MOUNT ALVERNIA OUTREACH MEDICAL CLINIC",
+	"tel": "62624312",
+	"fax": "63476632",
+	"licensee": "Franciscan Missionaries of the Divine Motherhood (Mount Alvernia Hospital)",
+	"licensePeriod": "13/07/2016 to 12/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0208",
+	"address": "7A LORONG 8 TOA PAYOH, AGAPE VILLAGE, #02-07 Singapore 319264",
+	"doctorInCharge": [
+		{
+			"name": "Tan Li Wen Terence",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "12:00 pm to 04:00 pm, 05:00 pm to 08:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "12:00 pm to 04:00 pm, 05:00 pm to 08:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm"
+	},
+	"id": "16M0208",
+	"coordinates": [
+		103.8569857,
+		1.3400817
+	],
+	"svy21": [
+		30633.9,
+		35804.96
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

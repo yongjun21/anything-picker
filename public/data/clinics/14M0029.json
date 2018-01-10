@@ -1,0 +1,45 @@
+{
+	"name": "ONCOSOLUTIONS CANCER CENTER",
+	"licensee": "Tan Aik Huang Terence",
+	"licensePeriod": "16/02/2016 to 15/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0029",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #06-46 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Tan Aik Huang Terence",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1997",
+				"Board Cert (Int Med) (American Board of Internal Medicine, United States) 2003",
+				"Board Cert (Med Oncology) (American Board of Internal Medicine, United States) 2006"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	},
+	"id": "14M0029",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

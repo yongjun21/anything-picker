@@ -1,0 +1,48 @@
+{
+	"name": "SHENS CLINIC",
+	"tel": "69044488",
+	"fax": "67348608",
+	"licensee": "Shens Cosmetic Surgery Pte Ltd",
+	"licensePeriod": "04/05/2017 to 03/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0128",
+	"address": "3 KILLINEY ROAD, WINSLAND HOUSE I, #09-08 Singapore 239519",
+	"doctorInCharge": [
+		{
+			"name": "Shenthilkumar S/O Sritharan Naidu",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"M Med (Surg) (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Plastic Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Day Surgery",
+		"Liposuction"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Plastic Surgery"
+		]
+	},
+	"id": "17M0128",
+	"coordinates": [
+		103.8402866,
+		1.2996221
+	],
+	"svy21": [
+		28775.48,
+		31331.13
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

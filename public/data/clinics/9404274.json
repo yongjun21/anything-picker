@@ -1,0 +1,57 @@
+{
+	"name": "SINGAPORE SPORTS AND ORTHOPAEDIC CLINIC",
+	"tel": "64712638",
+	"fax": "64712632",
+	"licensee": "Kevin Yip Man Hing",
+	"licensePeriod": "15/11/2016 to 14/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9404274",
+	"address": "6 Napier Road, Gleneagles Medical Centre, #02-09 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Kevin Yip Man Hing",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1986",
+				"FRCS (Orth Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1990",
+				"FHKCOS (Hong Kong College of Orthopaedic Surgeons, China, Hong Kong) 1993",
+				"FAMS (Orth Surg) (Academy of Medicine, Singapore) 1998"
+			],
+			"specialties": [
+				"Orthopaedic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Orthopaedic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404274",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

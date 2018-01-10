@@ -1,0 +1,58 @@
+{
+	"name": "RENALTEAM DIALYSIS CENTRE BUKIT MERAH",
+	"tel": "63765128",
+	"fax": "62713368",
+	"licensee": "RENALTEAM PTE. LTD.",
+	"licensePeriod": "17/03/2017 to 16/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0075",
+	"address": "BLK 131 JALAN BUKIT MERAH, #01-1575 Singapore 160131",
+	"doctorInCharge": [
+		{
+			"name": "PWEE HOCK SWEE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1965",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1971",
+				"MRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1971",
+				"FAMS (Academy of Medicine, Singapore) 1973",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1975"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "07:00 am to 10:30 pm",
+		"Tuesday": "07:00 am to 10:30 pm",
+		"Wednesday": "07:00 am to 10:30 pm",
+		"Thursday": "07:00 am to 10:30 pm",
+		"Friday": "07:00 am to 10:30 pm",
+		"Saturday": "07:00 am to 10:30 pm"
+	},
+	"id": "15M0075",
+	"coordinates": [
+		103.8281784,
+		1.2801894
+	],
+	"svy21": [
+		27427.94,
+		29182.36
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

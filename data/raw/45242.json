@@ -3,10 +3,10 @@
 	"tel": "68380123",
 	"fax": "68380103",
 	"licensee": "MINISTRY MEDICAL GROUP PTE. LTD.",
-	"licensePeriod": "19/10/2015 to 18/10/2017",
+	"licensePeriod": "21/11/2017 to 20/11/2019",
 	"licenseClass": "[ 2 Years ( 2A ) ]",
 	"hciCode": "15C0362",
-	"address": "290 Orchard Road, Paragon, #16-10 Singapore 238859",
+	"address": "290 Orchard Road, Paragon, #16-04/09/10 Singapore 238859",
 	"doctorInCharge": [
 		{
 			"name": "Chen Lisa",
@@ -24,5 +24,9 @@
 	},
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)"
-	]
+	],
+	"operatingHours": {
+		"Monday to Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	}
 }

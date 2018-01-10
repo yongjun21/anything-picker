@@ -1,0 +1,48 @@
+{
+	"name": "TELEO PTE LTD",
+	"tel": "62971577",
+	"fax": "63963777",
+	"licensee": "TELEO PTE. LTD.",
+	"licensePeriod": "06/04/2016 to 05/04/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9403586",
+	"address": "21 & 21A UPPER WELD ROAD, Singapore 207378",
+	"doctorInCharge": [
+		{
+			"name": "Khoo Yong Hak",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9403586",
+	"coordinates": [
+		103.8545948,
+		1.3055337
+	],
+	"svy21": [
+		30367.85,
+		31984.81
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

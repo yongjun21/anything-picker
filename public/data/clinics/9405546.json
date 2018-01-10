@@ -1,0 +1,50 @@
+{
+	"name": "NIKS MAPLE LASER CLINIC",
+	"tel": "62359428",
+	"fax": "62353789",
+	"licensee": "Niks Professional Pte Ltd",
+	"licensePeriod": "05/07/2016 to 04/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405546",
+	"address": "181 ORCHARD ROAD, ORCHARD CENTRAL, #05-34 Singapore 238896",
+	"doctorInCharge": [
+		{
+			"name": "Ong Fung Chin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"Dip Derm (University of London, United Kingdom) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 08:00 pm",
+		"Tuesday": "09:00 am to 08:00 pm",
+		"Wednesday": "09:00 am to 08:00 pm",
+		"Thursday": "09:00 am to 08:00 pm",
+		"Friday": "09:00 am to 08:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405546",
+	"coordinates": [
+		103.8394347,
+		1.3008389
+	],
+	"svy21": [
+		28680.67,
+		31465.68
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

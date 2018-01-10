@@ -1,0 +1,54 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "62252188",
+	"fax": "63235110",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401359",
+	"address": "51 ANSON ROAD, ANSON CENTRE, #01-51 Singapore 079904",
+	"doctorInCharge": [
+		{
+			"name": "Sarala Devi Sankaran Nair",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9401359",
+	"coordinates": [
+		103.8457386,
+		1.2745218
+	],
+	"svy21": [
+		29382.25,
+		28555.67
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

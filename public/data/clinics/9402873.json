@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67959671",
+	"fax": "67959671",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "21/01/2014 to 20/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402873",
+	"address": "31 JURONG WEST ST 24, CORPORATION PRIMARY SCHOOL, Singapore 648374",
+	"doctorInCharge": [
+		{
+			"name": "Tham Sai Soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9402873",
+	"coordinates": [
+		103.6995355,
+		1.352206
+	],
+	"svy21": [
+		13111.44,
+		37145.99
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

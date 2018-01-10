@@ -1,0 +1,53 @@
+{
+	"name": "COMPASSVALE 297A MEDICAL CLINIC",
+	"tel": "65473592",
+	"fax": "65473591",
+	"licensee": "GOH YEW PING",
+	"licensePeriod": "08/03/2014 to 07/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403173",
+	"address": "BLK 297A COMPASSVALE ST, #01-36 Singapore 541297",
+	"doctorInCharge": [
+		{
+			"name": "GOH YEW PING",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9403173",
+	"coordinates": [
+		103.9006973,
+		1.394836
+	],
+	"svy21": [
+		35498.36,
+		41859.5
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

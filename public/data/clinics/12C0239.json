@@ -1,0 +1,53 @@
+{
+	"name": "W. H. YAK FAMILY CLINIC",
+	"tel": "64431561",
+	"fax": "64438740",
+	"licensee": "W. H. YAK FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "05/11/2016 to 04/11/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "12C0239",
+	"address": "BLK 25 NEW UPPER CHANGI RD, #01-644 Singapore 462025",
+	"doctorInCharge": [
+		{
+			"name": "YAK WAN HONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "12C0239",
+	"coordinates": [
+		103.9338356,
+		1.3232501
+	],
+	"svy21": [
+		39186.54,
+		33944.02
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

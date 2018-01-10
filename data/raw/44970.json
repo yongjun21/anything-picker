@@ -9,16 +9,18 @@
 	"address": "914 EAST COAST ROAD, THE DOMAIN, #01-03 Singapore 459108",
 	"doctorInCharge": [
 		{
-			"name": "Kwek Boon Chow",
+			"name": "Lin Kai Wei",
 			"qualifications": [
-				"MBBS (National University of Singapore, Singapore) 2001"
+				"MB ChB (University of Sheffield, United Kingdom) 1997"
 			],
-			"specialties": []
+			"specialties": [
+				"Family Physician"
+			]
 		}
 	],
 	"detailedServices": {
 		"General Medical": true,
-		"Yellow Fever Vaccination": []
+		"Yellow Fever Vaccination": true
 	},
 	"programmes": [
 		"Chronic Disease Management Programme (CDMP)",

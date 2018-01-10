@@ -1,0 +1,46 @@
+{
+	"name": "MALO CLINIC NUFFIELD DENTAL",
+	"tel": "62800256",
+	"fax": "62818546",
+	"licensee": "NUFFIELD DENTAL KOVAN PRIVATE LIMITED",
+	"licensePeriod": "10/09/2016 to 09/09/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "14D0273",
+	"address": "2 KOVAN ROAD, SIMON PLAZA, #01-03 Singapore 548008",
+	"doctorInCharge": [
+		{
+			"name": "Samintharaj Kumar",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"id": "14D0273",
+	"coordinates": [
+		103.8849928,
+		1.361976
+	],
+	"svy21": [
+		33750.73,
+		38225.97
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

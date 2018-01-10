@@ -1,0 +1,44 @@
+{
+	"name": "18 CLINIC",
+	"tel": "62999750",
+	"fax": "62990732",
+	"licensee": "Tan Pik Yee",
+	"licensePeriod": "25/04/2015 to 24/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400002",
+	"address": "BLK 101 TOWNER ROAD, #01-228 Singapore 322101",
+	"doctorInCharge": [
+		{
+			"name": "TAN PIK YEE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9400002",
+	"coordinates": [
+		103.8610875,
+		1.3194254
+	],
+	"svy21": [
+		31090.4,
+		33520.89
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

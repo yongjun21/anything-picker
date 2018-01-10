@@ -1,0 +1,46 @@
+{
+	"name": "THE AESTHETICS CLINIC",
+	"tel": "63165282",
+	"fax": "63165902",
+	"licensee": "THE AESTHETICS CLINIC PTE. LTD.",
+	"licensePeriod": "25/02/2016 to 24/02/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405496",
+	"address": "91 Bukit Batok West Avenue 2, Civil Service Club, #05-02 Singapore 659206",
+	"doctorInCharge": [
+		{
+			"name": "Dana Elliott Srither",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9405496",
+	"coordinates": [
+		103.7493759,
+		1.3526196
+	],
+	"svy21": [
+		18658.13,
+		37191.48
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

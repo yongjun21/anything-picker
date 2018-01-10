@@ -1,0 +1,55 @@
+{
+	"name": "S W MEDICAL CENTRE",
+	"tel": "67526488",
+	"fax": "67526433",
+	"licensee": "CHU SIU WEN",
+	"licensePeriod": "30/09/2015 to 29/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402340",
+	"address": "BLK 160 YISHUN ST 11, #01-204 Singapore 760160",
+	"doctorInCharge": [
+		{
+			"name": "CHU SIU WEN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1994",
+				"Dip Derm (University of London, United Kingdom) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm"
+	},
+	"id": "9402340",
+	"coordinates": [
+		103.8333445,
+		1.4324145
+	],
+	"svy21": [
+		28002.89,
+		46014.64
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"name": "ISLAND FAMILY CLINIC (FERNVALE)",
+	"tel": "64813740",
+	"fax": "64620833",
+	"licensee": "IFC FERNVALE PTE LTD",
+	"licensePeriod": "13/07/2016 to 12/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0205",
+	"address": "BLK 473A FERNVALE STREET, #01-03 Singapore 791473",
+	"doctorInCharge": [
+		{
+			"name": "Lai Tien Yew Jeffrey",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Sunday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm"
+	},
+	"id": "16M0205",
+	"coordinates": [
+		103.8812328,
+		1.3978597
+	],
+	"svy21": [
+		33332.21,
+		42193.8
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

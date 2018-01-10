@@ -1,0 +1,44 @@
+{
+	"name": "MEDIHEALTH BISHAN CLINIC & SURGERY",
+	"tel": "62583212",
+	"fax": "62583212",
+	"licensee": "HEALTHGIVERS PTE LTD",
+	"licensePeriod": "01/11/2017 to 14/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401087",
+	"address": "BLK 121 BISHAN ST 12, #01-95 Singapore 570121",
+	"doctorInCharge": [
+		{
+			"name": "NG SIEW MIN AMY",
+			"qualifications": [
+				"MB ChB (University of Glasgow, United Kingdom) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9401087",
+	"coordinates": [
+		103.8510492,
+		1.3471867
+	],
+	"svy21": [
+		29973.22,
+		36590.58
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

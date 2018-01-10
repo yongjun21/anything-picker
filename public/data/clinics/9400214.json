@@ -1,0 +1,49 @@
+{
+	"name": "CHEN DENTAL SURGERY",
+	"tel": "65647809",
+	"fax": "65653678",
+	"licensee": "CHEN DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400214",
+	"address": "BLK 463 JURONG WEST ST 41, #01-560 Singapore 640463",
+	"doctorInCharge": [
+		{
+			"name": "CHEN YUN CHEE GERARD",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1982",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 1987"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 04:30 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400214",
+	"coordinates": [
+		103.7232411,
+		1.350577
+	],
+	"svy21": [
+		15749.61,
+		36965.73
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

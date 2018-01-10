@@ -1,0 +1,55 @@
+{
+	"name": "T C GOH MEDICAL & RESPIRATORY CLINIC",
+	"tel": "64795897",
+	"fax": "64799316",
+	"licensee": "GOH TECK CHONG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401577",
+	"address": "6 NAPIER RD, GLENEAGLES MEDICAL CENTRE, #10-01 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "GOH TECK CHONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1980",
+				"FAMS (Respiratory Med) (Academy of Medicine, Singapore) 1984",
+				"FRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1995"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Respiratory Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9401577",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

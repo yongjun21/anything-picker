@@ -1,0 +1,54 @@
+{
+	"name": "CITY DENTAL SURGERY",
+	"tel": "63372416",
+	"fax": "63372416",
+	"licensee": "City Dental Private Limited",
+	"licensePeriod": "25/06/2016 to 24/06/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9403960",
+	"address": "1 Coleman Street, The Adelphi, #B1-36 Singapore 179803",
+	"doctorInCharge": [
+		{
+			"name": "PANG SOON ENG",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1979",
+				"MDS (Prosthodontics) (Singapore) (National University of Singapore, Singapore) 1988",
+				"FAMS (Prosthodontics) (Academy of Medicine, Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Prosthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9403960",
+	"coordinates": [
+		103.8511842,
+		1.291185
+	],
+	"svy21": [
+		29988.3,
+		30398.2
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

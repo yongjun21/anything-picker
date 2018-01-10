@@ -1,0 +1,49 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "63920215",
+	"fax": "63920215",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "30/03/2015 to 29/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403906",
+	"address": "91 BENDEMEER ROAD,, BENDEMEER PRIMARY SCHOOL, Singapore 339948",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wanyi",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403906",
+	"coordinates": [
+		103.8654042,
+		1.3218125
+	],
+	"svy21": [
+		31570.81,
+		33784.85
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

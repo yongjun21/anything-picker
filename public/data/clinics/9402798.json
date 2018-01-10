@@ -1,0 +1,72 @@
+{
+	"name": "PACIFIC SURGICAL AND ENDOSCOPY CENTRE",
+	"tel": "68836955",
+	"fax": "62388567",
+	"licensee": "PACIFIC SURGICAL AND ENDOSCOPY CENTRE PTE. LTD.",
+	"licensePeriod": "17/10/2017 to 16/10/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9402798",
+	"address": "290 Orchard Road,, Paragon, #12-01 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Nurhidayati Binte Mohamed Suphan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 2006"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Day Surgery",
+		"Endoscopy",
+		"Liposuction"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Medical": [
+			"Anaesthesiology",
+			"Gastroenterology",
+			"General Surgery",
+			"Hand Surgery",
+			"Neurosurgery",
+			"Obstetrics & Gynaecology",
+			"Ophthalmology",
+			"Orthopaedic Surgery",
+			"Otorhinolaryngology",
+			"Plastic Surgery",
+			"Sports Medicine",
+			"Urology"
+		],
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm, 09:00 am to 01:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm, 09:00 am to 01:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm, 09:00 am to 01:00 pm",
+		"Thursday": "09:00 am to 06:00 pm, 09:00 am to 01:00 pm",
+		"Friday": "09:00 am to 06:00 pm, 09:00 am to 01:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9402798",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

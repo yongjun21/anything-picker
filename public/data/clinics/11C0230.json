@@ -1,0 +1,55 @@
+{
+	"name": "PARSONS MEDICAL CLINIC PTE LTD",
+	"tel": "87770736",
+	"fax": "62413298",
+	"licensee": "PARSONS MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "13/12/2015 to 12/12/2017",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
+	"hciCode": "11C0230",
+	"address": "BLK 779 YISHUN AVENUE 2, #01-1541 Singapore 760779",
+	"doctorInCharge": [
+		{
+			"name": "Keith Ong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "Closed",
+		"Friday": "Closed",
+		"Tuesday": "09:00 am to 12:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm",
+		"Thursday": "03:00 pm to 07:00 pm",
+		"Saturday": "Closed"
+	},
+	"id": "11C0230",
+	"coordinates": [
+		103.8332613,
+		1.4221446
+	],
+	"svy21": [
+		27993.63,
+		44879.04
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

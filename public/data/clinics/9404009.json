@@ -1,0 +1,55 @@
+{
+	"name": "TOOFDOCTOR DENTAL CENTRE",
+	"tel": "62211121",
+	"fax": "62224681",
+	"licensee": "TOOFDOCTOR PTE. LTD.",
+	"licensePeriod": "19/11/2016 to 18/11/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9404009",
+	"address": "1 TRAS LINK, ORCHID HOTEL, #02-07 Singapore 078867",
+	"doctorInCharge": [
+		{
+			"name": "Choy Keen Meng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "09:00 am to 05:00 pm"
+	},
+	"id": "9404009",
+	"coordinates": [
+		103.8438472,
+		1.2769367
+	],
+	"svy21": [
+		29171.75,
+		28822.7
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

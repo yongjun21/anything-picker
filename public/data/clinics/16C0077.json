@@ -1,0 +1,40 @@
+{
+	"name": "SEMBCORP MARINE TANJONG KLING YARD MEDICAL CENTRE",
+	"tel": "62627247",
+	"fax": "62627250",
+	"licensee": "SEMBCORP MARINE LTD",
+	"licensePeriod": "29/03/2016 to 28/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16C0077",
+	"address": "29 TANJONG KLING RD, GROUND FLOOR, CORPORATE BUILDING, Singapore 628054",
+	"doctorInCharge": [
+		{
+			"name": "Anthony Chao Tar Liang",
+			"qualifications": [
+				"MB BCh (Royal College of Surgeons, Ireland) 1999",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16C0077",
+	"coordinates": [
+		103.7091064,
+		1.3091203
+	],
+	"svy21": [
+		14176.34,
+		32381.74
+	],
+	"planningArea": "BL",
+	"neighbours": [
+		"JE",
+		"PN",
+		"JW"
+	]
+}

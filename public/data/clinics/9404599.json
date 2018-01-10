@@ -1,0 +1,55 @@
+{
+	"name": "BANYAN CLINIC @ JW",
+	"tel": "68991161",
+	"fax": "68999043",
+	"licensee": "banyan clinic @ jw private limited",
+	"licensePeriod": "19/10/2015 to 18/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404599",
+	"address": "BLK 502 JURONG WEST AVENUE 1, #01-817 Singapore 640502",
+	"doctorInCharge": [
+		{
+			"name": "Zuraimi Bin Mohamed Dahlan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 03:00 pm, 06:00 pm to 11:00 pm",
+		"Tuesday": "08:00 am to 03:00 pm, 06:00 pm to 11:00 pm",
+		"Wednesday": "08:00 am to 03:00 pm, 06:00 pm to 11:00 pm",
+		"Thursday": "08:00 am to 03:00 pm, 06:00 pm to 11:00 pm",
+		"Friday": "08:00 am to 03:00 pm, 06:00 pm to 11:00 pm",
+		"Saturday": "06:00 pm to 11:00 pm",
+		"Sunday": "08:00 am to 03:00 pm",
+		"Public Holiday": "08:00 am to 03:00 pm"
+	},
+	"id": "9404599",
+	"coordinates": [
+		103.7183347,
+		1.3505013
+	],
+	"svy21": [
+		15203.57,
+		36957.39
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

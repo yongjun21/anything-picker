@@ -1,0 +1,48 @@
+{
+	"name": "SBCC WOMEN'S CLINIC",
+	"tel": "65547040",
+	"fax": "65547041",
+	"licensee": "SBCC WOMEN'S CLINIC PTE. LTD.",
+	"licensePeriod": "20/06/2016 to 19/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "11C0136",
+	"address": "BLK 720 ANG MO KIO AVENUE 6, #01-4108 Singapore 560720",
+	"doctorInCharge": [
+		{
+			"name": "Kanika Chaudhuri",
+			"qualifications": [
+				"MBBS (University of Calcutta, India) 1991",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "11C0136",
+	"coordinates": [
+		103.8469903,
+		1.371801
+	],
+	"svy21": [
+		29521.5,
+		39312.31
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

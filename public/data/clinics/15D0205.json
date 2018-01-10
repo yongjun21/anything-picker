@@ -1,0 +1,48 @@
+{
+	"name": "DELTA DENTAL SURGEONS",
+	"tel": "63416676",
+	"fax": "63416766",
+	"licensee": "DELTA DENTAL PTE. LTD.",
+	"licensePeriod": "23/06/2017 to 22/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0205",
+	"address": "12 KALLANG AVENUE, APERIA, #03-05 Singapore 339511",
+	"doctorInCharge": [
+		{
+			"name": "Martin Tan Kok Leong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 09:00 pm",
+		"Sunday": "09:00 am to 09:00 pm"
+	},
+	"id": "15D0205",
+	"coordinates": [
+		103.8643264,
+		1.3097112
+	],
+	"svy21": [
+		31450.88,
+		32446.75
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"name": "Q & M DENTAL CENTRE (ORCHARD) PTE LTD",
+	"tel": "67322633",
+	"fax": "67327533",
+	"licensee": "Q & M DENTAL CENTRE (ORCHARD) PTE. LTD.",
+	"licensePeriod": "27/09/2014 to 26/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405715",
+	"address": "176 ORCHARD ROAD, THE CENTREPOINT, #03-16/17/18/19 Singapore 238843",
+	"doctorInCharge": [
+		{
+			"name": "Ng Jet Wei",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9405715",
+	"coordinates": [
+		103.8397589,
+		1.301978
+	],
+	"svy21": [
+		28716.75,
+		31591.64
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

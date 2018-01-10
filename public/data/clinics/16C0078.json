@@ -1,0 +1,39 @@
+{
+	"name": "SEMBCORP MARINE TUAS BOULEVARD YARD MEDICAL CENTRE",
+	"tel": "68378734",
+	"fax": "68378735",
+	"licensee": "SEMBCORP MARINE LTD",
+	"licensePeriod": "29/03/2016 to 28/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16C0078",
+	"address": "80 TUAS SOUTH BOULEVARD, Singapore 637051",
+	"doctorInCharge": [
+		{
+			"name": "ANTHONY CHAO TAR LIANG",
+			"qualifications": [
+				"MB BCh (Royal College of Surgeons, Ireland) 1999",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16C0078",
+	"coordinates": [
+		103.6135664,
+		1.2526254
+	],
+	"svy21": [
+		3543.05,
+		26135.5
+	],
+	"planningArea": "TS",
+	"neighbours": [
+		"PN",
+		"WC"
+	]
+}

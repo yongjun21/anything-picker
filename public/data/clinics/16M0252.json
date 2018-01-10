@@ -1,0 +1,50 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "63111111",
+	"fax": "63112390",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "29/08/2016 to 28/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0252",
+	"address": "1 SENGKANG SQUARE, Compass One, #04-09 Singapore 545078",
+	"doctorInCharge": [
+		{
+			"name": "Hoo Kai Meng",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1979",
+				"Dip Geriatric Med (National University of Singapore, Singapore) 2007",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "16M0252",
+	"coordinates": [
+		103.8950701,
+		1.3920528
+	],
+	"svy21": [
+		34872.13,
+		41551.73
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

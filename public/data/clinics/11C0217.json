@@ -1,0 +1,56 @@
+{
+	"name": "SINGAPORE TECHNOLOGIES ELECTRONICS LIMITED (IN-HOUSE MEDICAL CLINIC)",
+	"tel": "62277777",
+	"fax": "68530682",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "24/11/2015 to 23/11/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0217",
+	"address": "24 ANG MO KIO ST 65, Singapore 569061",
+	"doctorInCharge": [
+		{
+			"name": "Wong Pei Ying",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2006",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 10:00 am",
+		"Tuesday": "08:30 am to 10:00 am",
+		"Wednesday": "08:30 am to 10:00 am",
+		"Thursday": "08:30 am to 10:00 am",
+		"Friday": "08:30 am to 10:00 am",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "11C0217",
+	"coordinates": [
+		103.8492723,
+		1.391603
+	],
+	"svy21": [
+		29775.44,
+		41501.91
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

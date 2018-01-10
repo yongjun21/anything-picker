@@ -1,0 +1,53 @@
+{
+	"name": "CHOW SURGERY (PTE) LTD",
+	"tel": "67377135",
+	"fax": "67377134",
+	"licensee": "CHOW SHEN JUNG",
+	"licensePeriod": "01/01/2015 to 31/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400268",
+	"address": "19 TANGLIN ROAD, TANGLIN SHOPPING CENTRE, #05-26 Singapore 247909",
+	"doctorInCharge": [
+		{
+			"name": "CHOW SHEN JUNG",
+			"qualifications": [
+				"MB (National Taiwan University, China, Taiwan) 1958",
+				"FRACS (Gen Surg) (Royal Australasian College of Surgeons, Australia) 1974",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 1975"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9400268",
+	"coordinates": [
+		103.8270506,
+		1.3064027
+	],
+	"svy21": [
+		27302.43,
+		32080.89
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"name": "MEDI HEALTHCARE CLINIC (PUNGGOL)",
+	"tel": "64448748",
+	"fax": "66948239",
+	"licensee": "MEDI HEALTHCARE CLINIC (PUNGGOL) PTE. LTD.",
+	"licensePeriod": "15/03/2017 to 14/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0063",
+	"address": "BLK 218 SUMANG WALK, #01-02 Singapore 820218",
+	"doctorInCharge": [
+		{
+			"name": "Cheong Hong Fai",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2003",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2007",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2012"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "17M0063",
+	"coordinates": [
+		103.895387,
+		1.4032271
+	],
+	"svy21": [
+		34907.37,
+		42787.33
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

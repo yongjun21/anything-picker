@@ -1,0 +1,65 @@
+{
+	"name": "ORCHARD SURGERY CENTER",
+	"tel": "68873383",
+	"fax": "68875685",
+	"licensee": "ORCHARD SURGERY CENTER PTE. LTD.",
+	"licensePeriod": "04/05/2017 to 03/05/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405211",
+	"address": "290 ORCHARD ROAD, THE PARAGON, #16-05/06 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "YEO SOW NAM",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"M Med (Anaes) (National University of Singapore, Singapore) 1999",
+				"FFPMANZCA (Australian and New Zealand College of Anaesthetists, Australia) 2003"
+			],
+			"specialties": [
+				"Anaesthesiology"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Day Surgery",
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"General Dental": true,
+		"General Medical": true,
+		"Specialist Medical": [
+			"Anaesthesiology",
+			"Gastroenterology",
+			"General Surgery",
+			"Hand Surgery",
+			"Obstetrics & Gynaecology",
+			"Ophthalmology",
+			"Orthopaedic Surgery",
+			"Paediatric Surgery",
+			"Plastic Surgery",
+			"Urology"
+		],
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Paediatric Dentistry"
+		]
+	},
+	"id": "9405211",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

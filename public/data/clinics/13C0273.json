@@ -1,0 +1,50 @@
+{
+	"name": "BLOOD SPECIALIST CLINIC",
+	"tel": "64794282",
+	"fax": "64794289",
+	"licensee": "LIM LAY CHENG",
+	"licensePeriod": "05/01/2017 to 04/01/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0273",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #10-09 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "LIM LAY CHENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1992",
+				"FAMS (Haem) (Academy of Medicine, Singapore) 1997",
+				"MD (National University of Singapore, Singapore) 2001",
+				"FRCP (Royal College of Physicians, United Kingdom) 2004"
+			],
+			"specialties": [
+				"Haematology",
+				"Palliative Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Haematology",
+			"Palliative Medicine"
+		]
+	},
+	"id": "13C0273",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"name": "KONG CLINIC FOR CHEST & INTERNAL MEDICINE",
+	"tel": "64438810",
+	"fax": "64438853",
+	"licensee": "KONG CHEST & INTERNAL MEDICINE CLINIC PTE. LTD.",
+	"licensePeriod": "19/11/2016 to 18/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0344",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #13-12 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "Kong Po Marn",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1994",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1995",
+				"FAMS (Academy of Medicine, Singapore) 2003",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2006"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Intensive Care Medicine",
+			"Respiratory Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "14M0344",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

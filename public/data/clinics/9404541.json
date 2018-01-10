@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67670447",
+	"fax": "67670447",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "23/08/2015 to 22/08/2020",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9404541",
+	"address": "BLK 4 CHESTNUT DRIVE, Singapore 679287",
+	"doctorInCharge": [
+		{
+			"name": "Tham Sai Soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9404541",
+	"coordinates": [
+		103.7674122,
+		1.3666037
+	],
+	"svy21": [
+		20665.41,
+		38737.71
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

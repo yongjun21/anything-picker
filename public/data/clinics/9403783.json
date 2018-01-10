@@ -1,0 +1,57 @@
+{
+	"name": "THOMSON WOMEN'S CLINIC",
+	"tel": "63888125",
+	"fax": "63880332",
+	"licensee": "THOMSON WOMEN'S CLINIC (SENGKANG) PTE. LTD",
+	"licensePeriod": "17/12/2015 to 16/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403783",
+	"address": "5 SENGKANG SQUARE, SENGKANG MRT STATION, #01-05 Singapore 545062",
+	"doctorInCharge": [
+		{
+			"name": "ADRIAN BENEDICT WOODWORTH",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1996",
+				"MRACOG (Royal Australian College of Obstetricians and Gynaecologists, Australia) 1997",
+				"M Med (O&G) (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "11:45 am to 02:00 pm",
+		"Thursday": "11:45 am to 02:00 pm",
+		"Tuesday": "04:30 pm to 07:30 pm",
+		"Friday": "04:30 pm to 07:30 pm",
+		"Wednesday": "Closed",
+		"Saturday": "11:45 am to 02:00 pm"
+	},
+	"id": "9403783",
+	"coordinates": [
+		103.8954847,
+		1.3916946
+	],
+	"svy21": [
+		34918.27,
+		41512.13
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"name": "FAITH HEALTHCARE (TAMPINES)",
+	"tel": "64448019",
+	"licensee": "NG TSORNG CHINN",
+	"licensePeriod": "24/01/2017 to 23/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0016",
+	"address": "11 TAMPINES STREET 32, TAMPINES MART, #01-11 Singapore 529287",
+	"doctorInCharge": [
+		{
+			"name": "NG TSORNG CHINN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "17M0016",
+	"coordinates": [
+		103.9596357,
+		1.3545375
+	],
+	"svy21": [
+		42057.67,
+		37403.76
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

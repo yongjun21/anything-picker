@@ -1,0 +1,41 @@
+{
+	"name": "ALL DERMA MEDICAL CLINIC",
+	"tel": "62380979",
+	"fax": "62380979",
+	"licensee": "ALL DERMA PTE. LTD.",
+	"licensePeriod": "17/12/2016 to 16/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0379",
+	"address": "360 ORCHARD ROAD, INTERNATIONAL BUILDING, #03-14 Singapore 238869",
+	"doctorInCharge": [
+		{
+			"name": "Ma Thazin",
+			"qualifications": [
+				"MBBS (Institute of Medicine (I), Rangoon, Myanmar) 1991",
+				"M Med (Int Med) (National University of Singapore, Singapore) 2008",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "14M0379",
+	"coordinates": [
+		103.8310033,
+		1.3060752
+	],
+	"svy21": [
+		27742.33,
+		32044.67
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

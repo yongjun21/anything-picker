@@ -1,0 +1,54 @@
+{
+	"name": "YIM CLINIC",
+	"tel": "62707587",
+	"fax": "62732316",
+	"licensee": "YIM CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "03/12/2015 to 02/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9401946",
+	"address": "BLK 11A BOON TIONG ROAD, #02-03/04/05 Singapore 161011",
+	"doctorInCharge": [
+		{
+			"name": "YIM FU YUE GREGORY",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 1998"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 01:00 pm, 01:30 pm to 05:00 pm, 05:30 pm to 08:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 01:30 pm to 05:00 pm, 05:30 pm to 08:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 01:30 pm to 05:00 pm, 05:30 pm to 08:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 01:30 pm to 05:00 pm, 05:30 pm to 08:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 01:30 pm to 05:00 pm, 05:30 pm to 08:00 pm",
+		"Saturday": "08:00 am to 01:00 pm",
+		"Sunday": "08:00 am to 01:00 pm"
+	},
+	"id": "9401946",
+	"coordinates": [
+		103.8287899,
+		1.2863658
+	],
+	"svy21": [
+		27495.99,
+		29865.31
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "SMILE CENTRAL CLINIC",
+	"tel": "62596881",
+	"fax": "62596885",
+	"licensee": "SMILE CENTRAL DENTAL TOA PAYOH PTE. LTD.",
+	"licensePeriod": "05/05/2017 to 04/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0129",
+	"address": "BLK 183 TOA PAYOH CENTRAL, #01-278 Singapore 310183",
+	"doctorInCharge": [
+		{
+			"name": "GOH CHOON GUAN DANIEL",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15D0129",
+	"coordinates": [
+		103.8488657,
+		1.333356
+	],
+	"svy21": [
+		29730.23,
+		35061.25
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

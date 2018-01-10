@@ -1,0 +1,47 @@
+{
+	"name": "DENNIS TAN DENTAL SURGERY",
+	"tel": "64385622",
+	"fax": "64385625",
+	"licensee": "DENNIS TAN DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "13/09/2014 to 12/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402003",
+	"address": "9 RAFFLES PLACE, REPUBLIC PLAZA II, #02-23 Singapore 048619",
+	"doctorInCharge": [
+		{
+			"name": "TAN MENG KOK",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1984",
+				"DGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm"
+	},
+	"id": "9402003",
+	"coordinates": [
+		103.8508367,
+		1.2831935
+	],
+	"svy21": [
+		29949.62,
+		29514.55
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

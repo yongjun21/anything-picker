@@ -1,0 +1,62 @@
+{
+	"name": "MISSION (HOUGANG) MEDICAL CLINIC",
+	"tel": "62814567",
+	"fax": "62814525",
+	"licensee": "MISSION (HOUGANG) MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "14/05/2017 to 13/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15C0147",
+	"address": "BLK 356 HOUGANG AVE 7, #01-799 Singapore 530356",
+	"doctorInCharge": [
+		{
+			"name": "Leong Choon Kit",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"M Med (Public Health) (National University of Singapore, Singapore) 1998",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2003",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2006",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2011",
+				"FAMS (Family Medicine) (Academy of Medicine, Singapore) 2014"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "02:00 pm to 04:00 pm",
+		"Thursday": "02:00 pm to 04:00 pm",
+		"Tuesday": "02:00 pm to 04:00 pm, 07:00 pm to 10:00 pm",
+		"Wednesday": "02:00 pm to 04:00 pm, 07:00 pm to 10:00 pm",
+		"Friday": "08:30 am to 12:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "15C0147",
+	"coordinates": [
+		103.8988131,
+		1.3725931
+	],
+	"svy21": [
+		35288.75,
+		39399.99
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

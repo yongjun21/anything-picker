@@ -1,0 +1,48 @@
+{
+	"name": "GLORY DENTAL SURGERY PTE LTD",
+	"tel": "63447747",
+	"fax": "63445747",
+	"licensee": "VOO HWEE CHOO",
+	"licensePeriod": "18/12/2015 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400583",
+	"address": "865 MOUNTBATTEN ROAD, KATONG SHOPPING CENTRE, #02-02 Singapore 437844",
+	"doctorInCharge": [
+		{
+			"name": "VOO HWEE CHOO",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 04:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400583",
+	"coordinates": [
+		103.9015159,
+		1.3040973
+	],
+	"svy21": [
+		35589.74,
+		31826.08
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

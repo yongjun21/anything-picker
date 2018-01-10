@@ -1,0 +1,50 @@
+{
+	"name": "RAINTREE DENTAL CLINIC",
+	"tel": "64407543",
+	"fax": "64407649",
+	"licensee": "RAINTREE DENTAL PTE. LTD.",
+	"licensePeriod": "03/07/2016 to 02/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0188",
+	"address": "107 EAST COAST ROAD, Singapore 428799",
+	"doctorInCharge": [
+		{
+			"name": "Kuek Yit Liang",
+			"qualifications": [
+				"BDSc (University of Melbourne, Australia) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "12:30 pm to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 04:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "14D0188",
+	"coordinates": [
+		103.9043713,
+		1.3057981
+	],
+	"svy21": [
+		35907.51,
+		32014.15
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

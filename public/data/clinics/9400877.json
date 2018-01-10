@@ -1,0 +1,55 @@
+{
+	"name": "KOWA CLINIC & SURGERY FOR WOMEN",
+	"tel": "62351144",
+	"fax": "67386805",
+	"licensee": "KOWA NAM SING",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9400877",
+	"address": "3 MT ELIZABETH, MT ELIZABETH MEDICAL CENTRE, #16-17/18 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "KOWA NAM SING",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1980",
+				"M Med (O&G) (National University of Singapore, Singapore) 1981",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1984"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 05:00 pm"
+	},
+	"id": "9400877",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

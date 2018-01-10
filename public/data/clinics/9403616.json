@@ -1,0 +1,45 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67790910",
+	"fax": "67790910",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/06/2014 to 31/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403616",
+	"address": "301 West Coast Road, TANGLIN SECONDARY SCHOOL, Singapore 127391",
+	"doctorInCharge": [
+		{
+			"name": "tham sai soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403616",
+	"coordinates": [
+		103.7581584,
+		1.3097017
+	],
+	"svy21": [
+		19635.37,
+		32445.8
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

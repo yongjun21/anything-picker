@@ -1,0 +1,38 @@
+{
+	"name": "IHP MEDICAL CLINIC @ GSK",
+	"tel": "67159914",
+	"fax": "67159429",
+	"licensee": "INTEGRATED HEALTH PLANS PTE LTD",
+	"licensePeriod": "12/06/2017 to 11/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0173",
+	"address": "23 ROCHESTER PARK, Singapore 139234",
+	"doctorInCharge": [
+		{
+			"name": "Mohamed Faizal Bin Abdul Wahid",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0173",
+	"coordinates": [
+		103.7871976,
+		1.3072346
+	],
+	"svy21": [
+		22867.16,
+		32172.93
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

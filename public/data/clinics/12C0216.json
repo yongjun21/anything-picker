@@ -1,0 +1,52 @@
+{
+	"name": "MAO MEDICAL CENTRE & SURGERY PTE LTD",
+	"tel": "62781910",
+	"fax": "62754935",
+	"licensee": "MAO MEDICAL CENTRE AND SURGERY PRIVATE LIMITED",
+	"licensePeriod": "03/10/2016 to 02/10/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "12C0216",
+	"address": "BLK 149 SILAT AVENUE, #01-54 Singapore 160149",
+	"doctorInCharge": [
+		{
+			"name": "MAO FONG HAO",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "12C0216",
+	"coordinates": [
+		103.8316002,
+		1.2773607
+	],
+	"svy21": [
+		27808.76,
+		28869.57
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

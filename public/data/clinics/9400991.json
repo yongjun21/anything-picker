@@ -1,0 +1,44 @@
+{
+	"name": "LIN & SONS CLINIC & SURGERY PTE LTD",
+	"tel": "67690554",
+	"fax": "67696459",
+	"licensee": "LIN HAI DUH",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400991",
+	"address": "BLK 18 TECK WHYE LANE, #01-97 Singapore 680018",
+	"doctorInCharge": [
+		{
+			"name": "LIN HAI DUH",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9400991",
+	"coordinates": [
+		103.7540714,
+		1.3782977
+	],
+	"svy21": [
+		19180.78,
+		40030.82
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

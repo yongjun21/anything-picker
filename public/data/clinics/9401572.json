@@ -1,0 +1,48 @@
+{
+	"name": "T & T DENTAL SURGERY",
+	"tel": "63536449",
+	"fax": "63546434",
+	"licensee": "TANG CHIAN PIAO. JIMMY",
+	"licensePeriod": "20/03/2017 to 19/03/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9401572",
+	"address": "BLK 505B BISHAN ST 11, #01-418 Singapore 572505",
+	"doctorInCharge": [
+		{
+			"name": "TANG CHIAN PIAO. JIMMY",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm"
+	},
+	"id": "9401572",
+	"coordinates": [
+		103.8485267,
+		1.3487014
+	],
+	"svy21": [
+		29692.5,
+		36758.07
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

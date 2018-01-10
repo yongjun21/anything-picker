@@ -1,0 +1,47 @@
+{
+	"name": "UNITY DENTICARE",
+	"tel": "65904404",
+	"licensee": "NTUC Health Co-operative Ltd",
+	"licensePeriod": "14/08/2016 to 13/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14C0227",
+	"address": "BLK 309 Choa Chu Kang Avenue 4, Choa Chu Kang Centre, #03-01 Singapore 680309",
+	"doctorInCharge": [
+		{
+			"name": "Jeevan S/O Apok",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "14C0227",
+	"coordinates": [
+		103.7457107,
+		1.3851178
+	],
+	"svy21": [
+		18250.36,
+		40784.98
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

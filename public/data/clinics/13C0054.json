@@ -1,0 +1,51 @@
+{
+	"name": "SINGAPORE GENERAL HOSPITAL ORTHOPAEDIC SPORTS AND JOINT CENTRE",
+	"tel": "67366039",
+	"fax": "68874296",
+	"licensee": "SINGAPORE GENERAL HOSPITAL PTE LTD",
+	"licensePeriod": "12/03/2017 to 11/03/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0054",
+	"address": "1 ORCHARD BOULEVARD, CAMDEN CENTRE, #15-00 Singapore 248649",
+	"doctorInCharge": [
+		{
+			"name": "Paul Chang Chee Cheng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"FRCS (Orth Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1991"
+			],
+			"specialties": [
+				"Orthopaedic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Orthopaedic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 06:00 pm",
+		"Tuesday": "08:00 am to 06:00 pm",
+		"Wednesday": "08:00 am to 06:00 pm",
+		"Thursday": "08:00 am to 06:00 pm",
+		"Friday": "08:00 am to 06:00 pm"
+	},
+	"id": "13C0054",
+	"coordinates": [
+		103.8239072,
+		1.3031376
+	],
+	"svy21": [
+		26952.59,
+		31719.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

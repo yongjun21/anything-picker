@@ -1,0 +1,55 @@
+{
+	"name": "TSI & PARTNERS FAMILY CLINIC",
+	"tel": "63834818",
+	"fax": "63832258",
+	"licensee": "TSI & PARTNERS FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "06/07/2017 to 05/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15C0226",
+	"address": "BLK 151 Serangoon North Avenue 2, #01-01 Singapore 550151",
+	"doctorInCharge": [
+		{
+			"name": "Lionel Tsi",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "08:30 am to 12:30 pm",
+		"Monday": "08:30 am to 03:30 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 03:30 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 03:30 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 03:30 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 03:30 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "15C0226",
+	"coordinates": [
+		103.8737783,
+		1.3693454
+	],
+	"svy21": [
+		32502.68,
+		39040.81
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

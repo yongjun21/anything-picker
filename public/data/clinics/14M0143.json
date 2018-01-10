@@ -1,0 +1,53 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "66360390",
+	"fax": "65576860",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "28/05/2016 to 27/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0143",
+	"address": "12 MARINA BOULEVARD, MARINA BAY FINANCIAL CENTRE TOWER 3, #17-05 Singapore 018982",
+	"doctorInCharge": [
+		{
+			"name": "Wong Chung Pheng Melvyn",
+			"qualifications": [
+				"BM (University of Southampton, United Kingdom) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 06:00 pm",
+		"Tuesday": "08:00 am to 06:00 pm",
+		"Wednesday": "08:00 am to 06:00 pm",
+		"Thursday": "08:00 am to 06:00 pm",
+		"Friday": "08:00 am to 06:00 pm"
+	},
+	"id": "14M0143",
+	"coordinates": [
+		103.854457,
+		1.2791249
+	],
+	"svy21": [
+		30352.54,
+		29064.66
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

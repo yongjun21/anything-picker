@@ -1,0 +1,53 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "62418818",
+	"fax": "62419032",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "19/11/2017 to 18/11/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404670",
+	"address": "65 Airport Boulevard Departure Hall, Singapore Changi Airport Terminal 3, #02-67 Singapore 819663",
+	"doctorInCharge": [
+		{
+			"name": "Salleh Bin Omar B A Alkhatia",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "06:00 am to 12:00 am",
+		"Tuesday": "06:00 am to 12:00 am",
+		"Wednesday": "06:00 am to 12:00 am",
+		"Thursday": "06:00 am to 12:00 am",
+		"Friday": "06:00 am to 12:00 am",
+		"Saturday": "06:00 am to 12:00 am",
+		"Sunday": "06:00 am to 12:00 am"
+	},
+	"id": "9404670",
+	"coordinates": [
+		103.9865622,
+		1.3566261
+	],
+	"svy21": [
+		45054.27,
+		37634.88
+	],
+	"planningArea": "CH",
+	"neighbours": [
+		"PR",
+		"TM",
+		"CB"
+	]
+}

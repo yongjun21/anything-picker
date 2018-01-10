@@ -1,0 +1,53 @@
+{
+	"name": "SMILE CONCEPT DENTAL PRACTICE",
+	"tel": "63447748",
+	"fax": "63447749",
+	"licensee": "Smile Concept Dental Practice Pte Ltd",
+	"licensePeriod": "19/01/2016 to 18/01/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9405078",
+	"address": "5 STADIUM WALK, LEISURE PARK KALLANG, #02-19/20 Singapore 397693",
+	"doctorInCharge": [
+		{
+			"name": "Lim Ee Lee Eloise",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Periodontology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 09:00 pm",
+		"Tuesday": "08:30 am to 09:00 pm",
+		"Wednesday": "08:30 am to 09:00 pm",
+		"Thursday": "10:00 am to 06:00 pm",
+		"Saturday": "10:00 am to 06:00 pm",
+		"Friday": "08:30 am to 06:30 pm",
+		"Sunday": "10:00 am to 05:00 am"
+	},
+	"id": "9405078",
+	"coordinates": [
+		103.876474,
+		1.3023011
+	],
+	"svy21": [
+		32802.8,
+		31627.4
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

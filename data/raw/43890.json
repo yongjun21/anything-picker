@@ -3,8 +3,8 @@
 	"tel": "67349393",
 	"fax": "67336032",
 	"licensee": "NORTHWESTERN UNITY 1 PTE. LTD.",
-	"licensePeriod": "28/10/2015 to 27/10/2017",
-	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"licensePeriod": "28/10/2017 to 27/10/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
 	"hciCode": "13C0160",
 	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #07-17 Singapore 258499",
 	"doctorInCharge": [
@@ -21,14 +21,14 @@
 			]
 		}
 	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
 	"detailedServices": {
 		"General Dental": true,
 		"Specialist Dental": [
 			"Dental Public Health",
-			"Endodontics",
 			"Oral & Maxillo-Facial Surgery",
-			"Orthodontics",
-			"Paediatric Dentistry",
 			"Periodontology",
 			"Prosthodontics"
 		]

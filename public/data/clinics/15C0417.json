@@ -1,0 +1,57 @@
+{
+	"name": "WS GO SPECIALIST DENTAL",
+	"tel": "63335550",
+	"fax": "65702045",
+	"licensee": "W.S. GO & ASSOCIATES PTE. LTD.",
+	"licensePeriod": "08/12/2015 to 07/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15C0417",
+	"address": "8 SINARAN DRIVE, NOVENA SPECIALIST CENTER, #05-16 Singapore 307470",
+	"doctorInCharge": [
+		{
+			"name": "GO WEE SER",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983",
+				"MDS (National University of Singapore, Singapore) 1987",
+				"FDS RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 1988",
+				"FAMS (Oral & Maxillofacial Surgery) (Academy of Medicine, Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Oral & Maxillo-Facial Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "15C0417",
+	"coordinates": [
+		103.8447824,
+		1.3200301
+	],
+	"svy21": [
+		29275.81,
+		33587.74
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

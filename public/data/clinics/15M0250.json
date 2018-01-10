@@ -1,0 +1,54 @@
+{
+	"name": "FARRER VASCULAR AND VEIN CENTRE",
+	"tel": "64439972",
+	"fax": "64439942",
+	"licensee": "FARRER VASCULAR AND VEIN CENTRE PTE. LTD.",
+	"licensePeriod": "23/07/2017 to 22/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0250",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #13-11 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "Tan Yih Kai",
+			"qualifications": [
+				"MBBS (University of Queensland, Australia) 1994",
+				"FRCSEd (Royal College of Surgeons of Edinburgh, United Kingdom) 1999",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 2006"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "15M0250",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

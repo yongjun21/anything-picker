@@ -1,0 +1,57 @@
+{
+	"name": "KL LING GASTROENTEROLOGY AND LIVER CLINIC",
+	"tel": "62352135",
+	"fax": "62352192",
+	"licensee": "KL LING GASTROENTEROLOGY AND LIVER CLINIC PTE. LTD.",
+	"licensePeriod": "17/04/2017 to 16/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0101",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #16-04 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Ling Khoon Lin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1996",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Gastroenterology",
+				"Internal Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Gastroenterology",
+			"Internal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15M0101",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

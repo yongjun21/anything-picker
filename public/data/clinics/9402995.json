@@ -1,0 +1,41 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "62757395",
+	"fax": "62757395",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402995",
+	"address": "BLK 91 TELOK BLANGAH HEIGHTS, Singapore 109100",
+	"doctorInCharge": [
+		{
+			"name": "Tan Wanyi",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9402995",
+	"coordinates": [
+		103.8086285,
+		1.2761205
+	],
+	"svy21": [
+		25252.19,
+		28732.45
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

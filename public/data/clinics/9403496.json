@@ -1,0 +1,53 @@
+{
+	"name": "SKIN CLINIC",
+	"tel": "67373339",
+	"fax": "67373776",
+	"licensee": "WONG SEOW CHOON GEORGE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403496",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #07-06 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "FOO KIM GEOK JENNIFER",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 1960",
+				"Dip Derm (University of London, United Kingdom) 1964"
+			],
+			"specialties": [
+				"Dermatology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Dermatology",
+			"Internal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 04:00 pm",
+		"Tuesday": "09:00 am to 04:00 pm",
+		"Wednesday": "09:00 am to 04:00 pm",
+		"Thursday": "09:00 am to 04:00 pm",
+		"Friday": "09:00 am to 04:00 pm",
+		"Saturday": "09:00 am to 04:00 pm"
+	},
+	"id": "9403496",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

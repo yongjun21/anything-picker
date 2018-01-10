@@ -1,0 +1,49 @@
+{
+	"name": "SPARKLE DENTAL SURGERY",
+	"tel": "63976508",
+	"fax": "63976509",
+	"licensee": "Sparkle Healthcare Pte. Ltd.",
+	"licensePeriod": "02/02/2016 to 01/02/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404368",
+	"address": "10 Sinaran Drive, Square 2, #04-25 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Tay Kwang Hua",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 09:00 pm",
+		"Sunday": "09:00 am to 09:00 pm"
+	},
+	"id": "9404368",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

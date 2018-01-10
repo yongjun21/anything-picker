@@ -1,0 +1,45 @@
+{
+	"name": "DENTAL  CLINIC",
+	"tel": "64781439",
+	"fax": "64781439",
+	"licensee": "HEALTH PROMOTION BOARD",
+	"licensePeriod": "01/04/2015 to 31/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402926",
+	"address": "10 SERAYA RD, TANJONG KATONG PRIMARY SCHOOL, Singapore 437259",
+	"doctorInCharge": [
+		{
+			"name": "NOELINE TAN",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9402926",
+	"coordinates": [
+		103.9001283,
+		1.3052818
+	],
+	"svy21": [
+		35435.3,
+		31957.04
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

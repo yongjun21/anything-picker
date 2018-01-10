@@ -1,0 +1,56 @@
+{
+	"name": "FAJAR FAMILY CLINIC & SURGERY",
+	"tel": "67690636",
+	"fax": "67691178",
+	"licensee": "SOH SOON BENG",
+	"licensePeriod": "09/09/2014 to 08/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401979",
+	"address": "BLK 445 FAJAR ROAD, FAJAR SHOPPING CENTRE, #01-550 Singapore 670445",
+	"doctorInCharge": [
+		{
+			"name": "SOH SOON BENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"Dip Pract Derm (University of Wales, United Kingdom) 1999"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 12:30 pm",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9401979",
+	"coordinates": [
+		103.7707683,
+		1.3835804
+	],
+	"svy21": [
+		21038.95,
+		40614.9
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

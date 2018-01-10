@@ -1,0 +1,54 @@
+{
+	"name": "ANSARI FAMILY CLINIC & SURGERY",
+	"tel": "67430714",
+	"fax": "67430715",
+	"licensee": "ASHA ANSARI",
+	"licensePeriod": "01/06/2014 to 31/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404168",
+	"address": "78 LORONG 25A GEYLANG ROAD, Singapore 388259",
+	"doctorInCharge": [
+		{
+			"name": "ASHA ANSARI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 02:00 pm, 04:00 pm to 08:00 pm",
+		"Tuesday": "08:00 am to 02:00 pm, 04:00 pm to 08:00 pm",
+		"Wednesday": "08:00 am to 02:00 pm, 04:00 pm to 08:00 pm",
+		"Thursday": "08:00 am to 02:00 pm, 04:00 pm to 08:00 pm",
+		"Friday": "08:00 am to 12:30 pm, 04:00 pm to 08:00 pm",
+		"Saturday": "08:00 am to 02:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404168",
+	"coordinates": [
+		103.8833379,
+		1.3159223
+	],
+	"svy21": [
+		33566.67,
+		33133.58
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

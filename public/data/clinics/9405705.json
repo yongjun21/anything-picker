@@ -1,0 +1,52 @@
+{
+	"name": "TOOTH MATTERS DENTAL SURGERY",
+	"tel": "63374618",
+	"fax": "63368167",
+	"licensee": "Chan Yi How",
+	"licensePeriod": "24/01/2017 to 23/01/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405705",
+	"address": "231 BAIN STREET, BRAS BASAH COMPLEX, #02-95 Singapore 180231",
+	"doctorInCharge": [
+		{
+			"name": "Chan Yi How",
+			"qualifications": [
+				"BDS (University of Glasgow, United Kingdom) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 08:30 pm",
+		"Thursday": "09:30 am to 08:30 pm",
+		"Tuesday": "09:30 am to 06:30 pm",
+		"Wednesday": "09:30 am to 06:30 pm",
+		"Friday": "09:30 am to 06:30 pm",
+		"Saturday": "09:30 am to 04:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405705",
+	"coordinates": [
+		103.8536195,
+		1.2968153
+	],
+	"svy21": [
+		30259.31,
+		31020.77
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"name": "SILVER CROSS CLINIC (MARSILING)",
+	"tel": "63633646",
+	"fax": "63633349",
+	"licensee": "SILVER CROSS HEALTHCARE PTE LTD",
+	"licensePeriod": "28/11/2017 to 27/11/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13M0331",
+	"address": "BLK 305 WOODLANDS STREET 31, #01-75 Singapore 730305",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "13M0331",
+	"coordinates": [
+		103.7741024,
+		1.4303615
+	],
+	"svy21": [
+		21410.13,
+		45787.7
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

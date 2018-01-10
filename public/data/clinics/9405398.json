@@ -1,0 +1,56 @@
+{
+	"name": "FRESENIUS MEDICAL CARE CLEMENTI DIALYSIS CLINIC",
+	"tel": "67783062",
+	"fax": "67782392",
+	"licensee": "ARC KIDNEY DIALYSIS PTE. LTD.",
+	"licensePeriod": "12/11/2017 to 11/11/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405398",
+	"address": "BLK 433 CLEMENTI AVENUE 3, #01-260 Singapore 120433",
+	"doctorInCharge": [
+		{
+			"name": "PARY SIVARAMAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1995",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "07:00 am to 10:00 pm",
+		"Tuesday": "07:00 am to 10:00 pm",
+		"Wednesday": "07:00 am to 10:00 pm",
+		"Thursday": "07:00 am to 10:00 pm",
+		"Friday": "07:00 am to 10:00 pm",
+		"Saturday": "07:00 am to 10:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405398",
+	"coordinates": [
+		103.7618274,
+		1.3140162
+	],
+	"svy21": [
+		20043.71,
+		32922.87
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

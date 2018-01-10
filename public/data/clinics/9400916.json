@@ -1,0 +1,50 @@
+{
+	"name": "LEE CLINIC",
+	"tel": "62922128",
+	"fax": "62990539",
+	"licensee": "LEE CHON SHAM",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400916",
+	"address": "2 ST GEORGE'S ROAD, Singapore 328023",
+	"doctorInCharge": [
+		{
+			"name": "LEE CHON SHAM",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "07:30 am to 12:00 pm, 03:00 pm to 06:00 pm",
+		"Tuesday": "07:30 am to 12:00 pm, 03:00 pm to 06:00 pm",
+		"Wednesday": "07:30 am to 12:00 pm, 03:00 pm to 06:00 pm",
+		"Thursday": "07:30 am to 12:00 pm, 03:00 pm to 06:00 pm",
+		"Friday": "07:30 am to 12:00 pm, 03:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400916",
+	"coordinates": [
+		103.8632671,
+		1.3224161
+	],
+	"svy21": [
+		31332.97,
+		33851.59
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"name": "THE LIFESTYLE CLINIC",
+	"tel": "67330788",
+	"fax": "67330316",
+	"licensee": "The Lifestyle Clinic Pte. Ltd.",
+	"licensePeriod": "26/12/2016 to 25/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405060",
+	"address": "1 ORCHARD BOULEVARD, CAMDEN MEDICAL CENTRE, #16-03 Singapore 248649",
+	"doctorInCharge": [
+		{
+			"name": "Komathy D/o Raja Ratnam",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 12:55 pm"
+	},
+	"id": "9405060",
+	"coordinates": [
+		103.8239072,
+		1.3031376
+	],
+	"svy21": [
+		26952.59,
+		31719.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

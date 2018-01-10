@@ -1,0 +1,50 @@
+{
+	"name": "BURLINSON DENTAL SURGERY",
+	"tel": "62413088",
+	"fax": "62418048",
+	"licensee": "Chan Pui Lin Jaime",
+	"licensePeriod": "28/04/2017 to 27/04/2018",
+	"licenseClass": "[ 1 Year ( 2D ) ]",
+	"hciCode": "11C0048",
+	"address": "697 EAST COAST ROAD, #01-01 Singapore 459060",
+	"doctorInCharge": [
+		{
+			"name": "Chan Pui Lin Jaime",
+			"qualifications": [
+				"BDS (University of London, United Kingdom) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:30 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 06:30 pm",
+		"Thursday": "09:00 am to 06:30 pm",
+		"Friday": "09:00 am to 06:30 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
+	"id": "11C0048",
+	"coordinates": [
+		103.9221707,
+		1.3120573
+	],
+	"svy21": [
+		37888.4,
+		32706.32
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

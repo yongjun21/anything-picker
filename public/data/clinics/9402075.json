@@ -1,0 +1,51 @@
+{
+	"name": "HEALTH PARTNERS MEDICAL CLINIC (SIGLAP)",
+	"tel": "64433316",
+	"fax": "64439886",
+	"licensee": "PANG WUI CHI JASON",
+	"licensePeriod": "31/01/2015 to 30/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402075",
+	"address": "BLK 23 UPPER EAST COAST ROAD, CRESCENDO BUILDING, Singapore 455289",
+	"doctorInCharge": [
+		{
+			"name": "PANG WUI CHI JASON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9402075",
+	"coordinates": [
+		103.9263296,
+		1.3131268
+	],
+	"svy21": [
+		38351.24,
+		32824.6
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

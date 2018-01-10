@@ -1,0 +1,53 @@
+{
+	"name": "CHONG'S CLINIC",
+	"tel": "64536492",
+	"fax": "64536035",
+	"licensee": "YUEN JYE",
+	"licensePeriod": "13/05/2014 to 12/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400257",
+	"address": "234 UPPER THOMSON ROAD, Singapore 574365",
+	"doctorInCharge": [
+		{
+			"name": "YUEN JYE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400257",
+	"coordinates": [
+		103.8350439,
+		1.353105
+	],
+	"svy21": [
+		28192.01,
+		37244.99
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

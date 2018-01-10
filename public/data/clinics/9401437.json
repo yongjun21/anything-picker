@@ -1,0 +1,54 @@
+{
+	"name": "S. T. MEDICAL CLINIC",
+	"tel": "64440159",
+	"fax": "64440159",
+	"licensee": "Sebastian Victor @ Wardson Victor",
+	"licensePeriod": "08/12/2016 to 07/12/2017",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"hciCode": "9401437",
+	"address": "BLK 531 BEDOK NORTH ST. 3, #01-694 Singapore 460531",
+	"doctorInCharge": [
+		{
+			"name": "Sebastian Victor @ Wardson Victor",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "09:30 am to 12:00 pm"
+	},
+	"id": "9401437",
+	"coordinates": [
+		103.9261531,
+		1.3331299
+	],
+	"svy21": [
+		38331.52,
+		35036.44
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

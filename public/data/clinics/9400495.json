@@ -1,0 +1,56 @@
+{
+	"name": "EXCELSIOR CLINIC & SURGERY",
+	"tel": "65673822",
+	"fax": "65665143",
+	"licensee": "TAN TECK HONG",
+	"licensePeriod": "04/03/2017 to 03/03/2019",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
+	"hciCode": "9400495",
+	"address": "BLK 283 BT BATOK EAST AVE 3, #01-261 Singapore 650283",
+	"doctorInCharge": [
+		{
+			"name": "TAN TECK HONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:30 am to 12:30 pm, 02:30 pm to 04:00 pm, 07:30 pm to 09:00 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 02:30 pm to 04:00 pm, 07:30 pm to 09:00 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 02:30 pm to 04:00 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:30 pm to 04:00 pm",
+		"Thursday": "09:30 am to 12:30 pm, 02:30 pm to 04:00 pm, 07:30 pm to 09:00 pm",
+		"Saturday": "09:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400495",
+	"coordinates": [
+		103.7575394,
+		1.3469437
+	],
+	"svy21": [
+		19566.61,
+		36563.83
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

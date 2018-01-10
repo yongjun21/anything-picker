@@ -1,0 +1,47 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "65617426",
+	"fax": "65617426",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "03/02/2016 to 02/02/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0017",
+	"address": "35 BUKIT BATOK STREET 31, DAZHONG PRIMARY SCHOOL, Singapore 659441",
+	"doctorInCharge": [
+		{
+			"name": "Tham Sai Soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "12C0017",
+	"coordinates": [
+		103.7484721,
+		1.3591797
+	],
+	"svy21": [
+		18557.57,
+		37916.87
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

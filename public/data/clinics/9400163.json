@@ -1,0 +1,49 @@
+{
+	"name": "CARDIOLOGY CLINIC PTE LTD",
+	"tel": "67334466",
+	"fax": "67371616",
+	"licensee": "NG ANG LEE RICHARD",
+	"licensePeriod": "04/11/2017 to 03/11/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400163",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #17-06 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "NG ANG LEE RICHARD",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1970",
+				"MRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1973",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1973",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1973",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1977",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 1978",
+				"FRCP (Int Med) (Royal College of Physicians of London, United Kingdom) 1987"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"id": "9400163",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

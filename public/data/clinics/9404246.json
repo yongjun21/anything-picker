@@ -1,0 +1,50 @@
+{
+	"name": "CANTERBURY MEDICAL CENTRE",
+	"tel": "67951335",
+	"fax": "67761731",
+	"licensee": "YEO KHOON HUI",
+	"licensePeriod": "27/10/2017 to 26/10/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404246",
+	"address": "BLK 328 CLEMENTI AVENUE 2, #01-202 Singapore 120328",
+	"doctorInCharge": [
+		{
+			"name": "YEO KHOON HUI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm",
+		"Friday": "09:00 am to 12:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9404246",
+	"coordinates": [
+		103.767089,
+		1.3139916
+	],
+	"svy21": [
+		20629.28,
+		32920.13
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

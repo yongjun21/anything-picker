@@ -1,0 +1,46 @@
+{
+	"name": "RP MEDICAL SPECIALISTS",
+	"tel": "65366889",
+	"fax": "62922585",
+	"licensee": "RAFFLES PLACE MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "17/06/2017 to 16/06/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0145",
+	"address": "20 MALACCA STREET, MALACCA CENTRE, #B1-00 Singapore 048979",
+	"doctorInCharge": [
+		{
+			"name": "TAN TECK JACK",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology",
+			"General Surgery",
+			"Ophthalmology",
+			"Orthopaedic Surgery",
+			"Otorhinolaryngology"
+		]
+	},
+	"id": "13C0145",
+	"coordinates": [
+		103.8507116,
+		1.2839423
+	],
+	"svy21": [
+		29935.7,
+		29597.34
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

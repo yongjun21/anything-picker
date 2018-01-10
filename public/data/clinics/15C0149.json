@@ -1,0 +1,42 @@
+{
+	"name": "PICTON MEDICAL CLINIC (BEDOK)",
+	"tel": "62416831",
+	"fax": "64451681",
+	"licensee": "HEALTHWAY MEDICAL ENTERPRISES PTE LTD",
+	"licensePeriod": "15/05/2017 to 14/05/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "15C0149",
+	"address": "BLK 57 New Upper Changi Road, #01-1346 Singapore 461057",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "15C0149",
+	"coordinates": [
+		103.9415687,
+		1.3242455
+	],
+	"svy21": [
+		40047.16,
+		34054.12
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"name": "LOW CARDIOLOGY CLINIC",
+	"tel": "67346611",
+	"fax": "67345566",
+	"licensee": "LOW LIP PING",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401011",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #11-05/06 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "LOW LIP PING",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1965",
+				"MRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1971",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 1972",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1975",
+				"FACC (American College of Cardiology, United States) 1978"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiology",
+			"Internal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:15 pm",
+		"Tuesday": "09:00 am to 05:15 pm",
+		"Wednesday": "09:00 am to 05:15 pm",
+		"Thursday": "09:00 am to 05:15 pm",
+		"Friday": "09:00 am to 05:15 pm",
+		"Saturday": "09:00 am to 05:15 pm"
+	},
+	"id": "9401011",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

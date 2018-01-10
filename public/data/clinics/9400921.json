@@ -1,0 +1,56 @@
+{
+	"name": "LEE CLINIC AND SURGERY",
+	"tel": "64539428",
+	"fax": "64539428",
+	"licensee": "LEE ENG HUA",
+	"licensePeriod": "28/11/2013 to 27/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400921",
+	"address": "BLK 505 ANG MO KIO AVE 8, #01-2684 Singapore 560505",
+	"doctorInCharge": [
+		{
+			"name": "LEE ENG HUA",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm",
+		"Friday": "08:30 am to 12:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400921",
+	"coordinates": [
+		103.8502249,
+		1.3748597
+	],
+	"svy21": [
+		29881.47,
+		39650.53
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

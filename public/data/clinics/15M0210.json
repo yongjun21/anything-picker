@@ -1,0 +1,41 @@
+{
+	"name": "SCINN MEDICAL CENTRE",
+	"tel": "62358066",
+	"fax": "62556862",
+	"licensee": "SCINN PTE. LTD.",
+	"licensePeriod": "24/06/2017 to 23/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0210",
+	"address": "391 ORCHARD ROAD, NGEE ANN CITY, #05-22B Singapore 238872",
+	"doctorInCharge": [
+		{
+			"name": "Yong Zhi Yong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": true
+	},
+	"id": "15M0210",
+	"coordinates": [
+		103.8351819,
+		1.3022417
+	],
+	"svy21": [
+		28207.37,
+		31620.79
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

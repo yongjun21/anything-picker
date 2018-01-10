@@ -1,0 +1,44 @@
+{
+	"name": "NORTHEAST MEDICAL GROUP",
+	"tel": "65366889",
+	"fax": "65361413",
+	"licensee": "NORTHEAST (TMA) MEDICAL ASSOCIATES PTE. LTD.",
+	"licensePeriod": "14/06/2017 to 13/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405660",
+	"address": "20 MALACCA STREET, MALACCA CENTRE, #B1-00 Singapore 048979",
+	"doctorInCharge": [
+		{
+			"name": "Tan Teck Jack",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9405660",
+	"coordinates": [
+		103.8507116,
+		1.2839423
+	],
+	"svy21": [
+		29935.7,
+		29597.34
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

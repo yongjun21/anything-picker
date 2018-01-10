@@ -1,0 +1,53 @@
+{
+	"name": "DR SHIRIN JACOB A MEDICAL PRACTICE",
+	"tel": "67370777",
+	"fax": "67370777",
+	"licensee": "SHIRIN JACOB",
+	"licensePeriod": "30/04/2017 to 29/04/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0105",
+	"address": "402 ORCHARD ROAD, DELFI ORCHARD, #06-01 Singapore 238876",
+	"doctorInCharge": [
+		{
+			"name": "SHIRIN JACOB",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1989",
+				"M Med (O&G) (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "10:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "10:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "10:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "10:00 am to 12:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "13C0105",
+	"coordinates": [
+		103.82847,
+		1.3071789
+	],
+	"svy21": [
+		27460.4,
+		32166.72
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

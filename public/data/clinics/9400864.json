@@ -1,0 +1,44 @@
+{
+	"name": "KOH CLINIC & SURGERY",
+	"tel": "65619938",
+	"fax": "65678985",
+	"licensee": "KOH BOON WAH",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400864",
+	"address": "BLK 166 BUKIT BATOK WEST AVENUE 8, #01-250 Singapore 650166",
+	"doctorInCharge": [
+		{
+			"name": "KOH BOON WAH",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1967"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9400864",
+	"coordinates": [
+		103.7428248,
+		1.3471526
+	],
+	"svy21": [
+		17929.04,
+		36586.99
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

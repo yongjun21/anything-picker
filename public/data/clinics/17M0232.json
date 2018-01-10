@@ -1,0 +1,40 @@
+{
+	"name": "PARKWAY SHENTON MEDICAL GROUP",
+	"tel": "62277777",
+	"fax": "62253735",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "31/07/2017 to 30/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0232",
+	"address": "7 CHANGI BUSINESS PARK CRESCENT, STANDARD CHARTERED @ CHANGI, #01-00 Singapore 486028",
+	"doctorInCharge": [
+		{
+			"name": "Noor Eliza Binte Suradi",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0232",
+	"coordinates": [
+		103.9665714,
+		1.3348354
+	],
+	"svy21": [
+		42829.65,
+		35225.24
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

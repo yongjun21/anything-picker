@@ -1,0 +1,48 @@
+{
+	"name": "ISMILE DENTAL CLINIC",
+	"tel": "62720656",
+	"fax": "62720656",
+	"licensee": "Phoon Pui Mei",
+	"licensePeriod": "16/11/2017 to 15/11/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404032",
+	"address": "BLK 78A Telok Blangah Street 32, #01-12 Singapore 101078",
+	"doctorInCharge": [
+		{
+			"name": "Phoon Pui Mei",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404032",
+	"coordinates": [
+		103.8089806,
+		1.2733875
+	],
+	"svy21": [
+		25291.37,
+		28430.26
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

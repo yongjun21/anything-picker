@@ -1,0 +1,54 @@
+{
+	"name": "WONG'S PLASTIC SURGERY CENTRE",
+	"tel": "64797173",
+	"fax": "64792954",
+	"licensee": "Wong Saw Yeen",
+	"licensePeriod": "01/05/2014 to 30/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401893",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #07-13 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Wong Saw Yeen",
+			"qualifications": [
+				"MBBS (University of Queensland, Australia) 1969",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1976",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 1976",
+				"FAMS (Plastic Surg) (Academy of Medicine, Singapore) 1997"
+			],
+			"specialties": [
+				"Plastic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Plastic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 04:30 pm",
+		"Tuesday": "09:00 am to 04:30 pm",
+		"Wednesday": "09:00 am to 04:30 pm",
+		"Thursday": "09:00 am to 04:30 pm",
+		"Friday": "09:00 am to 04:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9401893",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

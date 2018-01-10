@@ -1,0 +1,49 @@
+{
+	"name": "RAFFLESDENTAL",
+	"tel": "65856247",
+	"fax": "65850835",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "17/09/2017 to 16/09/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13D0241",
+	"address": "BLK 1 PASIR RIS CENTRAL STREET 3, Whitesands, #04-19 Singapore 518457",
+	"doctorInCharge": [
+		{
+			"name": "Kieu Li Chong, Edgar",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "Closed",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Sunday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "13D0241",
+	"coordinates": [
+		103.9497157,
+		1.3724498
+	],
+	"svy21": [
+		40953.58,
+		39384.36
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

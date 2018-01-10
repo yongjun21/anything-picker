@@ -1,0 +1,55 @@
+{
+	"name": "HAIG SPECIALIST O & G CLINIC PTE LTD",
+	"tel": "67447686",
+	"fax": "67461849",
+	"licensee": "DOSHI UMESH CHANDRA PANACHAND",
+	"licensePeriod": "29/07/2017 to 28/07/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405256",
+	"address": "36 HAIG RD, Singapore 438740",
+	"doctorInCharge": [
+		{
+			"name": "DOSHI UMESH CHANDRA PANACHAND",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1981",
+				"M Med (O&G) (National University of Singapore, Singapore) 1981",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1993"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9405256",
+	"coordinates": [
+		103.8958009,
+		1.3130758
+	],
+	"svy21": [
+		34953.69,
+		32818.85
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

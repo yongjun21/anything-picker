@@ -1,0 +1,47 @@
+{
+	"name": "FIRST MEDICAL CLINIC & SURGERY",
+	"tel": "63680111",
+	"fax": "63680111",
+	"licensee": "HENG KUO LENG JOHN",
+	"licensePeriod": "10/05/2017 to 09/05/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9402467",
+	"address": "BLK 167 WOODLANDS ST 11, #01-11 Singapore 730167",
+	"doctorInCharge": [
+		{
+			"name": "HENG KUO LENG JOHN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed"
+	},
+	"id": "9402467",
+	"coordinates": [
+		103.7758841,
+		1.4335937
+	],
+	"svy21": [
+		21608.41,
+		46145.11
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

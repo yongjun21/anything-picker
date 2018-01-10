@@ -1,0 +1,53 @@
+{
+	"name": "ASSOCIATE DISPENSARIES",
+	"tel": "62562308",
+	"fax": "62562308",
+	"licensee": "LEONG CHOON YIN",
+	"licensePeriod": "10/06/2015 to 09/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403516",
+	"address": "BLK 94 TOA PAYOH LOR 4, #01-20 Singapore 310094",
+	"doctorInCharge": [
+		{
+			"name": "LEONG CHOON YIN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1961"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "11:30 am to 12:30 pm, 03:30 pm to 05:00 pm",
+		"Tuesday": "11:30 am to 12:30 pm",
+		"Wednesday": "11:30 am to 12:30 pm, 03:30 pm to 05:00 pm",
+		"Thursday": "11:30 am to 12:30 pm",
+		"Friday": "11:30 am to 12:30 pm, 03:30 pm to 05:00 pm",
+		"Saturday": "11:30 am to 12:30 pm, 03:30 pm to 05:00 pm"
+	},
+	"id": "9403516",
+	"coordinates": [
+		103.8495383,
+		1.3388944
+	],
+	"svy21": [
+		29805.08,
+		35673.67
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

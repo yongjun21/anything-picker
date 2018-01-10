@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67494683",
+	"fax": "67494683",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "22/02/2015 to 21/02/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402912",
+	"address": "95 Jalan Eunos,, Eunos Primary School, Singapore 419529",
+	"doctorInCharge": [
+		{
+			"name": "Noeline Tan",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9402912",
+	"coordinates": [
+		103.9045413,
+		1.3244763
+	],
+	"svy21": [
+		35926.37,
+		34079.49
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

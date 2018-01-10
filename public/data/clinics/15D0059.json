@@ -1,0 +1,50 @@
+{
+	"name": "ADVANCED DENTAL CLINIC TOA PAYOH PTE LTD",
+	"tel": "63975411",
+	"fax": "00000000",
+	"licensee": "ADVANCED DENTAL CLINIC TOA PAYOH PRIVATE LIMITED",
+	"licensePeriod": "25/02/2017 to 24/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0059",
+	"address": "BLK 18 LORONG 7 TOA PAYOH, #01-256 Singapore 310018",
+	"doctorInCharge": [
+		{
+			"name": "SNG TIAP CHING MATTHEW",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "15D0059",
+	"coordinates": [
+		103.8567896,
+		1.3357572
+	],
+	"svy21": [
+		30612.08,
+		35326.78
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

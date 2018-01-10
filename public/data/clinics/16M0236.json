@@ -1,0 +1,41 @@
+{
+	"name": "WECOMED CLINIC",
+	"tel": "64672822",
+	"fax": "63686659",
+	"licensee": "Wecomed Clinic Pte Ltd",
+	"licensePeriod": "15/08/2016 to 14/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0236",
+	"address": "1 JALAN ANAK BUKIT, BUKIT TIMAH PLAZA, #B1-29/30 Singapore 588996",
+	"doctorInCharge": [
+		{
+			"name": "Lam Sue May",
+			"qualifications": [
+				"MBBS (University of Tasmania, Australia) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0236",
+	"coordinates": [
+		103.7786001,
+		1.3387593
+	],
+	"svy21": [
+		21910.41,
+		35658.79
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

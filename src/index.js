@@ -21,13 +21,7 @@ router.beforeEach((to, from, next) => {
     storeUpdated = false
     next()
   } else {
-    store.dispatch('importOptions', to.query).then(() => {
-      if (to.path !== '/intro' && !store.state.schoolLevel.selected) {
-        next({path: '/intro'})
-      } else {
-        next()
-      }
-    })
+    store.dispatch('importOptions', to.query).then(() => next())
   }
 })
 
@@ -54,7 +48,7 @@ router.replace = function (...args) {
 }
 
 Loading.show()
-store.dispatch('fetchSchoolList').then(schoolList => {
+store.dispatch('fetchClinicList').then(clinicList => {
   Loading.hide()
   window.vm = new Vue({
     el: '#app',

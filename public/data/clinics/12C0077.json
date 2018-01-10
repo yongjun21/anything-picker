@@ -1,0 +1,55 @@
+{
+	"name": "AGE-LINK SPECIALIST CLINIC FOR OLDER PERSONS",
+	"tel": "66941704",
+	"fax": "66941746",
+	"licensee": "Sitoh Yih Yiow",
+	"licensePeriod": "06/06/2016 to 05/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0077",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #06-21 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Sitoh Yih Yiow",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"MRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1996",
+				"M Med (Sleep Medicine) (University of Sydney, Australia) 2014"
+			],
+			"specialties": [
+				"Geriatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Geriatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "12C0077",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

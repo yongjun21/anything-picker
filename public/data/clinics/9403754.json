@@ -1,0 +1,53 @@
+{
+	"name": "PUNGGOL FAMILY CLINIC PTE. LTD.",
+	"tel": "63439989",
+	"fax": "63439979",
+	"licensee": "PUNGGOL FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "13/09/2014 to 12/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403754",
+	"address": "BLK 168 PUNGGOL FIELD, PUNGGOL PLAZA, #01-13 Singapore 820168",
+	"doctorInCharge": [
+		{
+			"name": "AW TUAN SOO",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "08:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Monday": "08:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:30 pm",
+		"Tuesday": "08:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:30 pm",
+		"Wednesday": "08:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:30 pm",
+		"Thursday": "08:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:30 pm",
+		"Friday": "08:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:30 pm",
+		"Saturday": "08:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Sunday": "08:00 am to 12:30 pm, 02:00 pm to 04:30 pm"
+	},
+	"id": "9403754",
+	"coordinates": [
+		103.9130473,
+		1.3942372
+	],
+	"svy21": [
+		36872.76,
+		41793.33
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

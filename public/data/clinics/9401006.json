@@ -1,0 +1,50 @@
+{
+	"name": "LONDON SURGERY (EAR NOSE & THROAT CLINIC)",
+	"tel": "67324849",
+	"fax": "67324849",
+	"licensee": "BOH HEE KEN",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401006",
+	"address": "19 TANGLIN ROAD, TANGLIN SHOPPING CENTRE, #06-50 Singapore 247909",
+	"doctorInCharge": [
+		{
+			"name": "BOH HEE KEN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1965",
+				"DLO (ENT) (Royal College of Surgeons of England, United Kingdom) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Otorhinolaryngology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9401006",
+	"coordinates": [
+		103.8270506,
+		1.3064027
+	],
+	"svy21": [
+		27302.43,
+		32080.89
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

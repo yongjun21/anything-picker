@@ -1,0 +1,47 @@
+{
+	"name": "SINGAPORE FAMILY CLINIC & SURGERY",
+	"tel": "65679981",
+	"fax": "65679897",
+	"licensee": "HEALTHWAY MEDICAL ENTERPRISES PTE LTD",
+	"licensePeriod": "14/10/2016 to 13/10/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9402033",
+	"address": "BLK 153 BUKIT BATOK ST 11, #01-284 Singapore 650153",
+	"doctorInCharge": [
+		{
+			"name": "Koh Kheng Keah Philip",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9402033",
+	"coordinates": [
+		103.7442765,
+		1.3474795
+	],
+	"svy21": [
+		18090.6,
+		36623.13
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

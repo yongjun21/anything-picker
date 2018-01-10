@@ -1,0 +1,51 @@
+{
+	"name": "CAMBRIDGE CLINIC",
+	"tel": "67818282",
+	"fax": "67889138",
+	"licensee": "NG KHIN SENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400161",
+	"address": "BLK 250 TAMPINES ST 21, #01-510 Singapore 520250",
+	"doctorInCharge": [
+		{
+			"name": "NG KHIN SENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9400161",
+	"coordinates": [
+		103.948458,
+		1.3523186
+	],
+	"svy21": [
+		40813.72,
+		37158.34
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

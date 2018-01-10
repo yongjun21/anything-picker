@@ -1,0 +1,50 @@
+{
+	"name": "NEU AGE CLINIC",
+	"tel": "62221481",
+	"fax": "62221482",
+	"licensee": "NEU AGE MEDICA PTE. LTD.",
+	"licensePeriod": "21/12/2016 to 20/12/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "12C0286",
+	"address": "13 BUKIT PASOH ROAD, Singapore 089827",
+	"doctorInCharge": [
+		{
+			"name": "Ngui Hoi Fook Nicholas",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 07:00 pm",
+		"Tuesday": "10:00 am to 07:00 pm",
+		"Wednesday": "10:00 am to 02:00 pm",
+		"Thursday": "10:00 am to 08:00 pm",
+		"Friday": "10:00 am to 07:00 pm",
+		"Saturday": "10:00 am to 04:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "12C0286",
+	"coordinates": [
+		103.8406126,
+		1.2788509
+	],
+	"svy21": [
+		28811.77,
+		29034.35
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

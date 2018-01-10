@@ -1,0 +1,57 @@
+{
+	"name": "ATRIA PAN DENTAL GROUP PTE LTD",
+	"tel": "67333133",
+	"fax": "62353227",
+	"licensee": "CHONG LAI LEONG WILLIAM",
+	"licensePeriod": "05/11/2016 to 04/11/2018",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "9402171",
+	"address": "290 ORCHARD ROAD, PARAGON, #19-01 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "ONG KEAT SIONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995",
+				"FDSRCS (England) (Royal College of Surgeons of England, United Kingdom) 1998",
+				"MDS (Oral & Maxillofacial Surgery) (Singapore) (National University of Singapore, Singapore) 1998",
+				"FFD RCSI (Oral Surgery) (Royal College of Surgeons of Ireland, Ireland) 1998",
+				"FDSRCPS (Glasgow) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1999",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2000"
+			],
+			"specialties": [
+				"Oral & Maxillo-Facial Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9402171",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"name": "LE MINT'S DENTAL CENTRE",
+	"tel": "64407321",
+	"fax": "63376123",
+	"licensee": "LE MINT'S DENTAL CENTRE PTE. LTD.",
+	"licensePeriod": "02/12/2015 to 01/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13D0338",
+	"address": "160 EAST COAST ROAD, Singapore 428867",
+	"doctorInCharge": [
+		{
+			"name": "TAN MIN SEET",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995",
+				"MDS (National University of Singapore, Singapore) 1999",
+				"FDSRCS (England) (Royal College of Surgeons of England, United Kingdom) 2000"
+			],
+			"specialties": [
+				"Oral & Maxillo-Facial Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13D0338",
+	"coordinates": [
+		103.9060381,
+		1.3063917
+	],
+	"svy21": [
+		36093.01,
+		32079.79
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

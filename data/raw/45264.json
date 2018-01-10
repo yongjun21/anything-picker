@@ -1,10 +1,10 @@
 {
 	"name": "T32 DENTAL PEARL AT CLEMENTI",
-	"tel": "67331388",
+	"tel": "68730063",
 	"fax": "67338100",
 	"licensee": "T32 DENTAL PEARL AT CLEMENTI PTE. LTD.",
-	"licensePeriod": "12/11/2015 to 11/11/2017",
-	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"licensePeriod": "12/11/2017 to 11/11/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
 	"hciCode": "15D0384",
 	"address": "BLK 447 CLEMENTI AVENUE 3, #01-199 Singapore 120447",
 	"doctorInCharge": [
@@ -15,6 +15,9 @@
 			],
 			"specialties": []
 		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
 	],
 	"detailedServices": {
 		"General Dental": true,
@@ -27,5 +30,10 @@
 			"Periodontology",
 			"Prosthodontics"
 		]
+	},
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday to Sunday": "09:00 am to 09:00 pm"
 	}
 }

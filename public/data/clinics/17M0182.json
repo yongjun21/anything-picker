@@ -1,0 +1,40 @@
+{
+	"name": "GREENFOREST FAMILY CLINIC",
+	"tel": "67850157",
+	"fax": "67852791",
+	"licensee": "Greenforest Family Clinic Pte. Ltd.",
+	"licensePeriod": "19/06/2017 to 18/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0182",
+	"address": "BLK 878C TAMPINES AVENUE 8, #01-71 Singapore 523878",
+	"doctorInCharge": [
+		{
+			"name": "Jackie Yeo Timlen",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0182",
+	"coordinates": [
+		103.9293638,
+		1.3512641
+	],
+	"svy21": [
+		38688.76,
+		37041.65
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"name": "HEALTHCONNEXION MEDICAL CLINIC",
+	"tel": "63630505",
+	"fax": "64431455",
+	"licensee": "HEALTHCONNEXION PTE. LTD.",
+	"licensePeriod": "16/06/2017 to 15/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0191",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #16-12/13 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "Peng Chung Mien",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978",
+				"D Av Med (Royal College of Physicians of London, United Kingdom) 1981",
+				"MPH (Public Health) (Harvard University, United States) 1996"
+			],
+			"specialties": [
+				"Aviation Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Aviation Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "04:00 am to 04:00 pm",
+		"Tuesday": "04:00 am to 04:00 pm",
+		"Wednesday": "04:00 am to 04:00 pm",
+		"Thursday": "04:00 am to 04:00 pm",
+		"Friday": "04:00 am to 04:00 pm"
+	},
+	"id": "15M0191",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

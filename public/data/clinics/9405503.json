@@ -1,0 +1,52 @@
+{
+	"name": "ROGER KIDNEY CLINIC",
+	"tel": "64766289",
+	"fax": "64747974",
+	"licensee": "ROGER KIDNEY CLINIC PTE. LTD.",
+	"licensePeriod": "17/11/2017 to 16/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405503",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #04-16 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Tan Choon Hian Roger",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2002"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405503",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

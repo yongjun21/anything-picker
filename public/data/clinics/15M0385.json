@@ -1,0 +1,44 @@
+{
+	"name": "LIFESCAN MEDICAL CENTRE",
+	"tel": "62353253",
+	"fax": "65086351",
+	"licensee": "THE MEDICAL SUITE PTE. LTD.",
+	"licensePeriod": "12/11/2017 to 11/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0385",
+	"address": "290 ORCHARD ROAD, PARAGON, #07-18 to 20 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Say Tian Ling",
+			"qualifications": [
+				"MB ChB (University of Leeds, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "15M0385",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

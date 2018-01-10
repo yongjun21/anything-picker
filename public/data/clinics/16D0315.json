@@ -1,0 +1,44 @@
+{
+	"name": "LQ DENTAL",
+	"tel": "65380890",
+	"fax": "63972816",
+	"licensee": "LQ Dental Care Pte Ltd",
+	"licensePeriod": "14/10/2016 to 13/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0315",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTRE SQUARE 2, #11-20/21 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Darren Christopher Lee",
+			"qualifications": [
+				"BDSc (University of Queensland, Australia) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": true
+	},
+	"id": "16D0315",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

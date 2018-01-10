@@ -1,0 +1,52 @@
+{
+	"name": "PEACE FAMILY CLINIC (WL832)",
+	"tel": "63634357",
+	"fax": "63634357",
+	"licensee": "Peace Family Clinic (WL832) Pte. Ltd.",
+	"licensePeriod": "27/07/2015 to 26/07/2020",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9404507",
+	"address": "BLK 832 WOODLANDS STREET 83, #01-71 Singapore 730832",
+	"doctorInCharge": [
+		{
+			"name": "Charity Low Cheng Hong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:30 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:30 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:30 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:30 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404507",
+	"coordinates": [
+		103.7907615,
+		1.4396694
+	],
+	"svy21": [
+		23264.05,
+		46816.89
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

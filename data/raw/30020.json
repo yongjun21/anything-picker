@@ -23,9 +23,7 @@
 		}
 	],
 	"detailedServices": {
-		"Abortion": [
-			"Obstetrics & Gynaecology"
-		],
+		"Abortion": true,
 		"Specialist Medical": [
 			"Obstetrics & Gynaecology"
 		]
@@ -34,7 +32,7 @@
 		"Chronic Disease Management Programme (CDMP)"
 	],
 	"operatingHours": {
-		"Monday to Friday": "09:00 am to 06:00 pm",
+		"Monday to Friday": "09:00 am to 05:00 pm",
 		"Saturday": "09:00 am to 12:55 am"
 	}
 }

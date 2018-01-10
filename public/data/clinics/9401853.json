@@ -1,0 +1,39 @@
+{
+	"name": "WAN'S DENTIST",
+	"tel": "63442572",
+	"fax": "63442572",
+	"licensee": "WAN LAI HOONG JAMES",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401853",
+	"address": "272 JOO CHIAT ROAD, Singapore 427526",
+	"doctorInCharge": [
+		{
+			"name": "WAN LAI TIM",
+			"qualifications": [
+				"Dental Therapist Exam (Institute of Dental Health, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9401853",
+	"coordinates": [
+		103.9010892,
+		1.3108186
+	],
+	"svy21": [
+		35542.23,
+		32569.28
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

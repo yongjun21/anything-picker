@@ -1,0 +1,58 @@
+{
+	"name": "HEAH ENDOSCOPY & PILES CENTRE ( BUKIT BATOK)",
+	"tel": "66651355",
+	"fax": "67375335",
+	"licensee": "HEAH ENDOSCOPY & PILES CENTRE (BUKIT BATOK)",
+	"licensePeriod": "28/04/2016 to 27/04/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405568",
+	"address": "BLK 644 BUKIT BATOK CENTRAL, ( 2nd storey), #01-70 Singapore 650644",
+	"doctorInCharge": [
+		{
+			"name": "Heah Sieu Min",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1990",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1994",
+				"FAMS (Academy of Medicine, Singapore) 2000"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery",
+			"Otorhinolaryngology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "06:00 pm to 10:00 pm",
+		"Tuesday": "06:00 pm to 10:00 pm",
+		"Wednesday": "06:00 pm to 10:00 pm",
+		"Thursday": "06:00 pm to 10:00 pm",
+		"Friday": "06:00 pm to 10:00 pm"
+	},
+	"id": "9405568",
+	"coordinates": [
+		103.7517903,
+		1.3486668
+	],
+	"svy21": [
+		18926.81,
+		36754.39
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

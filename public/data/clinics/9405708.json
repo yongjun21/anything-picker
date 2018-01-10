@@ -1,0 +1,54 @@
+{
+	"name": "RADLINK MEDICARE",
+	"tel": "62557545",
+	"fax": "63582830",
+	"licensee": "RADLINK MEDICARE (BISHAN) PTE. LTD.",
+	"licensePeriod": "21/09/2014 to 20/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405708",
+	"address": "BLK 503 BISHAN ST 11, #01-464 Singapore 570503",
+	"doctorInCharge": [
+		{
+			"name": "Tan Kia Yong Paul",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:30 pm to 09:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:30 pm to 09:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:30 pm to 09:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:30 pm to 09:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9405708",
+	"coordinates": [
+		103.8480475,
+		1.3490324
+	],
+	"svy21": [
+		29639.17,
+		36794.67
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

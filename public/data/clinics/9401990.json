@@ -1,0 +1,47 @@
+{
+	"name": "LEE & KOH FAMILY CLINIC",
+	"tel": "66653323",
+	"fax": "66653323",
+	"licensee": "LEE CHIEN-WEN KAREN",
+	"licensePeriod": "29/10/2013 to 28/10/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401990",
+	"address": "BLK 359 BUKIT BATOK ST 31, #01-389 Singapore 650359",
+	"doctorInCharge": [
+		{
+			"name": "LEE CHIEN-WEN KAREN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987",
+				"MRCGP (Family Med) (Royal College of General Practitioners, United Kingdom) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9401990",
+	"coordinates": [
+		103.7512307,
+		1.3613437
+	],
+	"svy21": [
+		18864.58,
+		38156.14
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

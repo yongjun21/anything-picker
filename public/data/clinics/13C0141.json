@@ -1,0 +1,57 @@
+{
+	"name": "SM HANEEFA CLINIC",
+	"tel": "62434237",
+	"fax": "64494639",
+	"licensee": "SAJEENA ABDUL AZEESU KUNJU",
+	"licensePeriod": "16/08/2016 to 15/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13C0141",
+	"address": "BLK 11 CHAI CHEE ROAD, #01-23 Singapore 460011",
+	"doctorInCharge": [
+		{
+			"name": "SAJEENA ABDUL AZEESU KUNJU",
+			"qualifications": [
+				"MBBS (University of Kerala, India) 1994",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2005",
+				"M Med (Int Med) (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 02:00 pm, 05:00 pm to 08:00 pm",
+		"Tuesday": "08:30 am to 02:00 pm, 05:00 pm to 08:00 pm",
+		"Wednesday": "08:30 am to 02:00 pm, 05:00 pm to 08:00 pm",
+		"Thursday": "08:30 am to 02:00 pm, 05:00 pm to 08:00 pm",
+		"Friday": "08:30 am to 02:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "08:30 am to 01:00 pm"
+	},
+	"id": "13C0141",
+	"coordinates": [
+		103.9248839,
+		1.3269114
+	],
+	"svy21": [
+		38190.29,
+		34348.82
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

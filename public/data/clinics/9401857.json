@@ -1,0 +1,44 @@
+{
+	"name": "MEDILINE WEI MIN CLINIC",
+	"tel": "62886029",
+	"fax": "62887623",
+	"licensee": "MEDILINE CLINICS PTE. LTD.",
+	"licensePeriod": "07/05/2014 to 06/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401857",
+	"address": "14 KENSINGTON PARK ROAD, Singapore 557265",
+	"doctorInCharge": [
+		{
+			"name": "LOKE MUN CHOY EUGENE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9401857",
+	"coordinates": [
+		103.8661052,
+		1.3652177
+	],
+	"svy21": [
+		31648.76,
+		38584.38
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

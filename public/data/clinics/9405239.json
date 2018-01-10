@@ -1,0 +1,55 @@
+{
+	"name": "ACUMED MEDICAL GROUP",
+	"tel": "62656422",
+	"fax": "62662777",
+	"licensee": "ACUMED MEDICAL PTE. LTD.",
+	"licensePeriod": "15/07/2015 to 14/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405239",
+	"address": "BLK 64 YUNG KUANG ROAD, #01-107/111 Singapore 610064",
+	"doctorInCharge": [
+		{
+			"name": "SIT KOK MENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1972"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 09:00 pm",
+		"Tuesday": "08:30 am to 09:00 pm",
+		"Wednesday": "08:30 am to 09:00 pm",
+		"Thursday": "08:30 am to 09:00 pm",
+		"Friday": "08:30 am to 09:00 pm",
+		"Saturday": "08:30 am to 05:00 pm",
+		"Sunday": "09:00 am to 12:00 pm",
+		"Public Holiday": "09:00 am to 12:00 pm"
+	},
+	"id": "9405239",
+	"coordinates": [
+		103.7224512,
+		1.3323735
+	],
+	"svy21": [
+		15661.61,
+		34952.88
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"name": "NEPTUNE HEALTHCARE MEDICAL & SURGERY",
+	"tel": "67818030",
+	"fax": "67818660",
+	"licensee": "NEPTUNE HEALTHCARE MEDICAL & SURGERY (TAMPINES)",
+	"licensePeriod": "06/03/2016 to 05/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "12C0006",
+	"address": "BLK 328 TAMPINES STREET 32, #01-362 Singapore 520328",
+	"doctorInCharge": [
+		{
+			"name": "Lim Hsiu Wang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 11:00 pm",
+		"Tuesday": "09:00 am to 11:00 pm",
+		"Wednesday": "09:00 am to 11:00 pm",
+		"Thursday": "09:00 am to 11:00 pm",
+		"Friday": "09:00 am to 11:00 pm",
+		"Saturday": "09:00 am to 07:00 pm",
+		"Sunday": "09:00 am to 07:00 pm"
+	},
+	"id": "12C0006",
+	"coordinates": [
+		103.9582875,
+		1.3531662
+	],
+	"svy21": [
+		41907.64,
+		37252.11
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

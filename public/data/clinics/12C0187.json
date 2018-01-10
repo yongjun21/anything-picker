@@ -1,0 +1,60 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "63153671",
+	"fax": "63158190",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "10/09/2016 to 09/09/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0187",
+	"address": "10 SENGKANG CENTRAL, BUANGKOK NEL MRT STATION, #01-04 Singapore 545061",
+	"doctorInCharge": [
+		{
+			"name": "Yap I-Chern Tiffany",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2003",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "12C0187",
+	"coordinates": [
+		103.8931216,
+		1.3828779
+	],
+	"svy21": [
+		34655.31,
+		40537.21
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

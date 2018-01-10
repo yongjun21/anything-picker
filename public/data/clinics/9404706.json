@@ -1,0 +1,60 @@
+{
+	"name": "THE SINGAPORE CLINIC FOR KIDNEY DISEASES (PTE LTD)",
+	"tel": "67353513",
+	"fax": "67353514",
+	"licensee": "THE SINGAPORE CLINIC FOR KIDNEY DISEASES (PTE. LTD.)",
+	"licensePeriod": "04/02/2014 to 03/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404706",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #08-01 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Pary Sivaraman",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1995",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404706",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

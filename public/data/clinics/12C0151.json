@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64551996",
+	"fax": "64551996",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "26/07/2016 to 25/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0151",
+	"address": "501 ANG MO KIO STREET 13, CHIJ St Nicholas Girls' School (Primary), Singapore 569405",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "12C0151",
+	"coordinates": [
+		103.8342533,
+		1.3734769
+	],
+	"svy21": [
+		28104.02,
+		39497.61
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

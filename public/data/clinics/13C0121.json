@@ -1,0 +1,53 @@
+{
+	"name": "THE FACE AESTHETIC CLINIC",
+	"tel": "62236788",
+	"fax": "65365378",
+	"licensee": "Q & M MEDICAL AESTHETIC & LASER CENTRE PTE. LTD.",
+	"licensePeriod": "13/05/2017 to 12/05/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0121",
+	"address": "20 MALACCA STREET, MALACCA CENTRE, #01-00 Singapore 048979",
+	"doctorInCharge": [
+		{
+			"name": "Li Jingxiang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2006",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2011",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "11:00 am to 08:00 pm",
+		"Tuesday": "11:00 am to 08:00 pm",
+		"Wednesday": "11:00 am to 08:00 pm",
+		"Thursday": "11:00 am to 08:00 pm",
+		"Friday": "11:00 am to 08:00 pm",
+		"Saturday": "10:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0121",
+	"coordinates": [
+		103.8507116,
+		1.2839423
+	],
+	"svy21": [
+		29935.7,
+		29597.34
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

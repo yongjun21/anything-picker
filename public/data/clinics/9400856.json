@@ -1,0 +1,50 @@
+{
+	"name": "KIRIN CLINIC & SURGERY",
+	"tel": "67464681",
+	"fax": "67464681",
+	"licensee": "Goh Siang Leng",
+	"licensePeriod": "13/05/2016 to 12/05/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400856",
+	"address": "BLK 5 EUNOS CRESCENT, #01-2601 Singapore 400005",
+	"doctorInCharge": [
+		{
+			"name": "Goh Siang Leng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400856",
+	"coordinates": [
+		103.9035545,
+		1.321191
+	],
+	"svy21": [
+		35816.57,
+		33716.21
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

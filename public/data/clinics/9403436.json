@@ -1,0 +1,58 @@
+{
+	"name": "THE BALMORAL CLINIC  FAMILY MEDICINE",
+	"tel": "67322033",
+	"fax": "67364371",
+	"licensee": "KOH THONG KIANG ADRIAN",
+	"licensePeriod": "01/09/2015 to 31/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403436",
+	"address": "271 BUKIT TIMAH RD, BALMORAL PLAZA, #02-12 Singapore 259708",
+	"doctorInCharge": [
+		{
+			"name": "KOH THONG KIANG ADRIAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987",
+				"MCGP (Family Med) (College of General Practitioners, Malaysia) 1993",
+				"Dip Pract Derm (University of Wales, United Kingdom) 1996",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403436",
+	"coordinates": [
+		103.8354876,
+		1.3164396
+	],
+	"svy21": [
+		28241.39,
+		33190.72
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

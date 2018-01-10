@@ -1,0 +1,46 @@
+{
+	"name": "HAOMA MEDICAL CLINIC",
+	"tel": "69090117",
+	"fax": "69090118",
+	"licensee": "HAOMA CLINIC PTE. LTD.",
+	"licensePeriod": "24/11/2016 to 23/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0360",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #11-57 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Ng Jen Min",
+			"qualifications": [
+				"MB BCh (Queen's University of Belfast, United Kingdom) 2001",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2005"
+			],
+			"specialties": [
+				"Endocrinology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Endocrinology"
+		]
+	},
+	"id": "16M0360",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

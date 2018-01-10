@@ -1,0 +1,47 @@
+{
+	"name": "PK WOMEN'S SPECIALIST CLINIC",
+	"tel": "66369909",
+	"fax": "66369755",
+	"licensee": "WOMEN'S HEALTHCARE SPECIALIST PTE. LTD.",
+	"licensePeriod": "10/10/2017 to 09/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17C0317",
+	"address": "2 TAI THONG CRESCENT, THE VENUE SHOPPES, #01-12 Singapore 347836",
+	"doctorInCharge": [
+		{
+			"name": "Tan Poh Kok",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1998"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"id": "17C0317",
+	"coordinates": [
+		103.8692714,
+		1.328798
+	],
+	"svy21": [
+		32001.18,
+		34557.27
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

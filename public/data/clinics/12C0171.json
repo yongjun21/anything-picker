@@ -1,0 +1,55 @@
+{
+	"name": "SKIN PHYSICIANS",
+	"tel": "67336466",
+	"fax": "67336466",
+	"licensee": "SKIN PHYSICIANS PTE. LTD.",
+	"licensePeriod": "13/08/2016 to 12/08/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0171",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #11-08 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Goh Boon Kee",
+			"qualifications": [
+				"MB ChB (University of Leeds, United Kingdom) 1996",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2001"
+			],
+			"specialties": [
+				"Dermatology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Dermatology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "12C0171",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

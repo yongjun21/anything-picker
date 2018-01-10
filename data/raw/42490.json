@@ -1,7 +1,7 @@
 {
 	"name": "NORTHEAST MEDICAL GROUP",
 	"tel": "66943282",
-	"fax": "66342455",
+	"fax": "66943283",
 	"licensee": "NORTHEAST (BUONA VISTA) MEDICAL CENTRE PTE. LTD.",
 	"licensePeriod": "18/05/2017 to 01/10/2018",
 	"licenseClass": "[ 2 Years ( 2D ) ]",
@@ -31,7 +31,8 @@
 		"Integrated Screening Programme (ISP) "
 	],
 	"operatingHours": {
-		"Monday to Friday": "09:00 am to 12:00 pm, 01:00 pm to 04:30 pm, 06:00 pm to 10:00 pm",
-		"Saturday and Sunday": "08:30 am to 01:00 pm"
+		"Monday and Thursday": "08:30 am to 01:00 pm, 02:00 pm to 10:00 pm",
+		"Tuesday and Wednesday": "08:30 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Friday to Sunday": "08:30 am to 01:00 pm"
 	}
 }

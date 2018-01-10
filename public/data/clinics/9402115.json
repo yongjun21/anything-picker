@@ -1,0 +1,57 @@
+{
+	"name": "PIDEMCO MEDICAL CENTRE PTE LTD",
+	"tel": "67560606",
+	"fax": "67591272",
+	"licensee": "HUI MENG TONG",
+	"licensePeriod": "12/05/2016 to 13/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402115",
+	"address": "BLK 156 YISHUN ST 11, #01-112 Singapore 760156",
+	"doctorInCharge": [
+		{
+			"name": "HUI MENG TONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 am to 04:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 04:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "08:30 am to 12:30 am"
+	},
+	"id": "9402115",
+	"coordinates": [
+		103.8335678,
+		1.4318876
+	],
+	"svy21": [
+		28027.73,
+		45956.37
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

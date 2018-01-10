@@ -1,0 +1,49 @@
+{
+	"name": "WONG CLINIC & SURGERY",
+	"tel": "62828647",
+	"fax": "62828647",
+	"licensee": "WONG CHEE KONG",
+	"licensePeriod": "25/02/2015 to 24/02/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401883",
+	"address": "BLK 153 SERANGOON NORTH AVE 1, #01-532 Singapore 550153",
+	"doctorInCharge": [
+		{
+			"name": "WONG CHEE KONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 01:30 pm to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 01:30 pm to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 01:30 pm to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 01:30 pm to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:00 pm",
+		"Public Holiday": "09:00 am to 12:00 pm"
+	},
+	"id": "9401883",
+	"coordinates": [
+		103.8723123,
+		1.369951
+	],
+	"svy21": [
+		32339.53,
+		39107.77
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

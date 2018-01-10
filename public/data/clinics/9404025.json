@@ -1,0 +1,54 @@
+{
+	"name": "CITYHEALTH CLINIC & SURGERY",
+	"tel": "62995398",
+	"fax": "62990206",
+	"licensee": "CITYHEALTH CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "01/11/2013 to 31/10/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404025",
+	"address": "152 Beach Road, Gateway East, #03-08 Singapore 189721",
+	"doctorInCharge": [
+		{
+			"name": "Ho May San Karen",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2003",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9404025",
+	"coordinates": [
+		103.859351,
+		1.2988409
+	],
+	"svy21": [
+		30897.18,
+		31244.76
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

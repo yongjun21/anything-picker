@@ -1,0 +1,56 @@
+{
+	"name": "I-KIDZ CHILDREN'S CLINIC",
+	"tel": "62354788",
+	"fax": "68836965",
+	"licensee": "Chan Lai Yeen Irene",
+	"licensePeriod": "30/08/2016 to 29/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0256",
+	"address": "290 ORCHARD ROAD, THE PARAGON, #20-03 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Chan Lai Yeen Irene",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"M Med (Paed) (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Neonatology",
+				"Paediatric Intensive Care",
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 pm to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "16M0256",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

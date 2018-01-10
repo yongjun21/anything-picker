@@ -1,0 +1,54 @@
+{
+	"name": "FLOZZ DENTAL SURGERY",
+	"tel": "62765281",
+	"fax": "62765381",
+	"licensee": "HUI CHEE WAH",
+	"licensePeriod": "06/05/2016 to 05/05/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9402620",
+	"address": "BLK 123 BUKIT MERAH LANE 1, #01-96 Singapore 150123",
+	"doctorInCharge": [
+		{
+			"name": "HUI CHEE WAH",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1988",
+				"MSc (University of London, United Kingdom) 1996"
+			],
+			"specialties": [
+				"Periodontology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Periodontology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 01:00 pm, 02:00 pm to 06:30 pm",
+		"Thursday": "09:30 am to 01:00 pm, 02:00 pm to 06:30 pm",
+		"Tuesday": "Closed",
+		"Wednesday": "Closed",
+		"Friday": "Closed",
+		"Saturday": "09:30 am to 03:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402620",
+	"coordinates": [
+		103.804019,
+		1.2868513
+	],
+	"svy21": [
+		24739.21,
+		29919.02
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

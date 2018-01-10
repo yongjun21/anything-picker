@@ -1,0 +1,41 @@
+{
+	"name": "FULLERTON HEALTH SCREENING CENTRE, PARAGON",
+	"tel": "68360808",
+	"fax": "68368484",
+	"licensee": "FULLERTON HEALTHCARE GROUP PTE. LIMITED",
+	"licensePeriod": "14/12/2015 to 13/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0423",
+	"address": "290 ORCHARD ROAD, PARAGON, #08-07 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Benedict Lim Tai Thong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "15M0423",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

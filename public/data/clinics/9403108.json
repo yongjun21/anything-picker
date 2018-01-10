@@ -1,0 +1,57 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "63192020",
+	"fax": "63526198",
+	"licensee": "Parkway Shenton Pte Ltd",
+	"licensePeriod": "23/11/2013 to 22/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403108",
+	"address": "1000 TOA PAYOH NORTH, ANNEXE BLOCK, #07-00 Singapore 318994",
+	"doctorInCharge": [
+		{
+			"name": "Chan Hsiu Mei",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:15 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:15 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:15 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:15 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:15 pm to 05:00 pm",
+		"Saturday": "08:30 am to 11:30 am",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403108",
+	"coordinates": [
+		103.8484312,
+		1.343263
+	],
+	"svy21": [
+		29681.87,
+		36156.71
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

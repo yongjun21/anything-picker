@@ -1,0 +1,39 @@
+{
+	"name": "SL CLINIC PTE LTD",
+	"tel": "63361106",
+	"fax": "62354841",
+	"licensee": "Kelvin Chua Yong Wei",
+	"licensePeriod": "31/01/2017 to 30/01/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "13C0021",
+	"address": "68 ORCHARD ROAD, PLAZA SINGAPURA, #03-33 Singapore 238839",
+	"doctorInCharge": [
+		{
+			"name": "Kelvin Chua Yong Wei",
+			"qualifications": [
+				"MBBS (University of Adelaide, Australia) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "13C0021",
+	"coordinates": [
+		103.8450476,
+		1.3007476
+	],
+	"svy21": [
+		29305.34,
+		31455.58
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

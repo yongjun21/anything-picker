@@ -1,0 +1,49 @@
+{
+	"name": "WH DENTAL SURGEONS",
+	"tel": "63122555",
+	"fax": "63151152",
+	"licensee": "CHUA SOY LUNG ALICE",
+	"licensePeriod": "22/09/2017 to 21/09/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404972",
+	"address": "1 HOUGANG STREET 91, HOUGANG 1, #01-16/17 Singapore 538692",
+	"doctorInCharge": [
+		{
+			"name": "CHUA SOY LUNG ALICE",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 07:00 pm to 10:00 pm",
+		"Tuesday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 07:00 pm to 10:00 pm",
+		"Wednesday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 07:00 pm to 10:00 pm",
+		"Thursday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 07:00 pm to 10:00 pm",
+		"Friday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 07:00 pm to 10:00 pm",
+		"Saturday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 07:00 pm to 10:00 pm",
+		"Sunday": "10:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 07:00 pm to 10:00 pm"
+	},
+	"id": "9404972",
+	"coordinates": [
+		103.8794723,
+		1.3757153
+	],
+	"svy21": [
+		33136.34,
+		39745.17
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

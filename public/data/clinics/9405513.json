@@ -1,0 +1,49 @@
+{
+	"name": "GREENLIFE DENTAL CLINIC",
+	"tel": "62500630",
+	"fax": "62500730",
+	"licensee": "GREENLIFE DENTAL CLINIC (TOA PAYOH) PTE. LTD.",
+	"licensePeriod": "17/03/2014 to 16/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405513",
+	"address": "BLK 186 TOA PAYOH CENTRAL, #01-418 Singapore 310186",
+	"doctorInCharge": [
+		{
+			"name": "Au Eong Kah Chuan",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm"
+	},
+	"id": "9405513",
+	"coordinates": [
+		103.8502116,
+		1.332654
+	],
+	"svy21": [
+		29880.02,
+		34983.63
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

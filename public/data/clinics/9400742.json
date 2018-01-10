@@ -1,0 +1,48 @@
+{
+	"name": "J T MEDICAL CENTRE",
+	"tel": "67837945",
+	"fax": "67837659",
+	"licensee": "TAN LIAN HUAT JAMES",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400742",
+	"address": "BLK 844 TAMPINES ST 82, #01-135 Singapore 520844",
+	"doctorInCharge": [
+		{
+			"name": "TAN LIAN HUAT JAMES",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 12:00 pm",
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "08:30 am to 12:00 pm"
+	},
+	"id": "9400742",
+	"coordinates": [
+		103.9365309,
+		1.3521058
+	],
+	"svy21": [
+		39486.37,
+		37134.75
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

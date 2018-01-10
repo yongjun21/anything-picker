@@ -1,0 +1,45 @@
+{
+	"name": "HEALTHWAY MEDICAL CLINIC",
+	"tel": "67789793",
+	"fax": "67789521",
+	"licensee": "HEALTHWAY MEDICAL ENTERPRISES PTE LTD",
+	"licensePeriod": "16/09/2017 to 15/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405353",
+	"address": "BLK 41 HOLLAND DRIVE, #01-07 Singapore 270041",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9405353",
+	"coordinates": [
+		103.7934635,
+		1.30762
+	],
+	"svy21": [
+		23564.5,
+		32215.53
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

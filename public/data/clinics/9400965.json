@@ -1,0 +1,60 @@
+{
+	"name": "LILY AW PASIR RIS FAMILY CLINIC & SURGERY",
+	"tel": "65822122",
+	"fax": "65842378",
+	"licensee": "AW LEE FHOON @ LILY AW",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400965",
+	"address": "BLK 446 PASIR RIS DR 6, #01-116 Singapore 510446",
+	"doctorInCharge": [
+		{
+			"name": "AW LEE FHOON @ LILY AW",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2001",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2002",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2006",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "08:30 am to 12:30 pm",
+		"Public Holiday": "08:30 am to 12:30 pm"
+	},
+	"id": "9400965",
+	"coordinates": [
+		103.9577269,
+		1.3703062
+	],
+	"svy21": [
+		41845.14,
+		39147.37
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

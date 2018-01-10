@@ -1,0 +1,50 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "62541630",
+	"fax": "62541630",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "22/02/2014 to 21/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403164",
+	"address": "565 BALESTIER ROAD, BALESTIER HILL PRIMARY SCHOOL, Singapore 329927",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wanyi",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403164",
+	"coordinates": [
+		103.8444308,
+		1.3256019
+	],
+	"svy21": [
+		29236.68,
+		34203.85
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

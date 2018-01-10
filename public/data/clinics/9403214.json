@@ -1,0 +1,57 @@
+{
+	"name": "MEI LING CLINIC (TOA PAYOH)",
+	"tel": "62535600",
+	"fax": "62530722",
+	"licensee": "TAN WEE MENG",
+	"licensePeriod": "04/06/2014 to 03/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403214",
+	"address": "BLK 500 LOR 6 TOA PAYOH, BIZ ONE HDB HUB, #04-33 Singapore 310500",
+	"doctorInCharge": [
+		{
+			"name": "TAN WEE MENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403214",
+	"coordinates": [
+		103.8470923,
+		1.3328554
+	],
+	"svy21": [
+		29532.87,
+		35005.9
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

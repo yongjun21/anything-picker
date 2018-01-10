@@ -1,0 +1,56 @@
+{
+	"name": "KEPPEL MEDICAL GROUP",
+	"tel": "62700846",
+	"fax": "62700846",
+	"licensee": "SOH CHEOW BENG ALOYSIUS",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403799",
+	"address": "BLK 9 TELOK BLANGAH CRESCENT, #01-139 Singapore 090009",
+	"doctorInCharge": [
+		{
+			"name": "SOH CHEOW BENG ALOYSIUS",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1973",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1979",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm",
+		"Thursday": "09:00 am to 12:30 pm",
+		"Friday": "09:00 am to 12:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9403799",
+	"coordinates": [
+		103.8194085,
+		1.2774079
+	],
+	"svy21": [
+		26451.91,
+		28874.8
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

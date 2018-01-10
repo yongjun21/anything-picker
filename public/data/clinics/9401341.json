@@ -1,0 +1,45 @@
+{
+	"name": "PRIMECARE MEDICAL CLINIC",
+	"tel": "63863007",
+	"fax": "63865529",
+	"licensee": "TAN CHAY HUAT JOHN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401341",
+	"address": "BLK 681 HOUGANG AVE 8, #01-823 Singapore 530681",
+	"doctorInCharge": [
+		{
+			"name": "TAN CHAY HUAT JOHN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "9401341",
+	"coordinates": [
+		103.8856792,
+		1.3729784
+	],
+	"svy21": [
+		33827.09,
+		39442.56
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

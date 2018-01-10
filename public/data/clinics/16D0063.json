@@ -1,0 +1,39 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67600401",
+	"fax": "67600401",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "16/03/2016 to 15/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0063",
+	"address": "6 CHOA CHU KANG CENTRAL, SOUTH VIEW PRIMARY SCHOOL, Singapore 689762",
+	"doctorInCharge": [
+		{
+			"name": "THAM SAI SOO",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "16D0063",
+	"coordinates": [
+		103.7462758,
+		1.3816666
+	],
+	"svy21": [
+		18313.24,
+		40403.37
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

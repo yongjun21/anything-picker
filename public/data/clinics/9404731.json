@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64499786",
+	"fax": "64499786",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "27/02/2014 to 26/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404731",
+	"address": "BLK 50 BEDOK RESERVOIR CRESCENT, Singapore 479225",
+	"doctorInCharge": [
+		{
+			"name": "Noeline Tan",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9404731",
+	"coordinates": [
+		103.9203394,
+		1.3351634
+	],
+	"svy21": [
+		37684.5,
+		35261.28
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

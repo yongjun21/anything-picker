@@ -1,0 +1,46 @@
+{
+	"name": "MARINE TERRACE FAMILY CLINIC",
+	"tel": "64420188",
+	"fax": "64420188",
+	"licensee": "MJ MEDICAL SERVICES PTE LTD",
+	"licensePeriod": "22/01/2014 to 21/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401052",
+	"address": "BLK 57 MARINE TERRACE, #01-129 Singapore 440057",
+	"doctorInCharge": [
+		{
+			"name": "ONG CHONG SEN",
+			"qualifications": [
+				"MBBS (University of Western Australia, Australia) 1980",
+				"DCH (Royal College of Physicians of London, United Kingdom) 1987",
+				"MRCP (Paed) (Royal College of Physicians, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9401052",
+	"coordinates": [
+		103.9154848,
+		1.3065126
+	],
+	"svy21": [
+		37144.34,
+		32093.19
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

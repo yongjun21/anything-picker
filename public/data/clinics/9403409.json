@@ -1,0 +1,53 @@
+{
+	"name": "KINDER CLINIC PTE LTD",
+	"tel": "63424821",
+	"fax": "63448050",
+	"licensee": "KINDER CLINIC PTE. LTD.",
+	"licensePeriod": "06/08/2015 to 05/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403409",
+	"address": "80 MARINE PARADE RD, PARKWAY PARADE, #05-10/11 Singapore 449269",
+	"doctorInCharge": [
+		{
+			"name": "VASANTHI D/O RAJALINGAM",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"M Med (Paed) (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Paediatric Haematology & Oncology",
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 07:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403409",
+	"coordinates": [
+		103.9052795,
+		1.3010698
+	],
+	"svy21": [
+		36008.6,
+		31491.32
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

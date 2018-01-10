@@ -1,0 +1,45 @@
+{
+	"name": "SINGAPORE FAMILY CLINIC & SURGERY (WOODLANDS)",
+	"tel": "63647450",
+	"fax": "63647451",
+	"licensee": "HEALTHWAY MEDICAL ENTERPRISES PTE LTD",
+	"licensePeriod": "14/10/2014 to 13/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402162",
+	"address": "BLK 717 WOODLANDS DRIVE 70, #01-114 Singapore 730717",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9402162",
+	"coordinates": [
+		103.7994942,
+		1.4408738
+	],
+	"svy21": [
+		24235.87,
+		46950.05
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"name": "ROOT CANAL CLINIC",
+	"tel": "68735522",
+	"fax": "68735253",
+	"licensee": "Seah Yang Howe",
+	"licensePeriod": "03/08/2014 to 02/08/2019",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9405663",
+	"address": "BLK 354 CLEMENTI AVENUE 2, #01-191 Singapore 120354",
+	"doctorInCharge": [
+		{
+			"name": "Seah Yang Howe",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1992",
+				"MSc (University of London, United Kingdom) 1996"
+			],
+			"specialties": [
+				"Endodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics"
+		]
+	},
+	"id": "9405663",
+	"coordinates": [
+		103.7708611,
+		1.3135139
+	],
+	"svy21": [
+		21049.08,
+		32867.29
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

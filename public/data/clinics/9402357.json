@@ -1,0 +1,54 @@
+{
+	"name": "CENTRE FOR KIDNEY DISEASES",
+	"tel": "65358833",
+	"fax": "67364692",
+	"licensee": "LYE WAI CHOONG",
+	"licensePeriod": "01/08/2016 to 31/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402357",
+	"address": "304 ORCHARD ROAD, LUCKY PLAZA, #05-23 Singapore 238863",
+	"doctorInCharge": [
+		{
+			"name": "LYE WAI CHOONG",
+			"qualifications": [
+				"MBBS (University of New South Wales, Australia) 1983",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1987",
+				"FAMS (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9402357",
+	"coordinates": [
+		103.8339619,
+		1.3045061
+	],
+	"svy21": [
+		28071.6,
+		31871.17
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

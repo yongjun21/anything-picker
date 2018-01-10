@@ -1,0 +1,25 @@
+{
+	"name": "ROYCE DENTAL SURGERY",
+	"tel": "63448861",
+	"fax": "63448548",
+	"licensee": "YKB (MARINE PARADE) PTE. LTD.",
+	"licensePeriod": "25/09/2017 to 24/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17D0289",
+	"address": "80 MARINE PARADE ROAD, PARKWAY PARADE, #05-23 Singapore 449269",
+	"doctorInCharge": [
+		{
+			"name": "Yeo Kok Beng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	}
+}

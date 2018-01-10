@@ -1,0 +1,49 @@
+{
+	"name": "RAFFLESIA DENTAL SURGERY",
+	"tel": "66352432",
+	"fax": "66352433",
+	"licensee": "RAFFLESIA DENTAL PTE. LTD.",
+	"licensePeriod": "09/07/2016 to 08/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0192",
+	"address": "100 JALAN SULTAN, SULTAN PLAZA, #01-04A Singapore 199001",
+	"doctorInCharge": [
+		{
+			"name": "Cynthia Wong Hui Shing",
+			"qualifications": [
+				"BDS (University of Adelaide, Australia) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "Closed",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 03:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "14D0192",
+	"coordinates": [
+		103.8618518,
+		1.3029452
+	],
+	"svy21": [
+		31175.49,
+		31698.6
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

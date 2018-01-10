@@ -1,0 +1,54 @@
+{
+	"name": "CLIFFORD DISPENSARY PTE LTD",
+	"tel": "65350365",
+	"fax": "65353231",
+	"licensee": "SEAH GEOK TENG",
+	"licensePeriod": "16/09/2015 to 15/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405307",
+	"address": "77 ROBINSON ROAD, ROBINSON 77, #06-02 Singapore 068896",
+	"doctorInCharge": [
+		{
+			"name": "SEAH GEOK TENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"MSc (Clinical Microbiology) (University of London, United Kingdom) 1997",
+				"PhD (University of London, United Kingdom) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405307",
+	"coordinates": [
+		103.848427,
+		1.2777517
+	],
+	"svy21": [
+		29681.45,
+		28912.82
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

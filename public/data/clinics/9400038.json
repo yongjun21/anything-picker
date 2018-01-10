@@ -1,0 +1,50 @@
+{
+	"name": "ANDERSON MEDICAL CENTRE",
+	"tel": "64599195",
+	"fax": "64536668",
+	"licensee": "CHANG CHEE CHEA",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400038",
+	"address": "BLK 283 BISHAN ST 22, #01-173 Singapore 570283",
+	"doctorInCharge": [
+		{
+			"name": "CHANG CHEE CHEA",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1971"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:30 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:30 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400038",
+	"coordinates": [
+		103.8447486,
+		1.3589191
+	],
+	"svy21": [
+		29272.03,
+		37887.89
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

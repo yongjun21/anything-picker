@@ -1,0 +1,51 @@
+{
+	"name": "HAN DENTAL SURGERY",
+	"tel": "62872887",
+	"fax": "62872887",
+	"licensee": "WONG LAI PING",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400638",
+	"address": "BLK 120 POTONG PASIR AVE 1, #01-818 Singapore 350120",
+	"doctorInCharge": [
+		{
+			"name": "WONG LAI PING",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 03:30 pm, 07:15 pm to 08:15 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 03:30 pm, 07:15 pm to 08:15 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 03:30 pm, 07:15 pm to 08:15 pm",
+		"Thursday": "Closed",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 03:30 pm, 07:15 pm to 08:15 pm",
+		"Saturday": "Closed",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400638",
+	"coordinates": [
+		103.863388,
+		1.3354535
+	],
+	"svy21": [
+		31346.41,
+		35293.2
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

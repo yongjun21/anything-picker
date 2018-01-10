@@ -1,0 +1,44 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "63685917",
+	"fax": "63685917",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "11/07/2017 to 10/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0176",
+	"address": "110 WOODLANDS CRESCENT, RIVERSIDE PRIMARY, Singapore 737803",
+	"doctorInCharge": [
+		{
+			"name": "CHEE CHING TENG",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "13C0176",
+	"coordinates": [
+		103.801832,
+		1.4470473
+	],
+	"svy21": [
+		24496.04,
+		47632.69
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

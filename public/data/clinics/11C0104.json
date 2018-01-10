@@ -1,0 +1,47 @@
+{
+	"name": "Q & M DENTAL SURGERY (MARINE PARADE)",
+	"tel": "63461882",
+	"fax": "63457330",
+	"licensee": "Q & M DENTAL SURGERY (PASIR RIS) PTE. LTD.",
+	"licensePeriod": "17/07/2016 to 16/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "11C0104",
+	"address": "BLK 85 MARINE PARADE CENTRAL, #01-664 Singapore 440085",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "11C0104",
+	"coordinates": [
+		103.9067494,
+		1.3021389
+	],
+	"svy21": [
+		36172.19,
+		31609.54
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

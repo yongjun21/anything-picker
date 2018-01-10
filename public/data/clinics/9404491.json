@@ -1,0 +1,54 @@
+{
+	"name": "CHRIS CHONG CLINIC PTE LTD",
+	"tel": "64743031",
+	"fax": "64743031",
+	"licensee": "CHRIS CHONG CLINIC PTE. LTD.",
+	"licensePeriod": "12/07/2015 to 11/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404491",
+	"address": "6A NAPIER ROAD, GLENEAGLES HOSPITAL, #02-35 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "CHRISTOPHER CHONG YEW LUEN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"MRACOG (Royal Australian College of Obstetricians and Gynaecologists, Australia) 1996",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1996",
+				"M Med (O&G) (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9404491",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

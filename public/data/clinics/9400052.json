@@ -1,0 +1,46 @@
+{
+	"name": "ANTHONY HENG SURGERY",
+	"tel": "67346333",
+	"fax": "64726779",
+	"licensee": "HENG ANTHONY",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400052",
+	"address": "6 NAPIER RD, GLENEAGLES MEDICAL CENTRE, #05-02 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "HENG ANTHONY",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1965",
+				"FRCS (Gen Surg) (Royal College of Surgeons of England, United Kingdom) 1969",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1969",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 1971"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"id": "9400052",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"name": "ADVANCED DENTAL CLINIC WHAMPOA PTE LTD",
+	"tel": "63520828",
+	"fax": "00000000",
+	"licensee": "advanced dental clinic whampoa pte ltd",
+	"licensePeriod": "14/06/2016 to 13/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0176",
+	"address": "BLK 88 WHAMPOA DRIVE, #01-853 Singapore 320088",
+	"doctorInCharge": [
+		{
+			"name": "Chua Chew Kiat, Simon Jude",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "16D0176",
+	"coordinates": [
+		103.8551716,
+		1.3232473
+	],
+	"svy21": [
+		30432.02,
+		33943.49
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

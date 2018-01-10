@@ -1,0 +1,41 @@
+{
+	"name": "ESTEEMED MEDICAL CLINIC",
+	"licensee": "ESTEEMED MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "05/08/2017 to 04/08/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0242",
+	"address": "BLK 260 ANG MO KIO STREET 21, MULTI STOREY CAR PARK, #01-01 Singapore 560260",
+	"doctorInCharge": [
+		{
+			"name": "Ng Si Ren, Alex",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "17M0242",
+	"coordinates": [
+		103.8345012,
+		1.3689159
+	],
+	"svy21": [
+		28131.61,
+		38993.28
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

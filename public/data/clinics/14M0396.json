@@ -1,0 +1,61 @@
+{
+	"name": "BJIOS ORTHOPAEDICS",
+	"tel": "69086933",
+	"fax": "64434933",
+	"licensee": "BJIOS PTE. LTD.",
+	"licensePeriod": "30/12/2016 to 29/12/2017",
+	"licenseClass": "[ 1 Year ( 2D ) ]",
+	"hciCode": "14M0396",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #13-15/16/17/18/19/20 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "CHONG KEEN WAI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997",
+				"MRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 2000",
+				"M Med (Ortho Surg) (National University of Singapore, Singapore) 2001",
+				"FRCSEd (Ortho) (Royal College of Surgeons of Edinburgh, United Kingdom) 2005"
+			],
+			"specialties": [
+				"Orthopaedic Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Day Surgery"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Hand Surgery",
+			"Orthopaedic Surgery"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "14M0396",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

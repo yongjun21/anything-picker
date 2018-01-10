@@ -1,0 +1,52 @@
+{
+	"name": "PARKSON MEDICAL CLINIC & SURGERY",
+	"tel": "62887668",
+	"licensee": "ONG CHENG CHOON",
+	"licensePeriod": "05/08/2015 to 04/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402154",
+	"address": "BLK 137 POTONG PASIR AVE 3, #01-146 Singapore 350137",
+	"doctorInCharge": [
+		{
+			"name": "ONG CHENG CHOON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 05:00 pm",
+		"Tuesday": "08:00 am to 05:00 pm",
+		"Wednesday": "08:00 am to 05:00 pm",
+		"Thursday": "08:00 am to 05:00 pm",
+		"Friday": "08:00 am to 05:00 pm",
+		"Saturday": "08:00 am to 12:00 pm",
+		"Sunday": "08:00 am to 12:00 pm"
+	},
+	"id": "9402154",
+	"coordinates": [
+		103.8658454,
+		1.3338576
+	],
+	"svy21": [
+		31619.89,
+		35116.74
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

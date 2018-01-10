@@ -1,0 +1,48 @@
+{
+	"name": "CENTRAL HEALTH (MEDICAL CENTRE)",
+	"tel": "63972584",
+	"fax": "63858716",
+	"licensee": "CENTRAL CORPORATE WELLNESS PTE. LTD.",
+	"licensePeriod": "08/01/2017 to 07/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0045",
+	"address": "BLK 681 HOUGANG AVENUE 8, #01-829 Singapore 530681",
+	"doctorInCharge": [
+		{
+			"name": "Lye Tong Fong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995",
+				"Dip OM (National University of Singapore, Singapore) 2009",
+				"GDMH (National University of Singapore, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "15M0045",
+	"coordinates": [
+		103.8856792,
+		1.3729784
+	],
+	"svy21": [
+		33827.09,
+		39442.56
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

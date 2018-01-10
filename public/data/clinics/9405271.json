@@ -1,0 +1,55 @@
+{
+	"name": "LEE FAMILY CLINIC PTE. LTD.",
+	"tel": "67940217",
+	"fax": "67940217",
+	"licensee": "LEE FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "29/10/2013 to 28/10/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405271",
+	"address": "BLK 762 JURONG WEST STREET 75, GEK POH SHOPPING CENTRE, #02-262 Singapore 640762",
+	"doctorInCharge": [
+		{
+			"name": "LEE SHIRLEY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 05:00 pm to 09:30 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 05:00 pm to 09:30 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 05:00 pm to 09:30 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 05:00 pm to 09:30 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 05:00 pm to 09:30 pm",
+		"Saturday": "08:00 am to 01:00 pm, 02:00 pm to 04:00 pm",
+		"Sunday": "05:00 pm to 09:30 pm"
+	},
+	"id": "9405271",
+	"coordinates": [
+		103.6977321,
+		1.3487436
+	],
+	"svy21": [
+		12910.72,
+		36763.15
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

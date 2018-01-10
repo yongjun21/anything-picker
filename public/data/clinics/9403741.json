@@ -1,0 +1,38 @@
+{
+	"name": "NANYANG DENTAL CLINIC",
+	"tel": "62740722",
+	"fax": "62740722",
+	"licensee": "PHUA LEONG HAI",
+	"licensePeriod": "21/05/2016 to 20/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9403741",
+	"address": "BLK 131 JLN BUKIT MERAH, #01-1571 Singapore 160131",
+	"doctorInCharge": [
+		{
+			"name": "PHUA LEONG HAI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9403741",
+	"coordinates": [
+		103.8281784,
+		1.2801894
+	],
+	"svy21": [
+		27427.94,
+		29182.36
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

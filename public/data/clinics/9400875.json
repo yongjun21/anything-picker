@@ -1,0 +1,56 @@
+{
+	"name": "KOO CARDIAC CLINIC",
+	"tel": "65358833",
+	"fax": "64760848",
+	"licensee": "KOO CHEE CHOONG",
+	"licensePeriod": "20/06/2017 to 19/06/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400875",
+	"address": "6 NAPIER RD, GLENEAGLES MEDICAL CENTRE, #02-15 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "CHOW SHOOK LIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400875",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "PAN ISLAND DENTAL SURGERY",
+	"tel": "64453852",
+	"fax": "68420059",
+	"licensee": "CHAN CHAN SENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401275",
+	"address": "BLK 632 BEDOK RESERVOIR RD, #01-804 Singapore 470632",
+	"doctorInCharge": [
+		{
+			"name": "CHAN CHAN SENG",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "11:00 am to 01:30 pm, 04:00 pm to 07:00 pm",
+		"Tuesday": "11:00 am to 01:30 pm, 04:00 pm to 07:00 pm",
+		"Wednesday": "11:00 am to 01:30 pm, 04:00 pm to 07:00 pm",
+		"Thursday": "11:00 am to 01:30 pm, 04:00 pm to 07:00 pm",
+		"Friday": "11:00 am to 01:30 pm, 04:00 pm to 07:00 pm",
+		"Saturday": "11:00 am to 01:30 pm",
+		"Sunday": "11:00 am to 01:30 pm"
+	},
+	"id": "9401275",
+	"coordinates": [
+		103.9141451,
+		1.3320509
+	],
+	"svy21": [
+		36995.15,
+		34917.09
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

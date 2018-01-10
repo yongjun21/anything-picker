@@ -1,0 +1,51 @@
+{
+	"name": "KANG REN DENTAL SURGERY",
+	"tel": "67548989",
+	"fax": "67548989",
+	"licensee": "CHUA RU HONG",
+	"licensePeriod": "10/07/2016 to 09/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0135",
+	"address": "BLK 743 YISHUN AVE 5, #01-534 Singapore 760743",
+	"doctorInCharge": [
+		{
+			"name": "CHUA RU HONG",
+			"qualifications": [
+				"BDSc (University of Queensland, Australia) 2011"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "12C0135",
+	"coordinates": [
+		103.833671,
+		1.4298998
+	],
+	"svy21": [
+		28039.22,
+		45736.58
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"name": "GUT, LIVER AND MEDICAL CLINIC",
+	"tel": "64759631",
+	"fax": "64711051",
+	"licensee": "Gut, Liver And Medical Clinic",
+	"licensePeriod": "25/03/2014 to 24/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404791",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #06-02 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "LIM CHEE CHIAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1991",
+				"FAMS (Gastroenterology) (Academy of Medicine, Singapore) 1995",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2001"
+			],
+			"specialties": [
+				"Gastroenterology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Gastroenterology",
+			"Internal Medicine"
+		]
+	},
+	"id": "9404791",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

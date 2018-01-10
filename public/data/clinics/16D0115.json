@@ -1,0 +1,41 @@
+{
+	"name": "G DENTAL CENTER",
+	"tel": "62621580",
+	"fax": "62621581",
+	"licensee": "G DENTAL CENTER PTE. LTD.",
+	"licensePeriod": "22/04/2016 to 21/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0115",
+	"address": "BLK 25 GHIM MOH LINK, #01-04 Singapore 270025",
+	"doctorInCharge": [
+		{
+			"name": "James Ho Sew Hung",
+			"qualifications": [
+				"DMD (Harvard University School of Dental Medicine, United States) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "16D0115",
+	"coordinates": [
+		103.7862591,
+		1.3081556
+	],
+	"svy21": [
+		22762.72,
+		32274.77
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

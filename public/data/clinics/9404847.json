@@ -1,0 +1,47 @@
+{
+	"name": "THOMSON WELLTH CLINIC",
+	"tel": "63526550",
+	"fax": "63526551",
+	"licensee": "THOMSON MEDICAL PTE LTD",
+	"licensePeriod": "01/07/2017 to 11/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404847",
+	"address": "10 SINARAN DRIVE, SQUARE 2, #10-14/15 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Koh Kian Hiong Derek",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm"
+	},
+	"id": "9404847",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

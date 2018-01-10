@@ -1,0 +1,48 @@
+{
+	"name": "BISHAN HEALTHWAY DENTAL SURGERY",
+	"tel": "64538446",
+	"fax": "64538446",
+	"licensee": "WAN CHEE MENG",
+	"licensePeriod": "10/02/2014 to 09/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402354",
+	"address": "BLK 283 BISHAN ST 22, #01-195 Singapore 570283",
+	"doctorInCharge": [
+		{
+			"name": "WAN CHEE MENG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 11:30 am, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 11:30 am, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 11:30 am, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 11:30 am, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 11:30 am, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "08:30 am to 12:00 pm",
+		"Public Holiday": "08:30 am to 12:00 pm"
+	},
+	"id": "9402354",
+	"coordinates": [
+		103.8447486,
+		1.3589191
+	],
+	"svy21": [
+		29272.03,
+		37887.89
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

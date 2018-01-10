@@ -1,0 +1,53 @@
+{
+	"name": "MILLENNIUM MEDICAL GROUP",
+	"tel": "63680386",
+	"fax": "63683731",
+	"licensee": "LEONG YAN HOI",
+	"licensePeriod": "27/11/2016 to 26/11/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402019",
+	"address": "BLK 849 WOODLANDS ST 82, #01-215 Singapore 730849",
+	"doctorInCharge": [
+		{
+			"name": "LEONG YAN HOI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402019",
+	"coordinates": [
+		103.7920656,
+		1.4413106
+	],
+	"svy21": [
+		23409.18,
+		46998.36
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

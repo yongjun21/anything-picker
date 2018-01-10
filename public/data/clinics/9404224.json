@@ -1,0 +1,63 @@
+{
+	"name": "JOYHEALTH MEDICAL CLINIC & SURGERY",
+	"tel": "67811868",
+	"fax": "67818327",
+	"licensee": "Cheng Kah Ling  Grace",
+	"licensePeriod": "25/09/2014 to 24/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404224",
+	"address": "BLK 825 Tampines Street 81, #01-50 Singapore 520825",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Kah Ling  Grace",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1999",
+				"DIP (Basic Ultrasonography) (National University of Singapore, Singapore) 2003",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2004",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2006",
+				"Dip Acup (Singapore College of Traditional Chinese Medicine, Singapore) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2009",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2010",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2011",
+				"GDMH (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm, 07:00 pm to 08:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404224",
+	"coordinates": [
+		103.9327877,
+		1.3494375
+	],
+	"svy21": [
+		39069.81,
+		36839.69
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

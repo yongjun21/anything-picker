@@ -1,0 +1,41 @@
+{
+	"name": "TOA PAYOH NORTH CLINIC & SURGERY",
+	"tel": "62568692",
+	"fax": "62568496",
+	"licensee": "KOH SEK KHOON",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9401772",
+	"address": "BLK 203 TOA PAYOH NORTH, #01-1111 Singapore 310203",
+	"doctorInCharge": [
+		{
+			"name": "KOH SEK KHOON",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9401772",
+	"coordinates": [
+		103.8491654,
+		1.3420652
+	],
+	"svy21": [
+		29763.58,
+		36024.27
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

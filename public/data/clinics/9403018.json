@@ -1,0 +1,52 @@
+{
+	"name": "O & G CENTRE",
+	"tel": "64712220",
+	"fax": "64790002",
+	"licensee": "THAM KOK FUN",
+	"licensePeriod": "06/04/2015 to 05/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403018",
+	"address": "6A NAPIER RD, GLENEAGLES HOSPITAL ANNEXE BLOCK, #05-38 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "THAM KOK FUN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"M Med (O&G) (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:30 pm",
+		"Saturday": "08:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9403018",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"name": "PINNACLE DENTAL GROUP PTE LTD",
+	"tel": "62355235",
+	"fax": "62350889",
+	"licensee": "Pinnacle Dental Group Pte Ltd",
+	"licensePeriod": "20/03/2015 to 19/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404390",
+	"address": "230 Orchard Road, Faber House, #05-236 Singapore 238854",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wee Sang",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1989",
+				"MSc (Orthodontics) (London) (University of London, United Kingdom) 1994",
+				"DOrth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 1994",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 1997"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"id": "9404390",
+	"coordinates": [
+		103.8382986,
+		1.3019505
+	],
+	"svy21": [
+		28554.24,
+		31588.59
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

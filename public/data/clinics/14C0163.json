@@ -1,0 +1,57 @@
+{
+	"name": "FRESENIUS MEDICAL CARE ANG MO KIO DIALYSIS CLINIC",
+	"tel": "64522677",
+	"fax": "64521106",
+	"licensee": "FRESENIUS MEDICAL CARE SINGAPORE PTE. LTD.",
+	"licensePeriod": "13/06/2016 to 12/06/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "14C0163",
+	"address": "BLK 443 ANG MO KIO AVE 10, #01-1241 Singapore 560443",
+	"doctorInCharge": [
+		{
+			"name": "Lye Wai Choong",
+			"qualifications": [
+				"MBBS (University of New South Wales, Australia) 1983",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1987",
+				"FAMS (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "06:30 am to 10:30 pm",
+		"Tuesday": "06:30 am to 10:30 pm",
+		"Wednesday": "06:30 am to 10:30 pm",
+		"Thursday": "06:30 am to 10:30 pm",
+		"Friday": "06:30 am to 10:30 pm",
+		"Saturday": "06:30 am to 10:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "14C0163",
+	"coordinates": [
+		103.855369,
+		1.3660439
+	],
+	"svy21": [
+		30453.95,
+		38675.72
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

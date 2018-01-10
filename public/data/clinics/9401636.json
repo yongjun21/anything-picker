@@ -1,0 +1,49 @@
+{
+	"name": "TECK GHEE CLINIC (DR. KOH)",
+	"tel": "64540642",
+	"fax": "64540642",
+	"licensee": "KOH GIN POH",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401636",
+	"address": "BLK 451 ANG MO KIO AVE 10, #01-1765 Singapore 560451",
+	"doctorInCharge": [
+		{
+			"name": "KOH GIN POH",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Tuesday": "08:00 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 07:00 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:00 pm, 07:00 pm to 08:30 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401636",
+	"coordinates": [
+		103.8555278,
+		1.3687931
+	],
+	"svy21": [
+		30471.62,
+		38979.72
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

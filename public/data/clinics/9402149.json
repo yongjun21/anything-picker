@@ -1,0 +1,47 @@
+{
+	"name": "KHOO CLINIC & SURGERY",
+	"tel": "62880457",
+	"fax": "62881297",
+	"licensee": "KHOO AH CHEW",
+	"licensePeriod": "29/10/2013 to 28/10/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402149",
+	"address": "998 UPPER SERANGOON RD, Singapore 534737",
+	"doctorInCharge": [
+		{
+			"name": "KHOO AH CHEW",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9402149",
+	"coordinates": [
+		103.8877878,
+		1.3622849
+	],
+	"svy21": [
+		34061.78,
+		38260.13
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

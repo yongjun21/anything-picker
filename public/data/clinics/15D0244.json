@@ -1,0 +1,51 @@
+{
+	"name": "ADVANCED DENTAL CLINIC SERANGOON PTE LTD",
+	"tel": "62801011",
+	"fax": "00000000",
+	"licensee": "ADVANCED DENTAL CLINIC SERANGOON PTE. LTD.",
+	"licensePeriod": "13/07/2017 to 12/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0244",
+	"address": "BLK 254 SERANGOON CENTRAL DRIVE, #01-213 Singapore 550254",
+	"doctorInCharge": [
+		{
+			"name": "SNG TIAP CHING MATTHEW",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm, 05:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm, 05:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm, 05:30 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm, 05:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm, 05:30 pm to 08:30 pm",
+		"Saturday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm",
+		"Sunday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm"
+	},
+	"id": "15D0244",
+	"coordinates": [
+		103.8712169,
+		1.3540623
+	],
+	"svy21": [
+		32217.65,
+		37350.88
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

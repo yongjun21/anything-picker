@@ -1,0 +1,54 @@
+{
+	"name": "ACUMED MEDICAL GROUP",
+	"tel": "68615755",
+	"fax": "68615355",
+	"licensee": "ACUMED MEDICAL PTE. LTD.",
+	"licensePeriod": "24/06/2017 to 23/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0211",
+	"address": "1 JOO KOON CIRCLE, FAIRPRICE HUB, #01-23 Singapore 629117",
+	"doctorInCharge": [
+		{
+			"name": "Leong Wai Hin Linda ( Mrs Chow )",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"MCGP (Family Med) (College of General Practitioners, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 am to 07:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 am to 07:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 am to 07:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 am to 07:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 am to 07:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15M0211",
+	"coordinates": [
+		103.6784106,
+		1.3256176
+	],
+	"svy21": [
+		10760.28,
+		34206.12
+	],
+	"planningArea": "PN",
+	"neighbours": [
+		"BL",
+		"JW",
+		"TS",
+		"WC"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "SPECIALIST CENTRE @ FARRER PARK",
+	"tel": "64439698",
+	"fax": "65357767",
+	"licensee": "FARRER PARK MEDICAL SUITES PTE. LTD.",
+	"licensePeriod": "21/04/2017 to 20/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0110",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #14-09/10 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "Shanker Pasupathy",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995",
+				"FRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 1999",
+				"FRCS (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1999"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Anaesthesiology",
+			"Diagnostic Radiology",
+			"General Surgery",
+			"Otorhinolaryngology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "15M0110",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

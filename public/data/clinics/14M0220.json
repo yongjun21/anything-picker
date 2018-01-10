@@ -1,0 +1,53 @@
+{
+	"name": "TANJONG PAGAR MEDICAL CLINIC",
+	"tel": "64433101",
+	"fax": "64433881",
+	"licensee": "TANJONG PAGAR MEDICAL CLINIC",
+	"licensePeriod": "07/08/2016 to 06/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0220",
+	"address": "BLK 1 TANJONG PAGAR PLAZA, #01-06 Singapore 082001",
+	"doctorInCharge": [
+		{
+			"name": "Kwek Boon Chow",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 02:00 pm",
+		"Sunday": "09:00 am to 02:00 pm"
+	},
+	"id": "14M0220",
+	"coordinates": [
+		103.8423932,
+		1.2755962
+	],
+	"svy21": [
+		29009.93,
+		28674.47
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"name": "HEALTH PARTNERSHIP MEDICAL CENTRE",
+	"tel": "62782860",
+	"fax": "62782860",
+	"licensee": "CKK MANAGEMENT PTE LTD",
+	"licensePeriod": "18/06/2015 to 17/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400646",
+	"address": "BLK 109 BUKIT PURMEI RD, #01-145 Singapore 090109",
+	"doctorInCharge": [
+		{
+			"name": "CHEONG KWOK KEONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 11:00 am, 12:30 am to 04:00 pm, 06:00 pm to 08:00 pm",
+		"Tuesday": "08:30 am to 11:00 am, 12:30 am to 04:00 pm, 06:00 pm to 08:00 pm",
+		"Wednesday": "08:30 am to 11:00 am, 12:30 am to 04:00 pm, 06:00 pm to 08:00 pm",
+		"Thursday": "08:30 am to 11:00 am, 12:30 am to 04:00 pm, 06:00 pm to 08:00 pm",
+		"Friday": "08:30 am to 11:00 am, 12:30 am to 04:00 pm, 06:00 pm to 08:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "08:30 am to 12:00 pm"
+	},
+	"id": "9400646",
+	"coordinates": [
+		103.8253108,
+		1.2739294
+	],
+	"svy21": [
+		27108.79,
+		28490.16
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

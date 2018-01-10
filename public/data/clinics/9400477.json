@@ -1,0 +1,50 @@
+{
+	"name": "EMMANUEL MEDICAL CLINIC",
+	"tel": "67810810",
+	"fax": "67852196",
+	"licensee": "SIOW KWONG THYE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400477",
+	"address": "BLK 272 TAMPINES ST 22, #01-26 Singapore 520272",
+	"doctorInCharge": [
+		{
+			"name": "SIOW KWONG THYE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 08:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400477",
+	"coordinates": [
+		103.9502815,
+		1.3491594
+	],
+	"svy21": [
+		41016.68,
+		36809.02
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

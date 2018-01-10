@@ -1,0 +1,52 @@
+{
+	"name": "KAI CLINIC",
+	"tel": "63441377",
+	"fax": "64471465",
+	"licensee": "Ho Chok Chan Alan",
+	"licensePeriod": "01/01/2017 to 31/12/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400814",
+	"address": "223 EAST COAST ROAD, kiv, Singapore 428920",
+	"doctorInCharge": [
+		{
+			"name": "Ho Chok Chan Alan",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1973",
+				"M Med (Paed) (National University of Singapore, Singapore) 1977"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:30 pm to 04:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:30 pm to 04:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:30 pm to 04:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:30 pm to 04:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:30 pm to 04:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400814",
+	"coordinates": [
+		103.9071335,
+		1.3076363
+	],
+	"svy21": [
+		36214.92,
+		32217.42
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

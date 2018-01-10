@@ -1,0 +1,48 @@
+{
+	"name": "WONG DENTAL SURGERY",
+	"tel": "63869977",
+	"fax": "63862276",
+	"licensee": "WONG YAT SENG",
+	"licensePeriod": "28/11/2017 to 27/11/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401886",
+	"address": "BLK 683 HOUGANG AVE 8, #01-935 Singapore 530683",
+	"doctorInCharge": [
+		{
+			"name": "WONG YAT SENG",
+			"qualifications": [
+				"BDSc (University of Queensland, Australia) 1985",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm"
+	},
+	"id": "9401886",
+	"coordinates": [
+		103.8863678,
+		1.3733127
+	],
+	"svy21": [
+		33903.73,
+		39479.52
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

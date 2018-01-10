@@ -1,0 +1,51 @@
+{
+	"name": "SMILEARTS DENTAL STUDIO",
+	"tel": "63480824",
+	"fax": "63480139",
+	"licensee": "SmileArts Pte. Ltd.",
+	"licensePeriod": "16/05/2014 to 15/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404162",
+	"address": "BLK 81 Marine Parade Central, #01-632 Singapore 440081",
+	"doctorInCharge": [
+		{
+			"name": "Goh Kah Yee",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 07:00 pm",
+		"Tuesday": "09:00 am to 07:00 pm",
+		"Wednesday": "09:00 am to 07:00 pm",
+		"Thursday": "09:00 am to 07:00 pm",
+		"Friday": "09:00 am to 07:00 pm"
+	},
+	"id": "9404162",
+	"coordinates": [
+		103.9070732,
+		1.3026413
+	],
+	"svy21": [
+		36208.23,
+		31665.09
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

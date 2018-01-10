@@ -1,0 +1,62 @@
+{
+	"name": "SINGAPORE AEROMEDICAL CENTRE",
+	"tel": "64880618",
+	"fax": "62855100",
+	"licensee": "ST HEALTHCARE PTE LTD",
+	"licensePeriod": "06/07/2017 to 05/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15C0228",
+	"address": "492 AIRPORT ROAD, AEROMEDICAL CENTRE, #01-01 Singapore 539945",
+	"doctorInCharge": [
+		{
+			"name": "Low Chin Howe Robin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"D Av Med (Royal College of Physicians of London, United Kingdom) 1997"
+			],
+			"specialties": [
+				"Aviation Medicine",
+				"Occupational Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true,
+		"Yellow Fever Vaccination": true,
+		"Specialist Medical": [
+			"Aviation Medicine",
+			"Occupational Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 12:00 pm, 01:00 pm to 05:30 pm",
+		"Tuesday": "08:00 am to 12:00 pm, 01:00 pm to 05:30 pm",
+		"Wednesday": "08:00 am to 12:00 pm, 01:00 pm to 05:30 pm",
+		"Thursday": "08:00 am to 12:00 pm, 01:00 pm to 05:30 pm",
+		"Friday": "08:00 am to 12:00 pm, 01:00 pm to 05:00 pm",
+		"Saturday": "08:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15C0228",
+	"coordinates": [
+		103.9002809,
+		1.3436361
+	],
+	"svy21": [
+		35452.18,
+		36198.07
+	],
+	"planningArea": "PL",
+	"neighbours": [
+		"BD",
+		"PR",
+		"HG",
+		"SE",
+		"TM"
+	]
+}

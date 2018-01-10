@@ -1,0 +1,55 @@
+{
+	"name": "HOUGANG CLINIC",
+	"tel": "62826306",
+	"fax": "62826306",
+	"licensee": "CHUA CHONG LI",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400705",
+	"address": "BLK 631 HOUGANG AVE 8, #01-16 Singapore 530631",
+	"doctorInCharge": [
+		{
+			"name": "CHUA CHONG LI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "Closed",
+		"Public Holiday": "Closed",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400705",
+	"coordinates": [
+		103.8815186,
+		1.3706914
+	],
+	"svy21": [
+		33364.08,
+		39189.66
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

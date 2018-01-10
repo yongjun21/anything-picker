@@ -1,0 +1,40 @@
+{
+	"name": "FRASER MEDICAL CENTRE",
+	"tel": "62733603",
+	"fax": "62702459",
+	"licensee": "FRASER MEDICAL PTE. LTD.",
+	"licensePeriod": "01/06/2016 to 31/05/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "16C0164",
+	"address": "BLK 78A TELOK BLANGAH ST 32, #01-07 Singapore 101078",
+	"doctorInCharge": [
+		{
+			"name": "TEO HUI LING",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16C0164",
+	"coordinates": [
+		103.8089806,
+		1.2733875
+	],
+	"svy21": [
+		25291.37,
+		28430.26
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

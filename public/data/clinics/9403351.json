@@ -1,0 +1,44 @@
+{
+	"name": "CARING COMMUNITY CLINIC",
+	"tel": "62938757",
+	"fax": "62911412",
+	"licensee": "FOOCHOW METHODIST CHURCH",
+	"licensePeriod": "06/05/2015 to 05/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403351",
+	"address": "90 RACE COURSE ROAD, Singapore 218577",
+	"doctorInCharge": [
+		{
+			"name": "TAN SEUNG PO",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1975"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Sunday": "04:00 pm to 06:00 pm"
+	},
+	"id": "9403351",
+	"coordinates": [
+		103.851699,
+		1.3089446
+	],
+	"svy21": [
+		30045.57,
+		32361.97
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

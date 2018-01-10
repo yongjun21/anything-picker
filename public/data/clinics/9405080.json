@@ -1,0 +1,49 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "63920225",
+	"fax": "63920225",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "21/01/2015 to 20/01/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405080",
+	"address": "30 TOWNER ROAD,, HONG WEN SCHOOL, Singapore 327829",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wanyi",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9405080",
+	"coordinates": [
+		103.8576285,
+		1.32176
+	],
+	"svy21": [
+		30705.45,
+		33779.04
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

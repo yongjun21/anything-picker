@@ -1,0 +1,52 @@
+{
+	"name": "THE HARLEY STREET HEART & CANCER CENTRE",
+	"tel": "66940050",
+	"fax": "66340040",
+	"licensee": "HSC CANCER CENTRE PTE. LTD.",
+	"licensePeriod": "19/02/2017 to 18/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13C0032",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #07-41 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "LO SOO KIEN",
+			"qualifications": [
+				"MB ChB (University of Sheffield, United Kingdom) 1993",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1997"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "13C0032",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

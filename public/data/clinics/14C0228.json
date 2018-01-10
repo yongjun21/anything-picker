@@ -1,0 +1,53 @@
+{
+	"name": "UNITY DENTICARE",
+	"tel": "65904400",
+	"fax": "62260478",
+	"licensee": "NTUC Health Co-operative Ltd",
+	"licensePeriod": "23/07/2017 to 22/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14C0228",
+	"address": "1 MARINA BOULEVARD, ONE MARINA BOULEVARD, #B1-04/05 Singapore 018989",
+	"doctorInCharge": [
+		{
+			"name": "TOH KWAI MUI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "14C0228",
+	"coordinates": [
+		103.8526151,
+		1.2822551
+	],
+	"svy21": [
+		30147.55,
+		29410.79
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

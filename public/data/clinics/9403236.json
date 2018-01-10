@@ -1,0 +1,55 @@
+{
+	"name": "JURONG CLINIC FOR WOMEN",
+	"tel": "66651570",
+	"fax": "66650031",
+	"licensee": "NATIONAL UNIVERSITY HOSPITAL (SINGAPORE) PTE LTD",
+	"licensePeriod": "21/08/2014 to 20/08/2019",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9403236",
+	"address": "BLK 130 Jurong Gateway Road, #01-231 Singapore 600130",
+	"doctorInCharge": [
+		{
+			"name": "Yong Eu Leong",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1986",
+				"M Med (O&G) (National University of Singapore, Singapore) 1986",
+				"PhD (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9403236",
+	"coordinates": [
+		103.7393213,
+		1.3347249
+	],
+	"svy21": [
+		17539.08,
+		35212.82
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

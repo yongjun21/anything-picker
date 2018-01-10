@@ -1,0 +1,51 @@
+{
+	"name": "ARDMORE AESTHETIC CLINIC",
+	"tel": "67346531",
+	"fax": "64550359",
+	"licensee": "RL AESTHETICS PTE. LTD.",
+	"licensePeriod": "10/07/2017 to 09/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0238",
+	"address": "360 ORCHARD ROAD, INTERNATIONAL BUILDING, #06-01A Singapore 238869",
+	"doctorInCharge": [
+		{
+			"name": "Lim Pang Yen Rachel",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "10:30 am to 08:30 pm",
+		"Tuesday": "10:30 am to 08:30 pm",
+		"Wednesday": "10:30 am to 08:30 pm",
+		"Thursday": "10:30 am to 08:30 pm",
+		"Friday": "10:30 am to 08:30 pm",
+		"Saturday": "10:30 am to 03:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15M0238",
+	"coordinates": [
+		103.8310033,
+		1.3060752
+	],
+	"svy21": [
+		27742.33,
+		32044.67
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

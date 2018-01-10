@@ -1,0 +1,48 @@
+{
+	"name": "WEST COAST CLINIC & SURGERY (CLEMENTI WEST) PTE LTD",
+	"tel": "67770183",
+	"fax": "67743235",
+	"licensee": "SUN SEE SENG",
+	"licensePeriod": "01/01/2017 to 31/12/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405045",
+	"address": "BLK 722 CLEMENTI WEST ST 2, #01-162 Singapore 120722",
+	"doctorInCharge": [
+		{
+			"name": "SUN SEE SENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405045",
+	"coordinates": [
+		103.763714,
+		1.3029796
+	],
+	"svy21": [
+		20253.65,
+		31702.49
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

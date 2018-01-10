@@ -1,0 +1,52 @@
+{
+	"name": "DE PACIFIC DENTAL GROUP (JURONG WEST BRANCH)",
+	"tel": "63971050",
+	"fax": "63971049",
+	"licensee": "DE PACIFIC DENTAL GROUP (JURONG WEST) PTE. LTD.",
+	"licensePeriod": "08/07/2016 to 07/07/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403222",
+	"address": "BLK 965 JURONG WEST ST 93, #01-211 Singapore 640965",
+	"doctorInCharge": [
+		{
+			"name": "Lim Eng Yong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm"
+	},
+	"id": "9403222",
+	"coordinates": [
+		103.6924912,
+		1.3413418
+	],
+	"svy21": [
+		12327.42,
+		35944.73
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

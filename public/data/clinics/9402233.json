@@ -1,0 +1,52 @@
+{
+	"name": "NAM SANG DENTAL SURGERY PTE LTD",
+	"tel": "64621806",
+	"fax": "64666365",
+	"licensee": "KOH SWEE PIAN",
+	"licensePeriod": "07/01/2016 to 06/01/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402233",
+	"address": "144 UPPER BUKIT TIMAH ROAD, BEAUTY WORLD CENTRE, #01-20 Singapore 588177",
+	"doctorInCharge": [
+		{
+			"name": "KOH SWEE PIAN",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1980",
+				"DGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402233",
+	"coordinates": [
+		103.7765394,
+		1.3424126
+	],
+	"svy21": [
+		21681.09,
+		36062.76
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

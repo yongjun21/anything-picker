@@ -1,0 +1,47 @@
+{
+	"name": "SIMON DENTAL SURGERY",
+	"tel": "62916231",
+	"fax": "62916486",
+	"licensee": "SIMON DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401498",
+	"address": "BLK 668 CHANDER RD, #01-16 Singapore 210668",
+	"doctorInCharge": [
+		{
+			"name": "SIMON MAHENDRAN S/O PAKKIRISAMY",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 08:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:00 pm to 08:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "9401498",
+	"coordinates": [
+		103.8514782,
+		1.3075812
+	],
+	"svy21": [
+		30021,
+		32211.22
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"name": "C3 FAMILY CLINIC @ALJUNIED CRESCENT",
+	"tel": "67422285",
+	"fax": "67422305",
+	"licensee": "C3 CARE CONNECT & CONSULTANCY PTE. LTD.",
+	"licensePeriod": "23/06/2017 to 22/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0186",
+	"address": "BLK 95 ALJUNIED CRESCENT, MACPHERSON VIEW, #01-509 Singapore 380095",
+	"doctorInCharge": [
+		{
+			"name": "Cheong Siew Meng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2006",
+				"D Av Med (Royal College of Physicians of London, United Kingdom) 2009",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2013",
+				"Dip Geriatric Med (National University of Singapore, Singapore) 2015",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "07:30 am to 02:00 pm, 05:00 pm to 10:00 pm",
+		"Tuesday": "07:30 am to 02:00 pm, 05:00 pm to 10:00 pm",
+		"Wednesday": "07:30 am to 02:00 pm, 05:00 pm to 10:00 pm",
+		"Thursday": "07:30 am to 02:00 pm, 05:00 pm to 10:00 pm",
+		"Friday": "07:30 am to 02:00 pm, 05:00 pm to 10:00 pm",
+		"Saturday": "07:30 am to 02:00 pm, 05:00 pm to 10:00 pm",
+		"Sunday": "07:30 am to 10:00 pm"
+	},
+	"id": "17M0186",
+	"coordinates": [
+		103.8861957,
+		1.3217033
+	],
+	"svy21": [
+		33884.7,
+		33772.81
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

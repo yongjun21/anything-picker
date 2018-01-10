@@ -1,0 +1,45 @@
+{
+	"name": "PROCROSS MEDICAL CLINIC",
+	"tel": "62199648",
+	"fax": "62199649",
+	"licensee": "SEEDS OF NATIONS HEALTH SERVICES PTE. LTD.",
+	"licensePeriod": "23/04/2017 to 22/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0113",
+	"address": "BLK 689A WOODLANDS DRIVE 75, #01-86 Singapore 731689",
+	"doctorInCharge": [
+		{
+			"name": "Ho Kay Chun Caleb",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed"
+	},
+	"id": "15M0113",
+	"coordinates": [
+		103.8079254,
+		1.4443863
+	],
+	"svy21": [
+		25174.14,
+		47338.43
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

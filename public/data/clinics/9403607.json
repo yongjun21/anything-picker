@@ -1,0 +1,56 @@
+{
+	"name": "WELL FAMILY CLINIC & SURGERY",
+	"tel": "64549519",
+	"fax": "65527182",
+	"licensee": "Alvin Wong Fung Wean",
+	"licensePeriod": "09/03/2015 to 08/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403607",
+	"address": "BLK 555 Ang Mo Kio Avenue 10, #01-1948 Singapore 560555",
+	"doctorInCharge": [
+		{
+			"name": "Alvin Wong Fung Wean",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 11:00 pm",
+		"Tuesday": "08:00 am to 11:00 pm",
+		"Wednesday": "08:00 am to 11:00 pm",
+		"Thursday": "08:00 am to 11:00 pm",
+		"Friday": "08:00 am to 11:00 pm",
+		"Saturday": "08:00 am to 11:00 pm",
+		"Sunday": "08:00 am to 11:00 pm"
+	},
+	"id": "9403607",
+	"coordinates": [
+		103.857024,
+		1.3711967
+	],
+	"svy21": [
+		30638.13,
+		39245.49
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

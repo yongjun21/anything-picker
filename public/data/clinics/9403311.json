@@ -1,0 +1,50 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64874110",
+	"fax": "64874110",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "07/02/2015 to 06/02/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403311",
+	"address": "45 HOUGANG AVE 1,, XINGHUA PRIMARY SCHOOL, Singapore 538882",
+	"doctorInCharge": [
+		{
+			"name": "Lim Wanyi",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403311",
+	"coordinates": [
+		103.890465,
+		1.3579089
+	],
+	"svy21": [
+		34359.74,
+		37776.26
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

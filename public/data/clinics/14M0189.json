@@ -1,0 +1,51 @@
+{
+	"name": "HEALTHCARE MEDICAL @ SENTOSA",
+	"tel": "62684082",
+	"fax": "62684074",
+	"licensee": "HEALTHCARE (SENTOSA) PTE. LTD.",
+	"licensePeriod": "07/07/2016 to 06/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0189",
+	"address": "31 OCEAN WAY, QUAYSIDE ISLE, #01-21 Singapore 098375",
+	"doctorInCharge": [
+		{
+			"name": "CHAN KOK YEW",
+			"qualifications": [
+				"MB ChB (University of Sheffield, United Kingdom) 1995",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm"
+	},
+	"id": "14M0189",
+	"coordinates": [
+		103.8421961,
+		1.2470704
+	],
+	"svy21": [
+		28988.01,
+		25520.23
+	],
+	"planningArea": "SI",
+	"neighbours": [
+		"BM"
+	]
+}

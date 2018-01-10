@@ -1,0 +1,57 @@
+{
+	"name": "TNG FAMILY CLINIC",
+	"tel": "64541203",
+	"fax": "64541203",
+	"licensee": "Tng Wei Chiang",
+	"licensePeriod": "21/12/2013 to 20/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403624",
+	"address": "BLK 347 Ang Mo Kio Ave 3, #01-2126 Singapore 560347",
+	"doctorInCharge": [
+		{
+			"name": "Tng Wei Chiang",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 1994",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9403624",
+	"coordinates": [
+		103.8485763,
+		1.3673386
+	],
+	"svy21": [
+		29698.01,
+		38818.87
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

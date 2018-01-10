@@ -1,0 +1,53 @@
+{
+	"name": "LINC AESTHETIC CLINIC PTE LTD",
+	"tel": "67320208",
+	"fax": "67320308",
+	"licensee": "LINC AESTHETIC CLINIC PTE. LTD.",
+	"licensePeriod": "01/09/2014 to 31/08/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404952",
+	"address": "541 ORCHARD ROAD, LIAT TOWERS, #21-01/02 Singapore 238881",
+	"doctorInCharge": [
+		{
+			"name": "WONG LAI LIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"Dip Derm (University of Wales, United Kingdom) 1998",
+				"DIP (Basic Ultrasonography) (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404952",
+	"coordinates": [
+		103.8307226,
+		1.3050872
+	],
+	"svy21": [
+		27711.09,
+		31935.43
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -3,8 +3,8 @@
 	"tel": "62546688",
 	"fax": "62501888",
 	"licensee": "Yeo Ker Chiang",
-	"licensePeriod": "25/10/2015 to 24/10/2017",
-	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"licensePeriod": "25/10/2017 to 24/10/2022",
+	"licenseClass": "[ 5 Years ]",
 	"hciCode": "11C0182",
 	"address": "1 THOMSON ROAD, BALESTIER HILL SHOPPING CENTRE, #01-342 Singapore 300001",
 	"doctorInCharge": [
@@ -23,9 +23,7 @@
 		}
 	],
 	"detailedServices": {
-		"Abortion": [
-			"Obstetrics & Gynaecology"
-		],
+		"Abortion": true,
 		"Specialist Medical": [
 			"Obstetrics & Gynaecology"
 		]

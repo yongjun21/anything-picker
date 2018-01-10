@@ -1,0 +1,56 @@
+{
+	"name": "NUHEALTH MEDICAL CENTRE",
+	"tel": "62199298",
+	"fax": "67694663",
+	"licensee": "NUHEALTH MEDICAL PTE. LTD.",
+	"licensePeriod": "26/06/2016 to 25/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0110",
+	"address": "1 WOODLANDS ROAD, Junction 10, #01-23 Singapore 677899",
+	"doctorInCharge": [
+		{
+			"name": "Tay Jun Sheng",
+			"qualifications": [
+				"MB ChB (University of Edinburgh, United Kingdom) 2008"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 01:00 pm, 02:00 pm to 04:00 pm",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 10:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 10:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 10:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 10:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 10:00 pm",
+		"Saturday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 10:00 pm",
+		"Sunday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 10:00 pm"
+	},
+	"id": "12C0110",
+	"coordinates": [
+		103.7601679,
+		1.3803368
+	],
+	"svy21": [
+		19859.25,
+		40256.27
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

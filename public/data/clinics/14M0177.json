@@ -1,0 +1,52 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "62422819",
+	"fax": "62413498",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "23/06/2016 to 22/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0177",
+	"address": "65 AIRPORT BOULEVARD, CHANGI AIRPORT TERMINAL 3, #B1-08 Singapore 819663",
+	"doctorInCharge": [
+		{
+			"name": "Norkhalim Dalil",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "14M0177",
+	"coordinates": [
+		103.9865622,
+		1.3566261
+	],
+	"svy21": [
+		45054.27,
+		37634.88
+	],
+	"planningArea": "CH",
+	"neighbours": [
+		"PR",
+		"TM",
+		"CB"
+	]
+}

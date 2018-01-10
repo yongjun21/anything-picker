@@ -1,0 +1,51 @@
+{
+	"name": "GRACE CLINIC",
+	"tel": "62220405",
+	"fax": "63243458",
+	"licensee": "CHONG FOONG CHONG",
+	"licensePeriod": "24/06/2017 to 23/06/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400602",
+	"address": "BLK 333 KRETA AYER ROAD, #02-14 Singapore 080333",
+	"doctorInCharge": [
+		{
+			"name": "CHONG FOONG CHONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400602",
+	"coordinates": [
+		103.8424634,
+		1.2807483
+	],
+	"svy21": [
+		29017.74,
+		29244.17
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

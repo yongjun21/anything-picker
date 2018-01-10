@@ -1,0 +1,55 @@
+{
+	"name": "CARE4LIFE MEDICAL CLINIC (YISHUN)",
+	"tel": "69092259",
+	"fax": "87813485",
+	"licensee": "CARE4LIFE MEDICAL GROUP PTE. LTD.",
+	"licensePeriod": "03/07/2017 to 02/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0203",
+	"address": "BLK 513 YISHUN STREET 51, SARACA BREEZE @ YISHUN, #01-03 Singapore 760513",
+	"doctorInCharge": [
+		{
+			"name": "Patil Anand Achyut",
+			"qualifications": [
+				"MBBS (Grant Medical College, Mumbai, India) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "08:30 am to 12:30 pm, 06:30 am to 10:00 pm",
+		"New Year (01/01/2018)": "08:30 am to 12:30 pm, 06:30 am to 10:00 pm",
+		"Monday": "08:30 am to 02:30 pm, 06:30 pm to 11:00 pm",
+		"Tuesday": "08:30 am to 02:30 pm, 06:30 pm to 11:00 pm",
+		"Wednesday": "08:30 am to 02:30 pm, 06:30 pm to 11:00 pm",
+		"Thursday": "08:30 am to 02:30 pm, 06:30 pm to 11:00 pm",
+		"Friday": "08:30 am to 02:30 pm, 06:30 pm to 11:00 pm",
+		"Saturday": "08:30 am to 12:30 pm, 06:30 am to 10:00 pm",
+		"Sunday": "08:30 am to 12:30 pm, 06:30 am to 10:00 pm"
+	},
+	"id": "17M0203",
+	"coordinates": [
+		103.8442553,
+		1.4160048
+	],
+	"svy21": [
+		29217.1,
+		44200.14
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

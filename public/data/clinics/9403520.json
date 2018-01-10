@@ -1,0 +1,45 @@
+{
+	"name": "CHOICE CLINIC",
+	"tel": "68941822",
+	"fax": "68941822",
+	"licensee": "TAN KEE LING",
+	"licensePeriod": "22/04/2016 to 21/04/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403520",
+	"address": "BLK 548 WOODLANDS DR 44, VISTA POINT, #02-21 Singapore 730548",
+	"doctorInCharge": [
+		{
+			"name": "TAN KEE LING",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm"
+	},
+	"id": "9403520",
+	"coordinates": [
+		103.7939311,
+		1.4308999
+	],
+	"svy21": [
+		23616.76,
+		45847.2
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

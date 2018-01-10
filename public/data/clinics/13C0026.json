@@ -1,0 +1,55 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "68870151",
+	"fax": "63376874",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "05/02/2017 to 04/02/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0026",
+	"address": "90 BRAS BASAH ROAD, ESPLANADE MRT STATION, #B1-02 Singapore 189562",
+	"doctorInCharge": [
+		{
+			"name": "Karen Ong Li Ling",
+			"qualifications": [
+				"MD (Boston University, United States) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "06:30 pm to 09:30 pm",
+		"Tuesday": "06:30 pm to 09:30 pm",
+		"Wednesday": "06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "08:30 pm to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0026",
+	"coordinates": [
+		103.8550812,
+		1.2936577
+	],
+	"svy21": [
+		30421.99,
+		30671.63
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

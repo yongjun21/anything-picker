@@ -1,0 +1,49 @@
+{
+	"name": "TAN CLINIC",
+	"tel": "67759033",
+	"fax": "64689938",
+	"licensee": "TAN KIAT PIAH",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401605",
+	"address": "BLK 345 CLEMENTI AVE 5, #01-94 Singapore 120345",
+	"doctorInCharge": [
+		{
+			"name": "TAN KIAT PIAH",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Thursday": "09:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Friday": "09:30 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "09:30 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401605",
+	"coordinates": [
+		103.7690767,
+		1.3177028
+	],
+	"svy21": [
+		20850.51,
+		33330.49
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

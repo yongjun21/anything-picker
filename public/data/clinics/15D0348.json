@@ -1,0 +1,54 @@
+{
+	"name": "PETITE SMILES CHILDREN'S DENTAL CLINIC",
+	"tel": "62508669",
+	"fax": "62508556",
+	"licensee": "PETITE SMILES PTE. LTD",
+	"licensePeriod": "08/10/2017 to 07/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0348",
+	"address": "10 SINARAN DRIVE, SQUARE 2, #11-18 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Ng Jing Jing",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2002",
+				"MClinDent (Paediatric Dentistry) (London) (University of London, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Paediatric Dentistry"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 02:00 pm"
+	},
+	"id": "15D0348",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

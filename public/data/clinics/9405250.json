@@ -1,0 +1,47 @@
+{
+	"name": "CENTRAL 24-HR CLINIC (PASIR RIS)",
+	"tel": "65822640",
+	"fax": "65825045",
+	"licensee": "ONEHEALTH MEDICAL PTE. LTD.",
+	"licensePeriod": "24/07/2015 to 23/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405250",
+	"address": "BLK 446 PASIR RIS DRIVE 6, #01-122 Singapore 510446",
+	"doctorInCharge": [
+		{
+			"name": "LYE TONG FONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995",
+				"Dip OM (National University of Singapore, Singapore) 2009",
+				"GDMH (National University of Singapore, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9405250",
+	"coordinates": [
+		103.9577269,
+		1.3703062
+	],
+	"svy21": [
+		41845.14,
+		39147.37
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

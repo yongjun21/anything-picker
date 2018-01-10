@@ -1,0 +1,58 @@
+{
+	"name": "THE KIDNEY CLINIC PTE LTD",
+	"tel": "67379022",
+	"fax": "67379232",
+	"licensee": "Ho Chee Khun",
+	"licensePeriod": "24/03/2015 to 23/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0034",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #12-09 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Ho Chee Khun",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1989",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1994"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "11C0034",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

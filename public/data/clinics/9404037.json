@@ -1,0 +1,49 @@
+{
+	"name": "MIHO DENTAL CLINIC",
+	"tel": "62612418",
+	"fax": "62612418",
+	"licensee": "YAO TA MING DAMIAN",
+	"licensePeriod": "18/11/2013 to 17/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404037",
+	"address": "BLK 176 BOON LAY DRIVE, #01-364 Singapore 640176",
+	"doctorInCharge": [
+		{
+			"name": "YAO TA MING DAMIAN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 05:00 pm to 07:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 05:00 pm to 07:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 05:00 pm to 07:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 05:00 pm to 07:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm, 05:00 pm to 07:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404037",
+	"coordinates": [
+		103.7100145,
+		1.347251
+	],
+	"svy21": [
+		14277.61,
+		36598.03
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

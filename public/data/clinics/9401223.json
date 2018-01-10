@@ -1,0 +1,55 @@
+{
+	"name": "OOI BABY AND CHILD CLINIC",
+	"tel": "67565070",
+	"fax": "67565154",
+	"licensee": "OOI BABY & CHILD CLINIC PTE LTD",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401223",
+	"address": "BLK 417 YISHUN AVE 11, #01-327 Singapore 760417",
+	"doctorInCharge": [
+		{
+			"name": "FOO AI LENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"M Med (Paed) (National University of Singapore, Singapore) 1985",
+				"FAMS (Paed) (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm, 07:00 pm to 09:00 pm"
+	},
+	"id": "9401223",
+	"coordinates": [
+		103.8463291,
+		1.4243851
+	],
+	"svy21": [
+		29447.88,
+		45126.78
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

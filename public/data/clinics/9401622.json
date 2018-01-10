@@ -1,0 +1,54 @@
+{
+	"name": "TANGLIN HALT CLINIC",
+	"tel": "96336636",
+	"fax": "64726926",
+	"licensee": "LILY TIRTASANA NEO",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401622",
+	"address": "BLK 39 TANGLIN HALT RD, #01-119Q Singapore 143039",
+	"doctorInCharge": [
+		{
+			"name": "LILY TIRTASANA NEO",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1980"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401622",
+	"coordinates": [
+		103.7989197,
+		1.2975571
+	],
+	"svy21": [
+		24171.71,
+		31102.82
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

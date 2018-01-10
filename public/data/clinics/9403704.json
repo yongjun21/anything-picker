@@ -1,0 +1,52 @@
+{
+	"name": "EAR, NOSE & THROAT & ALLERGY CLINIC",
+	"tel": "62355077",
+	"fax": "67370702",
+	"licensee": "YEOH KIAN HIAN",
+	"licensePeriod": "20/11/2016 to 19/11/2018",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "9403704",
+	"address": "8 BIOMEDICAL GROVE, NEUROS, #01-08/09/10 Singapore 138665",
+	"doctorInCharge": [
+		{
+			"name": "YEOH KIAN HIAN",
+			"qualifications": [
+				"MBBS (University of Hong Kong, China, Hong Kong) 1959",
+				"FRCS (ENT) (Royal College of Surgeons of Edinburgh, United Kingdom) 1967",
+				"FAMS (ENT) (Academy of Medicine, Singapore) 1970"
+			],
+			"specialties": [
+				"Otorhinolaryngology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Otorhinolaryngology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "Closed"
+	},
+	"id": "9403704",
+	"coordinates": [
+		103.7935452,
+		1.3021739
+	],
+	"svy21": [
+		23573.59,
+		31613.32
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

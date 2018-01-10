@@ -1,0 +1,52 @@
+{
+	"name": "FULLERTON HEALTHCARE @ DRS TRYTHALL HOY DAVIES",
+	"tel": "67958658",
+	"fax": "67931393",
+	"licensee": "DRS TRYTHALL HOY DAVIES (PTE) LTD",
+	"licensePeriod": "17/11/2017 to 16/11/2019",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "9404838",
+	"address": "1 JURONG WEST CENTRAL 2, JURONG POINT SHOPPING CENTRE, #B1A-19B Singapore 648886",
+	"doctorInCharge": [
+		{
+			"name": "Elton Ong Kong Yiow",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 06:00 pm",
+		"Tuesday": "08:30 am to 06:00 pm",
+		"Wednesday": "08:30 am to 06:00 pm",
+		"Thursday": "08:30 am to 06:00 pm",
+		"Friday": "08:30 am to 06:00 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9404838",
+	"coordinates": [
+		103.706685,
+		1.3394527
+	],
+	"svy21": [
+		13907.03,
+		35735.76
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

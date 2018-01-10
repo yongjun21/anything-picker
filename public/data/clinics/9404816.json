@@ -1,0 +1,49 @@
+{
+	"name": "GLOBAL MEDICAL CENTRE",
+	"tel": "67371223",
+	"fax": "67378916",
+	"licensee": "GLOBAL MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "18/04/2016 to 17/04/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404816",
+	"address": "163 TANGLIN ROAD, TANGLIN MALL, #03-07 Singapore 247933",
+	"doctorInCharge": [
+		{
+			"name": "Ng Chi Kui",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1979"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "10:00 am to 01:00 pm"
+	},
+	"id": "9404816",
+	"coordinates": [
+		103.8238528,
+		1.3048434
+	],
+	"svy21": [
+		26946.55,
+		31908.48
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "THE GP ENDOSCOPY & PILES CENTRE (DLEEDON)",
+	"licensee": "THE GP ENDOSCOPY & PILES CENTRE (DLEEDON)",
+	"licensePeriod": "31/03/2017 to 30/03/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0086",
+	"address": "19 LEEDON HEIGHTS, D'LEEDON, #01-62 Singapore 266227",
+	"doctorInCharge": [
+		{
+			"name": "HEAH SIEU MIN",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1990",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1994",
+				"FAMS (Academy of Medicine, Singapore) 2000"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"id": "17M0086",
+	"coordinates": [
+		103.8040446,
+		1.3155536
+	],
+	"svy21": [
+		24742.09,
+		33092.77
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

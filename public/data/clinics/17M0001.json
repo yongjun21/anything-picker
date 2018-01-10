@@ -1,0 +1,42 @@
+{
+	"name": "STAT MEDICAL CLINIC",
+	"tel": "31572030",
+	"fax": "00000000",
+	"licensee": "STAT MEDICAL PTE. LTD.",
+	"licensePeriod": "03/01/2017 to 02/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0001",
+	"address": "2 SELETAR NORTH LINK, PPT LODGE 1B, #01-41 Singapore 797601",
+	"doctorInCharge": [
+		{
+			"name": "Ng Joon Hwee",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2010",
+				"Dip Pract Derm (Cardiff University, United Kingdom) 2013"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "17M0001",
+	"coordinates": [
+		103.8960188,
+		1.4169078
+	],
+	"svy21": [
+		34977.63,
+		44300.08
+	],
+	"planningArea": "SL",
+	"neighbours": [
+		"PG",
+		"SE",
+		"YS"
+	]
+}

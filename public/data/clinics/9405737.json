@@ -1,0 +1,50 @@
+{
+	"name": "MEDICAL ORAL & MAXILLOFACIAL SURGERY DENTAL SPECIALIST CENTRE",
+	"tel": "64722982",
+	"fax": "64722782",
+	"licensee": "MEDICAL OROFACIAL SURGERY PTE. LTD.",
+	"licensePeriod": "24/08/2016 to 23/08/2018",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "9405737",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #07-03 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Victor Fan Tai Weng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1985",
+				"FDSRCS (England) (Royal College of Surgeons of England, United Kingdom) 1994",
+				"FAMS (Oral & Maxillofacial Surgery) (Academy of Medicine, Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Oral & Maxillo-Facial Surgery"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery"
+		]
+	},
+	"id": "9405737",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

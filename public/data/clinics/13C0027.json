@@ -1,0 +1,60 @@
+{
+	"name": "RCMC RIVERVALE CRESCENT MEDICAL CENTRE",
+	"tel": "68860772",
+	"fax": "68860773",
+	"licensee": "LENS MEDICAL GROUP PTE. LTD.",
+	"licensePeriod": "06/02/2017 to 05/02/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0027",
+	"address": "BLK 182A RIVERVALE CRESCENT, #01-04 Singapore 541182",
+	"doctorInCharge": [
+		{
+			"name": "WAN WEI HWANG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000",
+				"MRCSEd (Royal College of Surgeons of Edinburgh, United Kingdom) 2006",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 09:30 pm",
+		"Tuesday": "09:00 am to 09:30 pm",
+		"Wednesday": "09:00 am to 09:30 pm",
+		"Thursday": "09:00 am to 09:30 pm",
+		"Friday": "09:00 am to 02:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "05:30 pm to 07:30 pm"
+	},
+	"id": "13C0027",
+	"coordinates": [
+		103.9088923,
+		1.3904527
+	],
+	"svy21": [
+		36410.37,
+		41374.85
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

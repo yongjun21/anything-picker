@@ -1,0 +1,48 @@
+{
+	"name": "COLORECTAL CLINIC ASSOCIATES",
+	"tel": "66439922",
+	"fax": "66439929",
+	"licensee": "COLORECTAL CLINIC ASSOCIATES PTE. LTD.",
+	"licensePeriod": "03/11/2017 to 02/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0379",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #14-12 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "Koh Chi Siong Dean",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"FRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 1999",
+				"FRCS (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 2000",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 2004",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 2004"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"id": "15M0379",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

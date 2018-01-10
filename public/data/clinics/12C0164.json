@@ -1,0 +1,48 @@
+{
+	"name": "LUMINOUS DENTAL CLINIC @ CHAI CHEE",
+	"tel": "64464364",
+	"fax": "64464364",
+	"licensee": "LUMINOUS DENTAL CLINIC PTE. LTD.",
+	"licensePeriod": "08/08/2016 to 07/08/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "12C0164",
+	"address": "BLK 26A CHAI CHEE ROAD, #01-389 Singapore 461026",
+	"doctorInCharge": [
+		{
+			"name": "Lee Tze Hong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "12C0164",
+	"coordinates": [
+		103.9234972,
+		1.3237005
+	],
+	"svy21": [
+		38035.98,
+		33993.77
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

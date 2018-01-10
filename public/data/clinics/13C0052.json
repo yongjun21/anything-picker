@@ -1,0 +1,58 @@
+{
+	"name": "FRONTIER FAMILY MEDICINE CLINIC",
+	"tel": "67788362",
+	"fax": "67788366",
+	"licensee": "FRONTIER FMC PTE. LTD.",
+	"licensePeriod": "12/03/2017 to 11/03/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0052",
+	"address": "3151 COMMONWEALTH AVENUE WEST, CITYVIBE, #04-01 Singapore 129581",
+	"doctorInCharge": [
+		{
+			"name": "Sim Kok Ping",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2001",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2002",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0052",
+	"coordinates": [
+		103.7651475,
+		1.3142704
+	],
+	"svy21": [
+		20413.21,
+		32950.97
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

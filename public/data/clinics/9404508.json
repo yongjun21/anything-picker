@@ -1,0 +1,54 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "64793818",
+	"fax": "64796563",
+	"licensee": "Raffles Medical Group Ltd",
+	"licensePeriod": "10/08/2017 to 09/08/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404508",
+	"address": "370 ALEXANDRA ROAD, ANCHORPOINT, #B1-41 Singapore 159953",
+	"doctorInCharge": [
+		{
+			"name": "Lim Kheng Teong",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 2002",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2015"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 02:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 02:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 02:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 02:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 02:00 pm, 02:00 pm to 05:30 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9404508",
+	"coordinates": [
+		103.80501,
+		1.2886147
+	],
+	"svy21": [
+		24849.49,
+		30114
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

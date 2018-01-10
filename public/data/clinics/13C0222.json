@@ -1,0 +1,55 @@
+{
+	"name": "AFFINITY SURGERY CENTRE",
+	"tel": "62525257",
+	"fax": "62569211",
+	"licensee": "AFFINITY SURGERY CENTRE PTE. LTD.",
+	"licensePeriod": "02/09/2017 to 01/09/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0222",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #09-45/46 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Chen Chung Ming",
+			"qualifications": [
+				"B Med (University of Newcastle, Australia) 1994",
+				"FRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 1999"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 am, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 12:30 am, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 12:30 am, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:30 am, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:30 am, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0222",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"name": "PARKWAY CANCER CENTRE",
+	"tel": "67338118",
+	"fax": "67338389",
+	"licensee": "PARKWAY CANCER CENTRE",
+	"licensePeriod": "30/10/2014 to 29/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404255",
+	"address": "3 Mount Elizabeth, Mount Elizabeth Medical Centre, #13-16/17 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Lim Hong Liang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404255",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

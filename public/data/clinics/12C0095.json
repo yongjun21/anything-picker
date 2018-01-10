@@ -1,0 +1,54 @@
+{
+	"name": "CLINIC FOR DIGESTIVE SURGERY PTE LTD",
+	"tel": "65702702",
+	"fax": "65702703",
+	"licensee": "CLINIC FOR DIGESTIVE SURGERY PTE. LTD.",
+	"licensePeriod": "19/06/2016 to 18/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0095",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #11-58 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Foo Chek Siang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997",
+				"M Med (Surg) (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "12C0095",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

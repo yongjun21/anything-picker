@@ -1,0 +1,55 @@
+{
+	"name": "ANG MO KIO MEDICAL CENTRE",
+	"tel": "64570273",
+	"fax": "67528637",
+	"licensee": "TAN SEUNG PO",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400046",
+	"address": "BLK 157 ANG MO KIO AVE 4, #01-558 Singapore 560157",
+	"doctorInCharge": [
+		{
+			"name": "TAN SEUNG PO",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1975"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:30 pm to 05:30 pm",
+		"Friday": "09:00 am to 12:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400046",
+	"coordinates": [
+		103.8393951,
+		1.3753056
+	],
+	"svy21": [
+		28676.24,
+		39699.82
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

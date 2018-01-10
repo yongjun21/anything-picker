@@ -1,0 +1,46 @@
+{
+	"name": "PRASAD'S & RAJAA'S MEDICAL CLINIC",
+	"tel": "63980696",
+	"fax": "63964869",
+	"licensee": "ATPUTHARAJAH S/O S.VYTIALINGAM",
+	"licensePeriod": "21/02/2016 to 20/02/2018",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "12C0025",
+	"address": "25 NORRIS ROAD, Singapore 208267",
+	"doctorInCharge": [
+		{
+			"name": "ATPUTHARAJAH S/O S.VYTIALINGAM",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1965",
+				"M Med (O&G) (National University of Singapore, Singapore) 1976",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1979"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"id": "12C0025",
+	"coordinates": [
+		103.8538394,
+		1.3081644
+	],
+	"svy21": [
+		30283.77,
+		32275.7
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

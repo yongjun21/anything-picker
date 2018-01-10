@@ -1,0 +1,53 @@
+{
+	"name": "RAFFLES EXECUTIVE MEDICAL CENTRE",
+	"tel": "63112288",
+	"fax": "63112136",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "30/04/2017 to 29/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0125",
+	"address": "585 NORTH BRIDGE ROAD, LEVEL 12, RAFFLES HOSPITAL, Singapore 188770",
+	"doctorInCharge": [
+		{
+			"name": "CHNG SHIH KIAT",
+			"qualifications": [
+				"MBBS (Flinders University, Australia) 1993",
+				"Dip OM (National University of Singapore, Singapore) 2003",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2006",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2009",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2009",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2011",
+				"FAMS (Family Medicine) (Academy of Medicine, Singapore) 2014"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "15M0125",
+	"coordinates": [
+		103.8574655,
+		1.3011815
+	],
+	"svy21": [
+		30687.33,
+		31503.57
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

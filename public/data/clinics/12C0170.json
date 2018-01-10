@@ -1,0 +1,57 @@
+{
+	"name": "CITY HALL DENTAL CENTRE",
+	"tel": "68371525",
+	"fax": "68371418",
+	"licensee": "Tan Lam Seng",
+	"licensePeriod": "14/08/2016 to 13/08/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0170",
+	"address": "1 COLEMAN STREET, THE ADELPHI, #03-03 Singapore 179803",
+	"doctorInCharge": [
+		{
+			"name": "Tan Lam Seng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1988",
+				"DOrth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 1994",
+				"MDS (Orthodontics) (Singapore) (National University of Singapore, Singapore) 1995",
+				"FAMS (Orthodontics) (Academy of Medicine, Singapore, Singapore) 1998"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "10:00 am to 01:00 pm, 02:00 pm to 07:00 pm",
+		"Tuesday": "Closed",
+		"Wednesday": "10:00 am to 01:00 pm, 02:00 pm to 07:00 pm",
+		"Thursday": "10:00 am to 01:00 pm, 02:00 pm to 07:00 pm",
+		"Friday": "10:00 am to 01:00 pm, 02:00 pm to 07:00 pm",
+		"Saturday": "10:00 am to 01:00 pm, 02:00 pm to 07:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "12C0170",
+	"coordinates": [
+		103.8511842,
+		1.291185
+	],
+	"svy21": [
+		29988.3,
+		30398.2
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

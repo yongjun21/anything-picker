@@ -1,0 +1,56 @@
+{
+	"name": "JANE & LEE SEMBAWANG FAMILY CLINIC",
+	"tel": "68537677",
+	"fax": "68537477",
+	"licensee": "Yong May Yuen Jane",
+	"licensePeriod": "30/06/2014 to 29/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403620",
+	"address": "BLK 483 Admiralty Link, #01-23 Singapore 750483",
+	"doctorInCharge": [
+		{
+			"name": "Yong May Yuen Jane",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "07:00 pm to 09:00 pm"
+	},
+	"id": "9403620",
+	"coordinates": [
+		103.8155809,
+		1.456037
+	],
+	"svy21": [
+		26026.08,
+		48626.7
+	],
+	"planningArea": "SB",
+	"neighbours": [
+		"MD",
+		"WD",
+		"SM",
+		"YS"
+	]
+}

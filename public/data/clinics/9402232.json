@@ -1,0 +1,55 @@
+{
+	"name": "MELVIN TAN CARDIOLOGY PRACTICE",
+	"tel": "67333588",
+	"fax": "67335668",
+	"licensee": "Tan Eng Hock Melvin",
+	"licensePeriod": "24/06/2017 to 23/06/2019",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "9402232",
+	"address": "3 Mount Elizabeth, Mount Elizabeth Medical Centre, #17-18 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Tan Eng Hock Melvin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983",
+				"MRCP (Int Med) (Royal College of Physicians, Ireland) 1990",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 1998"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402232",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

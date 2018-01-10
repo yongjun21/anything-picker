@@ -1,0 +1,39 @@
+{
+	"name": "IMC MEDICAL",
+	"tel": "65133276",
+	"fax": "65133277",
+	"licensee": "IMC CITY LINK MEDICAL CENTER PTE. LTD.",
+	"licensePeriod": "21/11/2017 to 20/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0369",
+	"address": "1 RAFFLES LINK, ONE RAFFLES LINK, #B1-03/05 Singapore 039393",
+	"doctorInCharge": [
+		{
+			"name": "Seow Yong Tong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0369",
+	"coordinates": [
+		103.8541735,
+		1.2927777
+	],
+	"svy21": [
+		30320.97,
+		30574.32
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

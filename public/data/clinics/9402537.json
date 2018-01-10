@@ -1,0 +1,48 @@
+{
+	"name": "RESPIRATORY & MEDICAL SPECIALISTS PTE LTD",
+	"tel": "64711930",
+	"fax": "64711051",
+	"licensee": "RESPIRATORY & MEDICAL SPECIALISTS PTE LTD",
+	"licensePeriod": "27/06/2015 to 26/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402537",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #06-02 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "TAN YOKE KHIM",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1991",
+				"FAMS (Academy of Medicine, Singapore) 1997"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Gastroenterology",
+			"Respiratory Medicine"
+		]
+	},
+	"id": "9402537",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

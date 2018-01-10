@@ -1,0 +1,47 @@
+{
+	"name": "AMOY STREET DENTAL",
+	"tel": "62220553",
+	"fax": "62227964",
+	"licensee": "PARSING PTE. LTD.",
+	"licensePeriod": "24/09/2016 to 23/09/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0202",
+	"address": "40 AMOY STREET, Singapore 069866",
+	"doctorInCharge": [
+		{
+			"name": "Jamie Matthew Lee Chin-Hun",
+			"qualifications": [
+				"BDSc (University of Western Australia, Australia) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:45 am to 06:30 pm",
+		"Wednesday": "08:45 am to 06:30 pm",
+		"Tuesday": "08:45 am to 08:30 pm",
+		"Thursday": "08:45 am to 08:30 pm",
+		"Friday": "08:45 am to 06:30 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "12C0202",
+	"coordinates": [
+		103.8470504,
+		1.2806029
+	],
+	"svy21": [
+		29528.24,
+		29228.08
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

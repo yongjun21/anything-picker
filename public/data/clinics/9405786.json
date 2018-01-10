@@ -1,0 +1,48 @@
+{
+	"name": "KH NG SURGERY",
+	"tel": "64755512",
+	"fax": "67258065",
+	"licensee": "K H NG GLENEAGLES MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "09/11/2015 to 08/11/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405786",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #03-13 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "NG KHENG HONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999",
+				"MRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 2002",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 2003",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 2006",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 2008"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"id": "9405786",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

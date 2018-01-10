@@ -1,0 +1,55 @@
+{
+	"name": "K P LIM GASTROENTEROLOGY & MEDICAL CLINIC",
+	"tel": "67339333",
+	"fax": "67343563",
+	"licensee": "LIM KIAN PENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400810",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #16-16 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "LIM KIAN PENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1974",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1977",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1981",
+				"FAMS (Gastroenterology) (Academy of Medicine, Singapore) 1981"
+			],
+			"specialties": [
+				"Gastroenterology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Gastroenterology",
+			"Internal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9400810",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

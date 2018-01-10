@@ -1,0 +1,57 @@
+{
+	"name": "MY FAMILY CLINIC (TANGLIN HALT)",
+	"tel": "64738920",
+	"fax": "64795504",
+	"licensee": "My Family Clinic (TH) Pte Ltd",
+	"licensePeriod": "13/05/2016 to 12/05/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401471",
+	"address": "BLK 46-2 COMMONWEALTH DRIVE, #01-372 Singapore 140462",
+	"doctorInCharge": [
+		{
+			"name": "Goh Tiong Jin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"Dip Geriatric Med (National University of Singapore, Singapore) 2001",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 02:00 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:00 am to 02:00 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:00 am to 02:00 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:00 am to 02:00 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:00 am to 02:00 pm, 06:30 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm",
+		"Public Holiday": "09:00 am to 12:00 pm"
+	},
+	"id": "9401471",
+	"coordinates": [
+		103.7982276,
+		1.299962
+	],
+	"svy21": [
+		24094.69,
+		31368.74
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

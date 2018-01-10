@@ -1,0 +1,51 @@
+{
+	"name": "K C TAN'S CLINIC & BRIGHT DENTAL SURGERY",
+	"tel": "62800701",
+	"fax": "64872161",
+	"licensee": "TAN KWONG LEEN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400791",
+	"address": "BLK 1016 UPPER SERANGOON RD, Singapore 534754",
+	"doctorInCharge": [
+		{
+			"name": "TAN KWONG LEEN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 08:00 pm",
+		"Tuesday": "09:00 am to 08:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 08:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400791",
+	"coordinates": [
+		103.8882579,
+		1.3627145
+	],
+	"svy21": [
+		34114.1,
+		38307.63
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

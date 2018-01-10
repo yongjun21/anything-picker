@@ -1,0 +1,48 @@
+{
+	"name": "WHITE CLINIC",
+	"tel": "66357477",
+	"fax": "66357477",
+	"licensee": "WHITE CLINIC PTE. LTD",
+	"licensePeriod": "28/04/2017 to 27/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0118",
+	"address": "10 SINARAN DRIVE, SQUARE 2, #09-24 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Yap Chin Vie",
+			"qualifications": [
+				"BMBS (Flinders University, Australia) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "10:30 am to 01:00 pm, 02:00 pm to 07:30 pm",
+		"Tuesday": "10:30 am to 01:00 pm, 02:00 pm to 07:30 pm",
+		"Wednesday": "10:30 am to 01:00 pm, 02:00 pm to 07:30 pm",
+		"Thursday": "10:30 am to 01:00 pm, 02:00 pm to 07:30 pm",
+		"Friday": "10:30 am to 01:00 pm, 02:00 pm to 07:30 pm",
+		"Saturday": "10:30 am to 02:30 pm"
+	},
+	"id": "15M0118",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

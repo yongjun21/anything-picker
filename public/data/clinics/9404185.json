@@ -1,0 +1,59 @@
+{
+	"name": "SPECIALIST WOMEN'S MEDICAL CENTRE",
+	"tel": "67572323",
+	"fax": "67571228",
+	"licensee": "SWMC PTE. LTD.",
+	"licensePeriod": "14/12/2015 to 13/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9404185",
+	"address": "BLK 103 YISHUN RING ROAD, #01-81 Singapore 760103",
+	"doctorInCharge": [
+		{
+			"name": "CHEN LIN HAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989",
+				"MRACOG (Royal Australian College of Obstetricians and Gynaecologists, Australia) 1995",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1995",
+				"M Med (O&G) (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404185",
+	"coordinates": [
+		103.8288928,
+		1.4313693
+	],
+	"svy21": [
+		27507.48,
+		45899.07
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

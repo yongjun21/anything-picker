@@ -1,0 +1,37 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64353756",
+	"fax": "64382248",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "13/05/2016 to 12/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0141",
+	"address": "70 PUNGGOL DRIVE, WATERWAY PRIMARY SCHOOL, Singapore 828802",
+	"doctorInCharge": [
+		{
+			"name": "Tan Noeline",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "16D0141",
+	"coordinates": [
+		103.9186216,
+		1.398828
+	],
+	"svy21": [
+		37493.08,
+		42300.98
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

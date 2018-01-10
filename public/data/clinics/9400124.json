@@ -1,0 +1,52 @@
+{
+	"name": "LIFELINE BISHAN MEDICAL CLINIC",
+	"tel": "63582510",
+	"fax": "62598969",
+	"licensee": "LIFELINE BISHAN MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "10/03/2014 to 09/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400124",
+	"address": "BLK 501 BISHAN ST 11, #01-376 Singapore 570501",
+	"doctorInCharge": [
+		{
+			"name": "GOH MING KIONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400124",
+	"coordinates": [
+		103.8490773,
+		1.3484169
+	],
+	"svy21": [
+		29753.77,
+		36726.61
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

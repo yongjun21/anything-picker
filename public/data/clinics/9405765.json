@@ -1,0 +1,45 @@
+{
+	"name": "THE BRAIN AND SPINE CLINIC",
+	"tel": "64722022",
+	"fax": "64722003",
+	"licensee": "LEE KAM YIU @TIMOTHY LEE",
+	"licensePeriod": "01/12/2014 to 30/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405765",
+	"address": "6A NAPIER ROAD, GLENEAGLES HOSPITAL ANNEXE BLOCK, #03-38 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "LEE KAM YIU @TIMOTHY LEE",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1981",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1987",
+				"FRCS (Neurosurgery) (Royal College of Surgeons of Edinburgh, United Kingdom) 1990"
+			],
+			"specialties": [
+				"Neurosurgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Neurosurgery"
+		]
+	},
+	"id": "9405765",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

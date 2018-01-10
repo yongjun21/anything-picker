@@ -1,0 +1,46 @@
+{
+	"name": "VISTA DENTAL SURGERY",
+	"tel": "68910900",
+	"fax": "68910900",
+	"licensee": "VISTA DENTAL SURGERY (WD) PTE. LTD.",
+	"licensePeriod": "20/04/2014 to 19/04/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403588",
+	"address": "BLK 548 WOODLANDS DR 44, VISTA POINT, #02-23 Singapore 730548",
+	"doctorInCharge": [
+		{
+			"name": "ONG HUANG LEONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 am to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 02:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "9403588",
+	"coordinates": [
+		103.7939311,
+		1.4308999
+	],
+	"svy21": [
+		23616.76,
+		45847.2
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

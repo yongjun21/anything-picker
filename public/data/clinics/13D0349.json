@@ -1,0 +1,50 @@
+{
+	"name": "LUMINOUS DENTAL CLINIC @ BEDOK SOUTH",
+	"tel": "62452838",
+	"fax": "62452838",
+	"licensee": "LUMINOUS DENTAL CLINIC @ BEDOK SOUTH PTE. LTD.",
+	"licensePeriod": "11/12/2015 to 10/12/2017",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13D0349",
+	"address": "BLK 18 BEDOK SOUTH ROAD, #01-71 Singapore 460018",
+	"doctorInCharge": [
+		{
+			"name": "LEE TZE HONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:30 am to 01:00 pm"
+	},
+	"id": "13D0349",
+	"coordinates": [
+		103.9347342,
+		1.320625
+	],
+	"svy21": [
+		39286.57,
+		33653.76
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

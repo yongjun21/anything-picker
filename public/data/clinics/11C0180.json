@@ -1,0 +1,53 @@
+{
+	"name": "CENTRAL MEDICAL GROUP PTE LTD",
+	"tel": "62722212",
+	"fax": "62753235",
+	"licensee": "CENTRAL MEDICAL GROUP PTE. LTD.",
+	"licensePeriod": "24/10/2017 to 23/10/2018",
+	"licenseClass": "[ 1 Year ( 1B ) ]",
+	"hciCode": "11C0180",
+	"address": "BLK 11 JALAN BUKIT MERAH, #01-4442 Singapore 150011",
+	"doctorInCharge": [
+		{
+			"name": "LIM GEOK LEONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 08:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 07:00 pm to 08:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "11C0180",
+	"coordinates": [
+		103.8089633,
+		1.2866219
+	],
+	"svy21": [
+		25289.47,
+		29893.65
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

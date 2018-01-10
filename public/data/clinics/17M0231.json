@@ -1,0 +1,45 @@
+{
+	"name": "ACCESS MEDICAL (REDHILL CLOSE)",
+	"tel": "67478180",
+	"fax": "67478186",
+	"licensee": "ACCESS MEDICAL REDHILL CLOSE PTE. LTD.",
+	"licensePeriod": "07/08/2017 to 06/08/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0231",
+	"address": "BLK 86 REDHILL CLOSE, #01-600 Singapore 150086",
+	"doctorInCharge": [
+		{
+			"name": "Lim Yong Chin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007",
+				"MRCS (Royal College of Surgeons, Ireland) 2010",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "17M0231",
+	"coordinates": [
+		103.8186736,
+		1.2869201
+	],
+	"svy21": [
+		26370.14,
+		29926.61
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

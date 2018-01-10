@@ -1,0 +1,51 @@
+{
+	"name": "HORIZON MEDICAL CENTRE",
+	"tel": "62502692",
+	"fax": "62502692",
+	"licensee": "Chee Hsing Gary Andrew",
+	"licensePeriod": "22/04/2016 to 21/04/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9402640",
+	"address": "200 Upper Thomson Road, Thomson Imperial Court, #01-11 Singapore 574424",
+	"doctorInCharge": [
+		{
+			"name": "Chee Hsing Gary Andrew",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 10:00 pm",
+		"Tuesday": "08:30 am to 10:00 pm",
+		"Wednesday": "08:30 am to 10:00 pm",
+		"Thursday": "08:30 am to 10:00 pm",
+		"Friday": "08:30 am to 10:00 pm",
+		"Saturday": "09:00 am to 03:00 pm",
+		"Sunday": "09:00 am to 03:00 pm"
+	},
+	"id": "9402640",
+	"coordinates": [
+		103.8360536,
+		1.351845
+	],
+	"svy21": [
+		28304.38,
+		37105.67
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

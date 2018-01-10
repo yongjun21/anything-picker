@@ -1,0 +1,44 @@
+{
+	"name": "TAY CLINIC",
+	"tel": "67439926",
+	"fax": "67438005",
+	"licensee": "TAY CLINIC PTE. LTD.",
+	"licensePeriod": "01/03/2016 to 28/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16C0052",
+	"address": "BLK 117 BEDOK RESERVOIR ROAD, #01-62 Singapore 470117",
+	"doctorInCharge": [
+		{
+			"name": "Tay Chin Tong",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 1976"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "16C0052",
+	"coordinates": [
+		103.9086889,
+		1.3314132
+	],
+	"svy21": [
+		36387.94,
+		34846.56
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

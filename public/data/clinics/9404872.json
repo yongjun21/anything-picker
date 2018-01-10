@@ -1,0 +1,48 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67795152",
+	"fax": "67795152",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "06/06/2014 to 05/06/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404872",
+	"address": "BLK 15 CLEMENTI AVENUE 5, Singapore 129857",
+	"doctorInCharge": [
+		{
+			"name": "DR LIM WANYI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9404872",
+	"coordinates": [
+		103.7675774,
+		1.316184
+	],
+	"svy21": [
+		20683.65,
+		33162.55
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

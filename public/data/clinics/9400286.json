@@ -1,0 +1,47 @@
+{
+	"name": "CITIZEN DENTAL SURGERY",
+	"tel": "67646772",
+	"fax": "62194524",
+	"licensee": "YEO KIAN HAO",
+	"licensePeriod": "14/05/2015 to 13/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400286",
+	"address": "BLK 258 BUKIT PANJANG RING RD, #01-40 Singapore 670258",
+	"doctorInCharge": [
+		{
+			"name": "YEO KIAN HAO",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "06:30 pm to 08:30 pm",
+		"Tuesday": "06:30 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 01:00 pm to 03:00 pm",
+		"Thursday": "06:30 pm to 08:30 pm",
+		"Friday": "09:00 am to 12:00 pm, 01:00 pm to 03:00 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
+	"id": "9400286",
+	"coordinates": [
+		103.7731538,
+		1.3778965
+	],
+	"svy21": [
+		21304.41,
+		39986.4
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

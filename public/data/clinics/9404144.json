@@ -1,0 +1,54 @@
+{
+	"name": "FONES CLINIC",
+	"tel": "64728924",
+	"fax": "64736487",
+	"licensee": "PSYMED CONSULTANTS PTE. LTD.",
+	"licensePeriod": "31/05/2014 to 30/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404144",
+	"address": "6 Napier Road, Gleneagles Medical Centre, #04-11 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Calvin Fones Soon Leng",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"M Med (Psych) (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Psychiatry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Psychiatry"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404144",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

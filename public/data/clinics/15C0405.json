@@ -1,0 +1,53 @@
+{
+	"name": "KING GEORGE'S MEDICAL CLINIC PTE LTD",
+	"tel": "62939883",
+	"fax": "62954782",
+	"licensee": "KING GEORGE'S MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "26/11/2017 to 25/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15C0405",
+	"address": "BLK 803 KING GEORGE'S AVE, #01-144 Singapore 200803",
+	"doctorInCharge": [
+		{
+			"name": "LOONG TZE WEY",
+			"qualifications": [
+				"MB ChB (University of Glasgow, United Kingdom) 1988",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 am",
+		"Tuesday": "02:30 pm to 04:30 pm",
+		"Wednesday": "02:30 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 am",
+		"Friday": "08:30 am to 12:30 am",
+		"Saturday": "08:30 am to 12:30 am"
+	},
+	"id": "15C0405",
+	"coordinates": [
+		103.8609128,
+		1.3083653
+	],
+	"svy21": [
+		31070.98,
+		32297.92
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

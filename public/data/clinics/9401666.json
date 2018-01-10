@@ -1,0 +1,49 @@
+{
+	"name": "THE BONHAM CLINIC",
+	"tel": "65331177",
+	"fax": "64381389",
+	"licensee": "THE BONHAM CLINIC PTE. LTD.",
+	"licensePeriod": "03/08/2016 to 02/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9401666",
+	"address": "100 PECK SEAH STREET, #11-16/17 Singapore 079333",
+	"doctorInCharge": [
+		{
+			"name": "EU YEE-TAT DAVID",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1976"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9401666",
+	"coordinates": [
+		103.8442648,
+		1.2758813
+	],
+	"svy21": [
+		29218.23,
+		28706
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

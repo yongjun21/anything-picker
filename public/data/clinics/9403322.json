@@ -1,0 +1,45 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "68725305",
+	"fax": "68725305",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "13/03/2015 to 12/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403322",
+	"address": "BLK 8 CLEMENTI AVE 3, Singapore 129903",
+	"doctorInCharge": [
+		{
+			"name": "THAM SAI SOO",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403322",
+	"coordinates": [
+		103.7629667,
+		1.3150573
+	],
+	"svy21": [
+		20170.51,
+		33037.98
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "P C TEOH MEDICAL & CHEST CLINIC",
+	"tel": "62359866",
+	"fax": "62355352",
+	"licensee": "TEOH PEK CHUAN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401260",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #13-06 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "TEOH PEK CHUAN",
+			"qualifications": [
+				"MBBS (University of Hong Kong, China, Hong Kong) 1965",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1971",
+				"FAMS (Int Med) (Academy of Medicine, Singapore) 1972",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1972",
+				"MRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1976",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1978",
+				"FRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1981",
+				"FRCP (Int Med) (Royal College of Physicians of London, United Kingdom) 1984"
+			],
+			"specialties": [
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Respiratory Medicine"
+		]
+	},
+	"id": "9401260",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

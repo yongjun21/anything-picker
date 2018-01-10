@@ -1,0 +1,48 @@
+{
+	"name": "O MEDICAL CLINIC",
+	"tel": "63634434",
+	"fax": "62354414",
+	"licensee": "ONLY MEDICAL GROUP PTE. LTD",
+	"licensePeriod": "12/06/2017 to 11/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0185",
+	"address": "112 EAST COAST ROAD, 112 KATONG, #03-45 Singapore 428802",
+	"doctorInCharge": [
+		{
+			"name": "Chin Xu Yang",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "10:30 am to 08:30 pm",
+		"Tuesday": "10:30 am to 08:30 pm",
+		"Wednesday": "10:30 am to 08:30 pm",
+		"Thursday": "10:30 am to 08:30 pm",
+		"Friday": "10:30 am to 08:30 pm",
+		"Saturday": "10:30 am to 06:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15M0185",
+	"coordinates": [
+		103.9050448,
+		1.3052065
+	],
+	"svy21": [
+		35982.47,
+		31948.74
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"name": "TAN-TEOH CLINIC & SURGERY (ANG MO KIO BRANCH)",
+	"tel": "64520818",
+	"fax": "64525270",
+	"licensee": "TAN CHAI LEE",
+	"licensePeriod": "06/03/2014 to 05/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401617",
+	"address": "BLK 302 ANG MO KIO AVE 3, #01-1846 Singapore 560302",
+	"doctorInCharge": [
+		{
+			"name": "TAY PENG LENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "08:30 am to 12:00 pm"
+	},
+	"id": "9401617",
+	"coordinates": [
+		103.8456602,
+		1.3670898
+	],
+	"svy21": [
+		29373.47,
+		38791.37
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

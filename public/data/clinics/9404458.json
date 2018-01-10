@@ -1,0 +1,43 @@
+{
+	"name": "HEALTHSERVE COMMUNITY CLINIC",
+	"tel": "67439774",
+	"fax": "67436174",
+	"licensee": "HEALTHSERVE LTD.",
+	"licensePeriod": "26/05/2015 to 25/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404458",
+	"address": "1 LORONG 23 GEYLANG, BUILDING 4, #01-07 Singapore 388352",
+	"doctorInCharge": [
+		{
+			"name": "Chan Lai Gwen",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2001",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2005",
+				"MRC Psych (Royal College of Psychiatrists, United Kingdom) 2009"
+			],
+			"specialties": [
+				"Psychiatry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9404458",
+	"coordinates": [
+		103.8807076,
+		1.3139376
+	],
+	"svy21": [
+		33273.94,
+		32914.11
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

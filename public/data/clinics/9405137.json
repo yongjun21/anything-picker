@@ -1,0 +1,59 @@
+{
+	"name": "FRONTIER MEDICAL ASSOCIATES",
+	"tel": "63152913",
+	"fax": "63152914",
+	"licensee": "FRONTIER MEDICAL ASSOCIATES (BC) PTE. LTD.",
+	"licensePeriod": "08/04/2015 to 07/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405137",
+	"address": "BLK 982 BUANGKOK CRESCENT, #01-03 Singapore 530982",
+	"doctorInCharge": [
+		{
+			"name": "CHONG CHIN KWANG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2002",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 08:30 pm",
+		"Tuesday": "08:30 am to 08:30 pm",
+		"Wednesday": "08:30 am to 08:30 pm",
+		"Thursday": "08:30 am to 08:30 pm",
+		"Friday": "08:30 am to 02:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405137",
+	"coordinates": [
+		103.8793091,
+		1.3808504
+	],
+	"svy21": [
+		33118.16,
+		40312.98
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

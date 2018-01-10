@@ -1,0 +1,45 @@
+{
+	"name": "ONECARE CLINIC BUKIT GOMBAK MRT",
+	"tel": "63522639",
+	"fax": "63582691",
+	"licensee": "ONECARE CLINIC BUKIT GOMBAK MRT PTE. LTD.",
+	"licensePeriod": "20/07/2017 to 19/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0216",
+	"address": "802 BUKIT BATOK WEST AVENUE 5, BUKIT GOMBAK MRT STATION, #01-16 Singapore 659083",
+	"doctorInCharge": [
+		{
+			"name": "Koh Eu Min Kenneth",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"id": "17M0216",
+	"coordinates": [
+		103.7517909,
+		1.3586116
+	],
+	"svy21": [
+		18926.91,
+		37854.04
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

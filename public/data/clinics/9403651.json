@@ -1,0 +1,46 @@
+{
+	"name": "LEE & ONG DENTAL SURGEONS",
+	"tel": "67360267",
+	"fax": "67337241",
+	"licensee": "LEE KEE KAI VICTOR",
+	"licensePeriod": "14/07/2014 to 13/07/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403651",
+	"address": "545 ORCHARD ROAD, FAR EAST SHOPPING CENTRE, #B1-15/16 Singapore 238882",
+	"doctorInCharge": [
+		{
+			"name": "LEE KEE KAI VICTOR",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 08:00 pm",
+		"Tuesday": "09:00 am to 08:00 pm",
+		"Wednesday": "09:00 am to 08:00 pm",
+		"Thursday": "09:00 am to 08:00 pm",
+		"Friday": "09:00 am to 08:00 pm"
+	},
+	"id": "9403651",
+	"coordinates": [
+		103.8299848,
+		1.3055061
+	],
+	"svy21": [
+		27628.98,
+		31981.75
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

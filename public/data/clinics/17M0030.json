@@ -1,0 +1,51 @@
+{
+	"name": "SBCC BABY & CHILD CLINIC",
+	"tel": "63234415",
+	"fax": "62350809",
+	"licensee": "SBCC CLINIC PTE LTD",
+	"licensePeriod": "15/02/2017 to 14/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0030",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #05-46/47 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Tan Nancy",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"MRCPCH (Paed) (Royal College of Paediatrics and Child Health, United Kingdom) 2001",
+				"M Med (Paed) (National University of Singapore, Singapore) 2001",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": [
+				"Paediatric Gastroenterology",
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Neonatology",
+			"Neurology",
+			"Paediatric Gastroenterology",
+			"Paediatric Medicine"
+		]
+	},
+	"id": "17M0030",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"name": "LC CLINIC MEDICAL SURGERY AESTHETICS",
+	"tel": "64640932",
+	"fax": "64640241",
+	"licensee": "BENESSERE CLINIC PTE. LTD.",
+	"licensePeriod": "15/06/2017 to 14/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0014",
+	"address": "BLK 446 CLEMENTI AVENUE 3, #01-191 Singapore 120446",
+	"doctorInCharge": [
+		{
+			"name": "Lim Choo",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "08:30 am to 10:00 pm",
+		"Monday": "08:30 am to 10:00 pm",
+		"Tuesday": "08:30 am to 10:00 pm",
+		"Wednesday": "08:30 am to 10:00 pm",
+		"Thursday": "08:30 am to 10:00 pm",
+		"Friday": "08:30 am to 10:00 pm",
+		"Saturday": "08:30 am to 10:00 pm",
+		"Sunday": "11:00 am to 08:00 pm"
+	},
+	"id": "14M0014",
+	"coordinates": [
+		103.7649278,
+		1.3125131
+	],
+	"svy21": [
+		20388.75,
+		32756.65
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

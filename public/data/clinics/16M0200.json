@@ -1,0 +1,41 @@
+{
+	"name": "125 MEDICAL CLINIC",
+	"tel": "66843111",
+	"fax": "62623143",
+	"licensee": "FULLSHARE MEDICAL SINGAPORE PTE. LTD.",
+	"licensePeriod": "11/07/2016 to 10/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0200",
+	"address": "31 SCOTTS ROAD, Singapore 228225",
+	"doctorInCharge": [
+		{
+			"name": "LOW BEE LENG",
+			"qualifications": [
+				"MB ChB (National University of Ireland, Ireland) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0200",
+	"coordinates": [
+		103.834988,
+		1.3107515
+	],
+	"svy21": [
+		28185.79,
+		32561.76
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

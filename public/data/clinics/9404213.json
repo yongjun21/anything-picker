@@ -1,0 +1,54 @@
+{
+	"name": "EC FAMILY CLINIC",
+	"tel": "67426103",
+	"fax": "67426103",
+	"licensee": "EC FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "10/08/2014 to 09/08/2019",
+	"licenseClass": "[ 5 Years ( 2D ) ]",
+	"hciCode": "9404213",
+	"address": "30 EUNOS CRESCENT, EUNOS MRT STATION, #01-17/18 Singapore 409423",
+	"doctorInCharge": [
+		{
+			"name": "HENG KUAN YONG",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 2000"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 11:00 pm",
+		"Tuesday": "09:00 am to 11:00 pm",
+		"Wednesday": "09:00 am to 11:00 pm",
+		"Thursday": "09:00 am to 11:00 pm",
+		"Friday": "09:00 am to 11:00 pm",
+		"Saturday": "09:00 am to 11:00 pm",
+		"Sunday": "10:00 am to 12:00 pm, 02:00 pm to 04:30 pm"
+	},
+	"id": "9404213",
+	"coordinates": [
+		103.9032258,
+		1.3197835
+	],
+	"svy21": [
+		35779.99,
+		33560.59
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

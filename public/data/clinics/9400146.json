@@ -1,0 +1,51 @@
+{
+	"name": "BUONA VISTA DENTAL SURGERY",
+	"tel": "64668095",
+	"fax": "64690981",
+	"licensee": "QUEK SING TONG",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "9400146",
+	"address": "211 HOLLAND AVE, HOLLAND ROAD SHOPPING CENTRE, #03-45 Singapore 278967",
+	"doctorInCharge": [
+		{
+			"name": "QUEK SING TONG",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1970"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400146",
+	"coordinates": [
+		103.7953715,
+		1.3102784
+	],
+	"svy21": [
+		23776.85,
+		32509.48
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

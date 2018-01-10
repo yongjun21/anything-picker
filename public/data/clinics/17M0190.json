@@ -1,0 +1,60 @@
+{
+	"name": "PINNACLE FAMILY CLINIC (COMPASSVALE)",
+	"tel": "63861089",
+	"fax": "63861308",
+	"licensee": "PINNACLE FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "30/06/2017 to 29/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0190",
+	"address": "BLK 289C COMPASSVALE CRESCENT, #01-04 Singapore 543289",
+	"doctorInCharge": [
+		{
+			"name": "Mok Boon Rui",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "17M0190",
+	"coordinates": [
+		103.8968092,
+		1.3975474
+	],
+	"svy21": [
+		35065.66,
+		42159.3
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

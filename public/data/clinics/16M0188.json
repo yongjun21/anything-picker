@@ -1,0 +1,53 @@
+{
+	"name": "ONECARE CLINIC TIONG BAHRU",
+	"tel": "63582568",
+	"fax": "62611584",
+	"licensee": "Onecare Clinic Tiong Bahru Pte Ltd",
+	"licensePeriod": "21/06/2016 to 20/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0188",
+	"address": "BLK 11A BOON TIONG ROAD, #01-08 Singapore 161011",
+	"doctorInCharge": [
+		{
+			"name": "Koh Eu Min Kenneth",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 03:00 pm, 05:00 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 03:00 pm, 05:00 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 03:00 pm, 05:00 pm to 10:00 pm",
+		"Thursday": "08:00 am to 03:00 pm, 05:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 03:00 pm, 05:00 pm to 10:00 pm",
+		"Saturday": "08:00 am to 01:00 pm, 06:00 pm to 10:00 pm",
+		"Sunday": "08:00 am to 01:00 pm, 06:00 pm to 10:00 pm"
+	},
+	"id": "16M0188",
+	"coordinates": [
+		103.8287899,
+		1.2863658
+	],
+	"svy21": [
+		27495.99,
+		29865.31
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

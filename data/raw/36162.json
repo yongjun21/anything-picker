@@ -25,18 +25,7 @@
 		"Endoscopy"
 	],
 	"detailedServices": {
-		"Abortion": [
-			"Anaesthesiology",
-			"Gastroenterology",
-			"General Surgery",
-			"Hand Surgery",
-			"Obstetrics & Gynaecology",
-			"Ophthalmology",
-			"Orthopaedic Surgery",
-			"Paediatric Surgery",
-			"Plastic Surgery",
-			"Urology"
-		],
+		"Abortion": true,
 		"General Dental": true,
 		"General Medical": true,
 		"Specialist Medical": [

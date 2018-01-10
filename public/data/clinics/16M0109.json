@@ -1,0 +1,52 @@
+{
+	"name": "ADELPHI PSYCH MEDICINE CLINIC",
+	"tel": "62509833",
+	"fax": "64932266",
+	"licensee": "ADELPHI PSYCHIATRY AND WELLNESS CLINIC PTE. LTD.",
+	"licensePeriod": "14/04/2016 to 13/04/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0109",
+	"address": "1 COLEMAN STREET, THE ADELPHI, #04-32 Singapore 179803",
+	"doctorInCharge": [
+		{
+			"name": "John Bosco Lee",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"M Med (Psych) (National University of Singapore, Singapore) 2003",
+				"FAMS (Psych) (Academy of Medicine, Singapore) 2012"
+			],
+			"specialties": [
+				"Psychiatry"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Psychiatry"
+		]
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 07:00 pm",
+		"Tuesday": "10:00 am to 07:00 pm",
+		"Wednesday": "10:00 am to 07:00 pm",
+		"Thursday": "10:00 am to 07:00 pm",
+		"Friday": "10:00 am to 07:00 pm"
+	},
+	"id": "16M0109",
+	"coordinates": [
+		103.8511842,
+		1.291185
+	],
+	"svy21": [
+		29988.3,
+		30398.2
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

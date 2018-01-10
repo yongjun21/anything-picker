@@ -1,0 +1,47 @@
+{
+	"name": "C C TANG DENTAL SURGERY PTE LTD",
+	"tel": "68939278",
+	"fax": "68939278",
+	"licensee": "C C TANG DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "22/07/2017 to 21/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0186",
+	"address": "BLK 548 WOODLANDS DRIVE 44, VISTA POINT, #02-27 Singapore 730548",
+	"doctorInCharge": [
+		{
+			"name": "Tang Cheong Chun",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 09:00 pm",
+		"Tuesday": "08:30 am to 09:00 pm",
+		"Wednesday": "08:30 am to 09:00 pm",
+		"Thursday": "08:30 am to 09:00 pm",
+		"Friday": "08:30 am to 09:00 pm",
+		"Saturday": "08:30 am to 09:00 pm",
+		"Sunday": "08:30 am to 12:30 pm",
+		"Public Holiday": "08:30 am to 12:30 pm"
+	},
+	"id": "13C0186",
+	"coordinates": [
+		103.7939311,
+		1.4308999
+	],
+	"svy21": [
+		23616.76,
+		45847.2
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

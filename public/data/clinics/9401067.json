@@ -1,0 +1,57 @@
+{
+	"name": "MEDICA CLINIC",
+	"tel": "63862187",
+	"fax": "63879543",
+	"licensee": "SIOW BOON LENG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401067",
+	"address": "BLK 681 HOUGANG AVE 8, #01-837 Singapore 530681",
+	"doctorInCharge": [
+		{
+			"name": "SIOW BOON LENG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977",
+				"MRCP (Int Med) (Royal College of Physicians of London, United Kingdom) 1981",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1981",
+				"FAMS (Academy of Medicine, Singapore) 1986"
+			],
+			"specialties": [
+				"Geriatric Medicine",
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 09:00 pm"
+	},
+	"id": "9401067",
+	"coordinates": [
+		103.8856792,
+		1.3729784
+	],
+	"svy21": [
+		33827.09,
+		39442.56
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

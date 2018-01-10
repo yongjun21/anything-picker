@@ -1,0 +1,53 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "62231188",
+	"fax": "62233166",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "27/01/2016 to 26/01/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0010",
+	"address": "80 ROBINSON ROAD, #01-00 Singapore 068898",
+	"doctorInCharge": [
+		{
+			"name": "Lin Su Ni Lily",
+			"qualifications": [
+				"MB ChB (University of Aberdeen, United Kingdom) 1987"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm"
+	},
+	"id": "12C0010",
+	"coordinates": [
+		103.8493164,
+		1.2801374
+	],
+	"svy21": [
+		29780.43,
+		29176.62
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

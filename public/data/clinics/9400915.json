@@ -1,0 +1,50 @@
+{
+	"name": "LEE CLINIC",
+	"tel": "64473777",
+	"fax": "63446108",
+	"licensee": "ONG SIONG HOON DICKY",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400915",
+	"address": "BLK 467C JOO CHIAT ROAD, Singapore 427678",
+	"doctorInCharge": [
+		{
+			"name": "ONG SIONG HOON DICKY",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1971"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:30 pm to 04:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9400915",
+	"coordinates": [
+		103.9047579,
+		1.3066551
+	],
+	"svy21": [
+		35950.54,
+		32108.91
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

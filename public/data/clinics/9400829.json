@@ -1,0 +1,46 @@
+{
+	"name": "KEE SURGERY",
+	"tel": "64734047",
+	"fax": "64734312",
+	"licensee": "KEE SUE GEE",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400829",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #10-11 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "KEE SUE GEE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1982",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 1982",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 1993"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"id": "9400829",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

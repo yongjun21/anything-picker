@@ -1,0 +1,58 @@
+{
+	"name": "FEM SURGERY @ NOVENA",
+	"tel": "63391101",
+	"fax": "63392976",
+	"licensee": "FeM Surgery Pte Ltd",
+	"licensePeriod": "30/09/2017 to 29/09/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13M0258",
+	"address": "38 IRRAWADDY ROAD, MOUNT ELIZABETH NOVENA SPECIALIST CENTRE, #11-53 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Felicia Tan Li Sher",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002",
+				"M Med (Surg) (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery",
+			"Intensive Care Medicine",
+			"Neurosurgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13M0258",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

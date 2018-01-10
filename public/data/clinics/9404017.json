@@ -1,0 +1,52 @@
+{
+	"name": "TP DENTAL SURGEONS PTE LTD",
+	"tel": "67379011",
+	"fax": "67321979",
+	"licensee": "TP Dental Surgeons Pte. Ltd.",
+	"licensePeriod": "18/09/2015 to 17/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404017",
+	"address": "391B Orchard Road, The Penthouse, Ngee Ann City Tower B, #26-01 Singapore 238874",
+	"doctorInCharge": [
+		{
+			"name": "Hwang Yee Cheau",
+			"qualifications": [
+				"BDS (University of London, United Kingdom) 1983",
+				"MSc (University of London, United Kingdom) 1988",
+				"D ORTH RCS (ENGLAND) (Royal College of Surgeons of England, United Kingdom) 1988",
+				"FDSRCPS (Glasgow) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1989",
+				"M Orth RCS (England) (Royal College of Surgeons of England, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Orthodontics",
+			"Paediatric Dentistry",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"id": "9404017",
+	"coordinates": [
+		103.8346761,
+		1.3024242
+	],
+	"svy21": [
+		28151.08,
+		31640.97
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

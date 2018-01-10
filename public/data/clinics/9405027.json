@@ -1,0 +1,46 @@
+{
+	"name": "DR HC LEONG DENTAL SURGEON",
+	"tel": "62227075",
+	"fax": "62227075",
+	"licensee": "DR H C LEONG DENTAL SURGEON LLP",
+	"licensePeriod": "24/11/2014 to 23/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405027",
+	"address": "8 EU TONG SEN STREET, #20-86 Singapore 059818",
+	"doctorInCharge": [
+		{
+			"name": "Leong Hon Chiew",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 07:00 pm",
+		"Tuesday": "09:00 am to 07:00 pm",
+		"Wednesday": "09:00 am to 07:00 pm",
+		"Thursday": "09:00 am to 07:00 pm",
+		"Friday": "09:00 am to 07:00 pm"
+	},
+	"id": "9405027",
+	"coordinates": [
+		103.846558,
+		1.2888386
+	],
+	"svy21": [
+		29473.44,
+		30138.74
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

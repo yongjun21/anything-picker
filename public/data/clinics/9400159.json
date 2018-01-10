@@ -1,0 +1,54 @@
+{
+	"name": "C T YEO RESPIRATORY AND MEDICAL CLINIC",
+	"tel": "64730918",
+	"fax": "64730918",
+	"licensee": "YEO CHOR TZIEN",
+	"licensePeriod": "01/04/2014 to 31/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400159",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #09-18 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "YEO CHOR TZIEN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1986",
+				"FAMS (Respiratory Med) (Academy of Medicine, Singapore) 1993"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Respiratory Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 am, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 12:30 am, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 12:30 am, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:30 am, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:30 am, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 am, 02:00 pm to 05:00 pm"
+	},
+	"id": "9400159",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

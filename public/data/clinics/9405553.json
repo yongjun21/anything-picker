@@ -1,0 +1,55 @@
+{
+	"name": "OG CLINIC FOR WOMEN",
+	"tel": "67370855",
+	"fax": "67375206",
+	"licensee": "OG CLINIC FOR WOMEN",
+	"licensePeriod": "16/04/2016 to 15/04/2021",
+	"licenseClass": "[ 5 Years ( 2C ) ]",
+	"hciCode": "9405553",
+	"address": "3 Mount Elizabeth, Mt Elizabeth Medical Centre, #09-08 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Chan Yew Foon",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1963",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1970",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1973",
+				"FRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1983"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 09:00 am to 01:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 09:00 am to 01:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 09:00 am to 01:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 09:00 am to 01:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 09:00 am to 01:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 09:00 am to 01:00 pm"
+	},
+	"id": "9405553",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

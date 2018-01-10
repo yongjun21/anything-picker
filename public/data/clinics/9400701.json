@@ -1,0 +1,58 @@
+{
+	"name": "HOSANNA MEDICAL CENTRE",
+	"tel": "67461772",
+	"fax": "67461772",
+	"licensee": "YUEN CHUEN FONG RAYMOND",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400701",
+	"address": "BLK 51 CIRCUIT ROAD, #01-797 Singapore 370051",
+	"doctorInCharge": [
+		{
+			"name": "YUEN CHUEN FONG RAYMOND",
+			"qualifications": [
+				"MBBS (University of Hong Kong, China, Hong Kong) 1987",
+				"M Med (OM) (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Occupational Medicine",
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Occupational Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400701",
+	"coordinates": [
+		103.8855146,
+		1.3245205
+	],
+	"svy21": [
+		33808.89,
+		34084.32
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

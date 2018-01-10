@@ -1,0 +1,54 @@
+{
+	"name": "DOROTHY'S BABY & CHILD CLINIC",
+	"tel": "64689803",
+	"fax": "64678202",
+	"licensee": "ONG MAY LING DOROTHY",
+	"licensePeriod": "01/07/2015 to 30/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403385",
+	"address": "1 JALAN ANAK BUKIT, BUKIT TIMAH PLAZA, #02-20 Singapore 588996",
+	"doctorInCharge": [
+		{
+			"name": "ONG MAY LING DOROTHY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"M Med (Paed) (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 12:30 pm, 02:45 pm to 04:45 pm",
+		"Tuesday": "10:00 am to 12:30 pm, 02:45 pm to 04:45 pm",
+		"Wednesday": "10:00 am to 12:30 pm, 02:45 pm to 04:45 pm",
+		"Thursday": "10:00 am to 12:30 pm",
+		"Saturday": "10:00 am to 12:30 pm",
+		"Friday": "10:00 am to 12:30 pm, 02:45 pm to 04:45 pm"
+	},
+	"id": "9403385",
+	"coordinates": [
+		103.7786001,
+		1.3387593
+	],
+	"svy21": [
+		21910.41,
+		35658.79
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

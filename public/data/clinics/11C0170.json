@@ -1,0 +1,52 @@
+{
+	"name": "CECILIA FAMILY CLINIC & SURGERY",
+	"tel": "67883812",
+	"fax": "67848678",
+	"licensee": "VERITAS PTE LTD",
+	"licensePeriod": "14/10/2015 to 13/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0170",
+	"address": "BLK 484 TAMPINES ST 43, #01-224 Singapore 520484",
+	"doctorInCharge": [
+		{
+			"name": "LO YOKE HWA PENNY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:00 pm"
+	},
+	"id": "11C0170",
+	"coordinates": [
+		103.9526394,
+		1.3618979
+	],
+	"svy21": [
+		41279.02,
+		38217.59
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

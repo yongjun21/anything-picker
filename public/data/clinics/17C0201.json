@@ -1,0 +1,41 @@
+{
+	"name": "NIKS MAPLE WEST CLINIC",
+	"tel": "67767863",
+	"fax": "67767311",
+	"licensee": "NIKS MAPLE WEST PTE. LTD.",
+	"licensePeriod": "03/07/2017 to 02/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17C0201",
+	"address": "2 VENTURE DRIVE, VISION EXCHANGE, #01-27 Singapore 608526",
+	"doctorInCharge": [
+		{
+			"name": "Ong Fung Chin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"Dip Derm (University of London, United Kingdom) 1992"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17C0201",
+	"coordinates": [
+		103.7445746,
+		1.3301517
+	],
+	"svy21": [
+		18123.71,
+		34707.11
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

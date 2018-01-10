@@ -1,0 +1,51 @@
+{
+	"name": "UNITY DENTICARE",
+	"tel": "65904397",
+	"fax": "65904385",
+	"licensee": "NTUC Health Co-operative Ltd",
+	"licensePeriod": "14/08/2016 to 13/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14C0234",
+	"address": "500 LORONG 6 TOA PAYOH, HDB HUB, #B1-31 Singapore 310500",
+	"doctorInCharge": [
+		{
+			"name": "TIJU KRISHNAN",
+			"qualifications": [
+				"BDS (University of Glasgow, United Kingdom) 1996"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 08:00 pm",
+		"Wednesday": "09:00 am to 08:00 pm",
+		"Thursday": "09:00 am to 08:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "14C0234",
+	"coordinates": [
+		103.8470923,
+		1.3328554
+	],
+	"svy21": [
+		29532.87,
+		35005.9
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

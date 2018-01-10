@@ -1,0 +1,57 @@
+{
+	"name": "FRONTIER MEDICAL ASSOCIATES",
+	"tel": "66843770",
+	"fax": "66843771",
+	"licensee": "FMA (HAVELOCK) PTE. LTD.",
+	"licensePeriod": "30/12/2015 to 29/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0245",
+	"address": "BLK 51 HAVELOCK ROAD, MULTI STOREY CAR PARK, #01-02 Singapore 161051",
+	"doctorInCharge": [
+		{
+			"name": "Goh Shu Huey",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 1998",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2004",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 01:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "11C0245",
+	"coordinates": [
+		103.8276797,
+		1.2899462
+	],
+	"svy21": [
+		27372.44,
+		30261.22
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

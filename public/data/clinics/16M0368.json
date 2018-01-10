@@ -1,0 +1,42 @@
+{
+	"name": "DRX MEDICAL AESTHETIC CLINIC",
+	"tel": "65673315",
+	"fax": "65673329",
+	"licensee": "THE DRX CLINIC PTE. LTD.",
+	"licensePeriod": "06/12/2016 to 05/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0368",
+	"address": "435 ORCHARD ROAD, WISMA ATRIA, #03-01B Singapore 238877",
+	"doctorInCharge": [
+		{
+			"name": "Tan Hui Yun",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2006",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0368",
+	"coordinates": [
+		103.8332058,
+		1.3037048
+	],
+	"svy21": [
+		27987.44,
+		31782.57
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

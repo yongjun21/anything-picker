@@ -1,0 +1,54 @@
+{
+	"name": "FRIENDSHIP CLINIC & SURGERY",
+	"tel": "62726628",
+	"fax": "62726628",
+	"licensee": "CHOW SHOOK LIN",
+	"licensePeriod": "28/04/2017 to 27/04/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400550",
+	"address": "BLK 1 JALAN BUKIT MERAH, #01-4524 Singapore 150001",
+	"doctorInCharge": [
+		{
+			"name": "CHOW SHOOK LIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 05:00 pm to 07:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 05:00 pm to 07:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 05:00 pm to 07:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 05:00 pm to 07:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400550",
+	"coordinates": [
+		103.8082424,
+		1.2864535
+	],
+	"svy21": [
+		25209.23,
+		29875.03
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

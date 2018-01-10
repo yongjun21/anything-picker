@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "62434809",
+	"fax": "62434809",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "07/07/2015 to 06/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403990",
+	"address": "350 Bedok North Avenue 3,, Red Swastika School, Singapore 469719",
+	"doctorInCharge": [
+		{
+			"name": "Noeline Tan",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403990",
+	"coordinates": [
+		103.9343323,
+		1.333243
+	],
+	"svy21": [
+		39241.78,
+		35048.98
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

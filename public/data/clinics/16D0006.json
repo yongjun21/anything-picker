@@ -1,0 +1,50 @@
+{
+	"name": "ORCHARD SCOTTS DENTAL",
+	"tel": "67329939",
+	"fax": "67326883",
+	"licensee": "ORCHARD SCOTTS DENTAL PTE LTD",
+	"licensePeriod": "06/01/2016 to 05/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0006",
+	"address": "541 ORCHARD ROAD, LIAT TOWERS, #07-01 Singapore 238881",
+	"doctorInCharge": [
+		{
+			"name": "Lim Eng Yong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "16D0006",
+	"coordinates": [
+		103.8307226,
+		1.3050872
+	],
+	"svy21": [
+		27711.09,
+		31935.43
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

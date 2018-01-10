@@ -1,0 +1,59 @@
+{
+	"name": "N B THAM CLINIC PTE LTD",
+	"tel": "62880739",
+	"fax": "62821187",
+	"licensee": "N B THAM CLINIC PRIVATE LIMITED",
+	"licensePeriod": "17/12/2016 to 16/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0378",
+	"address": "8 WHAMPOA DRIVE, Singapore 327718",
+	"doctorInCharge": [
+		{
+			"name": "THAM NGIAP BOO",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1959",
+				"MRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1964",
+				"FAMS (Int Med) (Academy of Medicine, Singapore) 1966",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1974"
+			],
+			"specialties": [
+				"Internal Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Internal Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "14M0378",
+	"coordinates": [
+		103.8533673,
+		1.3224907
+	],
+	"svy21": [
+		30231.22,
+		33859.83
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

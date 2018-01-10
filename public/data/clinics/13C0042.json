@@ -1,0 +1,57 @@
+{
+	"name": "THE OLIVE TREE FAMILY CLINIC & SURGERY PTE. LTD.",
+	"tel": "63888697",
+	"fax": "68813202",
+	"licensee": "THE OLIVE TREE FAMILY CLINIC & SURGERY PTE. LTD.",
+	"licensePeriod": "27/02/2017 to 26/02/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0042",
+	"address": "BLK 303 ANCHORVALE LINK, #01-02 Singapore 540303",
+	"doctorInCharge": [
+		{
+			"name": "WOON SIN YONG",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 1998"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:30 am to 02:00 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0042",
+	"coordinates": [
+		103.8906061,
+		1.3873819
+	],
+	"svy21": [
+		34375.36,
+		41035.24
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

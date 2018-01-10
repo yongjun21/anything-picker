@@ -1,0 +1,47 @@
+{
+	"name": "PLANET DENTAL CENTRE",
+	"tel": "67820233",
+	"fax": "67820233",
+	"licensee": "CHEE CHEN SIN",
+	"licensePeriod": "23/01/2017 to 22/01/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404353",
+	"address": "30 SIMEI STREET 3, SIMEI MRT STATION, #02-01 Singapore 529888",
+	"doctorInCharge": [
+		{
+			"name": "CHEE CHEN SIN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1998"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 09:00 pm",
+		"Sunday": "09:00 am to 09:00 pm"
+	},
+	"id": "9404353",
+	"coordinates": [
+		103.9533717,
+		1.3432029
+	],
+	"svy21": [
+		41360.61,
+		36150.4
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

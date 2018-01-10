@@ -1,0 +1,55 @@
+{
+	"name": "AFFINITY SURGERY CENTRE",
+	"tel": "62525257",
+	"fax": "62525227",
+	"licensee": "AFFINITY SURGERY CENTRE PTE. LTD.",
+	"licensePeriod": "09/07/2016 to 08/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13C0228",
+	"address": "820 THOMSON ROAD, MOUNT ALVERNIA HOSPITAL MEDICAL CENTRE D, #08-52 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "Chen Chung Ming",
+			"qualifications": [
+				"B Med (University of Newcastle, Australia) 1994",
+				"FRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 1999"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "13C0228",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

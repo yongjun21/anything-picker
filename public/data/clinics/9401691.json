@@ -1,0 +1,50 @@
+{
+	"name": "THE FAMILY DOCTOR, CLINIC & SURGERY",
+	"tel": "64534855",
+	"fax": "64551305",
+	"licensee": "CHIA SWEE HEONG DANIEL",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401691",
+	"address": "215D UPPER THOMSON ROAD, Singapore 574349",
+	"doctorInCharge": [
+		{
+			"name": "CHIA SWEE HEONG DANIEL",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 10:45 am, 01:15 pm to 02:45 pm",
+		"Tuesday": "08:30 am to 10:45 am, 01:15 pm to 02:45 pm, 06:30 pm to 07:45 pm",
+		"Wednesday": "08:30 am to 10:45 am, 01:15 pm to 02:45 pm, 06:30 pm to 07:45 pm",
+		"Thursday": "08:30 am to 10:45 am, 01:15 pm to 02:45 pm, 06:30 pm to 07:45 pm",
+		"Friday": "08:30 am to 10:45 am, 01:15 pm to 02:45 pm, 06:30 pm to 07:45 pm",
+		"Saturday": "08:30 am to 10:45 am",
+		"Sunday": "Closed"
+	},
+	"id": "9401691",
+	"coordinates": [
+		103.8349954,
+		1.352224
+	],
+	"svy21": [
+		28186.61,
+		37147.58
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

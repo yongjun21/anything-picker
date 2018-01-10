@@ -1,0 +1,42 @@
+{
+	"name": "MAURICE CHEW CLINIC & SURGERY",
+	"tel": "64690455",
+	"fax": "64681090",
+	"licensee": "CHEW HOCK LEONG MAURICE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400376",
+	"address": "144 UPPER BUKIT TIMAH RD, BEAUTY WORLD CENTRE, #03-05 Singapore 588177",
+	"doctorInCharge": [
+		{
+			"name": "CHEW HOCK LEONG MAURICE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"id": "9400376",
+	"coordinates": [
+		103.7765394,
+		1.3424126
+	],
+	"svy21": [
+		21681.09,
+		36062.76
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

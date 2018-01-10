@@ -1,0 +1,53 @@
+{
+	"name": "THE CHUNGKIAW FAMILY PRACTICE PTE LTD",
+	"tel": "64551009",
+	"fax": "64550992",
+	"licensee": "THE CHUNGKIAW FAMILY PRACTICE PTE LTD",
+	"licensePeriod": "30/12/2015 to 29/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400283",
+	"address": "17 ANG MO KIO AVE 9, ANG MO KIO THYE HUA KWAN HOSPITAL, #01-06 Singapore 569766",
+	"doctorInCharge": [
+		{
+			"name": "KOH TSE-CHUNG KEVIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981",
+				"MRCGP (Family Med) (Royal College of General Practitioners, United Kingdom) 1987",
+				"M Sc (Community Medicine) (Victoria University of Manchester, United Kingdom) 1988",
+				"FAMS (Public Health) (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400283",
+	"coordinates": [
+		103.8403569,
+		1.3840325
+	],
+	"svy21": [
+		28783.28,
+		40664.8
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

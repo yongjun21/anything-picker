@@ -1,0 +1,50 @@
+{
+	"name": "ENLIGHT FAMILY CLINIC",
+	"tel": "64560022",
+	"fax": "65530984",
+	"licensee": "Lee Siu Lin",
+	"licensePeriod": "17/08/2016 to 16/08/2018",
+	"licenseClass": "[ 2 Years ( 1C ) ]",
+	"hciCode": "12C0175",
+	"address": "BLK 226C Ang Mo Kio Avenue 1, #01-649 Singapore 563226",
+	"doctorInCharge": [
+		{
+			"name": "Lee Siu Lin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "08:30 am to 12:00 pm"
+	},
+	"id": "12C0175",
+	"coordinates": [
+		103.839257,
+		1.3671464
+	],
+	"svy21": [
+		28660.87,
+		38797.62
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "ASCENT DENTAL SURGEONS",
+	"tel": "64697688",
+	"fax": "64695788",
+	"licensee": "SAU CHONG WHUI",
+	"licensePeriod": "27/02/2014 to 26/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403161",
+	"address": "BLK 15 YUK TONG AVE, CHUN TIN COURT, Singapore 596320",
+	"doctorInCharge": [
+		{
+			"name": "SAU CHONG WHUI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1998",
+				"Grad Dip Dental Implantology (Singapore) (National University of Singapore, Singapore) 2009"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"id": "9403161",
+	"coordinates": [
+		103.774574,
+		1.3420777
+	],
+	"svy21": [
+		21462.37,
+		36025.73
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

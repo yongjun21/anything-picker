@@ -3,8 +3,8 @@
 	"tel": "62582623",
 	"fax": "62587363",
 	"licensee": "Q & M DENTAL SURGERY (TOA PAYOH) PTE. LTD.",
-	"licensePeriod": "30/09/2015 to 29/09/2017",
-	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"licensePeriod": "30/09/2017 to 29/09/2022",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
 	"hciCode": "13D0257",
 	"address": "238 THOMSON ROAD, NOVENA SQUARE, #02-47 Singapore 307683",
 	"doctorInCharge": [
@@ -17,7 +17,11 @@
 		}
 	],
 	"detailedServices": {
-		"General Dental": true
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Paediatric Dentistry"
+		]
 	},
 	"operatingHours": {
 		"Monday to Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"

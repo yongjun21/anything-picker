@@ -1,0 +1,55 @@
+{
+	"name": "HEALTHCARE MEDICAL @ RAILMALL",
+	"tel": "67655733",
+	"fax": "67655377",
+	"licensee": "HEALTHCARE (RAILMALL) PTE. LTD.",
+	"licensePeriod": "04/10/2017 to 03/10/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0267",
+	"address": "446 UPPER BUKIT TIMAH ROAD,, RAIL MALL, Singapore 678067",
+	"doctorInCharge": [
+		{
+			"name": "Chan Kok Yew",
+			"qualifications": [
+				"MB ChB (University of Sheffield, United Kingdom) 1995",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "09:30 am to 12:30 pm"
+	},
+	"id": "13C0267",
+	"coordinates": [
+		103.7676042,
+		1.3596098
+	],
+	"svy21": [
+		20686.75,
+		37964.36
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

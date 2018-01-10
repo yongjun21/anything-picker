@@ -1,0 +1,44 @@
+{
+	"name": "HEALTHWAY MEDICAL CLINIC",
+	"tel": "66948581",
+	"fax": "66948582",
+	"licensee": "HEALTHWAY MEDICAL ENTERPRISES PTE LTD",
+	"licensePeriod": "10/10/2016 to 09/10/2021",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "12C0220",
+	"address": "BLK 273C PUNGGOL PLACE, #01-874 Singapore 823273",
+	"doctorInCharge": [
+		{
+			"name": "Cheng Ping-Chang John",
+			"qualifications": [
+				"MBBS (Fudan University, China) 2007",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "12C0220",
+	"coordinates": [
+		103.9012624,
+		1.402303
+	],
+	"svy21": [
+		35561.22,
+		42685.17
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

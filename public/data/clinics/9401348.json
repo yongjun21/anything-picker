@@ -1,0 +1,45 @@
+{
+	"name": "PUBLIC MEDICAL CLINIC & SURGERY",
+	"tel": "67756539",
+	"fax": "67552320",
+	"licensee": "WONG CHOO MOK",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401348",
+	"address": "BLK 664 YISHUN AVE 4, #01-275 Singapore 760664",
+	"doctorInCharge": [
+		{
+			"name": "WONG CHOO MOK",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9401348",
+	"coordinates": [
+		103.8410746,
+		1.4201999
+	],
+	"svy21": [
+		28863.14,
+		44664
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

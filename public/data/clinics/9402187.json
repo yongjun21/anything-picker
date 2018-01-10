@@ -1,0 +1,52 @@
+{
+	"name": "KEPPEL SHIPYARD MEDICAL CENTRE",
+	"tel": "65588211",
+	"fax": "62742176",
+	"licensee": "KEPPEL SHIPYARD LIMITED",
+	"licensePeriod": "11/11/2013 to 10/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402187",
+	"address": "BLK 51 PIONEER SECTOR 1, Singapore 628437",
+	"doctorInCharge": [
+		{
+			"name": "SAMUEL LEONG PENG FAI",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1997",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2006",
+				"Dip OM (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "07:30 am to 04:30 pm",
+		"Tuesday": "07:30 am to 04:30 pm",
+		"Wednesday": "07:30 am to 04:30 pm",
+		"Thursday": "07:30 am to 04:30 pm",
+		"Friday": "07:30 am to 04:30 pm",
+		"Saturday": "07:30 am to 11:30 am",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402187",
+	"coordinates": [
+		103.6557494,
+		1.3005535
+	],
+	"svy21": [
+		8238.12,
+		31434.81
+	],
+	"planningArea": "PN",
+	"neighbours": [
+		"BL",
+		"JW",
+		"TS",
+		"WC"
+	]
+}

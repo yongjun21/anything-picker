@@ -1,0 +1,53 @@
+{
+	"name": "CITILIFE FAMILY CLINIC",
+	"tel": "65662281",
+	"fax": "65662281",
+	"licensee": "LIM CHEE TECK",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400285",
+	"address": "BLK 215 JURONG EAST ST 21, #01-539 Singapore 600215",
+	"doctorInCharge": [
+		{
+			"name": "LIM CHEE TECK",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 07:30 pm to 09:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 07:30 pm to 09:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 07:30 pm to 09:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 07:30 pm to 09:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 07:30 pm to 09:30 pm"
+	},
+	"id": "9400285",
+	"coordinates": [
+		103.7385145,
+		1.3399333
+	],
+	"svy21": [
+		17449.32,
+		35788.73
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

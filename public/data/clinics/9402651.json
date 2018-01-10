@@ -1,0 +1,50 @@
+{
+	"name": "JGH DENTAL CLINIC",
+	"tel": "62357747",
+	"fax": "62351335",
+	"licensee": "JGH DENTAL PTE LTD",
+	"licensePeriod": "22/05/2016 to 21/05/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402651",
+	"address": "290 ORCHARD ROAD, PARAGON, #10-01 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "TAN HIOW MENG DENIS",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1987",
+				"MGDSRCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:45 am to 12:00 pm, 01:45 pm to 05:00 pm",
+		"Tuesday": "08:45 am to 12:00 pm, 01:45 pm to 05:00 pm",
+		"Wednesday": "08:45 am to 12:00 pm, 01:45 pm to 05:00 pm",
+		"Thursday": "08:45 am to 12:00 pm, 01:45 pm to 05:00 pm",
+		"Friday": "08:45 am to 12:00 pm, 01:45 pm to 05:00 pm",
+		"Saturday": "08:45 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9402651",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"name": "FAMILY CARE CLINIC PTE LTD",
+	"tel": "65671775",
+	"fax": "67371568",
+	"licensee": "FAMILY CARE CLINIC PTE LTD",
+	"licensePeriod": "28/10/2015 to 27/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405357",
+	"address": "BLK 415 BT BATOK WEST AVE 4, #01-272 Singapore 650415",
+	"doctorInCharge": [
+		{
+			"name": "CHEUNG TUCK WEI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405357",
+	"coordinates": [
+		103.7466107,
+		1.3632688
+	],
+	"svy21": [
+		18350.43,
+		38369.02
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

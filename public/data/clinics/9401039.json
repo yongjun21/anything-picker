@@ -1,0 +1,47 @@
+{
+	"name": "MANDARIN DENTAL CENTRE PTE LTD",
+	"tel": "62726771",
+	"fax": "62765336",
+	"licensee": "MANDARIN DENTAL CENTRE PTE LTD",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401039",
+	"address": "BLK 161 BUKIT MERAH CENTRAL, #01-3741 Singapore 150161",
+	"doctorInCharge": [
+		{
+			"name": "CHOO CHAI HUAH",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1979"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9401039",
+	"coordinates": [
+		103.8160061,
+		1.2839123
+	],
+	"svy21": [
+		26073.27,
+		29594.02
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"name": "ASIAN AMERICAN RADIATION & ONCOLOGY",
+	"tel": "64762088",
+	"fax": "64763088",
+	"licensee": "ASIAN AMERICAN RADIATION & ONCOLOGY PTE. LTD.",
+	"licensePeriod": "13/07/2017 to 12/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0247",
+	"address": "6A NAPIER ROAD, GLENEAGLES HOSPITAL ANNEXE BLOCK, #02-36A/36B/37 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "Daniel Tan Yat Harn",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Radiation Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Radiation Oncology"
+		]
+	},
+	"id": "15M0247",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

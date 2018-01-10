@@ -1,0 +1,52 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "63639415",
+	"fax": "63671483",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "13/06/2017 to 12/06/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0142",
+	"address": "30 WOODLANDS AVENUE 2, WOODLANDS MRT STATION, #01-47/48/49 Singapore 738343",
+	"doctorInCharge": [
+		{
+			"name": "Soh Chiun Leng",
+			"qualifications": [
+				"MB BCh BAO (University of Dublin, Ireland) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "06:30 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "06:30 pm to 09:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0142",
+	"coordinates": [
+		103.7864625,
+		1.4369682
+	],
+	"svy21": [
+		22785.63,
+		46518.22
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

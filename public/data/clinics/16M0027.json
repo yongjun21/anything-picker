@@ -1,0 +1,54 @@
+{
+	"name": "THE FAMILY PRACTICE@ SKYVILLE",
+	"tel": "62551382",
+	"fax": "62551387",
+	"licensee": "THE FAMILY PRACTICE PTE. LTD.",
+	"licensePeriod": "27/01/2016 to 26/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0027",
+	"address": "BLK 85 DAWSON ROAD, #01-06 Singapore 141085",
+	"doctorInCharge": [
+		{
+			"name": "lui weng sun",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "16M0027",
+	"coordinates": [
+		103.8097586,
+		1.2953197
+	],
+	"svy21": [
+		25377.98,
+		30855.4
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

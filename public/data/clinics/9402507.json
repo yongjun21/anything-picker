@@ -1,0 +1,54 @@
+{
+	"name": "STREET 11 CLINIC",
+	"tel": "65882139",
+	"fax": "65882149",
+	"licensee": "STREET 11 CLINIC PTE. LTD.",
+	"licensePeriod": "23/07/2015 to 22/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402507",
+	"address": "BLK 139 TAMPINES ST 11, #01-12 Singapore 521139",
+	"doctorInCharge": [
+		{
+			"name": "LOW JIN KHENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 10:00 pm",
+		"Thursday": "08:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 10:00 pm",
+		"Friday": "08:00 am to 01:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 10:00 pm",
+		"Saturday": "08:00 am to 01:00 pm, 07:00 pm to 10:00 pm",
+		"Sunday": "08:30 am to 01:00 pm"
+	},
+	"id": "9402507",
+	"coordinates": [
+		103.9445092,
+		1.3461607
+	],
+	"svy21": [
+		40374.3,
+		36477.41
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

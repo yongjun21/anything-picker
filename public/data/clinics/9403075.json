@@ -1,0 +1,47 @@
+{
+	"name": "S A LOH DENTAL SURGERY PTE LTD",
+	"tel": "63448861",
+	"fax": "63448548",
+	"licensee": "S A LOH DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "10/08/2015 to 09/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403075",
+	"address": "80 MARINE PARADE RD, PARKWAY PARADE, #05-23 Singapore 449269",
+	"doctorInCharge": [
+		{
+			"name": "LOH SOO ANN",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1967",
+				"FDSRCPS (Glasgow) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1972",
+				"D ORTH RCS (ENGLAND) (Royal College of Surgeons of England, United Kingdom) 1972",
+				"FAMS (Orthodontics) (Academy of Medicine, Singapore, Singapore) 1987",
+				"M Orth RCS (England) (Royal College of Surgeons of England, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"id": "9403075",
+	"coordinates": [
+		103.9052795,
+		1.3010698
+	],
+	"svy21": [
+		36008.6,
+		31491.32
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

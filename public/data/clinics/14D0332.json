@@ -1,0 +1,41 @@
+{
+	"name": "HEALTHWAY DENTAL CLINIC",
+	"tel": "67573228",
+	"fax": "67579370",
+	"licensee": "HEALTHWAY MEDICAL GROUP PTE LTD",
+	"licensePeriod": "10/11/2016 to 09/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14D0332",
+	"address": "BLK 417 YISHUN AVENUE 11, #01-321 Singapore 760417",
+	"doctorInCharge": [
+		{
+			"name": "Lee Hock Leong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "14D0332",
+	"coordinates": [
+		103.8463291,
+		1.4243851
+	],
+	"svy21": [
+		29447.88,
+		45126.78
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

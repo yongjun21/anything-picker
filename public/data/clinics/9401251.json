@@ -1,0 +1,49 @@
+{
+	"name": "ORIENTAL MEDICAL CLINIC",
+	"tel": "65625519",
+	"fax": "65625519",
+	"licensee": "WOO SOON FATT",
+	"licensePeriod": "19/01/2016 to 18/01/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401251",
+	"address": "BLK 498 JURONG WEST ST 41, #01-430 Singapore 640498",
+	"doctorInCharge": [
+		{
+			"name": "WOO SOON FATT",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "09:00 am to 12:00 pm",
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:30 pm to 09:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:30 pm to 09:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 07:30 pm to 09:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:30 pm to 09:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:00 pm, 07:30 pm to 09:30 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9401251",
+	"coordinates": [
+		103.7243073,
+		1.3483334
+	],
+	"svy21": [
+		15868.25,
+		36717.64
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

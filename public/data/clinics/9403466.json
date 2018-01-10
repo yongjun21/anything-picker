@@ -1,0 +1,49 @@
+{
+	"name": "UNIVERSE DENTAL SURGERY PTE. LTD.",
+	"tel": "65664656",
+	"fax": "67546088",
+	"licensee": "Toh Tee Yong",
+	"licensePeriod": "26/11/2013 to 12/11/2018",
+	"licenseClass": "[ < 1 Year ]",
+	"hciCode": "9403466",
+	"address": "BLK 164 Bukit Batok St 11, #01-144 Singapore 650164",
+	"doctorInCharge": [
+		{
+			"name": "Toh Tee Yong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "9403466",
+	"coordinates": [
+		103.7428317,
+		1.347717
+	],
+	"svy21": [
+		17929.81,
+		36649.4
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

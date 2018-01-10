@@ -1,0 +1,38 @@
+{
+	"name": "IHP MEDICAL CLINIC @ HP",
+	"tel": "31575969",
+	"fax": "67159429",
+	"licensee": "INTEGRATED HEALTH PLANS PTE LTD",
+	"licensePeriod": "20/10/2016 to 19/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0325",
+	"address": "1150 DEPOT ROAD, #05-00 Singapore 109673",
+	"doctorInCharge": [
+		{
+			"name": "Tan Wei Li",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0325",
+	"coordinates": [
+		103.8080164,
+		1.2824477
+	],
+	"svy21": [
+		25184.08,
+		29432.08
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

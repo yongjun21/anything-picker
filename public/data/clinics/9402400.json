@@ -1,0 +1,51 @@
+{
+	"name": "ASCENSION DENTAL CLINIC",
+	"tel": "65657377",
+	"fax": "00000000",
+	"licensee": "QUEK KIOK CHEAH EUGENE",
+	"licensePeriod": "22/01/2017 to 21/01/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402400",
+	"address": "BLK 235 JURONG EAST ST 21, #01-318 Singapore 600235",
+	"doctorInCharge": [
+		{
+			"name": "QUEK KIOK CHEAH EUGENE",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 08:30 pm",
+		"Tuesday": "09:00 am to 08:30 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 08:30 pm",
+		"Saturday": "09:00 am to 03:00 pm"
+	},
+	"id": "9402400",
+	"coordinates": [
+		103.74216,
+		1.339976
+	],
+	"svy21": [
+		17855.02,
+		35793.44
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"name": "MY BRACES CLINIC",
+	"tel": "67379797",
+	"fax": "98503323",
+	"licensee": "MYBRACESCLINIC PTE. LTD.",
+	"licensePeriod": "01/09/2016 to 31/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13D0245",
+	"address": "43 JALAN MERAH SAGA, CHIP BEE GARDENS, #01-80 Singapore 278115",
+	"doctorInCharge": [
+		{
+			"name": "POON KEE HWANG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2001",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2006",
+				"MDS (Orthodontics) (Singapore) (National University of Singapore, Singapore) 2006",
+				"FAMS (Orthodontics) (Academy of Medicine, Singapore, Singapore) 2009"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "08:30 am to 01:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13D0245",
+	"coordinates": [
+		103.7964308,
+		1.3107469
+	],
+	"svy21": [
+		23894.74,
+		32561.29
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

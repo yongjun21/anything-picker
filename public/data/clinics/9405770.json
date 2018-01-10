@@ -1,0 +1,49 @@
+{
+	"name": "AESTHETICS PLUS MEDICAL CLINIC",
+	"tel": "62211322",
+	"fax": "62211302",
+	"licensee": "ROXY AESTHETICS CLINIC PTE. LTD.",
+	"licensePeriod": "03/12/2014 to 02/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405770",
+	"address": "57 CIRCULAR ROAD, #02-01 Singapore 049412",
+	"doctorInCharge": [
+		{
+			"name": "WONG KHAI SHENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "11:00 am to 08:00 pm",
+		"Wednesday": "11:00 am to 08:00 pm",
+		"Thursday": "11:00 am to 08:00 pm",
+		"Friday": "11:00 am to 08:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "01:00 pm to 05:00 pm"
+	},
+	"id": "9405770",
+	"coordinates": [
+		103.8492647,
+		1.2860326
+	],
+	"svy21": [
+		29774.67,
+		29828.47
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

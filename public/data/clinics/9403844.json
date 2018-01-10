@@ -1,0 +1,48 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "67566429",
+	"fax": "67566429",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "18/03/2015 to 17/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403844",
+	"address": "170 Yishun Ave 6, CHONGFU SCHOOL, Singapore 768959",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403844",
+	"coordinates": [
+		103.8393092,
+		1.4383956
+	],
+	"svy21": [
+		28666.66,
+		46676
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

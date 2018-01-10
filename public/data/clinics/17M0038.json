@@ -1,0 +1,40 @@
+{
+	"name": "THE CLINIC @ TAI SENG",
+	"tel": "64385322",
+	"fax": "64381575",
+	"licensee": "the clinic @ Tai Seng Pte Ltd",
+	"licensePeriod": "17/02/2017 to 16/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0038",
+	"address": "18 TAI SENG STREET, MAPLETREE 18, #01-07/08 Singapore 539775",
+	"doctorInCharge": [
+		{
+			"name": "Yo Masuya",
+			"qualifications": [
+				"MB BCh BAO (RCSI) (National University of Ireland, Ireland) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "17M0038",
+	"coordinates": [
+		103.8888256,
+		1.3363156
+	],
+	"svy21": [
+		34177.35,
+		35388.57
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

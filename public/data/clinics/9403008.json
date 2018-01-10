@@ -1,0 +1,52 @@
+{
+	"name": "KALLANG BAHRU FAMILY CLINIC PTE. LTD.",
+	"tel": "62950010",
+	"fax": "62951189",
+	"licensee": "TING MING YIH",
+	"licensePeriod": "28/05/2017 to 27/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9403008",
+	"address": "BLK 66 KALLANG BAHRU, #01-485 Singapore 330066",
+	"doctorInCharge": [
+		{
+			"name": "TING MING YIH",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 02:30 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 02:30 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 02:30 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 02:30 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 02:30 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9403008",
+	"coordinates": [
+		103.8699146,
+		1.3206645
+	],
+	"svy21": [
+		32072.78,
+		33657.91
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

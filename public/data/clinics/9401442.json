@@ -1,0 +1,54 @@
+{
+	"name": "NKF CLEMENTI DIALYSIS CENTRE",
+	"tel": "62990200",
+	"fax": "67750891",
+	"licensee": "THE NATIONAL KIDNEY FOUNDATION",
+	"licensePeriod": "03/12/2016 to 02/12/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9401442",
+	"address": "BLK 326 Clementi Ave 5, #01-175 Singapore 120326",
+	"doctorInCharge": [
+		{
+			"name": "MOOPPIL NANDAKUMAR",
+			"qualifications": [
+				"MBBS (University of Kerala, India) 1975",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "07:00 am to 11:00 pm",
+		"Tuesday": "07:00 am to 11:00 pm",
+		"Wednesday": "07:00 am to 11:00 pm",
+		"Thursday": "07:00 am to 11:00 pm",
+		"Friday": "07:00 am to 11:00 pm",
+		"Saturday": "07:00 am to 11:00 pm"
+	},
+	"id": "9401442",
+	"coordinates": [
+		103.7663583,
+		1.3144308
+	],
+	"svy21": [
+		20547.97,
+		32968.7
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

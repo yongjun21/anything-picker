@@ -1,0 +1,42 @@
+{
+	"name": "ORANGE DENTAL CLINIC",
+	"tel": "67555106",
+	"fax": "67553542",
+	"licensee": "Orange Dental Clinic Pte. Ltd.",
+	"licensePeriod": "28/03/2014 to 27/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403191",
+	"address": "BLK 160 Yishun St 11, #01-210 Singapore 760160",
+	"doctorInCharge": [
+		{
+			"name": "Chen Chien Wei",
+			"qualifications": [
+				"BDSc (University of Queensland, Australia) 1993",
+				"MFGDP(UK) (Royal College of Surgeons of England, United Kingdom) 2004"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9403191",
+	"coordinates": [
+		103.8333445,
+		1.4324145
+	],
+	"svy21": [
+		28002.89,
+		46014.64
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

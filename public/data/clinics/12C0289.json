@@ -1,0 +1,55 @@
+{
+	"name": "THE BABY & CHILD CLINIC",
+	"tel": "65690981",
+	"fax": "65690981",
+	"licensee": "THE BABY & CHILD CLINIC PTE. LTD.",
+	"licensePeriod": "28/12/2016 to 27/12/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0289",
+	"address": "BLK 644 BT BATOK CENTRAL, #01-66 Singapore 650644",
+	"doctorInCharge": [
+		{
+			"name": "Chuang Jee Leng",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1979",
+				"M Med (Paed) (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 07:00 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 07:00 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm",
+		"Thursday": "09:30 am to 12:30 pm, 07:00 pm to 08:30 pm",
+		"Friday": "09:30 am to 12:30 pm, 07:00 pm to 08:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "12C0289",
+	"coordinates": [
+		103.7517903,
+		1.3486668
+	],
+	"svy21": [
+		18926.81,
+		36754.39
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"name": "ONCOCARE WOMEN'S CANCER CLINIC",
+	"tel": "62587965",
+	"fax": "62580954",
+	"licensee": "BROOKLINE MEDICAL PTE. LTD.",
+	"licensePeriod": "09/02/2017 to 08/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0025",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #06-22/23 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Tay Miah Hiang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1999",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": [
+				"Medical Oncology",
+				"Palliative Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Medical Oncology"
+		]
+	},
+	"id": "17M0025",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

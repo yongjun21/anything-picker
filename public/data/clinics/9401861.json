@@ -1,0 +1,41 @@
+{
+	"name": "WEST POINT CLINIC",
+	"tel": "67913330",
+	"fax": "67933379",
+	"licensee": "CHUANG WEI PING",
+	"licensePeriod": "06/05/2015 to 05/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401861",
+	"address": "BLK 853 JURONG WEST ST 81, #01-333 Singapore 640853",
+	"doctorInCharge": [
+		{
+			"name": "CHUANG WEI PING",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9401861",
+	"coordinates": [
+		103.6930875,
+		1.3471695
+	],
+	"svy21": [
+		12393.82,
+		36589.13
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

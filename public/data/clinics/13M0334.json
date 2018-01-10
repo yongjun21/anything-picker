@@ -1,0 +1,51 @@
+{
+	"name": "FRANCES MEDICAL & AESTHETIC CLINIC",
+	"tel": "67361003",
+	"fax": "68342544",
+	"licensee": "FRANCES MEDICAL & AESTHETIC CLINIC PTE. LTD.",
+	"licensePeriod": "23/05/2016 to 22/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13M0334",
+	"address": "22 SCOTTS ROAD, GOODWOOD PARK HOTEL, #01-02 Singapore 228221",
+	"doctorInCharge": [
+		{
+			"name": "TAN AIK GUAN GERALD",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "11:00 am to 07:00 pm",
+		"Tuesday": "11:00 am to 07:00 pm",
+		"Wednesday": "11:00 am to 07:00 pm",
+		"Thursday": "11:00 am to 07:00 pm",
+		"Friday": "11:00 am to 07:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13M0334",
+	"coordinates": [
+		103.8344759,
+		1.3088916
+	],
+	"svy21": [
+		28128.8,
+		32356.1
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

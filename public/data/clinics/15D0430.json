@@ -1,0 +1,47 @@
+{
+	"name": "WHITE CLOUD DENTAL",
+	"tel": "62522708",
+	"fax": "62259382",
+	"licensee": "WHITE CLOUD DENTAL PTE. LTD.",
+	"licensePeriod": "21/12/2015 to 20/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0430",
+	"address": "1 MARITIME SQUARE, HARBOURFRONT CENTRE, #02-64A Singapore 099253",
+	"doctorInCharge": [
+		{
+			"name": "NURUL AIZAT BIN ZAINUDIN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "11:00 am to 09:00 pm",
+		"Tuesday": "11:00 am to 09:00 pm",
+		"Wednesday": "11:00 am to 09:00 pm",
+		"Thursday": "11:00 am to 09:00 pm",
+		"Friday": "11:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 03:00 pm",
+		"Sunday": "11:00 am to 06:00 pm"
+	},
+	"id": "15D0430",
+	"coordinates": [
+		103.8202433,
+		1.2639699
+	],
+	"svy21": [
+		26544.82,
+		27388.9
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

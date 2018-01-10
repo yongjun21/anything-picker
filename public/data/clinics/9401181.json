@@ -1,0 +1,56 @@
+{
+	"name": "NG BABY & CHILD CLINIC",
+	"tel": "64676092",
+	"fax": "64623126",
+	"licensee": "NG CHI FAN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401181",
+	"address": "557 BT TIMAH ROAD, CROWN CENTRE, #02-10/11 Singapore 269694",
+	"doctorInCharge": [
+		{
+			"name": "NG CHI FAN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1982"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "06:30 pm to 08:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "06:30 pm to 08:30 pm, 06:30 pm to 08:30 pm",
+		"Friday": "09:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:30 am to 01:00 pm, 02:00 pm to 04:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401181",
+	"coordinates": [
+		103.8111607,
+		1.3230466
+	],
+	"svy21": [
+		25534.05,
+		33921.3
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"name": "THE CLINIC @ APERIA",
+	"tel": "63416892",
+	"fax": "63339301",
+	"licensee": "THE CLINIC @ APERIA PTE. LTD.",
+	"licensePeriod": "14/01/2017 to 13/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0012",
+	"address": "12 KALLANG AVENUE, APERIA, #03-15 Singapore 339511",
+	"doctorInCharge": [
+		{
+			"name": "Chen Weida Ian",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "15M0012",
+	"coordinates": [
+		103.8643264,
+		1.3097112
+	],
+	"svy21": [
+		31450.88,
+		32446.75
+	],
+	"planningArea": "KL",
+	"neighbours": [
+		"GL",
+		"NV",
+		"MP",
+		"TP",
+		"CA"
+	]
+}

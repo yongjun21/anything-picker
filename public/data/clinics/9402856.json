@@ -1,0 +1,47 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "65674427",
+	"fax": "65674427",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "01/04/2014 to 31/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402856",
+	"address": "158 JURONG EAST STREET 24, YUHUA PRIMARY SCHOOL, Singapore 609558",
+	"doctorInCharge": [
+		{
+			"name": "Dr Tham Sai Soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9402856",
+	"coordinates": [
+		103.7411058,
+		1.3428023
+	],
+	"svy21": [
+		17737.71,
+		36105.97
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

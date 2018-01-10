@@ -1,0 +1,50 @@
+{
+	"name": "LIEN CLINIC FOR WOMEN",
+	"tel": "98199411",
+	"fax": "67363332",
+	"licensee": "LIEN LIAN SZE",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9400947",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #05-03 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "LIEN LIAN SZE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1968",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1972",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1975",
+				"FRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1987"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Sunday": "Closed"
+	},
+	"id": "9400947",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

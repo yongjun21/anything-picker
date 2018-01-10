@@ -1,0 +1,47 @@
+{
+	"name": "INTERNATIONAL DENTAL CENTRE",
+	"tel": "63720082",
+	"fax": "63720072",
+	"licensee": "MARLAR TUN",
+	"licensePeriod": "26/04/2015 to 25/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402451",
+	"address": "6 GEMMILL LANE, Singapore 069249",
+	"doctorInCharge": [
+		{
+			"name": "MARLAR TUN",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 07:00 pm",
+		"Tuesday": "09:00 am to 07:00 pm",
+		"Wednesday": "09:00 am to 07:00 pm",
+		"Thursday": "09:00 am to 07:00 pm",
+		"Friday": "09:00 am to 07:00 pm",
+		"Saturday": "09:00 am to 07:00 pm"
+	},
+	"id": "9402451",
+	"coordinates": [
+		103.846915,
+		1.282503
+	],
+	"svy21": [
+		29513.17,
+		29438.19
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

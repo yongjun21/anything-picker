@@ -1,0 +1,47 @@
+{
+	"name": "THE WELLNESS CLINIC",
+	"tel": "68873073",
+	"fax": "68873740",
+	"licensee": "THE WELLNESS CLINIC PTE. LTD.",
+	"licensePeriod": "22/10/2017 to 21/10/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0336",
+	"address": "501 ORCHARD ROAD, WHEELOCK PLACE, #04-01 Singapore 238880",
+	"doctorInCharge": [
+		{
+			"name": "Krishnaswamy Ram Nath",
+			"qualifications": [
+				"BM (University of Southampton, United Kingdom) 1996"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 06:00 pm",
+		"Tuesday": "10:00 am to 06:00 pm",
+		"Wednesday": "10:00 am to 06:00 pm",
+		"Thursday": "10:00 am to 06:00 pm",
+		"Friday": "10:00 am to 06:00 pm",
+		"Saturday": "10:00 am to 02:00 pm"
+	},
+	"id": "14M0336",
+	"coordinates": [
+		103.830642,
+		1.3046763
+	],
+	"svy21": [
+		27702.12,
+		31889.99
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

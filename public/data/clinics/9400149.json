@@ -1,0 +1,48 @@
+{
+	"name": "C H KOH CLINIC FOR WOMEN",
+	"tel": "62544022",
+	"fax": "62544029",
+	"licensee": "KOH CHENG HUAT",
+	"licensePeriod": "01/06/2016 to 31/05/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9400149",
+	"address": "BLK 183 TOA PAYOH CENTRAL, #01-260 Singapore 310183",
+	"doctorInCharge": [
+		{
+			"name": "KOH CHENG HUAT",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1981",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1987",
+				"M Med (O&G) (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"id": "9400149",
+	"coordinates": [
+		103.8488657,
+		1.333356
+	],
+	"svy21": [
+		29730.23,
+		35061.25
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

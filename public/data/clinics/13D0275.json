@@ -1,0 +1,54 @@
+{
+	"name": "Q & M DENTAL SURGERY (BUANGKOK MRT)",
+	"tel": "63156882",
+	"fax": "63152392",
+	"licensee": "Q & M DENTAL SURGERY (HOUGANG MALL) PTE. LTD.",
+	"licensePeriod": "11/10/2017 to 10/10/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "13D0275",
+	"address": "10 SENGKANG CENTRAL, BUANGKOK MRT STATION, #01-01 Singapore 545061",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng Raymond",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "13D0275",
+	"coordinates": [
+		103.8931216,
+		1.3828779
+	],
+	"svy21": [
+		34655.31,
+		40537.21
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

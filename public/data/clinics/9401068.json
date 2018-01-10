@@ -1,0 +1,53 @@
+{
+	"name": "MEDICAL & GE CLINIC",
+	"tel": "62359288",
+	"fax": "67336220",
+	"licensee": "NG POCK LIOK",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401068",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #13-04 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "NG POCK LIOK",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1969",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1973",
+				"FAMS (Gastroenterology) (Academy of Medicine, Singapore) 1975",
+				"FRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1979"
+			],
+			"specialties": [
+				"Gastroenterology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Gastroenterology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm"
+	},
+	"id": "9401068",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64520444",
+	"fax": "64520444",
+	"licensee": "HEALTH PROMOTION BOARD",
+	"licensePeriod": "05/03/2015 to 04/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403323",
+	"address": "1 ANG MO KIO ST 32,, TECK GHEE PRIMARY SCHOOL, Singapore 569299",
+	"doctorInCharge": [
+		{
+			"name": "LIM WANYI",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2007",
+				"DCD(Paediatric Dentistry)(Melbourne) (University of Melbourne, Australia) 2012"
+			],
+			"specialties": [
+				"Paediatric Dentistry"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403323",
+	"coordinates": [
+		103.8509571,
+		1.3655878
+	],
+	"svy21": [
+		29962.96,
+		38625.29
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

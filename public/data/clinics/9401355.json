@@ -1,0 +1,45 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "65431113",
+	"fax": "65431113",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "26/05/2015 to 25/05/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401355",
+	"address": "SINGAPORE CHANGI INTERNEATIONAL, PASSENGER TERMINAL BUILDING 1, #02-10 Singapore 819642",
+	"doctorInCharge": [
+		{
+			"name": "Salleh Bin Omar B A Alkhatia",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9401355",
+	"coordinates": [
+		103.9903488,
+		1.3617358
+	],
+	"svy21": [
+		45475.65,
+		38199.91
+	],
+	"planningArea": "CH",
+	"neighbours": [
+		"PR",
+		"TM",
+		"CB"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "THOMSON WOMEN'S CLINIC",
+	"tel": "65876266",
+	"fax": "65874424",
+	"licensee": "THOMSON WOMEN'S CLINIC (TAMPINES) PTE. LTD.",
+	"licensePeriod": "25/06/2016 to 24/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0105",
+	"address": "BLK 503 TAMPINES CENTRAL 1, #01-289 Singapore 520503",
+	"doctorInCharge": [
+		{
+			"name": "Wong Heng Fok",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 2004"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 01:00 pm",
+		"Tuesday": "10:00 am to 01:00 pm",
+		"Thursday": "03:00 pm to 05:00 pm",
+		"Wednesday": "10:00 am to 01:00 pm",
+		"Friday": "03:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "12C0105",
+	"coordinates": [
+		103.9451029,
+		1.3558034
+	],
+	"svy21": [
+		40440.33,
+		37543.65
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

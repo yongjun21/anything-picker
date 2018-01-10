@@ -1,0 +1,54 @@
+{
+	"name": "INFECTIOUS DISEASES CARE",
+	"tel": "64436212",
+	"fax": "64436212",
+	"licensee": "IDSAFALTA PTE. LTD.",
+	"licensePeriod": "13/08/2017 to 12/08/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0279",
+	"address": "1 FARRER PARK STATION ROAD, FARRER PARK MEDICAL CENTRE CONNEXION, #13-14 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "ASOK KURUP",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992",
+				"MRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1997",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Infectious Diseases"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Infectious Diseases",
+			"Internal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 04:00 pm",
+		"Tuesday": "09:00 am to 04:00 pm",
+		"Wednesday": "09:00 am to 04:00 pm",
+		"Thursday": "09:00 am to 04:00 pm",
+		"Friday": "09:00 am to 04:00 pm"
+	},
+	"id": "15M0279",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

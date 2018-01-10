@@ -1,0 +1,50 @@
+{
+	"name": "ERNEST LAM DENTAL SURGERY",
+	"tel": "64690578",
+	"fax": "64676971",
+	"licensee": "Ernest Lam Dental Surgery Pte. Ltd.",
+	"licensePeriod": "14/04/2016 to 13/04/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404812",
+	"address": "587 BUKIT TIMAH ROAD, CORONATION SHOPPING PLAZA, #02-12 Singapore 269707",
+	"doctorInCharge": [
+		{
+			"name": "Lam Choon En Ernest",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1980",
+				"DGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1997",
+				"MClinDent (Prosthodontics) (London) (University of London, United Kingdom) 2003"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 02:00 pm",
+		"Tuesday": "09:00 am to 02:00 pm",
+		"Wednesday": "02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 02:00 pm",
+		"Friday": "09:00 am to 12:00 pm"
+	},
+	"id": "9404812",
+	"coordinates": [
+		103.8099996,
+		1.3238351
+	],
+	"svy21": [
+		25404.83,
+		34008.49
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

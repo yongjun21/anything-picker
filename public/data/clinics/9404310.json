@@ -1,0 +1,39 @@
+{
+	"name": "BETHESDA DENTAL SURGERY",
+	"tel": "62412200",
+	"fax": "62412200",
+	"licensee": "Vivienne Tan Gek Neo",
+	"licensePeriod": "14/12/2014 to 13/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404310",
+	"address": "BLK 25 New Upper Changi Road, #01-632 Singapore 462025",
+	"doctorInCharge": [
+		{
+			"name": "Vivienne Tan Gek Neo",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9404310",
+	"coordinates": [
+		103.9338356,
+		1.3232501
+	],
+	"svy21": [
+		39186.54,
+		33944.02
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

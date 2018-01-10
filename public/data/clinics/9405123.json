@@ -1,0 +1,54 @@
+{
+	"name": "SURGERY CENTRE FOR CHILDREN",
+	"tel": "67337381",
+	"fax": "67334939",
+	"licensee": "Surgery Centre for Children Pte. Ltd.",
+	"licensePeriod": "19/03/2015 to 18/03/2020",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9405123",
+	"address": "3 Mount Elizabeth, Mount Elizabeth Medical Centre, #10-08 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Chui Chan Hon",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1995"
+			],
+			"specialties": [
+				"Paediatric Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Surgery"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405123",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

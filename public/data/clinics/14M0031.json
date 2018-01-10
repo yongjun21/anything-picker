@@ -1,0 +1,54 @@
+{
+	"name": "THORACIC & CARDIOVASCULAR SURGERY SPECIALIST",
+	"tel": "64733930",
+	"fax": "64760636",
+	"licensee": "SULK PRIVATE LTD",
+	"licensePeriod": "28/07/2017 to 27/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0031",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #03-11 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Su Jang wen",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1998",
+				"MRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 2002",
+				"M Med (Surg) (National University of Singapore, Singapore) 2003",
+				"FRCS (Cardiothoracic Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 2006"
+			],
+			"specialties": [
+				"Cardiothoracic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiothoracic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "14M0031",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

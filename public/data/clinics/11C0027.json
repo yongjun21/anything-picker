@@ -1,0 +1,54 @@
+{
+	"name": "RESPIRATORY MEDICAL ASSOCIATES",
+	"tel": "64739984",
+	"fax": "64738864",
+	"licensee": "RESPIRATORY MEDICAL ASSOCIATES PTE. LTD.",
+	"licensePeriod": "09/07/2015 to 08/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0027",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #07-14 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Kenneth Chan Ping Wah",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1999",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": [
+				"Intensive Care Medicine",
+				"Respiratory Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Respiratory Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "11C0027",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

@@ -1,0 +1,45 @@
+{
+	"name": "CHIANG CHILDREN'S ALLERGY AND ASTHMA CLINIC PTE LTD",
+	"licensee": "Chiang Wen Chin",
+	"licensePeriod": "31/01/2017 to 17/01/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0005",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #17-12 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Chiang Wen Chin",
+			"qualifications": [
+				"MBBS (University of Nottingham, United Kingdom) 1997",
+				"MRCPCH (Paed) (Royal College of Paediatrics and Child Health, United Kingdom) 2000",
+				"FAMS (Academy of Medicine, Singapore) 2006"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true,
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"id": "12C0005",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

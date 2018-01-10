@@ -1,0 +1,57 @@
+{
+	"name": "ACUMED MEDICAL GROUP",
+	"tel": "64438077",
+	"fax": "64438700",
+	"licensee": "ACUMED MEDICAL PTE. LTD.",
+	"licensePeriod": "25/05/2015 to 24/05/2020",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9405242",
+	"address": "BLK 214 Bedok North Street 1, #01-165 Singapore 460214",
+	"doctorInCharge": [
+		{
+			"name": "Loo Chun Hao",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "09:00 am to 12:00 pm",
+		"Public Holiday": "09:00 am to 12:00 pm"
+	},
+	"id": "9405242",
+	"coordinates": [
+		103.932493,
+		1.3258757
+	],
+	"svy21": [
+		39037.12,
+		34234.33
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"name": "SAINT-JULIEN CLINIC FOR DIABETES & ENDOCRINOLOGY",
+	"tel": "62585891",
+	"fax": "63544457",
+	"licensee": "SAINT-JULIEN CLINICAL ASSOCIATES PTE. LTD.",
+	"licensePeriod": "17/11/2016 to 16/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0339",
+	"address": "820 THOMSON ROAD, MOUNT ALVERNIA HOSPITAL MEDICAL CENTRE D, #05-58 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "GOH KIAN PENG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2002",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2003",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2006",
+				"FAMS (Endocrinology) (Academy of Medicine, Singapore) 2009",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2012"
+			],
+			"specialties": [
+				"Endocrinology",
+				"Internal Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Endocrinology",
+			"Internal Medicine"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "14M0339",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

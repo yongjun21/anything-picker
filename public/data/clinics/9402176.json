@@ -1,0 +1,56 @@
+{
+	"name": "DIABETES & ENDOCRINE CONSULTANTS PTE LTD",
+	"tel": "62526620",
+	"fax": "62526152",
+	"licensee": "TAN YEANG TIN NEE LIM YEANG TIN",
+	"licensePeriod": "18/09/2016 to 17/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9402176",
+	"address": "820 Thomson Road, Mount Alvernia Hospital Medical Centre D, #06-63/64 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "TAN YEANG TIN NEE LIM YEANG TIN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1967",
+				"MRACP (Int Med) (Royal Australasian College of Physicians, Australia) 1971",
+				"FAMS (Endocrinology) (Academy of Medicine, Singapore) 1973"
+			],
+			"specialties": [
+				"Endocrinology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Endocrinology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
+	"id": "9402176",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

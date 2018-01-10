@@ -1,0 +1,54 @@
+{
+	"name": "C P LEE EYE CENTRE",
+	"tel": "67371117",
+	"fax": "67349672",
+	"licensee": "LEE CHIN PIAW",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400156",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #10-18 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "LEE CHIN PIAW",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977",
+				"FRCS (Ophth) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1983",
+				"FAMS (Ophth) (Academy of Medicine, Singapore) 1987",
+				"FRCOphth (Royal College of Ophthalmologists, United Kingdom) 1991"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:00 pm"
+	},
+	"id": "9400156",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

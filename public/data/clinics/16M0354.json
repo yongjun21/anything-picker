@@ -1,0 +1,55 @@
+{
+	"name": "KATONG FAMILY CLINIC PTE LTD",
+	"tel": "62034192",
+	"licensee": "Katong Family Clinic Pte. Ltd.",
+	"licensePeriod": "15/11/2016 to 14/11/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0354",
+	"address": "263 TANJONG KATONG ROAD, SUITES@ KATONG, #01-03 Singapore 437050",
+	"doctorInCharge": [
+		{
+			"name": "Sarah Jane Packer",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 2006",
+				"DRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 2010",
+				"MRCGP (Royal College of General Practitioners, United Kingdom) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 05:00 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Public Holiday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm, 06:30 pm to 09:30 pm"
+	},
+	"id": "16M0354",
+	"coordinates": [
+		103.8955513,
+		1.3078028
+	],
+	"svy21": [
+		34925.92,
+		32235.79
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

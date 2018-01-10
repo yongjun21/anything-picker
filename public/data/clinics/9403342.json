@@ -1,0 +1,48 @@
+{
+	"name": "KINGS MEDICAL CLINIC",
+	"tel": "62844498",
+	"fax": "62844977",
+	"licensee": "KONG KOK LEONG",
+	"licensePeriod": "28/04/2017 to 27/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9403342",
+	"address": "59A SERANGOON GARDEN WAY, Singapore 555955",
+	"doctorInCharge": [
+		{
+			"name": "KONG KOK LEONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 04:30 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "09:00 am to 04:30 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "09:00 am to 04:30 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "09:00 am to 04:30 pm, 06:30 pm to 09:30 pm",
+		"Friday": "09:00 am to 04:30 pm, 06:30 pm to 09:30 pm"
+	},
+	"id": "9403342",
+	"coordinates": [
+		103.865614,
+		1.3633616
+	],
+	"svy21": [
+		31594.1,
+		38379.14
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

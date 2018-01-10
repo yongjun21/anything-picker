@@ -1,0 +1,52 @@
+{
+	"name": "DRS. KOO & CHOO MEDICAL CLINIC PTE LTD",
+	"tel": "68962568",
+	"fax": "68962568",
+	"licensee": "Drs Koo & Choo Medical Clinic Pte Ltd",
+	"licensePeriod": "26/03/2017 to 25/03/2019",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9404397",
+	"address": "10 Bukit Batok Central, Bukit Batok MRT Station, #01-04A Singapore 659958",
+	"doctorInCharge": [
+		{
+			"name": "Edwin Choo Wai Yuen",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404397",
+	"coordinates": [
+		103.7495668,
+		1.3490341
+	],
+	"svy21": [
+		18679.35,
+		36795.01
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

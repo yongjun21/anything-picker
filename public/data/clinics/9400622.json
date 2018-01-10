@@ -1,0 +1,47 @@
+{
+	"name": "GWEE DENTAL SURGERY",
+	"tel": "67462649",
+	"fax": "67462649",
+	"licensee": "GWEE KIM LENG",
+	"licensePeriod": "01/01/2016 to 31/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9400622",
+	"address": "BLK 64 CIRCUIT ROAD, #01-337 Singapore 370064",
+	"doctorInCharge": [
+		{
+			"name": "GWEE KIM LENG",
+			"qualifications": [
+				"BDS (University of Malaya (Singapore), Singapore) 1957"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 11:30 am, 02:00 pm to 03:00 pm",
+		"Tuesday": "09:00 am to 11:30 am, 02:00 pm to 03:00 pm",
+		"Wednesday": "09:00 am to 11:30 am, 02:00 pm to 03:00 pm",
+		"Thursday": "09:00 am to 11:30 am, 02:00 pm to 03:00 pm",
+		"Friday": "09:00 am to 11:30 am, 02:00 pm to 03:00 pm",
+		"Saturday": "09:00 am to 11:30 am"
+	},
+	"id": "9400622",
+	"coordinates": [
+		103.8871484,
+		1.326984
+	],
+	"svy21": [
+		33990.72,
+		34356.74
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

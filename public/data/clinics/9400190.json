@@ -1,0 +1,52 @@
+{
+	"name": "CHAN EAR NOSE & THROAT SURGERY",
+	"tel": "67341166",
+	"fax": "67348540",
+	"licensee": "CHAN SIEW CHEE",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400190",
+	"address": "6 NAPIER RD, GLENEAGLES MEDICAL CENTRE, #09-07 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "CHAN SIEW CHEE",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1970",
+				"FRCS (ENT) (Royal College of Surgeons of Edinburgh, United Kingdom) 1974",
+				"FAMS (ENT) (Academy of Medicine, Singapore) 1980"
+			],
+			"specialties": [
+				"Otorhinolaryngology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Otorhinolaryngology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm"
+	},
+	"id": "9400190",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

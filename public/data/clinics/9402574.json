@@ -1,0 +1,47 @@
+{
+	"name": "TAMPINES 24-HR FAMILY CLINIC",
+	"tel": "67867228",
+	"fax": "67867229",
+	"licensee": "TAMPINES 24-HR FAMILY CLINIC PTE LTD",
+	"licensePeriod": "28/11/2013 to 27/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402574",
+	"address": "BLK 201D TAMPINES ST 21, #01-1151 Singapore 524201",
+	"doctorInCharge": [
+		{
+			"name": "YEO WEI MIN SHARON",
+			"qualifications": [
+				"MB BCh BAO (National University of Ireland, Ireland) 1997",
+				"DIP (Psychotherapy) (National University of Singapore, Singapore) 2000",
+				"M Med (OM) (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "9402574",
+	"coordinates": [
+		103.9535865,
+		1.3522623
+	],
+	"svy21": [
+		41384.47,
+		37152.14
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

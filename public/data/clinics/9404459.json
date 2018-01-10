@@ -1,0 +1,54 @@
+{
+	"name": "SPECIALIST EYECARE CLINIC",
+	"tel": "67335775",
+	"fax": "62355051",
+	"licensee": "THE EXCIMER CENTRE PTE LTD",
+	"licensePeriod": "13/06/2015 to 12/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404459",
+	"address": "1 KIM SENG PROMENADE, GREATWORLD CITY, #02-19A Singapore 237994",
+	"doctorInCharge": [
+		{
+			"name": "SIM HAN JEN DANIEL",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"FRCOphth (Royal College of Ophthalmologists, United Kingdom) 1991",
+				"FRCSEd (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 1991",
+				"M Med (Ophth) (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9404459",
+	"coordinates": [
+		103.8320158,
+		1.2934405
+	],
+	"svy21": [
+		27855.01,
+		30647.6
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"name": "RAFFLESSPECIALISTS",
+	"tel": "63111111",
+	"fax": "63112390",
+	"licensee": "RAFFLES HOSPITAL PTE LTD",
+	"licensePeriod": "03/06/2016 to 02/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0167",
+	"address": "118 HOLLAND AVENUE, RAFFLES HOLLAND V, #05-02/03/04 Singapore 278997",
+	"doctorInCharge": [
+		{
+			"name": "Wu Zhihui Kenneth",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Dermatology",
+			"Obstetrics & Gynaecology",
+			"Paediatric Medicine"
+		]
+	},
+	"id": "16M0167",
+	"coordinates": [
+		103.7961072,
+		1.3105635
+	],
+	"svy21": [
+		23858.72,
+		32541
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "YANG DENTAL SURGERY",
+	"tel": "62863335",
+	"fax": "62863335",
+	"licensee": "Yang Sik Yee",
+	"licensePeriod": "10/11/2013 to 09/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404052",
+	"address": "BLK 14E Kensington Park Road, Singapore 557265",
+	"doctorInCharge": [
+		{
+			"name": "Yang Sik Yee",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 12:30 pm, 03:00 pm to 05:00 pm",
+		"Tuesday": "09:30 am to 12:30 pm, 03:00 pm to 05:00 pm",
+		"Wednesday": "09:30 am to 12:30 pm, 03:00 pm to 05:00 pm",
+		"Thursday": "09:30 am to 12:30 pm, 03:00 pm to 05:00 pm",
+		"Friday": "09:30 am to 12:30 pm, 03:00 pm to 05:00 pm",
+		"Saturday": "09:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404052",
+	"coordinates": [
+		103.8661052,
+		1.3652177
+	],
+	"svy21": [
+		31648.76,
+		38584.38
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

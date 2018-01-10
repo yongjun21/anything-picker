@@ -1,0 +1,55 @@
+{
+	"name": "ELYON FAMILY CLINIC AND SURGERY",
+	"tel": "68027208",
+	"fax": "65827112",
+	"licensee": "ELYON FAMILY CLINIC AND SURGERY PTE. LTD.",
+	"licensePeriod": "06/02/2017 to 05/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0035",
+	"address": "BLK 78B TELOK BLANGAH STREET 32, #01-22 Singapore 102078",
+	"doctorInCharge": [
+		{
+			"name": "Chia Wei Meng Vincent",
+			"qualifications": [
+				"MB BCh BAO (National University of Ireland, Ireland) 1999",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2008"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 02:00 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:00 am to 02:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:00 am to 02:00 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:00 am to 02:00 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:00 am to 02:00 pm",
+		"Saturday": "08:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "15M0035",
+	"coordinates": [
+		103.8083352,
+		1.273633
+	],
+	"svy21": [
+		25219.55,
+		28457.4
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

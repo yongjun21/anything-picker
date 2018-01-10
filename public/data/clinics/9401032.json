@@ -1,0 +1,56 @@
+{
+	"name": "MACPHERSON MEDICAL CLINIC",
+	"tel": "67463913",
+	"fax": "67463913",
+	"licensee": "ONG KWEE HONG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401032",
+	"address": "BLK 78 CIRCUIT ROAD, #01-488 Singapore 370078",
+	"doctorInCharge": [
+		{
+			"name": "ONG KWEE HONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 06:00 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 06:00 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 06:00 pm to 08:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 06:00 pm to 08:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401032",
+	"coordinates": [
+		103.8852203,
+		1.3278806
+	],
+	"svy21": [
+		33776.13,
+		34455.86
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

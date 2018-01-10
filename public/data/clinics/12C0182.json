@@ -1,0 +1,58 @@
+{
+	"name": "MY FAMILY CLINIC (CLEMENTI)",
+	"tel": "66942574",
+	"fax": "66942573",
+	"licensee": "ALLIANCE HEALTH INVESTMENTS PTE. LTD.",
+	"licensePeriod": "04/09/2016 to 03/09/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0182",
+	"address": "BLK 420A CLEMENTI AVENUE 1, #01-05 Singapore 121420",
+	"doctorInCharge": [
+		{
+			"name": "Chang Wei Tee",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2011",
+				"Dip OM (National University of Singapore, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Thursday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 02:00 pm, 06:00 pm to 10:00 pm",
+		"Saturday": "08:00 am to 01:00 pm",
+		"Public Holiday": "08:00 am to 01:00 pm",
+		"Sunday": "08:00 am to 01:00 pm"
+	},
+	"id": "12C0182",
+	"coordinates": [
+		103.7686577,
+		1.309791
+	],
+	"svy21": [
+		20803.85,
+		32455.65
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

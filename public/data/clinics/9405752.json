@@ -1,0 +1,54 @@
+{
+	"name": "THE ENDOCRINE CLINIC",
+	"tel": "67331636",
+	"fax": "67377224",
+	"licensee": "THE ENDOCRINE CLINIC PTE. LTD.",
+	"licensePeriod": "17/07/2017 to 16/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405752",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #15-04 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Chia Su-Ynn",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2002",
+				"FAMS (Endocrinology) (Academy of Medicine, Singapore) 2008"
+			],
+			"specialties": [
+				"Endocrinology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Endocrinology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9405752",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

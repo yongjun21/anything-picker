@@ -1,0 +1,41 @@
+{
+	"name": "MEENARA CLINIC",
+	"tel": "64541003",
+	"fax": "64548941",
+	"licensee": "MEENAMBEKAI     NARASINGHAM",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401095",
+	"address": "BLK 422 ANG MO KIO AVE 3, #01-2536 Singapore 560422",
+	"doctorInCharge": [
+		{
+			"name": "MEENAMBEKAI     NARASINGHAM",
+			"qualifications": [
+				"MBBS (University of Madras, India) 1968"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9401095",
+	"coordinates": [
+		103.8518739,
+		1.3679999
+	],
+	"svy21": [
+		30064.99,
+		38892
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

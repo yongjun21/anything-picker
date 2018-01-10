@@ -1,0 +1,54 @@
+{
+	"name": "ST LUKE'S OUTPATIENT CLINIC",
+	"tel": "68953230",
+	"fax": "65616205",
+	"licensee": "ST LUKE'S HOSPITAL",
+	"licensePeriod": "27/10/2016 to 26/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0218",
+	"address": "2 BUKIT BATOK STREET 11, BLOCK C LEVEL 1 ST LUKE'S HOSPITAL, Singapore 659674",
+	"doctorInCharge": [
+		{
+			"name": "Chia Tee Hien",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "14M0218",
+	"coordinates": [
+		103.7421824,
+		1.3496004
+	],
+	"svy21": [
+		17857.55,
+		36857.66
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

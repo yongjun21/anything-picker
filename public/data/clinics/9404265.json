@@ -1,0 +1,49 @@
+{
+	"name": "SL CLINIC PTE. LTD.",
+	"tel": "62353246",
+	"fax": "62354841",
+	"licensee": "SL CLINIC PTE. LTD.",
+	"licensePeriod": "13/10/2017 to 12/10/2019",
+	"licenseClass": "[ 2 Years ( 1B ) ]",
+	"hciCode": "9404265",
+	"address": "501 Orchard Road, Wheelock Place, #04-04 Singapore 238880",
+	"doctorInCharge": [
+		{
+			"name": "Kelvin Chua Yong Wei",
+			"qualifications": [
+				"MBBS (University of Adelaide, Australia) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"Monday": "10:00 am to 09:30 pm",
+		"Tuesday": "10:00 am to 09:30 pm",
+		"Wednesday": "10:00 am to 09:30 pm",
+		"Thursday": "10:00 am to 09:30 pm",
+		"Friday": "10:00 am to 09:30 pm",
+		"Saturday": "09:00 am to 08:30 pm",
+		"Sunday": "10:00 am to 07:30 pm"
+	},
+	"id": "9404265",
+	"coordinates": [
+		103.830642,
+		1.3046763
+	],
+	"svy21": [
+		27702.12,
+		31889.99
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

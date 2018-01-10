@@ -1,0 +1,51 @@
+{
+	"name": "Q & M DENTAL SURGERY (ANG MO KIO CENTRAL) PTE LTD",
+	"tel": "65543363",
+	"fax": "65541215",
+	"licensee": "Q & M Dental Surgery (Ang Mo Kio Central) Pte.Ltd.",
+	"licensePeriod": "30/04/2016 to 29/04/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403583",
+	"address": "51 ANG MO KIO AVE 3, 51@AMK, #01-01 Singapore 569922",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9403583",
+	"coordinates": [
+		103.8471597,
+		1.3692974
+	],
+	"svy21": [
+		29540.35,
+		39035.47
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

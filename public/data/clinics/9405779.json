@@ -1,0 +1,39 @@
+{
+	"name": "UBER AESTHETIC CLINIC",
+	"tel": "98468936",
+	"fax": "68832318",
+	"licensee": "The Aesthetics Suite Pte. Ltd.",
+	"licensePeriod": "19/08/2016 to 15/12/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405779",
+	"address": "30 Hill Street, #01-03A Singapore 179360",
+	"doctorInCharge": [
+		{
+			"name": "Lee Yin San",
+			"qualifications": [
+				"MBBS (University of Adelaide, Australia) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9405779",
+	"coordinates": [
+		103.8495261,
+		1.2936061
+	],
+	"svy21": [
+		29803.76,
+		30665.91
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

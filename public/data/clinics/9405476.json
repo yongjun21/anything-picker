@@ -1,0 +1,57 @@
+{
+	"name": "NOVENA CHILDREN CLINIC",
+	"tel": "63976960",
+	"fax": "63976962",
+	"licensee": "NOVENA CHILDREN CLINIC PTE. LTD.",
+	"licensePeriod": "04/11/2015 to 03/11/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405476",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTER, #10-32 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "KEOY SOO SHIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988",
+				"DCH (Royal College of Physicians of London, United Kingdom) 1995",
+				"MRCP (Paed) (Royal College of Physicians, Ireland) 1996"
+			],
+			"specialties": [
+				"Neonatology",
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:30 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405476",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

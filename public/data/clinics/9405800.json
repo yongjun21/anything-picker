@@ -1,0 +1,57 @@
+{
+	"name": "CHAN KM GERIATRIC & MEDICAL CLINIC PTE LTD",
+	"tel": "62555567",
+	"fax": "62555667",
+	"licensee": "CHAN KM GERIATRIC & MEDICAL CLINIC PTE. LTD.",
+	"licensePeriod": "30/06/2016 to 29/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9405800",
+	"address": "820 THOMSON ROAD, MOUNT ALVERNIA HOSPITAL MEDICAL CENTRE D, #08-55 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "Chan Kin Ming",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Geriatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Geriatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "02:00 pm to 05:00 pm",
+		"Thursday": "02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm",
+		"Friday": "09:00 am to 01:00 pm",
+		"Wednesday": "Closed",
+		"Sunday": "Closed",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405800",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

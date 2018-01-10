@@ -1,0 +1,55 @@
+{
+	"name": "KINDER CLINIC PTE LTD",
+	"tel": "62685441",
+	"fax": "62685093",
+	"licensee": "KINDER CLINIC PTE. LTD.",
+	"licensePeriod": "31/12/2016 to 30/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0391",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #04-23 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Selvadurai Ravindran Chitraranjan",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989",
+				"MRCP (Paed) (Royal College of Physicians, United Kingdom) 1994",
+				"M Med (Paed) (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "14M0391",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

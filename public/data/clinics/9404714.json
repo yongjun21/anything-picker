@@ -1,0 +1,55 @@
+{
+	"name": "TAYKA MEDICAL",
+	"tel": "63924473",
+	"fax": "63924593",
+	"licensee": "Tayka Medical (Pte. Ltd.)",
+	"licensePeriod": "12/02/2014 to 11/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404714",
+	"address": "29A DESKER ROAD, Singapore 209562",
+	"doctorInCharge": [
+		{
+			"name": "Sunil Joseph",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 2001",
+				"BSc (Medicine) (Flinders University, Australia) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "10:00 am to 10:00 pm",
+		"Tuesday": "10:00 am to 10:00 pm",
+		"Wednesday": "10:00 am to 10:00 pm",
+		"Thursday": "10:00 am to 10:00 pm",
+		"Friday": "10:00 am to 10:00 pm",
+		"Saturday": "10:00 am to 10:00 pm",
+		"Sunday": "10:00 am to 10:00 pm"
+	},
+	"id": "9404714",
+	"coordinates": [
+		103.8548876,
+		1.3094617
+	],
+	"svy21": [
+		30400.43,
+		32419.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

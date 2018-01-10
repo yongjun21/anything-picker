@@ -1,0 +1,52 @@
+{
+	"name": "SINGAPORE PAEDS CLINIC",
+	"tel": "65674509",
+	"fax": "65674509",
+	"licensee": "LAU TIEN KHOON",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401513",
+	"address": "BLK 502 JURONG WEST ST 51, #01-813 Singapore 640502",
+	"doctorInCharge": [
+		{
+			"name": "LAU TIEN KHOON",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1977",
+				"M Med (Paed) (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Paediatric Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Paediatric Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:30 am to 12:00 pm, 02:30 pm to 06:00 pm",
+		"Tuesday": "09:30 am to 12:00 pm, 02:30 pm to 06:00 pm",
+		"Wednesday": "09:30 am to 12:00 pm, 02:30 pm to 06:00 pm",
+		"Thursday": "09:30 am to 12:00 pm, 02:30 pm to 06:00 pm",
+		"Friday": "09:30 am to 12:00 pm, 02:30 pm to 06:00 pm",
+		"Saturday": "09:30 am to 12:00 pm, 02:30 pm to 06:00 pm"
+	},
+	"id": "9401513",
+	"coordinates": [
+		103.7183347,
+		1.3505013
+	],
+	"svy21": [
+		15203.57,
+		36957.39
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

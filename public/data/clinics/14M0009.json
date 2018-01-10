@@ -1,0 +1,49 @@
+{
+	"name": "FAMILY MEDICINE CLINIC CHINATOWN",
+	"tel": "62255155",
+	"fax": "62223320",
+	"licensee": "FAMILY MEDICINE CLINIC @ CHINATOWN PTE. LTD.",
+	"licensePeriod": "15/02/2017 to 14/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0009",
+	"address": "133 NEW BRIDGE ROAD, CHINATOWN POINT, #02-09 Singapore 059413",
+	"doctorInCharge": [
+		{
+			"name": "Derek Tse Wan Lung",
+			"qualifications": [
+				"MBBS (University of Queensland, Australia) 1995",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2000",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2001",
+				"FCFP (Family Med) (College of Family Physicians, Singapore) 2004"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "14M0009",
+	"coordinates": [
+		103.8446971,
+		1.2849988
+	],
+	"svy21": [
+		29266.33,
+		29714.16
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"name": "COMMUNITY WELLNESS CLINIC",
+	"tel": "63892200",
+	"fax": "64715318",
+	"licensee": "National Healthcare Group Pte Ltd",
+	"licensePeriod": "07/01/2017 to 06/01/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404699",
+	"address": "580 Stirling Road, #04-01 Singapore 148958",
+	"doctorInCharge": [
+		{
+			"name": "Wei Ker-Chiah",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"M Med (Psych) (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": [
+				"Psychiatry"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Psychiatry"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 12:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9404699",
+	"coordinates": [
+		103.8010177,
+		1.2984731
+	],
+	"svy21": [
+		24405.2,
+		31204.1
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "MHC FAMILY CLINIC (ANG MO KIO)",
+	"tel": "65534050",
+	"fax": "64525433",
+	"licensee": "MHC FAMILY CLINIC (AMK) PTE. LTD.",
+	"licensePeriod": "17/09/2016 to 16/09/2018",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "12C0193",
+	"address": "BLK 452 ANG MO KIO AVE 10, #01-1789 Singapore 560452",
+	"doctorInCharge": [
+		{
+			"name": "CHNG CHEE KIONG RONNIE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 01:00 pm to 03:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:00 pm, 07:00 pm to 09:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "12C0193",
+	"coordinates": [
+		103.8562008,
+		1.3688975
+	],
+	"svy21": [
+		30546.52,
+		38991.26
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"name": "SINGAPORE GENERAL HOSPITAL HEALTH ASSESSMENT CENTRE",
+	"tel": "67366180",
+	"fax": "62351750",
+	"licensee": "SINGAPORE GENERAL HOSPITAL PTE LTD",
+	"licensePeriod": "18/12/2016 to 17/12/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0280",
+	"address": "1 ORCHARD BOULEVARD, CAMDEN CENTRE, #16-04/05 Singapore 248649",
+	"doctorInCharge": [
+		{
+			"name": "Yuen Yih",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1983",
+				"MSc (OM) (National University of Singapore, Singapore) 1991"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:00 pm, 08:00 am to 12:00 pm",
+		"Tuesday": "08:00 am to 05:00 pm, 08:00 am to 12:00 pm",
+		"Wednesday": "08:00 am to 05:00 pm, 08:00 am to 12:00 pm",
+		"Thursday": "08:00 am to 05:00 pm, 08:00 am to 12:00 pm",
+		"Friday": "08:00 am to 05:00 pm, 08:00 am to 12:00 pm",
+		"Saturday": "08:00 am to 05:00 pm, 08:00 am to 12:00 pm"
+	},
+	"id": "12C0280",
+	"coordinates": [
+		103.8239072,
+		1.3031376
+	],
+	"svy21": [
+		26952.59,
+		31719.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

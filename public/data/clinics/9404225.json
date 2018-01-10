@@ -1,0 +1,56 @@
+{
+	"name": "BALESTIER CLINIC AND HEALTH SCREENING CENTRE",
+	"tel": "62588798",
+	"fax": "62529953",
+	"licensee": "Balestier Clinic and Health Screening Centre Pte. Ltd.",
+	"licensePeriod": "04/10/2014 to 03/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404225",
+	"address": "221 Balestier Road, Rocca Balestier, #03-04 Singapore 329928",
+	"doctorInCharge": [
+		{
+			"name": "Chin Koy Nam",
+			"qualifications": [
+				"MB ChB (University of Sheffield, United Kingdom) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Endocrinology"
+		]
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:00 am to 12:30 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9404225",
+	"coordinates": [
+		103.8525261,
+		1.3212956
+	],
+	"svy21": [
+		30137.61,
+		33727.68
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

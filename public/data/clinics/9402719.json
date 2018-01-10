@@ -1,0 +1,48 @@
+{
+	"name": "CENTRAL 24-HR CLINIC (YISHUN)",
+	"tel": "67597985",
+	"fax": "67597984",
+	"licensee": "CMI URBAN HEALTHCARE PTE. LTD.",
+	"licensePeriod": "23/09/2014 to 22/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402719",
+	"address": "BLK 701A YISHUN AVE 5, #01-04 Singapore 761701",
+	"doctorInCharge": [
+		{
+			"name": "Ong Chee Meng Robert",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1993",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9402719",
+	"coordinates": [
+		103.8279432,
+		1.4298785
+	],
+	"svy21": [
+		27401.8,
+		45734.21
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

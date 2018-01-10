@@ -1,0 +1,50 @@
+{
+	"name": "ROYCE DENTAL SURGERY",
+	"tel": "67743586",
+	"fax": "67744086",
+	"licensee": "Yeo Kok Beng",
+	"licensePeriod": "04/10/2014 to 03/10/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405718",
+	"address": "BLK 328 CLEMENTI AVENUE 2, #01-206 Singapore 120328",
+	"doctorInCharge": [
+		{
+			"name": "Yeo Kok Beng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm"
+	},
+	"id": "9405718",
+	"coordinates": [
+		103.767089,
+		1.3139916
+	],
+	"svy21": [
+		20629.28,
+		32920.13
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

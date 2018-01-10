@@ -1,0 +1,47 @@
+{
+	"name": "SENGKANG FAMILY CLINIC",
+	"tel": "64819793",
+	"fax": "64819796",
+	"licensee": "SENGKANG FAMILY CLINIC PTE. LTD.",
+	"licensePeriod": "19/05/2017 to 18/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0146",
+	"address": "BLK 274D COMPASSVALE BOW, #01-01 Singapore 544274",
+	"doctorInCharge": [
+		{
+			"name": "Muhammad Iqbal Bin Abdullah",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "17M0146",
+	"coordinates": [
+		103.8911566,
+		1.3825305
+	],
+	"svy21": [
+		34436.64,
+		40498.79
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

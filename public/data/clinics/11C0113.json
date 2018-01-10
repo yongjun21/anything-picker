@@ -1,0 +1,45 @@
+{
+	"name": "DR. TTLIM CARDIOLOGY CLINIC",
+	"tel": "67379195",
+	"fax": "67379769",
+	"licensee": "TSQUARED CARDIOLOGY AND INTERNAL MEDICINE CLINIC PTE. LTD.",
+	"licensePeriod": "23/07/2017 to 22/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0113",
+	"address": "290 ORCHARD ROAD, THE PARAGON, #17-10 Singapore 238859",
+	"doctorInCharge": [
+		{
+			"name": "Lim Tai Tian",
+			"qualifications": [
+				"Physician's Diploma (University of Amsterdam, Netherlands) 1986",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 1997"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiology",
+			"Internal Medicine"
+		]
+	},
+	"id": "11C0113",
+	"coordinates": [
+		103.8358575,
+		1.3038723
+	],
+	"svy21": [
+		28282.56,
+		31801.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

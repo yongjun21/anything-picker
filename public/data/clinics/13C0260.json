@@ -1,0 +1,55 @@
+{
+	"name": "EYEWISE VISION CLINIC",
+	"tel": "64761211",
+	"fax": "64761311",
+	"licensee": "EYEWISE VISION CLINIC PTE. LTD.",
+	"licensePeriod": "01/10/2017 to 30/09/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0260",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #06-04 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "CHRISTOPHER GERARD KHNG YEN WEI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"FRCSEd (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 2000",
+				"M Med (Ophth) (National University of Singapore, Singapore) 2000",
+				"FAMS (Ophth) (Academy of Medicine, Singapore) 2003"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "13C0260",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

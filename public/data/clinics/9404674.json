@@ -1,0 +1,52 @@
+{
+	"name": "COMPLETE HEALTHCARE INTERNATIONAL",
+	"tel": "67762288",
+	"fax": "67761788",
+	"licensee": "COMPLETE HEALTHCARE INTERNATIONAL PTE. LTD.",
+	"licensePeriod": "10/01/2016 to 09/01/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404674",
+	"address": "BLK 45 ROCHESTER PARK, Singapore 139249",
+	"doctorInCharge": [
+		{
+			"name": "Kim Alana Hayes",
+			"qualifications": [
+				"MBBS (Monash University, Australia) 1990",
+				"FRACGP (Royal Australian College of General Practitioners, Australia) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404674",
+	"coordinates": [
+		103.7860713,
+		1.3045516
+	],
+	"svy21": [
+		22741.81,
+		31876.25
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

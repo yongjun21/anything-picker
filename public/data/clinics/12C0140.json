@@ -1,0 +1,55 @@
+{
+	"name": "THE HARLEY STREET HEART & CANCER CENTRE",
+	"tel": "64723703",
+	"fax": "64723704",
+	"licensee": "THE HARLEY STREET CLINIC SINGAPORE PTE. LTD.",
+	"licensePeriod": "04/06/2017 to 03/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "12C0140",
+	"address": "6A NAPIER ROAD, GLENEAGLES HOSPITAL, ANNEXE BLOCK, #02-38/41 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "Reginald Liew Kay Choon",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1997",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2000",
+				"PhD (University of London, United Kingdom) 2004"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Cardiology",
+			"Medical Oncology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "12C0140",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

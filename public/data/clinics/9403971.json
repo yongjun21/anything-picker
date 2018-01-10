@@ -1,0 +1,53 @@
+{
+	"name": "SENJA FAMILY CLINIC",
+	"tel": "62190688",
+	"fax": "62194518",
+	"licensee": "NG CHO ENG",
+	"licensePeriod": "23/06/2015 to 22/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403971",
+	"address": "BLK 609 Bukit Panjang Ring Road, #B1-908 Singapore 670609",
+	"doctorInCharge": [
+		{
+			"name": "NG CHO ENG",
+			"qualifications": [
+				"MB ChB (University of Manchester, United Kingdom) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "08:00 am to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "08:00 am to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "08:00 am to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Friday": "08:00 am to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Saturday": "08:00 am to 12:00 pm",
+		"Sunday": "08:00 am to 12:00 pm"
+	},
+	"id": "9403971",
+	"coordinates": [
+		103.7620101,
+		1.3828573
+	],
+	"svy21": [
+		20064.27,
+		40534.97
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

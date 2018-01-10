@@ -1,0 +1,54 @@
+{
+	"name": "DUXTON MEDICAL CLINIC",
+	"tel": "65383573",
+	"fax": "62593723",
+	"licensee": "DUXTON MEDICAL PTE. LTD.",
+	"licensePeriod": "11/02/2016 to 10/02/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0035",
+	"address": "BLK 7 TANJONG PAGAR PLAZA, #01-106 Singapore 081007",
+	"doctorInCharge": [
+		{
+			"name": "HO HUA SHEN",
+			"qualifications": [
+				"MB ChB (University of Glasgow, United Kingdom) 2007"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 02:00 pm, 03:00 pm to 05:00 pm, 06:00 pm to 08:00 pm",
+		"Wednesday": "09:00 am to 02:00 pm, 03:00 pm to 05:00 pm, 06:00 pm to 08:00 pm",
+		"Tuesday": "09:00 am to 02:00 pm, 03:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 02:00 pm, 03:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 02:00 pm, 03:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "16M0035",
+	"coordinates": [
+		103.8431177,
+		1.2771201
+	],
+	"svy21": [
+		29090.57,
+		28842.98
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

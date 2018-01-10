@@ -1,0 +1,48 @@
+{
+	"name": "LIM MEDICAL CLINIC",
+	"tel": "67787666",
+	"fax": "67787666",
+	"licensee": "LIM SWEE HOCK",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400985",
+	"address": "BLK 320 CLEMENTI AVE 4, #01-29 Singapore 120320",
+	"doctorInCharge": [
+		{
+			"name": "LIM SWEE HOCK",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "9400985",
+	"coordinates": [
+		103.7653107,
+		1.3169013
+	],
+	"svy21": [
+		20431.38,
+		33241.88
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

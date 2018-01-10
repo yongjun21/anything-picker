@@ -1,0 +1,51 @@
+{
+	"name": "CUSTODIA DENTAL CLINIC",
+	"tel": "62579426",
+	"fax": "67530094",
+	"licensee": "Goh Eng Guan",
+	"licensePeriod": "23/11/2013 to 22/11/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405380",
+	"address": "BLK 291 YISHUN STREET 22, #01-349 Singapore 760291",
+	"doctorInCharge": [
+		{
+			"name": "Goh Eng Guan",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1987"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "10:00 am to 12:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "Closed",
+		"Wednesday": "10:00 am to 12:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "10:00 am to 12:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Friday": "10:00 am to 12:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "09:30 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405380",
+	"coordinates": [
+		103.8367239,
+		1.4357608
+	],
+	"svy21": [
+		28378.96,
+		46384.65
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"name": "COLORECTAL CLINIC ASSOCIATES",
+	"tel": "66439922",
+	"fax": "66439929",
+	"licensee": "COLORECTAL CLINIC ASSOCIATES PTE. LTD.",
+	"licensePeriod": "14/06/2016 to 13/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0086",
+	"address": "38 IRRAWADDY ROAD, Mount Elizabeth Novena Specialist Centre, #10-48/49 Singapore 329563",
+	"doctorInCharge": [
+		{
+			"name": "Dean Koh Chi Siong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994",
+				"FRCS (Royal College of Surgeons of Edinburgh, United Kingdom) 1999",
+				"FRCS (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 2000",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 2004",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 2004"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "12C0086",
+	"coordinates": [
+		103.8442263,
+		1.3221466
+	],
+	"svy21": [
+		29213.92,
+		33821.77
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

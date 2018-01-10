@@ -3,7 +3,7 @@
 	"tel": "62352500",
 	"fax": "62350788",
 	"licensee": "YEOH SWEE CHOO",
-	"licensePeriod": "02/09/2015 to 01/09/2017",
+	"licensePeriod": "02/09/2017 to 01/09/2019",
 	"licenseClass": "[ 2 Years ( 2C ) ]",
 	"hciCode": "9401722",
 	"address": "3 Mount Elizabeth, Mount Elizabeth Medical Centre, #13-13 Singapore 228510",
@@ -24,9 +24,7 @@
 		}
 	],
 	"detailedServices": {
-		"Abortion": [
-			"Obstetrics & Gynaecology"
-		],
+		"Abortion": true,
 		"General Medical": true,
 		"Specialist Medical": [
 			"Obstetrics & Gynaecology"

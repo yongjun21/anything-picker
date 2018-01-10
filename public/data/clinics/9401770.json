@@ -1,0 +1,51 @@
+{
+	"name": "TOA PAYOH CLINIC & SURGERY",
+	"tel": "62518353",
+	"fax": "62518353",
+	"licensee": "KAO KHENG YEW",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401770",
+	"address": "BLK 233 TOA PAYOH LOR 8, #01-258 Singapore 310233",
+	"doctorInCharge": [
+		{
+			"name": "KAO KHENG YEW",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9401770",
+	"coordinates": [
+		103.858468,
+		1.3382837
+	],
+	"svy21": [
+		30798.86,
+		35606.14
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"name": "MEDICAL & ONCOLOGY CLINIC",
+	"tel": "62355311",
+	"fax": "67370207",
+	"licensee": "OON CHONG-JIN",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401070",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #15-09 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "OON CHONG-JIN",
+			"qualifications": [
+				"MB Bchir (University of Cambridge, United Kingdom) 1965",
+				"DCH (Royal College of Physicians of London, United Kingdom) 1968",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1971",
+				"FAMS (Int Med) (Academy of Medicine, Singapore) 1975",
+				"FRCP (Lond) (Royal College of Physicians of London, United Kingdom) 1986"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Internal Medicine",
+			"Medical Oncology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9401070",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

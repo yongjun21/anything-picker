@@ -1,0 +1,55 @@
+{
+	"name": "ISLAND GROUP CLINIC",
+	"tel": "67322181",
+	"fax": "67322181",
+	"licensee": "LUM CHUN FATT",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400731",
+	"address": "100 ORCHARD RD, CONCORDE HOTEL & SHOPPING MALL, #04-104 Singapore 238840",
+	"doctorInCharge": [
+		{
+			"name": "LUM CHUN FATT",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1978",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1986"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 11:00 am",
+		"Tuesday": "09:00 am to 11:00 am",
+		"Wednesday": "09:00 am to 11:00 am",
+		"Thursday": "09:00 am to 11:00 am",
+		"Friday": "09:00 am to 11:00 am",
+		"Saturday": "09:00 am to 11:00 am",
+		"Sunday": "Closed"
+	},
+	"id": "9400731",
+	"coordinates": [
+		103.842228,
+		1.3006144
+	],
+	"svy21": [
+		28991.54,
+		31440.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

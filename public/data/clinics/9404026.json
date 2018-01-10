@@ -1,0 +1,47 @@
+{
+	"name": "COMMUNITY DENTAL CARE",
+	"tel": "62659828",
+	"licensee": "Chan Joo Choon Jeffrey",
+	"licensePeriod": "06/10/2015 to 05/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404026",
+	"address": "BLK 176 Boon Lay Drive, #01-350 Singapore 640176",
+	"doctorInCharge": [
+		{
+			"name": "Chan Joo Choon Jeffrey",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1981"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:00 pm, 01:30 pm to 04:00 pm, 05:30 pm to 07:00 pm",
+		"Tuesday": "09:00 am to 12:00 pm, 01:30 pm to 04:00 pm, 05:30 pm to 07:00 pm",
+		"Wednesday": "09:00 am to 12:00 pm, 01:30 pm to 04:00 pm, 05:30 pm to 07:00 pm",
+		"Thursday": "09:00 am to 12:00 pm, 01:30 pm to 04:00 pm, 05:30 pm to 07:00 pm",
+		"Friday": "09:00 am to 12:00 pm, 01:30 pm to 04:00 pm, 05:30 pm to 07:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404026",
+	"coordinates": [
+		103.7100145,
+		1.347251
+	],
+	"svy21": [
+		14277.61,
+		36598.03
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

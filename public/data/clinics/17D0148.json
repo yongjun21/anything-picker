@@ -1,0 +1,40 @@
+{
+	"name": "Q & M DENTAL SURGERY (PUNGGOL MRT)",
+	"tel": "67059888",
+	"fax": "62866866",
+	"licensee": "Q & M DENTAL SURGERY (HOUGANG CENTRAL) PTE. LTD.",
+	"licensePeriod": "26/05/2017 to 25/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17D0148",
+	"address": "70 PUNGGOL CENTRAL, PUNGGOL MRT STATION, #01-07 Singapore 828868",
+	"doctorInCharge": [
+		{
+			"name": "Ang Ee Peng Raymond",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"id": "17D0148",
+	"coordinates": [
+		103.9020726,
+		1.4045467
+	],
+	"svy21": [
+		35651.38,
+		42933.27
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

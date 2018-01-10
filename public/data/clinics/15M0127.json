@@ -1,0 +1,52 @@
+{
+	"name": "ORTHOSPORTS ORTHOPAEDIC SURGERY & SPORTS MEDICINE",
+	"tel": "64350015",
+	"fax": "64435563",
+	"licensee": "ORTHOSPORTS PTE. LTD.",
+	"licensePeriod": "30/04/2017 to 29/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0127",
+	"address": "1 FARRER PARK STATION ROAD, CONNEXION, #15-17 Singapore 217562",
+	"doctorInCharge": [
+		{
+			"name": "ANG KIAN CHUAN",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 1990",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1995"
+			],
+			"specialties": [
+				"Orthopaedic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Orthopaedic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm"
+	},
+	"id": "15M0127",
+	"coordinates": [
+		103.8539295,
+		1.3124732
+	],
+	"svy21": [
+		30293.8,
+		32752.15
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

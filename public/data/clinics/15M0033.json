@@ -1,0 +1,52 @@
+{
+	"name": "VIVA MEDICAL GROUP",
+	"tel": "66357240",
+	"fax": "66357240",
+	"licensee": "VIVA MEDICAL GROUP PTE. LTD.",
+	"licensePeriod": "06/02/2017 to 05/02/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0033",
+	"address": "BLK 519A TAMPINES CENTRAL 8, #01-08 Singapore 521519",
+	"doctorInCharge": [
+		{
+			"name": "Ivan Tan Yuan Jern",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 06:00 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 06:00 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 06:00 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 06:00 pm to 08:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 06:00 pm to 08:30 pm",
+		"Saturday": "09:00 am to 03:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15M0033",
+	"coordinates": [
+		103.9403816,
+		1.3572759
+	],
+	"svy21": [
+		39914.89,
+		37706.46
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

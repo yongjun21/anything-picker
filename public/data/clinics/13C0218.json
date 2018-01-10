@@ -1,0 +1,54 @@
+{
+	"name": "B K POH UROLOGY & MINIMALLY INVASIVE SURGICAL CENTRE",
+	"tel": "64711450",
+	"fax": "64794147",
+	"licensee": "B K POH UROLOGY PTE. LTD.",
+	"licensePeriod": "17/11/2017 to 16/11/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13C0218",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #07-18 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Poh Beow Kiong",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1998",
+				"MRCSEd (Royal College of Surgeons of Edinburgh, United Kingdom) 2003",
+				"M Med (Surg) (National University of Singapore, Singapore) 2004"
+			],
+			"specialties": [
+				"Urology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Urology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "13C0218",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

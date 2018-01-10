@@ -1,0 +1,59 @@
+{
+	"name": "CHANGI CLINIC",
+	"tel": "67428865",
+	"fax": "67492729",
+	"licensee": "Tan Su-Ming Jean",
+	"licensePeriod": "30/04/2015 to 29/04/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400203",
+	"address": "BLK 848 Sims Avenue, Eunosville, #01-734 Singapore 400848",
+	"doctorInCharge": [
+		{
+			"name": "Tan Su-Ming Jean",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1996",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1996",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1996",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm",
+		"Thursday": "08:30 am to 05:00 pm",
+		"Friday": "08:30 am to 05:00 pm",
+		"Saturday": "08:00 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400203",
+	"coordinates": [
+		103.9014318,
+		1.3172089
+	],
+	"svy21": [
+		35580.34,
+		33275.88
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

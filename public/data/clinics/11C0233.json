@@ -1,0 +1,57 @@
+{
+	"name": "THE CHELSEA CLINIC (ROCHESTER)",
+	"tel": "65703913",
+	"fax": "65705438",
+	"licensee": "THE ROCHESTER CLINIC PTE. LTD.",
+	"licensePeriod": "15/12/2015 to 14/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0233",
+	"address": "35 ROCHESTER DRIVE, THE ROCHESTER, #03-21 Singapore 138639",
+	"doctorInCharge": [
+		{
+			"name": "CHARLOTTE KIM THOMAS MRS. YUNG SHING WAI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"M Med (Family Med) (National University of Singapore, Singapore) 2001",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2002",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 07:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "11C0233",
+	"coordinates": [
+		103.7883474,
+		1.3053512
+	],
+	"svy21": [
+		22995.12,
+		31964.67
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

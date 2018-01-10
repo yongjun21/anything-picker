@@ -1,0 +1,41 @@
+{
+	"name": "TANGLIN TRUST SCHOOL CLINIC",
+	"tel": "67780771",
+	"fax": "67789535",
+	"licensee": "TANGLIN TRUST SCHOOL LIMITED",
+	"licensePeriod": "13/06/2016 to 12/06/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402675",
+	"address": "95 PORTSDOWN ROAD, Singapore 139299",
+	"doctorInCharge": [
+		{
+			"name": "Lu Kuo Fan Mark",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1984",
+				"Dip OM (National University of Singapore, Singapore) 2007"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "9402675",
+	"coordinates": [
+		103.7919886,
+		1.2968908
+	],
+	"svy21": [
+		23400.34,
+		31029.15
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

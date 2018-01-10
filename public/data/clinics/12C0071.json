@@ -1,0 +1,53 @@
+{
+	"name": "DE PACIFIC DENTAL GROUP (PASIR RIS)",
+	"tel": "65850030",
+	"fax": "65852430",
+	"licensee": "LIM ENG YONG",
+	"licensePeriod": "24/05/2016 to 23/05/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0071",
+	"address": "BLK 446 PASIR RIS DRIVE 6, #01-124 Singapore 510446",
+	"doctorInCharge": [
+		{
+			"name": "LIM ENG YONG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1995",
+				"FRACDS (The Royal Australasian College of Dental Surgeons, Australia) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 09:00 pm",
+		"Tuesday": "09:00 am to 09:00 pm",
+		"Wednesday": "09:00 am to 09:00 pm",
+		"Thursday": "09:00 am to 09:00 pm",
+		"Friday": "09:00 am to 09:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "09:00 am to 05:00 pm"
+	},
+	"id": "12C0071",
+	"coordinates": [
+		103.9577269,
+		1.3703062
+	],
+	"svy21": [
+		41845.14,
+		39147.37
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

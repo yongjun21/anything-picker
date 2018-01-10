@@ -1,0 +1,38 @@
+{
+	"name": "HO DENTAL SURGERY",
+	"tel": "62422687",
+	"fax": "64421956",
+	"licensee": "HO DENTAL SURGERY (MARINE PARADE) PTE. LTD.",
+	"licensePeriod": "15/09/2016 to 14/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16C0274",
+	"address": "BLK 57 MARINE TERRACE, #01-117 Singapore 440057",
+	"doctorInCharge": [
+		{
+			"name": "HO CHUK PING",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "16C0274",
+	"coordinates": [
+		103.9154848,
+		1.3065126
+	],
+	"svy21": [
+		37144.34,
+		32093.19
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

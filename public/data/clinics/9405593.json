@@ -1,0 +1,43 @@
+{
+	"name": "ECM CLINIC & SURGERY PTE LTD",
+	"tel": "67493323",
+	"fax": "68427060",
+	"licensee": "TAN KIA CHOO",
+	"licensePeriod": "30/11/2015 to 20/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405593",
+	"address": "260 SIMS AVENUE, ECM Building, #01-01 Singapore 387604",
+	"doctorInCharge": [
+		{
+			"name": "TAN KIA CHOO",
+			"qualifications": [
+				"MCPS (College of Physicians and Surgeons (Saskatchewan), Canada) 1974",
+				"MD (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Saturday": "09:00 am to 06:00 pm, 09:00 am to 01:00 pm"
+	},
+	"id": "9405593",
+	"coordinates": [
+		103.8829024,
+		1.314905
+	],
+	"svy21": [
+		33518.21,
+		33021.09
+	],
+	"planningArea": "GL",
+	"neighbours": [
+		"BD",
+		"KL",
+		"HG",
+		"MP",
+		"TP"
+	]
+}

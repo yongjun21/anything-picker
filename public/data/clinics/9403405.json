@@ -1,0 +1,44 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "68934514",
+	"fax": "68934514",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "28/08/2015 to 27/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403405",
+	"address": "11 WOODLANDS RING RD,, WOODLANDS RING PRIMARY SCHOOL, Singapore 738240",
+	"doctorInCharge": [
+		{
+			"name": "Chee Ching Teng",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1974"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9403405",
+	"coordinates": [
+		103.7974357,
+		1.4349523
+	],
+	"svy21": [
+		24006.78,
+		46295.28
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

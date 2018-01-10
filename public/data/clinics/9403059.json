@@ -1,0 +1,56 @@
+{
+	"name": "FIRST MEDICAL CENTRE (YISHUN) PTE LTD",
+	"tel": "67591485",
+	"fax": "67571490",
+	"licensee": "FOK CHEE WAI",
+	"licensePeriod": "23/08/2015 to 22/08/2020",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9403059",
+	"address": "BLK 110 YISHUN RING RD, #01-399 Singapore 760110",
+	"doctorInCharge": [
+		{
+			"name": "FOK CHEE WAI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 12:30 pm",
+		"Monday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9403059",
+	"coordinates": [
+		103.8289934,
+		1.4337606
+	],
+	"svy21": [
+		27518.67,
+		46163.48
+	],
+	"planningArea": "YS",
+	"neighbours": [
+		"AM",
+		"MD",
+		"SL",
+		"SB",
+		"SE",
+		"CC",
+		"SM"
+	]
+}

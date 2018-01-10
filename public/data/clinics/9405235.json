@@ -1,0 +1,55 @@
+{
+	"name": "ACUMED MEDICAL GROUP",
+	"tel": "65619366",
+	"fax": "65616103",
+	"licensee": "ACUMED MEDICAL PTE. LTD.",
+	"licensePeriod": "15/07/2015 to 14/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405235",
+	"address": "BLK 38 TEBAN GARDENS ROAD, #01-318/319 Singapore 600038",
+	"doctorInCharge": [
+		{
+			"name": "JACQUELINE YAM",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Sunday": "09:00 am to 12:00 pm",
+		"Public Holiday": "09:00 am to 12:00 pm"
+	},
+	"id": "9405235",
+	"coordinates": [
+		103.7427876,
+		1.321139
+	],
+	"svy21": [
+		17924.8,
+		33710.54
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

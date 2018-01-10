@@ -1,0 +1,57 @@
+{
+	"name": "W EYE CLINIC",
+	"tel": "63379119",
+	"fax": "63388951",
+	"licensee": "W EYE CLINIC",
+	"licensePeriod": "09/07/2017 to 08/07/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "13C0171",
+	"address": "3 TEMASEK BOULEVARD, SUNTEC CITY MALL, #01-402/403 Singapore 038983",
+	"doctorInCharge": [
+		{
+			"name": "Gerard Nah Kwang Ming",
+			"qualifications": [
+				"MB ChB (University of Aberdeen, United Kingdom) 1993",
+				"D Av Med (Royal Air Force, United Kingdom) 1998",
+				"FRCSEd (Ophth) (Royal College of Surgeons of Edinburgh, United Kingdom) 2000",
+				"M Med (Ophth) (National University of Singapore, Singapore) 2000",
+				"FAMS (Ophth) (Academy of Medicine, Singapore) 2006"
+			],
+			"specialties": [
+				"Aviation Medicine",
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Aviation Medicine",
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "10:00 am to 07:00 pm",
+		"Tuesday": "10:00 am to 07:00 pm",
+		"Wednesday": "10:00 am to 07:00 pm",
+		"Thursday": "10:00 am to 07:00 pm",
+		"Friday": "10:00 am to 07:00 pm",
+		"Saturday": "10:00 am to 02:00 pm"
+	},
+	"id": "13C0171",
+	"coordinates": [
+		103.8590144,
+		1.2959319
+	],
+	"svy21": [
+		30859.72,
+		30923.1
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

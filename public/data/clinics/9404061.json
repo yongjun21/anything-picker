@@ -1,0 +1,55 @@
+{
+	"name": "ISLAND MEDICAL CLINIC",
+	"tel": "62550900",
+	"fax": "62556995",
+	"licensee": "Liu Hao Ming",
+	"licensePeriod": "07/12/2013 to 06/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404061",
+	"address": "55 Newton Road, Revenue House, #02-07 Singapore 307987",
+	"doctorInCharge": [
+		{
+			"name": "TAY KAH PHUAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1989",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Urology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404061",
+	"coordinates": [
+		103.8421548,
+		1.319518
+	],
+	"svy21": [
+		28983.39,
+		33531.12
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

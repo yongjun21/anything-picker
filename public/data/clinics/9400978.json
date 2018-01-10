@@ -1,0 +1,58 @@
+{
+	"name": "LIM CLINIC & SURGERY FOR WOMEN",
+	"tel": "64692160",
+	"fax": "64692417",
+	"licensee": "LIM LOON HAW",
+	"licensePeriod": "27/11/2016 to 26/11/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9400978",
+	"address": "140 UPPER BUKIT TIMAH ROAD, BEAUTY WORLD PLAZA, #02-03 Singapore 588176",
+	"doctorInCharge": [
+		{
+			"name": "LIM LOON HAW",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1975",
+				"M Med (O&G) (National University of Singapore, Singapore) 1983",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1986"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Abortion": true,
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "01:00 pm to 04:30 pm, 05:30 pm to 08:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "01:00 pm to 04:30 pm, 05:30 pm to 08:00 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400978",
+	"coordinates": [
+		103.7762594,
+		1.3418002
+	],
+	"svy21": [
+		21649.93,
+		35995.04
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

@@ -1,0 +1,55 @@
+{
+	"name": "SPINE & ORTHOPAEDIC CENTRE (SINGAPORE)",
+	"tel": "64712642",
+	"fax": "68387389",
+	"licensee": "Joanna Lin",
+	"licensePeriod": "23/10/2016 to 22/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0319",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #03-07 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "Joanna Lin",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1987",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1991",
+				"FAMS (Med Oncology) (Academy of Medicine, Singapore) 1998"
+			],
+			"specialties": [
+				"Medical Oncology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Orthopaedic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "14M0319",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

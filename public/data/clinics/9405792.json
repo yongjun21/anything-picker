@@ -1,0 +1,52 @@
+{
+	"name": "PROHEALTH MEDICAL GROUP @ JURONG WEST PTE LTD",
+	"tel": "65158784",
+	"fax": "65158704",
+	"licensee": "PROHEALTH MEDICAL GROUP @JURONG WEST PTE. LTD.",
+	"licensePeriod": "06/01/2015 to 05/01/2020",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9405792",
+	"address": "BLK 601A JURONG WEST STREET 62, MULTI STOREY CAR PARK, #01-02 Singapore 641601",
+	"doctorInCharge": [
+		{
+			"name": "Choi Sai Wai",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 02:00 pm, 06:00 pm to 11:00 pm",
+		"Tuesday": "08:00 am to 02:00 pm, 06:00 pm to 11:00 pm",
+		"Wednesday": "08:00 am to 02:00 pm, 06:00 pm to 11:00 pm",
+		"Thursday": "08:00 am to 02:00 pm, 06:00 pm to 11:00 pm",
+		"Friday": "08:00 am to 02:00 pm, 06:00 pm to 11:00 pm",
+		"Saturday": "08:00 am to 02:00 pm",
+		"Sunday": "08:00 am to 02:00 pm"
+	},
+	"id": "9405792",
+	"coordinates": [
+		103.6998492,
+		1.3394545
+	],
+	"svy21": [
+		13146.28,
+		35736
+	],
+	"planningArea": "JW",
+	"neighbours": [
+		"BL",
+		"JE",
+		"PN",
+		"TH",
+		"WC"
+	]
+}

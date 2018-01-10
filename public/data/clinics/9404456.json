@@ -1,0 +1,55 @@
+{
+	"name": "BEDOK  CENTRAL CLINIC",
+	"tel": "62424489",
+	"fax": "62418679",
+	"licensee": "Bedok Central Clinic Pte. Ltd.",
+	"licensePeriod": "08/06/2015 to 07/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404456",
+	"address": "BLK 214 BEDOK NORTH STREET 1, #01-161 Singapore 460214",
+	"doctorInCharge": [
+		{
+			"name": "Lai Fui Lin",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1994"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 02:00 pm, 05:30 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 02:00 pm, 05:30 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 02:00 pm, 05:30 pm to 09:00 pm",
+		"Thursday": "09:00 am to 02:00 pm, 05:30 pm to 09:00 pm",
+		"Friday": "09:00 am to 02:00 pm, 05:30 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9404456",
+	"coordinates": [
+		103.932493,
+		1.3258757
+	],
+	"svy21": [
+		39037.12,
+		34234.33
+	],
+	"planningArea": "BD",
+	"neighbours": [
+		"GL",
+		"HG",
+		"MP",
+		"PL",
+		"TM"
+	]
+}

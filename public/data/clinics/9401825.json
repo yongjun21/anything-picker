@@ -1,0 +1,54 @@
+{
+	"name": "UNIVERSAL MEDICAL CLINIC",
+	"tel": "67858887",
+	"fax": "67858887",
+	"licensee": "TAN TEE NGEE",
+	"licensePeriod": "01/04/2016 to 31/03/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401825",
+	"address": "BLK 201E TAMPINES ST 23, #01-104 Singapore 527201",
+	"doctorInCharge": [
+		{
+			"name": "TAN TEE NGEE",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 04:00 pm, 06:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "08:30 am to 12:00 pm"
+	},
+	"id": "9401825",
+	"coordinates": [
+		103.9538583,
+		1.3529216
+	],
+	"svy21": [
+		41414.72,
+		37225.05
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

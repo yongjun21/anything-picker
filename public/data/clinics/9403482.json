@@ -1,0 +1,54 @@
+{
+	"name": "BITES INC",
+	"tel": "67366736",
+	"fax": "67360608",
+	"licensee": "BITES INCORPORATED PTE LTD",
+	"licensePeriod": "13/01/2014 to 12/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403482",
+	"address": "19 Tanglin Road, Tanglin Shopping Centre, #04-15A Singapore 247909",
+	"doctorInCharge": [
+		{
+			"name": "Ong Kheng Kok",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1989",
+				"DGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "09:30 am to 01:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403482",
+	"coordinates": [
+		103.8270506,
+		1.3064027
+	],
+	"svy21": [
+		27302.43,
+		32080.89
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

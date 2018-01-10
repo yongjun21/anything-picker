@@ -1,0 +1,58 @@
+{
+	"name": "NORTHEAST MEDICAL GROUP",
+	"tel": "68755911",
+	"fax": "68755912",
+	"licensee": "NORTHEAST MEDICAL CENTRE PTE. LTD.",
+	"licensePeriod": "12/01/2016 to 03/11/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403463",
+	"address": "5 Sengkang Square, #01-05 Singapore 545062",
+	"doctorInCharge": [
+		{
+			"name": "Chee Boon Ping",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 11:00 pm",
+		"Tuesday": "08:00 am to 11:00 pm",
+		"Wednesday": "08:00 am to 11:00 pm",
+		"Thursday": "08:00 am to 11:00 pm",
+		"Friday": "08:00 am to 11:00 pm",
+		"Saturday": "08:00 am to 11:00 pm",
+		"Sunday": "08:00 am to 11:00 pm"
+	},
+	"id": "9403463",
+	"coordinates": [
+		103.8954847,
+		1.3916946
+	],
+	"svy21": [
+		34918.27,
+		41512.13
+	],
+	"planningArea": "SE",
+	"neighbours": [
+		"AM",
+		"PR",
+		"HG",
+		"PL",
+		"PG",
+		"SL",
+		"SG",
+		"YS"
+	]
+}

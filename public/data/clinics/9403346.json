@@ -1,0 +1,44 @@
+{
+	"name": "TIONG BAHRU MEDICAL CENTRE",
+	"tel": "62727966",
+	"fax": "62787216",
+	"licensee": "TIONG BAHRU MEDICAL CENTRE PTE LTD",
+	"licensePeriod": "03/06/2016 to 02/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9403346",
+	"address": "10 KIM TIAN ROAD, KAI FOOK MANSION, Singapore 169248",
+	"doctorInCharge": [
+		{
+			"name": "TOH CHAN CHEONG RICHARD",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9403346",
+	"coordinates": [
+		103.8292935,
+		1.2850343
+	],
+	"svy21": [
+		27552.05,
+		29718.08
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

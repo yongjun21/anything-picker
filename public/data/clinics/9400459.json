@@ -1,0 +1,40 @@
+{
+	"name": "EASTERN DENTAL SURGERY",
+	"tel": "65619780",
+	"fax": "65619780",
+	"licensee": "PEH GEK YOCK",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400459",
+	"address": "BLK 213 BT BATOK ST 21, #01-217 Singapore 650213",
+	"doctorInCharge": [
+		{
+			"name": "PEH GEK YOCK",
+			"qualifications": [
+				"Dental Therapist Exam (Institute of Dental Health, Singapore) 1978"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9400459",
+	"coordinates": [
+		103.7524969,
+		1.3468185
+	],
+	"svy21": [
+		19005.44,
+		36550.01
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "FULLERTON HEALTHCARE",
+	"tel": "62733366",
+	"fax": "62721049",
+	"licensee": "FULLERTON HEALTHCARE GROUP PTE. LIMITED",
+	"licensePeriod": "15/12/2015 to 14/12/2017",
+	"licenseClass": "[ 2 Years ( 2D ) ]",
+	"hciCode": "9405615",
+	"address": "460 ALEXANDRA ROAD, ALEXANDRA RETAIL CENTRE, #02-18 Singapore 119963",
+	"doctorInCharge": [
+		{
+			"name": "Elton Ong Kong Yiow",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2005"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Yellow Fever Vaccination": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Sunday": "09:00 am to 12:00 pm"
+	},
+	"id": "9405615",
+	"coordinates": [
+		103.8012641,
+		1.2739864
+	],
+	"svy21": [
+		24432.59,
+		28496.49
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

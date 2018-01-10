@@ -1,0 +1,47 @@
+{
+	"name": "DSC CLINIC",
+	"tel": "62939648",
+	"fax": "62994335",
+	"licensee": "NATIONAL SKIN CENTRE (SINGAPORE) PTE LTD",
+	"licensePeriod": "01/10/2015 to 30/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403090",
+	"address": "BLK 31 KELANTAN LANE, #01-16 Singapore 200031",
+	"doctorInCharge": [
+		{
+			"name": "Chio Tze-Wei Martin",
+			"qualifications": [
+				"MB ChB (University of Bristol, United Kingdom) 1997",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 2002",
+				"FAMS (Derm) (Academy of Medicine, Singapore) 2006",
+				"MSc (University of London, United Kingdom) 2007",
+				"FRCP (Royal College of Physicians of London, United Kingdom) 2013"
+			],
+			"specialties": [
+				"Dermatology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Dermatology"
+		]
+	},
+	"id": "9403090",
+	"coordinates": [
+		103.8568268,
+		1.3063037
+	],
+	"svy21": [
+		30616.25,
+		32069.95
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

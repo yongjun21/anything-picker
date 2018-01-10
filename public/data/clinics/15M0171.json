@@ -1,0 +1,55 @@
+{
+	"name": "ONECARE CLINIC BUKIT BATOK",
+	"tel": "65636913",
+	"fax": "62611584",
+	"licensee": "ONECARE CLINIC BUKIT BATOK PTE. LTD.",
+	"licensePeriod": "08/06/2017 to 07/06/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0171",
+	"address": "BLK 630 BUKIT BATOK CENTRAL, #01-148 Singapore 650630",
+	"doctorInCharge": [
+		{
+			"name": "Lim Kay Hui",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2005"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm",
+		"Tuesday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm",
+		"Wednesday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm",
+		"Thursday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm",
+		"Friday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm",
+		"Saturday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm",
+		"Sunday": "08:00 am to 04:00 pm, 05:00 pm to 10:00 pm"
+	},
+	"id": "15M0171",
+	"coordinates": [
+		103.7499149,
+		1.3500877
+	],
+	"svy21": [
+		18718.11,
+		36911.52
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

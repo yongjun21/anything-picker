@@ -1,0 +1,53 @@
+{
+	"name": "FOCUS MEDICAL CENTRE",
+	"tel": "67692822",
+	"fax": "67692822",
+	"licensee": "FONG CHEE HONG DAVID",
+	"licensePeriod": "16/03/2015 to 15/03/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400534",
+	"address": "BLK 137 TECK WHYE LANE, TECK WHYE SHOPPING CENTRE, #01-329 Singapore 680137",
+	"doctorInCharge": [
+		{
+			"name": "FONG CHEE HONG DAVID",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm, 07:00 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm, 07:00 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm, 07:00 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm, 07:00 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 02:30 pm to 05:00 pm, 07:00 pm to 08:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9400534",
+	"coordinates": [
+		103.7524838,
+		1.3800475
+	],
+	"svy21": [
+		19004.11,
+		40224.31
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

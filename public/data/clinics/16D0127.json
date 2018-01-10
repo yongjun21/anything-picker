@@ -1,0 +1,43 @@
+{
+	"name": "KONG DENTAL SURGERY",
+	"tel": "67679502",
+	"fax": "67679502",
+	"licensee": "KONG DENTAL (SUNSHINE) PTE. LTD.",
+	"licensePeriod": "09/05/2016 to 08/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0127",
+	"address": "BLK 475 CHOA CHU KANG AVENUE 3, SUNSHINE PLACE, #02-06 Singapore 680475",
+	"doctorInCharge": [
+		{
+			"name": "Kong Sing Huey",
+			"qualifications": [
+				"BDS (Queen's University of Belfast, United Kingdom) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics"
+		]
+	},
+	"id": "16D0127",
+	"coordinates": [
+		103.7390155,
+		1.3778973
+	],
+	"svy21": [
+		17505.24,
+		39986.6
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

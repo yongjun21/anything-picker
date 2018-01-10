@@ -1,0 +1,40 @@
+{
+	"name": "ST LUKE'S DENTAL CLINIC",
+	"tel": "65632281",
+	"fax": "65695487",
+	"licensee": "ST LUKE'S HOSPITAL",
+	"licensePeriod": "14/10/2016 to 13/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16D0316",
+	"address": "2 BUKIT BATOK STREET 11, Singapore 659674",
+	"doctorInCharge": [
+		{
+			"name": "Goh Siew Hor",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2008"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "16D0316",
+	"coordinates": [
+		103.7421824,
+		1.3496004
+	],
+	"svy21": [
+		17857.55,
+		36857.66
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

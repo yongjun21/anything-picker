@@ -1,0 +1,49 @@
+{
+	"name": "DR CHAN CLINIC PTE LTD",
+	"tel": "62882340",
+	"fax": "62882340",
+	"licensee": "Dr Chan Clinic Pte. Ltd.",
+	"licensePeriod": "06/07/2015 to 05/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404488",
+	"address": "BLK 212 Hougang Street 21, #01-327 Singapore 530212",
+	"doctorInCharge": [
+		{
+			"name": "CHAN KUM MUN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "02:00 pm to 04:30 pm",
+		"Tuesday": "02:00 pm to 04:30 pm",
+		"Wednesday": "02:00 pm to 04:30 pm",
+		"Thursday": "02:00 pm to 04:30 pm",
+		"Friday": "08:30 am to 12:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "08:30 am to 12:00 pm"
+	},
+	"id": "9404488",
+	"coordinates": [
+		103.88834,
+		1.3595209
+	],
+	"svy21": [
+		34123.25,
+		37954.5
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

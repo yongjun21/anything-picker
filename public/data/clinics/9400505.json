@@ -1,0 +1,52 @@
+{
+	"name": "F K LIM FAMILY CLINIC",
+	"tel": "67860201",
+	"fax": "67860201",
+	"licensee": "LIM FANG KIAT COLIN",
+	"licensePeriod": "01/09/2014 to 31/08/2019",
+	"licenseClass": "[ 5 Years ( 2D ) ]",
+	"hciCode": "9400505",
+	"address": "BLK 267 TAMPINES ST 21, #01-43 Singapore 520267",
+	"doctorInCharge": [
+		{
+			"name": "LIM FANG KIAT COLIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1989"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:15 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "08:15 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "08:15 am to 12:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "08:15 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "08:15 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9400505",
+	"coordinates": [
+		103.9492592,
+		1.3507728
+	],
+	"svy21": [
+		40902.9,
+		36987.42
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

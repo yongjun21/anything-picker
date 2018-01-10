@@ -1,0 +1,59 @@
+{
+	"name": "APEX HEART CLINIC",
+	"tel": "64797928",
+	"fax": "64750568",
+	"licensee": "APEX CARDIOLOGY PTE. LTD.",
+	"licensePeriod": "23/12/2015 to 22/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13M0352",
+	"address": "6A NAPIER ROAD, GLENEAGLES HOSPITAL ANNEXE BLOCK, #04-37 Singapore 258500",
+	"doctorInCharge": [
+		{
+			"name": "Yeo Poh Shuan Daniel",
+			"qualifications": [
+				"MBBS (University of Western Australia, Australia) 1999",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 2004",
+				"FAMS (Cardiology) (Academy of Medicine, Singapore) 2008",
+				"Testamur (ASCeXAM) (The National Board of Echocardiography, United States) 2009",
+				"FRCP (Royal College of Physicians of Edinburgh, United Kingdom) 2011",
+				"Diplomate (ASCeXAM) (The National Board of Echocardiography, United States) 2012",
+				"FACC (American College of Cardiology, United States) 2013"
+			],
+			"specialties": [
+				"Cardiology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Cardiology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13M0352",
+	"coordinates": [
+		103.819605,
+		1.3074279
+	],
+	"svy21": [
+		26473.81,
+		32194.26
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

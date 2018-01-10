@@ -1,0 +1,55 @@
+{
+	"name": "NEUA DENTAL",
+	"tel": "62500128",
+	"fax": "62500128",
+	"licensee": "NEUA DENTAL PRIVATE LIMITED",
+	"licensePeriod": "02/06/2017 to 01/06/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "15D0161",
+	"address": "321 ALEXANDRA ROAD, ALEXANDRA CENTRAL, #02-17 Singapore 159971",
+	"doctorInCharge": [
+		{
+			"name": "Mah Kuan Seet Michael",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 2002",
+				"MDS (Orthodontics) (Singapore) (National University of Singapore, Singapore) 2007",
+				"M Orth RCS (Edinburgh) (Royal College of Surgeons of Edinburgh, United Kingdom) 2009",
+				"FAMS (Orthodontics) (Academy of Medicine, Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Orthodontics"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 06:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "15D0161",
+	"coordinates": [
+		103.8052834,
+		1.2872832
+	],
+	"svy21": [
+		24879.92,
+		29966.77
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

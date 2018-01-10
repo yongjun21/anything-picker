@@ -1,0 +1,46 @@
+{
+	"name": "PHYSICIANS PRACTICE FAMILY MEDICAL CENTER",
+	"tel": "62548182",
+	"fax": "62557837",
+	"licensee": "PHYSICIANS PRACTICE PTE. LTD.",
+	"licensePeriod": "26/05/2017 to 25/05/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17M0155",
+	"address": "101 THOMSON ROAD, UNITED SQUARE, #01-17 Singapore 307591",
+	"doctorInCharge": [
+		{
+			"name": "Lai Yirong",
+			"qualifications": [
+				"MBBS (University of Melbourne, Australia) 2006"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "17M0155",
+	"coordinates": [
+		103.8436114,
+		1.3171945
+	],
+	"svy21": [
+		29145.5,
+		33274.2
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

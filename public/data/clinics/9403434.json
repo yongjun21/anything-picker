@@ -1,0 +1,55 @@
+{
+	"name": "SINGAPORE KNEE, SPORTS AND ORTHOPAEDIC CLINIC",
+	"tel": "64712642",
+	"fax": "64712632",
+	"licensee": "YIP MAN HING KEVIN",
+	"licensePeriod": "14/06/2017 to 13/06/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403434",
+	"address": "6 NAPIER ROAD, GLENEAGLES MEDICAL CENTRE, #03-07 Singapore 258499",
+	"doctorInCharge": [
+		{
+			"name": "YIP MAN HING KEVIN",
+			"qualifications": [
+				"MBBS (University of London, United Kingdom) 1986",
+				"FRCS (Orth Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1990",
+				"FHKCOS (Hong Kong College of Orthopaedic Surgeons, China, Hong Kong) 1993",
+				"FAMS (Orth Surg) (Academy of Medicine, Singapore) 1998"
+			],
+			"specialties": [
+				"Orthopaedic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Orthopaedic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9403434",
+	"coordinates": [
+		103.8201245,
+		1.3070616
+	],
+	"svy21": [
+		26531.62,
+		32153.75
+	],
+	"planningArea": "TN",
+	"neighbours": [
+		"BM",
+		"BT",
+		"NV",
+		"QT",
+		"CA"
+	]
+}

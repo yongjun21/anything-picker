@@ -1,0 +1,42 @@
+{
+	"name": "PACIFIC MEDICAL CLINIC",
+	"tel": "66845386",
+	"fax": "68836956",
+	"licensee": "PACIFIC HEALTHCARE SPECIALIST SERVICES PTE. LTD.",
+	"licensePeriod": "25/10/2016 to 24/10/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0334",
+	"address": "BLK 887 WOODLANDS DRIVE 50, #01-01 Singapore 730887",
+	"doctorInCharge": [
+		{
+			"name": "Ko Kean Chee Alwyn",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "16M0334",
+	"coordinates": [
+		103.7946982,
+		1.4375527
+	],
+	"svy21": [
+		23702.14,
+		46582.82
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"name": "BANYAN CLINIC PTE LTD.",
+	"tel": "63652001",
+	"fax": "63658525",
+	"licensee": "Banyan Clinic Pte. Ltd.",
+	"licensePeriod": "28/12/2013 to 27/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402787",
+	"address": "BLK 768 Woodlands Avenue 6, Woodlands Mart, #02-04 Singapore 730768",
+	"doctorInCharge": [
+		{
+			"name": "Fong Chung Ming",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "08:30 am to 01:30 pm"
+	},
+	"id": "9402787",
+	"coordinates": [
+		103.798141,
+		1.4456229
+	],
+	"svy21": [
+		24085.29,
+		47475.18
+	],
+	"planningArea": "WD",
+	"neighbours": [
+		"MD",
+		"SB",
+		"SK"
+	]
+}

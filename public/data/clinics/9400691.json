@@ -1,0 +1,53 @@
+{
+	"name": "HONG ASSOCIATES CLINIC",
+	"tel": "62702233",
+	"fax": "62702708",
+	"licensee": "HONG CHEE BOO ALLAN",
+	"licensePeriod": "01/01/2017 to 31/12/2017",
+	"licenseClass": "[ 1 Year ( 1C ) ]",
+	"hciCode": "9400691",
+	"address": "BLK 111 JLN BUKIT MERAH, #01-1682 Singapore 160111",
+	"doctorInCharge": [
+		{
+			"name": "HONG CHEE BOO ALLAN",
+			"qualifications": [
+				"MBBS (University of Sydney, Australia) 1968"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "08:30 am to 12:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400691",
+	"coordinates": [
+		103.8261859,
+		1.2803211
+	],
+	"svy21": [
+		27206.19,
+		29196.93
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

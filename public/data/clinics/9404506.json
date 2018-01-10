@@ -1,0 +1,56 @@
+{
+	"name": "BOEY MEE LENG RHEUMATOLOGY & MEDICAL CLINIC PTE LTD",
+	"tel": "67372366",
+	"fax": "62354700",
+	"licensee": "Boey Mee Leng Rheumatology & Medical Clinic Pte. Ltd.",
+	"licensePeriod": "01/10/2015 to 30/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404506",
+	"address": "3 Mount Elizabeth, Mount Elizabeth Medical Centre, #13-05 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Boey Mee Leng",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1975",
+				"M Med (Int Med) (National University of Singapore, Singapore) 1980",
+				"FAMS (Rheumatology) (Academy of Medicine, Singapore) 1985",
+				"MD (National University of Singapore, Singapore) 1995",
+				"FRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1997"
+			],
+			"specialties": [
+				"Rheumatology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Rheumatology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm"
+	},
+	"id": "9404506",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

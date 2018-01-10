@@ -1,0 +1,58 @@
+{
+	"name": "SMILE INC. DENTAL SURGEONS",
+	"tel": "96373246",
+	"fax": "62222900",
+	"licensee": "SMILE INC DENTAL SURGEONS PTE LTD",
+	"licensePeriod": "27/02/2017 to 26/02/2018",
+	"licenseClass": "[ 1 Year ( 2D ) ]",
+	"hciCode": "13C0040",
+	"address": "2 MARINA BOULEVARD, THE SAIL @ MARINA BAY, #01-02 Singapore 018987",
+	"doctorInCharge": [
+		{
+			"name": "TAN SEK HO",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1991",
+				"MSc (University of London, United Kingdom) 1994"
+			],
+			"specialties": [
+				"Prosthodontics"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm"
+	},
+	"id": "13C0040",
+	"coordinates": [
+		103.8526586,
+		1.2807694
+	],
+	"svy21": [
+		30152.38,
+		29246.5
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

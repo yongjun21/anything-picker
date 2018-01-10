@@ -1,0 +1,58 @@
+{
+	"name": "AMERICAN INTERNATIONAL CLINIC PTE LTD",
+	"tel": "63977129",
+	"fax": "63977109",
+	"licensee": "American International Clinic Pte Ltd",
+	"licensePeriod": "21/01/2015 to 20/01/2020",
+	"licenseClass": "[ 5 Years ( 2A ) ]",
+	"hciCode": "9405079",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTER, #10-09/10 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Paul Edward Zakowich",
+			"qualifications": [
+				"MD (New York Medical College, United States) 1977",
+				"Board Cert (Int Med) (American Board of Internal Medicine, United States) 1981",
+				"FAMS (Academy of Medicine, Singapore) 1989"
+			],
+			"specialties": [
+				"Internal Medicine"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"General Surgery",
+			"Internal Medicine",
+			"Obstetrics & Gynaecology",
+			"Urology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405079",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

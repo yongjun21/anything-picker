@@ -1,0 +1,56 @@
+{
+	"name": "THERESA WOMEN'S CLINIC",
+	"tel": "67322282",
+	"fax": "67342926",
+	"licensee": "CHENG THERESA",
+	"licensePeriod": "02/02/2014 to 01/02/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402254",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #15-06/07 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "CHENG THERESA",
+			"qualifications": [
+				"MBBS (University of Hong Kong, China, Hong Kong) 1978",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1984",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1989",
+				"FRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 2001"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Obstetrics & Gynaecology"
+		]
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 05:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9402254",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

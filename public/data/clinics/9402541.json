@@ -1,0 +1,57 @@
+{
+	"name": "SHIFA CLINIC & SURGERY",
+	"tel": "62957667",
+	"fax": "62957668",
+	"licensee": "SHIFA CLINIC PTE. LTD.",
+	"licensePeriod": "18/04/2017 to 17/04/2022",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402541",
+	"address": "BLK 668 CHANDER RD, #01-18/20 Singapore 210668",
+	"doctorInCharge": [
+		{
+			"name": "MOHAMED GHAZALI",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"Dip OM (National University of Singapore, Singapore) 1999",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Sunday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm"
+	},
+	"id": "9402541",
+	"coordinates": [
+		103.8514782,
+		1.3075812
+	],
+	"svy21": [
+		30021,
+		32211.22
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

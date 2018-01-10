@@ -1,0 +1,55 @@
+{
+	"name": "DAYSPRING MEDICAL CLINIC (TAMPINES)",
+	"tel": "67890123",
+	"fax": "67860103",
+	"licensee": "DAYSPRING MEDICAL CLINIC (TAMPINES) PTE. LTD.",
+	"licensePeriod": "07/08/2015 to 06/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405267",
+	"address": "2 TAMPINES CENTRAL 5, CENTURY SQUARE, #B1-24 Singapore 529509",
+	"doctorInCharge": [
+		{
+			"name": "CHEN LISA",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1996",
+				"Dip OM (National University of Singapore, Singapore) 2011"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm, 06:00 pm to 09:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405267",
+	"coordinates": [
+		103.9438123,
+		1.3523683
+	],
+	"svy21": [
+		40296.71,
+		37163.81
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"name": "Y C LEE CLINIC",
+	"tel": "65358833",
+	"fax": "67333098",
+	"licensee": "LEE YEE CHUN",
+	"licensePeriod": "20/10/2015 to 19/10/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405341",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #12-08 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "LEE YEE CHUN",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1969",
+				"M Med (Gen Surg) (National University of Singapore, Singapore) 1973",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1973",
+				"FRACS (Gen Surg) (Royal Australasian College of Surgeons, Australia) 1973",
+				"FAMS (Gen Surg) (Academy of Medicine, Singapore) 1975"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405341",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

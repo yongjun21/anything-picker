@@ -1,0 +1,57 @@
+{
+	"name": "WESTERN DIGITAL - NKF DIALYSIS CENTRE",
+	"tel": "62990200",
+	"fax": "65521697",
+	"licensee": "THE NATIONAL KIDNEY FOUNDATION",
+	"licensePeriod": "18/05/2017 to 17/05/2019",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9402483",
+	"address": "BLK 633 ANG MO KIO AVE 6, #01-5155 Singapore 560633",
+	"doctorInCharge": [
+		{
+			"name": "Mooppil Nanda Kumar",
+			"qualifications": [
+				"MBBS (University of Kerala, India) 1975",
+				"MRCP (UK) (Royal College of Physicians, United Kingdom) 1989"
+			],
+			"specialties": [
+				"Renal Medicine"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Renal Dialysis"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Renal Medicine"
+		]
+	},
+	"operatingHours": {
+		"Monday": "07:00 am to 11:00 pm",
+		"Tuesday": "07:00 am to 11:00 pm",
+		"Wednesday": "07:00 am to 11:00 pm",
+		"Thursday": "07:00 am to 11:00 pm",
+		"Friday": "07:00 am to 11:00 pm",
+		"Saturday": "07:00 am to 11:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9402483",
+	"coordinates": [
+		103.8422512,
+		1.3812061
+	],
+	"svy21": [
+		28994.09,
+		40352.27
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "URBAN DENTAL LONDON",
+	"tel": "65382741",
+	"fax": "63462013",
+	"licensee": "URBAN DENTAL (LONDON) PTE. LTD.",
+	"licensePeriod": "29/11/2015 to 28/11/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "13D0335",
+	"address": "133 NEW BRIDGE ROAD, CHINATOWN POINT, #03-17 Singapore 059413",
+	"doctorInCharge": [
+		{
+			"name": "SEOW KOK SIAM JOSEPH",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13D0335",
+	"coordinates": [
+		103.8446971,
+		1.2849988
+	],
+	"svy21": [
+		29266.33,
+		29714.16
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"name": "BUKIT BATOK DENTAL SURGERY PTE LTD",
+	"tel": "65603311",
+	"fax": "65630966",
+	"licensee": "CHAN THIAN SANG",
+	"licensePeriod": "01/01/2016 to 31/12/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400136",
+	"address": "BLK 207 BT BATOK ST 21, #01-114 Singapore 650207",
+	"doctorInCharge": [
+		{
+			"name": "CHAN THIAN SANG",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400136",
+	"coordinates": [
+		103.7493822,
+		1.3462487
+	],
+	"svy21": [
+		18658.8,
+		36487.01
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

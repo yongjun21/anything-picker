@@ -1,0 +1,55 @@
+{
+	"name": "SHENTON MEDICAL GROUP",
+	"tel": "66345620",
+	"fax": "66345063",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "21/09/2015 to 20/09/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405789",
+	"address": "8A MARINA BOULEVARD, MARINA BAY LINK MALL, #B2-76 Singapore 018984",
+	"doctorInCharge": [
+		{
+			"name": "Gan Theng Yeow Daniel",
+			"qualifications": [
+				"MB BCh (National University of Ireland, Ireland) 1997"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 02:00 pm to 05:30 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "9405789",
+	"coordinates": [
+		103.8533493,
+		1.2802277
+	],
+	"svy21": [
+		30229.26,
+		29186.6
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "FIRSTHEALTH CLINIC & SURGERY",
+	"tel": "66944981",
+	"fax": "66944982",
+	"licensee": "FIRSTHEALTH CLINIC AND SURGERY",
+	"licensePeriod": "12/09/2016 to 11/09/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0279",
+	"address": "BLK 126 KIM TIAN ROAD, MULTI STOREY CAR PARK, #01-04 Singapore 160126",
+	"doctorInCharge": [
+		{
+			"name": "YONG WEI LIK ALVIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2003"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 01:00 pm, 06:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 01:00 pm, 06:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 01:00 pm, 06:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 01:00 pm, 06:00 pm to 09:30 pm",
+		"Friday": "08:30 am to 01:00 pm, 06:00 pm to 09:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "09:00 am to 01:00 pm, 06:00 pm to 09:30 pm"
+	},
+	"id": "14M0279",
+	"coordinates": [
+		103.82947,
+		1.2825347
+	],
+	"svy21": [
+		27571.69,
+		29441.69
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

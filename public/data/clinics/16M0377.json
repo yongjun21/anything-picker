@@ -1,0 +1,44 @@
+{
+	"name": "MEDIWAY MEDICAL CENTRE",
+	"tel": "69090190",
+	"fax": "69090189",
+	"licensee": "MEDIWAY PTE. LTD.",
+	"licensePeriod": "14/12/2016 to 13/12/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0377",
+	"address": "1 SOPHIA ROAD, PEACE CENTRE, #04-21 Singapore 228149",
+	"doctorInCharge": [
+		{
+			"name": "Teo Kok Pong",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1973",
+				"MRCOG (Royal College of Obstetricians and Gynaecologists, United Kingdom) 1984",
+				"M Med (O&G) (National University of Singapore, Singapore) 1984",
+				"FAMS (O&G) (Academy of Medicine, Singapore) 1997"
+			],
+			"specialties": [
+				"Obstetrics & Gynaecology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0377",
+	"coordinates": [
+		103.8491763,
+		1.3010705
+	],
+	"svy21": [
+		29764.82,
+		31491.29
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

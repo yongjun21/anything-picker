@@ -1,0 +1,52 @@
+{
+	"name": "FEM SURGERY @ ORCHARD",
+	"tel": "67333383",
+	"fax": "67332955",
+	"licensee": "FEM SURGERY PTE. LTD.",
+	"licensePeriod": "19/11/2016 to 18/11/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "12C0250",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #05-02 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Felicia Tan Li Sher",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2002",
+				"M Med (Surg) (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": [
+				"General Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"General Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "12C0250",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

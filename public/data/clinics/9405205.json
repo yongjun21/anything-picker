@@ -1,0 +1,55 @@
+{
+	"name": "JOASH FAMILY CLINIC & SURGERY",
+	"tel": "62827371",
+	"fax": "62827371",
+	"licensee": "Peter Lim Khoon Boon",
+	"licensePeriod": "09/06/2015 to 08/06/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405205",
+	"address": "BLK 1030 UPPER SERANGOON ROAD, Singapore 534767",
+	"doctorInCharge": [
+		{
+			"name": "Peter Lim Khoon Boon",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1992"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Tuesday": "09:00 am to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Wednesday": "09:00 am to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Thursday": "09:00 am to 04:00 pm, 06:30 pm to 09:30 pm",
+		"Friday": "09:00 am to 04:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "09:00 am to 01:00 pm"
+	},
+	"id": "9405205",
+	"coordinates": [
+		103.8885369,
+		1.3629811
+	],
+	"svy21": [
+		34145.15,
+		38337.12
+	],
+	"planningArea": "HG",
+	"neighbours": [
+		"BD",
+		"GL",
+		"PL",
+		"SE",
+		"SG",
+		"TP"
+	]
+}

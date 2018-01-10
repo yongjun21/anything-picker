@@ -1,0 +1,56 @@
+{
+	"name": "THE HEALER CLINIC + SURGERY",
+	"tel": "62859866",
+	"fax": "68585006",
+	"licensee": "LING CHUEN",
+	"licensePeriod": "21/11/2014 to 20/11/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404276",
+	"address": "BLK 154 SERANGOON NORTH AVENUE 1, #01-452 Singapore 550154",
+	"doctorInCharge": [
+		{
+			"name": "LING CHUEN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2006"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 12:30 pm, 02:15 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:15 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:15 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:15 pm to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Friday": "09:00 am to 12:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:30 pm"
+	},
+	"id": "9404276",
+	"coordinates": [
+		103.8731155,
+		1.3701298
+	],
+	"svy21": [
+		32428.92,
+		39127.55
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

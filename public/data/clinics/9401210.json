@@ -1,0 +1,48 @@
+{
+	"name": "OLIVER DENTAL SURGERY P L",
+	"tel": "63453125",
+	"fax": "63442116",
+	"licensee": "OLIVER HENNEDIGE",
+	"licensePeriod": "12/01/2016 to 11/01/2021",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401210",
+	"address": "242 TANJONG KATONG RD, Singapore 437030",
+	"doctorInCharge": [
+		{
+			"name": "OLIVER HENNEDIGE",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1969"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "08:30 am to 06:00 pm",
+		"Tuesday": "08:30 am to 06:00 pm",
+		"Wednesday": "08:30 am to 07:30 pm",
+		"Friday": "08:30 am to 07:30 pm",
+		"Thursday": "08:30 am to 06:00 pm",
+		"Saturday": "08:30 am to 03:30 pm",
+		"Sunday": "08:30 am to 12:30 pm"
+	},
+	"id": "9401210",
+	"coordinates": [
+		103.8955629,
+		1.3065439
+	],
+	"svy21": [
+		34927.22,
+		32096.59
+	],
+	"planningArea": "MP",
+	"neighbours": [
+		"BD",
+		"GL",
+		"KL",
+		"CA"
+	]
+}

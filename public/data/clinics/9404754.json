@@ -1,0 +1,46 @@
+{
+	"name": "DENTAL CLINIC",
+	"tel": "64655837",
+	"fax": "64655837",
+	"licensee": "Health Promotion Board",
+	"licensePeriod": "05/03/2014 to 04/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404754",
+	"address": "36 BUKIT PANJANG RING ROAD, BEACON PRIMARY SCHOOL, Singapore 679944",
+	"doctorInCharge": [
+		{
+			"name": "Tham Sai Soo",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1976"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "08:00 am to 05:30 pm",
+		"Tuesday": "08:00 am to 05:30 pm",
+		"Wednesday": "08:00 am to 05:30 pm",
+		"Thursday": "08:00 am to 05:30 pm",
+		"Friday": "08:00 am to 05:00 pm"
+	},
+	"id": "9404754",
+	"coordinates": [
+		103.7736319,
+		1.3839493
+	],
+	"svy21": [
+		21357.64,
+		40655.69
+	],
+	"planningArea": "BP",
+	"neighbours": [
+		"BK",
+		"BT",
+		"CC",
+		"SK",
+		"CK"
+	]
+}

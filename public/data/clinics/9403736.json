@@ -1,0 +1,55 @@
+{
+	"name": "MEDICAL CLINIC ONE",
+	"tel": "67388868",
+	"fax": "67366637",
+	"licensee": "GUAN RICHARD ROBERT",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403736",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #17-02 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "GUAN RICHARD ROBERT",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1973",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1979",
+				"FAMS (Gastroenterology) (Academy of Medicine, Singapore) 1983",
+				"FRCP (Int Med) (Royal College of Physicians of Edinburgh, United Kingdom) 1990",
+				"FRCP (Int Med) (Royal College of Physicians of London, United Kingdom) 1992"
+			],
+			"specialties": [
+				"Gastroenterology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Gastroenterology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9403736",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

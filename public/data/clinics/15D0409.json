@@ -1,0 +1,46 @@
+{
+	"name": "TS TAN DENTAL SURGERY PTE. LTD.",
+	"tel": "62889508",
+	"fax": "62883357",
+	"licensee": "TS TAN DENTAL SURGERY PTE. LTD.",
+	"licensePeriod": "30/11/2015 to 29/11/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0409",
+	"address": "BLK 237 SERANGOON AVENUE 3, #01-124 Singapore 550237",
+	"doctorInCharge": [
+		{
+			"name": "Tan Ter Shian",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1988"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 06:00 pm"
+	},
+	"id": "15D0409",
+	"coordinates": [
+		103.8701346,
+		1.353812
+	],
+	"svy21": [
+		32097.2,
+		37323.2
+	],
+	"planningArea": "SG",
+	"neighbours": [
+		"AM",
+		"BS",
+		"HG",
+		"SE",
+		"TP"
+	]
+}

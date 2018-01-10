@@ -1,0 +1,50 @@
+{
+	"name": "ACCORD DENTAL CLINIC",
+	"tel": "65821368",
+	"fax": "65821368",
+	"licensee": "TOH JOO HUA",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400016",
+	"address": "BLK 442 PASIR RIS DR 6, #01-26 Singapore 510442",
+	"doctorInCharge": [
+		{
+			"name": "TOH JOO HUA",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983",
+				"MFGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:15 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Tuesday": "07:00 pm to 09:00 pm",
+		"Wednesday": "09:15 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Thursday": "07:00 pm to 09:00 pm",
+		"Friday": "09:15 am to 12:30 pm, 02:00 pm to 04:00 pm",
+		"Saturday": "09:15 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400016",
+	"coordinates": [
+		103.9579517,
+		1.3689329
+	],
+	"svy21": [
+		41870.18,
+		38995.52
+	],
+	"planningArea": "PR",
+	"neighbours": [
+		"PL",
+		"PG",
+		"SE",
+		"CH",
+		"TM"
+	]
+}

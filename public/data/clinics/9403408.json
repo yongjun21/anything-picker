@@ -1,0 +1,55 @@
+{
+	"name": "EYE CARE CLINIC BISHAN",
+	"tel": "63526888",
+	"fax": "67361723",
+	"licensee": "EYE CARE CLINIC PTE LTD",
+	"licensePeriod": "15/08/2015 to 14/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9403408",
+	"address": "BLK 501 BISHAN ST 11, #01-376 Singapore 570501",
+	"doctorInCharge": [
+		{
+			"name": "HO KEE WAI TONY",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"FRCS (Ophth) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1988",
+				"FRCOphth (Royal College of Ophthalmologists, United Kingdom) 1988",
+				"FAMS (Ophth) (Academy of Medicine, Singapore) 1992"
+			],
+			"specialties": [
+				"Ophthalmology"
+			]
+		}
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Ophthalmology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 11:00 am",
+		"Wednesday": "09:00 am to 11:00 am",
+		"Tuesday": "01:30 pm to 03:00 pm",
+		"Thursday": "02:00 pm to 04:00 pm",
+		"Friday": "Closed",
+		"Saturday": "08:30 am to 10:30 am",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9403408",
+	"coordinates": [
+		103.8490773,
+		1.3484169
+	],
+	"svy21": [
+		29753.77,
+		36726.61
+	],
+	"planningArea": "BS",
+	"neighbours": [
+		"AM",
+		"SG",
+		"CC",
+		"TP"
+	]
+}

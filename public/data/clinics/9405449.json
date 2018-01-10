@@ -1,0 +1,51 @@
+{
+	"name": "HO MEDICAL CLINIC",
+	"tel": "65358678",
+	"fax": "65324429",
+	"licensee": "Ho Kah Nang",
+	"licensePeriod": "18/01/2014 to 17/01/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405449",
+	"address": "101 UPPER CROSS ST, PEOPLE'S PARK CTR, #03-09 Singapore 058357",
+	"doctorInCharge": [
+		{
+			"name": "Ho Kah Nang",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 05:30 pm",
+		"Tuesday": "09:00 am to 05:30 pm",
+		"Wednesday": "09:00 am to 05:30 pm",
+		"Thursday": "09:00 am to 05:30 pm",
+		"Friday": "09:00 am to 05:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9405449",
+	"coordinates": [
+		103.8439801,
+		1.2857701
+	],
+	"svy21": [
+		29186.54,
+		29799.45
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

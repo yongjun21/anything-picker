@@ -1,0 +1,58 @@
+{
+	"name": "PINNACLE SPINE & SCOLIOSIS CENTRE",
+	"tel": "67370680",
+	"fax": "67370522",
+	"licensee": "Hee Hwan Tak",
+	"licensePeriod": "24/06/2017 to 23/06/2019",
+	"licenseClass": "[ 2 Years ( 2B ) ]",
+	"hciCode": "13C0154",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #04-07 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Hee Hwan Tak",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"FRCSEd (Gen Surg) (Royal College of Surgeons of Edinburgh, United Kingdom) 1995",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1995",
+				"FAMS (Academy of Medicine, Singapore) 2000"
+			],
+			"specialties": [
+				"Orthopaedic Surgery"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Diagnostic Radiology",
+			"Orthopaedic Surgery"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Thursday": "08:30 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Friday": "08:30 am to 12:30 pm, 01:30 pm to 05:30 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "13C0154",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

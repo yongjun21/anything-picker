@@ -1,0 +1,49 @@
+{
+	"name": "DRS KOO & NEOH MEDICAL GROUP",
+	"tel": "62142142",
+	"fax": "62142143",
+	"licensee": "DRS KOO & NEOH MEDICAL GROUP PTE LTD",
+	"licensePeriod": "17/01/2016 to 16/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0026",
+	"address": "61 CHOA CHU KANG DRIVE, YEW TEE MRT STATION, #02-01 Singapore 689715",
+	"doctorInCharge": [
+		{
+			"name": "Ng Sim Yang",
+			"qualifications": [
+				"MBBS (University of New South Wales, Australia) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Friday": "08:30 am to 12:00 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "08:30 am to 12:30 pm"
+	},
+	"id": "16M0026",
+	"coordinates": [
+		103.7474051,
+		1.397535
+	],
+	"svy21": [
+		18438.98,
+		42158.01
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}

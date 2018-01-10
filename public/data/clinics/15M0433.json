@@ -1,0 +1,48 @@
+{
+	"name": "WATERWAY MEDICAL CLINIC & AESTHETICS",
+	"tel": "64814663",
+	"fax": "64818933",
+	"licensee": "WATERWAY MEDICAL PTE. LTD.",
+	"licensePeriod": "23/12/2015 to 22/12/2017",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15M0433",
+	"address": "BLK 665A PUNGGOL DRIVE, #01-02 Singapore 821665",
+	"doctorInCharge": [
+		{
+			"name": "Tan Chor Yew Allan",
+			"qualifications": [
+				"MB BCh BAO (University College Cork, National University of Ireland, Ireland) 2010"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Christmas Day (25/12/2017)": "Closed",
+		"New Year (01/01/2018)": "Closed",
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Saturday": "Closed",
+		"Sunday": "Closed"
+	},
+	"id": "15M0433",
+	"coordinates": [
+		103.9135785,
+		1.4021277
+	],
+	"svy21": [
+		36931.84,
+		42665.83
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

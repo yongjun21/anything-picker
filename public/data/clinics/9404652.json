@@ -1,0 +1,55 @@
+{
+	"name": "HUAN CLINIC",
+	"tel": "65357628",
+	"fax": "65340396",
+	"licensee": "HUAN MENG WAH",
+	"licensePeriod": "18/12/2013 to 17/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404652",
+	"address": "BLK 51 CHIN SWEE ROAD, #03-111 Singapore 160051",
+	"doctorInCharge": [
+		{
+			"name": "HUAN MENG WAH",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1988",
+				"GDMH (National University of Singapore, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 04:00 pm",
+		"Tuesday": "09:00 am to 04:00 pm",
+		"Wednesday": "09:00 am to 04:00 pm",
+		"Thursday": "09:00 am to 04:00 pm",
+		"Friday": "09:00 am to 04:00 pm",
+		"Saturday": "09:00 am to 12:00 pm"
+	},
+	"id": "9404652",
+	"coordinates": [
+		103.8420298,
+		1.287403
+	],
+	"svy21": [
+		28969.48,
+		29980
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

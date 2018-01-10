@@ -1,0 +1,39 @@
+{
+	"name": "ORCHARD DENTAL SURGERY",
+	"tel": "62353355",
+	"fax": "67333106",
+	"licensee": "Koh Shuh Jen",
+	"licensePeriod": "12/05/2014 to 11/05/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401244",
+	"address": "150 Orchard Road, Orchard Plaza, #04-41 Singapore 238841",
+	"doctorInCharge": [
+		{
+			"name": "Koh Shuh Jen",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1983"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "9401244",
+	"coordinates": [
+		103.8411501,
+		1.3012573
+	],
+	"svy21": [
+		28871.58,
+		31511.94
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

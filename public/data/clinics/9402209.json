@@ -1,0 +1,55 @@
+{
+	"name": "A. B. JOHN EAR, NOSE & THROAT CLINIC & SURGERY",
+	"tel": "67359654",
+	"fax": "67375912",
+	"licensee": "ALLUMOOTIL BENJAMIN JOHN",
+	"licensePeriod": "02/02/2016 to 01/02/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9402209",
+	"address": "3 MT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #15-10 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "ALLUMOOTIL BENJAMIN JOHN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1982",
+				"FRCS (ENT) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1989",
+				"FAMS (ENT) (Academy of Medicine, Singapore) 1998"
+			],
+			"specialties": [
+				"Otorhinolaryngology"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"Specialist Medical": [
+			"Otorhinolaryngology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Tuesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 05:00 pm"
+	},
+	"id": "9402209",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

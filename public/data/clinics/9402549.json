@@ -1,0 +1,56 @@
+{
+	"name": "OUR FAMILY PHYSICIAN CLINIC & SURGERY",
+	"tel": "67850147",
+	"fax": "67856018",
+	"licensee": "Loo Geok Heng",
+	"licensePeriod": "29/10/2013 to 28/10/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402549",
+	"address": "BLK 829 TAMPINES ST 81, #01-292 Singapore 520829",
+	"doctorInCharge": [
+		{
+			"name": "Ang Choon Kiat",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1991",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1999"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"operatingHours": {
+		"Public Holiday": "Closed",
+		"Monday": "09:00 am to 03:00 pm, 07:00 pm to 10:00 pm",
+		"Tuesday": "09:00 am to 03:00 pm, 07:00 pm to 10:00 pm",
+		"Wednesday": "09:00 am to 03:00 pm",
+		"Thursday": "09:00 am to 03:00 pm, 07:00 pm to 10:00 pm",
+		"Friday": "09:00 am to 03:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "07:00 pm to 10:00 pm"
+	},
+	"id": "9402549",
+	"coordinates": [
+		103.9349125,
+		1.3492242
+	],
+	"svy21": [
+		39306.28,
+		36816.11
+	],
+	"planningArea": "TM",
+	"neighbours": [
+		"BD",
+		"PR",
+		"PL",
+		"CH"
+	]
+}

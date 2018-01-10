@@ -1,0 +1,44 @@
+{
+	"name": "LIEW CLINIC & SURGERY",
+	"tel": "62707471",
+	"fax": "62768588",
+	"licensee": "LIEW AH KIONG",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9400952",
+	"address": "BLK 116 BT MERAH VIEW, #01-223 Singapore 151116",
+	"doctorInCharge": [
+		{
+			"name": "LIEW AH KIONG",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1970"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "9400952",
+	"coordinates": [
+		103.8215322,
+		1.2851343
+	],
+	"svy21": [
+		26688.28,
+		29729.14
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

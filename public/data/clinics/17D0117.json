@@ -1,0 +1,52 @@
+{
+	"name": "SIMPLY SMILES DENTAL",
+	"tel": "69092355",
+	"fax": "99999999",
+	"licensee": "SIMPLY SMILES PTE. LTD.",
+	"licensePeriod": "27/04/2017 to 26/04/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "17D0117",
+	"address": "9 SCOTTS ROAD, PACIFIC PLAZA, #07-02 Singapore 228210",
+	"doctorInCharge": [
+		{
+			"name": "LAM JEFFREY WEI-FONG",
+			"qualifications": [
+				"DDS (Loma Linda University, United States) 2011",
+				"Cert Orthodontics (Loma Linda) (Loma Linda University, United States) 2013",
+				"MS (Orthodontics) (Loma Linda) (Loma Linda University, United States) 2013"
+			],
+			"specialties": []
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Specialised Diagnostic Radiology"
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:30 pm",
+		"Tuesday": "09:00 am to 06:30 pm",
+		"Wednesday": "09:00 am to 06:30 pm",
+		"Thursday": "09:00 am to 06:30 pm",
+		"Friday": "09:00 am to 06:30 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "17D0117",
+	"coordinates": [
+		103.8321282,
+		1.306547
+	],
+	"svy21": [
+		27867.52,
+		32096.85
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

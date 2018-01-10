@@ -1,0 +1,55 @@
+{
+	"name": "GASTROINTESTINAL ENDOSCOPY & LIVER CENTRE",
+	"tel": "62557336",
+	"fax": "62557869",
+	"licensee": "CHUA TJU SIANG",
+	"licensePeriod": "21/09/2014 to 20/09/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404231",
+	"address": "820 THOMSON ROAD, MOUNT ALVERNIA MEDICAL CENTRE BLOCK A, #06-01 Singapore 574623",
+	"doctorInCharge": [
+		{
+			"name": "CHUA TJU SIANG",
+			"qualifications": [
+				"MB ChB (University of Glasgow, United Kingdom) 1995",
+				"MRCP (Int Med) (Royal College of Physicians, United Kingdom) 1998"
+			],
+			"specialties": [
+				"Gastroenterology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Gastroenterology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm"
+	},
+	"id": "9404231",
+	"coordinates": [
+		103.8376019,
+		1.3418228
+	],
+	"svy21": [
+		28476.69,
+		35997.47
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

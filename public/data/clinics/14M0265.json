@@ -1,0 +1,40 @@
+{
+	"name": "O MEDICAL CLINIC",
+	"tel": "62204434",
+	"fax": "62234434",
+	"licensee": "ONLISM PTE. LTD.",
+	"licensePeriod": "17/06/2016 to 16/06/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14M0265",
+	"address": "22 MALACCA STREET, RB CAPITAL BUILDING, #09-00 Singapore 048980",
+	"doctorInCharge": [
+		{
+			"name": "YONG ZHI YONG",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2007",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2012"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "14M0265",
+	"coordinates": [
+		103.8508624,
+		1.2839491
+	],
+	"svy21": [
+		29952.48,
+		29598.09
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

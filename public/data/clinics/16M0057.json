@@ -1,0 +1,43 @@
+{
+	"name": "APPLE WELLNESS CENTER MEDICAL HEALTH SCREENING",
+	"tel": "64808405",
+	"fax": "62253735",
+	"licensee": "PARKWAY SHENTON PTE LTD",
+	"licensePeriod": "09/03/2016 to 08/03/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0057",
+	"address": "7 ANG MO KIO STREET 64 LEVEL 1, Singapore 569086",
+	"doctorInCharge": [
+		{
+			"name": "Dhanaselvi Krishnasamy",
+			"qualifications": [
+				"MBBS (University of New South Wales, Australia) 1999",
+				"DIP (Family Practice Dermatology) (National University of Singapore, Singapore) 2009",
+				"Dip OM (National University of Singapore, Singapore) 2013"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"id": "16M0057",
+	"coordinates": [
+		103.8447615,
+		1.389146
+	],
+	"svy21": [
+		29273.44,
+		41230.22
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

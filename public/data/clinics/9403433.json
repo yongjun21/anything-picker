@@ -1,0 +1,55 @@
+{
+	"name": "SHENTON FAMILY MEDICAL CLINIC",
+	"tel": "65622155",
+	"fax": "65612178",
+	"licensee": "SHENTON FAMILY MEDICAL CLINIC (JURONG EAST)",
+	"licensePeriod": "26/05/2016 to 25/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9403433",
+	"address": "BLK 131 JURONG GATEWAY ROAD, #01-263 Singapore 600131",
+	"doctorInCharge": [
+		{
+			"name": "HA HON CHUAN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1995"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Tuesday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Wednesday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Thursday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Friday": "08:30 am to 12:30 pm, 01:30 pm to 04:30 pm, 06:00 pm to 09:00 pm",
+		"Saturday": "08:30 am to 12:30 pm",
+		"Sunday": "09:00 am to 12:00 pm",
+		"Public Holiday": "09:00 am to 12:00 pm"
+	},
+	"id": "9403433",
+	"coordinates": [
+		103.7401775,
+		1.3345126
+	],
+	"svy21": [
+		17634.37,
+		35189.33
+	],
+	"planningArea": "JE",
+	"neighbours": [
+		"BL",
+		"BK",
+		"JW",
+		"TH",
+		"CL",
+		"WI"
+	]
+}

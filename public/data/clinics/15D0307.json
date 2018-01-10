@@ -1,0 +1,46 @@
+{
+	"name": "HOLLAND DENTAL PTE. LTD.",
+	"tel": "65159611",
+	"fax": "65159711",
+	"licensee": "HOLLAND DENTAL PTE. LTD.",
+	"licensePeriod": "09/09/2017 to 08/09/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0307",
+	"address": "BLK 40 HOLLAND DRIVE, #01-27 Singapore 270040",
+	"doctorInCharge": [
+		{
+			"name": "SandraLee Wai Weng",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1984"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 01:00 pm, 02:00 pm to 08:00 pm",
+		"Wednesday": "09:00 am to 01:00 pm, 02:00 pm to 08:00 pm",
+		"Tuesday": "Closed",
+		"Sunday": "Closed",
+		"Thursday": "09:00 am to 01:00 pm, 02:00 pm to 06:00 pm",
+		"Friday": "09:00 am to 01:00 pm, 02:00 pm to 08:00 pm"
+	},
+	"id": "15D0307",
+	"coordinates": [
+		103.7935003,
+		1.3071759
+	],
+	"svy21": [
+		23568.6,
+		32166.42
+	],
+	"planningArea": "QT",
+	"neighbours": [
+		"BM",
+		"BT",
+		"TN",
+		"CL"
+	]
+}

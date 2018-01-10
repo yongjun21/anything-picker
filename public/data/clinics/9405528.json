@@ -1,0 +1,55 @@
+{
+	"name": "MY HEALTH PARTNERS MEDICAL CLINIC",
+	"tel": "64699116",
+	"fax": "64696960",
+	"licensee": "HP MEDICAL (HV) PTE LTD",
+	"licensePeriod": "29/03/2014 to 28/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9405528",
+	"address": "25D Lorong Liput, Singapore 277735",
+	"doctorInCharge": [
+		{
+			"name": "SHIVCHARAN KAUR GILL",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985",
+				"M Med (Family Med) (National University of Singapore, Singapore) 1998",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 2001"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Wednesday": "09:00 am to 04:30 pm, 07:00 pm to 09:00 pm",
+		"Tuesday": "09:00 am to 04:30 pm",
+		"Thursday": "09:00 am to 04:30 pm",
+		"Friday": "09:00 am to 04:30 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9405528",
+	"coordinates": [
+		103.7947166,
+		1.3103524
+	],
+	"svy21": [
+		23703.97,
+		32517.66
+	],
+	"planningArea": "BT",
+	"neighbours": [
+		"BK",
+		"BP",
+		"NV",
+		"QT",
+		"CC",
+		"TN",
+		"CL"
+	]
+}

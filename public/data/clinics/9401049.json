@@ -1,0 +1,55 @@
+{
+	"name": "MARINA MEDICAL CENTRE (TIONG BAHRU)",
+	"tel": "62222177",
+	"fax": "62223380",
+	"licensee": "RANJAN RAMASAMY",
+	"licensePeriod": "01/01/2014 to 31/12/2018",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9401049",
+	"address": "BLK 78 GUAN CHUAN ST, #01-39 Singapore 160078",
+	"doctorInCharge": [
+		{
+			"name": "RANJAN RAMASAMY",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1980",
+				"M Sc (Health Care Management) (University of Wales Swansea, United Kingdom) 1996"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "06:30 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm",
+		"Thursday": "06:30 pm to 08:30 pm",
+		"Friday": "09:00 am to 12:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9401049",
+	"coordinates": [
+		103.8310145,
+		1.2833261
+	],
+	"svy21": [
+		27743.58,
+		29529.2
+	],
+	"planningArea": "BM",
+	"neighbours": [
+		"QT",
+		"TN",
+		"SI",
+		"CA"
+	]
+}

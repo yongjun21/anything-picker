@@ -1,0 +1,46 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "63845666",
+	"fax": "63112390",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "17/01/2016 to 16/01/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0015",
+	"address": "83 PUNGGOL CENTRAL, WATERWAY POINT, #02-29 Singapore 828761",
+	"doctorInCharge": [
+		{
+			"name": "Hoo Kai Meng",
+			"qualifications": [
+				"MBBS (University of Singapore, Singapore) 1979",
+				"Dip Geriatric Med (National University of Singapore, Singapore) 2007",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)",
+		"Integrated Screening Programme (ISP) "
+	],
+	"id": "16M0015",
+	"coordinates": [
+		103.9021057,
+		1.4064846
+	],
+	"svy21": [
+		35655.06,
+		43147.55
+	],
+	"planningArea": "PG",
+	"neighbours": [
+		"PR",
+		"SL",
+		"SE"
+	]
+}

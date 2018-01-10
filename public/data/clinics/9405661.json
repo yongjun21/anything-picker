@@ -1,0 +1,56 @@
+{
+	"name": "TOH KHAI LEE UROLOGY CLINIC",
+	"tel": "68364045",
+	"fax": "68364046",
+	"licensee": "TOH KHAI LEE UROLOGY CLINIC PTE. LTD.",
+	"licensePeriod": "29/07/2016 to 28/07/2018",
+	"licenseClass": "[ 2 Years ( 2C ) ]",
+	"hciCode": "9405661",
+	"address": "3 MOUNT ELIZABETH, MOUNT ELIZABETH MEDICAL CENTRE, #05-05 Singapore 228510",
+	"doctorInCharge": [
+		{
+			"name": "Toh Khai Lee",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1990",
+				"FRCS (Gen Surg) (Royal College of Physicians and Surgeons of Glasgow, United Kingdom) 1995"
+			],
+			"specialties": [
+				"Urology"
+			]
+		}
+	],
+	"mohApprovedSpecialServices": [
+		"Endoscopy"
+	],
+	"detailedServices": {
+		"General Medical": true,
+		"Specialist Medical": [
+			"Urology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "08:30 am to 05:30 pm",
+		"Tuesday": "08:30 am to 05:30 pm",
+		"Wednesday": "08:30 am to 05:30 pm",
+		"Thursday": "08:30 am to 05:30 pm",
+		"Friday": "08:30 am to 05:30 pm",
+		"Saturday": "08:30 am to 01:00 pm"
+	},
+	"id": "9405661",
+	"coordinates": [
+		103.8354393,
+		1.3051652
+	],
+	"svy21": [
+		28236.02,
+		31944.06
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

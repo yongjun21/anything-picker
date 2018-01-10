@@ -1,0 +1,46 @@
+{
+	"name": "RAFFLESMEDICAL",
+	"tel": "63112134",
+	"fax": "63112390",
+	"licensee": "RAFFLES MEDICAL GROUP LTD",
+	"licensePeriod": "26/05/2016 to 25/05/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "16M0155",
+	"address": "BLK 633 BUKIT BATOK CENTRAL, #01-126 Singapore 650633",
+	"doctorInCharge": [
+		{
+			"name": "Lim Yee Theng Tracey",
+			"qualifications": [
+				"MBBS (University of Malaya, Malaysia) 2010"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"id": "16M0155",
+	"coordinates": [
+		103.7511345,
+		1.3491571
+	],
+	"svy21": [
+		18853.83,
+		36808.61
+	],
+	"planningArea": "BK",
+	"neighbours": [
+		"BP",
+		"BT",
+		"JE",
+		"TH",
+		"CK",
+		"CL"
+	]
+}

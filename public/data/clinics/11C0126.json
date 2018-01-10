@@ -1,0 +1,56 @@
+{
+	"name": "HILL SPRING MEDICAL",
+	"tel": "64563200",
+	"fax": "64563070",
+	"licensee": "HILL SPRING MEDICAL LLP",
+	"licensePeriod": "24/08/2015 to 23/08/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "11C0126",
+	"address": "12 JALAN LEBAN, SEMBAWANG HILLS ESTATE, Singapore 577552",
+	"doctorInCharge": [
+		{
+			"name": "Ivan Ong I-Fung",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 2000",
+				"Dip (Family Med) (National University of Singapore, Singapore) 2009",
+				"Dip Geriatric Med (National University of Singapore, Singapore) 2016"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "08:30 am to 04:00 pm, 06:00 pm to 09:30 pm",
+		"Tuesday": "08:30 am to 04:00 pm, 06:00 pm to 09:30 pm",
+		"Wednesday": "08:30 am to 04:00 pm, 06:00 pm to 09:30 pm",
+		"Thursday": "08:30 am to 04:00 pm, 06:00 pm to 09:30 pm",
+		"Friday": "08:30 am to 04:00 pm, 06:00 pm to 09:30 pm",
+		"Saturday": "08:30 am to 04:00 pm, 06:00 pm to 09:30 pm",
+		"Sunday": "08:30 am to 04:00 pm, 06:00 pm to 09:30 pm"
+	},
+	"id": "11C0126",
+	"coordinates": [
+		103.8291755,
+		1.3715472
+	],
+	"svy21": [
+		27538.93,
+		39284.23
+	],
+	"planningArea": "AM",
+	"neighbours": [
+		"BS",
+		"SE",
+		"SG",
+		"CC",
+		"YS"
+	]
+}

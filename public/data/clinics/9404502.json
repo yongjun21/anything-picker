@@ -1,0 +1,55 @@
+{
+	"name": "MADELIENE GUNARATNAM DENTAL SURGERY",
+	"tel": "67328087",
+	"fax": "67328087",
+	"licensee": "Madeliene Gunaratnam Dental Surgery Pte. Ltd.",
+	"licensePeriod": "23/07/2015 to 22/07/2020",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9404502",
+	"address": "19 TANGLIN ROAD, TANGLIN SHOPPING CENTRE, #06-38/39 Singapore 247909",
+	"doctorInCharge": [
+		{
+			"name": "Madeliene Gunaratnam",
+			"qualifications": [
+				"BDS (University of Singapore, Singapore) 1978",
+				"MSc (University of London, United Kingdom) 1982"
+			],
+			"specialties": [
+				"Periodontology"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Endodontics",
+			"Periodontology"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 05:00 pm",
+		"Tuesday": "09:00 am to 05:00 pm",
+		"Wednesday": "09:00 am to 05:00 pm",
+		"Thursday": "09:00 am to 05:00 pm",
+		"Friday": "09:00 am to 05:00 pm",
+		"Saturday": "09:00 am to 01:00 pm",
+		"Sunday": "Closed"
+	},
+	"id": "9404502",
+	"coordinates": [
+		103.8270506,
+		1.3064027
+	],
+	"svy21": [
+		27302.43,
+		32080.89
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

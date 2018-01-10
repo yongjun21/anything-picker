@@ -1,0 +1,57 @@
+{
+	"name": "A LIFE CLINIC PTE LTD",
+	"tel": "67372283",
+	"fax": "62561328",
+	"licensee": "A LIFE CLINIC PTE. LTD.",
+	"licensePeriod": "28/07/2016 to 27/07/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "9400096",
+	"address": "10 SINARAN DRIVE, NOVENA MEDICAL CENTER, #09-21 Singapore 307506",
+	"doctorInCharge": [
+		{
+			"name": "Choo Kay Wee",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1984",
+				"MCFP (Family Med) (College of Family Physicians, Singapore) 1990"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)",
+		"Community Health Assistance Scheme (CHAS)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm",
+		"Saturday": "09:00 am to 12:30 pm",
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "9400096",
+	"coordinates": [
+		103.8441607,
+		1.3207049
+	],
+	"svy21": [
+		29206.63,
+		33662.36
+	],
+	"planningArea": "NV",
+	"neighbours": [
+		"BT",
+		"KL",
+		"CC",
+		"TN",
+		"TP",
+		"CA"
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"name": "DR ANGELINE ANG & ASSOCIATES",
+	"tel": "63383339",
+	"fax": "63384091",
+	"licensee": "ANG HOOI KIA ANGELINE",
+	"licensePeriod": "02/03/2014 to 01/03/2019",
+	"licenseClass": "[ 5 Years ]",
+	"hciCode": "9402004",
+	"address": "9 Penang Road, PARK MALL, #07-02 Singapore 238459",
+	"doctorInCharge": [
+		{
+			"name": "ANG HOOI KIA ANGELINE",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1986",
+				"DGDP(UK) (Royal College of Surgeons of England, United Kingdom) 1997"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Monday": "09:00 am to 06:00 pm",
+		"Tuesday": "09:00 am to 06:00 pm",
+		"Wednesday": "09:00 am to 06:00 pm",
+		"Thursday": "09:00 am to 06:00 pm",
+		"Friday": "09:00 am to 06:00 pm",
+		"Saturday": "08:30 am to 01:30 pm"
+	},
+	"id": "9402004",
+	"coordinates": [
+		103.8452782,
+		1.2978395
+	],
+	"svy21": [
+		29331,
+		31134.02
+	],
+	"planningArea": "CA",
+	"neighbours": [
+		"BM",
+		"KL",
+		"MP",
+		"NV",
+		"TN"
+	]
+}

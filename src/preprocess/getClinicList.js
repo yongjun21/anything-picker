@@ -8,7 +8,7 @@ import {ThrottledQueue} from '../helpers/util'
 const batchSize = 10
 
 const endpoints = {
-  clinic: 4068,
+  clinic: 4128,
   hospital: 35,
   nursing: 77,
   laboratory: 212
@@ -58,6 +58,6 @@ Promise.all(tasks)
     Object.keys(endpoints).forEach((ep, i) => {
       merged[ep] = results[i]
     })
-    fs.writeFile('data/clinicList.json', JSON.stringify(merged))
+    fs.writeFileSync('data/clinicList.json', JSON.stringify(merged))
   })
   .catch(console.error)

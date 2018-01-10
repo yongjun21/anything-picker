@@ -1,0 +1,51 @@
+{
+	"name": "LEE CLINIC PTE LTD",
+	"tel": "67784608",
+	"fax": "67784608",
+	"licensee": "LEE CLINIC PTE. LTD.",
+	"licensePeriod": "15/08/2016 to 14/08/2018",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "14C0242",
+	"address": "BLK 325 CLEMENTI AVE 5, #01-139 Singapore 120325",
+	"doctorInCharge": [
+		{
+			"name": "LEE TANG YIN",
+			"qualifications": [
+				"MBBS (National University of Singapore, Singapore) 1985"
+			],
+			"specialties": [
+				"Family Physician"
+			]
+		}
+	],
+	"detailedServices": {
+		"General Medical": true
+	},
+	"programmes": [
+		"Chronic Disease Management Programme (CDMP)"
+	],
+	"operatingHours": {
+		"Monday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Tuesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Wednesday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Thursday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Friday": "09:00 am to 12:30 pm, 02:00 pm to 04:30 pm, 06:30 pm to 08:30 pm",
+		"Saturday": "09:00 am to 12:30 pm"
+	},
+	"id": "14C0242",
+	"coordinates": [
+		103.7668174,
+		1.3150967
+	],
+	"svy21": [
+		20599.06,
+		33042.33
+	],
+	"planningArea": "CL",
+	"neighbours": [
+		"BK",
+		"BT",
+		"JE",
+		"QT"
+	]
+}

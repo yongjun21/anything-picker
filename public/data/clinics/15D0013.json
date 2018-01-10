@@ -1,0 +1,41 @@
+{
+	"name": "HEALTHWAY DENTAL CLINIC",
+	"tel": "62556520",
+	"fax": "63567858",
+	"licensee": "UNIVERSAL DENTAL GROUP(BRADDELL) PTE. LTD.",
+	"licensePeriod": "14/01/2017 to 13/01/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0013",
+	"address": "BLK 163 TOA PAYOH LOR 1, #01-1012/1014 Singapore 310163",
+	"doctorInCharge": [
+		{
+			"name": "Lee Hock Leong",
+			"qualifications": [
+				"BDS (National University of Singapore, Singapore) 1993"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true
+	},
+	"id": "15D0013",
+	"coordinates": [
+		103.844105,
+		1.3320606
+	],
+	"svy21": [
+		29200.42,
+		34918.01
+	],
+	"planningArea": "TP",
+	"neighbours": [
+		"BS",
+		"GL",
+		"KL",
+		"NV",
+		"HG",
+		"SG",
+		"CC"
+	]
+}

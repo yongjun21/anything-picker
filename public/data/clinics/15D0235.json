@@ -1,0 +1,52 @@
+{
+	"name": "KONG DENTAL SURGERY",
+	"tel": "62195898",
+	"fax": "67679502",
+	"licensee": "KONG DENTAL (TECK WHYE) PTE. LTD.",
+	"licensePeriod": "08/07/2017 to 07/07/2019",
+	"licenseClass": "[ 2 Years ( 2A ) ]",
+	"hciCode": "15D0235",
+	"address": "BLK 141 TECK WHYE LANE, #01-251 Singapore 680141",
+	"doctorInCharge": [
+		{
+			"name": "Konf Sing Huey",
+			"qualifications": [
+				"BDS (Queen's University of Belfast, United Kingdom) 2001"
+			],
+			"specialties": []
+		}
+	],
+	"detailedServices": {
+		"General Dental": true,
+		"Specialist Dental": [
+			"Dental Public Health",
+			"Endodontics",
+			"Oral & Maxillo-Facial Surgery",
+			"Orthodontics",
+			"Paediatric Dentistry",
+			"Periodontology",
+			"Prosthodontics"
+		]
+	},
+	"operatingHours": {
+		"Sunday": "Closed",
+		"Public Holiday": "Closed"
+	},
+	"id": "15D0235",
+	"coordinates": [
+		103.7525799,
+		1.3804116
+	],
+	"svy21": [
+		19014.8,
+		40264.57
+	],
+	"planningArea": "CK",
+	"neighbours": [
+		"BK",
+		"BP",
+		"SK",
+		"TH",
+		"WC"
+	]
+}
