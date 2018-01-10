@@ -21,7 +21,10 @@ export default {
   },
   computed: {
     ...mapState(['centreList', 'bookmarked', 'location']),
-    ...mapState({schoolLevel: state => state.schoolLevel.selected}),
+    ...mapState({
+      schoolLevel: state => state.schoolLevel.selected,
+      homeSchoolDistance: state => state.homeSchoolDistance}
+    ),
     ...mapGetters(['filtered', 'suggested']),
 
     // Set styling of marker depending on settings

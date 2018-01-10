@@ -7,8 +7,7 @@ import {collectValues, optionsSelected} from 'helpers/util'
 
 import * as modules from './modules'
 
-const ROUTING_SERVER = process.env.NODE_ENV === 'production'
-  ? process.env.ROUTING_SERVER_URL : 'http://localhost:5000'
+const ROUTING_SERVER = "https://osrm-msummjnvga.now.sh"
 
 import {
   getFiltered as filtered,
@@ -65,6 +64,7 @@ const store = new Vuex.Store({
       return window.fetch(window.location.origin + '/centreList.json')
         .then(res => res.json())
         .then(json => {
+          json = json.slice(0, 100)
           context.commit('setCentreList', json)
           return json
         })

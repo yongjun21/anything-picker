@@ -2,9 +2,7 @@
   <div class="picker-filter toolbar tertiary no-padding">
     <SearchBox />
     <div class="row auto">
-      <SchoolLevelTab class="width-1of4" @expand="openModal" />
       <component :is="DynamicTab" class="width-1of4" @expand="openModal" />
-  	  <CcaTab class="width-1of4" @expand="openModal" />
   	  <MoreOptionsTab class="width-1of4" @expand="openModal" />
     </div>
 
@@ -15,11 +13,9 @@
 </template>
 
 <script>
-import SchoolLevelTab from './Tab/SchoolLevel'
 import LocationTab from './Tab/Location'
 import PsleTab from './Tab/PSLE'
 import L1R5Tab from './Tab/L1R5'
-import CcaTab from './Tab/Cca'
 import MoreOptionsTab from './Tab/MoreOptions'
 
 import LocationModal from './Modal/Location'
@@ -44,12 +40,10 @@ export default {
     }
   },
   components: {
-    SchoolLevelTab,
     LocationTab,
     LocationModal,
     PsleTab,
     L1R5Tab,
-    CcaTab,
     CcaModal,
     MoreOptionsTab,
     MoreOptionsModal,
