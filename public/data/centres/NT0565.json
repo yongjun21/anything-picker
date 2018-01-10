@@ -372,5 +372,12 @@
     103.7697667,
     1.3814664
   ],
-  "planning_area": "BP"
+  "planningArea": "BP",
+  "neighbours": [
+    "BK",
+    "BT",
+    "CC",
+    "SK",
+    "CK"
+  ]
 }

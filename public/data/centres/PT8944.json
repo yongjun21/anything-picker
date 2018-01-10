@@ -160,5 +160,12 @@
     103.8206447,
     1.3184573
   ],
-  "planning_area": "TN"
+  "planningArea": "TN",
+  "neighbours": [
+    "BM",
+    "BT",
+    "NV",
+    "QT",
+    "CA"
+  ]
 }

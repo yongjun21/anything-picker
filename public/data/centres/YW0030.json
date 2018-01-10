@@ -372,5 +372,11 @@
     103.7607961,
     1.3108309
   ],
-  "planning_area": "CL"
+  "planningArea": "CL",
+  "neighbours": [
+    "BK",
+    "BT",
+    "JE",
+    "QT"
+  ]
 }

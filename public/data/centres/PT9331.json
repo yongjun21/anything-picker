@@ -172,5 +172,14 @@
     103.8020168,
     1.3280916
   ],
-  "planning_area": "BT"
+  "planningArea": "BT",
+  "neighbours": [
+    "BK",
+    "BP",
+    "NV",
+    "QT",
+    "CC",
+    "TN",
+    "CL"
+  ]
 }

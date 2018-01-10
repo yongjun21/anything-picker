@@ -150,5 +150,12 @@
     103.940617,
     1.3141207
   ],
-  "planning_area": "BD"
+  "planningArea": "BD",
+  "neighbours": [
+    "GL",
+    "HG",
+    "MP",
+    "PL",
+    "TM"
+  ]
 }

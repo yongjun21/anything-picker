@@ -190,5 +190,11 @@
     103.946049,
     1.3510502
   ],
-  "planning_area": "TM"
+  "planningArea": "TM",
+  "neighbours": [
+    "BD",
+    "PR",
+    "PL",
+    "CH"
+  ]
 }

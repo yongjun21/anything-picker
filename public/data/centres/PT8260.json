@@ -143,5 +143,11 @@
     103.8003888,
     1.2833118
   ],
-  "planning_area": "QT"
+  "planningArea": "QT",
+  "neighbours": [
+    "BM",
+    "BT",
+    "TN",
+    "CL"
+  ]
 }

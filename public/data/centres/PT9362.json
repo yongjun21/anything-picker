@@ -99,5 +99,13 @@
     103.7642664,
     1.3619673
   ],
-  "planning_area": "BK"
+  "planningArea": "BK",
+  "neighbours": [
+    "BP",
+    "BT",
+    "JE",
+    "TH",
+    "CK",
+    "CL"
+  ]
 }

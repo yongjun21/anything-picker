@@ -242,5 +242,13 @@
     103.7320798,
     1.3460065
   ],
-  "planning_area": "JE"
+  "planningArea": "JE",
+  "neighbours": [
+    "BL",
+    "BK",
+    "JW",
+    "TH",
+    "CL",
+    "WI"
+  ]
 }

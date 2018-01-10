@@ -176,5 +176,12 @@
     103.8650238,
     1.3097921
   ],
-  "planning_area": "KL"
+  "planningArea": "KL",
+  "neighbours": [
+    "GL",
+    "NV",
+    "MP",
+    "TP",
+    "CA"
+  ]
 }

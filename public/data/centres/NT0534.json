@@ -256,5 +256,12 @@
     103.8382207,
     1.3690746
   ],
-  "planning_area": "AM"
+  "planningArea": "AM",
+  "neighbours": [
+    "BS",
+    "SE",
+    "SG",
+    "CC",
+    "YS"
+  ]
 }

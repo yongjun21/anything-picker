@@ -155,5 +155,12 @@
     103.6969347,
     1.3354256
   ],
-  "planning_area": "JW"
+  "planningArea": "JW",
+  "neighbours": [
+    "BL",
+    "JE",
+    "PN",
+    "TH",
+    "WC"
+  ]
 }

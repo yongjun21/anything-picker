@@ -199,5 +199,14 @@
     103.8484945,
     1.3373513
   ],
-  "planning_area": "TP"
+  "planningArea": "TP",
+  "neighbours": [
+    "BS",
+    "GL",
+    "KL",
+    "NV",
+    "HG",
+    "SG",
+    "CC"
+  ]
 }

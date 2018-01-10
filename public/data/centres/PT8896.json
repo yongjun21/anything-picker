@@ -120,5 +120,11 @@
     103.897063,
     1.3030726
   ],
-  "planning_area": "MP"
+  "planningArea": "MP",
+  "neighbours": [
+    "BD",
+    "GL",
+    "KL",
+    "CA"
+  ]
 }

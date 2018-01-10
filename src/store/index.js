@@ -21,8 +21,8 @@ Vue.use(Vuex)
 
 const store = new Vuex.Store({
   state: {
-    CentreList: null,
-    CentreDetail: {},
+    centreList: null,
+    centreDetail: {},
     travelTime: null,
     bookmarked: [],
     postalCode: null,

@@ -225,5 +225,12 @@
     103.8491957,
     1.2805498
   ],
-  "planning_area": "CA"
+  "planningArea": "CA",
+  "neighbours": [
+    "BM",
+    "KL",
+    "MP",
+    "NV",
+    "TN"
+  ]
 }

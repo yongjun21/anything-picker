@@ -140,5 +140,13 @@
     103.8455186,
     1.3271688
   ],
-  "planning_area": "NV"
+  "planningArea": "NV",
+  "neighbours": [
+    "BT",
+    "KL",
+    "CC",
+    "TN",
+    "TP",
+    "CA"
+  ]
 }

@@ -127,5 +127,11 @@
     103.8141089,
     1.2802525
   ],
-  "planning_area": "BM"
+  "planningArea": "BM",
+  "neighbours": [
+    "QT",
+    "TN",
+    "SI",
+    "CA"
+  ]
 }

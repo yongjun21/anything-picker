@@ -69,9 +69,6 @@ export default {
   },
   computed: {
     ...mapState(['centreList', 'travelTime', 'bookmarked', 'location']),
-    ...mapState({
-      homeSchoolDistance: state => state.homeSchoolDistance}
-    ),
     ...mapGetters(['filtered', 'suggested']),
     renderedCards () {
       const cards = this.$route.path === '/bookmark'
@@ -82,6 +79,7 @@ export default {
       if (this.location) {
         const location = toSVY21(this.location)
         filtered = filtered.map(school => {
+          if (school.svy21 == null) return false
           const distance = Math.sqrt(
             Math.pow(location[0] - school.svy21[0], 2) +
             Math.pow(location[1] - school.svy21[1], 2)

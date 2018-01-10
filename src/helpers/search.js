@@ -11,9 +11,9 @@ export function getData (featureExtractor, fields) {
   const filenames = fs.readdirSync('public/data/centres/')
     .filter(file => file.match(/\.json$/))
   filenames.forEach(filename => {
-    const school = require('../../public/data/centres/' + filename)
+    const centre = require('../../public/data/centres/' + filename)
     fields.forEach(field => {
-      data[field][school.id] = featureExtractor[field](school)
+      data[field][centre.id] = featureExtractor[field](centre)
     })
   })
   return data

@@ -123,5 +123,10 @@
     103.9865622,
     1.3566261
   ],
-  "planning_area": "CH"
+  "planningArea": "CH",
+  "neighbours": [
+    "PR",
+    "TM",
+    "CB"
+  ]
 }

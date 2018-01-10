@@ -113,5 +113,12 @@
     103.8248429,
     1.4282054
   ],
-  "planning_area": "MD"
+  "planningArea": "MD",
+  "neighbours": [
+    "SB",
+    "CC",
+    "SK",
+    "WD",
+    "YS"
+  ]
 }

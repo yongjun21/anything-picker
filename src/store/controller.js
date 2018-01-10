@@ -8,7 +8,7 @@ const multiInputs = [
 
 export function getFiltered (state, getters) {
   return state.centreList
-    .filter(school => {
+    .filter(centre => {
       let match = true
       /*
       if (state.schoolLevel.selected) {

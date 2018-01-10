@@ -436,5 +436,10 @@
     103.9011272,
     1.4013615
   ],
-  "planning_area": "PG"
+  "planningArea": "PG",
+  "neighbours": [
+    "PR",
+    "SL",
+    "SE"
+  ]
 }

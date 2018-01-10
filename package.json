@@ -1,5 +1,5 @@
 {
-  "name": "datagovsg-school-picker",
+  "name": "datagovsg-childcare-finder",
   "version": "1.0.0",
   "description": "A data.gov.sg opensource project",
   "main": "dist/server.js",
@@ -20,8 +20,8 @@
     "url": "git+https://github.com/yongjun21/datagovsg-school-picker.git"
   },
   "keywords": [
-    "schools",
-    "MOE",
+    "childcare",
+    "ECDA",
     "Singapore"
   ],
   "author": "Yong Jun",

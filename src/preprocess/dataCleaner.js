@@ -2,6 +2,7 @@ import fs from 'fs'
 import axios from 'axios'
 import _groupBy from 'lodash/groupBy'
 import _omit from 'lodash/omit'
+import _pick from 'lodash/pick'
 import {fromSVY21} from 'sg-heatmap/dist/helpers/geometry'
 
 import {CustomHeatmap} from '../helpers/geospatial'
@@ -77,14 +78,16 @@ Promise.all(jobs).then(result => {
       processed.svy21 = processed.svy21.map(v => +v.toFixed(2))
       const match = heatmap.bin(processed.coordinates)[0]
       if (match) {
-        processed.planning_area = match.id
+        processed.planningArea = match.id
+        processed.neighbours = match.properties.neighbours
       }
     }
-    locations[processed.id] = {
-      coordinates: processed.coordinates,
-      svy21: processed.svy21,
-      planningArea: processed.planning_area
-    }
+    locations[processed.id] = _pick(processed, [
+      'coordinates',
+      'svy21',
+      'planningArea',
+      'neighbours'
+    ])
     fs.writeFileSync(`public/data/centres/${processed.id}.json`, JSON.stringify(processed, null, 2))
   })
   fs.writeFileSync('data/locations.json', JSON.stringify(locations))
