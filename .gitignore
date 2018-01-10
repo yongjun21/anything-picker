@@ -4,10 +4,6 @@ public/bundle.css*
 dist/
 doc/
 
-data/osrm/*
-!data/osrm/*.pbf
-!data/osrm/*.lua
-
 data/*.zip
 data/shapefile/
 

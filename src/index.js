@@ -21,9 +21,7 @@ router.beforeEach((to, from, next) => {
     storeUpdated = false
     next()
   } else {
-    store.dispatch('importOptions', to.query).then(() => {
-      next()
-    })
+    store.dispatch('importOptions', to.query).then(() => next())
   }
 })
 
@@ -50,7 +48,7 @@ router.replace = function (...args) {
 }
 
 Loading.show()
-store.dispatch('fetchSchoolList').then(centreList => {
+store.dispatch('fetchCentreList').then(centreList => {
   Loading.hide()
   window.vm = new Vue({
     el: '#app',

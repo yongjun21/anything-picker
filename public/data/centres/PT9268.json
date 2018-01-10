@@ -1,0 +1,166 @@
+{
+  "provision_of_transport": false,
+  "last_updated": "2017-11-14",
+  "spark_certified": false,
+  "extended_operating_hours": false,
+  "second_languages_offered": "Chinese",
+  "postal_code": "659586",
+  "centre_website": null,
+  "saturday": "07:00-14:00",
+  "centre_address": "15, BUKIT BATOK STREET 22, #02 - 01, PROPELL BUILDING, SINGAPORE 659586",
+  "n1_vacancy": "Immediate vacancies",
+  "infant_vacancy": "Immediate vacancies",
+  "government_subsidy": true,
+  "organisation_code": "PT",
+  "iccp": false,
+  "centre_email_address": "BUKITBATOK@MAPLEBEAR.SG",
+  "centre_code": "PT9268",
+  "weekday_halfday_am": "07:00-13:00",
+  "weekday_halfday_pm": "13:00-19:00",
+  "remarks": null,
+  "scheme_type": null,
+  "weekday_full_day": "07:00-19:00",
+  "centre_contact_no": "69010272",
+  "k1_vacancy": "Immediate vacancies",
+  "food_offered": "No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)",
+  "pg_vacancy": "Immediate vacancies",
+  "n2_vacancy": "Immediate vacancies",
+  "gst_regisration": false,
+  "centre_name": "MAPLEBEAR KIDS HOUSE PTE. LTD.",
+  "organisation_description": "PRIVATE",
+  "k2_vacancy": "Immediate vacancies",
+  "id": "PT9268",
+  "service_listing": [
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-06-09",
+      "programmes_offered": "Child FC1-12 to 24 hrs/wk",
+      "fees": "580",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-06-09",
+      "programmes_offered": "Child Full Day",
+      "fees": "1380",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-06-09",
+      "programmes_offered": "Child Half-Day AM",
+      "fees": "980",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-06-09",
+      "programmes_offered": "Child Half-Day PM",
+      "fees": "980",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-06-09",
+      "programmes_offered": "Emergency Care",
+      "fees": "100",
+      "remarks": "na",
+      "age_from": "2"
+    },
+    {
+      "age_to": "17",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2016-06-09",
+      "programmes_offered": "Infant Full Day",
+      "fees": "1780",
+      "remarks": "na",
+      "age_from": "2"
+    },
+    {
+      "age_to": "17",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2016-06-09",
+      "programmes_offered": "Infant Half-Day AM",
+      "fees": "1380",
+      "remarks": "na",
+      "age_from": "2"
+    },
+    {
+      "age_to": "17",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2016-06-09",
+      "programmes_offered": "Infant Half-Day PM",
+      "fees": "1380",
+      "remarks": "na",
+      "age_from": "2"
+    },
+    {
+      "age_to": "155",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-06-09",
+      "programmes_offered": "Student Care Service (AM)",
+      "fees": "700",
+      "remarks": "na",
+      "age_from": "84"
+    },
+    {
+      "age_to": "155",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-06-09",
+      "programmes_offered": "Student Care Service (PM)",
+      "fees": "700",
+      "remarks": "na",
+      "age_from": "84"
+    }
+  ],
+  "license_history": [
+    {
+      "license_issue_date": "2017-06-09",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2016-06-09",
+      "license_tenure": "12"
+    }
+  ],
+  "incidental_charges": [
+    {
+      "incidental_charges": "INSURANCE (OPTIONAL)",
+      "amount": "3",
+      "frequency": "Annual"
+    },
+    {
+      "incidental_charges": "DEPOSIT",
+      "amount": "1380",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "UNIFORM",
+      "amount": "30",
+      "frequency": "Annual"
+    },
+    {
+      "incidental_charges": "REGISTRATION FEE",
+      "amount": "250",
+      "frequency": "Ad-hoc"
+    }
+  ],
+  "svy21": [
+    18867.05,
+    36236.4
+  ],
+  "coordinates": [
+    103.7512535,
+    1.3439823
+  ],
+  "planning_area": "BK"
+}

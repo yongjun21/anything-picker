@@ -1,0 +1,169 @@
+{
+  "provision_of_transport": true,
+  "last_updated": "2017-11-15",
+  "spark_certified": true,
+  "extended_operating_hours": false,
+  "second_languages_offered": "Chinese",
+  "postal_code": "537416",
+  "centre_website": "www.happyfamily.com.sg",
+  "saturday": "07:00-14:00",
+  "centre_address": "45, JALAN SONGKET, SINGAPORE 537416",
+  "n1_vacancy": "No vacancies for the next 1-2 years",
+  "infant_vacancy": "No vacancies for the next 1-2 years",
+  "government_subsidy": true,
+  "organisation_code": "PT",
+  "iccp": false,
+  "centre_email_address": "happyfamilycc@hotmail.sg",
+  "centre_code": "PT4200",
+  "weekday_halfday_am": "07:00-13:00",
+  "weekday_halfday_pm": "13:00-19:00",
+  "remarks": null,
+  "scheme_type": null,
+  "weekday_full_day": "07:00-19:00",
+  "centre_contact_no": "63825401",
+  "k1_vacancy": "No vacancies for the next 1-2 years",
+  "food_offered": "No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)",
+  "pg_vacancy": "No vacancies for the next 1-2 years",
+  "n2_vacancy": "No vacancies for the next 1-2 years",
+  "gst_regisration": false,
+  "centre_name": "HAPPY FAMILY PRESCHOOL PTE. LTD.",
+  "organisation_description": "PRIVATE",
+  "k2_vacancy": "No vacancies for the next 1-2 years",
+  "id": "PT4200",
+  "service_listing": [
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-01-01",
+      "programmes_offered": "Child Full Day",
+      "fees": "880",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-01-01",
+      "programmes_offered": "Child Half-Day AM",
+      "fees": "735",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-01-01",
+      "programmes_offered": "Child Half-Day PM",
+      "fees": "735",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-01-01",
+      "programmes_offered": "Emergency Care",
+      "fees": "100",
+      "remarks": "na",
+      "age_from": "18"
+    }
+  ],
+  "license_history": [
+    {
+      "license_issue_date": "2000-02-01",
+      "license_tenure": "12"
+    },
+    {
+      "license_issue_date": "1999-08-01",
+      "license_tenure": "6"
+    },
+    {
+      "license_issue_date": "1999-02-01",
+      "license_tenure": "6"
+    },
+    {
+      "license_issue_date": "1998-08-01",
+      "license_tenure": "6"
+    },
+    {
+      "license_issue_date": "2017-08-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2015-08-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2013-08-01",
+      "license_tenure": "12"
+    },
+    {
+      "license_issue_date": "2013-08-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2013-02-01",
+      "license_tenure": "6"
+    },
+    {
+      "license_issue_date": "2011-02-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2009-02-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2007-02-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2005-02-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2003-02-01",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2001-02-01",
+      "license_tenure": "24"
+    }
+  ],
+  "incidental_charges": [
+    {
+      "incidental_charges": "Registration Fee",
+      "amount": "150",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "Uniform",
+      "amount": "22",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "Insurance(Optional)",
+      "amount": "12",
+      "frequency": "Annual"
+    },
+    {
+      "incidental_charges": "PVC Mattress(Optional)",
+      "amount": "35",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "Deposit",
+      "amount": "850",
+      "frequency": "Ad-hoc"
+    }
+  ],
+  "svy21": [
+    33890.47,
+    37653.62
+  ],
+  "coordinates": [
+    103.8862483,
+    1.3567999
+  ],
+  "planning_area": "HG"
+}

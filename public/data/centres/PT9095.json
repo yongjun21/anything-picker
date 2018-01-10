@@ -1,0 +1,135 @@
+{
+  "provision_of_transport": false,
+  "last_updated": "2017-11-11",
+  "spark_certified": false,
+  "extended_operating_hours": false,
+  "second_languages_offered": "Chinese",
+  "postal_code": "643667",
+  "centre_website": null,
+  "saturday": "07:00-14:00",
+  "centre_address": "Blk 667C, JURONG WEST STREET 65, #01 - 139, SINGAPORE 643667",
+  "n1_vacancy": "Immediate vacancies",
+  "infant_vacancy": "No vacancies for the next 1-2 years",
+  "government_subsidy": true,
+  "organisation_code": "PT",
+  "iccp": false,
+  "centre_email_address": "jurongwest@justkids.com.sg",
+  "centre_code": "PT9095",
+  "weekday_halfday_am": "07:00-13:00",
+  "weekday_halfday_pm": "13:00-19:00",
+  "remarks": null,
+  "scheme_type": "Partner Operator Scheme",
+  "weekday_full_day": "07:00-19:00",
+  "centre_contact_no": "67919909",
+  "k1_vacancy": "Immediate vacancies",
+  "food_offered": "No Pork No Lard with No Beef(from Non Halal Sources)",
+  "pg_vacancy": "Immediate vacancies",
+  "n2_vacancy": "Immediate vacancies",
+  "gst_regisration": false,
+  "centre_name": "JUST KIDS @ JURONG WEST PTE. LTD.",
+  "organisation_description": "PRIVATE",
+  "k2_vacancy": "Immediate vacancies",
+  "id": "PT9095",
+  "service_listing": [
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-01-01",
+      "programmes_offered": "Child Full Day",
+      "fees": "830",
+      "remarks": "For Non Citizens",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-01-01",
+      "programmes_offered": "Child Full Day",
+      "fees": "714",
+      "remarks": "For Singapore Citizens",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-07-13",
+      "programmes_offered": "Child Half-Day AM",
+      "fees": "600",
+      "remarks": "For Citizens",
+      "age_from": "18"
+    },
+    {
+      "age_to": "84",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-04-03",
+      "programmes_offered": "Child Half-Day AM",
+      "fees": "650",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-07-13",
+      "programmes_offered": "Child Half-Day PM",
+      "fees": "600",
+      "remarks": "For Citizens",
+      "age_from": "18"
+    },
+    {
+      "age_to": "84",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-04-03",
+      "programmes_offered": "Child Half-Day PM",
+      "fees": "650",
+      "remarks": "na",
+      "age_from": "18"
+    }
+  ],
+  "license_history": [
+    {
+      "license_issue_date": "2016-01-02",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2015-01-02",
+      "license_tenure": "12"
+    }
+  ],
+  "incidental_charges": [
+    {
+      "incidental_charges": "PVC MATTRESS (OPTIONAL)",
+      "amount": "35",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "Insurance(Optional)",
+      "amount": "10",
+      "frequency": "Annual"
+    },
+    {
+      "incidental_charges": "Uniform",
+      "amount": "30",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "Deposit",
+      "amount": "830",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "Registration Fee",
+      "amount": "180",
+      "frequency": "Ad-hoc"
+    }
+  ],
+  "svy21": [
+    13418.56,
+    35923.28
+  ],
+  "coordinates": [
+    103.7022958,
+    1.3411484
+  ],
+  "planning_area": "JW"
+}

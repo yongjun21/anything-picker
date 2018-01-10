@@ -1,0 +1,121 @@
+{
+  "provision_of_transport": false,
+  "last_updated": "2017-11-10",
+  "spark_certified": false,
+  "extended_operating_hours": false,
+  "second_languages_offered": null,
+  "postal_code": "550301",
+  "centre_website": null,
+  "saturday": "07:00-14:00",
+  "centre_address": "301, SERANGOON AVENUE 2, #01 - 342, CHUAN VILLAGE, SINGAPORE 550301",
+  "n1_vacancy": "No vacancies for the next 1-2 years",
+  "infant_vacancy": "No vacancies for the next 1-2 years",
+  "government_subsidy": true,
+  "organisation_code": "PT",
+  "iccp": false,
+  "centre_email_address": "principal@camelotinfant.com",
+  "centre_code": "PT9277",
+  "weekday_halfday_am": "07:00-13:00",
+  "weekday_halfday_pm": "13:00-19:00",
+  "remarks": null,
+  "scheme_type": null,
+  "weekday_full_day": "07:00-19:00",
+  "centre_contact_no": "62820608",
+  "k1_vacancy": "No vacancies for the next 1-2 years",
+  "food_offered": "No Pork No Lard with Beef(from Non Halal Sources)",
+  "pg_vacancy": "No vacancies for the next 1-2 years",
+  "n2_vacancy": "No vacancies for the next 1-2 years",
+  "gst_regisration": false,
+  "centre_name": "CAMELOT INTERNATIONAL INFANT CARE PTE LTD",
+  "organisation_description": "PRIVATE",
+  "k2_vacancy": "No vacancies for the next 1-2 years",
+  "id": "PT9277",
+  "service_listing": [
+    {
+      "age_to": "18",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-06-24",
+      "programmes_offered": "Emergency Care",
+      "fees": "120",
+      "remarks": "na",
+      "age_from": "2"
+    },
+    {
+      "age_to": "18",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2016-06-24",
+      "programmes_offered": "Infant FC1-12 to 24 hrs/wk",
+      "fees": "1080",
+      "remarks": "na",
+      "age_from": "2"
+    },
+    {
+      "age_to": "18",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2016-06-24",
+      "programmes_offered": "Infant Full Day",
+      "fees": "1880",
+      "remarks": "na",
+      "age_from": "2"
+    },
+    {
+      "age_to": "18",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2016-06-24",
+      "programmes_offered": "Infant Half-Day AM",
+      "fees": "1280",
+      "remarks": "na",
+      "age_from": "2"
+    },
+    {
+      "age_to": "18",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2016-06-24",
+      "programmes_offered": "Infant Half-Day PM",
+      "fees": "1280",
+      "remarks": "na",
+      "age_from": "2"
+    }
+  ],
+  "license_history": [
+    {
+      "license_issue_date": "2017-07-01",
+      "license_tenure": "12"
+    },
+    {
+      "license_issue_date": "2016-07-01",
+      "license_tenure": "12"
+    }
+  ],
+  "incidental_charges": [
+    {
+      "incidental_charges": "DEPOSIT",
+      "amount": "1880",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "REGISTRATION FEE",
+      "amount": "200",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "PVC MATTRESS COVER (OPTIONAL)",
+      "amount": "10",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "INSURANCE (OPTIONAL)",
+      "amount": "5",
+      "frequency": "Annual"
+    }
+  ],
+  "svy21": [
+    31839.93,
+    37220.52
+  ],
+  "coordinates": [
+    103.8678228,
+    1.3528835
+  ],
+  "planning_area": "SG"
+}

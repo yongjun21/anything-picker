@@ -3,10 +3,11 @@ import Vuex from 'vuex'
 import pull from 'lodash/pull'
 import uniq from 'lodash/uniq'
 
-import {toSVY21} from 'sg-heatmap/dist/helpers/geometry'
 import {collectValues, optionsSelected} from 'helpers/util'
 
 import * as modules from './modules'
+
+const ROUTING_SERVER = "https://osrm-msummjnvga.now.sh"
 
 import {
   getFiltered as filtered,
@@ -19,8 +20,8 @@ Vue.use(Vuex)
 
 const store = new Vuex.Store({
   state: {
-    centreList: null,
-    schoolDetail: {},
+    CentreList: null,
+    CentreDetail: {},
     travelTime: null,
     bookmarked: [],
     postalCode: null,
@@ -36,10 +37,10 @@ const store = new Vuex.Store({
     }
   },
   mutations: {
-    setSchoolList (state, arr) {
+    setCentreList (state, arr) {
       state.centreList = arr
     },
-    addSchoolDetail (state, obj) {
+    addCentreDetail (state, obj) {
       Vue.set(state.schoolDetail, obj.id, obj)
     },
     setTravelTime (state, obj) {
@@ -59,26 +60,27 @@ const store = new Vuex.Store({
     }
   },
   actions: {
-    fetchSchoolList (context) {
+    fetchCentreList (context) {
       return window.fetch(window.location.origin + '/centreList.json')
         .then(res => res.json())
         .then(json => {
-          context.commit('setSchoolList', json)
+          json = json.slice(0, 100)
+          context.commit('setCentreList', json)
           return json
         })
     },
-    fetchSchoolDetail (context, id) {
-      return window.fetch(window.location.origin + '/data/schools/' + id + '.json')
+    fetchCentreDetail (context, id) {
+      return window.fetch(window.location.origin + '/data/centres/' + id + '.json')
         .then(res => res.json())
         .then(json => {
-          context.commit('addSchoolDetail', json)
+          context.commit('addCentreDetail', json)
           return json
         })
     },
     fetchTravelTime (context, lnglat) {
       context.commit('setTravelTime', null)
       if (!lnglat) return
-      const url = window.location.origin + '/travel-time?location=' + toSVY21(lnglat).join(',')
+      const url = ROUTING_SERVER + '/school?coordinates=' + lnglat.join(',')
       return window.fetch(url)
         .then(res => res.json())
         .then(json => {

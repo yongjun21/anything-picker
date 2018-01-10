@@ -69,9 +69,6 @@ export default {
   },
   computed: {
     ...mapState(['centreList', 'travelTime', 'bookmarked', 'location']),
-    ...mapState({
-      homeSchoolDistance: state => state.homeSchoolDistance}
-    ),
     ...mapGetters(['filtered', 'suggested']),
     renderedCards () {
       const cards = this.$route.path === '/bookmark'

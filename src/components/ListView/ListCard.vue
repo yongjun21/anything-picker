@@ -2,19 +2,8 @@
   <div class="card no-shadow">
     <div class="card-title cursor-pointer" @click="$emit('focus')">
       <div class="text-primary text-bold">{{info.name}}</div>
-      <small class="text-primary">
-        {{schoolType[0]}} &nbsp;&middot;&nbsp; {{schoolType[1]}}
-      </small>
     </div>
     <div class="card-details" @click="$emit('focus')">
-      <div class="unique-title text-negative text-italic" v-if="uniqueCcas.length > 0">
-        Unique CCAs:
-      </div>
-      <div class="unique-content" v-if="uniqueCcas.length > 0">
-        <span v-for="cca in uniqueCcas">
-          <small class="cca-name">{{cca.name}}</small><small class="dot">&middot;</small>
-        </span>
-      </div>
     </div>
 
     <div class="card-actions">
@@ -45,58 +34,13 @@ export default {
     bookmarked: Boolean
   },
   computed: {
-    schoolType () {
-      return Object.keys(this.info.schoolType).slice(0, 2).map(type => {
-        type = type.split(' ').filter(term => term !== 'SCHOOL').join(' ')
-        return capitalize(type)
-      })
-    },
     travelTime () {
       if ('travelTime' in this.info) {
         if (this.info.travelTime > 3600) return '> 1 HR'
         else return Math.ceil(this.info.travelTime / 60) + ' min'
       }
-    },
-    specialProgrammes () {
-      const result = []
-      const data = this.info['specialProgrammes']
-
-      for (let key in data) {
-        result.push({
-          programmeGroup: key,
-          programmeName: data[key],
-          imgUrl: assets[key]
-        })
-      }
-
-      return result
-    },
-    uniqueCcas () {
-      return this.info['uniqueCcas']
     }
   }
-}
-
-const assets = {
-  'Aesthetics': '/assets/Programmes/Aesthetics_VisualArt.svg',
-  'Business & Entrepreneurship': '/assets/Programmes/Business_Innovation.svg',
-  'Community & Youth Leadership': '/assets/Programmes/Leadership.svg',
-  'Community Service & Student Leadership': '/assets/Programmes/Leadership.svg',
-  'Humanities': '/assets/Programmes/Humanities_Languages.svg',
-  'ICT': '/assets/Programmes/ICT.svg',
-  'Innovation & Enterprise': '/assets/Programmes/Business_Innovation.svg',
-  'Interdisciplinary': '/assets/Programmes/Interdisciplinary.svg',
-  'Languages': '/assets/Programmes/Humanities_Languages.svg',
-  'Languages & Humanities': '/assets/Programmes/Humanities_Languages.svg',
-  'Mathematics': '/assets/Programmes/Mathematics.svg',
-  'Mathematics & Innovation & Enterprise': '/assets/Programmes/Mathematics.svg',
-  'Music & Performing Arts': '/assets/Programmes/PerformingArts.svg',
-  'Music & Performing Arts / Visual Arts & Design': '/assets/Programmes/PerformingArts.svg',
-  'STEM': '/assets/Programmes/Stem_Science.svg',
-  'Science': '/assets/Programmes/Stem_Science.svg',
-  'Science, ICT & Mathematics': '/assets/Programmes/Stem_Science.svg',
-  'Sports & Outdoor Education': '/assets/Programmes/Sports.svg',
-  'Visual Arts & Design': '/assets/Programmes/Aesthetics_VisualArt.svg'
 }
 
 </script>

@@ -1,0 +1,131 @@
+{
+  "provision_of_transport": false,
+  "last_updated": "2017-11-08",
+  "spark_certified": false,
+  "extended_operating_hours": false,
+  "second_languages_offered": "Chinese",
+  "postal_code": "809442",
+  "centre_website": null,
+  "saturday": "07:00-14:00",
+  "centre_address": "38, DEDAP ROAD, TUAN SING PARK, SINGAPORE 809442",
+  "n1_vacancy": "No vacancies for the next 1-2 years",
+  "infant_vacancy": "No vacancies for the next 1-2 years",
+  "government_subsidy": true,
+  "organisation_code": "PT",
+  "iccp": false,
+  "centre_email_address": "MENGWEI.TAN@STARLEARNERS.COM.SG",
+  "centre_code": "PT9335",
+  "weekday_halfday_am": "07:00-13:00",
+  "weekday_halfday_pm": "13:00-19:00",
+  "remarks": null,
+  "scheme_type": null,
+  "weekday_full_day": "07:00-19:00",
+  "centre_contact_no": "64817916",
+  "k1_vacancy": "No vacancies for the next 1-2 years",
+  "food_offered": "No Pork No Lard with No Beef(without Certification from MUIS but from Halal Sources)",
+  "pg_vacancy": "No vacancies for the next 1-2 years",
+  "n2_vacancy": "No vacancies for the next 1-2 years",
+  "gst_regisration": false,
+  "centre_name": "STAR LEARNERS @ SENGKANG WEST PTE LTD",
+  "organisation_description": "PRIVATE",
+  "k2_vacancy": "No vacancies for the next 1-2 years",
+  "id": "PT9335",
+  "service_listing": [
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-01-26",
+      "programmes_offered": "Child Full Day",
+      "fees": "1000",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-01-26",
+      "programmes_offered": "Child Half-Day AM",
+      "fees": "850",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2017-01-26",
+      "programmes_offered": "Child Half-Day PM",
+      "fees": "850",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "18",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2017-01-26",
+      "programmes_offered": "Infant Full Day",
+      "fees": "1600",
+      "remarks": "na",
+      "age_from": "2"
+    },
+    {
+      "age_to": "18",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2017-01-26",
+      "programmes_offered": "Infant Half-Day AM",
+      "fees": "1200",
+      "remarks": "na",
+      "age_from": "2"
+    },
+    {
+      "age_to": "18",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2017-01-26",
+      "programmes_offered": "Infant Half-Day PM",
+      "fees": "1200",
+      "remarks": "na",
+      "age_from": "2"
+    }
+  ],
+  "license_history": [
+    {
+      "license_issue_date": "2017-02-01",
+      "license_tenure": "12"
+    }
+  ],
+  "incidental_charges": [
+    {
+      "incidental_charges": "DEPOSIT",
+      "amount": "1600",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "UNIFORM",
+      "amount": "45",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "PVC MATTRESS (OPTIONAL)",
+      "amount": "40",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "Insurance(Optional)",
+      "amount": "30",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "REGISTRATION FEE",
+      "amount": "110",
+      "frequency": "Ad-hoc"
+    }
+  ],
+  "svy21": [
+    31602.82,
+    41144.13
+  ],
+  "coordinates": [
+    103.8656927,
+    1.3883672
+  ],
+  "planning_area": "SG"
+}

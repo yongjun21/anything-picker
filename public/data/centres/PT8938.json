@@ -1,0 +1,170 @@
+{
+  "provision_of_transport": true,
+  "last_updated": "2017-11-09",
+  "spark_certified": false,
+  "extended_operating_hours": false,
+  "second_languages_offered": "Chinese",
+  "postal_code": "678493",
+  "centre_website": null,
+  "saturday": "07:00-14:00",
+  "centre_address": "1, JALAN SUASA, GREEN HILL ESTATE, SINGAPORE 678493",
+  "n1_vacancy": "Immediate vacancies",
+  "infant_vacancy": "No vacancies for the next 1-2 years",
+  "government_subsidy": true,
+  "organisation_code": "PT",
+  "iccp": false,
+  "centre_email_address": "CAMBRIDGEDRF@SINGNET.COM.SG",
+  "centre_code": "PT8938",
+  "weekday_halfday_am": "07:00-13:00",
+  "weekday_halfday_pm": "13:00-19:00",
+  "remarks": null,
+  "scheme_type": null,
+  "weekday_full_day": "07:00-19:00",
+  "centre_contact_no": "67668208",
+  "k1_vacancy": "Immediate vacancies",
+  "food_offered": "No Pork No Lard with No Beef(from Non Halal Sources)",
+  "pg_vacancy": "Immediate vacancies",
+  "n2_vacancy": "No vacancies for the next 1-2 years",
+  "gst_regisration": false,
+  "centre_name": "CAMBRIDGE CDC @ DAIRY FARM PTE. LTD.",
+  "organisation_description": "PRIVATE",
+  "k2_vacancy": "No vacancies for the next 1-2 years",
+  "id": "PT8938",
+  "service_listing": [
+    {
+      "age_to": "35",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2013-04-16",
+      "programmes_offered": "Child FC1-12 to 24 hrs/wk",
+      "fees": "980",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2013-04-16",
+      "programmes_offered": "Child FC1-12 to 24 hrs/wk",
+      "fees": "930",
+      "remarks": "na",
+      "age_from": "36"
+    },
+    {
+      "age_to": "35",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2013-04-16",
+      "programmes_offered": "Child Full Day",
+      "fees": "1200",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2013-04-16",
+      "programmes_offered": "Child Full Day",
+      "fees": "1150",
+      "remarks": "na",
+      "age_from": "36"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2013-04-16",
+      "programmes_offered": "Child Half-Day AM",
+      "fees": "1000",
+      "remarks": "na",
+      "age_from": "36"
+    },
+    {
+      "age_to": "35",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2013-04-16",
+      "programmes_offered": "Child Half-Day AM",
+      "fees": "1050",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2013-04-16",
+      "programmes_offered": "Emergency Care",
+      "fees": "100",
+      "remarks": "na",
+      "age_from": "36"
+    },
+    {
+      "age_to": "35",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2013-04-16",
+      "programmes_offered": "Emergency Care",
+      "fees": "105",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2013-04-16",
+      "programmes_offered": "Emergency Care",
+      "fees": "115",
+      "remarks": "na",
+      "age_from": "36"
+    },
+    {
+      "age_to": "35",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2013-04-16",
+      "programmes_offered": "Emergency Care",
+      "fees": "120",
+      "remarks": "na",
+      "age_from": "18"
+    }
+  ],
+  "license_history": [
+    {
+      "license_issue_date": "2016-04-16",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2014-04-16",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2013-04-16",
+      "license_tenure": "12"
+    }
+  ],
+  "incidental_charges": [
+    {
+      "incidental_charges": "DEPOSIT",
+      "amount": "1200",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "REGISTRATION FEE",
+      "amount": "250",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "UNIFORM",
+      "amount": "42",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "INSURANCE (OPTIONAL)",
+      "amount": "5",
+      "frequency": "Annual"
+    }
+  ],
+  "svy21": [
+    20893.95,
+    38893.53
+  ],
+  "coordinates": [
+    103.7694658,
+    1.3680129
+  ],
+  "planning_area": "BP"
+}

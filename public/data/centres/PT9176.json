@@ -1,0 +1,171 @@
+{
+  "provision_of_transport": false,
+  "last_updated": "2017-11-15",
+  "spark_certified": false,
+  "extended_operating_hours": false,
+  "second_languages_offered": null,
+  "postal_code": "238879",
+  "centre_website": null,
+  "saturday": "07:00-14:00",
+  "centre_address": "442, ORCHARD ROAD, #02 - 05, CLAYMORE CONNECT, SINGAPORE 238879",
+  "n1_vacancy": "No vacancies for the next 1-2 years",
+  "infant_vacancy": "No vacancies for the next 1-2 years",
+  "government_subsidy": true,
+  "organisation_code": "PT",
+  "iccp": false,
+  "centre_email_address": "ORCHARD@MAPLEBEAR.SG",
+  "centre_code": "PT9176",
+  "weekday_halfday_am": "07:00-13:00",
+  "weekday_halfday_pm": "13:00-19:00",
+  "remarks": null,
+  "scheme_type": null,
+  "weekday_full_day": "07:00-19:00",
+  "centre_contact_no": "67342369",
+  "k1_vacancy": "No vacancies for the next 1-2 years",
+  "food_offered": "No Pork No Lard with No Beef(from Non Halal Sources)",
+  "pg_vacancy": "No vacancies for the next 1-2 years",
+  "n2_vacancy": "No vacancies for the next 1-2 years",
+  "gst_regisration": true,
+  "centre_name": "MAPLE BEAR EDUCARE PTE. LTD.",
+  "organisation_description": "PRIVATE",
+  "k2_vacancy": "No vacancies for the next 1-2 years",
+  "id": "PT9176",
+  "service_listing": [
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-03-01",
+      "programmes_offered": "Child FC1-12 to 24 hrs/wk",
+      "fees": "963",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-03-01",
+      "programmes_offered": "Child Full Day",
+      "fees": "1690.6",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-03-01",
+      "programmes_offered": "Child Half-Day AM",
+      "fees": "1262.6",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-03-01",
+      "programmes_offered": "Child Half-Day AM",
+      "fees": "1476.6",
+      "remarks": "3 Full Day per week programme:  From 7am-7pm=12 hours 3 days per week = 3*12=36 hours",
+      "age_from": "18"
+    },
+    {
+      "age_to": "83",
+      "levels_offered": "Child Care Programme",
+      "last_updated": "2016-03-01",
+      "programmes_offered": "Child Half-Day PM",
+      "fees": "1262.6",
+      "remarks": "na",
+      "age_from": "18"
+    },
+    {
+      "age_to": "18",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2016-03-01",
+      "programmes_offered": "Infant FC1-12 to 24 hrs/wk",
+      "fees": "1369.6",
+      "remarks": "3 times a week, 6 hours each.",
+      "age_from": "2"
+    },
+    {
+      "age_to": "17",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2016-03-01",
+      "programmes_offered": "Infant Full Day",
+      "fees": "2118.6",
+      "remarks": "na",
+      "age_from": "2"
+    },
+    {
+      "age_to": "18",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2016-03-01",
+      "programmes_offered": "Infant Half-Day AM",
+      "fees": "1690.6",
+      "remarks": "3 full days per week = 3*12=36 hours",
+      "age_from": "2"
+    },
+    {
+      "age_to": "17",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2016-03-01",
+      "programmes_offered": "Infant Half-Day AM",
+      "fees": "1583.6",
+      "remarks": "na",
+      "age_from": "2"
+    },
+    {
+      "age_to": "17",
+      "levels_offered": "Infant Care Programme",
+      "last_updated": "2016-03-01",
+      "programmes_offered": "Infant Half-Day PM",
+      "fees": "1583.6",
+      "remarks": "na",
+      "age_from": "2"
+    }
+  ],
+  "license_history": [
+    {
+      "license_issue_date": "2016-08-19",
+      "license_tenure": "24"
+    },
+    {
+      "license_issue_date": "2015-08-19",
+      "license_tenure": "12"
+    }
+  ],
+  "incidental_charges": [
+    {
+      "incidental_charges": "Insurance(Optional)",
+      "amount": "5.35",
+      "frequency": "Annual"
+    },
+    {
+      "incidental_charges": "Registration Fee",
+      "amount": "321",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "UNIFORM",
+      "amount": "0",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "Deposit",
+      "amount": "0",
+      "frequency": "Ad-hoc"
+    },
+    {
+      "incidental_charges": "Deposit",
+      "amount": "0",
+      "frequency": "Ad-hoc"
+    }
+  ],
+  "svy21": [
+    27426.39,
+    32220.87
+  ],
+  "coordinates": [
+    103.8281644,
+    1.3076686
+  ],
+  "planning_area": "CA"
+}

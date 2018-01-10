@@ -32,11 +32,10 @@
   "homepage": "https://github.com/yongjun21/datagovsg-school-picker#readme",
   "babel": {
     "presets": [
-      "es2015",
       "stage-2"
     ],
     "plugins": [
-      "transform-runtime"
+      "babel-plugin-transform-es2015-modules-commonjs"
     ]
   },
   "devDependencies": {
@@ -76,7 +75,6 @@
     "fastclick": "^1.0.6",
     "lodash": "^4.17.4",
     "moment": "^2.18.1",
-    "node-fetch": "^1.6.3",
     "quasar-framework": "^0.13.6",
     "sg-heatmap": "^2.5.9",
     "vue": "^2.2.6",

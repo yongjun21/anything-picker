@@ -28,23 +28,16 @@ export default {
     ...mapGetters(['filtered', 'suggested']),
 
     // Set styling of marker depending on settings
-    visibleSchools () {
-      const {oneKm, twoKm} = this.homeSchoolDistance
+    visibleCentres () {
       const location = this.location && toSVY21(this.location)
 
       function getMarkerLabel (school) {
         if (location) {
-          if (school.levelOfEducation.indexOf('P') > -1) {
-            if (oneKm.indexOf(school.id) > -1) return 'within_1km'
-            else if (twoKm.indexOf(school.id) > -1) return 'within_2km'
-          } else {
-            let distance = Math.sqrt(
-              Math.pow(location[0] - school.svy21[0], 2) +
-              Math.pow(location[1] - school.svy21[1], 2)
-            )
-            if (distance <= 1000) return 'within_1km'
-            else if (distance <= 2000) return 'within_2km'
-          }
+          let distance = Math.sqrt(
+            Math.pow(location[0] - school.svy21[0], 2) +
+            Math.pow(location[1] - school.svy21[1], 2)
+          )
+          if (distance <= 2000) return 'within_2km'
         }
         return 'default'
       }
@@ -190,7 +183,7 @@ export default {
       else if (visibleMarkers.length > 0) this.map.fitBounds(L.featureGroup(visibleMarkers).getBounds())
     }
 
-    this.$watch('visibleSchools', function (visible) {
+    this.$watch('visibleCentres', function (visible) {
       visibleMarkers = []
       markers.forEach((marker, i) => {
         const el = marker.getElement()
