@@ -21,6 +21,6 @@ export function indexSchoolData () {
     result.push(forwardIndex[key])
   })
 
-  fs.writeFileSync('public/clinicList.json', JSON.stringify(result))
+  fs.writeFileSync('public/data/entityList.json', JSON.stringify(result))
   return result
 }

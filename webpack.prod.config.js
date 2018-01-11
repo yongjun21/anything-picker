@@ -48,7 +48,8 @@ module.exports = {
       'process.env': {
         ROUTING_SERVER_URL: JSON.stringify(process.env.ROUTING_SERVER_URL),
         GA_TRACKING_CODE: JSON.stringify(process.env.GA_TRACKING_CODE),
-        NODE_ENV: JSON.stringify('production')
+        NODE_ENV: JSON.stringify('production'),
+        VERSION: JSON.stringify('clinic')
       }
     }),
     new webpack.optimize.UglifyJsPlugin({sourceMap: true})

@@ -21,8 +21,8 @@ Vue.use(Vuex)
 
 const store = new Vuex.Store({
   state: {
-    clinicList: null,
-    centreDetail: {},
+    entityList: null,
+    entityDetail: {},
     travelTime: null,
     bookmarked: [],
     postalCode: null,
@@ -38,11 +38,11 @@ const store = new Vuex.Store({
     }
   },
   mutations: {
-    setClinicList (state, arr) {
-      state.clinicList = arr
+    setEntityList (state, arr) {
+      state.entityList = arr
     },
-    addCentreDetail (state, obj) {
-      Vue.set(state.schoolDetail, obj.id, obj)
+    addEntityDetail (state, obj) {
+      Vue.set(state.entityDetail, obj.id, obj)
     },
     setTravelTime (state, obj) {
       state.travelTime = obj
@@ -61,27 +61,27 @@ const store = new Vuex.Store({
     }
   },
   actions: {
-    fetchClinicList (context) {
-      return window.fetch(window.location.origin + '/clinicList.json')
+    fetchEntityList (context) {
+      return window.fetch(window.location.origin + '/data/entityList.json')
         .then(res => res.json())
         .then(json => {
           json = json.slice(0, 100)
-          context.commit('setClinicList', json)
+          context.commit('setEntityList', json)
           return json
         })
     },
-    fetchCentreDetail (context, id) {
-      return window.fetch(window.location.origin + '/data/centres/' + id + '.json')
+    fetchEntityDetail (context, id) {
+      return window.fetch(window.location.origin + '/data/entities/' + id + '.json')
         .then(res => res.json())
         .then(json => {
-          context.commit('addCentreDetail', json)
+          context.commit('addEntityDetail', json)
           return json
         })
     },
     fetchTravelTime (context, lnglat) {
       context.commit('setTravelTime', null)
       if (!lnglat) return
-      const url = ROUTING_SERVER + '/school?coordinates=' + lnglat.join(',')
+      const url = `${ROUTING_SERVER}/${process.env.VERSION}?coordinates=${lnglat.join(',')}`
       return window.fetch(url)
         .then(res => res.json())
         .then(json => {

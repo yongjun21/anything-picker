@@ -35,7 +35,7 @@ files.forEach(file => {
     const location = locations[processed.id]
     Object.assign(processed, location)
 
-    fs.writeFileSync(`public/data/clinics/${processed.id}.json`, JSON.stringify(processed, null, '\t'))
+    fs.writeFileSync(`public/data/entities/${processed.id}.json`, JSON.stringify(processed, null, '\t'))
   } catch (err) {
     console.log('Bad record', file)
     throw err

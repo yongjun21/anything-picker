@@ -7,7 +7,7 @@ const multiInputs = [
 ]
 
 export function getFiltered (state, getters) {
-  return state.clinicList
+  return state.entityList
     .filter(clinic => {
       let match = true
       /*
@@ -72,7 +72,7 @@ export function getSuggested (state, getters) {
 
 export function importOptions (context, query) {
   if (query.shortlist) {
-    const bookmarked = context.state.clinicList.map(school => school.id)
+    const bookmarked = context.state.entityList.map(school => school.id)
       .filter(id => query.shortlist.split(',').indexOf(id) > -1)
     context.commit('setBookmarked', bookmarked)
   } else {
