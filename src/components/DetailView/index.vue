@@ -4,7 +4,7 @@
       v-if="detail"
       :info="detail"
       :bookmarked="isBookmarked"
-      @bookmark="$emit('bookmark', schoolId)"
+      @bookmark="$emit('bookmark', centreId)"
       @close="close" />
     <div class="picker-loading" v-else>
       <spinner :size="60" color="grey" />
@@ -21,44 +21,40 @@ import DetailCard from './DetailCard'
 export default {
   name: 'DetailView',
   props: {
-    schoolId: String,
+    centreId: String,
     selectedTab: String
   },
   computed: {
-    ...mapState(['schoolDetail', 'travelTime', 'bookmarked', 'location']),
-    ...mapState({
-      homeSchoolDistance: state => state.homeSchoolDistance}
-    ),
+    ...mapState(['centreDetail', 'travelTime', 'bookmarked', 'location']),
+
     detail () {
-      if (this.schoolId in this.schoolDetail) {
-        let school = this.schoolDetail[this.schoolId]
+      if (this.centreId in this.centreDetail) {
+        let centre = this.centreDetail[this.centreId]
 
         if (this.location) {
-          // const {oneKm, twoKm} = this.homeSchoolDistance
           const location = toSVY21(this.location)
 
           const distance = Math.sqrt(
-            Math.pow(location[0] - school.svy21[0], 2) +
-            Math.pow(location[1] - school.svy21[1], 2)
+            Math.pow(location[0] - centre.svy21[0], 2) +
+            Math.pow(location[1] - centre.svy21[1], 2)
           )
-          school = Object.assign({distance}, school)
+          centre = Object.assign({distance}, centre)
         }
 
         if (this.travelTime) {
-          school = Object.assign({travelTime: this.travelTime[school.id]}, school)
+          centre = Object.assign({travelTime: this.travelTime[centre.id]}, centre)
         }
-
-        return school
+        return centre
       } else {
-        this.fetchSchoolDetail(this.schoolId)
+        this.fetchCentreDetail(this.centreId)
       }
     },
     isBookmarked () {
-      return this.bookmarked.indexOf(this.schoolId) > -1
+      return this.bookmarked.indexOf(this.centreId) > -1
     }
   },
   methods: {
-    ...mapActions(['fetchSchoolDetail']),
+    ...mapActions(['fetchCentreDetail']),
     close () {
       this.$router.push({path: this.selectedTab, query: this.$route.query})
     }

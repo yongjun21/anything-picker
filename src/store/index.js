@@ -41,7 +41,7 @@ const store = new Vuex.Store({
       state.centreList = arr
     },
     addCentreDetail (state, obj) {
-      Vue.set(state.schoolDetail, obj.id, obj)
+      Vue.set(state.centreDetail, obj.id, obj)
     },
     setTravelTime (state, obj) {
       state.travelTime = obj
@@ -64,7 +64,6 @@ const store = new Vuex.Store({
       return window.fetch(window.location.origin + '/centreList.json')
         .then(res => res.json())
         .then(json => {
-          json = json.slice(0, 100)
           context.commit('setCentreList', json)
           return json
         })
@@ -80,7 +79,7 @@ const store = new Vuex.Store({
     fetchTravelTime (context, lnglat) {
       context.commit('setTravelTime', null)
       if (!lnglat) return
-      const url = ROUTING_SERVER + '/school?coordinates=' + lnglat.join(',')
+      const url = ROUTING_SERVER + '/childcare?coordinates=' + lnglat.join(',')
       return window.fetch(url)
         .then(res => res.json())
         .then(json => {

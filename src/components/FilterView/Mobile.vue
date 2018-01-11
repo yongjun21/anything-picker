@@ -6,9 +6,7 @@
       </big>
       <big class="filter-title text-primary text-bold">FILTERS</big>
       <div class="tab-list">
-        <SchoolLevelTab @expand="openModal" />
         <component :is="DynamicTab" @expand="openModal" />
-        <CcaTab @expand="openModal" />
         <MoreOptionsTab @expand="openModal" />
       </div>
     </div>
@@ -37,9 +35,6 @@ import MoreOptionsModal from './Modal/MoreOptions'
 export default {
   computed: {
     DynamicTab () {
-      const schoolLevel = this.$store.state.schoolLevel.selected
-      if (schoolLevel === 'S' || schoolLevel === 'T') return 'PsleTab'
-      if (schoolLevel === 'J') return 'L1R5Tab'
       return 'LocationTab'
     }
   },
@@ -49,12 +44,8 @@ export default {
     }
   },
   components: {
-    SchoolLevelTab,
     LocationTab,
     LocationModal,
-    PsleTab,
-    L1R5Tab,
-    CcaTab,
     CcaModal,
     MoreOptionsTab,
     MoreOptionsModal

@@ -4,12 +4,17 @@ const singleInputs = [
 ]
 
 const multiInputs = [
+  'planningAreas'
 ]
 
 export function getFiltered (state, getters) {
   return state.centreList
     .filter(centre => {
       let match = true
+      if (state.planningAreas.selected.length > 0) {
+        const selected = state.planningAreas.selected
+        match = match && selected.indexOf(centre.planningArea) > -1
+      }
       /*
       if (state.schoolLevel.selected) {
         const selected = state.schoolLevel.selected
