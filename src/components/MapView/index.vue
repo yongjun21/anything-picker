@@ -1,6 +1,6 @@
 <template>
   <div class="picker-map column">
-    <div class="map-container auto" />
+    <div class="map-container auto" ref="container" />
     <PostalCodeControl class="absolute-top-left" />
   </div>
 </template>
@@ -8,14 +8,14 @@
 <script>
 import {Platform} from 'quasar-framework'
 import {mapState, mapGetters} from 'vuex'
-import {toSVY21} from 'sg-heatmap/dist/helpers/geometry'
+// import {toSVY21} from 'sg-heatmap/dist/helpers/geometry'
 
 import PostalCodeControl from './PostalCodeControl'
 
 export default {
   name: 'MapView',
   props: {
-    centreId: String,
+    entityId: String,
     hovered: String,
     selectedTab: String
   },
@@ -28,33 +28,39 @@ export default {
     ...mapGetters(['filtered', 'suggested']),
 
     // Set styling of marker depending on settings
-    visibleCentres () {
-      const location = this.location && toSVY21(this.location)
+    visibleEntities () {
+      // const {oneKm, twoKm} = this.homeSchoolDistance
+      // const location = this.location && toSVY21(this.location)
+      //
+      // function getMarkerLabel (school) {
+      //   if (location) {
+      //     if (school.levelOfEducation.indexOf('P') > -1) {
+      //       if (oneKm.indexOf(school.id) > -1) return 'within_1km'
+      //       else if (twoKm.indexOf(school.id) > -1) return 'within_2km'
+      //     } else {
+      //       let distance = Math.sqrt(
+      //         Math.pow(location[0] - school.svy21[0], 2) +
+      //         Math.pow(location[1] - school.svy21[1], 2)
+      //       )
+      //       if (distance <= 1000) return 'within_1km'
+      //       else if (distance <= 2000) return 'within_2km'
+      //     }
+      //   }
+      //   return 'default'
+      // }
 
-      function getMarkerLabel (school) {
-        if (location) {
-          let distance = Math.sqrt(
-            Math.pow(location[0] - school.svy21[0], 2) +
-            Math.pow(location[1] - school.svy21[1], 2)
-          )
-          if (distance <= 2000) return 'within_2km'
-        }
-        return 'default'
-      }
-
-      return this.entityList.map(school => {
-        // If a school is selected, highlight the school and provide school details
-        if (school.id === this.centreId) {
+      return this.entityList.map(centre => {
+        if (centre.id === this.entityId) {
           return 'focused'
         } else if (this.selectedTab === '/bookmark') {
-          if (this.bookmarked.indexOf(school.id) > -1) return 'bookmarked'
+          if (this.bookmarked.indexOf(centre.id) > -1) return 'bookmarked'
         } else {
-          if (this.filtered.indexOf(school.id) > -1) {
-            if (this.bookmarked.indexOf(school.id) > -1) return 'bookmarked'
-            return getMarkerLabel(school)
+          if (this.filtered.indexOf(centre.id) > -1) {
+            if (this.bookmarked.indexOf(centre.id) > -1) return 'bookmarked'
+            return 'default'
           }
-          if (this.suggested.indexOf(school.id) > -1) {
-            if (this.bookmarked.indexOf(school.id) > -1) return 'bookmarked'
+          if (this.suggested.indexOf(centre.id) > -1) {
+            if (this.bookmarked.indexOf(centre.id) > -1) return 'bookmarked'
             return 'suggested'
           }
         }
@@ -69,62 +75,45 @@ export default {
       minZoom: 11,
       maxZoom: 17,
       maxBounds: [[1.16, 103.582], [1.48073, 104.1647]],
-      maxBoundsViscosity: 1.0
+      maxBoundsViscosity: 1.0,
+      preferCanvas: true
     }
 
     const markerTypes = {
       default: {
-        color: 'rgb(241,126,89)',
-        // shadow: '0px 0 0 10px rgba(241,126,89,0.5)',
-        shadow: '0px 0 0 1px white',
-        height: 15,
-        zIndex: 0,
-        displayName: 'Default',
-        padding: ''
-      },
-      within_1km: {
-        color: 'rgb(6,117,153)',
-        shadow: '0px 0 0 10px rgba(6,117,153,0.5)',
-        height: 15,
-        zIndex: 300,
-        displayName: 'Within 1 Km',
-        padding: '0px'
-      },
-      within_2km: {
-        color: 'rgb(92,208,253)',
-        shadow: '0px 0 0 10px rgba(92,208,253,0.5)',
-        height: 15,
-        zIndex: 200,
-        displayName: 'Within 2 Km',
-        padding: '0px'
+        fillColor: 'rgb(241,126,89)',
+        fillOpacity: 1,
+        weight: 1,
+        color: 'white',
+        radius: 7
       },
       bookmarked: {
-        color: 'rgba(61, 203, 181, 1)',
-        shadow: '0px 0 0 5px rgba(61, 203, 181, 0.5)',
-        height: 25,
-        zIndex: 100,
-        displayName: 'Bookmarked',
-        padding: '10px'
+        icon: L.icon({
+          iconUrl: '/assets/Star_White.svg',
+          iconSize: [25, 25],
+          className: 'icon-bookmarked'
+        }),
+        zIndexOffset: 100
       },
       focused: {
-        color: 'rgb(247,177,70)',
-        shadow: '0px 0 0 10px rgba(247,177,70,0.5)',
-        height: 15,
-        zIndex: 400,
-        displayName: 'Focused',
-        padding: '0px'
+        icon: L.divIcon({
+          iconSize: [15, 15],
+          className: 'icon-focused'
+        }),
+        zIndexOffset: 400
       },
       home: {
-        color: 'rgb(27,45,72)',
-        shadow: '0px 0 0 7px rgba(27,45,72,0.5)',
-        height: 36,
-        zIndex: 400,
-        displayName: 'Home',
-        padding: '10px'
+        icon: L.icon({
+          iconUrl: '/assets/Home.svg',
+          iconSize: [36, 36],
+          iconAnchor: [18, 18],
+          className: 'icon-home'
+        }),
+        zIndexOffset: 400
       }
     }
 
-    this.map = L.map(this.$el.children[0], mapSettings)
+    const map = L.map(this.$refs.container, mapSettings)
 
     // L.tileLayer('https://maps-{s}.onemap.sg/v3/Grey/{z}/{x}/{y}.png', {
 
@@ -134,10 +123,8 @@ export default {
       attribution: `
         <div class="desktop-only">
           <b>LEGEND</b>
-          <span class="default"></span>Schools
+          <span class="default"></span>Childcare
           <span class="home"></span>Home
-          <span class="within_1km"></span>Within 1km
-          <span class="within_2km"></span>Between 1-2km
           <span class="bookmark"></span>Bookmarked
           <span class="selected"></span>Selected
         </div>
@@ -146,28 +133,32 @@ export default {
       //   <img src="https://docs.onemap.sg/maps/images/oneMap64-01.png" class="onemap-attribution" />
       //   Map data © contributors, <a href="http://SLA.gov.sg">Singapore Land Authority</a>
       // `
-    }).addTo(this.map)
+    }).addTo(map)
 
-    this.map.zoomControl.setPosition('topright')
-    this.map.attributionControl.setPrefix('')
+    map.zoomControl.setPosition('topright')
+    map.attributionControl.setPrefix('')
 
-    const markers = this.entityList.map(school => {
-      const [lng, lat] = school.coordinates
-      return L.marker([lat, lng], {icon: L.divIcon()})
-        .bindTooltip(school.name, {direction: 'top', offset: [0, -6]})
-        .on('click', () => {
-          if (Platform.is.mobile) this.$emit('hover', school.id)
-          else this.$emit('focus', school.id)
+    const tooltip = L.tooltip({
+      direction: 'top',
+      offset: [0, -6],
+      permanent: true
+    })
+
+    const markers = this.entityList.map(centre => {
+      const [lng, lat] = centre.coordinates
+      return L.circleMarker([lat, lng])
+        .on('click', e => {
+          if (Platform.is.mobile) this.$emit('hover', centre.id)
+          else this.$emit('focus', centre.id)
         })
-        .on('mouseover', () => {
-          if (this.centreId || Platform.is.mobile) return
-          this.$emit('hover', school.id)
+        .on('mouseover', e => {
+          if (this.entityId || Platform.is.mobile) return
+          this.$emit('hover', centre.id)
         })
-        .on('mouseout', () => {
-          if (this.centreId || Platform.is.mobile) return
+        .on('mouseout', e => {
+          if (this.entityId || Platform.is.mobile) return
           this.$emit('hover', null)
         })
-        .addTo(this.map)
     })
 
     // Map markers
@@ -175,33 +166,32 @@ export default {
     let visibleMarkers = []
 
     function fitBounds () {
-      if (this.centreId) return
-      // const group = [...visibleMarkers]
-      // if (homeMarker) group.push(homeMarker)
-      // if (group.length > 0) this.map.fitBounds(L.featureGroup(group).getBounds())
-      if (homeMarker) this.map.flyTo(homeMarker.getLatLng(), 13)
-      else if (visibleMarkers.length > 0) this.map.fitBounds(L.featureGroup(visibleMarkers).getBounds())
+      if (this.entityId) return
+      if (homeMarker) map.flyTo(homeMarker.getLatLng(), 13)
+      else if (visibleMarkers.length > 0) map.fitBounds(L.featureGroup(visibleMarkers).getBounds())
     }
 
-    this.$watch('visibleCentres', function (visible) {
+    this.$watch('visibleEntities', function (visible) {
+      visibleMarkers.forEach(marker => {
+        marker.remove()
+      })
       visibleMarkers = []
-      markers.forEach((marker, i) => {
-        const el = marker.getElement()
-        if (visible[i]) {
-          marker._icon.style.backgroundColor = markerTypes[visible[i]]['color']
-          marker._icon.style.boxShadow = markerTypes[visible[i]]['shadow']
-          marker._icon.style.padding = markerTypes[visible[i]]['padding']
-          marker.setZIndexOffset(markerTypes[visible[i]]['zIndex'])
-          marker._icon.style.backgroundImage = visible[i] === 'bookmarked' ? "url('/assets/Star_White.svg')" : null
-          marker._icon.style.backgroundRepeat = visible[i] === 'bookmarked' ? 'no-repeat' : null
-          marker._icon.style.backgroundSize = visible[i] === 'bookmarked' ? '13px' : null
-          marker._icon.style.backgroundPosition = visible[i] === 'bookmarked' ? 'center' : null
-          resizeMarker(marker, markerTypes, visible[i])
 
-          el.classList.remove('hidden')
+      markers.forEach((marker, i) => {
+        const type = markerTypes[visible[i]]
+        if (type) {
+          if (type.icon) {
+            const iconMarker = L.marker(marker.getLatLng(), {
+              icon: type.icon,
+              zIndexOffset: type.zIndexOffset
+            }).addTo(map)
+            visibleMarkers.push(iconMarker)
+            marker.setStyle({fillOpacity: 0, opacity: 0})
+          } else {
+            marker.setStyle(markerTypes[visible[i]])
+          }
+          marker.addTo(map)
           visibleMarkers.push(marker)
-        } else {
-          el.classList.add('hidden')
         }
       })
 
@@ -209,10 +199,12 @@ export default {
     }, {immediate: true})
 
     this.$watch('hovered', function (hovered) {
-      markers.forEach((marker, i) => {
-        const isHovered = this.entityList[i].id === this.hovered
-        if (isHovered) marker.openTooltip()
-        else marker.closeTooltip()
+      this.entityList.forEach((entity, i) => {
+        if (entity.id === this.hovered) {
+          markers[i].bindTooltip(tooltip).setTooltipContent(entity.name)
+        } else {
+          markers[i].unbindTooltip(tooltip)
+        }
       })
     }, {immediate: true})
 
@@ -227,26 +219,19 @@ export default {
         if (homeMarker) {
           homeMarker.setLatLng([lat, lng])
         } else {
-          const homeIcon = L.icon({
-            iconUrl: '/assets/Home.svg',
-            iconSize: [14, 14],
-            iconAnchor: [8, 8]
-          })
-
-          homeMarker = L.marker([lat, lng], {icon: homeIcon, zIndexOffset: 400}).addTo(this.map)
-          homeMarker._icon.style.backgroundColor = markerTypes['home']['color']
-          homeMarker._icon.style.boxShadow = markerTypes['home']['shadow']
-          homeMarker._icon.style.padding = markerTypes['home']['padding']
-          resizeMarker(homeMarker, markerTypes, 'home')
+          homeMarker = L.marker([lat, lng], {
+            icon: markerTypes['home'].icon,
+            zIndexOffset: markerTypes['home'].zIndexOffset
+          }).addTo(map)
         }
       }
       fitBounds.call(this)
     }, {immediate: true})
 
-    this.$watch('centreId', function (id) {
+    this.$watch('entityId', function (id) {
       if (id) {
         const [lng, lat] = this.entityList.filter(school => school.id === id)[0].coordinates
-        this.map.flyTo([lat, lng], 15)
+        map.flyTo([lat, lng], 15, {duration: 0.3})
         this.$emit('hover', id)
       } else {
         this.$emit('hover', null)
@@ -254,13 +239,6 @@ export default {
     }, {immediate: true})
   },
   components: {PostalCodeControl}
-}
-
-function resizeMarker (el, markerTypes, markerType) {
-  el._icon.style.width = markerTypes[markerType]['height'] + 'px'
-  el._icon.style.height = markerTypes[markerType]['height'] + 'px'
-  el._icon.style.marginLeft = -(markerTypes[markerType]['height'] / 2) + 'px'
-  el._icon.style.marginTop = -(markerTypes[markerType]['height'] / 2) + 'px'
 }
 
 </script>
@@ -354,6 +332,27 @@ function resizeMarker (el, markerTypes, markerType) {
     .mobile & {
       display: none;
     }
+  }
+
+  .icon-bookmarked {
+    background-color: rgba(61, 203, 181, 1);
+    box-shadow: 0px 0 0 5px rgba(61, 203, 181, 0.5);
+    padding: 6px;
+    pointer-events: none;
+  }
+
+  .icon-focused {
+    background-color: rgb(247, 177, 70);
+    box-shadow: 0px 0 0 10px rgba(247,177,70,0.5);
+    padding: 0;
+    pointer-events: none;
+  }
+
+  .icon-home {
+    background-color: rgb(27, 45, 72);
+    box-shadow: 0px 0 0 7px rgba(27, 45, 72, 0.5);
+    padding: 10px;
+    pointer-events: none;
   }
 }
 </style>
