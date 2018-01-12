@@ -64,8 +64,7 @@ const store = new Vuex.Store({
       return window.fetch(window.location.origin + '/data/entityList.json')
         .then(res => res.json())
         .then(json => {
-          json = json.slice(0, 100)
-          context.commit('setEntityList', json)
+          context.commit('setCentreList', json)
           return json
         })
     },
@@ -80,7 +79,7 @@ const store = new Vuex.Store({
     fetchTravelTime (context, lnglat) {
       context.commit('setTravelTime', null)
       if (!lnglat) return
-      const url = ROUTING_SERVER + '/school?coordinates=' + lnglat.join(',')
+      const url = ROUTING_SERVER + '/childcare?coordinates=' + lnglat.join(',')
       return window.fetch(url)
         .then(res => res.json())
         .then(json => {

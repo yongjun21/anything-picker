@@ -28,9 +28,6 @@ export default {
   name: 'FilterView',
   computed: {
     DynamicTab () {
-      const schoolLevel = this.$store.state.schoolLevel.selected
-      if (schoolLevel === 'S' || schoolLevel === 'T') return 'PsleTab'
-      if (schoolLevel === 'J') return 'L1R5Tab'
       return 'LocationTab'
     }
   },
@@ -42,8 +39,6 @@ export default {
   components: {
     LocationTab,
     LocationModal,
-    PsleTab,
-    L1R5Tab,
     CcaModal,
     MoreOptionsTab,
     MoreOptionsModal,

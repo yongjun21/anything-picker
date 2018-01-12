@@ -15,7 +15,7 @@ import PostalCodeControl from './PostalCodeControl'
 export default {
   name: 'MapView',
   props: {
-    schoolId: String,
+    centreId: String,
     hovered: String,
     selectedTab: String
   },
@@ -44,7 +44,7 @@ export default {
 
       return this.entityList.map(school => {
         // If a school is selected, highlight the school and provide school details
-        if (school.id === this.schoolId) {
+        if (school.id === this.centreId) {
           return 'focused'
         } else if (this.selectedTab === '/bookmark') {
           if (this.bookmarked.indexOf(school.id) > -1) return 'bookmarked'
@@ -160,11 +160,11 @@ export default {
           else this.$emit('focus', school.id)
         })
         .on('mouseover', () => {
-          if (this.schoolId || Platform.is.mobile) return
+          if (this.centreId || Platform.is.mobile) return
           this.$emit('hover', school.id)
         })
         .on('mouseout', () => {
-          if (this.schoolId || Platform.is.mobile) return
+          if (this.centreId || Platform.is.mobile) return
           this.$emit('hover', null)
         })
         .addTo(this.map)
@@ -175,7 +175,7 @@ export default {
     let visibleMarkers = []
 
     function fitBounds () {
-      if (this.schoolId) return
+      if (this.centreId) return
       // const group = [...visibleMarkers]
       // if (homeMarker) group.push(homeMarker)
       // if (group.length > 0) this.map.fitBounds(L.featureGroup(group).getBounds())
@@ -243,7 +243,7 @@ export default {
       fitBounds.call(this)
     }, {immediate: true})
 
-    this.$watch('schoolId', function (id) {
+    this.$watch('centreId', function (id) {
       if (id) {
         const [lng, lat] = this.entityList.filter(school => school.id === id)[0].coordinates
         this.map.flyTo([lat, lng], 15)
