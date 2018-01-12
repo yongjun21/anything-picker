@@ -330,7 +330,7 @@ You write your own `getFiltered` function in the controller (src/store/controlle
 ```javascript
 // in src/store/controllerFor...js
 export function myCustomGetFiltered (state, getters) {
-  return state.schoolList.filter(school => {
+  return state.entityList.filter(school => {
     if (state.areas.selected.length > 0) {
       return state.areas.selected.indexOf(school.planningArea) > -1
     }
@@ -378,7 +378,7 @@ Customizing QuestionSlides (src/components/QuestionView/SlidesFor.../...vue) fol
 ## Data Flow
 ![data-flow.png](public/assets/readme/data-flow.png)
 
-School data are populated in two stage. On page load, `public/schoolList.json` is loaded first. This provides a list of schools with their summarized information, the minimum data required for filtering to work. Only when user taps into school detail then we fetch the detail jsons (public/data/schools/...json) individually. This allows a faster page load.
+School data are populated in two stage. On page load, `public/data/entityList.json` is loaded first. This provides a list of schools with their summarized information, the minimum data required for filtering to work. Only when user taps into school detail then we fetch the detail jsons (public/data/schools/...json) individually. This allows a faster page load.
 
 With regards to data processing, the process works in reverse. Scrappers will populate the raw data which will then be cleaned and processed `src/preprocess/dataCleaner.js` into the school detail jsons. We then pass the processed school details through an indexer `src/preprocess.indexer.js` to generate the summarized school information list that is loaded on page load.
 

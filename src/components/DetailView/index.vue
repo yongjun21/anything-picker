@@ -25,11 +25,11 @@ export default {
     selectedTab: String
   },
   computed: {
-    ...mapState(['centreDetail', 'travelTime', 'bookmarked', 'location']),
+    ...mapState(['entityDetail', 'travelTime', 'bookmarked', 'location']),
 
     detail () {
-      if (this.centreId in this.centreDetail) {
-        let centre = this.centreDetail[this.centreId]
+      if (this.centreId in this.entityDetail) {
+        let centre = this.entityDetail[this.centreId]
 
         if (this.location) {
           const location = toSVY21(this.location)
@@ -46,7 +46,7 @@ export default {
         }
         return centre
       } else {
-        this.fetchCentreDetail(this.centreId)
+        this.fetchEntityDetail(this.centreId)
       }
     },
     isBookmarked () {
@@ -54,7 +54,7 @@ export default {
     }
   },
   methods: {
-    ...mapActions(['fetchCentreDetail']),
+    ...mapActions(['fetchEntityDetail']),
     close () {
       this.$router.push({path: this.selectedTab, query: this.$route.query})
     }

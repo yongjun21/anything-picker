@@ -48,7 +48,7 @@ router.replace = function (...args) {
 }
 
 Loading.show()
-store.dispatch('fetchCentreList').then(centreList => {
+store.dispatch('fetchEntityList').then(entityList => {
   Loading.hide()
   window.vm = new Vue({
     el: '#app',

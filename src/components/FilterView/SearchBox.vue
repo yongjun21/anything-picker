@@ -26,13 +26,13 @@ export default {
   },
   computed: {
     ...mapState({
-      centreList: state => state.centreList,
+      entityList: state => state.entityList,
       schoolLevel: state => state.schoolLevel.selected
     })
   },
   methods: {
     search (value, done) {
-      const filtered = this.centreList.filter(school => {
+      const filtered = this.entityList.filter(school => {
         return !this.schoolLevel || school.levelOfEducation.indexOf(this.schoolLevel) > -1
       }).filter(school => {
         const terms = school.name.split(' ').map((v, i, arr) => {

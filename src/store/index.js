@@ -20,8 +20,8 @@ Vue.use(Vuex)
 
 const store = new Vuex.Store({
   state: {
-    centreList: null,
-    centreDetail: {},
+    entityList: null,
+    entityDetail: {},
     travelTime: null,
     bookmarked: [],
     postalCode: null,
@@ -37,11 +37,11 @@ const store = new Vuex.Store({
     }
   },
   mutations: {
-    setCentreList (state, arr) {
-      state.centreList = arr
+    setEntityList (state, arr) {
+      state.entityList = arr
     },
-    addCentreDetail (state, obj) {
-      Vue.set(state.centreDetail, obj.id, obj)
+    addEntityDetail (state, obj) {
+      Vue.set(state.entityDetail, obj.id, obj)
     },
     setTravelTime (state, obj) {
       state.travelTime = obj
@@ -60,19 +60,20 @@ const store = new Vuex.Store({
     }
   },
   actions: {
-    fetchCentreList (context) {
-      return window.fetch(window.location.origin + '/centreList.json')
+    fetchEntityList (context) {
+      return window.fetch(window.location.origin + '/data/entityList.json')
         .then(res => res.json())
         .then(json => {
-          context.commit('setCentreList', json)
+          json = json.slice(0, 100)
+          context.commit('setEntityList', json)
           return json
         })
     },
-    fetchCentreDetail (context, id) {
-      return window.fetch(window.location.origin + '/data/centres/' + id + '.json')
+    fetchEntityDetail (context, id) {
+      return window.fetch(window.location.origin + '/data/entities/' + id + '.json')
         .then(res => res.json())
         .then(json => {
-          context.commit('addCentreDetail', json)
+          context.commit('addEntityDetail', json)
           return json
         })
     },
