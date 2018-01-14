@@ -26,7 +26,7 @@
     </div>
     <!-- <transition-group tag="div" class="picker-list-cards" name="list"> -->
     <div class="picker-list-cards" ref="cards">
-      <ListCard class="picker-list-card"
+      <!-- <ListCard class="picker-list-card"
         v-for="card in renderedCards" :key="card.id"
         :class="{hovered: isHovered(card.id)}"
         :info="card"
@@ -34,7 +34,7 @@
         @mouseover.native="onHover(card.id)"
         @mouseleave.native="onHover(null)"
         @bookmark="$emit('bookmark', card.id)"
-        @focus="$emit('focus', card.id)" />
+        @focus="$emit('focus', card.id)" /> -->
     </div>
     <!-- </transition-group> -->
   </div>
@@ -52,7 +52,7 @@ import SearchBox from '../FilterView/SearchBox'
 export default {
   name: 'ListView',
   props: {
-    hovered: String
+    hovered: Array
   },
   data () {
     return {

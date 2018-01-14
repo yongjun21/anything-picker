@@ -72,6 +72,6 @@ export default {
   },
 
   planningArea (json) {
-    return json.planning_area
+    return json.planningArea
   }
 }

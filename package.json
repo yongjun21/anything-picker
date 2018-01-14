@@ -71,6 +71,7 @@
     "express": "^4.15.2",
     "express-history-api-fallback": "^2.1.0",
     "fastclick": "^1.0.6",
+    "geojson-extent": "^0.3.2",
     "lodash": "^4.17.4",
     "moment": "^2.18.1",
     "node-fetch": "^1.6.3",
@@ -83,7 +84,8 @@
   },
   "standard": {
     "globals": [
-      "L"
+      "L",
+      "mapboxgl"
     ]
   }
 }

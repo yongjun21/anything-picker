@@ -65,7 +65,6 @@ const store = new Vuex.Store({
       return window.fetch(window.location.origin + '/data/entityList.json')
         .then(res => res.json())
         .then(json => {
-          json = json.slice(0, 100)
           context.commit('setEntityList', json)
           return json
         })

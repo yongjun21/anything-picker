@@ -12,7 +12,7 @@ Quasar.theme.set('mat')
 Platform.has.popstate = false
 Vue.use(Quasar)
 
-console.log('APP VERSION:', process.env.VERSION || 'primary')
+console.log('APP VERSION:', process.env.VERSION)
 
 let storeUpdated = false
 

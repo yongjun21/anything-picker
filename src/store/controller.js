@@ -10,14 +10,14 @@ export function getFiltered (state, getters) {
   return state.entityList
     .filter(clinic => {
       let match = true
+      if (state.planningAreas.selected.length > 0) {
+        const selected = state.planningAreas.selected
+        match = match && selected.indexOf(clinic.planningArea) > -1
+      }
       /*
       if (state.schoolLevel.selected) {
         const selected = state.schoolLevel.selected
         match = match && school.levelOfEducation.indexOf(selected) > -1
-      }
-      if (state.planningAreas.selected.length > 0) {
-        const selected = state.planningAreas.selected
-        match = match && selected.indexOf(school.planningArea) > -1
       }
       if (state.ccasOffered.selected.length > 0) {
         const selected = state.ccasOffered.selected
@@ -63,7 +63,7 @@ export function getFiltered (state, getters) {
       */
       return match
     })
-    .map(centre => centre.id)
+    .map(clinic => clinic.id)
 }
 
 export function getSuggested (state, getters) {
