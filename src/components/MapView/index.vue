@@ -20,6 +20,28 @@ export default {
     hovered: Array,
     selectedTab: String
   },
+  data () {
+    return {
+      markerStyle: {
+        default: {
+          color: 'rgb(241, 126, 89)',
+          radius: 7
+        },
+        suggested: {
+          color: 'rgb(241, 126, 89)',
+          radius: 7
+        },
+        bookmarked: {
+          color: 'rgb(61, 203, 181)',
+          radius: 10
+        },
+        focused: {
+          color: 'rgb(247, 177, 70)',
+          radius: 7
+        }
+      }
+    }
+  },
   computed: {
     ...mapState(['entityList', 'bookmarked', 'location']),
     ...mapState({schoolLevel: state => state.schoolLevel.selected}),
@@ -44,38 +66,21 @@ export default {
         return null
       })
 
-      const markerColor = {
-        default: 'rgb(241, 126, 89)',
-        suggested: 'rgb(241, 126, 89)',
-        bookmarked: 'rgb(61, 203, 181)',
-        focused: 'rgb(247, 177, 70)'
-      }
-
-      const markerRadius = {
-        default: 7,
-        suggested: 7,
-        bookmarked: 10,
-        focused: 7
-      }
-
       return {
         type: 'FeatureCollection',
         features: this.entityList
-          .filter((d, i) => visible[i])
           .map((clinic, i) => ({
             type: 'Feature',
             geometry: {
               type: 'Point',
               coordinates: clinic.coordinates
             },
-            properties: {
+            properties: Object.assign({
               id: clinic.id,
-              type: visible[i],
-              color: markerColor[visible[i]],
-              radius: markerRadius[visible[i]]
-            }
+              type: visible[i]
+            }, this.markerStyle[visible[i]])
           }))
-          .filter(f => f.geometry.coordinates)
+          .filter(f => f.geometry.coordinates && f.properties.type)
       }
     }
   },
@@ -104,7 +109,7 @@ export default {
         type: 'circle',
         filter: ['has', 'point_count'],
         paint: {
-          'circle-color': 'rgb(241, 126, 89)',
+          'circle-color': this.markerStyle.default.color,
           'circle-opacity': 0.8,
           'circle-radius': 16
         }
