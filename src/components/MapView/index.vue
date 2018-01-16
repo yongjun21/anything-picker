@@ -20,35 +20,13 @@ export default {
     hovered: Array,
     selectedTab: String
   },
-  data () {
-    return {
-      markerStyle: {
-        default: {
-          color: 'rgb(241, 126, 89)',
-          radius: 7
-        },
-        suggested: {
-          color: 'rgb(241, 126, 89)',
-          radius: 7
-        },
-        bookmarked: {
-          color: 'rgb(61, 203, 181)',
-          radius: 10
-        },
-        focused: {
-          color: 'rgb(247, 177, 70)',
-          radius: 7
-        }
-      }
-    }
-  },
   computed: {
     ...mapState(['entityList', 'bookmarked', 'location']),
     ...mapState({schoolLevel: state => state.schoolLevel.selected}),
     ...mapGetters(['filtered', 'suggested']),
 
     geojson () {
-      const visible = this.entityList.map(clinic => {
+      function getStyle (clinic) {
         if (clinic.id === this.entityId) {
           return 'focused'
         } else if (this.selectedTab === '/bookmark') {
@@ -64,7 +42,7 @@ export default {
           }
         }
         return null
-      })
+      }
 
       return {
         type: 'FeatureCollection',
@@ -75,12 +53,12 @@ export default {
               type: 'Point',
               coordinates: clinic.coordinates
             },
-            properties: Object.assign({
+            properties: {
               id: clinic.id,
-              type: visible[i]
-            }, this.markerStyle[visible[i]])
+              style: getStyle.call(this, clinic)
+            }
           }))
-          .filter(f => f.geometry.coordinates && f.properties.type)
+          .filter(f => f.geometry.coordinates && f.properties.style)
       }
     }
   },
@@ -109,7 +87,7 @@ export default {
         type: 'circle',
         filter: ['has', 'point_count'],
         paint: {
-          'circle-color': this.markerStyle.default.color,
+          'circle-color': 'rgb(241, 126, 89)',
           'circle-opacity': 0.8,
           'circle-radius': 16
         }
@@ -124,22 +102,53 @@ export default {
           'text-size': 8
         }
       })
+
       map.addLayer({
-        id: 'unclustered',
+        id: 'default',
         source: 'clinics',
         type: 'circle',
-        filter: ['!has', 'point_count'],
+        filter: ['==', ['get', 'style'], 'default'],
         paint: {
-          'circle-color': ['get', 'color'],
-          'circle-radius': ['get', 'radius']
+          'circle-color': 'rgb(241, 126, 89)',
+          'circle-radius': 7
+        }
+      })
+      map.addLayer({
+        id: 'suggested',
+        source: 'clinics',
+        type: 'circle',
+        filter: ['==', ['get', 'style'], 'suggested'],
+        paint: {
+          'circle-color': 'rgb(241, 126, 89)',
+          'circle-radius': 7
+        }
+      })
+      map.addLayer({
+        id: 'bookmarked',
+        source: 'clinics',
+        type: 'circle',
+        filter: ['==', ['get', 'style'], 'bookmarked'],
+        paint: {
+          'circle-color': 'rgb(61, 203, 181)',
+          'circle-radius': 10
+        }
+      })
+      map.addLayer({
+        id: 'focused',
+        source: 'clinics',
+        type: 'circle',
+        filter: ['==', ['get', 'style'], 'focused'],
+        paint: {
+          'circle-color': 'rgb(247, 177, 70)',
+          'circle-radius': 7
         }
       })
 
       map.addLayer({
-        id: 'bookmarked',
+        id: 'bookmarked-symbol',
         source: 'clinics',
         type: 'symbol',
-        filter: ['==', ['get', 'type'], 'bookmarked'],
+        filter: ['==', ['get', 'style'], 'bookmarked'],
         layout: {
           'icon-image': 'star-white-15',
           'icon-allow-overlap': true
@@ -150,21 +159,23 @@ export default {
         offset: 7,
         closeButton: false,
         closeOnClick: false
-      })
+      });
 
-      map.on('click', 'unclustered', e => {
-        if (Platform.is.mobile) this.$emit('hover', e.features[0].id)
-        else this.$emit('focus', e.features[0].id)
-      })
-      map.on('mouseenter', 'unclustered', e => {
-        map.getCanvas().style.cursor = 'pointer'
-        if (this.schoolId || Platform.is.mobile) return
-        this.$emit('hover', e.features.map(f => f.properties.id))
-      })
-      map.on('mouseleave', 'unclustered', e => {
-        map.getCanvas().style.cursor = ''
-        if (this.schoolId || Platform.is.mobile) return
-        this.$emit('hover', null)
+      ['default', 'suggested', 'bookmarked', 'focused'].forEach(style => {
+        map.on('click', style, e => {
+          if (Platform.is.mobile) this.$emit('hover', e.features[0].id)
+          else this.$emit('focus', e.features[0].id)
+        })
+        map.on('mouseenter', style, e => {
+          map.getCanvas().style.cursor = 'pointer'
+          if (this.schoolId || Platform.is.mobile) return
+          this.$emit('hover', e.features.map(f => f.properties.id))
+        })
+        map.on('mouseleave', style, e => {
+          map.getCanvas().style.cursor = ''
+          if (this.schoolId || Platform.is.mobile) return
+          this.$emit('hover', null)
+        })
       })
 
       this.$watch('hovered', function (hovered) {
@@ -172,7 +183,7 @@ export default {
           const matches = this.entityList.filter(clinic => hovered.indexOf(clinic.id) > -1)
           tooltip
             .setLngLat(matches[0].coordinates)
-            .setHTML(matches.map(clinic => '<div>' + clinic.name + '</div>').join(''))
+            .setHTML(matches.map(clinic => '<p>' + clinic.name + '</p>').join(''))
             .addTo(map)
         } else {
           tooltip.remove()
@@ -321,6 +332,12 @@ export default {
     .mobile & {
       display: none;
     }
+  }
+
+  .mapboxgl-popup p {
+    margin-bottom: 0;
+    font-size: 12px;
+    line-height: 1.6em;
   }
 }
 </style>
