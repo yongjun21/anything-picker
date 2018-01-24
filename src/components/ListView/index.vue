@@ -43,7 +43,7 @@
 <script>
 import {Platform} from 'quasar-framework'
 import {mapState, mapGetters} from 'vuex'
-import sortBy from 'lodash/sortBy'
+import _sortBy from 'lodash/sortBy'
 import {toSVY21} from 'sg-heatmap/dist/helpers/geometry'
 
 import ListCard from './ListCard'
@@ -71,14 +71,14 @@ export default {
     ...mapState(['entityList', 'travelTime', 'bookmarked', 'location']),
     ...mapGetters(['filtered', 'suggested']),
     renderedCards () {
-      const cards = this.$route.path === '/bookmark'
-        ? this.bookmarked : [...this.filtered, ...this.suggested]
-      let filtered = this.entityList
-        .filter(school => cards.indexOf(school.id) > -1)
+      const {filtered, suggested, bookmarked, sortBy} = this
+      let cards = this.$route.path === '/bookmark'
+        ? this.entityList.filter((clinic, i) => bookmarked.indexOf(clinic.id) > -1)
+        : this.entityList.filter((clinic, i) => filtered[i] || suggested[i])
 
       if (this.location) {
         const location = toSVY21(this.location)
-        filtered = filtered.map(school => {
+        cards = cards.map(school => {
           if (school.svy21 == null) return false
           const distance = Math.sqrt(
             Math.pow(location[0] - school.svy21[0], 2) +
@@ -89,11 +89,11 @@ export default {
       }
 
       if (this.travelTime) {
-        filtered = filtered.map(school =>
+        cards = cards.map(school =>
           Object.assign({travelTime: this.travelTime[school.id]}, school))
       }
 
-      return sortBy(filtered, this.sortBy.value === 'alphabet' ? 'name' : this.sortBy.value)
+      return _sortBy(cards, sortBy.value === 'alphabet' ? 'name' : sortBy.value)
     },
     matchCount () {
       if (this.$route.path === '/explore') {

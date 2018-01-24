@@ -8,7 +8,7 @@ const multiInputs = [
 
 export function getFiltered (state, getters) {
   return state.entityList
-    .filter(clinic => {
+    .map(clinic => {
       let match = true
       if (state.planningAreas.selected.length > 0) {
         const selected = state.planningAreas.selected
@@ -63,11 +63,10 @@ export function getFiltered (state, getters) {
       */
       return match
     })
-    .map(clinic => clinic.id)
 }
 
 export function getSuggested (state, getters) {
-  return []
+  return state.entityList.map(clinic => false)
 }
 
 export function importOptions (context, query) {

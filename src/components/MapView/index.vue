@@ -16,7 +16,7 @@ import PostalCodeControl from './PostalCodeControl'
 export default {
   name: 'MapView',
   props: {
-    schoolId: String,
+    entityId: String,
     hovered: Array,
     selectedTab: String
   },
@@ -26,18 +26,19 @@ export default {
     ...mapGetters(['filtered', 'suggested']),
 
     geojson () {
-      function getStyle (clinic) {
-        if (clinic.id === this.entityId) {
+      const {filtered, suggested, bookmarked, entityId, selectedTab} = this
+      function getStyle (clinic, i) {
+        if (clinic.id === entityId) {
           return 'focused'
-        } else if (this.selectedTab === '/bookmark') {
-          if (this.bookmarked.indexOf(clinic.id) > -1) return 'bookmarked'
+        } else if (selectedTab === '/bookmark') {
+          if (bookmarked.indexOf(clinic.id) > -1) return 'bookmarked'
         } else {
-          if (this.filtered.indexOf(clinic.id) > -1) {
-            if (this.bookmarked.indexOf(clinic.id) > -1) return 'bookmarked'
+          if (filtered[i]) {
+            if (bookmarked.indexOf(clinic.id) > -1) return 'bookmarked'
             return 'default'
           }
-          if (this.suggested.indexOf(clinic.id) > -1) {
-            if (this.bookmarked.indexOf(clinic.id) > -1) return 'bookmarked'
+          if (suggested[i]) {
+            if (bookmarked.indexOf(clinic.id) > -1) return 'bookmarked'
             return 'suggested'
           }
         }
@@ -55,7 +56,7 @@ export default {
             },
             properties: {
               id: clinic.id,
-              style: getStyle.call(this, clinic)
+              style: getStyle(clinic, i)
             }
           }))
           .filter(f => f.geometry.coordinates && f.properties.style)
@@ -166,7 +167,7 @@ export default {
           if (Platform.is.mobile) this.$emit('hover', e.features[0].id)
           else this.$emit('focus', e.features[0].id)
         })
-        map.on('mouseenter', style, e => {
+        map.on('mousemove', style, e => {
           map.getCanvas().style.cursor = 'pointer'
           if (this.schoolId || Platform.is.mobile) return
           this.$emit('hover', e.features.map(f => f.properties.id))
