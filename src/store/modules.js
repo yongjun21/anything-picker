@@ -17,11 +17,14 @@ export const homeSchoolDistance = {
   actions: {
     queryOnemap (context, {postalCode, blkNo}) {
       context.commit('setData', {oneKm: [], twoKm: []})
-      let url = window.location.origin + '/nearby-school'
+      let url = 'https://id30wmix4b.execute-api.ap-southeast-1.amazonaws.com/production/nearby-schools'
       if (postalCode && blkNo) {
-        url += `?postalcode=${postalCode}&hbn=${blkNo}`
-        return axios.get(url)
-          .then(res => res.data)
+        return axios.get(url, {
+          params: {
+            postalcode: postalCode,
+            hbn: blkNo
+          }
+        }).then(res => res.data)
           .then(json => context.commit('setData', json.result))
           .catch(console.error)
       }

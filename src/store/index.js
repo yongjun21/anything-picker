@@ -63,7 +63,7 @@ const store = new Vuex.Store({
   },
   actions: {
     fetchEntityList (context) {
-      return axios.get('https://s3.ap-southeast-1.amazonaws.com/school-picker/entityList.json')
+      return axios.get('/data/entityList.json')
         .then(res => res.data)
         .then(json => {
           context.commit('setEntityList', json)
@@ -71,7 +71,7 @@ const store = new Vuex.Store({
         })
     },
     fetchEntityDetail (context, id) {
-      return axios.get('https://s3.ap-southeast-1.amazonaws.com/school-picker/entities/' + id + '.json')
+      return axios.get('/data/entities/' + id + '.json')
         .then(res => res.data)
         .then(json => {
           context.commit('addEntityDetail', json)

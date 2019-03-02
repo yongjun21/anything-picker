@@ -64,9 +64,6 @@ module.exports = {
     port: 9000,
     contentBase: path.join(__dirname, '/public'),
     hot: true,
-    proxy: {
-      '*': 'http://localhost:8080'
-    },
     historyApiFallback: true,
     stats: {
       chunks: false

@@ -1,9 +1,9 @@
-import axios from 'axios'
+const axios = require('axios')
+
+exports.onemapApi = onemapApi
 
 let onemapToken
-fetchOnemapToken()
-
-export function onemapApi (cb) {
+function onemapApi (cb) {
   if (onemapToken) {
     return cb(onemapToken).catch(err => {
       if (err.response && err.response.data.error === 'Your token has expired!') {
