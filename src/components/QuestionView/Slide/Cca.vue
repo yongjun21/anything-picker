@@ -52,7 +52,11 @@ export default {
     skip () {
       this.resetOptions({module: 'ccasOffered'}).then(() => {
         if (process.env.NODE_ENV === 'production') {
-          window.ga('send', 'event', 'QuestionView', 'skip CCA filter')
+          window.gtag('event', 'skip', {
+            event_category: 'QuestionView',
+            event_label: 'CCA filter',
+            value: 2
+          })
         }
         this.$emit('next')
       })
@@ -107,7 +111,7 @@ export default {
       margin-bottom: 10px;
       font-size: 0.9em;
       white-space: nowrap;
-      color: white!important;
+      color: white !important;
     }
 
     .q-checkbox {
@@ -120,7 +124,7 @@ export default {
       border-radius: 4px;
       margin: auto;
       border: 1px solid white;
-      background: white!important;
+      background: white !important;
     }
 
     .q-checkbox input:checked + div::after {
@@ -134,6 +138,4 @@ export default {
     }
   }
 }
-
-
 </style>

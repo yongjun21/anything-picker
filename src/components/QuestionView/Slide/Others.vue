@@ -59,7 +59,11 @@ export default {
         this.resetOptions({module: 'schoolTypes'})
       ]).then(() => {
         if (process.env.NODE_ENV === 'production') {
-          window.ga('send', 'event', 'QuestionView', 'skip others filter')
+          window.gtag('event', 'skip', {
+            event_category: 'QuestionView',
+            event_label: 'others filter',
+            value: 3
+          })
         }
         this.$emit('done')
       })
@@ -118,23 +122,23 @@ export default {
       margin-bottom: 10px;
       font-size: 0.9em;
       white-space: nowrap;
-      color: white!important;
+      color: white !important;
     }
 
     .q-checkbox {
       height: 18px;
     }
 
-    .q-checkbox input + div:before {
+    .q-checkbox input + div::before {
       width: 15px;
       height: 15px;
       border-radius: 4px;
       margin: auto;
       border: 1px solid white;
-      background: white!important;
+      background: white !important;
     }
 
-    .q-checkbox input:checked + div:after {
+    .q-checkbox input:checked + div::after {
       top: 3px;
       left: 2px;
       width: 4px;
@@ -145,6 +149,4 @@ export default {
     }
   }
 }
-
-
 </style>

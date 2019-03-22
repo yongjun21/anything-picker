@@ -30,10 +30,8 @@ router.beforeEach((to, from, next) => {
 })
 
 if (process.env.NODE_ENV === 'production') {
-  window.ga('create', process.env.GA_TRACKING_CODE, 'auto')
   router.beforeEach((to, from, next) => {
-    window.ga('set', 'page', to.fullPath)
-    window.ga('send', 'pageview')
+    window.gtag('config', 'UA-116302211-1', {page_path: to.fullPath})
     next()
   })
 }

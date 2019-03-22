@@ -59,7 +59,11 @@ export default {
     skip () {
       this.value = this.postalCode
       if (process.env.NODE_ENV === 'production') {
-        window.ga('send', 'event', 'QuestionView', 'skip setting postal code')
+        window.gtag('event', 'skip', {
+          event_category: 'QuestionView',
+          event_label: 'setting postal code',
+          value: 1
+        })
       }
       this.$emit('next')
     }
@@ -104,6 +108,4 @@ export default {
     }
   }
 }
-
-
 </style>
