@@ -1,5 +1,5 @@
-import axios from 'axios'
-import {html2json} from 'html2json'
+const axios = require('axios')
+const {html2json} = require('html2json')
 
 const parsers = {
   GeneralInformation: parseGeneralInformation,
@@ -11,7 +11,7 @@ const parsers = {
   L1R5History: parseL1R5History
 }
 
-export default function scrap (endpoint, options) {
+module.exports = function scrap (endpoint, options) {
   const url = getUrl(endpoint, options)
   return axios.get(url, {responseType: 'text'})
     .then(res => res.data)

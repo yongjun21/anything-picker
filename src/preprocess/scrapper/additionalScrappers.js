@@ -1,8 +1,9 @@
-import axios from 'axios'
-import cheerio from 'cheerio'
-import {html2json} from 'html2json'
+const axios = require('axios')
+const cheerio = require('cheerio')
+const tableparser = require('cheerio-tableparser')
+const {html2json} = require('html2json')
 
-export function scrapSpecialNeeds () {
+exports.scrapSpecialNeeds = function () {
   const url = 'https://www.moe.gov.sg/education/special-education/mainstream-schools'
   return axios.get(url, {responseType: 'text'})
     .then(res => cheerio.load(res.data))
@@ -49,7 +50,7 @@ function parseSpecialNeeds ($) {
   return result
 }
 
-export function scrapStudentCare () {
+exports.scrapStudentCare = function () {
   const url = 'http://sis.moe.gov.sg/Pages/SchoolUpdates/SchoolBasedStudentCareCentres.aspx'
   return axios.get(url, {responseType: 'text'})
     .then(res => res.data)
@@ -69,7 +70,7 @@ function parseStudentCare (table) {
     .map(c => c.child[0].child[0].child[0].text.toUpperCase())
 }
 
-export function scrapRelocatedSchools () {
+exports.scrapRelocatedSchools = function () {
   const url = 'http://sis.moe.gov.sg/Pages/SchoolUpdates/RelocatedSchools.aspx'
   return axios.get(url, {responseType: 'text'})
     .then(res => res.data)
@@ -102,7 +103,7 @@ function parseRelocatedSchools (table) {
   })
 }
 
-export function scrapMergerSchools () {
+exports.scrapMergerSchools = function () {
   const url = 'http://sis.moe.gov.sg/Pages/SchoolUpdates/MergerSchools.aspx'
   return axios.get(url, {responseType: 'text'})
     .then(res => res.data)
@@ -135,7 +136,7 @@ function parseMergerSchools (table) {
   return parsedSchools
 }
 
-export function scrapNewSchools () {
+exports.scrapNewSchools = function () {
   const url = 'http://sis.moe.gov.sg/Pages/SchoolUpdates/NewSchools.aspx'
   return axios.get(url, {responseType: 'text'})
     .then(res => res.data)
@@ -157,7 +158,7 @@ function parseNewSchools (table) {
     )
 }
 
-export function scrapVacancies () {
+exports.scrapVacancies = function () {
   const url = 'https://www.moe.gov.sg/admissions/primary-one-registration/vacancies'
   return axios.get(url, {responseType: 'text'})
     .then(res => cheerio.load(res.data))
@@ -166,23 +167,21 @@ export function scrapVacancies () {
 }
 
 function parseVacancies ($) {
+  tableparser($)
+  const table = $('table').parsetable(true, true, true)
   const result = {}
-  $('table').each(function () {
-    const $trs = $(this).find('tr')
-    const $headers = $trs.eq(0).find('td')
-    const headers = $headers.slice(2)
-      .map((i, el) => $(el).text()).get()
-      .map(h => removeArtifacts(h).toUpperCase())
-    const $rows = $trs.slice(2)
-    $rows.each(function () {
-      const $row = $(this).find('td')
-      const school = $row.eq(0).text().trim()
-      result[school] = {}
-      headers.forEach((key, i) => {
-        const value = +removeArtifacts($row.eq(i + 4).text())
-        result[school][key] = value
-      })
+  table.splice(0, 1)
+  table.splice(1, 3)
+  const headers = table.map(col => removeArtifacts(col[0]).toUpperCase()).slice(1)
+  const [first, ...rest] = table
+  first.forEach((v, i) => {
+    if (i < 2) return
+    const school = removeArtifacts(v).toUpperCase()
+    const row = {}
+    headers.forEach((key, j) => {
+      row[key] = +removeArtifacts(rest[j][i])
     })
+    result[school] = row
   })
   return result
 }

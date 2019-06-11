@@ -1,19 +1,19 @@
-import fs from 'fs'
-import _range from 'lodash/range'
-import _max from 'lodash/max'
-import scrap from './scrapper'
-import aggregate from './aggregator'
-import runTask from './task-runner'
-import {
+const fs = require('fs')
+const _range = require('lodash/range')
+const _max = require('lodash/max')
+const scrap = require('./scrapper')
+const aggregate = require('./aggregator')
+const runTask = require('./task-runner')
+const {
   scrapSpecialNeeds,
   scrapRelocatedSchools,
   scrapMergerSchools,
   scrapNewSchools,
   scrapStudentCare,
   scrapVacancies
-} from './additionalScrappers'
+} = require('./additionalScrappers')
 
-import {defaultYearRange} from './constants'
+const {defaultYearRange} = require('./constants')
 
 // scrap('', {schoolCode: '1759'})
 //   .then(json => {

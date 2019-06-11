@@ -1,10 +1,10 @@
-import range from 'lodash/range'
-import aggregate from './aggregator'
-import schoolList from '../../../data/schoolList.json'
+const range = require('lodash/range')
+const aggregate = require('./aggregator')
+const schoolList = require('../../../data/schoolList.json')
 
 const defaultYearRange = range(2005, 2018).map(v => v.toString())
 
-export default function runTask (indexes, years = defaultYearRange) {
+module.exports = function runTask (indexes, years = defaultYearRange) {
   const debug = []
   Promise.all(indexes.map((n, i) => {
     const base = schoolList[n]

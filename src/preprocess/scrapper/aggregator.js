@@ -1,5 +1,5 @@
-import fs from 'fs'
-import scrap from './scrapper'
+const fs = require('fs')
+const scrap = require('./scrapper')
 
 const levelNames = {
   'P': 'Primary',
@@ -7,7 +7,7 @@ const levelNames = {
   'J': 'Junior College'
 }
 
-export default async function aggregate (base, years) {
+module.exports = async function aggregate (base, years) {
   const json = Object.assign({}, base)
   Object.assign(json, await scrap(null, {schoolCode: base.code}))
   json['GeneralInformation'] = await scrap('GeneralInformation', {schoolCode: base.code})

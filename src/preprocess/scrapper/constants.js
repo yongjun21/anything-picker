@@ -1,3 +1,3 @@
-import _range from 'lodash/range'
+const _range = require('lodash/range')
 
-export const defaultYearRange = _range(2005, 2019).map(v => v.toString())
+exports.defaultYearRange = _range(2005, 2019).map(v => v.toString())
