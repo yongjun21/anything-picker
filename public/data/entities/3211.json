@@ -18,22 +18,22 @@
 	],
 	"bus": "30 , 49 , 98 , 98A , 154 , 240 , 246 ",
 	"GeneralInformation": {
-		"Principal": "Mdm Tan Yok Ching Ruby",
+		"Principal": "Mdm Tay Su Chin (Zheng Suzhen)",
 		"Vice Principal": [
 			"Miss Tan Hui Min Deborah",
-			"Mdm Tay Su Chin (Zheng Suzhen)"
+			"Mdm Ler Siah Woon Julia"
 		],
 		"Vice Principal (Admin)": "Miss Koh Mui Gek",
 		"School Vision": [
-			"Learn with Purpose",
-			"Serve with Passion",
+			"Learn with Purpose,",
+			"Serve with Passion,",
 			"Lead with Heart"
 		],
 		"School Mission": [
 			"Nurturing Hearts, Enriching Minds - ",
 			"With the Community, For the Community."
 		],
-		"School Philosophy, Culture and Ethos": "Jurong Secondary School (JSS) was founded in 1963 at the request of community leaders to our Founding Prime Minister, Mr Lee Kuan Yew, when he made his first visit to the Jurong Constituency. Originally named Jurong Integrated Secondary School, the school offered both the English and Chinese streams. That JSS became widely known for its rich Chinese heritage and strong community partnerships stemmed from this unique history. Since its founding, JSS honours its commitment to the community by offering an all-round education for our students. Innovative programmes guided by our school values of Loyalty, Industry, Sincerity, and Love were introduced to nurture our students' character and cultivate thinking and independent learning, enabling them to pursue excellence in all that they do and grow as concerned citizens with a heart for and who contribute meaningfully back to the community. As a pioneer of the FutureSchool@Singapore project, our school leverages ICT to design a student-centric learning experience that emphasises acquisition of 21st century competencies.",
+		"School Philosophy, Culture and Ethos": "Jurong Secondary School (JSS) was founded in 1963 at the request of community leaders to our Founding Prime Minister, Mr Lee Kuan Yew, when he made his first visit to the Jurong Constituency. Originally named Jurong Integrated Secondary School, the school offered both the English and Chinese streams. Stemming from this rich history, JSS became widely known for its rich Chinese heritage, strong community partnerships and all-round education for its students. Innovative programmes guided by the school values of Loyalty, Industry, Sincerity, and Love were introduced to nurture character, cultivate thinking and independent learning, and enable students to pursue excellence while growing as concerned citizens who contribute meaningfully back to the community. As a FutureSchool@Singapore pioneer, JSS leverages ICT to design learning experiences that emphasise the 21st century competencies.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -65,10 +65,8 @@
 		"History",
 		"Humanities (Ss, Geography)",
 		"Humanities (Ss, History)",
-		"Humanities (Ss, Lit In Chinese)",
 		"Humanities (Ss, Lit In English)",
 		"Literature In Chinese",
-		"Literature(E)",
 		"Malay",
 		"Malay N(A)",
 		"Mathematics",
@@ -95,7 +93,6 @@
 			"Cross Country",
 			"Dragon Boat",
 			"Floorball",
-			"Track & Field",
 			"Volleyball"
 		],
 		"Uniformed Groups": [
@@ -124,7 +121,7 @@
 			"Languages & Humanities": "Environmental Studies: An Inter-disciplinary Approach To Sustainable Urban Living",
 			"Sports & Outdoor Education": "Sporty at Heart, Sporting in Mind"
 		},
-		"Special Student Development Programmes Offered": "In JSS, we value every student, believing that they can contribute meaningfully to the society in all that they do. Our Special Programmes are designed to nurture their hearts and enrich their minds, for them to become contributing members of the society. "
+		"Special Student Development Programmes Offered": "In JSS, we value every student. Our Special Programmes are designed to nurture their hearts and enrich their minds, for them to become contributing members of the society. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -133,357 +130,30 @@
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"Best Practice Awards": "BPA (Teaching and Learning)",
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"Best Practice Awards": "BPA (Teaching and Learning)",
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
-				"Best Practice Awards": "BPA (Teaching and Learning)"
+				"Best Practice Awards": "BPA (Teaching and Learning)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -586,108 +256,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Red Cross",
-					"award": "Bronze"
-				},
-				{
-					"year": "2015",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Girl Guides",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Red Cross",
-					"award": "Bronze"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

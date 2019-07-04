@@ -86,28 +86,13 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"Sports & Games Competition": [
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Fencing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				}
-			],
+			"2017": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -190,18 +175,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2017",
-					"category": "Scout (Unit 1)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Bronze"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [],

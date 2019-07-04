@@ -19,11 +19,14 @@
 	"bus": "40 , 62 , 63 , 80 , 100 , 125 , 134 , 155 , 158 ",
 	"GeneralInformation": {
 		"Principal": "Mr Wee Tat Chuen",
-		"Vice Principal": "Mr Eka Tanu",
+		"Vice Principal": [
+			"Mr Eka Tanu",
+			"Mdm Loy Wee Meng"
+		],
 		"Vice Principal (Admin)": "Mdm Tan Sor Leng",
 		"School Vision": "Passionate Learners. Courageous Leaders. Caring Citizens.",
-		"School Mission": "With God's help, to be a beacon of light by connecting, nurturing and inspiring GeMS to make a difference.",
-		"School Philosophy, Culture and Ethos": "Founded in 1924, the School continues to stay true to its mission by developing passionate learners, courageous leaders and caring citizens who make a difference to the community.  We are a school where lives are connected and meaningful friendships are fostered. We create a caring and conducive environment for learning and teaching, where our students are inspired, lives are touched and ideas germinate and flourish, all for the purpose of making a positive influence or difference to the world around us.  We hope to see every student who graduate become useful members of society, grounded in sound moral principles.",
+		"School Mission": "With God's help, to be a beacon of light by connecting, nurturing and inspiring GEMS to make a difference.",
+		"School Philosophy, Culture and Ethos": "Founded in 1924, the School continues to stay true to its mission by developing passionate learners, courageous leaders and caring citizens who make a difference to the community.  We are a school where lives are connected and meaningful friendships are fostered. We create a caring and conducive environment for learning and teaching, where our students are inspired, lives are touched and ideas germinate and flourish, all for the purpose of making a positive influence and difference to the world around us.  We hope to see every student who graduates become useful member of society, grounded in sound moral principles.",
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
@@ -34,9 +37,12 @@
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art",
+		"Basic Chinese",
+		"Basic Malay",
 		"Biology",
 		"Chemistry",
 		"Chinese",
+		"Chinese N(A)",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
 		"Combined Humanities (S,L)",
@@ -53,8 +59,12 @@
 		"Geography",
 		"Higher Chinese",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In English)",
 		"Literature(E)",
 		"Malay",
+		"Malay N(A)",
 		"Mathematics",
 		"Mathematics (Syllabus A)",
 		"Mathematics (Syllabus T)",
@@ -91,12 +101,10 @@
 		"Clubs & Societies": [
 			"Board Games Club",
 			"Digital Media Club",
-			"Green Club",
 			"Media Resource Club",
 			"Photo And Video Society"
 		],
 		"Others": [
-			"House Appointment",
 			"Students' Council"
 		]
 	},
@@ -105,74 +113,27 @@
 			"STEM": "Environmental Science and Sustainable Living",
 			"Community & Youth Leadership": "Nurturing Confident and Compassionate Leaders via Values-in-Action"
 		},
-		"Special Student Development Programmes Offered": "The school nurtures students' talents, interests, character and leadership qualities via a vibrant CCE curriculum and distinctive programmes, including a 4/5 years progressive Learning for Life Programme (LLP) in the area of Community and Youth Leadership. The LLP systematically equips students with critical inquiry skills, public-speaking skills and leadership competencies to prepare them for meaningful local and overseas Values-in-Action and service learning experiences.  The school also has an Applied Learning Programme (ALP) in Environmental Science and Sustainable Living.  We have vibrant CCA programmes spanning 22 CCAs, the Music, Art, Dance and Drama (MADD) enrichment programme and level camps for all students.  Through these, we develop all-round students who strive to contribute to our community."
+		"Special Student Development Programmes Offered": "The  School  nurtures  students'  talents,  interests,  character  and leadership qualities via a vibrant CCE curriculum and programmes such as the Learning for Life Programme (LLP) in Community and Youth Leadership, the Applied Learning Programme (ALP) in Environmental Science and Sustainable Living and the GEMS Challenge for all our Sec 3 students.  The LLP equips students with critical inquiry skills, public speaking skills and leadership competencies via various Values in Action platforms. Our signature GEMS Challenge stretches students in their areas of strength and passion.  Students choose a challenge made available by the school and they train to overcome it in the first half of their Sec 3 journey.  The challenges cater to various student interests and include cycling, trekking, participating in the Model United Nations, overseas immersion trips and many others.  We also have vibrant CCA programmes spanning 21 CCAs, the Music, Art, Dance and Drama (MADD) enrichment programme and level camps.  Through these, we develop all-round students who strive to contribute to our community."
 	},
 	"AchievementHistory": {
 		"Secondary": {
 			"2015": {
-				"Outstanding Development Award": "ODA (National Education)"
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
-				"Outstanding Development Award": "ODA (National Education)"
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
-				"Outstanding Development Award": "ODA (National Education)"
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
-				"Outstanding Development Award": "ODA (National Education)"
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -275,88 +236,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Girl Guides",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

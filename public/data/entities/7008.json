@@ -16,7 +16,7 @@
 	"mrt": [
 		"Kembangan MRT"
 	],
-	"bus": "4N , 13 , 16 , 31 , 36 , 43 , 47 , 48 , 55 , 134 , 135 , 150 , 196 , 196E , 197 , 763 ",
+	"bus": "4N , 13 , 16 , 31 , 36 , 36A , 36B , 43 , 47 , 48 , 55 , 134 , 135 , 135A , 150 , 196 , 196E , 197 , 853C , 763 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Chan Gek San Patricia",
 		"Vice Principal": "Mdm Ong Bee Hoon",
@@ -111,79 +111,22 @@
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
-				"School Distinction Awards": "SDA"
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
-				"School Distinction Awards": "SDA"
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
-				"School Distinction Awards": "SDA"
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -321,63 +264,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NCDCC",
-					"award": "Bronze"
-				},
-				{
-					"year": "2015",
-					"category": "St John Ambulance Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCDCC",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "St John Ambulance Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCDCC",
-					"award": "Bronze"
-				},
-				{
-					"year": "2017",
-					"category": "St John Ambulance Brigade",
-					"award": "Bronze"
-				},
-				{
-					"year": "2018",
-					"category": "Girl Guides",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCDCC",
-					"award": "Bronze"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

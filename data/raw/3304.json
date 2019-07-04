@@ -21,7 +21,7 @@
 		"Vice Principal (Admin)": "MR CHAN CHEE WEI",
 		"School Vision": "Thoughtful Leaders",
 		"School Mission": "We nurture students to Think, Care and Lead with P.R.I.D.E.",
-		"School Philosophy, Culture and Ethos": "In Swiss Cottage, our students learn to be Thoughtful Leaders who are principled, efficacious and transformational. They become leaders who are equipped with ethical thinking, managerial competencies, global and local awareness. Most importantly, they develop a heart to care and serve and are grounded in intellectual and character excellence. Swiss staff believes in a Character First Education that provides opportunities for all students to learn and achieve. We see ourselves as nurturers, role models and mentors to our students. We lead, care and inspire each other as colleagues. We seek to engage and collaborate with our partners for the benefit of our students. With these core beliefs, we care for every staff and student. We ensure that every lesson is a good lesson, and that every learning activity is purposeful. We encourage every staff and student to reflect and learn from every opportunity and from each other. Anchored on the Swiss Spirit of Going Far, Going Together, we forge a strong culture of care, learning and excellence.",
+		"School Philosophy, Culture and Ethos": "In Swiss Cottage, our students learn to be Thoughtful Leaders. They become leaders who are equipped with ethical thinking, managerial competencies, global and local awareness. Most importantly, they develop a heart to care and serve and are grounded in intellectual and character excellence. Swiss staff believes in a Character First Education that provides opportunities for all students to learn and achieve. We see ourselves as nurturers, role models and mentors to our students. We lead, care and inspire each other as colleagues. We seek to engage and collaborate with our partners for the benefit of our students. With these core beliefs, we care for every staff and student. We ensure that every lesson is a good lesson, and that every learning activity is purposeful. We encourage every staff and student to reflect and learn from every opportunity and from each other. Anchored on the Swiss Spirit of Going Far, Going Together, we forge a strong culture of care, learning and excellence.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -79,10 +79,10 @@
 	"Cca": {
 		"Physical Sports": [
 			"Badminton (Girls)",
-			"Basketball (Mixed)",
-			"Floorball (Mixed)",
+			"Basketball",
+			"Floorball",
 			"Football (Boys)",
-			"Tenpin Bowling (Boys)"
+			"Ten-Pin Bowling"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
@@ -95,9 +95,9 @@
 		"Visual and Performing Arts": [
 			"Chinese Dance",
 			"Chinese Orchestra",
-			"Choir",
 			"Drama",
 			"Malay Dance",
+			"Swiss Show Choir",
 			"Swiss Winds (Command Band Of The National Cadet Corps)"
 		],
 		"Clubs & Societies": [
@@ -121,14 +121,7 @@
 		"Secondary": {
 			"2005": {},
 			"2006": {
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girl Guides": "Bronze",
-					"Ncc (Air)": "Silver",
-					"Npcc": "Silver",
-					"Scout": "Silver",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2007": {
 				"SYF Central Judging": {
@@ -139,14 +132,7 @@
 					"Drama - English": "Silver",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girl Guides (Coy 1)": "Silver",
-					"Ncc (Air)": "Bronze",
-					"Npcc": "Silver",
-					"Scout": "Silver",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2008": {
 				"SYF Central Judging": {
@@ -157,14 +143,7 @@
 					"Drama - English": "Silver",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girl Guides (Coy 1)": "Silver",
-					"Ncc (Air Boys)": "Bronze",
-					"Npcc (Land)": "Silver",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2009": {
 				"SYF Central Judging": {
@@ -175,14 +154,7 @@
 					"Drama - English": "Bronze",
 					"Orchestra - Chinese": "Gold"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girl Guides (Coy 1)": "Bronze",
-					"Ncc (Air Boys)": "Bronze",
-					"Npcc": "Gold",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2010": {
 				"SYF Central Judging": {
@@ -194,14 +166,7 @@
 					"Drama - English": "Bronze",
 					"Orchestra - Chinese": "Gold"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girl Guides (Coy 1)": "Bronze",
-					"Ncc (Air Boys)": "Bronze",
-					"Npcc (Land)": "Gold",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2011": {
 				"Achievement Award": [
@@ -221,14 +186,7 @@
 					"Drama - English": "Bronze",
 					"Orchestra - Chinese": "Gold"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girl Guides (Coy 1)": "Bronze",
-					"Ncc (Air Boys)": "Bronze",
-					"Npcc (Land)": "Gold",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2012": {
 				"Development Award": "DA (Character Development)",
@@ -249,14 +207,7 @@
 					"Drama - English": "Bronze",
 					"Orchestra - Chinese": "Gold"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Air Boys)": "Silver",
-					"Npcc (Land)": "Gold",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2013": {
 				"Development Award": "DA (Character Development)",
@@ -276,6 +227,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -285,22 +252,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -323,15 +322,7 @@
 					"Drama - English": "Accomplishment",
 					"Orchestra - Chinese": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Air Boys)": "Silver",
-					"Ncc (Air Girls)": "Gold",
-					"Npcc (Land)": "Gold",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2014": {
 				"Development Award": "DA (Character Development)",
@@ -342,6 +333,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -351,22 +358,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -401,14 +440,7 @@
 					"Drama - English": "Accomplishment",
 					"Orchestra - Chinese": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Air Boys)": "Gold",
-					"Npcc (Land)": "Gold",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2015": {
 				"Development Award": "DA (Character Development)",
@@ -419,6 +451,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -428,22 +476,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -467,14 +547,7 @@
 					"Drama - English": "Accomplishment",
 					"Orchestra - Chinese": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Air)": "Silver",
-					"Npcc (Land)": "Gold",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"Development Award": "DA (Character Development)",
@@ -485,6 +558,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -494,22 +583,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -544,14 +665,7 @@
 					"Orchestra - Chinese": "Distinction",
 					"Dance - Malay": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Air)": "Silver",
-					"Npcc (Land)": "Gold",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"Sports & Games Competition": [
@@ -561,6 +675,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -570,22 +700,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -609,14 +771,7 @@
 					"Dance - Malay": "Distinction",
 					"Drama - English": "Commendation"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Air)": "Silver",
-					"Npcc (Land)": "Gold",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Sports & Games Competition": [
@@ -626,6 +781,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -635,22 +806,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -695,15 +898,9 @@
 					"Dance - Malay": "Distinction",
 					"Drama - English": "Commendation"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girl Guides": "Gold",
-					"Ncc (Air)": "Gold",
-					"Npcc (Land)": "Gold",
-					"Scout": "Gold",
-					"St John Ambulance Brigade": "Gold"
-				}
-			}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -941,6 +1138,23 @@
 			],
 			"Normal Technical": [
 				"146",
+				"159",
+				"None-posted"
+			]
+		},
+		"2019": {
+			"Express": [
+				"242",
+				"254",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"189",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"145",
 				"159",
 				"None-posted"
 			]

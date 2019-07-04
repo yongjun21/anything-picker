@@ -22,9 +22,13 @@
 		"Principal": "Mr Ng Boon Kiat",
 		"Vice Principal": "Mr Tan Boon Piang",
 		"Vice Principal (Admin)": "Mdm Shabnam Lena",
-		"School Vision": "A community of passionate learners who spark imagination, illuminate new frontiers and inspire change for a better world.",
+		"School Vision": "Every CommonWEALTHian a Confident Learner, Compassionate Leader and Imaginative Trailblazer.",
 		"School Mission": "Nurturing Commonwealthians as Champions of Today and Leaders of Tomorrow.",
-		"School Philosophy, Culture and Ethos": "Commonwealth Secondary School (CWSS) believes that students learn best and are most fulfilled when the school nurtures every aspect of their person, and provides rich and authentic learning environments. As such, CWSS offers students our unique \"C3\" Curriculum. This comprises an innovative Character Education programme which emphasises Servant Leadership and Growth Mindset to instill strong values and productive habits, grounded in the school's WEALTH values (Warmth, Enterprise, Adventurousness, Loyalty, Tenacity and Honour). The school also offers a well-established programme of academic content, which applies principles of Differentiated Instruction to support students of differing needs to master key skills and concepts for each subject, and provides them with opportunities to apply their knowledge in authentic ways. In addition, the school has also implemented a school-wide approach to encouraging Creativity which aims to give every student hands-on opportunities to express and nurture their creative ability, through avenues such as programming, robotics, design, as well as our outstanding visual and performing arts programmes.",
+		"School Philosophy, Culture and Ethos": [
+			"Commonwealth Secondary School believes that every child is unique and can grow to champion something worthy in the future. Anchored in our WEALTH values (Warmth, Enterprise, Adventurousness, Loyalty, Tenacity, Honour), every child is mentored by a Champion Mentor from Sec 1 to graduation, to be a Compassionate Leader. They will discover their strengths, strive for excellence and identify a meaningful purpose that they would champion. ",
+			"We are a thriving community for innovation, discovery, expression and developmental assessment. We nurture Confident Learners with a Growth Mindset and the 5 Minds (Disciplined, Synthesising, Creating, Respectful, Ethical) for the future.",
+			"As the West Zone Centre of Excellence for Design and Innovation, we develop Imaginative Trailblazers through school-wide Design Thinking and Trailblazer Maker education. These 2 signature programmes give students the opportunity to express and nurture their creative ability."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -59,6 +63,7 @@
 		"Higher Tamil",
 		"Humanities (Ss, Geography)",
 		"Humanities (Ss, History)",
+		"Literature In Tamil",
 		"Literature(E)",
 		"Malay",
 		"Malay B",
@@ -81,8 +86,8 @@
 			"Badminton",
 			"Basketball (Boys)",
 			"Cross Country",
-			"Dragon Boat",
-			"Netball",
+			"Dragon Boat (Boys)",
+			"Netball (Girls)",
 			"Soccer (Boys)"
 		],
 		"Uniformed Groups": [
@@ -93,8 +98,7 @@
 			"Singapore Red Cross Society"
 		],
 		"Visual and Performing Arts": [
-			"Art And Craft Club",
-			"Band - Military",
+			"Band - Concert",
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Indian",
@@ -104,7 +108,6 @@
 		],
 		"Clubs & Societies": [
 			"Bits And Atoms",
-			"Culinary Club",
 			"Eco Club",
 			"New Media"
 		]
@@ -117,79 +120,22 @@
 			"2015": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": "BPA (Staff Well-Being)",
-				"Development Award": "DA (Character Development)"
+				"Development Award": "DA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
-				"School Distinction Awards": "SDA"
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
-				"School Distinction Awards": "SDA"
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
-				"School Distinction Awards": "SDA"
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -347,88 +293,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2015",
-					"category": "Red Cross",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2017",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Girl Guides",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2018",
-					"category": "Red Cross",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

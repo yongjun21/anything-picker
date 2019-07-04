@@ -19,10 +19,7 @@
 	"bus": "980 , 856 , 859 ",
 	"GeneralInformation": {
 		"Principal": "Mr Alcantara Albert Alfred",
-		"Vice Principal": [
-			"Mrs Nur Fatimah Frauder",
-			"Mdm Kong Yee Loon"
-		],
+		"Vice Principal": "Mdm Kong Yee Loon",
 		"Vice Principal (Admin)": "Mr Ng Wee Ming Dennis",
 		"School Vision": "Becoming a global STAGE to grow World-ready Talents & People.",
 		"School Mission": "To empower every individual, nurture talents and groom leaders.",
@@ -64,7 +61,6 @@
 			"Wushu"
 		],
 		"Uniformed Groups": [
-			"Boys' Brigade",
 			"Girls' Brigade",
 			"Scouts"
 		],
@@ -97,102 +93,27 @@
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "2nd"
-				}
-			],
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -375,63 +296,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Scout",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Scout",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Girls' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"postalCode": "757702",
@@ -455,23 +320,7 @@
 	"p1Registration": {
 		"TOTAL VACANCY": 240,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
-		"VACANCY FOR PHASE 1": 200,
-		"NO. OF APPLICANTS IN PHASE 1": 69,
-		"PLACES TAKEN UP TO PHASE 1": 69,
-		"VACANCY FOR PHASE 2A1": 131,
-		"NO. OF APPLICANTS IN PHASE 2A1": 1,
-		"PLACES TAKEN UP TO PHASE 2A1": 70,
-		"VACANCY FOR PHASE 2A2": 130,
-		"NO. OF APPLICANTS IN PHASE 2A2": 7,
-		"PLACES TAKEN UP TO PHASE 2A2": 77,
-		"VACANCY FOR PHASE 2B": 82,
-		"NO. OF APPLICANTS IN PHASE 2B": 1,
-		"PLACES TAKEN UP TO PHASE 2B": 77,
-		"VACANCY FOR PHASE 2C": 163,
-		"NO. OF APPLICANTS IN PHASE 2C": 99,
-		"PLACES TAKEN UP TO PHASE 2C": 176,
-		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 64,
-		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 21
+		"VACANCY FOR PHASE 1": 200
 	},
 	"id": "1767"
 }

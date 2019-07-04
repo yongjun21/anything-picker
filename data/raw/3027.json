@@ -16,14 +16,14 @@
 	"mrt": "TANAH MERAH MRT",
 	"bus": "10 , 14 , 45 ",
 	"GeneralInformation": {
-		"Principal": "MISS PAULINE FUN KAR WHYE",
+		"Principal": "MR TEOH TEIK HOE",
 		"Vice Principal": [
 			"MISS AZLINDA BTE SAMSUDIN",
 			"MISS TAN PO CHIN"
 		],
 		"School Vision": "A Value-Added, Quality School",
 		"School Mission": "Build Character, Develop Leaders of Tomorrow (who will) Serve with Conviction",
-		"School Philosophy, Culture and Ethos": "Bedok South Secondary School's motto is Success through Endeavour. We are a value-added, quality school that is committed to engaging and nurturing the whole child through student-centric approaches. The school strives to develop all BDSians to become active members of the society imbued with 21st century competencies and skills. We believe in inculcating the ICARE values (Integrity, Courage, Accountability, Respect, Excellence and Care) in our students to prepare them for life. The value of caring for themselves, their families, friends and the community is a very important part of BDS education and culture.",
+		"School Philosophy, Culture and Ethos": "Bedok South Secondary School's motto is Success through Endeavour. We are a value-added, quality school that is committed to engaging and nurturing the whole child through student-centric approaches. The school strives to develop all BDSians to become active members of the society imbued with 21st century competencies and skills. We believe in inculcating the ICARE values (Integrity, Courage, Accountability, Respect, Excellence and Care) in our students to prepare them for life. Learning to care for self, family, friends and community is a very important part of BDS culture.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -49,9 +49,9 @@
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
+		"HISTORY",
 		"HUMANITIES (SS, GEOGRAPHY)",
 		"HUMANITIES (SS, HISTORY)",
-		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MALAY N(A)",
@@ -61,6 +61,7 @@
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
+		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
@@ -84,8 +85,8 @@
 		"Visual and Performing Arts": [
 			"Chinese Orchestra",
 			"Choir",
-			"Dance - Malay",
 			"Dance Society",
+			"Malay Dance",
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
@@ -102,19 +103,13 @@
 			"Interdisciplinary": "Project S.H.I.N.E -- An Integrated Student-Centred and Holistic Programme that Develops Innovation and Nurtures Empathy",
 			"Sports & Outdoor Education": "SHAPE @ BDS: A School of Healthy And Physically Educated Enthusiasts"
 		},
-		"Special Student Development Programmes Offered": "ALP Project S.H.I.N.E. aims to bring about active student learning through the progressive development of 21st century skills such as critical thinking, creativity, innovation and collaborative learning. The curriculum design involves the use of"
+		"Special Student Development Programmes Offered": "ALP Project S.H.I.N.E. (Student-centred and Holistic programme that develops Innovation and Nurtures Empathy) aims to bring about active student learning through the progressive development of 21st century skills such as critical thinking, creativity, innovation and collaborative learning. The curriculum involves the use of experiential and inquiry leaning through Design Thinking, a creative problem-solving approach that aims to equip students with the skills, knowledge, and attitudes they need for individual success and global competitiveness. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
 			"2005": {},
 			"2006": {
-				"Best Unit Award": {
-					"Girl Guides": "Bronze",
-					"Ncc (Land Boys)": "Silver",
-					"Npcc": "Silver",
-					"Scout": "Bronze",
-					"St John Ambulance Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2007": {
 				"SYF Central Judging": {
@@ -124,12 +119,7 @@
 					"Dance - Malay": "Silver",
 					"Orchestra - Chinese": "Gold"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Bronze",
-					"Ncc (Land Boys)": "Silver",
-					"Npcc": "Silver",
-					"Scout": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2008": {
 				"SYF Central Judging": {
@@ -140,12 +130,7 @@
 					"Dance - Malay": "Silver",
 					"Orchestra - Chinese": "Gold"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Bronze",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Silver",
-					"Scout (Unit 1)": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2009": {
 				"Sports & Games Competition": [
@@ -155,6 +140,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -164,22 +165,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -202,12 +235,7 @@
 					"Art & Craft (Bronze)": "1 Award",
 					"Band - Concert": "Bronze"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Ncc (Land Boys)": "Silver",
-					"Npcc": "Silver",
-					"Scout (Unit 1)": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2010": {
 				"Sports & Games Competition": [
@@ -217,6 +245,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -226,22 +270,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -274,13 +350,7 @@
 					"Dance - Malay": "Silver",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Bronze",
-					"Ncc (Land Boys)": "Gold",
-					"Ncdcc": "Bronze",
-					"Npcc (Land)": "Silver",
-					"Scout (Unit 1)": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2011": {
 				"Development Award": [
@@ -306,14 +376,7 @@
 					"Dance - Malay": "Silver",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girl Guides (Coy 1)": "Silver",
-					"Ncc (Land Boys)": "Silver",
-					"Ncdcc": "Silver",
-					"Npcc (Land)": "Gold",
-					"Scout (Unit 1)": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2012": {
 				"Development Award": [
@@ -336,6 +399,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -345,22 +424,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -385,14 +496,7 @@
 					"Dance - Malay": "Silver",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Ncdcc": "Gold",
-					"Npcc (Land)": "Gold",
-					"Scout (Unit 1)": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2013": {
 				"Development Award": [
@@ -415,6 +519,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -424,22 +544,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -463,14 +615,7 @@
 					"Dance - Malay": "Distinction",
 					"Orchestra - Chinese": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Bronze",
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Ncdcc": "Gold",
-					"Npcc (Land)": "Gold",
-					"Scout (Unit 1)": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2014": {
 				"Development Award": [
@@ -486,14 +631,7 @@
 					"Dance - Malay": "Distinction",
 					"Orchestra - Chinese": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Land Boys)": "Silver",
-					"Ncdcc": "Gold",
-					"Npcc (Land)": "Gold",
-					"Scout (Unit 1)": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2015": {
 				"Development Award": [
@@ -508,6 +646,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -517,22 +671,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -555,14 +741,7 @@
 					"Dance - Malay": "Distinction",
 					"Orchestra - Chinese": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Ncdcc": "Gold",
-					"Npcc (Land)": "Gold",
-					"Scout (Unit 1)": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"SYF Arts Presentation": {
@@ -574,14 +753,7 @@
 					"Dance - Malay": "Distinction",
 					"Orchestra - Chinese": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Bronze",
-					"Girl Guides (Coy 1)": "Silver",
-					"Ncc (Land Boys)": "Silver",
-					"Ncdcc": "Silver",
-					"Npcc (Land)": "Gold",
-					"Scout (Unit 1)": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"Sports & Games Competition": [
@@ -591,6 +763,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -600,22 +788,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -635,18 +855,11 @@
 					"Band - Concert": "Accomplishment",
 					"Chinese Orchestra-Full Orchestra": "Accomplishment",
 					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
 					"Dance - International": "Accomplishment",
-					"Dance - Malay": "Distinction",
-					"Dance - Chinese": "Distinction"
+					"Dance - Malay": "Distinction"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Silver",
-					"Ncc (Land Boys)": "Silver",
-					"Ncdcc": "Bronze",
-					"Npcc (Land)": "Gold",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"SYF Arts Presentation": {
@@ -657,14 +870,9 @@
 					"Dance - International": "Accomplishment",
 					"Dance - Malay": "Distinction"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Gold",
-					"Ncdcc": "Bronze",
-					"Npcc (Land)": "Silver",
-					"Scout": "Gold",
-					"Girl Guides": "Silver"
-				}
-			}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -898,6 +1106,18 @@
 			"Normal Academic": [
 				"157",
 				"199",
+				"None-posted"
+			]
+		},
+		"2019": {
+			"Express": [
+				"210",
+				"230",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"158",
+				"195",
 				"None-posted"
 			]
 		}

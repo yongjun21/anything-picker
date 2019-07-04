@@ -18,7 +18,7 @@
 	],
 	"bus": "SBS Numbers 32 , 100 , 105 , 111 , 145 , 147 , 195 , 196 , 198 , 855 ",
 	"GeneralInformation": {
-		"Principal": "Dr Ng Siew Peng Irene",
+		"Principal": "Mrs Tan-Ng Wie Pin",
 		"Vice Principal": [
 			"Mdm Khoo Su Lien Regina",
 			"Mr Ong Sze Chong Bryan"
@@ -71,11 +71,8 @@
 		],
 		"Clubs & Societies": [
 			"English Club",
-			"Fun & Fitness",
 			"It/Media Club",
-			"Library",
 			"Mathematics Club",
-			"Pa Club",
 			"Robotics Club",
 			"Science  & Environment Club"
 		]
@@ -88,6 +85,9 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
@@ -256,18 +256,7 @@
 					"award": "Distinction"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2018",
-					"category": "Brownies",
-					"award": "Bronze"
-				},
-				{
-					"year": "2018",
-					"category": "Red Cross",
-					"award": "Silver"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"postalCode": "148812",
@@ -289,25 +278,9 @@
 	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
-		"TOTAL VACANCY": 240,
+		"TOTAL VACANCY": 210,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
-		"VACANCY FOR PHASE 1": 200,
-		"NO. OF APPLICANTS IN PHASE 1": 48,
-		"PLACES TAKEN UP TO PHASE 1": 48,
-		"VACANCY FOR PHASE 2A1": 152,
-		"NO. OF APPLICANTS IN PHASE 2A1": 0,
-		"PLACES TAKEN UP TO PHASE 2A1": 48,
-		"VACANCY FOR PHASE 2A2": 152,
-		"NO. OF APPLICANTS IN PHASE 2A2": 16,
-		"PLACES TAKEN UP TO PHASE 2A2": 64,
-		"VACANCY FOR PHASE 2B": 88,
-		"NO. OF APPLICANTS IN PHASE 2B": 0,
-		"PLACES TAKEN UP TO PHASE 2B": 64,
-		"VACANCY FOR PHASE 2C": 176,
-		"NO. OF APPLICANTS IN PHASE 2C": 45,
-		"PLACES TAKEN UP TO PHASE 2C": 109,
-		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 131,
-		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 42
+		"VACANCY FOR PHASE 1": 170
 	},
 	"id": "1621"
 }

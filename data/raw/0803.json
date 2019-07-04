@@ -61,6 +61,7 @@
 		"H2 BIOLOGY",
 		"H2 CHEMISTRY",
 		"H2 CHINESE LANGUAGE & LITERATURE",
+		"H2 COMPUTING",
 		"H2 ECONOMICS",
 		"H2 FRENCH LANGUAGE",
 		"H2 GEOGRAPHY",
@@ -118,10 +119,10 @@
 			"Creative Writing Circle",
 			"Debating And Oratorical Society",
 			"Entrepreneurship Club",
-			"First Aid Club",
+			"First Aid Unit",
 			"Green Club",
 			"Interact Club",
-			"Library Council",
+			"Library",
 			"Lifeguard Corps",
 			"Malay Cultural Society",
 			"Media Resource Crew",
@@ -2000,7 +2001,8 @@
 					"Ensemble - Harp": "Commendation",
 					"Ensemble - Strings": "Distinction"
 				}
-			}
+			},
+			"2019": {}
 		}
 	},
 	"L1R5History": {
@@ -2090,6 +2092,20 @@
 			"Science/IB": [
 				"2",
 				"9"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2019": {
+			"Arts": [
+				"2",
+				"9"
+			],
+			"Science/IB": [
+				"2",
+				"8"
 			],
 			"Commerce": [
 				"-",

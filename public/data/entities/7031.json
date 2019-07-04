@@ -20,53 +20,43 @@
 	"GeneralInformation": {
 		"Principal": "Mr Ang Teck Siang Daniel",
 		"Vice Principal": [
-			"Mr Tan Yit Kee",
-			"Mr Jansen Joseph Marian"
+			"Mr Jansen Joseph Marian",
+			"Mrs Teo-Tay Chai Hong"
 		],
-		"School Vision": "Rooted in Truth and Charity, nurtured for academic, aesthetic, physical, social and moral growth.",
+		"School Vision": "ONE.Home.School.Community: One in Truth and Charity, HSC is a Home where hearts belong, a School where students shine forth, and a Community that leads, cares and serves.",
 		"School Mission": "With God in our presence, we strive to create a family of compassionate persons imbibed with integrity. We strive to cultivate confident and independent learners who are adaptable and gracious.",
-		"School Philosophy, Culture and Ethos": "Hai Sing Catholic School was founded in 1959 by the Franciscan Missionaries of Mary (FMM). Throughout its decades of history, the school believes that each HAIsian is blessed with talents and a unique identity, can become a person of integrity and compassion who contributes to a better world.  Therefore, every HAIsian is deserving of the best care and opportunities.  We help our students redefine their own boundaries of success, and to rethink what they are capable of, to dare to dream of great things.  We develop students who are persons for others and who will make society better bit by bit by having a positive impact on others' lives.  HAIsians serve the young and the elderly in the community who need comfort and support. Our teachers are exemplary in their love for students and strong belief in moulding students to be persons of character and resilience. They use effective teaching strategies and learning technologies to engage students.  Our school ethos is \"With students as our focus and excellence as our pursuit, we work with persistence and in unison, using innovative and exciting approaches to transform the whole school experience for every HAIsian.\"",
+		"School Philosophy, Culture and Ethos": "Hai Sing Catholic School was founded in 1959 by the Franciscan Missionaries of Mary (FMM). In Hai Sing, we believe that every HAIsian is a child of God, blessed with talents and a unique identity and will become a person with integrity and compassion who contributes to a better world. Every HAIsian will be the culmination of his/her experiences and is to be given deserved care and opportunities. Our teachers are exemplary in their love for the students, take ownership of their responsibilities and learning to constantly seek better and more effective ways to enhance students' learning experiences. With students and staff as our focus and excellence our pursuit, we work with persistence in unison, using innovative and exciting approaches to transform the WHOLE school experience for every HAIsian.",
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Catholic Junior College"
 	},
 	"SubjectOffered": [
 		"Additional Mathematics",
+		"Art",
 		"Basic Chinese",
 		"Basic Malay",
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Chinese N(A)",
-		"Civics & Moral Education",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
 		"Computer Applications",
 		"Design & Technology",
 		"Elements Of Business Skills",
 		"English Language",
-		"English Language (Syll A)",
-		"English Language (Syll T)",
 		"Food & Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
+		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
 		"Literature(E)",
 		"Malay",
-		"Malay N(A)",
 		"Mathematics",
-		"Mathematics (Syllabus A)",
-		"Mathematics (Syllabus T)",
 		"Music",
 		"Physical Education",
-		"Physics",
-		"Principles Of A/C",
 		"Principles Of Accounts",
-		"Project Work",
-		"Science",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
-		"Science (Syll T)",
 		"Social Studies"
 	],
 	"Cca": {
@@ -102,7 +92,7 @@
 			"STEM": "Applied Learning in Robotics and Engineering",
 			"Community & Youth Leadership": "Developing Leadership Competencies in Every HaiSian"
 		},
-		"Special Student Development Programmes Offered": "Hai Sing Catholic School's Applied Learning Programme (ALP) in STEM nurtures students for the future. The ALP comprises the Robotics Proficiency Programme, the Science Inquiry and Applied Mathematics Modelling Programme, and the Design Engineering Programmes. Our students have been recognised internationally for their achievements in Robotics. The school's Learning for Life Programme (LLP) 'Developing Leadership Competencies in Every HaiSian' focuses on Community Youth Leadership. The school offers student-centric and values-driven programmes to develop Confident, Independent, Adaptable, and Gracious HaiSians. The HAI Experiential Week, Hai Aesthetics Programme, Project-I, together with the Future Problem Solving and Mathematics Olympiad Programmes, enrich our students' learning experiences. Internationalisation trips to China, Japan and ASEAN imbue our students with Civic Literacy, Global Awareness and Cross-Cultural Skills. The school educates HaiSians to protect the environment through good practices such as using less plastics and to recycle and repurpose materials."
+		"Special Student Development Programmes Offered": "HAIsians are inspired to surpass boundaries and learn skills and competencies to thrive in the future. We offer two distinctive programmes i.e., the Applied Learning Programme (ALP) in Science, Technology, Engineering and Mathematics, and the Learning for Life Programme (LLP) in Student Leadership.  For the ALP, our students go through teacher-designed lessons that explore modern, cutting edge ideas in STEM such as Artificial Intelligence in Industry 4.0 and foundations of applied science, programming and mathematics.  The ALP culminates in its second year, where students are taught design thinking approaches to understand real life problems in the community and experience working with high-tech equipment to design, build and rebuild prototype solutions. Through the ALP, students also develop values and life-skills such as empathy, grit, collaboration and entrepreneurial dare.  Our LLP takes students on a journey to understand themselves better and to exercise leadership in different situations through involvements within and beyond school.  As a community that leads, care and serves, our students are nurtured into charitable, compassionate and gracious individuals who do small things with great love, and contribute positively to the school and the external community.  Our other key signature programmes include the HAI Experiential Week and the Internationalisation Programmes.  As a school founded by the Franciscans, we also emphasise development of life habits such as waste reduction that sustain the environment and the earth."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -110,70 +100,19 @@
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2016",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Taekwondo (Kyorugi)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Taekwondo (Kyorugi)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				}
-			],
+			"2016": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2017": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -276,68 +215,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

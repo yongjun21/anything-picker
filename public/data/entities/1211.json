@@ -18,21 +18,22 @@
 	],
 	"bus": "8; 61; 65; 66; 100; 135; 154;",
 	"GeneralInformation": {
-		"Principal": "Mrs Sara De Souza",
-		"Vice Principal": "Mr James Peh Chin Heng",
+		"Principal": "Mr Chua Choon Hock",
+		"Vice Principal": [
+			"Mr James Peh Chin Heng",
+			"Miss Choong Pei Chin"
+		],
 		"Vice Principal (Admin)": "Mr Tan Meng Khiang",
-		"School Vision": "Every Cedarian a Lifelong Learner, a Person of Character",
-		"School Mission": "Nurturing Enthusiastic Learners and Responsible Citizens",
+		"School Vision": "Joyful Learners, Responsible Citizens and Creative Leaders in a connected community",
 		"School Philosophy, Culture and Ethos": [
 			"The school aspires to groom every Cedarian into individuals with robust character, rooted in values. Every Cedarian also understands that learning never stops. Each of them loves learning and will pursue continuous learning throughout his/her life.",
 			"We are committed to developing Cedarians into individuals who take ownership of their learning and participate actively in lessons. ",
 			"Our CEDAR Values:",
-			"- Courtesy  ",
-			"- Care ",
-			"- Enthusiasm                                              ",
-			"- Determination  ",
-			"- Adaptability  ",
-			"- Responsibility"
+			"- Kindess",
+			"- Integrity",
+			"- Resilience",
+			"- Responsibility",
+			"- Creativity"
 		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -61,11 +62,27 @@
 	"Cca": {
 		"Physical Sports": [
 			"Adventure Club",
-			"Football"
+			"Athletics",
+			"Football",
+			"Softball",
+			"Sports Club"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girls' Brigade"
 		],
 		"Visual and Performing Arts": [
+			"Art Club",
 			"Brass Band",
-			"Creative Dance"
+			"Ethnic Ensemble",
+			"International Dance"
+		],
+		"Clubs & Societies": [
+			"Future Innovators' Programme",
+			"Infocomm Club",
+			"Kindness Club",
+			"Literary, Drama & Debate Club",
+			"Robotics Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -73,7 +90,7 @@
 			"Interdisciplinary": "Creative and Inventive Thinking (CIT) Programme",
 			"Community Service & Student Leadership": "Upstanding Leaders@ Cedar Primary School"
 		},
-		"Special Student Development Programmes Offered": "Talent Management"
+		"Special Student Development Programmes Offered": "Applied Learning Programme (ALP)"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -83,58 +100,7 @@
 					"DA (National Education)"
 				]
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "2nd"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -224,28 +190,14 @@
 		"SG",
 		"CC"
 	],
-	"specialNeeds": [],
+	"specialNeeds": [
+		"PD"
+	],
 	"studentCare": true,
 	"p1Registration": {
-		"TOTAL VACANCY": 180,
+		"TOTAL VACANCY": 210,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
-		"VACANCY FOR PHASE 1": 140,
-		"NO. OF APPLICANTS IN PHASE 1": 45,
-		"PLACES TAKEN UP TO PHASE 1": 45,
-		"VACANCY FOR PHASE 2A1": 95,
-		"NO. OF APPLICANTS IN PHASE 2A1": 0,
-		"PLACES TAKEN UP TO PHASE 2A1": 45,
-		"VACANCY FOR PHASE 2A2": 95,
-		"NO. OF APPLICANTS IN PHASE 2A2": 13,
-		"PLACES TAKEN UP TO PHASE 2A2": 58,
-		"VACANCY FOR PHASE 2B": 61,
-		"NO. OF APPLICANTS IN PHASE 2B": 1,
-		"PLACES TAKEN UP TO PHASE 2B": 58,
-		"VACANCY FOR PHASE 2C": 122,
-		"NO. OF APPLICANTS IN PHASE 2C": 39,
-		"PLACES TAKEN UP TO PHASE 2C": 96,
-		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 84,
-		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 37
+		"VACANCY FOR PHASE 1": 170
 	},
 	"id": "1211"
 }

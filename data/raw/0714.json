@@ -40,7 +40,6 @@
 		"H1 ECONOMICS",
 		"H1 FRENCH LANGUAGE",
 		"H1 GENERAL PAPER",
-		"H1 GENERAL STUDIES IN CHINESE",
 		"H1 GEOGRAPHY",
 		"H1 GERMAN LANGUAGE",
 		"H1 HISTORY",
@@ -69,15 +68,17 @@
 		"H2 MATHEMATICS",
 		"H2 MUSIC",
 		"H2 PHYSICS",
+		"H2 SPANISH",
 		"H2 TAMIL LANGUAGE & LITERATURE",
+		"H2 TRANSLATION (CHINESE)",
 		"H3 ART",
+		"H3 CHEMISTRY",
 		"H3 CHINESE LANGUAGE & LITERATURE",
 		"H3 ECONOMICS",
 		"H3 GEOGRAPHY",
 		"H3 HISTORY",
 		"H3 LITERATURE IN ENGLISH",
 		"H3 MUSIC",
-		"H3 PHARMACEUTICAL CHEMISTRY",
 		"NTU SCIENCE RESEARCH (BIO)",
 		"NTU SCIENCE RESEARCH (CHEM)",
 		"NTU SCIENCE RESEARCH (MATH)",
@@ -98,23 +99,27 @@
 			"Hockey (Girls)",
 			"Netball (Girls)",
 			"Softball",
-			"Squash",
-			"Swimming",
+			"Squash (Girls)",
 			"Table Tennis",
 			"Tennis",
 			"Track & Field",
+			"Ultimate Frisbee",
 			"Volleyball"
 		],
 		"Visual and Performing Arts": [
+			"Art Club",
 			"Chinese Orchestra",
 			"Choir",
 			"Dance",
 			"Drama",
-			"Symphonic Band"
+			"Symphonic Band",
+			"Visual Arts Club"
 		],
 		"Clubs & Societies": [
 			"Computing & Robotics",
 			"Debate",
+			"Environmental Club",
+			"Library Club",
 			"Media",
 			"Outdoor Adventure (Odac)",
 			"Service Learning"
@@ -125,9 +130,10 @@
 	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
-			"Integrated Programme"
+			"Integrated Programme",
+			"MUSIC ELECTIVE PROGRAMME"
 		],
-		"Special Student Development Programmes Offered": "Environmental Literacy Programme"
+		"Special Student Development Programmes Offered": "Bicultural Studies Programme"
 	},
 	"AchievementHistory": {
 		"Junior College": {
@@ -192,7 +198,8 @@
 					"Dance - International": "Distinction",
 					"Drama - English": "Distinction"
 				}
-			}
+			},
+			"2019": {}
 		}
 	},
 	"L1R5History": {
@@ -230,6 +237,20 @@
 			"Science/IB": [
 				"2",
 				"10"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2019": {
+			"Arts": [
+				"2",
+				"10"
+			],
+			"Science/IB": [
+				"2",
+				"9"
 			],
 			"Commerce": [
 				"-",

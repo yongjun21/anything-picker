@@ -32,6 +32,11 @@ export function indexSchoolData () {
     result.push(forwardIndex[key])
   })
 
-  fs.writeFileSync('public/data/entityList.json', JSON.stringify(result.filter(entity => entity.coordinates)))
+  const schoolList = require('../../data/schoolList.json')
+  const filtered = result
+    .filter(entity => entity.coordinates)
+    .filter(entity => schoolList.find(row => row.code === entity.id))
+
+  fs.writeFileSync('public/data/entityList.json', JSON.stringify(filtered))
   return result
 }

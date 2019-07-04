@@ -22,12 +22,13 @@
 		"Principal": "Miss Gwee Su Pin Sandra",
 		"Vice Principal": [
 			"Mr Justin Tan",
+			"Mdm Khoo Heng Oi Catherine",
 			"Mdm Mandy Cheng Mun Yi"
 		],
 		"Vice Principal (Admin)": "Mr Chan Kai Sum",
 		"School Vision": "Where Learning Is Vibrant And Teaching Is Dynamic.",
 		"School Mission": "To Nurture Our Students To Be Creative, Independent, Life-Long Learners Who are Confident, Gracious, Humble And Responsible Citizens, Prepared For the Challenges Ahead.",
-		"School Philosophy, Culture and Ethos": "We believe that every student is a gift, with untapped potential. We want our students to realise this potential in a learning environment that is not only nurturing and full of care, but will also stretch them and help them to grow. The school motto, Together We Care and Grow, embodies four main virtues which are also the school values, namely: Benevolence, Justice, Wisdom, and Togetherness.",
+		"School Philosophy, Culture and Ethos": "We believe that every student is a gift, with untapped potential. We want our students to realise this potential in a learning environment that is not only nurturing and full of care, but which will also stretch them and help them grow. Our school values are Benevolence, Justice, Wisdom, and Togetherness.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -57,6 +58,7 @@
 		"Mathematics (Syllabus T)",
 		"Physics",
 		"Principles Of A/C",
+		"Principles Of Accounts",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
 		"Science (Syll T)"
@@ -72,7 +74,6 @@
 			"Volleyball"
 		],
 		"Uniformed Groups": [
-			"Girl Guides",
 			"National Cadet Corps (Ncc)",
 			"National Police Cadet Corps (Npcc)",
 			"Red Cross Youth"
@@ -102,7 +103,7 @@
 			"STEM": "Health Sciences: Healthcare technologies for the elderly",
 			"Community & Youth Leadership": "Community and Youth Leadership in Hua Yi"
 		},
-		"Special Student Development Programmes Offered": "Since 1956, Hua Yi has developed a comprehensive values-based curriculum focussed on developing Hua Yians to be empathetic, resilient, passionate and glocal (global and local in perspective) citizens. Hua Yi's vibrant school heritage and culture provides a caring, authentic environment for students to participate in a wide range of quality programmes. Our Applied Learning Programme in Healthcare Technologies for the Elderly deepens awareness of healthcare issues facing the elderly in Singapore. It develops in students skills and innovative mindsets through learning journeys, elective modules and school-based experiences integrated across academic subjects. Our Learning for Life Programme in Community Youth Leadership develops in all Hua Yians a range of leadership and socio-emotional competencies through the Leadership Challenge Model and its 5 core leadership practices. Student leaders grow to become confident, responsible and socially aware, and have opportunities to serve beyond the school. These are combined with a range of exciting co-curricular experiences for all students, including a focus on our DSA talent areas of sport, student leadership and the performing and visual arts. Hua Yians have opportunities for cultural immersion in Thailand, Indonesia and Taiwan, and resources are set aside in a Talent Development Programme to ensure that students receive customised support to fulfil their potential. Hua Yi emphasises a student-centric curriculum, with school-wide programmes which develop a sense of belonging, joy of learning and culture of care. These includes our signature Start It Right! activities in January, colourful House programme, Level Learning Programmes and camps, Learning Fiesta, Montage school concert, Drop Everything and Read (DEAR), and semestral post-exam activities. These programmes are enriched by the sustained support of our passionate alumni and committed PSG, providing Hua Yians with a school experience that prepares them for life."
+		"Special Student Development Programmes Offered": "Since 1956, Hua Yi has developed a comprehensive values-based curriculum focussed on developing Hua Yians to be empathetic, resilient, passionate and glocal (global and local in perspective) citizens. Hua Yi's vibrant school heritage and culture provides a caring, authentic environment for students to participate in a wide range of quality programmes. Our Applied Learning Programme in Technology for Active Living deepens awareness of healthcare issues in Singapore and how innovation can make a difference. It develops in students skills and innovative mindsets through learning journeys, elective modules and school-based experiences integrated across academic subjects. Our Learning for Life Programme in Community Youth Leadership develops in all Hua Yians a range of leadership and socio-emotional competencies through the Leadership Challenge Model and its 5 core leadership practices. Student leaders grow to become confident, responsible and socially aware, and have opportunities to serve beyond the school. These are combined with a range of exciting co-curricular experiences for all students, including a focus on our DSA talent areas of sport, student leadership and the performing and visual arts. Hua Yians have opportunities for cultural immersion in Thailand, Indonesia and Taiwan, and resources are set aside in a Talent Development Programme to ensure that students receive customised support to fulfil their potential. Hua Yi has a student-centric curriculum, with school-wide programmes which develop a sense of belonging, joy of learning and culture of care. These includes our signature Start It Right! activities in January, innovative House programme, Level Learning Programmes and camps, Learning Festival, Montage school concert, CharacteRISE! and Drop Everything and Read (DEAR). These programmes are enriched by the sustained support of our passionate alumni and committed PSG, providing Hua Yians with a school experience that prepares them for life."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -110,60 +111,19 @@
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				}
-			],
+			"2016": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2017": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -346,88 +306,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2015",
-					"category": "Red Cross",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "Red Cross",
-					"award": "Bronze"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Girl Guides",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Red Cross",
-					"award": "Silver"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

@@ -16,7 +16,10 @@
 	"mrt": "Punggol MRT Station",
 	"GeneralInformation": {
 		"Principal": "MDM CHUA LAY TIN",
-		"Vice Principal": "MR GOH CHANG CHUEN",
+		"Vice Principal": [
+			"MR GOH CHANG CHUEN",
+			"MISS TAN HUILING CHERYL"
+		],
 		"Vice Principal (Admin)": "MDM TAN BETTY",
 		"School Vision": "Every PGPS Student, A Future-Ready Leader",
 		"School Mission": "Engaging Learners, Nurturing Leaders, Empowering Givers",
@@ -85,7 +88,8 @@
 					"Dance - International": "Accomplishment",
 					"Ensemble - Strings": "Accomplishment"
 				}
-			}
+			},
+			"2019": {}
 		}
 	},
 	"postalCode": "828772"

@@ -2,7 +2,7 @@
 	"code": "0716",
 	"name": "Yishun Innova Junior College",
 	"levels": "J",
-	"uen": " ",
+	"uen": " T18GS0001F",
 	"logo": "./Medias/Images/Schools/logos/tn_0716.jpg",
 	"website": "http://www.yijc.moe.edu.sg/",
 	"address": "3, Yishun Ring Road (768675)",
@@ -19,7 +19,12 @@
 	],
 	"bus": "800 , 812 , 167 , 169 , 171 , 980 ",
 	"GeneralInformation": {
-		"Principal-Designate": "MR MICHAEL NELSON DE SILVA",
+		"Principal": "Mr Michael De Silva",
+		"Vice Principal": [
+			"Mr Ng Ping Hwee",
+			"Mr Tay Yuan Zhuang"
+		],
+		"Vice Principal (Admin)": "Mdm Tan Swee Eng Jennifer",
 		"Type of School": "Government School / Co-ed School / Full Day",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -83,20 +88,20 @@
 			"Art Club",
 			"Chinese Cultural Society",
 			"Chinese Orchestra",
-			"Choir",
-			"English Language Drama And Debating Society (Drama)",
+			"Chorale",
+			"Dance Club",
+			"Eldds (Drama)",
 			"Guitar Ensemble",
 			"Indian Cultural Society",
 			"Malay Cultural Society",
-			"Modern Dance",
 			"Musicians' Club",
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
-			"English Language Drama And Debating Society (Debate)",
+			"Eldds (Debate)",
 			"Interact Club",
 			"Library Council",
-			"Makers' Academy",
+			"Media Resource And It Club",
 			"Outdoor Activities Club",
 			"Strategy Club",
 			"Students' Council"

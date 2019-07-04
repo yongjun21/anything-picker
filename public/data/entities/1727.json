@@ -4,7 +4,7 @@
 	"levels": "P",
 	"uen": " T07GS1727L",
 	"logo": "./Medias/Images/Schools/logos/tn_1727.jpg",
-	"website": "http://www.junyuanpri.moe.edu.sg",
+	"website": "https://junyuanpri.moe.edu.sg",
 	"address": "2, Tampines Street 91 (528906)",
 	"telephone": [
 		"67830375"
@@ -14,25 +14,29 @@
 	],
 	"email": "JUNYUAN_PS@MOE.EDU.SG",
 	"mrt": [
-		"Tampines MRT"
+		"Tampines MRT",
+		"Downtown MRT",
+		"Tampines West MRT"
 	],
 	"bus": "5 , 8 , 10 , 15 , 18 , 21 , 22 , 23 , 27 , 28 , 31 , 34 , 39 , 59 , 65 , 67 , 168 , 292 , 293 ",
 	"GeneralInformation": {
-		"Principal": "Mrs Ming Kum",
-		"Vice Principal": "Mdm Ho Lay Yen Jenny",
+		"Principal": "Miss Chiam Lee Meng",
+		"Vice Principal": [
+			"Mdm Ho Lay Yen Jenny",
+			"Mrs Kwok Siew Lian"
+		],
 		"Vice Principal (Admin)": "Mdm Hafsah Abdullah",
 		"School Vision": "Future-Ready Learners, Leaders of Character",
 		"School Mission": "Nurturing Every Child in a Vibrant and Caring Environment where Talents Blossom",
 		"School Philosophy, Culture and Ethos": [
-			"In Junyuan Primary School (JYPS), we believe that every child is special, valuable and important. We seek to equip our students with the necessary knowledge, values and skills that will prepare them adequately to face the challenges of the future. ",
-			"The school has identified five distinct strands of outcomes known as the Desired Junyuan Outcomes (DJOs) that each student should achieve through three defined key stages by the end of P6. They are Self-Directed Learners, Adaptable Individuals, Critical Thinkers, Confident Communicators and Concerned Citizens. ",
-			"These outcomes were identified based on the school's philosophy of preparing our students for the future and to mould them as leaders of character. ",
-			"The school seeks to develop students who are grounded in values and are concerned citizens who can contribute positively to the school, home and community. The acronym EnR3ICH outlines the 7 JYPS school values: ExcelleNce, Respect, Responsibility, Resilience, Integrity, Care, Harmony.",
-			"The 7 values are introduced during our assembly programmes, Character and Citizenship Education (CCE) Lessons and reinforced through our school-based programmes. They provide a guide for our students to be able to distinguish right from wrong, help them make responsible choices, foster positive relationships with their peers and others, be able to display leadership qualities in the areas of leading self and leading others, as well as help them become more aware of their roles in school, the community and Singapore. ",
-			"The school motto 'Work to Excel' embodies the spirit in JYPS where our students are self-directed in learning and seek opportunities for progress and innovation. They will be confident in their communication and develop a critical mind for thinking. He/She will be adaptable to take on new roles readily and demonstrate resilience in the face of challenges."
+			"In 2019, East View Primary School merged with Junyuan Primary School.  The merged school is known as Junyuan Primary School and operates from it's current site.",
+			"East View Primary School has a rich history of 31 years since its establishment in January 1987, being one of the earliest primary schools set up in the Tampines Town.  Since its inception in 1987, the school has sowed the seeds of hearts and minds that brought forth multiple reaping of harvests for its pupils.",
+			"Junyuan Primary School adopted its name from Choon Guan Primary School that was renamed Junyuan Primary School in June 1986 and closed in December 1986. The name Junyuan Primary School was subsequently revived and opened in the current site at 2 Tampines Street 91 in January 1988.  Thirty years later, JYPS has established itself as one of the choice schools in Tampines.",
+			"The merged school encompasses the efforts, strengths and best practices of both merging schools and a rich culture and combined history of 61 years. A strong foundation has been set for this transition - the camaraderie and friendships that the pupils and staff have forged during the combined activities and events in 2018 will take us forward. As JYPS grows larger in strength, we seize the opportunities the merged school now enjoys and aim to take the school forward to greater heights.",
+			"With the merger, programmes from both schools are integrated to strengthen the holistic experience for our pupils. The Applied Learning Programme, Developing Confident Communicators - Student DJ, continues to flourish in the different language departments. Our pupils will also take the stage in learning to produce digital music through the Learning for Life Programme, Digital Music Lessons. Through these two distinctive programmes, pupils will learn skills to prepare them for the future while developing values - Excellence, Respect, Resilience, Responsibility, Care & Compassion and Harmony - that will anchor them in decision-ma"
 		],
 		"Type of School": "Government School / Co-ed School / Single Session",
-		"Mother Tongue": "Chinese / Malay",
+		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
 	},
 	"SubjectOffered": [
@@ -50,20 +54,20 @@
 	"Cca": {
 		"Physical Sports": [
 			"Floorball",
-			"Netball",
-			"Sepak Takraw",
 			"Taekwondo",
 			"Tchoukball",
 			"Volleyball"
 		],
 		"Uniformed Groups": [
-			"Boys' Brigade",
-			"Brownies"
+			"Scouts"
 		],
 		"Visual and Performing Arts": [
 			"Choir",
 			"Dance - Chinese",
-			"Dance - Malay"
+			"Dance - International",
+			"Dance - Malay",
+			"Music Interest Club",
+			"Visual Arts Club"
 		],
 		"Clubs & Societies": [
 			"Infocom Media Inc @ Junyuan",
@@ -79,138 +83,19 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Taekwondo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Taekwondo (Poomsae)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Taekwondo (Poomsae)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Taekwondo (Poomsae)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Taekwondo (Poomsae)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Taekwondo (Poomsae)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Taekwondo (Poomsae)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				}
-			],
+			"2015": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2016": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2017": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -303,28 +188,7 @@
 					"award": "Distinction"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"postalCode": "528906",
@@ -348,21 +212,7 @@
 	"p1Registration": {
 		"TOTAL VACANCY": 180,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
-		"VACANCY FOR PHASE 1": 140,
-		"NO. OF APPLICANTS IN PHASE 1": 123,
-		"PLACES TAKEN UP TO PHASE 1": 123,
-		"VACANCY FOR PHASE 2A1": 17,
-		"NO. OF APPLICANTS IN PHASE 2A1": 0,
-		"PLACES TAKEN UP TO PHASE 2A1": 122,
-		"VACANCY FOR PHASE 2A2": 18,
-		"NO. OF APPLICANTS IN PHASE 2A2": 21,
-		"PLACES TAKEN UP TO PHASE 2A2": 140,
-		"VACANCY FOR PHASE 2B": 20,
-		"NO. OF APPLICANTS IN PHASE 2B": 0,
-		"PLACES TAKEN UP TO PHASE 2B": 140,
-		"VACANCY FOR PHASE 2C": 40,
-		"NO. OF APPLICANTS IN PHASE 2C": 57,
-		"PLACES TAKEN UP TO PHASE 2C": 180
+		"VACANCY FOR PHASE 1": 140
 	},
 	"id": "1727"
 }

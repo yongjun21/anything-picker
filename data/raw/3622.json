@@ -17,11 +17,14 @@
 	"bus": "27 , 82 , 83 , 86 , 88 , 89 , 89E , 136 , 161 , 371 , 965 ",
 	"GeneralInformation": {
 		"Principal": "MR CHIA CHOR YANN",
-		"Vice Principal": "MR SUKHDEV SINGH S/O GURDEEP SINGH",
+		"Vice Principal": [
+			"MR SUKHDEV SINGH S/O GURDEEP SINGH",
+			"MISS KEE LEE LING"
+		],
 		"Vice Principal (Admin)": "MR PHANG CHEE KHENG",
 		"School Vision": "World Ready Youth - Innovative contributors, upright citizens with a global outlook",
 		"School Mission": "We develop our students to their fullest potential through a balanced education and instil in them a passion for living and learning.",
-		"School Philosophy, Culture and Ethos": "Our School Motto is 'Realising the Star Within' and we call our students 'North Stars' as we believe there is a star in each of our students.  Our students recite the North Star's Pledge every Monday -  \"I will learn and find my compass; I will excel and strive to go far; I will grow and live a life of purpose; I will shine as I am a North Star\". We aim to foster a vibrant learning community through diverse school programmes with a nurturing school climate and opportunities for all. Our culture and ethos are 'Achieve our Best' (Excel and try out best in whatever we do); 'Believe in Ourselves' (Everyone can achieve and all can succeed); 'Care for One Another' (Encourage and support one another at all times) and 'Diversity in Harmony' (Embrace diversity and celebrate our differences). Our North Star Education Programme offers a total curriculum to develop our students to be world and future-ready, with the right values and 21st century competencies. Our instructional programme is based on i-TEACH Framework for integrated, engaged and assessed learning, with teachers as curriculum innovators, collaborative learners and holistic educators. Our school-wide pedagogies include Inquiry-Based Learning, Making Thinking Visible, ICT-enabled Active Learning, Self-Directed & Collaborative Learning.  Our staff are trained in Thinking Routines, Assessment for Learning and Whole School Approach to Effective Communication. We have consistently achieved value-added results through our PrIME (Proactive, Intervention, Motivating & Empowering) framework with strategies such as Personal Educational & Career Plan/Aspirational Target Setting, ASPIRE motivational programme, After School Study/Start Right Programme, Teacher Mentors etc.",
+		"School Philosophy, Culture and Ethos": "We believe there is a star in each of our students and help every student find their compass in life. We call our students 'North Stars' and our School Motto is 'Realising the Star Within'. Our students recite the North Star's Pledge every Monday: 'I will learn and find my compass; I will excel and strive to go far; I will grow and live a life of purpose; I will shine as I am a North Star'. We aim to foster a vibrant learning community through diverse programs, positive school climate, and opportunities for all. Our culture and ethos are 'Achieve our Best, Believe in Ourselves, Care for One Another and Diversity in Harmony'. Our school values are G2R3IT: Graciousness, Gratitude, Respect, Responsibility, Resilience, Integrity, Teamwork. Our North Star Education Program offers a total curriculum that develops our students to be world and future-ready, with the right values and 21st century competencies. Our instructional program is based on i-TEACH Framework for integrated, engaged and assessed learning, with teachers as curriculum innovators, collaborative learners and holistic educators. Our school-wide pedagogies include Inquiry-Based Learning, Making Thinking Visible, ICT Active Learning, Self-Directed & Collaborative Learning. We have consistently achieved value-added results through our PrIME (Proaction, Intervention, Motivation, Empowerment) framework with strategies such as Personal Education & Career Plan/Aspirational Target Setting for all students, ASPIRE motivational program for graduating students, After School Study/Start Right Program/Teacher Mentors/Gear Up Program for high needs students etc.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -63,7 +66,7 @@
 			"Girl Guides",
 			"Ncc(Air)",
 			"Npcc",
-			"Singapore Red Cross Youth"
+			"Red Cross Youth"
 		],
 		"Visual and Performing Arts": [
 			"Band - Concert",
@@ -73,6 +76,7 @@
 		],
 		"Clubs & Societies": [
 			"Aeronautics",
+			"Community Youth Leaders",
 			"Environment",
 			"Library",
 			"Pa/Ava/Robotics",
@@ -87,17 +91,13 @@
 			"STEM": "Aeronautics Applied Learning Programme",
 			"Community & Youth Leadership": "Inspired North Stars Inspire Actions"
 		},
-		"Special Student Development Programmes Offered": "We aim to establish our strengths in STEM (Science, Technology, Engineering & Math) education. Our Applied Learning Programme is Aeronautics and our Learning for Life Programme is Community and Youth Leadership. Our student development is centred on the STAR Programme- Seek out your strength (Understanding oneself, social emotional competencies, leadership development), Take responsibility (Responsibility to self/family/school/community/world through values education, Peer Support & Relationships Programme, Social Skills Training, values-in-action programme including Green Compass Programme (environmental projects), adoption of elderly homes, annual overseas service learning), Adopt an enterprising spirit (Developing entrepreneurial dare through academic/CCA competitions, interdisciplinary Project Work, outdoor education/adventure camps), Ready for the world (Educational/Career Guidance, Elective Modules and Advanced Elective Modules, local/overseas visits to educational/vocational institutions/industry, information/financial literacy, personal mastery). Departmental signature programmes include Science Outdoor Learning & Experience, EL Speech & Drama, MTL Oratorical Skills, Fun with Math, Craft & Technology 3D Design/Printing etc."
+		"Special Student Development Programmes Offered": "We aim to establish our strengths in STEM (Science, Technology, Engineering & Math) education. Department signature programs include Science Outdoor Learning & Experience, Fun with Math, ICT Digital Maker Program, Craft & Technology 3D Design/Printing, Digi@Art Program, EL/MTL Oracy Skills Program, and Humanities Connect. Our Applied Learning Program is Aeronautics and our Learning for Life Program is Community and Youth Leadership. Our student development is centred on the STAR Program: Seek Out Our Strength (Understanding oneself, social-emotional/leadership development), Take Responsibility (Values education, Peer Support & Relationships Program, Social Skills Training, Green Compass Program (environmental projects), Values-in-Action/annual Overseas Service Learning Program), Adopt an Enterprising Spirit (Project Work, Sec 1-3 Outdoor Education Camps, external competitions), Ready for the World (Personal Mastery, Education & Career Guidance, Elective/Advanced Elective Modules, Information/Financial Literacy, local/overseas learning journeys)."
 	},
 	"AchievementHistory": {
 		"Secondary": {
 			"2005": {},
 			"2006": {
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Npcc": "Silver",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2007": {
 				"SYF Central Judging": {
@@ -106,11 +106,7 @@
 					"Dance - International": "Silver",
 					"Drama - English": "Bronze"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Npcc": "Silver",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2008": {
 				"SYF Central Judging": {
@@ -119,13 +115,7 @@
 					"Band - Concert": "Silver",
 					"Choir": "Bronze"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Silver",
-					"Ncc (Sea Boys)": "Bronze",
-					"Npcc (Land)": "Silver",
-					"Red Cross": "Gold",
-					"Boys' Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2009": {
 				"Sports & Games Competition": [
@@ -135,6 +125,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -144,22 +150,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -191,13 +229,7 @@
 					"Dance - International": "Gold (Hons)",
 					"Drama - English": "Bronze"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girl Guides (Coy 1)": "Bronze",
-					"Ncc (Sea Boys)": "Silver",
-					"Npcc": "Silver",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2010": {
 				"SYF Central Judging": {
@@ -206,13 +238,7 @@
 					"Dance - International": "Gold (Hons)",
 					"Drama - English": "Bronze"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girl Guides (Coy 1)": "Bronze",
-					"Ncc (Sea Boys)": "Silver",
-					"Npcc (Land)": "Bronze",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2011": {
 				"Development Award": [
@@ -231,6 +257,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -240,22 +282,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -276,13 +350,7 @@
 					"Dance - International": "Gold",
 					"Drama - English": "Silver"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girl Guides (Coy 1)": "Bronze",
-					"Ncc (Sea Boys)": "Silver",
-					"Npcc (Land)": "Bronze",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2012": {
 				"Development Award": [
@@ -300,13 +368,7 @@
 					"Dance - International": "Gold",
 					"Drama - English": "Silver"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girl Guides (Coy 1)": "Silver",
-					"Ncc (Sea)": "Silver",
-					"Npcc (Land)": "Bronze",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2013": {
 				"Development Award": [
@@ -325,6 +387,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -334,22 +412,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -370,13 +480,7 @@
 					"Dance - International": "Distinction",
 					"Drama - English": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girl Guides (Coy 1)": "Silver",
-					"Ncc (Sea)": "Silver",
-					"Npcc (Land)": "Bronze",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2014": {
 				"Development Award": [
@@ -389,13 +493,7 @@
 					"Dance - International": "Distinction",
 					"Drama - English": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Sea)": "Bronze",
-					"Npcc (Land)": "Silver",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2015": {
 				"Development Award": [
@@ -408,13 +506,7 @@
 					"Dance - International": "Distinction",
 					"Drama - English": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Bronze",
-					"Girl Guides (Coy 1)": "Silver",
-					"Ncc (Air)": "Gold",
-					"Npcc (Land)": "Bronze",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"SYF Arts Presentation": {
@@ -424,13 +516,7 @@
 					"Drama - English": "Distinction",
 					"Choir": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girl Guides (Coy 1)": "Silver",
-					"Ncc (Air)": "Silver",
-					"Npcc (Land)": "Silver",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"Sports & Games Competition": [
@@ -440,6 +526,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -449,22 +551,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -486,13 +620,7 @@
 					"Dance - International": "Accomplishment",
 					"Drama - English": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girl Guides (Coy 1)": "Bronze",
-					"Ncc (Air)": "Gold",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Sports & Games Competition": [
@@ -502,6 +630,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -511,22 +655,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -547,14 +723,9 @@
 					"Drama - English": "Accomplishment",
 					"Band - Concert": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girl Guides": "Gold",
-					"Ncc (Air)": "Silver",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
-			}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -793,6 +964,23 @@
 			"Normal Technical": [
 				"135",
 				"158",
+				"None-posted"
+			]
+		},
+		"2019": {
+			"Express": [
+				"214",
+				"238",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"173",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"136",
+				"159",
 				"None-posted"
 			]
 		}

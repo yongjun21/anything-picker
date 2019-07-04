@@ -17,7 +17,7 @@
 		"Choa Chu Kang MRT",
 		"Yew Tee MRT"
 	],
-	"bus": "307 , 301 , 302 , 160 , 170 , 178 , 925 , 927 , 960 , 983 , 961 , 979M ",
+	"bus": "307 , 302 , 160 , 170 , 178 , 925 , 927 , 960 , 961 ",
 	"GeneralInformation": {
 		"Principal": "Mr Leong Kok Kee",
 		"Vice Principal": [
@@ -25,8 +25,8 @@
 			"Mrs Tang Huay Jiuan Patrine"
 		],
 		"School Vision": "A Self-Directed Learner. A Confident Leader. In Pursuit of Excellence",
-		"School Mission": "Realising Regenites' Potential",
-		"School Philosophy, Culture and Ethos": "In Regent, our students learn to be self-directed learners, who take pride in learning, think critically and make informed decisions. They lead and motivate others to effect positive changes in school and community. In the pursuit of excellence, our students embrace self-belief, seek progress and turn challenges into opportunities for learning and growth.  More importantly, they are grounded in the right school values of \"Respect, Empathy, Determination and Integrity\". Our staff firmly believes in a student-centric education and we are committed to help students maximise their talents and realise their aspirations.",
+		"School Mission": "Realising the Potential of Our Students",
+		"School Philosophy, Culture and Ethos": "Our students learn to be self-directed learners, who take pride in learning, think critically and make informed decisions. They lead and motivate others to effect positive changes in school and community. In the pursuit of excellence, our students embrace self-belief, seek progress and turn challenges into opportunities for learning and growth.  More importantly, they are grounded in the right school values of \"Pride, Respect, Integrity, Determination and Empathy\". Our staff firmly believes in a student-centric education and we are committed to help students realise their aspirations.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -37,14 +37,14 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
 		"Design & Technology",
 		"English Language",
 		"Exercise And Sports Science",
 		"Food & Nutrition",
 		"Geography",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
@@ -76,7 +76,7 @@
 		"Clubs & Societies": [
 			"Avpa",
 			"Entrepreneur Club",
-			"Green Book Club",
+			"Environment Club",
 			"Infocom Club",
 			"Robotics Club"
 		]
@@ -90,48 +90,19 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				}
-			],
+			"2015": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2016": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2017": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -224,88 +195,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "Red Cross",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Red Cross",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

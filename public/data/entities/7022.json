@@ -21,8 +21,8 @@
 	"GeneralInformation": {
 		"Principal": "Mr Eric Lee Wei Tat",
 		"Vice Principal": [
-			"Mr Yong Kim Seng Aloysius",
-			"Mr Leong Tshun Khong Paul"
+			"Mr Leong Tshun Khong Paul",
+			"Ms Ng Foong Meng"
 		],
 		"School Vision": "A Lasallian Institution that nurtures Patricians to be worthy of God and man.",
 		"School Mission": "Touch hearts. Engage minds. Transform lives.",
@@ -46,25 +46,20 @@
 		"Chemistry",
 		"Chinese",
 		"Chinese B",
-		"Chinese N(A)",
-		"Civics & Moral Education",
 		"Computer Applications",
 		"Computing",
 		"Design & Technology",
 		"English Language",
-		"English Language (Syll A)",
-		"English Language (Syll T)",
 		"Food & Nutrition",
+		"Food And Consumer Education",
+		"Food Studies, N Level",
 		"Geography",
-		"Home Economics",
+		"History",
 		"Humanities (Ss, Geography)",
 		"Humanities (Ss, History)",
 		"Literature(E)",
 		"Malay",
-		"Malay N(A)",
 		"Mathematics",
-		"Mathematics (Syllabus A)",
-		"Mathematics (Syllabus T)",
 		"Music",
 		"Physical Education",
 		"Physics",
@@ -73,8 +68,7 @@
 		"Science (Phy, Chem)",
 		"Science (Syll T)",
 		"Social Studies N(T)",
-		"Tamil",
-		"Tamil N(A)"
+		"Tamil"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -88,8 +82,8 @@
 			"Track & Field"
 		],
 		"Uniformed Groups": [
+			"Ncc (Air)",
 			"Ncc (Land)",
-			"Ncc(Air)",
 			"Npcc",
 			"Scouts"
 		],
@@ -114,7 +108,7 @@
 			"STEM": "Sports and Health Science",
 			"Music & Performing Arts": "Music Development Programme"
 		},
-		"Special Student Development Programmes Offered": "The school offers Health and Sports Science as its Applied Learning Programme (ALP). The ALP aims to equip students with a better understanding of Sports Science as well as their physical well-being. Topics such as Biomechanics, Physiology and Motor Control are covered. For the Life Long Learning Programme (LLP), the school offers a unique programme in Music. The LLP develops students in their understanding of music as well as develop their character.  Through the pursuit of excellence in music, the students learn discipline, team work, commitment and resilience. Student Leadership Development is another key programme where numerous opportunities are provided for students to exercise and develop their leadership skills. The school also has a Scholars' Development Programme to provide a suitable learning environment that caters for students with higher academic abilities. The students in the Scholars class participate in the Scholars' Development Programme to better equip them with the right skills and mindset for their all-round development."
+		"Special Student Development Programmes Offered": "The school offers Health and Sports Science as its Applied Learning Programme (ALP). The ALP aims to equip students with a better understanding of Sports Science as well as their physical well-being. Topics such as Biomechanics, Physiology and Motor Control are covered. For the Life Long Learning Programme (LLP), the school offers a unique programme in Music. The LLP develops students in their understanding of music as well as develop their character.  Through the pursuit of excellence in music, the students learn discipline, team work, commitment and resilience. Student Leadership Development is another key programme where numerous opportunities are provided for students to exercise and develop their leadership skills. The school also has a stretch programme for students who show strong interest and ability in various subjects."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -122,180 +116,19 @@
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Cricket",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Cricket",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Cricket",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Cricket",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				}
-			],
+			"2016": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2017": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -358,88 +191,7 @@
 					"award": "Distinction"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "NCC (Air Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Land Boys)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Air Boys)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Air Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Air Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

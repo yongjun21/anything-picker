@@ -16,7 +16,7 @@
 	"mrt": [
 		"Bedok MRT"
 	],
-	"bus": "12 , 16 , 31 , 38 , 47 , 137 , 155 , 196 , 197 , 229 ",
+	"bus": "12 , 12E , 16 , 31 , 38 , 47 , 137 , 155 , 196 , 196A , 197 , 229 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Sim Ay Nar",
 		"Vice Principal": [
@@ -26,7 +26,7 @@
 		"Vice Principal (Admin)": "Mr Mark Chan",
 		"School Vision": "An Institute of Distinction, A Dynamic Learning Culture,  A Caring TJC Family",
 		"School Mission": "Broaden Minds, Touch Hearts, Enrich Lives",
-		"School Philosophy, Culture and Ethos": "Every TJCian is nurtured to be a trailblazer with a heart. Mindful of tradition, roused by imagination and fuelled by ambition, TJCians are active learners, caring and committed citizens and ethical leaders. Our holistic brand of Temasek Excellence equips students with intellectual, moral and social capital to thrive in a  fast-changing and complex world. The college achieved the School Distinction Award in 2015, with Best Practices for Teaching & Learning, Student All-Round Development, Staff Well-being and Development, Character and Citizenship Education as well as Partnership. Our dynamic staff fraternity continuously innovate and hone our craft, as we guide our students to bring out the best in them. The motto we proudly serve is 'For College, For Nation'.",
+		"School Philosophy, Culture and Ethos": "Every TJCian is nurtured to be a trailblazer with a heart. Mindful of tradition, roused by imagination and fuelled by ambition, TJCians are active learners, caring and committed citizens and ethical leaders. Our holistic brand of Temasek Excellence equips students with intellectual, moral and social capital to thrive in a fast-changing and complex world. Our dynamic staff fraternity continuously innovates and hones our craft, as we guide our students to bring out the best in them. The motto we proudly serve is 'For College, For Nation'.",
 		"Type of School": "Government School / Co-ed School / Full Day",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -37,63 +37,30 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Chinese Elective Programme",
-		"Core Humanities",
-		"English Literature",
+		"English Literature 2",
 		"Fundamental Humanities",
 		"Fundamental Mathematics",
-		"Geography",
+		"Geography 2",
 		"Green Science",
-		"H1 Biology",
-		"H1 Chemistry",
-		"H1 Chinese Language",
-		"H1 Economics",
-		"H1 General Paper",
-		"H1 History",
-		"H1 Literature In English",
-		"H1 Malay Language",
-		"H1 Mathematics",
-		"H1 Physics",
-		"H1 Project Work",
-		"H1 Tamil Language",
-		"H2 Art",
-		"H2 Biology",
-		"H2 Chemistry",
-		"H2 Chinese Language & Literature",
-		"H2 Economics",
-		"H2 Further Mathematics",
-		"H2 Geography",
-		"H2 History",
-		"H2 Knowledge & Inquiry",
-		"H2 Literature In English",
-		"H2 Mathematics",
-		"H2 Music",
-		"H2 Physics",
-		"H3 Art",
-		"H3 Chemistry",
-		"H3 Chinese Language & Literature",
-		"H3 Economics",
-		"H3 Geography",
-		"H3 History",
-		"H3 Literature In English",
-		"H3 Mathematics",
-		"H3 Music",
-		"H3 Physics",
 		"Higher Chinese",
 		"Higher Malay",
 		"Higher Tamil",
-		"History",
+		"History 2",
 		"Intermediate Mathematics",
 		"Language Arts",
+		"Literature In Chinese",
 		"Malay",
 		"Music Elective Programme",
+		"Physical Education",
 		"Physics",
+		"Singapore Studies & English Literature 1",
+		"Singapore Studies & Geography 1",
+		"Singapore Studies & History 1",
 		"Skills And Knowledge",
 		"Tamil"
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Air Rifle / Shooting",
 			"Badminton",
 			"Basketball",
 			"Bowling",
@@ -102,21 +69,19 @@
 			"Floorball",
 			"Floorball (Boys-Jc Only)",
 			"Football",
-			"Football (Boys-Sec & Jc, Girls-Jc Only)",
+			"Football (Boys-Sec & Jc)",
 			"Netball",
 			"Netball (Girls-Jc Only)",
 			"Shooting (Jc Only)",
-			"Squash",
 			"Squash (Girls)",
 			"Swimming",
 			"Table Tennis",
 			"Table Tennis (Jc Only)",
 			"Taekwondo",
-			"Ten-Pin Bowling",
 			"Tennis",
 			"Tennis (Jc Only)",
 			"Volleyball",
-			"Volleyball (Girls-Sec & Jc, Boys-Jc Only)",
+			"Volleyball (Girls)",
 			"Water Polo",
 			"Water Polo (Girls-Jc Only)"
 		],
@@ -130,7 +95,6 @@
 			"Drama - English",
 			"Drama Club (Jc Only)",
 			"Ensemble - Guitar",
-			"Ensemble - String",
 			"Guitar Ensemble",
 			"Modern Dance",
 			"Orchestra - Chinese",
@@ -159,7 +123,7 @@
 			"Language Elective Programme (Chinese)",
 			"Music Elective Programme"
 		],
-		"Special Student Development Programmes Offered": "The TJC 6-Year Integrated Programme provides a seamless progression of learning, empowering students beyond the basics by exposing them to both breadth and depth of knowledge, leading up to the GCE A-Level Examination in Year 6. The design of the 6-year IP curriculum supports integrative and interdisciplinary learning, extending 'Beyond Basics' through the core curriculum, 'Beyond Boundaries' through extended learning and 'Beyond Self' through student development. It aims at achieving 'Temasek Excellence', engendering in students greatness in intellect, character and leadership. IP students have a plethora of programmes to whet their appetites."
+		"Special Student Development Programmes Offered": "The TJC 6-Year Integrated Programme provides a seamless progression of learning, empowering students beyond the basics by exposing them to both breadth and depth of knowledge, leading up to the GCE A-Level Examination in Year 6. The design of the 6-year IP curriculum  is integrative and interdisciplinary  with a clear focus on real world relevance. It  engenders in students greatness in intellect, character and leadership. Skills and Knowledge is a triad of modules instilling logical, critical and Design Thinking. This culminates in a Year 3 Innovation and Research Project where students use Design Thinking to create solutions for or innovate on different kinds of problems. IP students also have a plethora of programmes to whet their appetites and stretch them in their areas of interest.  The Temasek Academy Programme develops talented students in areas of Mathematics, Sciences, English and Chinese. Other talent areas include Sports (badminton, basketball and bowling), the Performing Arts (the Music Elective Programme and Concert Band) and Leadership. Moreover, there are signature cohort programmes - IP1 Experiential Learning Programme focussing on life skills, IP2 World without Borders with an ethnographic methodology and IP4 Wonder. Observe. Weave! attachments to external organisations. In addition, there are MOE Elective Programmes - Music Elective Programme (Year 1 to 6), Chinese Language Elective Programme (Year 3 to 6) and the Humanities Programme (Year 3 to 6). The Chinese Language Elective Programme aims to nurture promising students to attain a high level of language proficiency in Chinese, and enhance their understanding of literature."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -175,58 +139,7 @@
 			"2018": {
 				"School Distinction Awards": "SDA"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Taekwondo",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Taekwondo",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Taekwondo (Poomsae)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Taekwondo (Poomsae)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -579,22 +492,7 @@
 				},
 				{
 					"year": "2017",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2017",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Choir",
+					"category": "Dance - International",
 					"award": "Distinction"
 				},
 				{
@@ -624,7 +522,22 @@
 				},
 				{
 					"year": "2017",
-					"category": "Dance - International",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
 					"award": "Distinction"
 				},
 				{

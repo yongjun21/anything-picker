@@ -14,7 +14,7 @@
 	],
 	"email": "WESTWOOD_SS@MOE.EDU.SG",
 	"mrt": "BOON LAY MRT",
-	"bus": "172 , 181 , 185 , 199 , 974 ",
+	"bus": "172 , 181 , 181M , 185 , 199 , 405 , 974 ",
 	"GeneralInformation": {
 		"Principal": "MR ABDUL HARRIS B SUMARDI",
 		"Vice Principal": "MISS TAN MING MING",
@@ -59,6 +59,9 @@
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MALAY N(A)",
@@ -79,7 +82,6 @@
 			"Basketball",
 			"Bowling",
 			"Football",
-			"Hockey",
 			"Netball",
 			"Tchoukball"
 		],
@@ -91,16 +93,15 @@
 			"St. John Ambulance Brigade"
 		],
 		"Visual and Performing Arts": [
-			"Art Club",
 			"Band - Concert",
-			"Choir",
 			"Dance - Modern",
-			"Eldds",
-			"Guitar Ensemble"
+			"Drama (English)",
+			"Guitar Ensemble",
+			"Show Choir",
+			"Visual Arts"
 		],
 		"Clubs & Societies": [
 			"Ava Club",
-			"Cabin",
 			"Robotics Club",
 			"Westwood Flying Club"
 		]
@@ -126,6 +127,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -135,22 +152,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -165,11 +214,7 @@
 						"-"
 					]
 				],
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girls' Brigade": "Bronze",
-					"St John Ambulance Brigade": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2007": {
 				"SYF Central Judging": {
@@ -178,12 +223,7 @@
 					"Ensemble - Guitar": "Silver",
 					"Ensemble - Guzheng": "Bronze"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Ncc (Land Boys)": "Bronze",
-					"Npcc": "Bronze",
-					"St John Ambulance Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2008": {
 				"SYF Central Judging": {
@@ -192,12 +232,7 @@
 					"Ensemble - Guitar": "Silver",
 					"Ensemble - Guzheng": "Bronze"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girls' Brigade": "Bronze",
-					"Npcc (Land)": "Silver",
-					"St John Ambulance Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2009": {
 				"SYF Central Judging": {
@@ -206,13 +241,7 @@
 					"Ensemble - Guitar": "Silver",
 					"Ensemble - Guzheng": "Bronze"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girls' Brigade": "Bronze",
-					"Ncc (Land Boys)": "Bronze",
-					"Npcc": "Silver",
-					"St John Ambulance Brigade": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2010": {
 				"SYF Central Judging": {
@@ -221,13 +250,7 @@
 					"Ensemble - Guitar": "Silver",
 					"Ensemble - Guzheng": "Bronze"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girls' Brigade": "Bronze",
-					"Ncc (Land Boys)": "Silver",
-					"Npcc (Land)": "Gold",
-					"St John Ambulance Brigade": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2011": {
 				"Development Award": "DA (Character Development)",
@@ -245,13 +268,7 @@
 					"Ensemble - Guitar": "Gold",
 					"Ensemble - Guzheng": "Bronze"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girls' Brigade": "Bronze",
-					"Ncc (Land Boys)": "Silver",
-					"Npcc (Land)": "Silver",
-					"St John Ambulance Brigade": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2012": {
 				"Development Award": "DA (Character Development)",
@@ -269,13 +286,7 @@
 					"Ensemble - Guitar": "Gold",
 					"Ensemble - Guzheng": "Bronze"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girls' Brigade": "Silver",
-					"Ncc (Land Boys)": "Silver",
-					"Npcc (Land)": "Silver",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2013": {
 				"Development Award": "DA (Character Development)",
@@ -294,13 +305,7 @@
 					"Ensemble - Guitar": "Distinction",
 					"Ensemble - Guzheng": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girls' Brigade": "Silver",
-					"Ncc (Land Boys)": "Bronze",
-					"Npcc (Land)": "Silver",
-					"St John Ambulance Brigade": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2014": {
 				"Development Award": "DA (Character Development)",
@@ -312,12 +317,7 @@
 					"Ensemble - Guitar": "Distinction",
 					"Ensemble - Guzheng": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girls' Brigade": "Gold",
-					"Ncc (Land Boys)": "Silver",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2015": {
 				"SYF Arts Presentation": {
@@ -327,11 +327,7 @@
 					"Drama - English": "Accomplishment",
 					"Ensemble - Guitar": "Distinction"
 				},
-				"Best Unit Award": {
-					"Girls' Brigade": "Gold",
-					"Ncc (Land Boys)": "Silver",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"SYF Arts Presentation": {
@@ -340,13 +336,7 @@
 					"Drama - English": "Accomplishment",
 					"Ensemble - Guitar": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Bronze",
-					"Girls' Brigade": "Silver",
-					"Ncc (Land Boys)": "Bronze",
-					"Npcc (Land)": "Bronze",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"SYF Arts Presentation": {
@@ -356,13 +346,7 @@
 					"Drama - English": "Accomplishment",
 					"Ensemble - Guitar": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Bronze",
-					"Girls' Brigade": "Silver",
-					"Ncc (Land Boys)": "Silver",
-					"Npcc (Land)": "Bronze",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"SYF Arts Presentation": {
@@ -372,14 +356,9 @@
 					"Drama - English": "Accomplishment",
 					"Ensemble - Guitar": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girls' Brigade": "Silver",
-					"Ncc (Land Boys)": "Silver",
-					"Npcc (Land)": "Silver",
-					"St John Ambulance Brigade": "Gold"
-				}
-			}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -618,6 +597,23 @@
 			"Normal Technical": [
 				"133",
 				"156",
+				"None-posted"
+			]
+		},
+		"2019": {
+			"Express": [
+				"196",
+				"240",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"157",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"103",
+				"158",
 				"None-posted"
 			]
 		}

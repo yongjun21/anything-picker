@@ -20,7 +20,10 @@
 	"bus": "32 , 51 , 93 , 100 , 105 , 111 , 122 , 123 , 145 , 147 , 153 , 186 , 195 , 196 , 198 , 855 , 961 , 970 ",
 	"GeneralInformation": {
 		"Principal": "Mr Tan Chong Tze, Peter",
-		"Vice Principal": "Miss Pauline Chia Hui Mien",
+		"Vice Principal": [
+			"Miss Pauline Chia Hui Mien",
+			"Mr Ng Hock Soon"
+		],
 		"Vice Principal (Admin)": "Mr Yong Wei Leong",
 		"School Vision": "Caring Citizens and Life-long Learners in a School of Excellence",
 		"School Mission": "Providing a holistic education to nurture caring, responsible citizens and confident, life-long learners in a changing world",
@@ -45,13 +48,10 @@
 		"Combined Humanities (S,H)",
 		"Computer Applications",
 		"Design & Technology",
-		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
 		"Food And Consumer Education",
-		"Food Studies, N Level",
 		"Geography",
 		"Higher Chinese",
 		"History",
@@ -77,6 +77,7 @@
 			"Basketball",
 			"Cross Country",
 			"Football",
+			"Hockey",
 			"Sepak Takraw",
 			"Volleyball"
 		],
@@ -108,7 +109,7 @@
 			"STEM": "Environmental Science Applied Learning Programme: Developing Confident Learners and Caring Citizens",
 			"Sports & Outdoor Education": "Sports for Life & Outdoor Education Programme: Nurturing Responsible Citizens and Life-long Learners"
 		},
-		"Special Student Development Programmes Offered": "The QSS Experience provides varied programmes and opportunities to nurture every Queenswayan to become caring, responsible citizens and confident, life-long learners. We harness differentiated approaches to stretch our students' cognitive ability through our programmes. Our English Ingenium and Bilingual Programmes nurtures high-ability students to excel in the English and Chinese languages respectively. The school's Applied Learning Programme in Science, Technology, Engineering and Mathematics develops critical and innovative thinking through inquiry-based, experiential and co-operative learning approaches. It is structured and integrated into our Science and Humanities curriculum. Talented students also hone their critical thinking skills through participation in the Singapore Olympiads and other enrichment activities. The comprehensive Character and Citizenship Education programme nurtures social-emotional attributes and inculcates values and life-long skills. Our extensive CCA, Student Leadership Development and Values-in-Action programmes provide authentic experiential learning opportunities. QSS Lifelong Learning Programme in Sports for Life & Outdoor Education inculcates interest, skills and attitudes for active participation in sports, physical and outdoor activities. Our Student Development programmes enhance the quality of school experience with emphasis and attention to values education and students' social emotional needs and development. Students at each level are cared for and mentored by their Form Teachers and Year Heads who oversee the students' holistic development and work closely with the school management team to ensure effective delivery of student-centric, values-driven education. Other special programmes include Advanced Elective & Elective Modules, ICT & Mobile Apps, Digital Art, Aesthetics & Performing Arts, Internationalisation Programme and Outdoor Education camps and modules."
+		"Special Student Development Programmes Offered": "The QSS Experience provides varied programmes and opportunities to nurture every Queenswayan to become caring, responsible citizens and confident, life-long learners. QSS aims to develop in students the curiosity towards Science through inquiry-based approaches which develop thinking and collaborative skills and provides hands-on experience in research work. The Applied Learning programme, Future Learning Through Investigation, focuses on developing our students to be Queensway Investigators by developing in them the sense of wonder, sense of competency and sense of collaboration. They will get to experience building a Sea Perch and a series of Life Science investigations as part of the Tier 1 programme. For Tier 2, students can look forward to learn Arduino Programming, and visits to iFLY and Artscience Museum. We also have a distinctive Sports for Life and Outdoor Education Programme (SOE) as its Learning for Life Programme designed for building skills and competencies, developing character and values, and cultivating positive attitudes through active participation in sports and outdoor activities. The QSS Centre of Talent Development caters to students with special talents, and develops their distinct ability and passion. For instance, students with an aptitude in speaking, writing and critical thinking will be enrolled in our English Talent Development Programme where they could look forward to writing and speaking workshops, learning journeys, and entering local and international competitions. The school's Co-Curricular Activities, Character & Citizenship Education and Student Development & Leadership programmes have strong emphasis on character development, leadership, national education, community building and service. Students at each level are cared for and mentored by their Class Mentors and Year Heads who oversee their holistic development and work with school management to ensure effective delivery of student-centric, values-driven education."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -117,384 +118,29 @@
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"Best Practice Awards": "BPA (Staff Well-Being)",
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"Best Practice Awards": "BPA (Staff Well-Being)",
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Taekwondo (Kyorugi)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				}
-			],
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -617,128 +263,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Land Girls)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "St John Ambulance Brigade",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Girls)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "St John Ambulance Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Girls)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Girl Guides",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Girls)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "St John Ambulance Brigade",
-					"award": "Silver"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

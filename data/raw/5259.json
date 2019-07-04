@@ -17,7 +17,10 @@
 	"bus": "945",
 	"GeneralInformation": {
 		"Principal": "MISS CECILIA LIM SEOK CHENG",
-		"Vice Principal": "MRS SHANTHI SURAJ NAIR",
+		"Vice Principal": [
+			"MRS SHANTHI SURAJ NAIR",
+			"MDM SEOW SWEE NEO CHRISTINA"
+		],
 		"School Vision": "Caring Hearts, Passionate Learners; Lasallians in service of God, family and nation",
 		"School Mission": "Enabling our children to learn how to learn and to learn how to live,to become persons of integrity and persons for others in God's service",
 		"School Philosophy, Culture and Ethos": [
@@ -69,9 +72,9 @@
 			"Visual Arts"
 		],
 		"Clubs & Societies": [
-			"Infocomm (Media) Club",
+			"Infocomm (Media)",
 			"Infocomm (Robotics)",
-			"Science & Environmental Club"
+			"Science And Environmental Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -95,6 +98,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -104,22 +115,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -140,11 +167,7 @@
 					"Dance - Indian": "Bronze",
 					"Dance - Malay": "Silver"
 				},
-				"Best Unit Award": {
-					"Brownies": "Bronze",
-					"Red Cross": "Silver",
-					"Scout": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2007": {
 				"SYF Central Judging": {
@@ -153,11 +176,7 @@
 					"Dance - Indian": "Bronze",
 					"Dance - Malay": "Silver"
 				},
-				"Best Unit Award": {
-					"Brownies (Pack 1)": "Bronze",
-					"Red Cross": "Bronze",
-					"Scout": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2008": {
 				"SYF Central Judging": {
@@ -166,11 +185,7 @@
 					"Dance - Indian": "Gold (Hons)",
 					"Dance - Malay": "Silver"
 				},
-				"Best Unit Award": {
-					"Brownies (Pack 1)": "Silver",
-					"Red Cross": "Silver",
-					"Scout": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2009": {
 				"SYF Central Judging": {
@@ -181,11 +196,7 @@
 					"Dance - Indian": "Gold (Hons)",
 					"Dance - Malay": "Silver"
 				},
-				"Best Unit Award": {
-					"Brownies (Pack 1)": "Bronze",
-					"Red Cross": "Bronze",
-					"Scout": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2010": {
 				"Sports & Games Competition": [
@@ -195,6 +206,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -204,22 +223,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -253,6 +288,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -262,22 +305,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -311,6 +370,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -320,22 +387,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -359,11 +442,7 @@
 					"Dance - Indian": "Gold",
 					"Dance - Malay": "Silver"
 				},
-				"Best Unit Award": {
-					"Brownies (Pack 1)": "Bronze",
-					"Red Cross": "Silver",
-					"Scout": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2013": {
 				"Achievement Award": "CHERISH Award",
@@ -375,6 +454,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -384,22 +471,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -423,10 +526,7 @@
 					"Dance - Indian": "Gold",
 					"Dance - Malay": "Silver"
 				},
-				"Best Unit Award": {
-					"Scout": "Silver",
-					"Brownies (Pack 1)": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2014": {
 				"Sustained Achievement Award": "SAA (Aesthetics)",
@@ -437,6 +537,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -446,22 +554,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -495,10 +619,7 @@
 					"Dance - Chinese": "Distinction",
 					"Dance - International": "Commendation"
 				},
-				"Best Unit Award": {
-					"Brownies (Pack 1)": "Silver",
-					"Scout": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2015": {
 				"Sports & Games Competition": [
@@ -508,6 +629,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -517,22 +646,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -555,10 +700,7 @@
 					"Dance - Chinese": "Distinction",
 					"Dance - International": "Commendation"
 				},
-				"Best Unit Award": {
-					"Brownies (Pack 1)": "Bronze",
-					"Scout": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"Sports & Games Competition": [
@@ -568,6 +710,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -577,22 +727,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -626,10 +792,7 @@
 					"Dance - Chinese": "Distinction",
 					"Dance - International": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Brownies (Pack 1)": "Bronze",
-					"Scout": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"Sports & Games Competition": [
@@ -639,6 +802,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -648,22 +819,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -708,10 +895,7 @@
 					"Dance - Chinese": "Distinction",
 					"Dance - International": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Brownies (Pack 1)": "Bronze",
-					"Scout": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Sports & Games Competition": [
@@ -721,6 +905,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -730,22 +922,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -768,11 +976,9 @@
 					"Dance - Chinese": "Distinction",
 					"Dance - International": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Brownies": "Gold",
-					"Scout": "Gold"
-				}
-			}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {}
 		}
 	},
 	"postalCode": "659401"

@@ -21,25 +21,25 @@
 		"Vice Principal (Admin)": "Mr Toh Wee Beng",
 		"School Vision": "Dynamic Thinkers. Inspiring Leaders. Contributing Citizens. One Learning Community.",
 		"School Mission": "Building Character, Nurturing Talents",
-		"School Philosophy, Culture and Ethos": [
-			"In Greenridge Secondary School, we believe that every child matters and everyone can \"Learn, Improve and Excel\". ",
-			"As one learning community with a strong culture of excellence, care, collaboration and reflection, we aim to develop every Greenridgean to be a dynamic thinker, an inspiring leader and a contributing citizen. Our Greenridgeans will develop the capacity for good thinking, the ability to manage self and others well and the resolve to lead their life with a clear sense of purpose and a strong desire to contribute to the larger good of the community and nation."
-		],
+		"School Philosophy, Culture and Ethos": "In Greenridge Secondary School, we believe that all students can learn and want to learn. Provision of positive school experiences will motivate students to take ownership of their progress and growth. Guided by our beliefs, we aspire to develop our students to be self-directed, lifelong learners, with resilient and adaptable mind-sets to face uncertainties in life, the zest to strive for worthwhile goals and the conviction to contribute to the larger good of the community and nation. As we aspire to develop these desired traits and qualities in our students, we envision our school as One Learning Community, where all staff and students embrace our school vision and mission, and our daily actions and practices are guided by our PRIDE values (Perseverance, Responsibility, Integrity, Diligence and Empathy) and school motto \"From Each His Best\".",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
 	},
 	"SubjectOffered": [
 		"Additional Mathematics",
+		"Art",
+		"Art Na Level",
+		"Art 'O' Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Basic Tamil",
 		"Biology",
 		"Chemistry",
 		"Chinese",
+		"Chinese B",
 		"Chinese N(A)",
 		"Civics & Moral Education",
-		"Co-curricular Activities",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
 		"Combined Humanities (S,L)",
@@ -54,6 +54,8 @@
 		"Geography",
 		"Higher Chinese",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
 		"Literature(E)",
 		"Malay",
 		"Malay B",
@@ -65,7 +67,6 @@
 		"Physical Education",
 		"Physics",
 		"Principles Of Accounts",
-		"Project Work",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
 		"Science (Syll T)",
@@ -103,10 +104,22 @@
 			"Languages & Humanities": "The Use of Media in Engaging 21st Century Learners in the English Language Classroom -- Camera. Lights. Action. Programme (CLAP)",
 			"Music & Performing Arts / Visual Arts & Design": "Developing Creative and Confident persons, impacting the community through the Arts"
 		},
-		"Special Student Development Programmes Offered": "Greeenridge Secondary School emphasizes academic and character excellence as we develop all our students holistically. Our key programmes include an integrated Character and Citizenship Education programme that inculcates in our students moral values, resilience, social-emotional competencies and responsibility to self and others. Our Learning for Life Programme through the Arts is a 3-year progressive programme that caters to all students and develops the aesthetic talents and creativity of students through exposure in Music, Performing Arts, Visual Art and Drama. To develop our students to be effective communicators in the use of the languages, our school's Applied Learning Programme provides authentic learning experiences for students to apply their language skills in the real-life context such as news broadcasting and at various public speaking platforms. Other programmes include overseas learning journeys, Advanced Elective Modules and Elective Modules with higher institutions of learning and a comprehensive Educational and Career Guidance Programme for all students."
+		"Special Student Development Programmes Offered": "To prepare our students for the future, our programmes are designed to develop positive learning dispositions and nurture our students to become self-directed lifelong learners, with a passion for learning and the belief that they are able to make a meaningful contribution to the community and nation. We focus on creating authentic and meaningful learning experiences that will engage students, bring about a joy of learning and inculcate a passion for lifelong learning.  Our Applied Learning Programme (Languages) provides platforms for students to apply their language skills in authentic learning opportunities such as photojournalism and designing media messages to promote a social cause in real-life contexts.  Students with passion and talent are stretched through opportunities such as debates and emcees of events. We honour our students' individual traits and recognise the diverse talents and strengths of our students. Our Learning for Life Programme through the Arts caters to all students and focus on developing the aesthetic talents and creativity of students through exposure in Music, Performing Arts, Visual Art and Drama. To support our students in appreciating their strengths and shaping their aspirations, our ECG programme serves to guide and empower our students in making informed choices on their post-secondary education and future career endeavours. Students explore their interests by participating in Elective Modules and Advanced Elective Modules, and through interactions with practitioners from various industries during the school's annual Careers Day."
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2015": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2016": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2017": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
@@ -225,88 +238,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Girl Guides",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

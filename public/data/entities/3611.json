@@ -20,12 +20,12 @@
 	"GeneralInformation": {
 		"Principal": "Mdm Aini Bte Maarof",
 		"Vice Principal": [
-			"Mr Lau Khee Pheng",
-			"Mr Daniel Ong Poh Soon"
+			"Mr Daniel Ong Poh Soon",
+			"Miss Ng Tien Ni Jenny"
 		],
 		"School Vision": "Lifelong Learners, Inspiring Leaders",
 		"School Mission": "To develop Unitians to be resilient and future-ready with the passion to serve and lead",
-		"School Philosophy, Culture and Ethos": "The school places the needs of its students at the centre of its key decision-making and strongly believes that every student is unique, has potential and can be an inspiration to others. The school believes that both academic and character development are important. Through various programmes anchored on the school values of respect, compassion, perseverance, commitment and integrity, all teachers in Unity are committed to empowering students to develop to their fullest potential and to eventually contribute to society. To achieve this, the school believes in providing a joyful, caring and nurturing environment to promote personal, social and intellectual growth of students at all levels.",
+		"School Philosophy, Culture and Ethos": "The school places the needs of its students at the centre of its key decision-making and strongly believes that every student is unique, has potential and can be an inspiration to others. The school believes that both academic and character development are important. Through various programmes anchored on the school values of respect, compassion, perseverance, commitment and integrity, all teachers in Unity are committed to empowering students to develop their growth mindset, realise their fullest potential and to eventually contribute to society. To achieve this, the school believes in providing a joyful, caring and nurturing environment to promote personal, social and intellectual growth of students at all levels.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -69,7 +69,7 @@
 	"Cca": {
 		"Physical Sports": [
 			"Basketball",
-			"Sepak Takraw",
+			"Football",
 			"Table Tennis",
 			"Track & Field",
 			"Volleyball"
@@ -90,7 +90,7 @@
 		],
 		"Clubs & Societies": [
 			"Audio & Video/ Pa Club",
-			"Environment Club",
+			"Environmental Club",
 			"Library",
 			"Media Resource Club"
 		]
@@ -104,248 +104,19 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				}
-			],
+			"2015": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2016": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2017": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -448,103 +219,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Boys' Brigade",
-					"award": "Bronze"
-				},
-				{
-					"year": "2015",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Air)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Air)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Air)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Air)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

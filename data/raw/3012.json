@@ -19,9 +19,13 @@
 		"Principal": "MR NG BOON KIAT",
 		"Vice Principal": "MR TAN BOON PIANG",
 		"Vice Principal (Admin)": "MDM SHABNAM LENA",
-		"School Vision": "A community of passionate learners who spark imagination, illuminate new frontiers and inspire change for a better world.",
+		"School Vision": "Every CommonWEALTHian a Confident Learner, Compassionate Leader and Imaginative Trailblazer.",
 		"School Mission": "Nurturing Commonwealthians as Champions of Today and Leaders of Tomorrow.",
-		"School Philosophy, Culture and Ethos": "Commonwealth Secondary School (CWSS) believes that students learn best and are most fulfilled when the school nurtures every aspect of their person, and provides rich and authentic learning environments. As such, CWSS offers students our unique \"C3\" Curriculum. This comprises an innovative Character Education programme which emphasises Servant Leadership and Growth Mindset to instill strong values and productive habits, grounded in the school's WEALTH values (Warmth, Enterprise, Adventurousness, Loyalty, Tenacity and Honour). The school also offers a well-established programme of academic content, which applies principles of Differentiated Instruction to support students of differing needs to master key skills and concepts for each subject, and provides them with opportunities to apply their knowledge in authentic ways. In addition, the school has also implemented a school-wide approach to encouraging Creativity which aims to give every student hands-on opportunities to express and nurture their creative ability, through avenues such as programming, robotics, design, as well as our outstanding visual and performing arts programmes.",
+		"School Philosophy, Culture and Ethos": [
+			"Commonwealth Secondary School believes that every child is unique and can grow to champion something worthy in the future. Anchored in our WEALTH values (Warmth, Enterprise, Adventurousness, Loyalty, Tenacity, Honour), every child is mentored by a Champion Mentor from Sec 1 to graduation, to be a Compassionate Leader. They will discover their strengths, strive for excellence and identify a meaningful purpose that they would champion. ",
+			"We are a thriving community for innovation, discovery, expression and developmental assessment. We nurture Confident Learners with a Growth Mindset and the 5 Minds (Disciplined, Synthesising, Creating, Respectful, Ethical) for the future.",
+			"As the West Zone Centre of Excellence for Design and Innovation, we develop Imaginative Trailblazers through school-wide Design Thinking and Trailblazer Maker education. These 2 signature programmes give students the opportunity to express and nurture their creative ability."
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -56,6 +60,7 @@
 		"HIGHER TAMIL",
 		"HUMANITIES (SS, GEOGRAPHY)",
 		"HUMANITIES (SS, HISTORY)",
+		"LITERATURE IN TAMIL",
 		"LITERATURE(E)",
 		"MALAY",
 		"MALAY B",
@@ -78,8 +83,8 @@
 			"Badminton",
 			"Basketball (Boys)",
 			"Cross Country",
-			"Dragon Boat",
-			"Netball",
+			"Dragon Boat (Boys)",
+			"Netball (Girls)",
 			"Soccer (Boys)"
 		],
 		"Uniformed Groups": [
@@ -90,8 +95,7 @@
 			"Singapore Red Cross Society"
 		],
 		"Visual and Performing Arts": [
-			"Art And Craft Club",
-			"Band - Military",
+			"Band - Concert",
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Indian",
@@ -101,7 +105,6 @@
 		],
 		"Clubs & Societies": [
 			"Bits And Atoms",
-			"Culinary Club",
 			"Eco Club",
 			"New Media"
 		]
@@ -123,6 +126,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -132,22 +151,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -165,12 +216,7 @@
 				"SYF Central Judging": {
 					"Art & Craft (Bronze)": "1 Award"
 				},
-				"Best Unit Award": {
-					"Girl Guides": "Gold",
-					"Ncc (Land Boys)": "Silver",
-					"Npcc": "Bronze",
-					"Red Cross": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2007": {
 				"SYF Central Judging": {
@@ -182,12 +228,7 @@
 					"Dance - Malay": "Bronze",
 					"Drama - English": "Silver"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Silver",
-					"Ncc (Land Boys)": "Silver",
-					"Npcc": "Bronze",
-					"Red Cross": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2008": {
 				"SYF Central Judging": {
@@ -199,12 +240,7 @@
 					"Dance - Malay": "Bronze",
 					"Drama - English": "Silver"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Silver",
-					"Ncc (Land Boys)": "Silver",
-					"Npcc (Land)": "Bronze",
-					"Red Cross": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2009": {
 				"SYF Central Judging": {
@@ -216,12 +252,7 @@
 					"Dance - Malay": "Gold (Hons)",
 					"Drama - English": "Gold (Hons)"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Silver",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc": "Silver",
-					"Red Cross": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2010": {
 				"SYF Central Judging": {
@@ -232,12 +263,7 @@
 					"Dance - Malay": "Gold (Hons)",
 					"Drama - English": "Gold (Hons)"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Silver",
-					"Red Cross": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2011": {
 				"School Distinction Awards": "SDA",
@@ -260,12 +286,7 @@
 					"Dance - Malay": "Gold",
 					"Drama - English": "Gold"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Silver",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2012": {
 				"School Distinction Awards": "SDA",
@@ -288,12 +309,7 @@
 					"Dance - Malay": "Gold",
 					"Drama - English": "Gold"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2013": {
 				"School Distinction Awards": "SDA",
@@ -316,6 +332,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -325,22 +357,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -363,12 +427,7 @@
 					"Dance - Malay": "Distinction",
 					"Drama - English": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2014": {
 				"School Distinction Awards": "SDA",
@@ -381,6 +440,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -390,22 +465,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -430,12 +537,7 @@
 					"Dance - Malay": "Distinction",
 					"Drama - English": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2015": {
 				"School Distinction Awards": "SDA",
@@ -448,6 +550,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -457,22 +575,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -497,12 +647,7 @@
 					"Dance - Malay": "Distinction",
 					"Drama - English": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Silver",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Bronze",
-					"Red Cross": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"School Distinction Awards": "SDA",
@@ -513,6 +658,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -522,22 +683,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -561,12 +754,7 @@
 					"Dance - Malay": "Distinction",
 					"Drama - English": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Bronze",
-					"Red Cross": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"School Distinction Awards": "SDA",
@@ -577,6 +765,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -586,23 +790,66 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
 					],
 					[
 						"Football",
@@ -625,17 +872,6 @@
 						"-",
 						"-",
 						"4th"
-					],
-					[
-						"Badminton",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"4th",
-						"-",
-						"-"
 					]
 				],
 				"SYF Arts Presentation": {
@@ -648,12 +884,7 @@
 					"Drama - English": "Accomplishment",
 					"Drama - English (2nd Entry)": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Bronze",
-					"Red Cross": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"School Distinction Awards": "SDA",
@@ -664,6 +895,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -673,22 +920,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -713,13 +992,9 @@
 					"Drama - English": "Accomplishment",
 					"Drama - English (2nd Entry)": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Girl Guides": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Bronze",
-					"Red Cross": "Gold"
-				}
-			}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -958,6 +1233,23 @@
 			"Normal Technical": [
 				"130",
 				"159",
+				"None-posted"
+			]
+		},
+		"2019": {
+			"Express": [
+				"239",
+				"248",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"181",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"102",
+				"155",
 				"None-posted"
 			]
 		}

@@ -18,10 +18,10 @@
 	],
 	"bus": "12 , 17 , 21 , 39 , 53 , 81 , 518 , 109 ",
 	"GeneralInformation": {
-		"Principal": "Mr Ng Teng Joo",
+		"Principal": "Mdm Wong Lin Lin Audrey",
 		"Vice Principal": [
 			"Mr Shoeb Burhanuddin",
-			"Miss Soh Bee Ling"
+			"Mdm Goh Swee Lin Evelyn"
 		],
 		"School Vision": "A vibrant school of choice where character shines and talents soar.",
 		"School Mission": "To nurture caring hearts, creative minds and confident individuals.",
@@ -90,87 +90,24 @@
 					"DA (Character Development)",
 					"DA (National Education)",
 					"PARTNERS (Merit)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)",
 					"PARTNERS (Merit)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				}
-			],
+			"2017": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -279,6 +216,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Distinction"
 				},
@@ -286,11 +228,6 @@
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
 					"award": "Commendation"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
 				},
 				{
 					"year": "2018",
@@ -328,28 +265,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Scout",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "Scout",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Scout",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Silver"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"postalCode": "519075",
@@ -374,21 +290,7 @@
 	"p1Registration": {
 		"TOTAL VACANCY": 180,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
-		"VACANCY FOR PHASE 1": 140,
-		"NO. OF APPLICANTS IN PHASE 1": 94,
-		"PLACES TAKEN UP TO PHASE 1": 94,
-		"VACANCY FOR PHASE 2A1": 46,
-		"NO. OF APPLICANTS IN PHASE 2A1": 0,
-		"PLACES TAKEN UP TO PHASE 2A1": 94,
-		"VACANCY FOR PHASE 2A2": 46,
-		"NO. OF APPLICANTS IN PHASE 2A2": 15,
-		"PLACES TAKEN UP TO PHASE 2A2": 108,
-		"VACANCY FOR PHASE 2B": 36,
-		"NO. OF APPLICANTS IN PHASE 2B": 25,
-		"PLACES TAKEN UP TO PHASE 2B": 133,
-		"VACANCY FOR PHASE 2C": 47,
-		"NO. OF APPLICANTS IN PHASE 2C": 59,
-		"PLACES TAKEN UP TO PHASE 2C": 180
+		"VACANCY FOR PHASE 1": 140
 	},
 	"id": "1749"
 }

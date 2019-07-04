@@ -25,9 +25,9 @@
 			"Mrs Ng Mong Kheng",
 			"Mdm Lee Chui Eng"
 		],
-		"School Vision": "Resilient Achievers, Responsible Citizens.  Peirceans will rise above challenges to stretch their potential.  They have a sense of belonging to school and nation; and seek to serve others.",
-		"School Mission": "Our Mission is to build a learning community whose hallmark is the Passion to Excel with Integrity, Respect, Care and Empathy.",
-		"School Philosophy, Culture and Ethos": "Our School Motto \"Fax Mentis Incendium Gloriae\" signifies that the school is the spark that ignites the minds of our students and encourages them to strive for excellence and the good of their community. Our students are Disciplined Learners with a strong sense of purpose & ownership of their learning; Adaptable Leaders with the ability to persevere to rise above challenges; Enterprising Thinkers with the ability to innovate and exercise initiative; Global Citizens with good knowledge of local and world affairs. Our teachers are committed to nurturing the whole child. We strive to develop in our students the school values of Passion to Excel, Integrity, Respect and Care & Empathy for others. Our parents and community are our key partners in forging strong collaboration and partnerships to enable the school to achieve our Vision of developing our students to be resilient achievers and responsible citizens.",
+		"School Vision": "Resilient Learners, Gracious Citizens.  Peirceans rise above challenges to stretch their potential. They serve with honour.",
+		"School Mission": "A Learning Community that Values Every Individual.",
+		"School Philosophy, Culture and Ethos": "Our School Motto \"Fax Mentis Incendium Gloriae\" - The Passion for Glory is a Torch to the Mind, signifies that the school is the spark that ignites the minds of our students and encourages them to strive for excellence. Our students are Disciplined Learners with a strong sense of purpose and motivation to learn; Adaptable Leaders with effective communication skills, critical thinking abilities and high socio-emotional competencies to exercise initiative; collaborate with others and solve problems. Our teachers are committed to nurturing the whole child. We strive to develop in our students the school values of Passion to Excel, Integrity, Respect, Care and Empathy. We partner parents and the community to achieve our vision and mission.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -39,9 +39,6 @@
 		"Chemistry",
 		"Chinese",
 		"Chinese B",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
-		"Computer Applications",
 		"Computing",
 		"Design & Technology",
 		"English Language",
@@ -50,6 +47,8 @@
 		"Geography",
 		"Higher Chinese",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
@@ -96,7 +95,7 @@
 			"Languages": "Broadcast Journalism",
 			"Community & Youth Leadership": "Community & Youth Leadership"
 		},
-		"Special Student Development Programmes Offered": "The school offers the Applied Learning Programme (ALP) and Learning for Life Programme (LLP) which provide students with learning experiences beyond the formal instructional curriculum. The school's ALP, Broadcast Journalism, allows students to apply English Language skills from various genres in an authentic setting. All lower secondary students go through the programme where they hone their language skills as they engage in scripting, storyboarding and video-making. Students also acquire related ICT skills progressively. The programme promotes the use of the language skills to communicate and serve the community. Students also gain insights into possible careers in the fields of media and journalism. The LLP focusses on developing community leaders with the heart to serve through Uniformed Groups and leadership development programmes. It leverages on the strength of the school in Uniformed Groups (UGs) to provide UG experiences for non-UG students. It aims to develop leadership skills progressively in all students; beginning with personal and community leadership and culminating in executive leadership. All students will acquire basic leadership competencies, social emotional skills and values to become community leaders.  In all, the school is committed to nurturing resilient learners with skills and values for effective communication and gracious citizens with the heart to serve."
+		"Special Student Development Programmes Offered": "The school offers the Applied Learning Programme (ALP) and Learning for Life Programme (LLP) which provide students with learning experiences beyond the formal instructional curriculum. The school's ALP, Broadcast Journalism, allows students to apply English and Mother Tongue Language skills from various genres in an authentic setting. All lower secondary students go through the programme where they hone their language skills as they engage in scripting, storyboarding and video-making. Students also acquire related ICT skills progressively. The programme promotes the use of the language skills to communicate and serve the community. Students also gain insights into possible careers in the fields of media and journalism. The LLP focusses on developing community leaders with the heart to serve through Uniformed Groups and leadership development programmes. It leverages on the strength of the school in Uniformed Groups (UGs) to provide UG experiences for non-UG students. It aims to develop leadership skills progressively in all students; beginning with personal and community leadership and culminating in executive leadership. All students will also acquire social emotional competencies and values to become community leaders. In all, the school is committed to nurturing resilient learners with skills and values for effective communication and gracious citizens with the heart to serve."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -104,115 +103,28 @@
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
-				"Development Award": "DA (Character Development)"
+				"Development Award": "DA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -266,12 +178,12 @@
 				},
 				{
 					"year": "2017",
-					"category": "Dance - International",
+					"category": "Drama - Multi-Lingual",
 					"award": "Accomplishment"
 				},
 				{
 					"year": "2017",
-					"category": "Drama - Multi-Lingual",
+					"category": "Dance - International",
 					"award": "Accomplishment"
 				},
 				{
@@ -295,88 +207,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2015",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

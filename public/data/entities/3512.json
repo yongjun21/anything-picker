@@ -41,8 +41,6 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
 		"Design & Technology",
 		"English Language",
 		"Exercise And Sports Science",
@@ -51,6 +49,9 @@
 		"Higher Chinese",
 		"Higher Malay",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In Malay)",
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
@@ -86,7 +87,7 @@
 		]
 	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "Signature programmes: Da Vinci Programme which develops 21st century communication, collaboration and information skills, while sharpening critical and inventive thinking via applied learning opportunities; Einstein Programme which develops computational thinking through programming micro-controllers to create solutions to solve real world problems; Principal's Honours List Programme which includes research curriculum; TK Current Affairs which builds general knowledge and discernment; SKILLS Programme which develops in students skills for self-directed learning, and critical and inventive thinking; TK Student Leadership programme; Outdoor Education at TK that stretches students mentally, physically and emotionally while instilling firm belief and confidence in their own ability to succeed; Overseas twinning programmes with schools, that broaden students' global outlook and increase cultural quotient. Programmes to deepen disciplinary understanding include the Mathematics and Science Olympiads and the EMAS Programme. Students also participate in Debating Competitions and the CB Paul Science Quiz. TKSS is renowned for its vibrancy and excellent CCAs in sports, the performing arts and uniformed groups. TeamTK's sportsmen and sportswomen have excelled in various sports such as Netball, Floorball and Football. The Uniformed Groups have a proven track record and have continuously excelled in national competitions. TKSS is the East Zone Centre of Excellence (COE) for Character and Citizenship Education as well as Design Education. As a COE, TK leads in the teaching and learning and supports collaboration in these areas for East Zone schools."
+		"Special Student Development Programmes Offered": "Signature programmes: Da Vinci Programme which develops 21st century communication, collaboration and information skills, while sharpening critical and inventive thinking via applied learning opportunities; Einstein Programme which develops computational thinking through programming micro-controllers to create solutions to solve real world problems; Principal's Honours List Programme which includes research curriculum; TK Current Affairs which builds general knowledge and discernment; SKILLS Programme which develops in students skills for self-directed learning, and critical and inventive thinking; TK Student Leadership programme; Outdoor Education at TK that stretches students mentally, physically and emotionally while instilling firm belief and confidence in their own ability to succeed; Overseas twinning programmes with schools, that broaden students' global outlook and increase cultural quotient. Programmes to deepen disciplinary understanding include the Mathematics and Science Olympiads. Students also participate in Debating Competitions and the CB Paul Science Quiz. In addition, the school also offers Malay Language Elective Programme which aims to nurture promising students to attain a high level of language proficiency in Malay, and enhance their understanding of literature. TKSS is renowned for its vibrancy and excellent CCAs in sports, the performing arts and uniformed groups. TeamTK's sportsmen and sportswomen have excelled in various sports such as Netball, Floorball and Football. The Uniformed Groups have a proven track record and have continuously excelled in national competitions. TKSS is the East Zone Centre of Excellence (COE) for Character and Citizenship Education as well as Design Education. As a COE, TK leads in the teaching and learning and supports collaboration in these areas for East Zone schools."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -101,239 +102,22 @@
 					"ODA (Character Development)",
 					"ODA (National Education)",
 					"Outstanding PARTNERS"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
-				"School Distinction Awards": "SDA"
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
-				"School Distinction Awards": "SDA"
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
-				"School Distinction Awards": "SDA"
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Netball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -456,108 +240,7 @@
 					"award": "Distinction"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Sea Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Sea Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Sea Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Girl Guides",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Sea Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

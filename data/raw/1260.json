@@ -17,8 +17,11 @@
 	"bus": "50 382",
 	"GeneralInformation": {
 		"Principal": "DR ANG WEK CHENG",
-		"Vice Principal": "MR CHUA CHYE HOCK",
-		"Vice Principal (Admin)": "MRS DOREEN GAN SOO HONG",
+		"Vice Principal": [
+			"MR CHUA CHYE HOCK",
+			"MDM SHARIFAH SAMIRAH BTE SYED MOHAMAD"
+		],
+		"Vice Principal (Admin)": "MR CHONG WEE MING",
 		"School Vision": [
 			"Confident Learners, Active Citizens",
 			"After 6 years in Punggol View, we want our students to become confident learenrs and active citizens. ",
@@ -116,9 +119,7 @@
 					"Art - Category B": "Recognition",
 					"Dance - International": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Scout": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"Sports & Games Competition": [
@@ -128,6 +129,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -137,22 +146,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -171,9 +196,7 @@
 					"Art - Category B": "Recognition",
 					"Dance - International": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Scout": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Sports & Games Competition": [
@@ -183,6 +206,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -192,22 +223,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -228,10 +275,9 @@
 					"Dance - International": "Accomplishment",
 					"Dance - Malay": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Scout": "Gold"
-				}
-			}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {}
 		}
 	},
 	"postalCode": "828845"

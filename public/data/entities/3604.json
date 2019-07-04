@@ -62,7 +62,6 @@
 		"Physics",
 		"Science",
 		"Science (Chem, Bio)",
-		"Science (Phy, Bio)",
 		"Science (Phy, Chem)",
 		"Social Studies N(T)"
 	],
@@ -71,7 +70,7 @@
 			"Badminton (Boys Only)",
 			"Basketball (Boys Only)",
 			"Hockey (Boys Only)",
-			"Netball",
+			"Netball (Girls Only)",
 			"Softball (Boys Only)",
 			"Volleyball (Girls Only)"
 		],
@@ -100,10 +99,22 @@
 			"STEM": "The Robotics Education & Enterprise (TREE)",
 			"Community & Youth Leadership": "Student Leadership Development through Involvement in the Community Programme"
 		},
-		"Special Student Development Programmes Offered": "We adopt a Values-based and Student-centric focussed curriculum where our Strategic Thrusts of Engaged Learning and Character Excellence are the common threads that bind both the academic and co-curricular programmes. True to our philosophy that every student is unique and can contribute to society, we strive to inculcate critical thinking and future-ready skills. The school's Applied Learning Programme, The Robotics Education & Enterprise  [TREE], instils in students a curiosity to learn through experimentation, questioning, problem-solving and risk-taking. Dedicated to providing authentic and engaging experiences, TREE integrates learning across disciplines such as Science, Technology, Engineering and Mathematics (STEM), and develops in students the ability to make connections with real-life problems. As an extension of learning and early exposure to possible post-secondary courses of study and future work opportunities, the school is offering Applied Subjects such as Mobile Robotics and Electronics, to Upper Secondary students. With an emphasis on building confidence and strengthening effective communication, programmes are introduced to develop Oracy and Self-Confidence through creative expression in the languages. Our Learning for Life Programme (LLP), Student Leadership Development through Involvement in the Community, aims to instil the purpose of caring for and leading others in the community through their outreach activities. Our Sec 2 students attend a CCE camp during which they demonstrate and hone their SE competencies and our Sec 3 students learn about team challenges and adaptation through OBS. By working with partners, both locally and overseas, the LLP programme is designed to help students better appreciate what they have and live out the school values of 'Responsibility, Respect & Resilience' and motto 'Serve the School and Community'."
+		"Special Student Development Programmes Offered": "We adopt a Values-based and Student-centric focussed curriculum where our Strategic Thrusts of Engaged Learning and Character Excellence are the common threads that bind both the academic and co-curricular programmes. True to our philosophy that every student is unique and can contribute to society, we strive to inculcate critical thinking and future-ready skills. The school's Applied Learning Programme, The Robotics Education & Enterprise  [TREE], instils in students a curiosity to learn through experimentation, questioning, problem-solving and risk-taking. Dedicated to providing authentic and engaging experiences, TREE integrates learning across disciplines such as Science, Technology, Engineering and Mathematics (STEM), and develops in students the ability to make connections with real-life problems. As an extension of learning and early exposure to possible post-secondary courses of study and future work opportunities, the school is offering Applied Subjects such as Mobile Robotics and Electronics, to Upper Secondary students. With an emphasis on building confidence and strengthening effective communication, programmes are introduced to develop Oracy and Self-Confidence through creative expression in the languages. Our Learning for Life Programme (LLP), Student Leadership Development through Involvement in the Community, aims to instil the purpose of caring for and leading others in the community through their outreach activities. Our Sec 2 students attend a CCE camp during which they demonstrate and hone their SE competencies and our Sec 3 students learn about team challenges and adaptation through OBS. By working with partners, both locally and overseas, the LLP programme is designed to help students better appreciate what they have and live out the school values of 'Responsibility, Respect & Resilience' and motto of 'Serve the School and Community'."
 	},
 	"AchievementHistory": {
 		"Secondary": {
+			"2015": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2016": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2017": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
@@ -237,68 +248,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

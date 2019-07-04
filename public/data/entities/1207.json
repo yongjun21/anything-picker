@@ -18,12 +18,11 @@
 	],
 	"bus": "167 , 169 , 171 , 800 , 811 , 812 , 856 , 858 , 859 , 969 , 980 ",
 	"GeneralInformation": {
-		"Principal": "Miss Cheah Poh Lian",
+		"Principal": "Mr Andy Mickey Choong Tek Choy",
 		"Vice Principal": [
 			"Mdm Ho Jun Lynn",
-			"Mr Andy Mickey Choong Tek Choy"
+			"Mrs Nur Fatimah Frauder"
 		],
-		"Vice Principal (Admin)": "Mr Wong Wai Hon",
 		"School Vision": "Global Learners, Discerning Citizens",
 		"School Mission": "Nurturing Hearts and Minds",
 		"School Philosophy, Culture and Ethos": "At Jiemin Primary School we aim to equip our students with the 21st century competencies and to build a strong foundation in the Languages, Mathematics and Science.  We are committed to create a supportive, engaging, safe and inclusive environment with the support of parents and the community.",
@@ -58,13 +57,11 @@
 		"Physical Sports": [
 			"Basketball",
 			"Floorball",
-			"Taekwondo",
-			"Tchoukball"
+			"Taekwondo"
 		],
 		"Visual and Performing Arts": [
 			"Art And Craft Club",
 			"Dance - Chinese",
-			"Dance - Indian",
 			"Dance - Malay",
 			"Ensemble - Angklung/Kulintang"
 		],
@@ -75,20 +72,25 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Languages": "J-YEAR (Jiemin- Young Editors And Reporters )",
-			"Music & Performing Arts": "Aesthetics Alive"
+			"Music & Performing Arts/ Visual Arts & Design": "Aesthetics Alive"
 		},
 		"Special Student Development Programmes Offered": "Our Journalists in Making, an Applied Learning Programme, aims to develop our students in critical thinking, oral and written communication skills and build their confidence to speak and write on any chosen topic at the class, school or community level. Presentations during recess and at school events are platforms to build students' confidence. Students who would like to learn more about journalism can participate in the Journalists' Club where they learn more about being a journalist through workshops and platforms like reporting real-time news during school events."
 	},
 	"AchievementHistory": {
 		"Primary": {
 			"2015": {
-				"Development Award": "DA (Character Development)"
+				"Development Award": "DA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
-				"Development Award": "DA (Character Development)"
+				"Development Award": "DA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"Development Award": "DA (Character Development)"
+			},
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
@@ -213,28 +215,7 @@
 					"award": "Distinction"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Girls' Brigade",
-					"award": "Bronze"
-				},
-				{
-					"year": "2018",
-					"category": "Red Cross",
-					"award": "Silver"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"postalCode": "768515",
@@ -259,23 +240,9 @@
 	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
-		"TOTAL VACANCY": 210,
+		"TOTAL VACANCY": 180,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
-		"VACANCY FOR PHASE 1": 170,
-		"NO. OF APPLICANTS IN PHASE 1": 77,
-		"PLACES TAKEN UP TO PHASE 1": 77,
-		"VACANCY FOR PHASE 2A1": 93,
-		"NO. OF APPLICANTS IN PHASE 2A1": 0,
-		"PLACES TAKEN UP TO PHASE 2A1": 77,
-		"VACANCY FOR PHASE 2A2": 93,
-		"NO. OF APPLICANTS IN PHASE 2A2": 39,
-		"PLACES TAKEN UP TO PHASE 2A2": 116,
-		"VACANCY FOR PHASE 2B": 47,
-		"NO. OF APPLICANTS IN PHASE 2B": 9,
-		"PLACES TAKEN UP TO PHASE 2B": 123,
-		"VACANCY FOR PHASE 2C": 87,
-		"NO. OF APPLICANTS IN PHASE 2C": 92,
-		"PLACES TAKEN UP TO PHASE 2C": 210
+		"VACANCY FOR PHASE 1": 140
 	},
 	"id": "1207"
 }

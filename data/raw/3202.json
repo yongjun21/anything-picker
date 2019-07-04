@@ -25,9 +25,11 @@
 		"School Vision": "A Dynamic School providing Holistic Education",
 		"School Mission": "Nurturing Broadricans to be future-ready learners with Strength of Character",
 		"School Philosophy, Culture and Ethos": [
-			"Broadrick's vision is to become a vibrant learning community where Broadricians will be equipped with the necessary life skills and knowledge to meet the challenges of a complex and changing future environment.  We are guided by our belief in the intrinsic worth of every individual and that all are capable of learning and achieving. We educate the whole child and ensure that learning is developmentally appropriate to increase confidence and motivation for learning. Our educational programmes provide opportunities for every Broadrician to be all-rounded and have the zest to lead a purposeful life.",
-			"In Broadrick, we believe in acknowledging the different peaks of excellence in our students. We focus on developing self-directed Broadricians who are rooted in values and committed to life-long learning.  We educate Broadricians to embrace the spirit of innovation and enterprise so that they are empowered to take calculated risks and develop resilience to face future challenges.  Teachers are key and students are our focus.  Establishing quality relationships with our stakeholders is crucial to nurturing the students entrusted in our care.  ",
-			"Broadricians grow, learn, develop and serve together as one united community. Everyone in the Broadrick family has a sense of responsibility to contribute to the family, school, community, nation and world with the purpose of making a difference.  They learn to serve and serve to learn from others."
+			"Broadrick's vision is to be a dynamic learning community where Broadricians are equipped with the necessary knowledge, skills, and values to meet the challenges of a complex and changing future environment.",
+			"We are guided by our belief in the intrinsic worth of every individual and that everyone is capable of learning and achieving. We seek to cultivate positive dispositions towards learning so that all students will be empowered to take ownership of their learning. With the belief that abilities and skills can be developed through targeted efforts, our students will stand in good faith to thrive and excel when they face future challenges.  ",
+			"Our educational programmes provide opportunities for every Broadrician to develop themselves holistically, and emerge from Broadrick as a well-rounded individual with the zest to lead a purposeful life. ",
+			"In Broadrick, we believe in acknowledging the different peaks of excellence in our students. We focus on developing self-directed Broadricians who are rooted in values and committed to life-long learning. We educate Broadricians to embrace the spirit of innovation and enterprise so that they are empowered to take calculated risks and develop resilience to face future challenges. ",
+			"Teachers are key and students are our focus. Establishing quality relationships with our stakeholders is crucial to nurturing the students entrusted in our care. Broadricians grow, learn, develop and serve together as one united community. Everyone in the Broadrick family has the responsibility to contribute to the family, school, community, nation and world with the purpose of making a difference. They learn to serve and serve to learn from others."
 		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -63,7 +65,6 @@
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
-		"PROJECT WORK",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
@@ -78,6 +79,7 @@
 			"Taekwondo"
 		],
 		"Uniformed Groups": [
+			"Girl Guides",
 			"Ncc (Land)",
 			"Npcc",
 			"Singapore Red Cross Society"
@@ -86,10 +88,10 @@
 			"Band - Concert",
 			"Dance - Modern",
 			"Drama - English",
+			"Media Club",
 			"Show Choir"
 		],
 		"Clubs & Societies": [
-			"Av/It",
 			"Robotics Club"
 		]
 	},
@@ -101,16 +103,13 @@
 			"STEM": "Broadrick Entrepreneurship in STEM",
 			"Community & Youth Leadership": "Confidence And REsilience (CARE) though Aesthetics, Community and Youth Leadership"
 		},
-		"Special Student Development Programmes Offered": "We are recognised by MOE for \"Entrepreneurship in STEM\", which is an applied learning programme that help our students to become inquisitive leaders, critical and creative thinkers who embrace the spirit of creativity and enterprise."
+		"Special Student Development Programmes Offered": "Broadrick's Applied Learning Programme, \"Entrepreneurship in STEM\", seeks to help our students to grow into inquisitive leaders, and be critical and creative thinkers who embrace the spirit of creativity and enterprise."
 	},
 	"AchievementHistory": {
 		"Secondary": {
 			"2005": {},
 			"2006": {
-				"Best Unit Award": {
-					"Npcc": "Bronze",
-					"Red Cross": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2007": {
 				"SYF Central Judging": {
@@ -121,10 +120,7 @@
 					"Ensemble - Angklung / Kulintang": "Bronze",
 					"Orchestra - Chinese": "Bronze"
 				},
-				"Best Unit Award": {
-					"Npcc": "Bronze",
-					"Red Cross": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2008": {
 				"SYF Central Judging": {
@@ -135,10 +131,7 @@
 					"Ensemble - Angklung / Kulintang": "Bronze",
 					"Orchestra - Chinese": "Bronze"
 				},
-				"Best Unit Award": {
-					"Npcc (Land)": "Bronze",
-					"Red Cross": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2009": {
 				"SYF Central Judging": {
@@ -149,10 +142,7 @@
 					"Ensemble - Angklung / Kulintang": "Bronze",
 					"Orchestra - Chinese": "Bronze"
 				},
-				"Best Unit Award": {
-					"Npcc": "Bronze",
-					"Red Cross": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2010": {
 				"SYF Central Judging": {
@@ -163,10 +153,7 @@
 					"Ensemble - Angklung / Kulintang": "Bronze",
 					"Orchestra - Chinese": "Bronze"
 				},
-				"Best Unit Award": {
-					"Npcc (Land)": "Bronze",
-					"Red Cross": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2011": {
 				"Achievement Award": "AA (Academic Value-added) (Special/Express)",
@@ -177,6 +164,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -186,22 +189,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -234,10 +269,7 @@
 					"Drama - English": "Silver",
 					"Orchestra - Chinese": "Bronze"
 				},
-				"Best Unit Award": {
-					"Npcc (Land)": "Silver",
-					"Red Cross": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2012": {
 				"Achievement Award": [
@@ -251,12 +283,7 @@
 					"Drama - English": "Silver",
 					"Orchestra - Chinese": "Bronze"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Bronze",
-					"Ncc (Land Boys)": "Bronze",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2013": {
 				"Development Award": "PARTNERS (Merit)",
@@ -272,6 +299,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -281,22 +324,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -329,12 +404,7 @@
 					"Drama - English": "Distinction",
 					"Orchestra - Chinese": "Distinction"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Land Boys)": "Bronze",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2014": {
 				"Development Award": "PARTNERS (Merit)",
@@ -345,6 +415,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -354,22 +440,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -402,12 +520,7 @@
 					"Drama - English": "Distinction",
 					"Orchestra - Chinese": "Distinction"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Land Boys)": "Bronze",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2015": {
 				"Development Award": "PARTNERS (Merit)",
@@ -418,6 +531,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -427,22 +556,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -463,12 +624,7 @@
 					"Drama - English": "Distinction",
 					"Orchestra - Chinese": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Land Boys)": "Bronze",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"Development Award": "PARTNERS (Merit)",
@@ -479,6 +635,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -488,22 +660,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -535,12 +739,7 @@
 					"Drama - English": "Distinction",
 					"Orchestra - Chinese": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Land Boys)": "Bronze",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"Sports & Games Competition": [
@@ -550,6 +749,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -559,22 +774,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -594,12 +841,7 @@
 					"Dance - International": "Distinction",
 					"Drama - English": "Distinction"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Gold",
-					"Ncc (Land Boys)": "Bronze",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Sports & Games Competition": [
@@ -609,6 +851,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -618,22 +876,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -654,13 +944,9 @@
 					"Dance - International": "Distinction",
 					"Drama - English": "Distinction"
 				},
-				"Best Unit Award": {
-					"Girl Guides": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Silver"
-				}
-			}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -898,6 +1184,23 @@
 			],
 			"Normal Technical": [
 				"92",
+				"150",
+				"None-posted"
+			]
+		},
+		"2019": {
+			"Express": [
+				"188",
+				"249",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"91",
 				"150",
 				"None-posted"
 			]

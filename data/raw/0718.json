@@ -2,7 +2,7 @@
 	"code": "0718",
 	"name": "JURONG PIONEER JUNIOR COLLEGE",
 	"levels": "J",
-	"uen": " ",
+	"uen": " T18GS0004E",
 	"logo": "./Medias/Images/Schools/logos/tn_0718.jpg",
 	"website": "http://jpjc.moe.edu.sg",
 	"address": "21, Teck Whye Walk ( 688258 )",
@@ -16,7 +16,12 @@
 	"mrt": "Choa Chu Kang / Bt Panjang / Phoenix Station (LRT)",
 	"bus": "975 , 190 , 985 ",
 	"GeneralInformation": {
-		"Principal-Designate": "DR HANG KIM HOO",
+		"Principal": "DR HANG KIM HOO",
+		"Vice Principal": [
+			"MR CHUA KAH SHENG",
+			"MISS SEET YING LING BRITTA"
+		],
+		"Vice Principal (Admin)": "MISS THIEN KIEN SAN SHARON",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / FULL DAY",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -55,57 +60,50 @@
 		"H2 PHYSICS",
 		"H2 TAMIL LANGUAGE & LITERATURE",
 		"H2 TRANSLATION (CHINESE)",
+		"H3 BIOLOGY",
+		"H3 CHEMISTRY",
 		"H3 ECONOMICS",
-		"H3 ESSENTIALS OF MODERN PHYSICS",
 		"H3 GEOGRAPHY",
 		"H3 HISTORY",
 		"H3 MATHEMATICS",
-		"H3 PHARMACEUTICAL CHEMISTRY",
-		"H3 PROTEOMICS"
+		"H3 PHYSICS"
 	],
 	"Cca": {
 		"Physical Sports": [
 			"Athletics",
 			"Badminton",
-			"Basketball (Boys)",
-			"Floorball (Boys)",
-			"Football (Boys)",
-			"Hockey (Girls)",
+			"Basketball",
+			"Floorball",
+			"Football",
+			"Hockey",
 			"Netball",
 			"Table Tennis",
 			"Taekwondo",
 			"Tennis",
-			"Touch Rugby (Girls)",
+			"Touch Rugby",
 			"Ultimate Frisbee",
 			"Volleyball"
 		],
 		"Visual and Performing Arts": [
-			"Band - Symphonic",
+			"Chinese Orchestra",
 			"Choir",
-			"Dance - Modern",
-			"Drama - English",
-			"Ensemble - Guitar",
-			"Jp Press",
-			"Orchestra - Chinese",
-			"Playart Club"
+			"English Drama Society",
+			"Guitar Ensemble",
+			"Jp Dance Club",
+			"Playart",
+			"Symphonic Band"
 		],
 		"Clubs & Societies": [
 			"Audio Visual Club",
 			"Chess Club",
 			"Chinese Cultural Society",
-			"Civil Defence Lionhearters Club",
-			"Community Engagement Council",
+			"Civil Defence Lion Hearter",
 			"Debate Society",
-			"Eco Club",
 			"Gymfit",
-			"Indian Cultural Society",
-			"Infocomm Club",
 			"Interact Club",
 			"International Current Affairs Society",
 			"Malay Cultural Society",
-			"Outdoor Activities Club",
-			"Students' Council",
-			"The Ambassadors"
+			"Odac"
 		]
 	},
 	"SpecialProgrammes": {
@@ -130,7 +128,8 @@
 			"2015": {},
 			"2016": {},
 			"2017": {},
-			"2018": {}
+			"2018": {},
+			"2019": {}
 		}
 	},
 	"L1R5History": {
@@ -147,7 +146,21 @@
 		"2015": {},
 		"2016": {},
 		"2017": {},
-		"2018": {}
+		"2018": {},
+		"2019": {
+			"Arts": [
+				"6",
+				"16"
+			],
+			"Science/IB": [
+				"6",
+				"15"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		}
 	},
 	"postalCode": "688258"
 }

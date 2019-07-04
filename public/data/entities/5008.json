@@ -78,8 +78,7 @@
 		"Clubs & Societies": [
 			"Chess Club",
 			"It Robotics Club",
-			"Mathematics & Science Club",
-			"Mind, Body And Soul"
+			"Mathematics & Science Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -90,168 +89,19 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Rugby",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Rugby",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Rugby",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "4th"
-				}
-			],
+			"2015": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2016": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2017": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -374,58 +224,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Brownies (Pack 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "Scout",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Brownies (Pack 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "Scout",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Scout",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"postalCode": "689285",
@@ -434,7 +233,7 @@
 		1.3950713
 	],
 	"svy21": [
-		18001.07,
+		18001.06,
 		41885.6
 	],
 	"planningArea": "CK",
@@ -450,25 +249,9 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"TOTAL VACANCY": 270,
+		"TOTAL VACANCY": 240,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
-		"VACANCY FOR PHASE 1": 230,
-		"NO. OF APPLICANTS IN PHASE 1": 112,
-		"PLACES TAKEN UP TO PHASE 1": 112,
-		"VACANCY FOR PHASE 2A1": 118,
-		"NO. OF APPLICANTS IN PHASE 2A1": 3,
-		"PLACES TAKEN UP TO PHASE 2A1": 115,
-		"VACANCY FOR PHASE 2A2": 115,
-		"NO. OF APPLICANTS IN PHASE 2A2": 12,
-		"PLACES TAKEN UP TO PHASE 2A2": 127,
-		"VACANCY FOR PHASE 2B": 72,
-		"NO. OF APPLICANTS IN PHASE 2B": 20,
-		"PLACES TAKEN UP TO PHASE 2B": 146,
-		"VACANCY FOR PHASE 2C": 124,
-		"NO. OF APPLICANTS IN PHASE 2C": 112,
-		"PLACES TAKEN UP TO PHASE 2C": 258,
-		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 12,
-		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 22
+		"VACANCY FOR PHASE 1": 200
 	},
 	"id": "5008"
 }

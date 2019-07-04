@@ -7,7 +7,7 @@
 	"website": "http://www.nationaljc.moe.edu.sg",
 	"address": "37, Hillcrest Road (288913)",
 	"telephone": [
-		"64661144"
+		"66642300"
 	],
 	"fax": [
 		"64684535"
@@ -65,11 +65,11 @@
 		"H2 Physics",
 		"H2 Tamil Language & Literature",
 		"H3 Art",
+		"H3 Biology",
+		"H3 Chemistry",
 		"H3 Economics",
-		"H3 Essentials Of Modern Physics",
 		"H3 Mathematics",
-		"H3 Pharmaceutical Chemistry",
-		"H3 Proteomics"
+		"H3 Physics"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -97,7 +97,7 @@
 			"Integrated Programme",
 			"Art Elective Programme"
 		],
-		"Special Student Development Programmes Offered": "For the Integrated Programme (Junior High), we offer Language Arts (English & Literature), Chemistry, Physics, Biology, Governance & Society, Mathematics (both E and A Maths), History, Geography, Higher Mother Tongue and Mother Tongue for the first 4 years, as well as Integrated Sciences, Thinking, and General Arts Programme (Art and Music) for the first 2 years. Advanced Language Arts, Advanced Humanities and Man & Ideas are also offered to capable students at JH3 & JH4. The College offers a wide range of special programmes in various domains. They are: SPIRE (Special Programme in Inquiry and Research), Research@NJC, Accelerated Mathematics, Advanced Sciences, Art Elective Programme (AEP), NJC Music Programme, Enhanced Boarding Programme, Leadership,  Values-In-Action, Guidance Programmes, Humanities Scholarship Programme, Sapphire Programme and International Programmes.  Students may also offer a Third Language outside of College. Junior High 1 students undergo a special CCA programme known as CAFE, where students will attend one Sports or Performing Arts CCA in Term 1 and another in Term 2 before deciding which CCA to join for the rest of the JH (Sec) years. Students may also join any CCA under the Talent Management Scheme. "
+		"Special Student Development Programmes Offered": "For the Integrated Programme (Junior High), we offer Language Arts (English & Literature), Chemistry, Physics, Biology, Governance & Society, Mathematics (both E and A Maths), History, Geography, Higher Chinese Language, Higher Malay Language, Higher Tamil Language, Chinese Language, Malay Language, and Tamil Language for the first 4 years, as well as Integrated Sciences, Thinking, and General Arts Programme (Art and Music) for the first 2 years. Advanced Language Arts, Advanced Humanities and Man & Ideas are also offered to selected students at JH3 & JH4. The College offers a wide range of special programmes in various domains. They are: SPIRE (Special Programme in Inquiry and Research), Research@NJC, Advanced Inquiry in Mathematics, Advanced Sciences, Art Elective Programme (AEP), NJC Music Programme, Enhanced Boarding Programme, Leadership,  Values-In-Action, Guidance Programmes, Humanities Scholarship Programme, Sapphire Programme and International Research Exchange Programmes.  Students may also offer a Third Language at MOELC. Junior High 1 students undergo a special CCA programme known as CAFE, where students will attend one Sports or Performing Arts CCA in Term 1 and another in Term 2 before deciding which CCA to join for the rest of their JH (Sec) years. Students may also join any CCA under the Talent Management Scheme. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -140,318 +140,7 @@
 					"Outstanding PARTNERS"
 				]
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Canoeing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Canoeing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Canoeing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Canoeing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Canoeing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Canoeing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Canoeing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Canoeing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Canoeing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Canoeing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",

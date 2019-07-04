@@ -2,7 +2,7 @@
 	"code": "0718",
 	"name": "Jurong Pioneer Junior College",
 	"levels": "J",
-	"uen": " ",
+	"uen": " T18GS0004E",
 	"logo": "./Medias/Images/Schools/logos/tn_0718.jpg",
 	"website": "http://jpjc.moe.edu.sg",
 	"address": "21, Teck Whye Walk (688258)",
@@ -18,7 +18,12 @@
 	],
 	"bus": "975 , 190 , 985 ",
 	"GeneralInformation": {
-		"Principal-Designate": "DR HANG KIM HOO",
+		"Principal": "Dr Hang Kim Hoo",
+		"Vice Principal": [
+			"Mr Chua Kah Sheng",
+			"Miss Seet Ying Ling Britta"
+		],
+		"Vice Principal (Admin)": "Miss Thien Kien San Sharon",
 		"Type of School": "Government School / Co-ed School / Full Day",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -57,57 +62,50 @@
 		"H2 Physics",
 		"H2 Tamil Language & Literature",
 		"H2 Translation (Chinese)",
+		"H3 Biology",
+		"H3 Chemistry",
 		"H3 Economics",
-		"H3 Essentials Of Modern Physics",
 		"H3 Geography",
 		"H3 History",
 		"H3 Mathematics",
-		"H3 Pharmaceutical Chemistry",
-		"H3 Proteomics"
+		"H3 Physics"
 	],
 	"Cca": {
 		"Physical Sports": [
 			"Athletics",
 			"Badminton",
-			"Basketball (Boys)",
-			"Floorball (Boys)",
-			"Football (Boys)",
-			"Hockey (Girls)",
+			"Basketball",
+			"Floorball",
+			"Football",
+			"Hockey",
 			"Netball",
 			"Table Tennis",
 			"Taekwondo",
 			"Tennis",
-			"Touch Rugby (Girls)",
+			"Touch Rugby",
 			"Ultimate Frisbee",
 			"Volleyball"
 		],
 		"Visual and Performing Arts": [
-			"Band - Symphonic",
+			"Chinese Orchestra",
 			"Choir",
-			"Dance - Modern",
-			"Drama - English",
-			"Ensemble - Guitar",
-			"Jp Press",
-			"Orchestra - Chinese",
-			"Playart Club"
+			"English Drama Society",
+			"Guitar Ensemble",
+			"Jp Dance Club",
+			"Playart",
+			"Symphonic Band"
 		],
 		"Clubs & Societies": [
 			"Audio Visual Club",
 			"Chess Club",
 			"Chinese Cultural Society",
-			"Civil Defence Lionhearters Club",
-			"Community Engagement Council",
+			"Civil Defence Lion Hearter",
 			"Debate Society",
-			"Eco Club",
 			"Gymfit",
-			"Indian Cultural Society",
-			"Infocomm Club",
 			"Interact Club",
 			"International Current Affairs Society",
 			"Malay Cultural Society",
-			"Outdoor Activities Club",
-			"Students' Council",
-			"The Ambassadors"
+			"Odac"
 		]
 	},
 	"SpecialProgrammes": {

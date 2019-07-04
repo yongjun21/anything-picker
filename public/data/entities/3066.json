@@ -25,12 +25,13 @@
 			"Miss Wong Wee Ling",
 			"Mr Peter Quah Soo Hoe"
 		],
+		"Vice Principal (Admin)": "Mr Neo Meng Keong",
 		"School Vision": "A Gracious Community of Life-long Learners with Strength of Character",
 		"School Mission": [
 			"Inspiring Learning . Inculcating Values . Impacting Lives .",
 			"To prepare JYians to be future-ready and useful citizens by inculcating values and inspiring in them a passion for learning."
 		],
-		"School Philosophy, Culture and Ethos": "We are guided by our school philosophy, OYSTER, in achieving our vision. We are a nurturing family for students of all abilities and backgrounds, as we believe that every student is unique and every student can learn. We aspire to enhance and amplify the individual talents of all students, and develop them to be persons with strength of character, such that they may, like pearls, shine and illuminate any organisation that they may join in the future. Underpinning our philosophy are our school values, R3IGHT (Respect, Resilience, Responsibility, Integrity, Graciousness, Humility and Teamwork). Our culture of care and learning is achieved through our H.E.A.R.T.S. ethos - setting High expectations and standards; placing strong Emphasis on learning; having the Autonomy to innovate and explore; building quality Relationships; Trust and Teamwork; having a Shared purpose. Through our holistic approach in developing our students, our students have achieved value-added results in the national examinations as well as outstanding outcomes in their co-curricular activities.",
+		"School Philosophy, Culture and Ethos": "We are guided by our school philosophy, OYSTER, in achieving our vision. We are a nurturing family for students of all abilities and backgrounds, as we believe that every student is unique and every student can learn. We aspire to enhance and amplify the individual talents of all students, and develop them to be persons with strength of character, such that they may, like pearls, shine and illuminate any organisation that they may join in the future. Underpinning our philosophy are our school values, R2IGHT (Respect, Responsibility, Integrity, Gratitude, Humility and Tenacity. Our culture of care and learning is achieved through our H.E.A.R.T.S. ethos - setting High expectations and standards; placing strong Emphasis on learning; having the Autonomy to innovate and explore; building quality Relationships; Trust and Teamwork; having a Shared purpose. Through our holistic approach in developing our students, our students have achieved value-added results in the national examinations as well as outstanding outcomes in their co-curricular activities.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -99,8 +100,10 @@
 			"Hip-Hop"
 		],
 		"Clubs & Societies": [
-			"It / Media Club",
-			"Ldds - English"
+			"Av / It Club",
+			"Ldds - English",
+			"Strategic Games Club",
+			"Students' Council"
 		]
 	},
 	"SpecialProgrammes": {
@@ -108,22 +111,23 @@
 			"Languages & Humanities": "Developing Confident & Competent Communicators through Oracy Skills Programme",
 			"Music & Performing Arts": "Performing Arts : “iACE@Juying” (I Appreciate, I Create, I Exhibit at Juying)"
 		},
-		"Special Student Development Programmes Offered": "Applied Learning Programme (ALP) in Oracy: Develops students to be competent and confident communicators. Students undergo a tiered oracy programme from Tier 1 for all classes (Stand & Deliver), Tier 2 (TED-Talks) to Tier 2+ (Talent development in journalistic skills such as roving reporters and student emcees). A Speakers' Corner, a podium set up on a stage in the canteen, allows students to confidently address their schoolmates on various issues."
+		"Special Student Development Programmes Offered": "Applied Learning Programme (ALP) in Oracy: Develops students to be competent, confident and empathetic communicators. Students undergo a tiered oracy programme from Tier 1 for all students (Stand & Deliver / Drama, Debate & Interview Training), Tier 2 (ELDDS / Ambassadorship & Ted-Talk Training) to Tier 2+ (Talent Development / Newscasting & Emceeing Training). A Speakers' Corner, a podium set up in the canteen, allows students to confidently address their schoolmates on various issues. Students get ambassadorship opportunities with organisations such as Gardens By The Bay. Learning for Life Programme (LLP) in Aesthetics: Provides students opportunities to learn to play instruments such as the ukulele and guzheng, experience dance styles such as Hip-Hop, and develop appreciation for arts performances. Through these, students develop character values, and people skills. ICT Programme: Equips JYians to be future-ready, digitally responsible lifelong learners with coding capabilities, creating micro:bit DigitalMaker projects, 3D-modelling and developing Google cloud proficiency. Trips for International Experience / Values-in-Action: Develops students to be gracious and concerned citizens for all Sec 2 students. All Sec 3 students undergo OBS to develop ruggedness and resilience. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"Sports & Games Competition": [
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				}
-			],
+			"2015": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2016": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2017": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -177,17 +181,17 @@
 				},
 				{
 					"year": "2017",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				},
 				{
 					"year": "2017",
 					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
 					"award": "Accomplishment"
 				},
 				{
@@ -216,48 +220,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "NCC (Sea)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2015",
-					"category": "NCDCC",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Sea)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "NCDCC",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Sea)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "NCDCC",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Sea)",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "NCDCC",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

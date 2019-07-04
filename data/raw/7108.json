@@ -16,8 +16,11 @@
 	"mrt": "HOUGANG MRT",
 	"bus": "27 , 72 , 74 , 80 , 87 , 89 , 101 , 107 , 113 , 116 , 119 , 132 , 136 , 147 , 153 , 161 , 165 , 324 , 325 ",
 	"GeneralInformation": {
-		"Principal": "MR YAP WAI MENG",
-		"Vice Principal": "MR NG CHENG SONG JEREMY",
+		"Principal": "MRS REBECCA CHEW",
+		"Vice Principal": [
+			"MR NG CHENG SONG JEREMY",
+			"MR CHIA KENG HWEE"
+		],
 		"Vice Principal (Admin)": "MISS KOH PIA CHIN ELIZABETH",
 		"School Vision": "A Christ-centred community with Courage to Lead, Compassion to Serve.",
 		"School Mission": "To nurture students to be compassionate and morally upright citizens committed to serving God and society.",
@@ -31,14 +34,17 @@
 	},
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
+		"ART",
+		"ART NA LEVEL",
+		"ART NT LEVEL",
+		"ART 'O' LEVEL",
 		"BASIC CHINESE",
+		"BASIC MALAY",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE B",
 		"CHINESE N(A)",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"COMPUTING",
 		"DESIGN & TECHNOLOGY",
@@ -52,18 +58,23 @@
 		"HIGHER CHINESE",
 		"HISTORY",
 		"HOME ECONOMICS",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
+		"MALAY N(A)",
 		"MATHEMATICS",
 		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",
 		"MUSIC",
+		"MUSIC NT LEVEL",
 		"MUSIC 'O' LEVEL",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
+		"SCIENCE (SYLL T)",
 		"SOCIAL STUDIES"
 	],
 	"Cca": {
@@ -111,11 +122,7 @@
 		"Secondary": {
 			"2005": {},
 			"2006": {
-				"Best Unit Award": {
-					"Npcc": "Silver",
-					"Scout": "Silver",
-					"St John Ambulance Brigade": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2007": {
 				"SYF Central Judging": {
@@ -125,12 +132,7 @@
 					"Drama - English": "Gold",
 					"Orchestra - Chinese": "Bronze"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Bronze",
-					"Npcc": "Bronze",
-					"Scout": "Gold",
-					"St John Ambulance Brigade": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2008": {
 				"SYF Central Judging": {
@@ -140,12 +142,7 @@
 					"Drama - English": "Gold",
 					"Orchestra - Chinese": "Bronze"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Bronze",
-					"Npcc (Land)": "Bronze",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2009": {
 				"SYF Central Judging": {
@@ -155,12 +152,7 @@
 					"Drama - English": "Bronze",
 					"Orchestra - Chinese": "Bronze"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Bronze",
-					"Npcc": "Bronze",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2010": {
 				"SYF Central Judging": {
@@ -170,11 +162,7 @@
 					"Drama - English": "Bronze",
 					"Orchestra - Chinese": "Bronze"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Bronze",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2011": {
 				"Development Award": "DA (Character Development)",
@@ -185,12 +173,7 @@
 					"Dance - International": "Bronze",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Bronze",
-					"Npcc (Land)": "Bronze",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2012": {
 				"Development Award": [
@@ -211,12 +194,7 @@
 					"Dance - International": "Bronze",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Silver",
-					"Npcc (Land)": "Silver",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2013": {
 				"Development Award": [
@@ -239,12 +217,7 @@
 					"Drama - English": "Accomplishment",
 					"Orchestra - Chinese": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Silver",
-					"Npcc (Land)": "Silver",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2014": {
 				"Development Award": [
@@ -258,11 +231,7 @@
 					"Drama - English": "Accomplishment",
 					"Orchestra - Chinese": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Npcc (Land)": "Gold",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2015": {
 				"Development Award": [
@@ -276,12 +245,7 @@
 					"Drama - English": "Distinction",
 					"Orchestra - Chinese": "Distinction"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Silver",
-					"Npcc (Land)": "Gold",
-					"Scout (Unit 1)": "Gold",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"Development Award": [
@@ -295,6 +259,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -304,22 +284,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -341,12 +353,7 @@
 					"Dance - International": "Distinction",
 					"Drama - English": "Distinction"
 				},
-				"Best Unit Award": {
-					"Scout (Unit 1)": "Silver",
-					"St John Ambulance Brigade": "Gold",
-					"Ncc (Land Boys)": "Bronze",
-					"Npcc (Land)": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"Sports & Games Competition": [
@@ -356,6 +363,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -365,22 +388,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -402,12 +457,7 @@
 					"Dance - International": "Accomplishment",
 					"Drama - English": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Silver",
-					"Npcc (Land)": "Silver",
-					"Scout (Unit 1)": "Silver",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Sports & Games Competition": [
@@ -417,6 +467,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -426,22 +492,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -463,13 +561,9 @@
 					"Dance - International": "Accomplishment",
 					"Drama - English": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Silver",
-					"Scout": "Gold",
-					"St John Ambulance Brigade": "Gold"
-				}
-			}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -751,6 +845,26 @@
 				"155",
 				"130",
 				"151"
+			]
+		},
+		"2019": {
+			"Express": [
+				"233",
+				"245",
+				"189",
+				"235"
+			],
+			"Normal Academic": [
+				"181",
+				"198",
+				"152",
+				"186"
+			],
+			"Normal Technical": [
+				"136",
+				"153",
+				"123",
+				"157"
 			]
 		}
 	},

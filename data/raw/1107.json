@@ -18,7 +18,7 @@
 	"GeneralInformation": {
 		"Principal": "MR PHUA KIA WANG",
 		"Vice Principal": "MDM TEO SIEW KHIM",
-		"Vice Principal (Admin)": "MR CHUA GIM HONG",
+		"Vice Principal (Admin)": "MS SAIMA HANIF",
 		"School Vision": "SINGAPORE SMART SCHOOL OF THE FUTURE",
 		"School Mission": "Creating Opportunities. Leading Learning. Building Communities",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
@@ -30,8 +30,12 @@
 		"CHINESE",
 		"CIVICS & MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
+		"FOUNDATION CHINESE",
 		"FOUNDATION ENGLISH",
+		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
+		"FOUNDATION SCIENCE",
+		"FOUNDATION TAMIL",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
@@ -47,20 +51,22 @@
 	"Cca": {
 		"Physical Sports": [
 			"Badminton",
+			"Basketball",
 			"Football",
-			"Netball"
+			"Netball",
+			"Tennis"
 		],
 		"Uniformed Groups": [
 			"Brownies",
-			"Girls' Brigade",
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
-			"Band - Brass",
+			"Brass Band",
 			"Choir",
-			"Ensemble - Guzheng",
-			"Ethnic Dance"
+			"Dance - Chinese",
+			"Dance - Modern",
+			"Ensemble - Guzheng"
 		]
 	},
 	"SpecialProgrammes": {
@@ -85,11 +91,7 @@
 					"Dance - International": "Silver",
 					"Dance - Malay": "Gold"
 				},
-				"Best Unit Award": {
-					"Girls' Brigade": "Gold",
-					"Red Cross": "Bronze",
-					"Scout": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2007": {
 				"Sports & Games Competition": [
@@ -99,6 +101,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -108,22 +118,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -146,11 +172,7 @@
 					"Dance - International": "Silver",
 					"Dance - Malay": "Gold"
 				},
-				"Best Unit Award": {
-					"Girls' Brigade": "Gold",
-					"Red Cross": "Bronze",
-					"Scout": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2008": {
 				"Sports & Games Competition": [
@@ -160,6 +182,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -169,39 +199,64 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
 						"",
 						"'C' Div",
 						"'D' Div",
+						"'A' Div",
+						"'B' Div",
 						"'C' Div",
 						"'D' Div",
-						"'C' Div",
-						"'D' Div",
-						"'C' Div",
-						"'D' Div"
+						"'A' Div",
+						"'B' Div",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
 					],
 					[
 						"Track & Field",
 						"-",
 						"3rd",
+						"-",
 						"-",
 						"-",
 						"-",
@@ -217,10 +272,7 @@
 					"Dance - International": "Silver",
 					"Dance - Malay": "Silver"
 				},
-				"Best Unit Award": {
-					"Girls' Brigade": "Silver",
-					"Red Cross": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2009": {
 				"Sports & Games Competition": [
@@ -230,6 +282,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -239,22 +299,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -292,36 +368,22 @@
 					],
 					[
 						"",
-						"'A' Div",
-						"'B' Div",
-						"'A' Div",
-						"'B' Div",
-						"'A' Div",
-						"'B' Div",
-						"'A' Div",
-						"'B' Div"
-					],
-					[
-						"Track & Field",
-						"-",
-						"-",
-						"4th",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
-						"",
 						"'C' Div",
 						"'D' Div",
+						"'A' Div",
+						"'B' Div",
 						"'C' Div",
 						"'D' Div",
-						"'C' Div",
-						"'D' Div",
-						"'C' Div",
-						"'D' Div"
+						"'A' Div",
+						"'B' Div",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
 					],
 					[
 						"Track & Field",
@@ -331,6 +393,7 @@
 						"-",
 						"-",
 						"-",
+						"4th",
 						"-",
 						"-"
 					]
@@ -343,11 +406,7 @@
 					"Dance - International": "Silver",
 					"Dance - Malay": "Silver"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Bronze",
-					"Girls' Brigade": "Silver",
-					"Scout": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2010": {
 				"Sports & Games Competition": [
@@ -357,6 +416,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -366,22 +433,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -408,46 +491,33 @@
 					],
 					[
 						"",
+						"'C' Div",
+						"'D' Div",
 						"'A' Div",
 						"'B' Div",
+						"'C' Div",
+						"'D' Div",
 						"'A' Div",
 						"'B' Div",
-						"'A' Div",
-						"'B' Div",
-						"'A' Div",
-						"'B' Div"
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
 					],
 					[
 						"Track & Field",
+						"3rd",
+						"-",
 						"-",
 						"1st",
 						"-",
+						"-",
+						"-",
 						"3rd",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
-						"",
-						"'C' Div",
-						"'D' Div",
-						"'C' Div",
-						"'D' Div",
-						"'C' Div",
-						"'D' Div",
-						"'C' Div",
-						"'D' Div"
-					],
-					[
-						"Track & Field",
-						"3rd",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
 						"-"
 					]
 				],
@@ -472,6 +542,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -481,22 +559,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -523,19 +617,28 @@
 					],
 					[
 						"",
+						"'C' Div",
+						"'D' Div",
 						"'A' Div",
 						"'B' Div",
+						"'C' Div",
+						"'D' Div",
 						"'A' Div",
 						"'B' Div",
-						"'A' Div",
-						"'B' Div",
-						"'A' Div",
-						"'B' Div"
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
 					],
 					[
 						"Track & Field",
-						"3rd",
 						"-",
+						"-",
+						"3rd",
 						"-",
 						"-",
 						"-",
@@ -565,6 +668,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -574,22 +685,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -627,19 +754,28 @@
 					],
 					[
 						"",
+						"'C' Div",
+						"'D' Div",
 						"'A' Div",
 						"'B' Div",
+						"'C' Div",
+						"'D' Div",
 						"'A' Div",
 						"'B' Div",
-						"'A' Div",
-						"'B' Div",
-						"'A' Div",
-						"'B' Div"
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
 					],
 					[
 						"Track & Field",
-						"4th",
 						"-",
+						"-",
+						"4th",
 						"-",
 						"-",
 						"-",
@@ -658,11 +794,7 @@
 					"Dance - Malay": "Silver",
 					"Ensemble - Guzheng": "Silver"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Brownies (Pack 1)": "Bronze",
-					"Scout": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2013": {
 				"Development Award": [
@@ -677,6 +809,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -686,22 +826,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -758,11 +914,7 @@
 					"Dance - Malay": "Silver",
 					"Ensemble - Guzheng": "Silver"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Brownies (Pack 1)": "Silver",
-					"Scout": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2014": {
 				"Development Award": [
@@ -778,10 +930,7 @@
 					"Dance - Malay": "Accomplishment",
 					"Ensemble - Guzheng": "Commendation"
 				},
-				"Best Unit Award": {
-					"Brownies (Pack 1)": "Silver",
-					"Scout": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2015": {
 				"Development Award": "PARTNERS (Merit)",
@@ -793,9 +942,7 @@
 					"Dance - Malay": "Accomplishment",
 					"Ensemble - Guzheng": "Commendation"
 				},
-				"Best Unit Award": {
-					"Scout": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"Development Award": "PARTNERS (Merit)",
@@ -805,9 +952,7 @@
 					"Dance - Chinese": "Accomplishment",
 					"Dance - International": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Scout": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"SYF Arts Presentation": {
@@ -818,10 +963,7 @@
 					"Dance - Chinese": "Accomplishment",
 					"Dance - International": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Girls' Brigade": "Silver",
-					"Scout": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"SYF Arts Presentation": {
@@ -833,12 +975,9 @@
 					"Dance - International": "Accomplishment",
 					"Ensemble - Guzheng": "Commendation"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Bronze",
-					"Girls' Brigade": "Gold",
-					"Scout": "Gold"
-				}
-			}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {}
 		}
 	},
 	"postalCode": "609647"

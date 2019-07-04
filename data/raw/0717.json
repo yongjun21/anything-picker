@@ -2,7 +2,7 @@
 	"code": "0717",
 	"name": "TAMPINES MERIDIAN JUNIOR COLLEGE",
 	"levels": "J",
-	"uen": " ",
+	"uen": " T18GS0003J",
 	"logo": "./Medias/Images/Schools/logos/tn_0717.jpg",
 	"website": "http://www.tmjc.moe.edu.sg",
 	"address": "21, Pasir Ris Street 71 ( 518799 )",
@@ -12,10 +12,16 @@
 	"fax": [
 		"63493667"
 	],
+	"email": "tmjc@moe.edu.sg",
 	"mrt": "Pasir Ris MRT Station",
 	"bus": "3 , 39 , 53 , 81 , 89 , 109 , 358 , 518 ",
 	"GeneralInformation": {
-		"Principal-Designate": "MISS YOONG NYOK KE PAMELA",
+		"Principal": "MISS YOONG NYOK KE PAMELA",
+		"Vice Principal": [
+			"MR ANG YEOU PENG",
+			"MDM TOH LAY HAR"
+		],
+		"Vice Principal (Admin)": "MR TAN ENG POH",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / FULL DAY",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -51,12 +57,12 @@
 		"H2 PHYSICS",
 		"H2 TAMIL LANGUAGE & LITERATURE",
 		"H2 THEATRE STUDIES AND DRAMA",
+		"H3 BIOLOGY",
+		"H3 CHEMISTRY",
 		"H3 ECONOMICS",
-		"H3 ESSENTIALS OF MODERN PHYSICS",
 		"H3 MALAY LANGUAGE & LITERATURE",
 		"H3 MATHEMATICS",
-		"H3 PHARMACEUTICAL CHEMISTRY",
-		"H3 PROTEOMICS",
+		"H3 PHYSICS",
 		"NTU MOLECULAR BIOLOGY",
 		"NTU NUMBERS & MATRICES",
 		"NTU SEMICONDUCTOR PHYSICS & DEVICES",
@@ -72,7 +78,7 @@
 			"Hockey",
 			"Netball",
 			"Paddlers Club",
-			"Rock Climbing",
+			"Rockwall Climbing",
 			"Shooting",
 			"Squash",
 			"Table Tennis",
@@ -86,20 +92,19 @@
 			"Choir",
 			"Culture Promotion Club",
 			"Dance (International)",
-			"Drama - English",
-			"Guitar Ensemble",
-			"Photography Club",
+			"English Drama",
+			"Ensemble - Guitar",
+			"Photographic Society",
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
 			"Debates Society",
 			"Health And Fitness Club",
-			"Interact Club",
 			"Interactive Games Club",
 			"Makers Club",
 			"Media Resource Club",
 			"Outdoor Activities Club",
-			"Students' Council"
+			"Tampines Meridian Student Council"
 		]
 	},
 	"SpecialProgrammes": {
@@ -124,7 +129,8 @@
 			"2015": {},
 			"2016": {},
 			"2017": {},
-			"2018": {}
+			"2018": {},
+			"2019": {}
 		}
 	},
 	"L1R5History": {
@@ -141,7 +147,21 @@
 		"2015": {},
 		"2016": {},
 		"2017": {},
-		"2018": {}
+		"2018": {},
+		"2019": {
+			"Arts": [
+				"6",
+				"13"
+			],
+			"Science/IB": [
+				"3",
+				"14"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		}
 	},
 	"postalCode": "518799"
 }

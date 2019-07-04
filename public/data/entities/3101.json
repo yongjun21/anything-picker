@@ -23,7 +23,8 @@
 		"Principal": "Mr Low Teck Eng Tony",
 		"Vice Principal": [
 			"Mdm Tey Kah Hwee",
-			"Mr Keith Tan"
+			"Mr Keith Tan",
+			"Miss Lie Suyin Jamie"
 		],
 		"Vice Principal (Admin)": "Miss See Pei Loo",
 		"School Vision": "The Premier School of Leaders of Honour",
@@ -37,28 +38,27 @@
 	"SubjectOffered": [
 		"Active Citizenry Education",
 		"Additional Mathematics",
+		"Art (Special Programme)",
 		"Biology",
 		"Chemistry",
 		"English Language",
-		"French",
 		"General Science",
 		"Geography",
-		"German",
 		"H1 Art",
 		"H1 Biology",
 		"H1 Chemistry",
 		"H1 Chinese Language",
 		"H1 Economics",
-		"H1 French Language",
 		"H1 General Paper",
 		"H1 General Studies In Chinese",
 		"H1 Geography",
 		"H1 History",
-		"H1 Japanese Language",
 		"H1 Literature In English",
+		"H1 Malay Language",
 		"H1 Mathematics",
 		"H1 Physics",
 		"H1 Project Work",
+		"H1 Tamil Language",
 		"H2 Art",
 		"H2 Biology",
 		"H2 Chemistry",
@@ -67,34 +67,29 @@
 		"H2 Computing",
 		"H2 Economics",
 		"H2 English Language And Linguistics",
-		"H2 French Language",
 		"H2 Further Mathematics",
 		"H2 Geography",
-		"H2 German Language",
 		"H2 History",
-		"H2 Japanese Language",
 		"H2 Literature In English",
 		"H2 Mathematics",
 		"H2 Music",
 		"H2 Physics",
-		"H2 Spanish",
+		"H2 Tamil Language & Literature",
 		"H2 Translation (Chinese)",
+		"H3 Biology",
+		"H3 Chemistry",
 		"H3 Chinese Language & Literature",
 		"H3 Economics",
-		"H3 Essentials Of Modern Physics",
 		"H3 Geography",
 		"H3 History",
-		"H3 Literature In English",
 		"H3 Mathematics",
 		"H3 Music",
-		"H3 Pharmaceutical Chemistry",
-		"H3 Proteomics",
+		"H3 Physics",
 		"Higher Chinese",
 		"Higher Music",
 		"History",
 		"Humanities (Ss, Geography)",
 		"Humanities (Ss, History)",
-		"Japanese",
 		"Literature In Chinese",
 		"Literature(E)",
 		"Malay (Special Programme)",
@@ -103,8 +98,8 @@
 		"Mathematics 2",
 		"Music (MEP)",
 		"Physics",
-		"Spanish",
-		"Thinking And Research Skills Programme"
+		"Thinking And Research Skills Programme 1",
+		"Thinking And Research Skills Programme 3"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -112,17 +107,18 @@
 			"Air Rifle/Shooting",
 			"Badminton",
 			"Basketball",
-			"Bowling (Junior High)",
 			"Bowling (Senior High)",
-			"Golf (Junior High)",
+			"Golf (Senior High)",
 			"Golf(Senior High)",
 			"Netball (Senior High)",
+			"Outdoor Activities Club (Senior High)",
+			"Sailing",
 			"Sailing (Senior High)",
+			"Soccer (Boys) (Senior High)",
 			"Soccer (Senior High)",
 			"Softball",
 			"Softball (Girls)",
 			"Table Tennis",
-			"Taekwondo (Junior High)",
 			"Taekwondo (Senior High)",
 			"Tennis (Senior High)",
 			"Track & Field",
@@ -148,18 +144,23 @@
 			"Guzheng Ensemble",
 			"International Dance",
 			"Lion Dance (By Scouts)",
-			"Photograhic Society(Senior High)",
+			"Photograhic Society (Senior High)",
 			"Photographic Society(Senior High)",
 			"String Ensemble",
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
+			"Bizclub (Senior High Interest Group)",
 			"Community Service Club",
 			"Community Service Club (Senior High)",
+			"Culinary Club (Senior High)",
 			"Infocomm Club",
 			"Japanese Cultural Club (Senior High)",
 			"Library Society",
+			"Mass Communication Club (Senior High)",
+			"Mass Communication Society",
 			"Mathematics & Science Programme (Mathematics)",
+			"Mathematics Society (Senior High)",
 			"Oratorical Society",
 			"Oratorical Society (Senior High)",
 			"Pa Crew",
@@ -168,7 +169,6 @@
 			"Robotics Club",
 			"Science Society ( Senior High)",
 			"Science Society (Senior High)",
-			"Singapore Youth Flying Club (Senior High)",
 			"Students' Council"
 		]
 	},
@@ -180,7 +180,7 @@
 			"Music Elective Programme",
 			"Language Elective Programme (Chinese)"
 		],
-		"Special Student Development Programmes Offered": "Established in 1956, Dunman High School has distinguished itself as a Special Assistance Plan (SAP) school (1979) and is among the pioneer batch of schools to be accorded the Autonomous Status in 1994. The school now offers a 6-year Integrated Programme with expanded opportunities in School-based Gifted Education, Music Elective Programme, Bicultural Studies Programme, Chinese Language Elective Programme, Talent Development Programme, Malay Special Programme, Thinking & Research Skills Programme, Overseas Immersion and Student Leadership Development Programme."
+		"Special Student Development Programmes Offered": "Established in 1956, Dunman High School has distinguished itself as a Special Assistance Plan (SAP) school since 1979 and as a school accorded with Autonomous Status since 1994. We offer an Integrated Programme with  opportunities in School-based Gifted Education, Music Elective Programme, Bicultural Studies Programme, Chinese Language Elective Programme, Talent Development Programme, Thinking & Research Skills Programme, and Student Leadership Development Programme."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -195,7 +195,8 @@
 					"DA (National Education)",
 					"PARTNERS (Merit)"
 				],
-				"Outstanding Development Award": "ODA (Character Development)"
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"School Excellence Awards": "SEA",
@@ -208,7 +209,8 @@
 					"DA (National Education)",
 					"PARTNERS (Merit)"
 				],
-				"Outstanding Development Award": "ODA (Character Development)"
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"School Excellence Awards": "SEA",
@@ -221,710 +223,13 @@
 					"DA (National Education)",
 					"PARTNERS (Merit)"
 				],
-				"Outstanding Development Award": "ODA (Character Development)"
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Shooting (Air Pistol)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Shooting (Air Pistol)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Shooting (Air Pistol)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Taekwondo (Kyorugi)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Badminton",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Badminton",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Badminton",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Badminton",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				}
-			],
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -1117,108 +422,7 @@
 					"award": "Distinction"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 2)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Girl Guides (Coy 2)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Air Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Girl Guides",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
-					"year": "2018",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		},
 		"Junior College": {
 			"2015": {
@@ -1363,6 +567,16 @@
 				},
 				{
 					"year": "2017",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2017",
 					"category": "Shooting (Air Pistol)",
 					"subCategory": [
 						"National",
@@ -1390,16 +604,6 @@
 						"'A' Div"
 					],
 					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
 				},
 				{
 					"year": "2018",

@@ -54,7 +54,31 @@
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Football",
+			"Netball",
+			"Sports Club",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Red Cross"
+		],
+		"Visual and Performing Arts": [
+			"Angklung",
+			"Art Club",
+			"Chinese Dance",
+			"Choir",
+			"Drama Club",
+			"Indian Dance",
+			"Malay Dance"
+		],
+		"Clubs & Societies": [
+			"Mba Club",
+			"Multimedia Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -194,6 +218,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -203,22 +235,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -263,6 +311,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -272,22 +328,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -312,7 +384,8 @@
 					"Dance - Malay": "Distinction",
 					"Ensemble - Angklung / Kulintang": "Distinction"
 				}
-			}
+			},
+			"2019": {}
 		}
 	},
 	"postalCode": "659634"

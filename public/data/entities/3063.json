@@ -19,20 +19,15 @@
 	],
 	"bus": "98 , 99 , 157 , 185 , 187 , 198 , 334 , 502 ",
 	"GeneralInformation": {
-		"Principal": "Mdm Ong Fei Min",
+		"Principal": "Mr Chan Yew Wooi",
 		"Vice Principal": [
 			"Mdm Tan Pei Lee Elaine",
-			"Mr Koh Yong Hwee"
+			"Mr Yong Mun Chong"
 		],
+		"Vice Principal (Admin)": "Mr Chong Chee Keong Alvin",
 		"School Vision": "Everyone Empowered and Enlightened",
-		"School Mission": "To nurture our students into lifelong learners anchored in PRIDE values, to lead and to serve",
-		"School Philosophy, Culture and Ethos": [
-			"We are guided by our philosophy 'Everyone can Learn, Everyone can Achieve and Everyone can Contribute' in our efforts to nurture our students",
-			"to be empowered and enlightened. We offer a student-centric, values-driven education that helps our students to enjoy their school experience",
-			"as well as to pursue their passion and interests for life-long learning. Over the years, our students have done well in both the academic and",
-			"non-academic domains. Our school community strongly believes in the school motto 'Beyond Self' in leading the school towards achieving our",
-			"vision. Our students' success is due to the hard work of a nurturing team of dedicated teachers, supportive parents, alumni and community."
-		],
+		"School Mission": "To nurture world-ready students with the passion to learn, lead and serve",
+		"School Philosophy, Culture and Ethos": "The school is guided by our philosophy 'Everyone can Learn, Everyone can Achieve and Everyone can Contribute' in the design of our curriculum. With this philosophy as our anchor, the school offers a rich variety of programmes that holistically prepare our students for the opportunities and challenges of life. Our student-centric learning culture is focused around the following five school learning outcomes: Our students are persons of good character who make choices based on sound values; our students are responsible contributors to the well-being of their family, community and country; our students have learned the secondary curriculum well; our students have good self-awareness of their strengths and interests; our students have effective communication and leadership skills as individuals, team members or leaders. Our team of caring teachers also nurture the students guided by the following PRIDE school values: Perseverance, Respect, Integrity, Discipline and Empathy. When these values are learned well and applied by our students in their lives, they will be the pride of our families, communities and country.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -47,7 +42,6 @@
 		"Chemistry",
 		"Chinese",
 		"Chinese N(A)",
-		"Civics & Moral Education",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
 		"Computer Applications",
@@ -86,7 +80,6 @@
 			"Basketball",
 			"Football",
 			"Netball",
-			"Sailing",
 			"Sepak Takraw",
 			"Tchoukball"
 		],
@@ -95,15 +88,13 @@
 			"Girl Guides",
 			"Ncc (Land)",
 			"Npcc",
-			"Scouts",
-			"St. John Brigade"
+			"Scouts"
 		],
 		"Visual and Performing Arts": [
 			"Band - Concert",
 			"Choir",
 			"Cultural Ensemble - Malay",
-			"Dance - Chinese",
-			"Dance - Malay",
+			"Dance - International",
 			"Drama - English",
 			"Drumatix Batucada",
 			"Orchestra - Chinese"
@@ -117,192 +108,23 @@
 			"STEM": "In Heath We Thrive - Connecting the Science and Skills of Health and Wellness",
 			"Sports & Outdoor Education": "Sports for Life - Character Education through Sports Exposure, Sports Empowerment and Sports Excellence"
 		},
-		"Special Student Development Programmes Offered": "At Jurongville Secondary School, we believe in preparing our students for life. The school envisions each student to be a concerned citizen and a"
+		"Special Student Development Programmes Offered": "To broaden the learning experiences of students, Jurongville Secondary School plans and implements an Applied Learning Programme (ALP) and a Learning for Life Programme (LLP). The school's ALP is 'Real-World Learning Through Electronics'. Through various authentic tasks, students learn and apply concepts relating to electronics. Lower secondary students, for instance, use their knowledge to design tools and equipment that can potentially be used to improve our quality of life. Upper secondary students who wish to deepen their knowledge can also choose to offer Electronics ('O' Levels) or Smart Electrical Technology ('N' Levels). With such early exposure to electronics, our students are more ready to consider STEM (Science, Technology, Engineering, Mathematics) professional courses beyond secondary schools. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				}
-			],
+			"2015": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2016": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2017": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -465,123 +287,7 @@
 					"award": "Distinction"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2015",
-					"category": "Girls' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2015",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "St John Ambulance Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Girl Guides",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

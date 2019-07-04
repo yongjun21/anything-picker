@@ -13,7 +13,7 @@
 		"65873682"
 	],
 	"email": "JUNYUAN_SS@MOE.EDU.SG",
-	"mrt": "TAMPINES MRT",
+	"mrt": "TAMPINES MRT, TAMPINES WEST MRT",
 	"bus": "69 , 291 , 293 ",
 	"GeneralInformation": {
 		"Principal": "MR MOHAMED RAZALI B ABDUL HAMED",
@@ -23,7 +23,7 @@
 		],
 		"School Vision": "Champions for the Community",
 		"School Mission": "To nurture and empower every Junyuan Champ to lead, to serve and to excel.",
-		"School Philosophy, Culture and Ethos": "Junyuan is the nurturing ground ('Yuan') for developing our young Ladies and Gentlemen into knowledgeable persons with the values of justice ('Jun'). Our mission calls for all Junyuanites 'To Lead, To Serve and To Excel', leveraging on the values of Innovation, Excellence, Respect, Responsibility and Resilience to ensure that every Junyuanite becomes better persons for others. The Junyuan community shares the responsibility of providing positive learning experiences within a culture of care to enable each Junyuanite to leave its gates with keys to open many doors. Our committed and compassionate staff facilitates the growth, inspires the belief and nurtures the hope that every Junyuanite will graduate as a respectful and positive individual, a resilient team player, a civic-minded contributor and a leader of character.",
+		"School Philosophy, Culture and Ethos": "Junyuan is the source of good things; a nurturing ground for youth to develop their character and use their talent for the good of society. Here, they inherit the spirit of learning and practice values which inspire the next generation and beyond. Our mission calls for all Junyuanites 'To Lead, To Serve and To Excel', leveraging on the values of Innovation, Excellence, Respect, Responsibility and Resilience to ensure that every Junyuanite becomes better persons for others. The Junyuan community shares the responsibility of providing positive learning experiences within a culture of care to enable each Junyuanite to leave its gates with keys to open many doors. Our committed and compassionate staff facilitates the growth, inspires the belief and nurtures the hope that every Junyuanite will graduate as a respectful and positive individual, a resilient team player, a civic-minded contributor and a leader of character. Onboard the Junyuan Ship, we are crew, not passengers.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -42,9 +42,12 @@
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
 		"HISTORY",
 		"HUMANITIES (SS, GEOGRAPHY)",
 		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN MALAY)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
@@ -64,8 +67,7 @@
 			"Basketball",
 			"Rugby",
 			"Track & Field",
-			"Volleyball",
-			"Wushu"
+			"Volleyball"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
@@ -77,13 +79,13 @@
 		"Visual and Performing Arts": [
 			"Band - Symphonic",
 			"Choir",
-			"Dance - Modern",
+			"Dance",
 			"Drama - English",
 			"Ensemble - Guitar"
 		],
 		"Clubs & Societies": [
 			"Infocom Club",
-			"Library Club"
+			"Media Resource Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -94,20 +96,13 @@
 			"STEM": "Developing Application-based Learning through Food Science",
 			"Community & Youth Leadership": "Cultivating Community Champions through Youth Leadership"
 		},
-		"Special Student Development Programmes Offered": "a) The Applied Learning Programme (ALP) offered at Lower Secondary levels integrates Food Science into the formal curriculum and extends students' learning in Food and Consumer Education classes. Students carry out hands-on activities on food-related investigation and learn science process skills in contextualised settings. Students gain a broader perspective of integrated learning where skills are transferrable to future-oriented domains such as Molecular Gastronomy, Coffee Barista and Arduino programming. "
+		"Special Student Development Programmes Offered": "a) The Applied Learning Programme (ALP) offered at Lower Secondary levels integrates Food Science into the formal curriculum and extends students' learning in Food and Consumer Education classes. Students carry out hands-on activities on food-related investigation and learn science process skills in contextualised settings. Students gain a broader perspective of integrated learning where skills are transferrable to future-oriented domains such as Molecular Gastronomy and Coffee Barista. Basic Microbit programming is also introduced and through the framework of design thinking, students use their programming skills to improve real life situations. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
 			"2005": {},
 			"2006": {
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girls' Brigade": "Bronze",
-					"Ncc (Land Boys)": "Silver",
-					"Ncc (Land Girls)": "Bronze",
-					"Npcc": "Bronze",
-					"St John Ambulance Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2007": {
 				"Sports & Games Competition": [
@@ -117,6 +112,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -126,22 +137,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -162,13 +205,7 @@
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Malay": "Bronze"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girls' Brigade": "Silver",
-					"Ncc (Land Boys)": "Bronze",
-					"Ncc (Land Girls)": "Silver",
-					"St John Ambulance Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2008": {
 				"SYF Central Judging": {
@@ -177,14 +214,7 @@
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Malay": "Bronze"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girls' Brigade": "Silver",
-					"Ncc (Land Boys)": "Gold",
-					"Ncc (Land Girls)": "Gold",
-					"Npcc (Land)": "Silver",
-					"St John Ambulance Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2009": {
 				"SYF Central Judging": {
@@ -194,13 +224,7 @@
 					"Dance - Malay": "Bronze",
 					"Ensemble - Guitar": "Bronze"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girls' Brigade": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Ncc (Land Girls)": "Silver",
-					"Npcc": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2010": {
 				"SYF Central Judging": {
@@ -210,13 +234,7 @@
 					"Dance - Malay": "Bronze",
 					"Ensemble - Guitar": "Bronze"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girls' Brigade": "Silver",
-					"Ncc (Land Boys)": "Gold",
-					"Ncc (Land Girls)": "Gold",
-					"Npcc (Land)": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2011": {
 				"Development Award": [
@@ -233,6 +251,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -242,22 +276,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -280,14 +346,7 @@
 					"Drama - English": "Silver",
 					"Ensemble - Guitar": "Bronze"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girls' Brigade": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Ncc (Land Girls)": "Silver",
-					"Npcc (Land)": "Silver",
-					"St John Ambulance Brigade": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2012": {
 				"Development Award": [
@@ -305,14 +364,7 @@
 					"Drama - English": "Silver",
 					"Ensemble - Guitar": "Bronze"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girls' Brigade": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Ncc (Land Girls)": "Silver",
-					"Npcc (Land)": "Silver",
-					"St John Ambulance Brigade": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2013": {
 				"Development Award": [
@@ -333,14 +385,7 @@
 					"Drama - English": "Accomplishment",
 					"Ensemble - Guitar": "Commendation"
 				},
-				"Best Unit Award": {
-					"Girls' Brigade": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Ncc (Land Girls)": "Silver",
-					"Npcc (Land)": "Silver",
-					"St John Ambulance Brigade": "Silver",
-					"Boys' Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2014": {
 				"Development Award": [
@@ -356,14 +401,7 @@
 					"Drama - English": "Accomplishment",
 					"Ensemble - Guitar": "Commendation"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girls' Brigade": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Ncc (Land Girls)": "Silver",
-					"Npcc (Land)": "Bronze",
-					"St John Ambulance Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2015": {
 				"SYF Arts Presentation": {
@@ -374,14 +412,7 @@
 					"Drama - English": "Distinction",
 					"Ensemble - Guitar": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girls' Brigade": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Ncc (Land Girls)": "Silver",
-					"Npcc (Land)": "Gold",
-					"St John Ambulance Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"SYF Arts Presentation": {
@@ -392,13 +423,7 @@
 					"Drama - English": "Distinction",
 					"Ensemble - Guitar": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girls' Brigade": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Ncc (Land Girls)": "Silver",
-					"Npcc (Land)": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"Sports & Games Competition": [
@@ -408,6 +433,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -417,22 +458,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -450,19 +523,12 @@
 				"SYF Arts Presentation": {
 					"Band - Concert": "Commendation",
 					"Choir": "Accomplishment",
-					"Dance - Chinese": "Accomplishment",
 					"Dance - International": "Accomplishment",
 					"Drama - English": "Accomplishment",
-					"Ensemble - Guitar": "Accomplishment"
+					"Ensemble - Guitar": "Accomplishment",
+					"Dance - Chinese": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girls' Brigade": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Ncc (Land Girls)": "Silver",
-					"Npcc (Land)": "Silver",
-					"St John Ambulance Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"SYF Arts Presentation": {
@@ -473,14 +539,9 @@
 					"Drama - English": "Accomplishment",
 					"Ensemble - Guitar": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girls' Brigade": "Gold",
-					"Ncc (Land)": "Gold",
-					"Npcc (Land)": "Silver",
-					"St John Ambulance Brigade": "Silver"
-				}
-			}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -718,6 +779,23 @@
 			],
 			"Normal Technical": [
 				"121",
+				"154",
+				"None-posted"
+			]
+		},
+		"2019": {
+			"Express": [
+				"188",
+				"230",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"162",
+				"190",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"114",
 				"154",
 				"None-posted"
 			]

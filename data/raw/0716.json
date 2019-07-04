@@ -2,7 +2,7 @@
 	"code": "0716",
 	"name": "YISHUN INNOVA JUNIOR COLLEGE",
 	"levels": "J",
-	"uen": " ",
+	"uen": " T18GS0001F",
 	"logo": "./Medias/Images/Schools/logos/tn_0716.jpg",
 	"website": "http://www.yijc.moe.edu.sg/",
 	"address": "3, YISHUN RING ROAD ( 768675 )",
@@ -16,7 +16,12 @@
 	"mrt": "Yishun, Khatib",
 	"bus": "800 , 812 , 167 , 169 , 171 , 980 ",
 	"GeneralInformation": {
-		"Principal-Designate": "MR MICHAEL NELSON DE SILVA",
+		"Principal": "MR MICHAEL DE SILVA",
+		"Vice Principal": [
+			"MR NG PING HWEE",
+			"MR TAY YUAN ZHUANG"
+		],
+		"Vice Principal (Admin)": "MDM TAN SWEE ENG JENNIFER",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / FULL DAY",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -80,20 +85,20 @@
 			"Art Club",
 			"Chinese Cultural Society",
 			"Chinese Orchestra",
-			"Choir",
-			"English Language Drama And Debating Society (Drama)",
+			"Chorale",
+			"Dance Club",
+			"Eldds (Drama)",
 			"Guitar Ensemble",
 			"Indian Cultural Society",
 			"Malay Cultural Society",
-			"Modern Dance",
 			"Musicians' Club",
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
-			"English Language Drama And Debating Society (Debate)",
+			"Eldds (Debate)",
 			"Interact Club",
 			"Library Council",
-			"Makers' Academy",
+			"Media Resource And It Club",
 			"Outdoor Activities Club",
 			"Strategy Club",
 			"Students' Council"
@@ -120,7 +125,8 @@
 			"2015": {},
 			"2016": {},
 			"2017": {},
-			"2018": {}
+			"2018": {},
+			"2019": {}
 		}
 	},
 	"L1R5History": {
@@ -137,7 +143,21 @@
 		"2015": {},
 		"2016": {},
 		"2017": {},
-		"2018": {}
+		"2018": {},
+		"2019": {
+			"Arts": [
+				"10",
+				"20"
+			],
+			"Science/IB": [
+				"7",
+				"19"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		}
 	},
 	"postalCode": "768675"
 }

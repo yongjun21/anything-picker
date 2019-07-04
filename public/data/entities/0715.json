@@ -2,7 +2,7 @@
 	"code": "0715",
 	"name": "Anderson Serangoon Junior College",
 	"levels": "J",
-	"uen": " ",
+	"uen": " T18GS0002B",
 	"logo": "./Medias/Images/Schools/logos/tn_0715.jpg",
 	"website": "http://www.asrjc.moe.edu.sg",
 	"address": "4500, Ang Mo Kio Avenue 6 (569843)",
@@ -18,7 +18,12 @@
 	],
 	"bus": "13 , 45 , 86 , 162 , 269 , 825 , 851 , 852 , 853 ",
 	"GeneralInformation": {
-		"Principal-Designate": "MR MANOGARAN S/O SUPPIAH",
+		"Principal": "Mr Manogaran S/o Suppiah",
+		"Vice Principal": [
+			"Mrs Koh Caiyu",
+			"Miss Low Bee Yen"
+		],
+		"Vice Principal (Admin)": "Mr Ngeow Siong Chye",
 		"Type of School": "Government School / Co-ed School / Full Day",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -51,10 +56,10 @@
 		"H2 Mathematics",
 		"H2 Physics",
 		"H2 Tamil Language & Literature",
-		"H3 Essentials Of Modern Physics",
+		"H3 Biology",
+		"H3 Chemistry",
 		"H3 Mathematics",
-		"H3 Pharmaceutical Chemistry",
-		"H3 Proteomics",
+		"H3 Physics",
 		"Ntu Molecular Biology",
 		"Ntu Semiconductor Physics & Devices",
 		"Nus Modern Physics",
@@ -67,11 +72,11 @@
 			"Air Rifle / Shooting",
 			"Badminton",
 			"Basketball",
-			"Climbing Club",
 			"Football",
 			"Frisbee",
 			"Hockey",
 			"Netball",
+			"Sports Climbing",
 			"Squash",
 			"Table Tennis",
 			"Taekwondo",
@@ -82,13 +87,13 @@
 		"Visual and Performing Arts": [
 			"Band - Symphonic",
 			"Choir",
-			"Dance - Modern",
-			"Drama - English",
+			"Dance Society",
 			"Ensemble - Guitar",
 			"Ensemble - Harmonica",
-			"Music Club",
+			"Musicians' Club",
 			"Orchestra - Chinese",
 			"Photographic Society",
+			"Stageworks",
 			"Visual Arts Club"
 		],
 		"Clubs & Societies": [
@@ -99,8 +104,8 @@
 			"Ldds - Chinese",
 			"Ldds - Indian",
 			"Outdoor Activities Club",
-			"Red Cross (Youth)",
-			"Science Research",
+			"Red Cross Youth",
+			"Science Society",
 			"Students' Council"
 		]
 	},

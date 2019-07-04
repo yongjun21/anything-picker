@@ -5,10 +5,9 @@
 	"uen": " T07GS3013A",
 	"logo": "./Medias/Images/Schools/logos/tn_3013.jpg",
 	"website": "http://www.tkgs.moe.edu.sg",
-	"address": "2, Bedok South Road (469268)",
+	"address": "20, Dunman Lane (439272)",
 	"telephone": [
-		"63441593",
-		"66441593 (from 2017)"
+		"63441593"
 	],
 	"fax": [
 		"63451487",
@@ -16,19 +15,20 @@
 	],
 	"email": "tkgs@moe.edu.sg",
 	"mrt": [
-		"Bedok MRT"
+		"Paya Lebar MRT",
+		"Dakota MRT"
 	],
-	"bus": "2 , 2A , 4N , 7 , 9 , 16 , 24 , 25 , 28 , 30 , 30E , 31 , 32 , 33 , 35 , 35M , 38 , 40 , 67 , 137 , 196 , 197 , 222 , 222B , 229 , 401 , 854 ",
+	"bus": "10 , 16 , 31 , 32 , 33 , 40 , 43 , 134 , 135 , 197 ",
 	"GeneralInformation": {
-		"Principal": "Mdm Wong Yee Min Mary",
+		"Principal": "Miss Chew Ing Lim",
 		"Vice Principal": [
 			"Mdm Yehidaah Beevi D/o Shaik A",
 			"Mr Low Ying Ning"
 		],
 		"Vice Principal (Admin)": "Mdm Koh Seok Lee Shirley",
-		"School Vision": "Accomplished young women of character and grace",
+		"School Vision": "Accomplished  women of character and grace",
 		"School Mission": "To nurture every TKGian to be a leader",
-		"School Philosophy, Culture and Ethos": "TKGS is dedicated to nurturing leaders of character, accomplished learners and women of grace. We are committed to nurturing leaders in the academic, character and arts domains. In doing so, we believe in students learning the value of stewardship,where the best and the brightest TKGians must lead through 'noble service' and to 'serve with honour', as inspired by the school song penned by the first principal Ms Maude Scott in 1953. Our aspiration for being a school of distinction must start from within, with the girls who come through our doors understand how special it is to be TKGian, to understand the obligations and responsibilities in upholding that tradition of excellence which we have built over more than 65 years.",
+		"School Philosophy, Culture and Ethos": "TKGS is dedicated to nurturing leaders of character, accomplished learners and women of grace. We are committed to nurturing leaders in the academic, character and arts domains. In doing so, we believe in students learning the value of stewardship, where the best and the brightest TKGians must lead through 'noble service' and to 'serve with honour', as inspired by the school song penned by the first principal Ms Maude Scott in 1953. Our aspiration for being a school of distinction must start from within, where every girl who come through our doors would understand the obligations and responsibilities in upholding a tradition of excellence which we have built over 65 years.",
 		"Type of School": "Government School / Girls' School / Single Session",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -82,7 +82,7 @@
 			"Singapore Red Cross Society"
 		],
 		"Visual and Performing Arts": [
-			"Art And Craft Club",
+			"Art Club",
 			"Band - Symphonic",
 			"Choir",
 			"Dance - International",
@@ -100,292 +100,35 @@
 		"MOE Programmes": [
 			"Music Elective Programme"
 		],
-		"Special Student Development Programmes Offered": "The TKGS Curriculum develops 3 distinct characteristics: (a) LEADERS OF CHARACTER who lead from within in service of others; (b) ACCOMPLISHED LEARNERS who demonstrate intellectual character; and (c) WOMEN OF GRACE who are creative thinkers in their appreciation and advancement of the arts. LEADERS OF CHARACTER: Grounded on the TKGS leadership philosophy where leadership is not about rank, position or title but towards the service of others, our signature 4-year ViA programme guides all students to take the lead in exploring and deciding the causes they want to champion. Students are supported in such endeavours through practices picked up in lessons facilitated by teachers and working with external partners who all believe in the mission of nurturing TKGians to be leaders. In also believing that every student can lead in her own way, various leadership opportunities within our vibrant student body grow each TKGian to flourish in her own ways. ACCOMPLISHED LEARNERS: The TKGS Academic Curriculum integrates tasks which deepen disciplinary thinking and encourage explorations beyond the syllabus. We take special pride in our rich culture of EL learning, where the school serves as the East Zone Centre of Excellence. Besides being guided to take up a high level of personal responsibility towards their own learning by planning consultations and collaborations outside of class, TKGians can look forward to stretching themselves through the TKGS+ programme, to lead their peers in academic learning and exercise stewardship of their gifts. WOMEN OF GRACE: With a rich tradition in the Performing Arts, we are known for students who enjoy initiating their own performances and engaging with different audiences and fellow performers. Other than the opportunity to pursue Art, Music & Drama at the O levels, our 5 distinguished Performing Arts CCA groups provides for a vibrant Performing Arts scene - not just within the school but also beyond."
+		"Special Student Development Programmes Offered": "The TKGS Curriculum develops 3 distinct characteristics: "
 	},
 	"AchievementHistory": {
 		"Secondary": {
 			"2015": {
 				"School Distinction Awards": "SDA",
 				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)"
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"School Distinction Awards": "SDA",
 				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)"
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)"
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"School Distinction Awards": "SDA",
 				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)"
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Sailing (Byte)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Sailing (Optimist)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -518,73 +261,7 @@
 					"award": "Distinction"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 2)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2015",
-					"category": "Red Cross",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Girl Guides (Coy 2)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "Red Cross",
-					"award": "Bronze"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Girl Guides",
-					"award": "Bronze"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Red Cross",
-					"award": "Bronze"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
@@ -621,7 +298,7 @@
 			"upperAffiliated": null
 		}
 	],
-	"postalCode": "469268",
+	"postalCode": "439272",
 	"coordinates": [
 		103.9270308,
 		1.3220391

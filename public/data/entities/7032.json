@@ -4,7 +4,7 @@
 	"levels": "S",
 	"uen": " T07GS7032A",
 	"logo": "./Medias/Images/Schools/logos/tn_7032.jpg",
-	"website": "http://acsbr.moe.edu.sg",
+	"website": "http://www.acsbr.moe.edu.sg",
 	"address": "60, Barker Road (309919)",
 	"telephone": [
 		"62561633"
@@ -26,7 +26,7 @@
 		],
 		"School Vision": "Generations of educated men who are God-fearing and growing in Grace.",
 		"School Mission": "Touch Hearts, Empower Minds, Enrich Souls",
-		"School Philosophy, Culture and Ethos": "Anglo-Chinese School (Barker Road) belongs to the ACS family of schools. Established in 1994 as a school of Hope for our feeder boys who desired a continued ACS education in a secondary school, we have been consistently moving towards our aspiration to be a school of Excellence. As a Methodist institution, we inculcate the core values of Respect, Integrity, Commitment and Excellence in our students. We believe that our students have the potential to excel and provide opportunities for them to do so through a unique ACS(BR) education that nurtures future-ready leaders.  Our double niche areas are in our Applied Learning Programme \"Developing Confident and Effective Communicators\" and Lifelong Learning Programme \"Building Character through Sports and Outdoor Education\".  We offer a holistic and broad-based education that strikes a balance between the academic and non-academic, so that we can provide an environment that is happy, enriching and fulfilling.  True to our mission, we aim to touch hearts by creating memories and giving meaning to all that we do, empower minds by sharpening the intellect and broadening perspectives, and enrich souls by growing in faith and serving others. Our product - the ACS(BR) Gentleman.",
+		"School Philosophy, Culture and Ethos": "Anglo-Chinese School (Barker Road) belongs to the ACS family of schools. Established in 1994 as a school of Hope for our feeder boys who desired a continued ACS education in a secondary school, we have been consistently moving towards our aspiration to be a school of Excellence. As a Methodist institution, we provide an ACS(BR) education that imbues in our boys 3 senses (sense of worth, sense of purpose and sense of honour) and 4 honours (honour self and their words, honour others, honour effort and honour excellence).  We believe that our students have the potential to excel and provide opportunities for them to do so.  Our Applied Learning Programme is \"Developing Confident and Effective Communicators\" and our Lifelong Learning Programme is \"Building Character through Sports and Outdoor Education\".  We offer a holistic and broad-based education that strikes a balance between the academic and non-academic, so that we can provide an environment that is happy, enriching and fulfilling.  True to our mission, we aim to touch hearts by creating memories and giving meaning to all that we do, empower minds by sharpening the intellect and broadening perspectives, and enrich souls by growing in faith and serving others. Our product - the ACS(BR) Gentleman.",
 		"Type of School": "Government-aided Sch / Boys' School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
@@ -73,9 +73,10 @@
 			"Basketball",
 			"Floorball",
 			"Football",
-			"Handball",
+			"Hockey",
 			"Rugby",
 			"Swimming",
+			"Table Tennis",
 			"Ten-Pin Bowling",
 			"Tennis",
 			"Water Polo"
@@ -96,7 +97,8 @@
 		"Clubs & Societies": [
 			"Christian Society",
 			"Debates @ Acs",
-			"Infocom Club - Media Resource, Digital Media & Robotics"
+			"Infocom Club - Media Resource, Digital Media & Robotics",
+			"Infocom Club - Robotics"
 		]
 	},
 	"SpecialProgrammes": {
@@ -104,7 +106,7 @@
 			"Languages & Humanities": "Developing Effective Communicators through Drama, Debates and Public Speaking",
 			"Sports & Outdoor Education": "Building Character through Sports (Basketball, Rugby, Tennis and Water Polo) & Outdoor Education"
 		},
-		"Special Student Development Programmes Offered": "1:1 Learning Programme, Aesthetics Programme, Applied Learning Programme \"Developing Confident and Effective Communicators\", Character Development encompassing Spiritual, Enterprise, Citizenship, Personal & Social Lifeskills and Service Learning, Cyber-wellness Programme, Integrated Values-In-Action programme that involves overseas exposure, Highly Effective Youth! Programme, Level Camps, Lifelong Learning Programme \"Building Character through Sports & Outdoor Education\", Sports Education Programme, Student mentoring by staff, Swimming and Flippa Ball Programme, Study Skills Modules, Talent Development Programme and Whole school Approach to Effective Communication."
+		"Special Student Development Programmes Offered": "1:1 Learning Programme, Aesthetics Programme, Applied Learning Programme \"Developing Confident and Effective Communicators\", Character and Citizenship Education encompassing Spiritual, Enterprise, Citizenship, Personal & Social Lifeskills, Service Learning, Cyber-wellness, Integrated Values-In-Action, Level Camps, Lifelong Learning Programme \"Building Character through Sports & Outdoor Education\", Sports Education Programme, Swimming and Flippa Ball Programme and Talent Development Programme."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -113,520 +115,25 @@
 					"DA (Character Development)",
 					"PARTNERS (Merit)"
 				],
-				"Outstanding Development Award": "ODA (National Education)"
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"Development Award": [
 					"DA (Character Development)",
 					"PARTNERS (Merit)"
 				],
-				"Outstanding Development Award": "ODA (National Education)"
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
-				"Outstanding Development Award": "ODA (National Education)"
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Swimming",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Swimming",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Waterpolo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Waterpolo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Swimming",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Swimming",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Waterpolo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Swimming",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Swimming",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Taekwondo (Kyorugi)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Swimming",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Swimming",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Waterpolo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				}
-			],
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -744,88 +251,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Sea Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Sea Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Sea Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2017",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Sea Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

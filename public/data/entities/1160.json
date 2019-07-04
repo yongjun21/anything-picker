@@ -19,11 +19,13 @@
 	"bus": "229 , 10 , 14 , 13 , 48 , 43 , 506 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Ang Gek Leng Alison Amanda",
-		"Vice Principal": "Mdm Ranjit Kaur D/o Mukhtar Singh",
-		"Vice Principal (Admin)": "Mr Quah Siew Sang",
-		"School Vision": "We aspire to be the vibrant learning campus where pupils learn, lead, serve and grow to become future-ready citizens rooted in values.",
-		"School Mission": "Developing our pupils into responsible and versatile individuals  who will be fired with a passion for life long learning and able to contribute effectively to society.",
-		"School Philosophy, Culture and Ethos": "Guided by our philosophy that every child can learn, act responsibly and care for others, we believe that there is a leader in every child whom we can nurture. We do this by giving varied opportunities for pupils to learn effectively, lead responsibly, serve purposefully and grow holistically. We aim to provide a learning environment that encourages discovery, inquiry and reflection as important processes for developing core values and competencies for the 21st century. Our school motto of \"Forward Together\" also describes our belief in the importance of collaborating with our partners to further enrich the learning for our pupils in more authentic and meaningful contexts.",
+		"Vice Principal": [
+			"Mdm Ranjit Kaur D/o Mukhtar Singh",
+			"Mdm Haslindah Bte Bahrom"
+		],
+		"School Vision": "We aspire to be the vibrant learning campus where students learn, lead, serve and grow to become future-ready citizens rooted in values",
+		"School Mission": "Developing our students into responsible and versatile individuals  who are fired with a passion for life-long learning and able to contribute effectively to society",
+		"School Philosophy, Culture and Ethos": "Guided by our philosophy that every child can learn, act responsibly and care for others, we believe that there is a leader in every child whom we can nurture. We do this by giving varied opportunities for students to learn effectively, lead responsibly, serve purposefully and grow holistically. We aim to provide a learning environment that encourages discovery, inquiry and reflection as important processes for developing core values and competencies for the 21st century. Our school motto of \"Forward Together\" also describes our belief in the importance of collaborating with our partners to further enrich the learning for our students in more authentic and meaningful contexts.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -53,22 +55,19 @@
 			"Badminton",
 			"Football",
 			"Netball",
-			"Swimming",
 			"Taekwondo",
-			"Tennis",
 			"Track & Field"
-		],
-		"Uniformed Groups": [
-			"Brownies",
-			"Scouts",
-			"Singapore Red Cross Society"
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
 			"Choir",
-			"Dance - Malay"
+			"Dance - Malay",
+			"Dance - Modern",
+			"Ensemble - Guitar"
 		],
 		"Clubs & Societies": [
+			"Content Creation Club",
+			"Drama & Debate Society",
 			"Robotics Club"
 		]
 	},
@@ -88,7 +87,8 @@
 					"BPA (Teaching and Learning)"
 				],
 				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "Outstanding PARTNERS"
+				"Outstanding Development Award": "Outstanding PARTNERS",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"School Distinction Awards": "SDA",
@@ -97,7 +97,8 @@
 					"BPA (Teaching and Learning)"
 				],
 				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "Outstanding PARTNERS"
+				"Outstanding Development Award": "Outstanding PARTNERS",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"School Distinction Awards": "SDA",
@@ -106,7 +107,8 @@
 					"BPA (Teaching and Learning)"
 				],
 				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "Outstanding PARTNERS"
+				"Outstanding Development Award": "Outstanding PARTNERS",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"School Distinction Awards": "SDA",
@@ -115,310 +117,10 @@
 					"BPA (Teaching and Learning)"
 				],
 				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "Outstanding PARTNERS"
+				"Outstanding Development Award": "Outstanding PARTNERS",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Taekwondo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Taekwondo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Taekwondo",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Taekwondo",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Taekwondo (Kyorugi)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Taekwondo (Kyorugi)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Taekwondo (Poomsae)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Taekwondo (Poomsae)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Taekwondo (Poomsae)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Taekwondo (Poomsae)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Taekwondo (Kyorugi)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Taekwondo (Kyorugi)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Taekwondo (Poomsae)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Taekwondo (Poomsae)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Taekwondo (Poomsae)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Taekwondo (Kyorugi)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Taekwondo (Kyorugi)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Taekwondo (Kyorugi)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Taekwondo (Poomsae)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Taekwondo (Poomsae)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Taekwondo (Poomsae)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -541,28 +243,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
-					"year": "2017",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Bronze"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"postalCode": "469300",
@@ -587,23 +268,9 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"TOTAL VACANCY": 240,
+		"TOTAL VACANCY": 200,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
-		"VACANCY FOR PHASE 1": 200,
-		"NO. OF APPLICANTS IN PHASE 1": 102,
-		"PLACES TAKEN UP TO PHASE 1": 102,
-		"VACANCY FOR PHASE 2A1": 98,
-		"NO. OF APPLICANTS IN PHASE 2A1": 35,
-		"PLACES TAKEN UP TO PHASE 2A1": 137,
-		"VACANCY FOR PHASE 2A2": 63,
-		"NO. OF APPLICANTS IN PHASE 2A2": 41,
-		"PLACES TAKEN UP TO PHASE 2A2": 178,
-		"VACANCY FOR PHASE 2B": 31,
-		"NO. OF APPLICANTS IN PHASE 2B": 28,
-		"PLACES TAKEN UP TO PHASE 2B": 205,
-		"VACANCY FOR PHASE 2C": 35,
-		"NO. OF APPLICANTS IN PHASE 2C": 81,
-		"PLACES TAKEN UP TO PHASE 2C": 240
+		"VACANCY FOR PHASE 1": 160
 	},
 	"id": "1160"
 }

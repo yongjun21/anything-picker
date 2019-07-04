@@ -17,7 +17,10 @@
 	"bus": "Bus No 913 and Bus No 964",
 	"GeneralInformation": {
 		"Principal": "MDM BOEY HUEY PENG SHARON",
-		"Vice Principal": "MDM KHOO PHAIK HOON REGINA",
+		"Vice Principal": [
+			"MDM KHOO PHAIK HOON REGINA",
+			"MRS RANUKA PALANIVELU"
+		],
 		"Vice Principal (Admin)": "MDM NEO BEE BEE",
 		"School Vision": "The Best from Each, A Better Future for All - Riverside Primary School aspires to nurture Riverians as Joyful and Productive Learners and Connected Citizens of Good Character and bring out the best from each Riverian to lead, serve and contribute as a member of the community and the world. To achieve our vision, the school adopts a student-centric approach to know every child and grow every child in best ways possible and leverages people and partnerships to add value to the education process.",
 		"School Mission": "Inspire Learning, Nurture Character, Build Community - Riverside Primary School sees its purpose in inspiring engaged and deep learning, nurturing pupils in values, character and citizenship, and building a sense of identity and affiliation to the community and nation. The core business of education is conducted through a positive school tone of care, respect and discipline; a safe and health-promoting school environment; and a vibrant and stimulating learning space.",
@@ -81,7 +84,8 @@
 					"Dance - International": "Accomplishment",
 					"Ensemble - Strings": "Accomplishment"
 				}
-			}
+			},
+			"2019": {}
 		}
 	},
 	"postalCode": "737803"

@@ -18,9 +18,10 @@
 	"GeneralInformation": {
 		"Principal": "MDM MOLIAH BINTE HASHIM",
 		"Vice Principal": [
-			"MISS CHENG SHIN MIIN",
-			"MR LEE WEI YAP, ROY"
+			"MR LEE WEI YAP, ROY",
+			"MISS NGIAM WEE HENG"
 		],
+		"Vice Principal (Admin)": "MR CHUA GIM HONG",
 		"School Vision": "Every Child an Engaged Learner, a Caring Citizen and a Steadfast Leader",
 		"School Mission": "Together, We Nurture and Inspire an Inclusive Spirit.",
 		"School Philosophy, Culture and Ethos": [
@@ -67,12 +68,11 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
+			"Art Club",
 			"Band - Concert",
 			"Choir",
-			"Dance - Ballet",
-			"Dance - Chinese",
-			"Dance - Indian",
-			"Dance - Malay",
+			"Cultural Dance",
+			"Dance - Contemporary Modern",
 			"Ensemble - Harmonica",
 			"Ensemble - String",
 			"Orchestra - Chinese"
@@ -101,11 +101,7 @@
 					"Dance - International": "Bronze",
 					"Dance - Malay": "Bronze"
 				},
-				"Best Unit Award": {
-					"Scout": "Bronze",
-					"Boys' Brigade": "Silver",
-					"Brownies": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2007": {
 				"SYF Central Judging": {
@@ -119,11 +115,7 @@
 					"Ensemble - Strings": "Silver",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Brownies (Pack 1)": "Silver",
-					"Scout": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2008": {
 				"SYF Central Judging": {
@@ -138,11 +130,7 @@
 					"Ensemble - Strings": "Silver",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Bronze",
-					"Brownies (Pack 1)": "Gold",
-					"Scout": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2009": {
 				"SYF Central Judging": {
@@ -157,11 +145,7 @@
 					"Ensemble - Strings": "Silver",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Brownies (Pack 1)": "Gold",
-					"Scout": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2010": {
 				"SYF Central Judging": {
@@ -227,11 +211,7 @@
 					"Ensemble - Strings": "Silver",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Bronze",
-					"Brownies (Pack 1)": "Gold",
-					"Girls' Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2013": {
 				"Best Practice Awards": "BPA (Staff Well-Being)",
@@ -257,11 +237,7 @@
 					"Ensemble - Strings": "Silver",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Bronze",
-					"Brownies (Pack 1)": "Gold",
-					"Girls' Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2014": {
 				"Best Practice Awards": "BPA (Staff Well-Being)",
@@ -283,11 +259,7 @@
 					"Ensemble - Strings": "Accomplishment",
 					"Orchestra - Chinese": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Bronze",
-					"Brownies (Pack 1)": "Gold",
-					"Girls' Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2015": {
 				"Best Practice Awards": "BPA (Staff Well-Being)",
@@ -309,11 +281,7 @@
 					"Ensemble - Strings": "Accomplishment",
 					"Orchestra - Chinese": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Brownies (Pack 1)": "Gold",
-					"Girls' Brigade": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"Best Practice Awards": "BPA (Staff Well-Being)",
@@ -328,6 +296,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -337,22 +313,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -378,11 +370,7 @@
 					"Ensemble - Harmonica": "Distinction",
 					"Ensemble - Strings": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Bronze",
-					"Brownies (Pack 1)": "Gold",
-					"Girls' Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"Best Practice Awards": "BPA (Staff Well-Being)",
@@ -393,6 +381,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -402,22 +398,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -442,11 +454,7 @@
 					"Ensemble - Harmonica": "Distinction",
 					"Ensemble - Strings": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Brownies (Pack 1)": "Silver",
-					"Girls' Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Sports & Games Competition": [
@@ -456,6 +464,14 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -465,22 +481,38 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"Junior",
-						"Senior",
 						"Junior",
 						"Senior",
-						"Junior",
 						"Senior",
 						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
 						"Senior"
 					],
 					[
@@ -518,12 +550,9 @@
 					"Ensemble - Harmonica": "Accomplishment",
 					"Ensemble - Strings": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Brownies": "Silver",
-					"Girls' Brigade": "Gold"
-				}
-			}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {}
 		}
 	},
 	"postalCode": "659163"

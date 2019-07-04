@@ -17,7 +17,10 @@
 	"bus": "241",
 	"GeneralInformation": {
 		"Principal": "MDM LEE YEW KOON TONNINE",
-		"Vice Principal": "MR SYAMSUL ANWAR BIN AWANG",
+		"Vice Principal": [
+			"MR SYAMSUL ANWAR BIN AWANG",
+			"MDM CHAN YEE CHIN WILNA"
+		],
 		"Vice Principal (Admin)": "MR GOH GIN HOWE",
 		"School Vision": "Confident Thinkers. Adaptable Learners.Passionate Leaders.",
 		"School Mission": "We develop every Frontierer to reflect deeply, embrace differences and serve as a role model to overcome future challenges.",
@@ -43,6 +46,7 @@
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
+		"HIGHER TAMIL",
 		"MALAY",
 		"MATHEMATICS",
 		"MUSIC",
@@ -71,8 +75,8 @@
 			"Ensemble - String"
 		],
 		"Clubs & Societies": [
-			"Library",
-			"Media Resource And It Club"
+			"Environmental Club",
+			"Robotics/New Media Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -119,9 +123,7 @@
 					"Dance - International": "Distinction",
 					"Ensemble - Strings": "Commendation"
 				},
-				"Best Unit Award": {
-					"Red Cross": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"SYF Arts Presentation": {
@@ -131,10 +133,7 @@
 					"Dance - International": "Distinction",
 					"Ensemble - Strings": "Commendation"
 				},
-				"Best Unit Award": {
-					"Red Cross": "Gold",
-					"Scout": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"SYF Arts Presentation": {
@@ -145,11 +144,9 @@
 					"Dance - International": "Accomplishment",
 					"Ensemble - Strings": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Red Cross": "Gold",
-					"Scout": "Gold"
-				}
-			}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {}
 		}
 	},
 	"postalCode": "648200"

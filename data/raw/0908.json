@@ -17,10 +17,7 @@
 	"bus": "66 , 157 , 174 , 174E , 506 , 178 , 941 , 174M - Night ",
 	"GeneralInformation": {
 		"Principal": "MRS TAN WAN YU",
-		"Vice Principal": [
-			"MS TNG YA WEN VALERIE",
-			"MR CHIA GUO HAO"
-		],
+		"Vice Principal": "MR CHIA GUO HAO",
 		"Vice Principal (Admin)": "MR DAVID ALLAN D'SOUZA",
 		"School Vision": "A Forward-looking Community of Learners, Thinkers and Leaders",
 		"School Mission": [
@@ -82,9 +79,9 @@
 			"Angklung Kulintang Ensemble",
 			"Art Club",
 			"Band - Symphonic",
-			"Drama Club",
-			"Indian Dance",
-			"Malay Dance",
+			"Indian Cultural Society",
+			"Malay Cultural Society",
+			"Millennian Stage",
 			"Modern Dance",
 			"New Media Club"
 		],
@@ -94,7 +91,7 @@
 			"Indian Cultural Society",
 			"Malay Cultural Society",
 			"Students' Council",
-			"Young Journalists Club"
+			"Youth Literary Society"
 		]
 	},
 	"SpecialProgrammes": {
@@ -584,7 +581,6 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art - Category C": "Recognition",
 					"Band - Concert": "Commendation",
 					"Dance - Indian": "Distinction",
 					"Dance - International": "Accomplishment",
@@ -592,7 +588,8 @@
 					"Drama - Chinese": "Commendation",
 					"Drama - English": "Distinction",
 					"Drama - Malay": "Distinction",
-					"Ensemble - Angklung / Kulintang": "Distinction"
+					"Ensemble - Angklung / Kulintang": "Distinction",
+					"Art - Category C": "Recognition"
 				}
 			},
 			"2018": {
@@ -643,7 +640,8 @@
 					"Drama - Malay": "Distinction",
 					"Ensemble - Angklung / Kulintang": "Distinction"
 				}
-			}
+			},
+			"2019": {}
 		}
 	},
 	"L1R5History": {
@@ -737,6 +735,20 @@
 			"Commerce": [
 				"9",
 				"20"
+			]
+		},
+		"2019": {
+			"Arts": [
+				"10",
+				"19"
+			],
+			"Science/IB": [
+				"6",
+				"20"
+			],
+			"Commerce": [
+				"8",
+				"19"
 			]
 		}
 	},

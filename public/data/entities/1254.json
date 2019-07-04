@@ -19,10 +19,7 @@
 	"bus": "Bus 163 & 372",
 	"GeneralInformation": {
 		"Principal": "Mdm Norliza Bte A Rahim",
-		"Vice Principal": [
-			"Mr Lua Ee Ping",
-			"Mdm Vasundhara Reddy"
-		],
+		"Vice Principal": "Mdm Vasundhara Reddy",
 		"Vice Principal (Admin)": "Mr Koh Teik Huat Christopher",
 		"School Vision": "A Community of Aspiring and Gracious Learners",
 		"School Mission": "Nurture Talents, Develop Character, Groom Leaders",
@@ -69,27 +66,26 @@
 			"Choir",
 			"Guzheng Ensemble",
 			"Handbells Ensemble",
-			"Modern Dance",
-			"Photography"
+			"Modern Dance"
 		],
 		"Clubs & Societies": [
-			"Fun Science",
-			"Green Club",
-			"Infocomm",
+			"Digital Media",
+			"Environmental Innovation",
 			"Robotics Club"
 		]
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Community Service & Student Leadership": "Serve and Lead through Environmental Education",
-			"Music & Performing Arts": "A.G.P.S Arts (Aspire, Grow, Passion and Serve through the Arts)"
+			"Music & Performing Arts/ Visual Arts & Design": "A.G.P.S Arts (Aspire, Grow, Passion and Serve through the Arts)"
 		},
 		"Special Student Development Programmes Offered": "SLEEC (Serve and Lead through Environment Education) is a programme designed to raise awareness about caring for the environment and building an eco-conscious culture among its students and staff. Over the years, structured school-wide as well as level-wide programmes have been put in place, leveraging its strong foundation in environmental education, with the aim of nurturing in our students the desired character, talent and skills in which they would be able to apply later on in life."
 	},
 	"AchievementHistory": {
 		"Primary": {
 			"2015": {
-				"Development Award": "DA (Character Development)"
+				"Development Award": "DA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"Development Award": "DA (Character Development)"
@@ -97,148 +93,10 @@
 			"2017": {
 				"Development Award": "DA (Character Development)"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Netball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "1st"
-				}
-			],
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -326,18 +184,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Bronze"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"postalCode": "544969",
@@ -363,25 +210,9 @@
 	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
-		"TOTAL VACANCY": 270,
+		"TOTAL VACANCY": 240,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
-		"VACANCY FOR PHASE 1": 230,
-		"NO. OF APPLICANTS IN PHASE 1": 100,
-		"PLACES TAKEN UP TO PHASE 1": 100,
-		"VACANCY FOR PHASE 2A1": 130,
-		"NO. OF APPLICANTS IN PHASE 2A1": 0,
-		"PLACES TAKEN UP TO PHASE 2A1": 100,
-		"VACANCY FOR PHASE 2A2": 130,
-		"NO. OF APPLICANTS IN PHASE 2A2": 3,
-		"PLACES TAKEN UP TO PHASE 2A2": 103,
-		"VACANCY FOR PHASE 2B": 84,
-		"NO. OF APPLICANTS IN PHASE 2B": 1,
-		"PLACES TAKEN UP TO PHASE 2B": 101,
-		"VACANCY FOR PHASE 2C": 169,
-		"NO. OF APPLICANTS IN PHASE 2C": 69,
-		"PLACES TAKEN UP TO PHASE 2C": 169,
-		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 101,
-		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 99
+		"VACANCY FOR PHASE 1": 200
 	},
 	"id": "1254"
 }

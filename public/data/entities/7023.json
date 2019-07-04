@@ -21,8 +21,8 @@
 	"GeneralInformation": {
 		"Principal": "Mrs Pauline Wong",
 		"Vice Principal": [
-			"Miss Wong Ker Sin",
-			"Mdm Ong Lee Lee"
+			"Mdm Ong Lee Lee",
+			"Miss Kuo Zhaoyan, Felicia"
 		],
 		"School Vision": "We are a community of Leaders and Learners for God and for Others.",
 		"School Mission": "To create a Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way.",
@@ -39,7 +39,6 @@
 		"Additional Mathematics",
 		"Art",
 		"Art Na Level",
-		"Art Nt Level",
 		"Art 'O' Level",
 		"Basic Chinese",
 		"Basic Malay",
@@ -60,6 +59,7 @@
 		"Exercise And Sports Science",
 		"Food & Nutrition",
 		"Food And Consumer Education",
+		"Food Studies, N Level",
 		"Geography",
 		"Higher Chinese",
 		"History",
@@ -127,7 +127,8 @@
 				]
 			},
 			"2016": {
-				"School Distinction Awards": "SDA"
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"School Distinction Awards": "SDA"
@@ -135,128 +136,7 @@
 			"2018": {
 				"School Distinction Awards": "SDA"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -379,13 +259,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Bronze"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

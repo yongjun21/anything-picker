@@ -23,7 +23,7 @@
 		"Vice Principal (Admin)": "Mr Chan Chee Wei",
 		"School Vision": "Thoughtful Leaders",
 		"School Mission": "We nurture students to Think, Care and Lead with P.R.I.D.E.",
-		"School Philosophy, Culture and Ethos": "In Swiss Cottage, our students learn to be Thoughtful Leaders who are principled, efficacious and transformational. They become leaders who are equipped with ethical thinking, managerial competencies, global and local awareness. Most importantly, they develop a heart to care and serve and are grounded in intellectual and character excellence. Swiss staff believes in a Character First Education that provides opportunities for all students to learn and achieve. We see ourselves as nurturers, role models and mentors to our students. We lead, care and inspire each other as colleagues. We seek to engage and collaborate with our partners for the benefit of our students. With these core beliefs, we care for every staff and student. We ensure that every lesson is a good lesson, and that every learning activity is purposeful. We encourage every staff and student to reflect and learn from every opportunity and from each other. Anchored on the Swiss Spirit of Going Far, Going Together, we forge a strong culture of care, learning and excellence.",
+		"School Philosophy, Culture and Ethos": "In Swiss Cottage, our students learn to be Thoughtful Leaders. They become leaders who are equipped with ethical thinking, managerial competencies, global and local awareness. Most importantly, they develop a heart to care and serve and are grounded in intellectual and character excellence. Swiss staff believes in a Character First Education that provides opportunities for all students to learn and achieve. We see ourselves as nurturers, role models and mentors to our students. We lead, care and inspire each other as colleagues. We seek to engage and collaborate with our partners for the benefit of our students. With these core beliefs, we care for every staff and student. We ensure that every lesson is a good lesson, and that every learning activity is purposeful. We encourage every staff and student to reflect and learn from every opportunity and from each other. Anchored on the Swiss Spirit of Going Far, Going Together, we forge a strong culture of care, learning and excellence.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -81,10 +81,10 @@
 	"Cca": {
 		"Physical Sports": [
 			"Badminton (Girls)",
-			"Basketball (Mixed)",
-			"Floorball (Mixed)",
+			"Basketball",
+			"Floorball",
 			"Football (Boys)",
-			"Tenpin Bowling (Boys)"
+			"Ten-Pin Bowling"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
@@ -97,9 +97,9 @@
 		"Visual and Performing Arts": [
 			"Chinese Dance",
 			"Chinese Orchestra",
-			"Choir",
 			"Drama",
 			"Malay Dance",
+			"Swiss Show Choir",
 			"Swiss Winds (Command Band Of The National Cadet Corps)"
 		],
 		"Clubs & Societies": [
@@ -119,123 +119,20 @@
 	"AchievementHistory": {
 		"Secondary": {
 			"2015": {
-				"Development Award": "DA (Character Development)"
+				"Development Award": "DA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
-				"Development Award": "DA (Character Development)"
+				"Development Award": "DA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				}
-			],
+			"2017": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -373,128 +270,7 @@
 					"award": "Commendation"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Air)",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Air)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Air)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Girl Guides",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Air)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

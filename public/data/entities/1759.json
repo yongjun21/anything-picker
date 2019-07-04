@@ -24,17 +24,34 @@
 			"Mdm Lim Siew Cheng Cindy"
 		],
 		"Vice Principal (Admin)": "Mr Tan Thiam Siong",
-		"School Vision": "Every Child, A Winner",
-		"School Mission": "Preparing Our Children for Life, For Service to Nation and Humanity",
-		"School Philosophy, Culture and Ethos": [
-			"The school's belief that every child can achieve success is articulated in its vision \"Every Child, A Winner\". This belief is also depicted by the star in the centre of its school crest - a symbol that embodies the school's mission to deliver an all-round education to prepare every child for life, for service to the nation and humanity. ",
-			"The school motto \"The Best From Me\" pronounces the staff's and students' strive towards excellence and high quality in their every endeavour. Underlying this achievement orientation is self-efficacy, tempered with a culture of care and sense of responsibility towards the self, the community, the nation and the environment."
-		],
+		"School Vision": "INNOVATIVE LEARNERS,  ROOTED IN VALUES",
+		"School Mission": "NURTURING INNOVATORS IN A VIBRANT COMMUNITY",
+		"School Philosophy, Culture and Ethos": "We believe in providing a holistic education to help every child discover joy of learning in a safe and caring environment.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
 	},
-	"SubjectOffered": [],
+	"SubjectOffered": [
+		"Art",
+		"Chinese",
+		"English Language",
+		"Foundation Chinese",
+		"Foundation English",
+		"Foundation Malay",
+		"Foundation Mathematics",
+		"Foundation Science",
+		"Foundation Tamil",
+		"Higher Chinese",
+		"Higher Malay",
+		"Higher Tamil",
+		"Hindi",
+		"Malay",
+		"Mathematics",
+		"Music",
+		"Science",
+		"Social Studies",
+		"Tamil"
+	],
 	"Cca": {
 		"Physical Sports": [
 			"Rugby",
@@ -71,213 +88,20 @@
 	"AchievementHistory": {
 		"Primary": {
 			"2015": {
-				"Development Award": "DA (Character Development)"
+				"Development Award": "DA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
-				"Development Award": "DA (Character Development)"
+				"Development Award": "DA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Rugby",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Rugby",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Rugby",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Rugby",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'D' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'D' Div"
-					],
-					"award": "3rd"
-				}
-			],
+			"2017": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -346,6 +170,11 @@
 				},
 				{
 					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
 					"category": "Choir",
 					"award": "Accomplishment"
 				},
@@ -362,11 +191,6 @@
 				{
 					"year": "2017",
 					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Chinese Orchestra-Full Orchestra",
 					"award": "Distinction"
 				},
 				{
@@ -400,28 +224,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Red Cross",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"postalCode": "757715",
@@ -430,7 +233,7 @@
 		1.4450436
 	],
 	"svy21": [
-		26631.96,
+		26631.95,
 		47411.1
 	],
 	"planningArea": "SB",
@@ -445,25 +248,9 @@
 	],
 	"studentCare": true,
 	"p1Registration": {
-		"TOTAL VACANCY": 210,
+		"TOTAL VACANCY": 180,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
-		"VACANCY FOR PHASE 1": 170,
-		"NO. OF APPLICANTS IN PHASE 1": 69,
-		"PLACES TAKEN UP TO PHASE 1": 69,
-		"VACANCY FOR PHASE 2A1": 101,
-		"NO. OF APPLICANTS IN PHASE 2A1": 0,
-		"PLACES TAKEN UP TO PHASE 2A1": 69,
-		"VACANCY FOR PHASE 2A2": 101,
-		"NO. OF APPLICANTS IN PHASE 2A2": 8,
-		"PLACES TAKEN UP TO PHASE 2A2": 77,
-		"VACANCY FOR PHASE 2B": 67,
-		"NO. OF APPLICANTS IN PHASE 2B": 2,
-		"PLACES TAKEN UP TO PHASE 2B": 78,
-		"VACANCY FOR PHASE 2C": 132,
-		"NO. OF APPLICANTS IN PHASE 2C": 90,
-		"PLACES TAKEN UP TO PHASE 2C": 168,
-		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 42,
-		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 31
+		"VACANCY FOR PHASE 1": 140
 	},
 	"id": "1759"
 }

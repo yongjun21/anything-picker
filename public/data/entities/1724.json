@@ -17,10 +17,8 @@
 	"bus": "74 , 147 , 165 , 112 ",
 	"GeneralInformation": {
 		"Principal": "Mr A Sivam Reddy",
-		"Vice Principal": [
-			"Mr Lee Kok Meng Clement",
-			"Mr Mohamed Yazeed Bin Mohamed Said"
-		],
+		"Vice Principal": "Mr Mohamed Yazeed Bin Mohamed Said",
+		"Vice Principal (Admin)": "Mr Yap Meng Hong",
 		"School Vision": "Every Xinminite, a confident citizen of character, ready for the future.",
 		"School Mission": "Nurturing the hearts and minds of Xinminites for a changing world.",
 		"School Philosophy, Culture and Ethos": "We are guided by the philosophy of \"Building Positive Relationships\" in our efforts to build a culture of care and collegiality.  We strive to bring the best out in every student and allow space for them to discover their talents through our Xinmin Experience.  There is a strong emphasis on character formation and inculation of values.  Through our Xinmin Experience, we build a culture of care, respect, responsibility and resilience.  A caring environment is evident where students and staff show care and concern for each other. We believe that by having close and positive relationships with our students, staff, parents and other stakeholders, our students will become confident citizens of character, who is ready for the future.",
@@ -73,48 +71,23 @@
 		"Primary": {
 			"2015": {
 				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "ODA (National Education)"
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "ODA (National Education)"
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "ODA (National Education)"
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "4th"
-				}
-			],
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -227,48 +200,7 @@
 					"award": "Distinction"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Brownies (Pack 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Brownies (Pack 1)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
-					"year": "2017",
-					"category": "Brownies (Pack 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
-					"year": "2018",
-					"category": "Brownies",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Bronze"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"postalCode": "538784",
@@ -294,21 +226,7 @@
 	"p1Registration": {
 		"TOTAL VACANCY": 210,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
-		"VACANCY FOR PHASE 1": 170,
-		"NO. OF APPLICANTS IN PHASE 1": 80,
-		"PLACES TAKEN UP TO PHASE 1": 80,
-		"VACANCY FOR PHASE 2A1": 90,
-		"NO. OF APPLICANTS IN PHASE 2A1": 0,
-		"PLACES TAKEN UP TO PHASE 2A1": 80,
-		"VACANCY FOR PHASE 2A2": 90,
-		"NO. OF APPLICANTS IN PHASE 2A2": 54,
-		"PLACES TAKEN UP TO PHASE 2A2": 133,
-		"VACANCY FOR PHASE 2B": 39,
-		"NO. OF APPLICANTS IN PHASE 2B": 21,
-		"PLACES TAKEN UP TO PHASE 2B": 153,
-		"VACANCY FOR PHASE 2C": 57,
-		"NO. OF APPLICANTS IN PHASE 2C": 82,
-		"PLACES TAKEN UP TO PHASE 2C": 210
+		"VACANCY FOR PHASE 1": 170
 	},
 	"id": "1724"
 }

@@ -25,7 +25,7 @@
 		],
 		"School Vision": "A School Of High Standards, Quality Learning and Holistic Development",
 		"School Mission": "To Nurture Students, Transform Lives and Serve the Nation",
-		"School Philosophy, Culture and Ethos": "Bedok View Secondary is a choice school in the East with a successful 40-year history with a high level of academic achievement. Our vision expresses commitment to nurturing students through holistic learning. We set the highest standards for all our students in their academic learning and we also offer a rich array of co-curricular and other learning experiences for our students to develop important 21st century competencies that will enable them to succeed in their lives. Our illustrious alumni include leaders in government and industry, professionals like doctors, lawyers and teachers and other respected members of society who have achieved success in diverse fields like sports, the arts and business. Our students have moved on to Junior Colleges, Polytechnics and ITE and have excelled in their further education, winning accolades for their achievements in these institutions. We also have a strong school-parent partnership.",
+		"School Philosophy, Culture and Ethos": "Guided by our philosophy 'Every Bedok Viewan Matters', we provide students with meaningful learning experiences both in the Academic and Co-Curricular domains. Through the Bedok Viewan experience, we want to instil a love for learning, cultivate an inquisitive mind, build good character and nurture our students to become morally upright individuals. As a school, we set high standards for all our students, developing in them important 21st century competencies and social emotional competencies which will enable them to thrive in a complex world. The school creates a culture that is nurturing and caring so that each student can realise his/her potential.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -39,8 +39,6 @@
 		"Chemistry",
 		"Chinese",
 		"Chinese B",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
 		"Computer Applications",
 		"Design & Technology",
 		"Elements Of Business Skills",
@@ -51,6 +49,8 @@
 		"Higher Chinese",
 		"Higher Malay",
 		"History",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
@@ -76,8 +76,7 @@
 		"Uniformed Groups": [
 			"Girl Guides",
 			"Ncc (Land) - Boys & Girls",
-			"Npcc",
-			"St. John Brigade"
+			"Npcc"
 		],
 		"Visual and Performing Arts": [
 			"Band - Concert",
@@ -97,7 +96,7 @@
 			"Languages & Humanities": "Global Awareness for the 21st Century @ BV",
 			"Community & Youth Leadership": "Good Values @ BV"
 		},
-		"Special Student Development Programmes Offered": "The school offers a distinctive Learning for Life Programme: 'Good Values@BV'. Our emphasis is on developing character traits in all our students, as we believe they are critical success factors for the future. On a daily basis, we uphold school rules, regulations, routines and habits, as they help students to develop Integrity, Respect, Responsibility, Service and Excellence. Character development programmes like the 'Values in Action' programme and Student Leadership development programmes are designed to grow students into good citizens in service of the nation.  We also offer an Applied Learning Programme: 'Global Awareness for the 21st Century@BV' which serves to connect academic knowledge and skills with real world knowledge. Through a structured provision of opportunities, students will be exposed to a range of global issues in view of developing skills of critical thinking, problem solving, communication and collaboration. The school focuses on student-centric programmes to nurture the whole child through quality teaching and learning. These include academic enrichment programmes such as Public Speaking, Philosophy and programmes designed to meet the learning needs of segments of students like the 'Improve Confidence and Numeracy Skills in Mathematics' programme, the Applied Theatre Programme, the Inquiry-Based Learning Programme in Geography and the Science Incubation Unit programmes to stretch students' knowledge and skills. Other holistic development programmes includes Annual Level Camps, Affective Learning in PE, Swimming and Internationalisation Programmes to various countries."
+		"Special Student Development Programmes Offered": "The school offers a distinctive Learning for Life Programme: 'Good Values@BV'. Character development programmes like the 'Values in Action' programme and Student Leadership development programme are designed to grow students into good citizens in service of the nation. We also offer an Applied Learning Programme: 'Global Awareness for the 21st Century@BV' which serves to connect academic knowledge and skills with real world knowledge. Through a structured provision of opportunities, students will be exposed to a range of global issues in view of developing skills of critical thinking, problem solving, communication and collaboration. These include Effective Communication and Broadcast Journalism. The school also focuses on student-centric programmes to nurture the whole child through quality teaching and learning. These include academic programmes such as the 'Improve Confidence and Numeracy Skills in Mathematics' programme, the Inquiry-Based Learning Programme in Geography, Science Incubation Unit programmes and Science Experiential Workshops to stretch students' knowledge and skills. Other holistic development programmes includes Annual Level Camps, Affective Learning in PE, Work Shadowing Programme and Internationalisation Programmes to various countries."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -105,39 +104,22 @@
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
-				"Development Award": "DA (Character Development)"
+				"Development Award": "DA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
-				"Development Award": "DA (Character Development)"
+				"Development Award": "DA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
-				"Development Award": "DA (Character Development)"
+				"Development Award": "DA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Sepak Takraw",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -226,17 +208,17 @@
 				},
 				{
 					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Accomplishment"
 				},
 				{
 					"year": "2017",
 					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Drama - English",
 					"award": "Accomplishment"
 				},
 				{
@@ -280,108 +262,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Land Girls)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "St John Ambulance Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Girls)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Girls)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "St John Ambulance Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Girl Guides",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Girls)",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

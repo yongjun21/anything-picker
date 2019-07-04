@@ -87,7 +87,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Languages": "Bilingual Media Studies (BMS) Programme",
-			"Community Service & Student Leadership": "Pei Chun Leaders Programme (PCLP)"
+			"Community Involvement & Student Leadership": "Pei Chun Leaders Programme (PCLP)"
 		},
 		"Special Student Development Programmes Offered": "SAP Flagship Programme - Chinese History and Culture Programme  "
 	},
@@ -102,7 +102,8 @@
 				"Development Award": [
 					"DA (Character Development)",
 					"PARTNERS (Merit)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"School Distinction Awards": "SDA",
@@ -113,7 +114,8 @@
 				"Development Award": [
 					"DA (Character Development)",
 					"PARTNERS (Merit)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"School Distinction Awards": "SDA",
@@ -121,7 +123,8 @@
 					"BPA (Staff Well-Being)",
 					"BPA (Teaching and Learning)"
 				],
-				"Development Award": "DA (Character Development)"
+				"Development Award": "DA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"School Distinction Awards": "SDA",
@@ -129,510 +132,10 @@
 					"BPA (Staff Well-Being)",
 					"BPA (Teaching and Learning)"
 				],
-				"Development Award": "DA (Character Development)"
+				"Development Award": "DA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Taekwondo (Kyorugi)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Girls",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Swimming",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'D' Div"
-					],
-					"award": "4th"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -710,38 +213,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Brownies (Pack 1)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "Brownies (Pack 1)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "Scout",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Scout",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Brownies",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Silver"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"postalCode": "319133",
@@ -767,21 +239,7 @@
 	"p1Registration": {
 		"TOTAL VACANCY": 300,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
-		"VACANCY FOR PHASE 1": 260,
-		"NO. OF APPLICANTS IN PHASE 1": 151,
-		"PLACES TAKEN UP TO PHASE 1": 149,
-		"VACANCY FOR PHASE 2A1": 111,
-		"NO. OF APPLICANTS IN PHASE 2A1": 79,
-		"PLACES TAKEN UP TO PHASE 2A1": 227,
-		"VACANCY FOR PHASE 2A2": 33,
-		"NO. OF APPLICANTS IN PHASE 2A2": 41,
-		"PLACES TAKEN UP TO PHASE 2A2": 259,
-		"VACANCY FOR PHASE 2B": 21,
-		"NO. OF APPLICANTS IN PHASE 2B": 23,
-		"PLACES TAKEN UP TO PHASE 2B": 276,
-		"VACANCY FOR PHASE 2C": 24,
-		"NO. OF APPLICANTS IN PHASE 2C": 50,
-		"PLACES TAKEN UP TO PHASE 2C": 300
+		"VACANCY FOR PHASE 1": 260
 	},
 	"id": "5602"
 }

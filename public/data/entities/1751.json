@@ -19,8 +19,10 @@
 	"bus": "Bus No. 859",
 	"GeneralInformation": {
 		"Principal": "Mr Wong Poo Mun",
-		"Vice Principal": "Mr Kirupanantha Kumar S/o Palaiyan",
-		"Vice Principal (Admin)": "Mr Kevin Patt",
+		"Vice Principal": [
+			"Mr Kirupanantha Kumar S/o Palaiyan",
+			"Ms Ho Stephanie Louise"
+		],
 		"School Vision": "A Leading Learning Organisation that Inspires and is Valued Globally",
 		"School Mission": "To provide quality holistic education which fosters life-long learning in the pursuit of excellence",
 		"School Philosophy, Culture and Ethos": [
@@ -87,109 +89,21 @@
 	"AchievementHistory": {
 		"Primary": {
 			"2015": {
-				"School Distinction Awards": "SDA"
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"School Distinction Awards": "SDA"
 			},
 			"2017": {
-				"School Distinction Awards": "SDA"
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
-				"School Distinction Awards": "SDA"
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Senior"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "3rd"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -322,23 +236,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
-					"year": "2017",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Bronze"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"postalCode": "757714",
@@ -364,21 +262,7 @@
 	"p1Registration": {
 		"TOTAL VACANCY": 210,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
-		"VACANCY FOR PHASE 1": 170,
-		"NO. OF APPLICANTS IN PHASE 1": 105,
-		"PLACES TAKEN UP TO PHASE 1": 105,
-		"VACANCY FOR PHASE 2A1": 65,
-		"NO. OF APPLICANTS IN PHASE 2A1": 0,
-		"PLACES TAKEN UP TO PHASE 2A1": 105,
-		"VACANCY FOR PHASE 2A2": 65,
-		"NO. OF APPLICANTS IN PHASE 2A2": 18,
-		"PLACES TAKEN UP TO PHASE 2A2": 123,
-		"VACANCY FOR PHASE 2B": 44,
-		"NO. OF APPLICANTS IN PHASE 2B": 78,
-		"PLACES TAKEN UP TO PHASE 2B": 166,
-		"VACANCY FOR PHASE 2C": 44,
-		"NO. OF APPLICANTS IN PHASE 2C": 126,
-		"PLACES TAKEN UP TO PHASE 2C": 210
+		"VACANCY FOR PHASE 1": 170
 	},
 	"id": "1751"
 }

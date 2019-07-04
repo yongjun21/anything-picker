@@ -26,7 +26,7 @@
 		],
 		"School Vision": "Nurturing Talents, Sharing Success",
 		"School Mission": "A school of excellence which nurtures the youths of today for the challenges of tomorrow",
-		"School Philosophy, Culture and Ethos": "Guided by our school philosophy, 'Students Our Core', the school seeks to nurture all-rounded students by offering a holistic education which develops the 5 domains; Cognitive, Aesthetics, Moral, Physical and Social domains (CAMPS). At the heart of CAMPS are the school values; Care & Concern, Self-discipline, Integrity, Resilience and Resourcefulness. Through holistic education, we hope to develop resilient learners, compassionate citizens and confident leaders and pave the way for our students to realise our school motto 'To Forge a Better Life', not only for themselves but also for others.",
+		"School Philosophy, Culture and Ethos": "Guided by our school philosophy, 'Students Our Core', the school seeks to nurture all-rounded students by offering a holistic education which develops the 5 domains; Cognitive, Aesthetics, Moral, Physical and Social domains (CAMPS). At the heart of CAMPS are the school values; Care and Concern, Self-discipline, Integrity, Resilience and Resourcefulness. Through holistic education, we hope to develop resilient learners, compassionate citizens and confident leaders and pave the way for our students to realise our school motto 'To Forge a Better Life', not only for themselves but also for others.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -37,7 +37,6 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Chinese B",
 		"Design & Technology",
 		"English Language",
 		"Food & Nutrition",
@@ -77,7 +76,7 @@
 			"Ethnic Fusion Dance"
 		],
 		"Clubs & Societies": [
-			"Library",
+			"Creative Readers Club",
 			"Media & Communications"
 		],
 		"Others": [
@@ -95,19 +94,23 @@
 		"Secondary": {
 			"2015": {
 				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "ODA (National Education)"
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "ODA (National Education)"
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "ODA (National Education)"
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "ODA (National Education)"
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
@@ -227,93 +230,7 @@
 					"award": "Distinction"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "St John Ambulance Brigade",
-					"award": "Bronze"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "Scout (Unit 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Girl Guides",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

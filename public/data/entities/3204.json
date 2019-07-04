@@ -20,8 +20,8 @@
 	"GeneralInformation": {
 		"Principal": "Mr Chua Lek Hong",
 		"Vice Principal": [
-			"Mr Darren Chong Wai Ki",
-			"Miss Tan Peiru"
+			"Miss Tan Peiru",
+			"Mr Ling Ting Liang Edmund"
 		],
 		"School Vision": "Every BPian a passionate learner, an inspiring leader",
 		"School Mission": "To ignite the joy of learning through a holistic education and develop leaders with a heart to serve",
@@ -33,20 +33,19 @@
 	},
 	"SubjectOffered": [
 		"Additional Mathematics",
-		"Art For AEP",
+		"Art",
 		"Art Na Level",
+		"Art Nt Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Biology",
 		"Chemistry",
 		"Chinese",
 		"Chinese N(A)",
-		"Civics & Moral Education",
 		"Computer Applications",
 		"Design & Technology",
 		"Elements Of Business Skills",
 		"English Language",
-		"English Language (Syll A)",
 		"English Language (Syll T)",
 		"Food & Nutrition",
 		"Food And Consumer Education",
@@ -58,9 +57,9 @@
 		"History",
 		"Humanities (Ss, Geography)",
 		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In Chinese)",
 		"Humanities (Ss, Lit In English)",
 		"Humanities (Ss, Lit In Malay)",
-		"Literature In Malay",
 		"Literature(E)",
 		"Malay",
 		"Malay N(A)",
@@ -70,7 +69,6 @@
 		"Music",
 		"Physical Education",
 		"Physics",
-		"Principles Of A/C",
 		"Principles Of Accounts",
 		"Science",
 		"Science (Chem, Bio)",
@@ -81,9 +79,8 @@
 	"Cca": {
 		"Physical Sports": [
 			"Basketball",
-			"Canoeing/Rowing/Dragon Boat",
 			"Fencing",
-			"Hockey",
+			"Floorball",
 			"Netball",
 			"Volleyball"
 		],
@@ -95,7 +92,7 @@
 			"St. John Brigade"
 		],
 		"Visual and Performing Arts": [
-			"Band - Military",
+			"Band - Concert & Military",
 			"Choir",
 			"Dance - Modern",
 			"Drama - Chinese",
@@ -114,394 +111,27 @@
 		"MOE Programmes": [
 			"Art Elective Programme"
 		],
-		"Special Student Development Programmes Offered": "The school offers a comprehensive range of distinctive programmes that complements our curriculum to provide BPians with a holistic learning experience.  The Code for Fun Programme (CFF) is offered to all BPians to enhance their information and communication technology (ICT) skills so they will be able to navigate the changing digital landscape.  The Applied Science Programme (ASP) provides an opportunity for all BPians to harness the knowledge they have learnt from different disciplines and apply it on an investigative research task that hones the inquiry and critical thinking skills and encourages them to pursue their passion in Science.  Under the Elective Programme in Malay Language in Secondary Schools (EMAS), BPians undergo a structured curriculum and local and overseas enrichment programmes to develop a deeper appreciation of the Malay Language and culture.  Through the Art Elective Programme (AEP), BPians hone and develop their aesthetic skills in various art forms including painting, ceramics, sculpturing, design digital art and mixed media.  Other special programmes to develop the desired qualities and competencies among BPians include the Leadership Development Programme, Cross-cultural Programme and Apprenticeship and Work Attachment Programmes."
+		"Special Student Development Programmes Offered": "The school offers a comprehensive range of distinctive programmes that complements our curriculum to provide BPians with a holistic learning experience.  The Code for Fun Programme (CFF) is offered to all BPians to enhance their information and communication technology (ICT) skills, enabling them to navigate the changing digital landscape competently.  The Applied Science Programme (ASP) provides an opportunity for all BPians to apply the knowledge they have acquired from various subject disciplines on an investigative research task that hones the inquiry and critical thinking skills, and encourages them to pursue their passion in Science.  In addition to the Elective Programme in Malay Language in Secondary Schools (EMAS), the school also offers the Malay Language Elective Programme (MLEP-Sec).  These programmes aim to nurture BPians to attain a high level of language proficiency in Malay, and enhance their understanding of literature and culture.  The Art Elective Programme (AEP) enables BPians to hone and develop their aesthetic skills in various art forms including painting, ceramics, sculpturing, design digital art and mixed media.  Other special programmes to develop key qualities and competencies among BPians include the Leadership Development Programme, Cross-cultural Programme and Apprenticeship and Work Attachment Programmes."
 	},
 	"AchievementHistory": {
 		"Secondary": {
 			"2015": {
-				"School Distinction Awards": "SDA"
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
-				"School Distinction Awards": "SDA"
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
-				"School Distinction Awards": "SDA"
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
-				"School Distinction Awards": "SDA"
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Netball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Volleyball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -605,21 +235,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2017",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Band-Display",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
 					"category": "Chinese Orchestra-Full Orchestra",
 					"award": "Accomplishment"
 				},
@@ -652,6 +267,21 @@
 					"year": "2017",
 					"category": "Ensemble - Gamelan",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Display",
+					"award": "Distinction"
 				},
 				{
 					"year": "2018",
@@ -704,108 +334,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "St John Ambulance Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Girl Guides",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

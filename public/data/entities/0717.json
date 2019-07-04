@@ -2,7 +2,7 @@
 	"code": "0717",
 	"name": "Tampines Meridian Junior College",
 	"levels": "J",
-	"uen": " ",
+	"uen": " T18GS0003J",
 	"logo": "./Medias/Images/Schools/logos/tn_0717.jpg",
 	"website": "http://www.tmjc.moe.edu.sg",
 	"address": "21, Pasir Ris Street 71 (518799)",
@@ -12,12 +12,18 @@
 	"fax": [
 		"63493667"
 	],
+	"email": "tmjc@moe.edu.sg",
 	"mrt": [
 		"Pasir Ris MRT"
 	],
 	"bus": "3 , 39 , 53 , 81 , 89 , 109 , 358 , 518 ",
 	"GeneralInformation": {
-		"Principal-Designate": "MISS YOONG NYOK KE PAMELA",
+		"Principal": "Miss Yoong Nyok Ke Pamela",
+		"Vice Principal": [
+			"Mr Ang Yeou Peng",
+			"Mdm Toh Lay Har"
+		],
+		"Vice Principal (Admin)": "Mr Tan Eng Poh",
 		"Type of School": "Government School / Co-ed School / Full Day",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -53,12 +59,12 @@
 		"H2 Physics",
 		"H2 Tamil Language & Literature",
 		"H2 Theatre Studies And Drama",
+		"H3 Biology",
+		"H3 Chemistry",
 		"H3 Economics",
-		"H3 Essentials Of Modern Physics",
 		"H3 Malay Language & Literature",
 		"H3 Mathematics",
-		"H3 Pharmaceutical Chemistry",
-		"H3 Proteomics",
+		"H3 Physics",
 		"Ntu Molecular Biology",
 		"Ntu Numbers & Matrices",
 		"Ntu Semiconductor Physics & Devices",
@@ -74,7 +80,7 @@
 			"Hockey",
 			"Netball",
 			"Paddlers Club",
-			"Rock Climbing",
+			"Rockwall Climbing",
 			"Shooting",
 			"Squash",
 			"Table Tennis",
@@ -88,20 +94,19 @@
 			"Choir",
 			"Culture Promotion Club",
 			"Dance (International)",
-			"Drama - English",
-			"Guitar Ensemble",
-			"Photography Club",
+			"English Drama",
+			"Ensemble - Guitar",
+			"Photographic Society",
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
 			"Debates Society",
 			"Health And Fitness Club",
-			"Interact Club",
 			"Interactive Games Club",
 			"Makers Club",
 			"Media Resource Club",
 			"Outdoor Activities Club",
-			"Students' Council"
+			"Tampines Meridian Student Council"
 		]
 	},
 	"SpecialProgrammes": {

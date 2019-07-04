@@ -4,7 +4,7 @@
 	"levels": "S",
 	"uen": " 201300697M",
 	"logo": "./Medias/Images/Schools/logos/tn_7807.jpg",
-	"website": "http://www.spectra.edu.sg",
+	"website": "https://www.spectra.edu.sg",
 	"address": "1, Woodlands Drive 64 (737758)",
 	"telephone": [
 		"64660775"
@@ -16,7 +16,7 @@
 	"mrt": [
 		"Admiralty MRT"
 	],
-	"bus": "904 , 912 , 913 , 962 , 964 , 965 , 969 ",
+	"bus": "901M , 904 , 912 , 913 , 962 , 964 , 965 , 969 ",
 	"GeneralInformation": {
 		"Principal": "Mr Krishnan Aravinthan",
 		"Vice Principal": [
@@ -76,32 +76,14 @@
 		]
 	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "The school's customized Instructional Curriculum is supported by a 1- to -1 computing programme.  The school offers the ITE Skills Subject Certificate (ISSC) as part of the upper secondary curriculum.  As part of the ISSC, students can specialise in two out of five Skills Subjects: (1) Mechanical Design & Automation, (2) Culinary & Restaurant Operations, (3) Retail & e-Commerce, (4) Internet of Things (IoT) Applications, and (5) Mobile Web Applications.  Students will also have opportunities for an Industry Experiential Programme as part of the ISSC.  In addition, the school offers Taster Modules in the above-mentioned ISSC Skills Subjects in the lower secondary curriculum.  There is a strong emphasis on Character Development of students in the school that aims to build students' confidence and social-emotional competencies.  Milestone programmes include \"I Believe\", a four-year character development programme, Equine-Assisted Learning (EQUAL), Garden-Based Service Learning Programme, Bonding Camp, Adventure Camp, Outward Bound and Cohort Overseas Cultural Immersion Programmes.  Customised programmes include Swimming, Bowling, Inline Skating, Guitar, Music Production,  Basic Song Writing & Process Drama and Champions Programme."
+		"Special Student Development Programmes Offered": "The school's customized Instructional Curriculum is supported by a 1- to -1 computing programme.  The school offers the ITE Skills Subject Certificate (ISSC) as part of the upper secondary curriculum.  As part of the ISSC, students can specialise in two out of five Skills Subjects: (1) Mechanical Design & Automation, (2) Culinary & Restaurant Operations, (3) Retail & e-Commerce, (4) Internet of Things (IoT) Applications, and (5) Mobile Web Applications.  Students will also have opportunities for an Industry Experiential Programme as part of the ISSC.  In addition, the school offers Taster Modules in the above-mentioned ISSC Skills Subjects in the lower secondary curriculum.  There is a strong emphasis on Character Development of students in the school that aims to build students' confidence and social-emotional competencies.  Milestone programmes include \"I Believe\", a four-year character development programme, Equine-Assisted Learning (EQUAL), Garden-Based Service Learning Programme, Bonding Camp, Adventure Camp, Outward Bound Singapore and Cohort Overseas Cultural Immersion Programmes.  Customised programmes include Swimming, Bowling, Guitar, Music Production, Basic Song Writing, Drama and Champions Programme."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				}
-			],
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2017",
@@ -129,18 +111,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2018",
-					"category": "Girl Guides",
-					"award": "Bronze"
-				},
-				{
-					"year": "2018",
-					"category": "NCDCC",
-					"award": "Bronze"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [],

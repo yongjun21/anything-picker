@@ -5,7 +5,7 @@
 	"uen": " T07GS3065G",
 	"logo": "./Medias/Images/Schools/logos/tn_3065.jpg",
 	"website": "http://www.kranjisec.moe.edu.sg",
-	"address": "38, Teck Whye Crescent (688945)",
+	"address": "61, Choa Chu Kang Street 51 (689333)",
 	"telephone": [
 		"67662464"
 	],
@@ -19,7 +19,10 @@
 	"bus": "302",
 	"GeneralInformation": {
 		"Principal": "Mr Goh Soon Hoe",
-		"Vice Principal": "Mr Christopher Thomas",
+		"Vice Principal": [
+			"Mr Christopher Thomas",
+			"Mdm Ong Lay Ling"
+		],
 		"Vice Principal (Admin)": "Mr Loh Kah Hong",
 		"School Vision": "Leaders with a Heart to Serve. Thinkers with the Drive to Excel.",
 		"School Mission": "Serving with heart, values and purpose to bring out the best in every child.",
@@ -45,7 +48,6 @@
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
-		"Higher Malay",
 		"History",
 		"Literature(E)",
 		"Malay",
@@ -66,11 +68,10 @@
 			"Badminton",
 			"Basketball",
 			"Football",
-			"Frisbee",
-			"Table Tennis (Girls)"
+			"Table Tennis"
 		],
 		"Uniformed Groups": [
-			"Boy's Brigade",
+			"Boys' Brigade",
 			"Girls' Brigade",
 			"Ncc (Land)",
 			"Npcc",
@@ -78,16 +79,14 @@
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
-			"K-Productions Society",
 			"Modern Dance Club",
 			"School Choir",
 			"Symphonic Band"
 		],
 		"Clubs & Societies": [
-			"Debate",
-			"Environment Service Learning (Ecos)",
-			"K-Production Technical",
-			"Media Innovation"
+			"Ldds - English",
+			"Ldds - Malay",
+			"Media Production Team"
 		]
 	},
 	"SpecialProgrammes": {
@@ -107,7 +106,8 @@
 				],
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)"
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"School Distinction Awards": "SDA",
@@ -117,7 +117,8 @@
 				],
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)"
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"School Distinction Awards": "SDA",
@@ -127,73 +128,14 @@
 				],
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)"
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
-				"Special Awards": "LHL Award for Innovation in the Normal Course"
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2018",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "4th"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -296,108 +238,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Boys' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "Girls' Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Boys' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Girls' Brigade",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
@@ -498,7 +339,7 @@
 			"upperAffiliated": null
 		}
 	],
-	"postalCode": "688945",
+	"postalCode": "689333",
 	"coordinates": [
 		103.7564934,
 		1.381694

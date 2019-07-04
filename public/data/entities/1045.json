@@ -64,14 +64,10 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Brass Band",
 			"Choir",
-			"Dance - Chinese",
-			"Dance - Indian",
-			"Dance - Malay"
+			"Percussion"
 		],
 		"Clubs & Societies": [
-			"It Club",
 			"Robotics Club"
 		]
 	},
@@ -84,23 +80,20 @@
 	"AchievementHistory": {
 		"Primary": {
 			"2015": {
-				"Development Award": "PARTNERS (Merit)"
+				"Development Award": "PARTNERS (Merit)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
-				"Development Award": "PARTNERS (Merit)"
+				"Development Award": "PARTNERS (Merit)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2018",
-					"category": "Badminton",
-					"subCategory": [
-						"Zone",
-						"Girls",
-						"Senior"
-					],
-					"award": "3rd"
-				}
-			],
+			"2017": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -209,17 +202,17 @@
 				},
 				{
 					"year": "2017",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				},
 				{
 					"year": "2017",
 					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
 					"award": "Accomplishment"
 				},
 				{
@@ -268,33 +261,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Brownies (Pack 1)",
-					"award": "Bronze"
-				},
-				{
-					"year": "2015",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
-					"year": "2017",
-					"category": "Scout",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Bronze"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"postalCode": "609476",
@@ -318,23 +285,9 @@
 	"specialNeeds": [],
 	"studentCare": true,
 	"p1Registration": {
-		"TOTAL VACANCY": 210,
+		"TOTAL VACANCY": 180,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
-		"VACANCY FOR PHASE 1": 170,
-		"NO. OF APPLICANTS IN PHASE 1": 109,
-		"PLACES TAKEN UP TO PHASE 1": 109,
-		"VACANCY FOR PHASE 2A1": 61,
-		"NO. OF APPLICANTS IN PHASE 2A1": 0,
-		"PLACES TAKEN UP TO PHASE 2A1": 109,
-		"VACANCY FOR PHASE 2A2": 61,
-		"NO. OF APPLICANTS IN PHASE 2A2": 49,
-		"PLACES TAKEN UP TO PHASE 2A2": 158,
-		"VACANCY FOR PHASE 2B": 26,
-		"NO. OF APPLICANTS IN PHASE 2B": 2,
-		"PLACES TAKEN UP TO PHASE 2B": 158,
-		"VACANCY FOR PHASE 2C": 52,
-		"NO. OF APPLICANTS IN PHASE 2C": 55,
-		"PLACES TAKEN UP TO PHASE 2C": 210
+		"VACANCY FOR PHASE 1": 140
 	},
 	"id": "1045"
 }

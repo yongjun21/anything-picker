@@ -39,9 +39,6 @@
 		"Chemistry",
 		"Chinese",
 		"Chinese N(A)",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
-		"Combined Humanities (S,L)",
 		"Computer Applications",
 		"Design & Technology",
 		"Elements Of Business Skills",
@@ -52,6 +49,9 @@
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In English)",
 		"Literature(E)",
 		"Malay",
 		"Malay N(A)",
@@ -59,6 +59,7 @@
 		"Mathematics (Syllabus A)",
 		"Mathematics (Syllabus T)",
 		"Music",
+		"Physical Education",
 		"Physics",
 		"Principles Of Accounts",
 		"Science",
@@ -77,7 +78,6 @@
 			"Volleyball"
 		],
 		"Uniformed Groups": [
-			"Girl Guides",
 			"Ncc(Air)",
 			"Npcc",
 			"Scouts",
@@ -86,6 +86,7 @@
 		"Visual and Performing Arts": [
 			"Art Club",
 			"Band - Symphonic",
+			"Chinese Drums",
 			"Choir",
 			"Dance - Modern",
 			"Drama Club",
@@ -94,7 +95,6 @@
 		],
 		"Clubs & Societies": [
 			"Audio & Video/ Pa Club",
-			"Entrepreneur Club",
 			"Infocomm Club",
 			"Library"
 		],
@@ -116,33 +116,26 @@
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
-				"Special Awards": "LHL Award for Innovation in the Normal Course"
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
-				"Special Awards": "LHL Award for Innovation in the Normal Course"
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2016",
-					"category": "Gymnastics (Artistic)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -260,113 +253,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Girl Guides (Coy 2)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NCC (Air)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Air)",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Girl Guides (Coy 1)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Air)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Girl Guides",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Air)",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Red Cross",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

@@ -17,14 +17,29 @@
 		"Tampines MRT",
 		"Tampines East MRT"
 	],
-	"bus": "3 , 4 , 9 , 12 , 17 , 19 , 21 , 28 , 29 , 34 , 37 , 39 , 59 , 81 , 291 , 518 ",
+	"bus": "3 , 4 , 9 , 12 , 17 , 18 , 19 , 21 , 28 , 29 , 34 , 37 , 39 , 59 , 81 , 291 , 518 ",
 	"GeneralInformation": {
-		"Principal": "Mr Teoh Teik Hoe",
-		"Vice Principal": "Mr Ang Johnny",
+		"Principal": "Miss Ho Susie",
+		"Vice Principal": [
+			"Mr Ang Johnny",
+			"Mr Goh Wai Min, Jason"
+		],
 		"Vice Principal (Admin)": "Mr Lee Chee Seng",
-		"School Vision": "Creative Learners, Upright Citizens, Global Thinkers",
-		"School Mission": "To nurture East Springians to be confident, vibrant, compassionate and responsible adults who are able to contribute as citizens and as individuals.",
-		"School Philosophy, Culture and Ethos": "East Spring Secondary School embraces a nurturing, synergistic and innovative staff culture. Teachers exercise duty of care and professionalism to develop students to their fullest potential in the total curriculum. Our staff are collegial and collaborative, working collectively and interdependently towards common goals for continuous improvement and excellence. To build staff capacity in their pedagogical and instructional competency, the school plans and intentionally put in place professional development sessions and reflective practices. The Instructional Programme (IP) Departments are empowered to experiment with practices to deepen student engagement in learning. The school strives to develop every student's ability and talent to the fullest to benefit the self, community and nation. We prepare our students for the 21st century by cultivating innovation and creativity, as well as competencies such as leadership and cross cultural literacy. Through these programmes, East Spring provides diverse experiences for all-round development of her student to emerge as creative learners, upright citizens and global thinkers. The expectations set for staff and students are best expressed with the tagline Aim High, Act Now, encapsulating the school belief anchored upon the school's R3ISE values.",
+		"School Vision": "Creative Learners, Upright Leaders, Global Thinkers",
+		"School Mission": [
+			"To nurture East Springians to be self-directed, compassionate citizens with a passion for excellence and",
+			"life-long learning."
+		],
+		"School Philosophy, Culture and Ethos": [
+			"At East Spring Secondary School, we strive to enable all students to uncover their strengths and experience success, through a holistic curriculum",
+			"anchored on innovative teaching and learning, as well as solid character and student leadership development. Aimed at moulding students into",
+			"future-ready learners, teaching and learning experiences are designed to promote inquiry and application in real-world contexts, leveraging",
+			"technology to stimulate students' curiosity and thinking. Character education and leadership development, infused in the school's CCE lessons",
+			"and co-curriculum, are built on the belief that every student can be progressively developed into a leader of self and person of influence who",
+			"makes a difference to the community. These outcomes are made possible with the commitment of a nurturing and synergistic staff, as well as the",
+			"support and collaboration of parents and external partners. Through the diverse learning opportunities provided by the school, we are confident",
+			"that every East Springian will emerge as a creative learner, upright leader and global thinker to meet the challenges of the 21st century."
+		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -32,36 +47,58 @@
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art",
+		"Art Na Level",
+		"Art Nt Level",
+		"Art 'O' Level",
+		"Basic Chinese",
+		"Basic Malay",
+		"Basic Tamil",
 		"Biology",
 		"Chemistry",
 		"Chinese",
 		"Chinese B",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
+		"Chinese N(A)",
 		"Computer Applications",
 		"Design & Technology",
+		"Elements Of Business Skills",
 		"English Language",
+		"English Language (Syll A)",
+		"English Language (Syll T)",
 		"Food & Nutrition",
 		"Food And Consumer Education",
+		"Food Studies, N Level",
 		"Geography",
 		"Higher Chinese",
 		"Higher Malay",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
+		"Humanities (Ss, Lit In English)",
 		"Literature(E)",
 		"Malay",
+		"Malay B",
+		"Malay N(A)",
 		"Mathematics",
+		"Mathematics (Syllabus A)",
+		"Mathematics (Syllabus T)",
 		"Music Nt Level",
+		"Physical Education",
 		"Physics",
-		"Principles Of A/C",
+		"Principles Of Accounts",
+		"Science",
+		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
-		"Tamil"
+		"Science (Syll T)",
+		"Social Studies N(T)",
+		"Tamil",
+		"Tamil B",
+		"Tamil N(A)"
 	],
 	"Cca": {
 		"Physical Sports": [
 			"Badminton",
 			"Basketball",
 			"Floorball",
-			"Netball",
-			"Softball"
+			"Netball"
 		],
 		"Uniformed Groups": [
 			"National Civil Defence Cadet Corps",
@@ -72,7 +109,7 @@
 		],
 		"Visual and Performing Arts": [
 			"Art And Craft Club",
-			"Band - Military",
+			"Band - Symphonic",
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Malay",
@@ -92,7 +129,7 @@
 			"STEM": "Harnessing Energy to Live, Work and Play",
 			"Community & Youth Leadership": "Every Student a Leader"
 		},
-		"Special Student Development Programmes Offered": "The school's Holistic Education, Character and Citizenship Education (HDCCE) framework is designed based on 21st century learner competencies and the desired student outcomes of a confident person, self-directed learner, concerned citizen, and active contributor. The Global Thinkers Programme nurtures East Springians to be globally-conscious about international issues, developing a cosmopolitan mindset through experiencing the rich diversity of cultures. The school's Applied Learning Programme (ALP) on Harnessing Energy for Real Life Application, focuses on acquisition and application of scientific knowledge and skills in real life situations to work, live and play. This unique programme allows students to acquire and apply critical thinking skills and develop dispositions of an inquiring mind. The school also seeks to develop student leadership skills through our distinctive Community Youth Leadership (CYL) Programme under the Learning for Life Programme (LLP). The programme is designed for students to lead, inspire and remain centred on core values. The tiered approach equips student with fundamental and differentiated leadership skills through formal training and experiential learning opportunities. The school offers Direct School Admission(DSA) for her distinctive programme, CYL."
+		"Special Student Development Programmes Offered": "The school's Holistic Education, Character and Citizenship Education (HDCCE) framework is designed based on 21st Century Competencies and the desired student outcomes of a confident person, self-directed learner, concerned citizen, and active contributor. Our Applied Learning Programme (ALP), 21st Century Innovators through Health Science, prepares students for the future through the learning and application of skills, concepts and knowledge related to health science. This unique programme allows students to acquire and apply critical thinking skills and develop dispositions of an inquiring mind. The school also seeks to develop student leadership skills through our distinctive Community Youth Leadership (CYL) Programme under the Learning for Life Programme (LLP). The programme, comprising both formal training and experiential learning opportunities, is designed for students to develop the self-awareness to lead self, as well as to influence others in making a difference to the community."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -100,62 +137,25 @@
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"Development Award": [
 					"DA (Character Development)",
 					"DA (National Education)"
-				]
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
-				"Special Awards": "LHL Award for Innovation in the Normal Course"
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
-				"Special Awards": "LHL Award for Innovation in the Normal Course"
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -278,108 +278,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NCDCC",
-					"award": "Silver"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "St John Ambulance Brigade",
-					"award": "Bronze"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCDCC",
-					"award": "Silver"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "St John Ambulance Brigade",
-					"award": "Bronze"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "NCDCC",
-					"award": "Silver"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "St John Ambulance Brigade",
-					"award": "Silver"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCDCC",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Bronze"
-				},
-				{
-					"year": "2018",
-					"category": "St John Ambulance Brigade",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

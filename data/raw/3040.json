@@ -21,9 +21,13 @@
 			"MISS WONG KAH WAI SHIRLEY",
 			"MR ANG CHERN KWANG KYRIS"
 		],
-		"School Vision": "A Dynamic Institution That Adds Value To All",
-		"School Mission": "To nurture Bukit Viewans to be creative, passionate and resilient learners who possess moral integrity and are responsible to self and society",
-		"School Philosophy, Culture and Ethos": "Every student matters. BVSS focuses on providing every student with a quality and meaningful school experience through a school-based total curriculum. Students enjoy learning in a positive, enriching and stimulating environment and teachers care for, grow and nurture students into wholesome, contributing and thinking individuals. Strong teacher-student relations establish an ethos of care and provide the environment to imbue students in strong moral values so that they grow and mature into confident persons, concerned citizens and active contributors - individuals with robust character and a quest for knowledge and learning.",
+		"School Vision": [
+			"Engaged Learners",
+			"Empathetic Citizens",
+			"Ethical Advocates"
+		],
+		"School Mission": "A dynamic institution that adds value to all by valuing learners, valuing learning and learning values.",
+		"School Philosophy, Culture and Ethos": "At Bukit View Secondary, we value learners as every Bukit Viewan matters. We value learning as it is an integral part of school life. Learning values is of utmost importance as it is a primary aim of education to nurture responsible students with a strong moral compass. Grounded in Positive Education that allows our students to flourish, and based on an established ethos of care, every student is provided with quality, holistic and meaningful school experiences. Students enjoy learning in a positive, enriching and stimulating environment where teachers care for, grow and nurture them to become engaged learners who are energised by their passion for learning and will come to be lifelong learners and creative problem-solvers of the future; empathetic citizens who will have the ability to understand and care about others in their community; and ethical advocates who will actively pursue causes that benefit society, ensuring their morals and values guide them as they make a difference.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -31,8 +35,6 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
-		"BIOLOGY",
-		"CHEMISTRY",
 		"CHINESE",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
@@ -53,7 +55,6 @@
 		"MALAY",
 		"MATHEMATICS",
 		"MUSIC",
-		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (PHY, CHEM)",
 		"SOCIAL STUDIES",
@@ -69,6 +70,7 @@
 			"Volleyball"
 		],
 		"Uniformed Groups": [
+			"Boys' Brigade",
 			"Girls' Brigade",
 			"Ncc (Land)",
 			"Npcc"
@@ -94,7 +96,7 @@
 			"STEM": "Clean Energy and Environmental Technology",
 			"Music & Performing Arts": "Learning the Arts, Living the Values"
 		},
-		"Special Student Development Programmes Offered": "Learning at BVSS is centred on providing an exciting range of learning experiences to develop students' passions and prepare them to be future ready. Every Secondary 1 learner will be allocated a Chromebook to allow for 1-to-1 Personal Learning Device enabled learning. BVSS believes in developing students who take ownership of their learning and collaborate effectively with others. "
+		"Special Student Development Programmes Offered": "Learning at BVSS is centred on providing meaningful learning experiences to develop students' passions and prepare them for the future. Every student will have access to a Chromebook. The use of 1-to-1 Personal Learning Device (PLD)-enabled learning expands learning beyond the classroom, and gives students the opportunity to take ownership of their learning and to collaborate effectively with their peers."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -107,6 +109,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -116,22 +134,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -146,13 +196,7 @@
 						"-"
 					]
 				],
-				"Best Unit Award": {
-					"Boys' Brigade": "Bronze",
-					"Girls' Brigade": "Bronze",
-					"Ncc (Land Boys)": "Silver",
-					"Npcc": "Bronze",
-					"St John Ambulance Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2007": {
 				"SYF Central Judging": {
@@ -163,13 +207,7 @@
 					"Dance - Malay": "Silver",
 					"Drama - English": "Gold"
 				},
-				"Best Unit Award": {
-					"Girls' Brigade": "Bronze",
-					"Ncc (Land Boys)": "Silver",
-					"Ncc (Land Girls)": "Silver",
-					"Npcc": "Bronze",
-					"St John Ambulance Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2008": {
 				"SYF Central Judging": {
@@ -180,11 +218,7 @@
 					"Dance - Malay": "Silver",
 					"Drama - English": "Gold"
 				},
-				"Best Unit Award": {
-					"Girls' Brigade": "Silver",
-					"Ncc (Land Boys)": "Silver",
-					"Npcc (Land)": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2009": {
 				"Sports & Games Competition": [
@@ -194,6 +228,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -203,22 +253,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -241,12 +323,7 @@
 					"Dance - International": "Silver",
 					"Dance - Malay": "Silver"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girls' Brigade": "Silver",
-					"Ncc (Land Boys)": "Silver",
-					"Npcc": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2010": {
 				"SYF Central Judging": {
@@ -257,12 +334,7 @@
 					"Dance - International": "Silver",
 					"Dance - Malay": "Silver"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girls' Brigade": "Silver",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2011": {
 				"Development Award": "DA (Character Development)",
@@ -276,12 +348,7 @@
 					"Dance - Malay": "Silver",
 					"Drama - English": "Silver"
 				},
-				"Best Unit Award": {
-					"Girls' Brigade": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Silver",
-					"Boys' Brigade": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2012": {
 				"Development Award": "DA (Character Development)",
@@ -299,12 +366,7 @@
 					"Dance - Malay": "Silver",
 					"Drama - English": "Silver"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girls' Brigade": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2013": {
 				"Development Award": "DA (Character Development)",
@@ -321,12 +383,7 @@
 					"Dance - International": "Accomplishment",
 					"Drama - English": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girls' Brigade": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2014": {
 				"Development Award": "DA (Character Development)",
@@ -339,12 +396,7 @@
 					"Dance - International": "Accomplishment",
 					"Drama - English": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Gold",
-					"Girls' Brigade": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2015": {
 				"SYF Arts Presentation": {
@@ -355,12 +407,7 @@
 					"Dance - International": "Accomplishment",
 					"Drama - English": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girls' Brigade": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"SYF Arts Presentation": {
@@ -371,12 +418,7 @@
 					"Dance - International": "Accomplishment",
 					"Drama - English": "Distinction"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girls' Brigade": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"SYF Arts Presentation": {
@@ -387,12 +429,7 @@
 					"Dance - International": "Accomplishment",
 					"Drama - English": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Silver",
-					"Girls' Brigade": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"SYF Arts Presentation": {
@@ -402,13 +439,9 @@
 					"Dance - International": "Accomplishment",
 					"Drama - English": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Boys' Brigade": "Bronze",
-					"Girls' Brigade": "Gold",
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Gold"
-				}
-			}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -636,6 +669,18 @@
 			],
 			"Normal Academic": [
 				"158",
+				"199",
+				"None-posted"
+			]
+		},
+		"2019": {
+			"Express": [
+				"211",
+				"238",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"161",
 				"199",
 				"None-posted"
 			]

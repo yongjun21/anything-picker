@@ -17,8 +17,10 @@
 	"bus": "Sengkang and Toa Payoh interchange - no 163 , Along Yio Chu Kang Road , - no 70 , 86 , 103 and 854.Punggol Temp Interchange to Bishan Interchange - Bus 50 ",
 	"GeneralInformation": {
 		"Principal": "MR GAU POH TECK",
-		"Vice Principal": "MR LIM JIT HIN",
-		"Vice Principal (Admin)": "MDM MARY YAP PEI IMM",
+		"Vice Principal": [
+			"MR LIM JIT HIN",
+			"MISS SABARIAH BTE SUBARI"
+		],
 		"School Vision": [
 			"Vibrant School",
 			"Culture of Care",
@@ -47,11 +49,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Music & Performing Arts": [
-				"ICAR",
-				null,
-				"E THROUGH THE ARTS"
-			]
+			"Music & Performing Arts/ Visual Arts & Design": "ICAR2E THROUGH THE ARTS"
 		},
 		"Special Student Development Programmes Offered": "Speech & Drama"
 	},
@@ -104,7 +102,8 @@
 					"Ensemble - Guzheng": "Accomplishment",
 					"Ensemble - Strings": "Accomplishment"
 				}
-			}
+			},
+			"2019": {}
 		}
 	},
 	"postalCode": "797636"

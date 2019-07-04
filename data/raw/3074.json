@@ -17,11 +17,14 @@
 	"bus": "3 , 62 , 83 , 85 , 136 , 386 ",
 	"GeneralInformation": {
 		"Principal": "MISS NG AMY",
-		"Vice Principal": "MR PETERSON JOSEPH STANLEY",
+		"Vice Principal": [
+			"MR PETERSON JOSEPH STANLEY",
+			"MR LOH CHIH HUI"
+		],
 		"Vice Principal (Admin)": "MR DEREK LEE KWANG BOON",
 		"School Vision": "Learners. Thinkers. Leaders",
 		"School Mission": "Nurturing Talents. Developing Character. Inspiring Lives",
-		"School Philosophy, Culture and Ethos": "The school believes in providing an enriching and holistic educational experience for all students. In this respect, we have designed vibrant and engaging Instructional Programmes and Co-curricular Programmes that are aligned to the school's TEACH and LEARN Protocols, incorporating active and innovative learning strategies, as well as leveraging the Environment as the 3rd Teacher. We are resolute in forging a culture of care, learning and excellence that will develop our students to be learners, thinkers and leaders. In recent years, the school has achieved outstanding results in both the academic and co-curricular areas. The stellar growth of the school has been made possible by the single-minded commitment and dedicated care of the staff, and the efforts of the School Advisory Committee, Parent Support Group and Alumni. Through the many exciting experiences in Greendale, we are confident that students will learn to embrace our school motto: Serve the community; Lead by example; and Excel in all endeavours.",
+		"School Philosophy, Culture and Ethos": "The school believes in providing an enriching and holistic educational experience for all students. In this respect, we have designed vibrant and engaging Instructional Programmes and Co-curricular Programmes that are aligned to the school's TEACH and LEARN Protocols, incorporating active and innovative learning strategies, as well as leveraging the Environment as the 3rd Teacher. We are resolute in forging a culture of care, learning and excellence that will develop our students to be Committed Learners, Critical Thinkers and Confident Leaders. In recent years, the school has achieved outstanding results in both the academic and co-curricular areas. The stellar growth of the school has been made possible by the single-minded commitment and dedicated care of the staff, and the efforts of the School Advisory Committee, Parent Support Group and Alumni. Through the many exciting experiences in Greendale, we are confident that students will learn to embrace our school motto: Serve the community; Lead by example; and Excel in all endeavours.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -93,7 +96,7 @@
 			"STEM": "SMART Living: Design. Code. Build",
 			"Sports & Outdoor Education": "Character Development through Outdoor and Adventure Education"
 		},
-		"Special Student Development Programmes Offered": "We believe that every child is unique and talented. Our Talent Development Programme (TDP) offers our students an enhanced learning experience, centred on the 3E approach of 'Exposure, Extension and Excellence'. Students are Exposed to and engaged through different learning experiences and platforms. Their learning is Extended through deepened knowledge and skills acquisition via specific and special enrichment and master classes, and finally students will be able to pursue and achieve Excellence in the cognitive, aesthetics, sporting and life skills domains through targeted activities such as national competitions etc. Through the school's Applied Learning Programme (ALP) in 'Design, Technology and Engineering', students develop in-depth knowledge in engineering and technology, while acquiring critical and inventive thinking skills concurrently. Students will learn how to Design, Code and Build through exposure to Computer Aided Design software and Arduino programming language. There will also be opportunities for them to rapid prototype their ideas through the use of 3D printers and laser cutters. Through the ALP, students will acquire 21st century skills such as design thinking, problem-solving strategies as well as creative and critical thinking techniques to solve real-world problems. In the school's Learning For Life programme (LLP), the school delivers an Outdoor and Adventure Education programme that develops students in their character attributes and specific skillsets through concrete experiences and challenges. Students step out of their comfort zones to develop qualities of resilience, initiative and self-reliance, and competencies in leadership and teamwork. They acquire a range of skills in outdoor activities (e.g. kayaking, rock-climbing, orienteering), building them up as confident leaders. All students also participate in a level camp every year to develop their physical, social, leadership and personal skills."
+		"Special Student Development Programmes Offered": "We believe that every child is unique and talented. Our Talent Development Programme offers students an enhanced learning experience, centred on the 3E approach of 'Exposure, Extension and Excellence'. Students are Exposed to and engaged through different learning experiences and platforms. Their learning is Extended through deepened knowledge and skills acquisition via specific and special enrichment classes. Finally, students will be able to pursue and achieve Excellence in the cognitive, aesthetics, sporting and life skills domains through targeted activities such as national competitions. Through the school's Applied Learning Programme (ALP) in 'Design, Technology and Engineering', students develop in-depth knowledge in engineering and technology, while acquiring critical and inventive thinking skills. Students will learn how to Design, Code and Build through exposure to Computer Aided Design software and Arduino programming language. Through the ALP, students will acquire 21st century skills such as design thinking, problem-solving strategies as well as creative and critical thinking techniques to solve real-world problems. The school's Learning For Life programme (LLP) in Outdoor and Adventure Education programme develops students in their character attributes and specific skillsets through concrete experiences and challenges. Students step out of their comfort zones to develop qualities of resilience, initiative and self-reliance, and competencies in leadership and teamwork. They acquire a range of skills in outdoor activities, building them up as confident leaders. All students participate in a level camp every year to develop their physical, social, leadership and personal skills. There will also be opportunities for students to undergo our Aspiring Leaders and Inspiring Leaders Training Programmes and Camps. The highlight of the Inspiring Leaders Training Programme is an overseas training camp."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -110,9 +113,7 @@
 					"Ensemble - Angklung / Kulintang": "Bronze",
 					"Orchestra - Chinese": "Bronze"
 				},
-				"Best Unit Award": {
-					"Red Cross": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2009": {
 				"SYF Central Judging": {
@@ -122,9 +123,7 @@
 					"Ensemble - Angklung / Kulintang": "Bronze",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Red Cross": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2010": {
 				"SYF Central Judging": {
@@ -135,11 +134,7 @@
 					"Ensemble - Angklung / Kulintang": "Bronze",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2011": {
 				"Achievement Award": "AA (Academic Value-added) (Special/Express)",
@@ -151,11 +146,7 @@
 					"Ensemble - Angklung / Kulintang": "Silver",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2012": {
 				"Sustained Achievement Award": "SAA (Uniformed Groups)",
@@ -167,11 +158,7 @@
 					"Ensemble - Angklung / Kulintang": "Silver",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2013": {
 				"Achievement Award": [
@@ -187,11 +174,7 @@
 					"Ensemble - Angklung / Kulintang": "Accomplishment",
 					"Orchestra - Chinese": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2014": {
 				"SYF Arts Presentation": {
@@ -201,11 +184,7 @@
 					"Ensemble - Angklung / Kulintang": "Accomplishment",
 					"Orchestra - Chinese": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2015": {
 				"SYF Arts Presentation": {
@@ -215,11 +194,7 @@
 					"Ensemble - Angklung / Kulintang": "Accomplishment",
 					"Orchestra - Chinese": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"SYF Arts Presentation": {
@@ -230,11 +205,7 @@
 					"Ensemble - Angklung / Kulintang": "Accomplishment",
 					"Orchestra - Chinese": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"Sports & Games Competition": [
@@ -244,6 +215,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -253,22 +240,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -291,11 +310,7 @@
 					"Drama - English": "Accomplishment",
 					"Ensemble - Angklung / Kulintang": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Sports & Games Competition": [
@@ -305,6 +320,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -314,22 +345,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -351,12 +414,9 @@
 					"Drama - English": "Accomplishment",
 					"Ensemble - Angklung / Kulintang": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Ncc (Land Boys)": "Gold",
-					"Npcc (Land)": "Gold",
-					"Red Cross": "Gold"
-				}
-			}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -579,6 +639,23 @@
 			"Normal Technical": [
 				"139",
 				"157",
+				"None-posted"
+			]
+		},
+		"2019": {
+			"Express": [
+				"210",
+				"235",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"178",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"141",
+				"158",
 				"None-posted"
 			]
 		}

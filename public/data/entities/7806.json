@@ -21,13 +21,13 @@
 	"GeneralInformation": {
 		"Principal": "Mr Seet Tiat Hee",
 		"Vice Principal": [
-			"Mr Subash Lazar",
-			"Mr Ho Kum Fai"
+			"Mr Ho Kum Fai",
+			"Mr Chan Teck Hong David"
 		],
 		"Vice Principal (Admin)": "Mr Michael John Peter Lau Chong Lum",
 		"School Vision": "Advocating a Promising Future for Every Student.",
 		"School Mission": "We are committed to providing a caring and creative learning environment that customises authentic learning experiences, builds our students' character and equips them for academic progression and employment.",
-		"School Philosophy, Culture and Ethos": "Crest Secondary School's vision underscores our firm belief in our students' potential to succeed in their areas of strength and passion, and our steadfast commitment in enabling them to realise their aspirations. As a Specialised School for Normal (Technical) students, we offer a four-year customised curriculum that integrates both academic learning and vocational training. Learning is practice-oriented, with an emphasis on skills development to better prepare our students for post-secondary learning at the Institute of Technical Education (ITE) and for future employment. Industry attachment is an important component of our students' holistic learning experience. In addition, our teachers deploy innovative pedagogies to strengthen our students' literacy and numeracy skills through real-world, ICT-enriched learning contexts. The school adopts a multi-faceted approach to develop our students as well-rounded individuals, anchored in good character and equipped with the skills and social and emotional competencies to succeed in life. The school collaborates with many partners from the industry and community to support our students' learning and holistic development. At the end of Sec 4, our students will graduate with the GCE 'N' Level Certificate and the ITE Skills Subject Certificate (ISSC).",
+		"School Philosophy, Culture and Ethos": "Crest Secondary School's vision underscores our firm belief in our students' potential to succeed in their talents, areas of strength and passion, and our steadfast commitment in enabling them to realise their aspirations. As a Specialised School for Normal (Technical) students, we offer a four-year customised curriculum that integrates both academic learning and vocational training. Learning is practice-oriented, with an emphasis on skills development to better prepare our students for post-secondary learning at the Institute of Technical Education (ITE) and for future employment. Industry attachment is an important component of our students' holistic learning experience. In addition, our teachers deploy innovative pedagogies to strengthen our students' literacy and numeracy skills through real-world, ICT-enriched learning contexts. The school adopts a multi-faceted approach to develop our students as well-rounded individuals, anchored in good character and equipped with the skills and social and emotional competencies to succeed in life. The school collaborates with many partners from the industry and community to support our students' learning and holistic development. At the end of Sec 4, our students will graduate with the GCE 'N' Level Certificate and the ITE Skills Subject Certificate (ISSC).",
 		"Type of School": "Specialised School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -37,26 +37,29 @@
 		"Basic Malay",
 		"Basic Tamil",
 		"Character & Citizenship (NT)",
+		"Culinary & Restaurant Operations",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
+		"Every Crestan Can Code",
+		"Fabulous Merchandise Display",
 		"Infocomm Technology (NT)",
-		"Isc Facility Services",
-		"Isc Hospitality Services",
-		"Isc Mechanical Servicing",
-		"Isc Retail Services",
+		"Input To Output",
+		"Internet Of Things Applications",
+		"Let's Get Connected",
+		"Link Up The World",
+		"Looks Good, Tastes Good",
 		"Mathematics (Syllabus A)",
 		"Mathematics (Syllabus T)",
+		"Mechanical Design & Automation",
+		"Mobile Web Applications",
+		"Passion To Serve",
 		"Physical Education",
+		"Retail & E-commerce",
 		"Science",
-		"Tm - Light Up The World",
-		"Tm - Fabulous Merchandise D.",
-		"Tm - Let It Flow3",
-		"Tm - Looks Good, Tastes Good",
-		"Tm - Passion To Serve",
-		"Tm - Service With A Smile",
-		"Tm - We Can Make It",
-		"Tm - Wheels Are Wonderful",
-		"Visual Arts"
+		"Service With A Smile",
+		"Visual Arts",
+		"We Can Design It",
+		"Wheels Of Wonder"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -86,22 +89,14 @@
 		]
 	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "The school offers the ITE Skills Subject Certificate (ISSC) as part of the upper secondary curriculum. As part of the ISSC, students can specialise in two out of five Skills Subjects: (1) Mechanical Design & Automation, (2) Culinary & Restaurant Operations, (3) Retail & e-Commerce, (4) Internet of Things (IoT) Applications, and (5) Mobile Web Applications. Students will also have opportunities for an Industry Experiential Programme as part of the ISSC; Relevant Taster Modules for the ISSC will be developed from 2019 onwards in accordance to the students' learning needs and profiles.  Outdoor Interdisciplinary Learning (e.g. Gardens by the Bay, Singapore Zoo, KidZania); CREST Quest Student Development Programme and Visual Arts Talent Development Programme to strengthen students' social and emotional competencies e.g. Dance & Movement, Graffiti Art, Inline Skating, Drama and Communication, Photography and Videography, Media Production; Local and Overseas Cultural Immersion and Values-In-Action Programme (Vietnam, Cambodia, Indonesia); School Twinning Programme with Meridian International Learning Experience (High School from the Philippines); Local Adventure Programme"
+		"Special Student Development Programmes Offered": "The school offers the ITE Skills Subject Certificate (ISSC) as part of the upper secondary curriculum. As part of the ISSC, students can specialise in two out of five Skills Subjects: (1) Mechanical Design & Automation, (2) Culinary & Restaurant Operations, (3) Retail & e-Commerce, (4) Internet of Things Applications, and (5) Mobile Web Applications. Students will also have opportunities for an Industry Experiential Programme as part of the ISSC; 10 Taster Modules for the ISSC are offered in the lower secondary curriculum in accordance to the students' learning needs and profiles.  Outdoor Interdisciplinary Learning at places of interest including Gardens by the Bay, Singapore Zoo, SEA Aquarium; Student Development Programme (e.g. Domino Challenge, Crestan Lions), Aesthetics Elective Programme and Visual Arts Talent Development Programme to strengthen students' social and emotional competencies e.g. Dance & Body Movement, Doodling Art, Inline Skating, Drama and Communication, Photography and Videography, Media Production; Local and Overseas Cultural Immersion and Values-In-Action Programme (Vietnam, Cambodia, Indonesia); School Twinning Programme with Meridian International Learning Experience (High School from the Philippines); Local Adventure Programme."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"Sports & Games Competition": [
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "3rd"
-				}
-			],
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -184,13 +179,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2018",
-					"category": "Girl Guides",
-					"award": "Silver"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [],

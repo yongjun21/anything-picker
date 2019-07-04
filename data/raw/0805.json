@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MR LOW CHUN MENG",
 		"Vice Principal": [
-			"MR ANG KAY YONG JEREMY",
-			"MISS WU XINPING JENNIFER"
+			"MISS WU XINPING JENNIFER",
+			"MS NG BOON MIN"
 		],
 		"Vice Principal (Admin)": "MR NING TAU YEE",
 		"School Vision": [
@@ -77,13 +77,13 @@
 		"H2 TAMIL LANGUAGE & LITERATURE",
 		"H2 TRANSLATION (CHINESE)",
 		"H3 ART",
+		"H3 CHEMISTRY",
 		"H3 CHINESE LANGUAGE & LITERATURE",
 		"H3 ECONOMICS",
-		"H3 ESSENTIALS OF MODERN PHYSICS",
 		"H3 GEOGRAPHY",
 		"H3 HISTORY",
 		"H3 MATHEMATICS",
-		"H3 PHARMACEUTICAL CHEMISTRY",
+		"H3 PHYSICS",
 		"NTU MOLECULAR BIOLOGY",
 		"NTU SEMICONDUCTOR PHYSICS & DEVICES",
 		"NUS MODERN PHYSICS",
@@ -106,7 +106,7 @@
 		"Visual and Performing Arts": [
 			"Art Elective Programme (Aep)",
 			"Choir",
-			"Dance - Modern",
+			"Dance - Modern / Street",
 			"Drama - English",
 			"Ensemble - Guzheng",
 			"Orchestra - Chinese",
@@ -115,7 +115,7 @@
 		],
 		"Clubs & Societies": [
 			"Audio & Video/ Pa Club",
-			"Bizclub",
+			"Biz Club",
 			"Channel News Nanyang (Cnny)",
 			"Chinese Literary Club",
 			"Outdoor Adventure Club",
@@ -885,13 +885,6 @@
 						"'A' Div"
 					],
 					[
-						"Badminton",
-						"-",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
 						"Football",
 						"3rd",
 						"-",
@@ -918,17 +911,24 @@
 						"1st",
 						"-",
 						"-"
+					],
+					[
+						"Badminton",
+						"-",
+						"3rd",
+						"-",
+						"-"
 					]
 				],
 				"SYF Arts Presentation": {
+					"Drama - Chinese": "Commendation",
+					"Drama - English": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
 					"Art - Category C": "Recognition(Sm)",
 					"Band - Concert": "Distinction",
 					"Chinese Orchestra-Full Orchestra": "Distinction",
 					"Choir": "Distinction",
-					"Dance - International": "Accomplishment",
-					"Drama - Chinese": "Commendation",
-					"Drama - English": "Distinction",
-					"Ensemble - Guzheng": "Distinction"
+					"Dance - International": "Accomplishment"
 				}
 			},
 			"2018": {
@@ -1008,7 +1008,8 @@
 					"Drama - English": "Commendation",
 					"Ensemble - Guzheng": "Distinction"
 				}
-			}
+			},
+			"2019": {}
 		}
 	},
 	"L1R5History": {
@@ -1098,6 +1099,20 @@
 			"Science/IB": [
 				"2",
 				"7"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2019": {
+			"Arts": [
+				"2",
+				"7"
+			],
+			"Science/IB": [
+				"2",
+				"6"
 			],
 			"Commerce": [
 				"-",

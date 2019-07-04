@@ -4,7 +4,7 @@
 	"levels": "S",
 	"uen": " T07GS7112D",
 	"logo": "./Medias/Images/Schools/logos/tn_7112.jpg",
-	"website": "https://nchs.edu.sg",
+	"website": "http://www.nchs.edu.sg",
 	"address": "20, Anchorvale Link (545079)",
 	"telephone": [
 		"64897971"
@@ -18,14 +18,14 @@
 	],
 	"bus": "43 , 83 , 85 , 109 , 156 , 159 , 161 , 163 , 372 ",
 	"GeneralInformation": {
-		"Principal": "Mr Tan Yee Kan",
+		"Principal": "Miss Siau Fong Fui",
 		"Vice Principal": [
 			"Mdm Chow Nyet Yoon",
 			"Mr Ng Teo Heng"
 		],
 		"School Vision": "A Distinctive Institution of World-Ready Thinkers and Leaders",
 		"School Mission": "To broaden the minds of NCzens, nurturing bicultural learners who lead, serve and inspire",
-		"School Philosophy, Culture and Ethos": "Nan Chiau High School provides opportunities for all students to develop their unique talents and abilities. The positive and nurturing school culture meets the emotional and physical needs of all students, and helps them fulfil their potential. The total curriculum endeavours to develop world- and future-ready students of exemplary characters. Our teachers are committed, nurturing and capable. They coach students on their way to success by setting high expectations and provide authentic learning experiences. Together with a strong SMC, committed alumni and supportive parents, Nan Chiau High School is the choice school to develop future leaders of strong moral and performance character.",
+		"School Philosophy, Culture and Ethos": "Nan Chiau High School provides opportunities for all students to develop their unique talents and abilities. The positive and nurturing school culture meets the emotional and physical needs of all students, and helps them fulfil their potential. The total curriculum endeavours to develop world- and future-ready students of exemplary characters. Our teachers are competent, committed and nurturing. They coach students on their way to success by setting high expectations and provide authentic learning experiences. Together with a strong SMC, committed alumni and supportive parents, Nan Chiau High School is the choice school to develop future leaders of strong moral and performance character.",
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese",
 		"Affiliated Schools": "Not Applicable"
@@ -114,7 +114,8 @@
 					"BPA (Teaching and Learning)"
 				],
 				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "ODA (National Education)"
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"School Distinction Awards": "SDA",
@@ -123,7 +124,8 @@
 					"BPA (Teaching and Learning)"
 				],
 				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "ODA (National Education)"
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"School Distinction Awards": "SDA",
@@ -132,7 +134,8 @@
 					"BPA (Teaching and Learning)"
 				],
 				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "ODA (National Education)"
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"School Distinction Awards": "SDA",
@@ -141,20 +144,10 @@
 					"BPA (Teaching and Learning)"
 				],
 				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "ODA (National Education)"
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2017",
-					"category": "Table Tennis",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -352,88 +345,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Scout",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

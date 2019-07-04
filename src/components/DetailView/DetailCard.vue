@@ -28,8 +28,8 @@
           <template v-if="p1Registration">
             <dt>
               {{p1Registration.year}} {{p1Registration.label}}:
-              <!-- &nbsp;<a href="https://www.moe.gov.sg/admissions/primary-one-registration/vacancies"><small>(as at {{p1Registration.lastUpdated}})</small></a> -->
-              &nbsp;<a href="https://www.moe.gov.sg/admissions/primary-one-registration/vacancies"><small style="color: red;">(application closed)</small></a>
+              &nbsp;<a href="https://beta.moe.gov.sg/primary/p1-registration/vacancies-and-balloting/"><small>(as at {{p1Registration.lastUpdated}})</small></a>
+              <!-- &nbsp;<a href="https://beta.moe.gov.sg/primary/p1-registration/vacancies-and-balloting/"><small style="color: red;">(application closed)</small></a> -->
             </dt>
             <dd>
               <table class="p1-registration">
@@ -528,14 +528,14 @@ export default {
         const placesTaken = info['PLACES TAKEN UP TO ' + max(phases)]
         const rows = [
           {label: 'Total Vacancy', value: info['TOTAL VACANCY'], class: 'text-bold'},
-          // {label: 'Reserved for Phase 2B & 2C', value: info['VACANCIES RESERVED FOR PHASE 2B AND 2C']},
+          {label: 'Reserved for Phase 2B & 2C', value: info['VACANCIES RESERVED FOR PHASE 2B AND 2C']},
           // {label: 'Reserved for Phase 2C', value: Math.floor((info['TOTAL VACANCY'] - placesTaken) / 2)},
-          {
-            label: 'Places Taken So Far',
-            value: placesTaken,
-            class: placesTaken >= info['TOTAL VACANCY'] && 'fully-booked',
-            title: 'Up until Phase 2C\nResult of Phase 2C(S) will be out on 21 August 2018'
-          },
+          // {
+          //   label: 'Places Taken So Far',
+          //   value: placesTaken,
+          //   class: placesTaken >= info['TOTAL VACANCY'] && 'fully-booked',
+          //   title: 'Up until Phase 2C\nResult of Phase 2C(S) will be out on 21 August 2018'
+          // },
           {
             values: [
               {label: 'Phase 1 applicants', value: getApplicants('PHASE 1')},
@@ -550,8 +550,8 @@ export default {
         ]
         return {
           label: 'P1 Registration Exercise',
-          year: '2018',
-          lastUpdated: '15 August 2018',
+          year: '2019',
+          lastUpdated: '2 July 2019',
           rows
         }
       }

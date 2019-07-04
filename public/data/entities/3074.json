@@ -19,11 +19,14 @@
 	"bus": "3 , 62 , 83 , 85 , 136 , 386 ",
 	"GeneralInformation": {
 		"Principal": "Miss Ng Amy",
-		"Vice Principal": "Mr Peterson Joseph Stanley",
+		"Vice Principal": [
+			"Mr Peterson Joseph Stanley",
+			"Mr Loh Chih Hui"
+		],
 		"Vice Principal (Admin)": "Mr Derek Lee Kwang Boon",
 		"School Vision": "Learners. Thinkers. Leaders",
 		"School Mission": "Nurturing Talents. Developing Character. Inspiring Lives",
-		"School Philosophy, Culture and Ethos": "The school believes in providing an enriching and holistic educational experience for all students. In this respect, we have designed vibrant and engaging Instructional Programmes and Co-curricular Programmes that are aligned to the school's TEACH and LEARN Protocols, incorporating active and innovative learning strategies, as well as leveraging the Environment as the 3rd Teacher. We are resolute in forging a culture of care, learning and excellence that will develop our students to be learners, thinkers and leaders. In recent years, the school has achieved outstanding results in both the academic and co-curricular areas. The stellar growth of the school has been made possible by the single-minded commitment and dedicated care of the staff, and the efforts of the School Advisory Committee, Parent Support Group and Alumni. Through the many exciting experiences in Greendale, we are confident that students will learn to embrace our school motto: Serve the community; Lead by example; and Excel in all endeavours.",
+		"School Philosophy, Culture and Ethos": "The school believes in providing an enriching and holistic educational experience for all students. In this respect, we have designed vibrant and engaging Instructional Programmes and Co-curricular Programmes that are aligned to the school's TEACH and LEARN Protocols, incorporating active and innovative learning strategies, as well as leveraging the Environment as the 3rd Teacher. We are resolute in forging a culture of care, learning and excellence that will develop our students to be Committed Learners, Critical Thinkers and Confident Leaders. In recent years, the school has achieved outstanding results in both the academic and co-curricular areas. The stellar growth of the school has been made possible by the single-minded commitment and dedicated care of the staff, and the efforts of the School Advisory Committee, Parent Support Group and Alumni. Through the many exciting experiences in Greendale, we are confident that students will learn to embrace our school motto: Serve the community; Lead by example; and Excel in all endeavours.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -92,32 +95,23 @@
 			"STEM": "SMART Living: Design. Code. Build",
 			"Sports & Outdoor Education": "Character Development through Outdoor and Adventure Education"
 		},
-		"Special Student Development Programmes Offered": "We believe that every child is unique and talented. Our Talent Development Programme (TDP) offers our students an enhanced learning experience, centred on the 3E approach of 'Exposure, Extension and Excellence'. Students are Exposed to and engaged through different learning experiences and platforms. Their learning is Extended through deepened knowledge and skills acquisition via specific and special enrichment and master classes, and finally students will be able to pursue and achieve Excellence in the cognitive, aesthetics, sporting and life skills domains through targeted activities such as national competitions etc. Through the school's Applied Learning Programme (ALP) in 'Design, Technology and Engineering', students develop in-depth knowledge in engineering and technology, while acquiring critical and inventive thinking skills concurrently. Students will learn how to Design, Code and Build through exposure to Computer Aided Design software and Arduino programming language. There will also be opportunities for them to rapid prototype their ideas through the use of 3D printers and laser cutters. Through the ALP, students will acquire 21st century skills such as design thinking, problem-solving strategies as well as creative and critical thinking techniques to solve real-world problems. In the school's Learning For Life programme (LLP), the school delivers an Outdoor and Adventure Education programme that develops students in their character attributes and specific skillsets through concrete experiences and challenges. Students step out of their comfort zones to develop qualities of resilience, initiative and self-reliance, and competencies in leadership and teamwork. They acquire a range of skills in outdoor activities (e.g. kayaking, rock-climbing, orienteering), building them up as confident leaders. All students also participate in a level camp every year to develop their physical, social, leadership and personal skills."
+		"Special Student Development Programmes Offered": "We believe that every child is unique and talented. Our Talent Development Programme offers students an enhanced learning experience, centred on the 3E approach of 'Exposure, Extension and Excellence'. Students are Exposed to and engaged through different learning experiences and platforms. Their learning is Extended through deepened knowledge and skills acquisition via specific and special enrichment classes. Finally, students will be able to pursue and achieve Excellence in the cognitive, aesthetics, sporting and life skills domains through targeted activities such as national competitions. Through the school's Applied Learning Programme (ALP) in 'Design, Technology and Engineering', students develop in-depth knowledge in engineering and technology, while acquiring critical and inventive thinking skills. Students will learn how to Design, Code and Build through exposure to Computer Aided Design software and Arduino programming language. Through the ALP, students will acquire 21st century skills such as design thinking, problem-solving strategies as well as creative and critical thinking techniques to solve real-world problems. The school's Learning For Life programme (LLP) in Outdoor and Adventure Education programme develops students in their character attributes and specific skillsets through concrete experiences and challenges. Students step out of their comfort zones to develop qualities of resilience, initiative and self-reliance, and competencies in leadership and teamwork. They acquire a range of skills in outdoor activities, building them up as confident leaders. All students participate in a level camp every year to develop their physical, social, leadership and personal skills. There will also be opportunities for students to undergo our Aspiring Leaders and Inspiring Leaders Training Programmes and Camps. The highlight of the Inspiring Leaders Training Programme is an overseas training camp."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"Sports & Games Competition": [
-				{
-					"year": "2017",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2018",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				}
-			],
+			"2015": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2016": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2017": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -230,68 +224,7 @@
 					"award": "Accomplishment"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2015",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2015",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2017",
-					"category": "Red Cross",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2018",
-					"category": "Red Cross",
-					"award": "Gold"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [

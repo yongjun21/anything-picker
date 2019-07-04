@@ -17,21 +17,18 @@
 	"bus": "17",
 	"GeneralInformation": {
 		"Principal": "MDM MAK LAI YING",
-		"Vice Principal": [
-			"MDM NG MEOW LENG NANCY",
-			"MDM YEE WHOY CHONG"
-		],
+		"Vice Principal": "MDM NG MEOW LENG NANCY",
 		"Vice Principal (Admin)": "MISS CHEW PING PING GRACE",
 		"School Vision": "A passionate learning community that embraces innovation and excellence within a culture of compassion.",
 		"School Mission": "To nurture and empower Canossians through a holistic curriculum to be persons of integrity committed to serve God and others.",
-		"School Philosophy, Culture and Ethos": "The 'Formation of the Heart' is central to our education programme. We focus on the holistic development of students to enable them to reach their full potential and, at the same time, develop the attitudes and habits that will make them good women committed to God, compassionate to all and cheerful in service to others. Also central to a Canossian Education is the person-centeredness of the teacher and learner. The teachers and students respect the dignity of each person - irrespective of their intellectual, emotional, social and cultural background. We believe in nurturing our students in an atmosphere of warmth and affection, yet showing firmness when necessary, so that they will grow in self-discipline and experience joy in learning. Brain-Based Learning has been deployed as a whole-school approach to teaching and learning as we believe that learning should be in accordance with the way the brain is naturally designed to learn.",
+		"School Philosophy, Culture and Ethos": "The 'Formation of the Heart' is central to our education programme.  The Canossian Brand of Education is all inclusive, seeking to ensure that each student discovers the ability to realise her full potential and bringing out the best of herself.  We aim to develop the attitudes and habits that will make our students good women committed to God, compassionate to all and cheerful in service to others.  We believe in nurturing our students in an atmosphere of warmth and affection, yet showing firmness, so that they will grow in self-discipline and experience joy in learning.  Brain-Based Learning has been deployed as a whole-school approach to teaching and learning as we believe that learning should be in accordance with the way the brain is naturally designed to learn.",
 		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS' SCHOOL / SINGLE SESSION",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
 			"CATHOLIC JUNIOR COLLEGE",
-			"CANOSSA CONVENT PRIMARY SCHOOL",
-			"ST. ANTHONY'S CANOSSIAN PRIMARY SCHOOL"
+			"ST. ANTHONY'S CANOSSIAN PRIMARY SCHOOL",
+			"CANOSSA CATHOLIC PRIMARY SCHOOL"
 		]
 	},
 	"SubjectOffered": [
@@ -43,9 +40,6 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE N(A)",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
-		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
 		"DESIGN & TECHNOLOGY",
 		"DRAMA",
@@ -56,6 +50,9 @@
 		"FOOD & NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MALAY N(A)",
@@ -108,7 +105,7 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "Performing Arts Education, which is delivered as part of the lower secondary curriculum for all students, aims to develop students with a good foundation in music and drama, as well as to promote an appreciation for the arts and aesthetics. Through this programme, students develop problem-solving abilities and thinking skills like analysing, synthesising and evaluating. This helps them identify, appreciate and deepen their understanding of the art forms of our different ethnic and other national communities. Different modes of assessment have been used to measure the level of cognitive and affective development in the subjects. Various platforms, such as the Performing Arts Showcases and Arts Alive! Concerts, have also been organised for students to display their talents by performing to the school community and stakeholders."
+		"Special Student Development Programmes Offered": "Performing Arts Education is delivered as part of the lower secondary curriculum for all students. It aims to develop students with a good foundation in music and drama, as well as to promote an appreciation for the arts. Through this programme, students develop problem-solving abilities and thinking skills like analysing, synthesising and evaluating. This helps them identify, appreciate and deepen their understanding of the art forms of our different ethnic and other national communities. Different modes of assessment have been used to measure the level of cognitive and affective development in the subjects. Various platforms, such as the Performing Arts Showcases and Arts Alive! Concerts, have also been organised for students to display their talents by performing to the school community and stakeholders."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -121,6 +118,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -130,22 +143,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -160,10 +205,7 @@
 						"-"
 					]
 				],
-				"Best Unit Award": {
-					"Girl Guides": "Bronze",
-					"St John Ambulance Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2007": {
 				"Sports & Games Competition": [
@@ -173,6 +215,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -182,22 +240,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -233,9 +323,7 @@
 					"Ensemble - Guitar": "Gold (Hons)",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2008": {
 				"Sports & Games Competition": [
@@ -245,6 +333,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -254,22 +358,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -294,10 +430,7 @@
 					"Ensemble - Guitar": "Gold (Hons)",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Bronze",
-					"St John Ambulance Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2009": {
 				"Sports & Games Competition": [
@@ -307,6 +440,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -316,22 +465,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -356,9 +537,7 @@
 					"Ensemble - Guitar": "Gold",
 					"Orchestra - Chinese": "Gold"
 				},
-				"Best Unit Award": {
-					"St John Ambulance Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2010": {
 				"Sports & Games Competition": [
@@ -368,6 +547,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -377,22 +572,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -417,10 +644,7 @@
 					"Ensemble - Guitar": "Gold",
 					"Orchestra - Chinese": "Gold"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Bronze",
-					"St John Ambulance Brigade": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2011": {
 				"School Distinction Awards": "SDA",
@@ -442,10 +666,7 @@
 					"Ensemble - Guitar": "Gold",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Bronze",
-					"St John Ambulance Brigade": "Gold"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2012": {
 				"School Distinction Awards": "SDA",
@@ -466,10 +687,7 @@
 					"Ensemble - Guitar": "Gold",
 					"Orchestra - Chinese": "Silver"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Silver",
-					"St John Ambulance Brigade": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2013": {
 				"School Distinction Awards": "SDA",
@@ -489,10 +707,7 @@
 					"Ensemble - Angklung / Kulintang": "Accomplishment",
 					"Ensemble - Guitar": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Silver",
-					"St John Ambulance Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2014": {
 				"SYF Arts Presentation": {
@@ -504,9 +719,7 @@
 					"Ensemble - Angklung / Kulintang": "Accomplishment",
 					"Ensemble - Guitar": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Silver"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2015": {
 				"SYF Arts Presentation": {
@@ -518,9 +731,7 @@
 					"Ensemble - Angklung / Kulintang": "Distinction",
 					"Ensemble - Guitar": "Distinction"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2016": {
 				"School Distinction Awards": "SDA",
@@ -533,10 +744,7 @@
 					"Ensemble - Angklung / Kulintang": "Distinction",
 					"Ensemble - Guitar": "Distinction"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Bronze",
-					"St John Ambulance Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2017": {
 				"School Distinction Awards": "SDA",
@@ -547,6 +755,22 @@
 						"National",
 						"National",
 						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
 						"Zone",
 						"Zone",
 						"Zone",
@@ -556,22 +780,54 @@
 						"",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls",
 						"Boys",
 						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
 						"Girls",
 						"Girls"
 					],
 					[
 						"",
 						"'B' Div",
-						"'C' Div",
+						"'B' Div",
 						"'B' Div",
 						"'C' Div",
-						"'B' Div",
+						"'C' Div",
 						"'C' Div",
 						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
 						"'C' Div"
 					],
 					[
@@ -596,10 +852,7 @@
 					"Ensemble - Angklung / Kulintang": "Distinction",
 					"Ensemble - Guitar": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Girl Guides (Coy 1)": "Gold",
-					"St John Ambulance Brigade": "Bronze"
-				}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"School Distinction Awards": "SDA",
@@ -613,10 +866,9 @@
 					"Ensemble - Angklung / Kulintang": "Distinction",
 					"Ensemble - Guitar": "Accomplishment"
 				},
-				"Best Unit Award": {
-					"Girl Guides": "Gold"
-				}
-			}
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -897,6 +1149,26 @@
 				"148",
 				"118",
 				"154"
+			]
+		},
+		"2019": {
+			"Express": [
+				"227",
+				"249",
+				"188",
+				"243"
+			],
+			"Normal Academic": [
+				"172",
+				"195",
+				"152",
+				"195"
+			],
+			"Normal Technical": [
+				"111",
+				"150",
+				"125",
+				"151"
 			]
 		}
 	},

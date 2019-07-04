@@ -19,10 +19,8 @@
 	"bus": "812 (next to bus service number 171) at Yishun Interchange",
 	"GeneralInformation": {
 		"Principal": "Mr Tan Choon Kheng",
-		"Vice Principal": [
-			"Mdm Neo Aik Seo",
-			"Mr Ng Kian Woon"
-		],
+		"Vice Principal": "Mdm Neo Aik Seo",
+		"Vice Principal (Admin)": "Mr Fong Kim Wah",
 		"School Vision": "Firm Foundations, Future Learnings",
 		"School Mission": "To build a firm foundation in each child, enabling him to grow, serve and excel.",
 		"School Philosophy, Culture and Ethos": [
@@ -108,33 +106,13 @@
 				"School Distinction Awards": "SDA"
 			},
 			"2017": {
-				"School Distinction Awards": "SDA"
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"School Distinction Awards": "SDA"
 			},
-			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Basketball",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"Junior"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2017",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "4th"
-				}
-			],
+			"Sports & Games Competition": [],
 			"SYF": [
 				{
 					"year": "2015",
@@ -287,13 +265,7 @@
 					"award": "Commendation"
 				}
 			],
-			"Best Unit Award": [
-				{
-					"year": "2017",
-					"category": "Scout",
-					"award": "Silver"
-				}
-			]
+			"Best Unit Award": []
 		}
 	},
 	"postalCode": "769026",
@@ -302,7 +274,7 @@
 		1.4213032
 	],
 	"svy21": [
-		28831.52,
+		28831.53,
 		44786
 	],
 	"planningArea": "YS",
@@ -320,21 +292,7 @@
 	"p1Registration": {
 		"TOTAL VACANCY": 240,
 		"VACANCIES RESERVED FOR PHASE 2B AND 2C": 40,
-		"VACANCY FOR PHASE 1": 200,
-		"NO. OF APPLICANTS IN PHASE 1": 119,
-		"PLACES TAKEN UP TO PHASE 1": 119,
-		"VACANCY FOR PHASE 2A1": 81,
-		"NO. OF APPLICANTS IN PHASE 2A1": 10,
-		"PLACES TAKEN UP TO PHASE 2A1": 129,
-		"VACANCY FOR PHASE 2A2": 71,
-		"NO. OF APPLICANTS IN PHASE 2A2": 57,
-		"PLACES TAKEN UP TO PHASE 2A2": 186,
-		"VACANCY FOR PHASE 2B": 27,
-		"NO. OF APPLICANTS IN PHASE 2B": 24,
-		"PLACES TAKEN UP TO PHASE 2B": 208,
-		"VACANCY FOR PHASE 2C": 32,
-		"NO. OF APPLICANTS IN PHASE 2C": 194,
-		"PLACES TAKEN UP TO PHASE 2C": 240
+		"VACANCY FOR PHASE 1": 200
 	},
 	"id": "1729"
 }

@@ -43,7 +43,6 @@
 		"H1 Economics",
 		"H1 French Language",
 		"H1 General Paper",
-		"H1 General Studies In Chinese",
 		"H1 Geography",
 		"H1 German Language",
 		"H1 History",
@@ -72,15 +71,17 @@
 		"H2 Mathematics",
 		"H2 Music",
 		"H2 Physics",
+		"H2 Spanish",
 		"H2 Tamil Language & Literature",
+		"H2 Translation (Chinese)",
 		"H3 Art",
+		"H3 Chemistry",
 		"H3 Chinese Language & Literature",
 		"H3 Economics",
 		"H3 Geography",
 		"H3 History",
 		"H3 Literature In English",
 		"H3 Music",
-		"H3 Pharmaceutical Chemistry",
 		"Ntu Science Research (Bio)",
 		"Ntu Science Research (Chem)",
 		"Ntu Science Research (Math)",
@@ -101,23 +102,27 @@
 			"Hockey (Girls)",
 			"Netball (Girls)",
 			"Softball",
-			"Squash",
-			"Swimming",
+			"Squash (Girls)",
 			"Table Tennis",
 			"Tennis",
 			"Track & Field",
+			"Ultimate Frisbee",
 			"Volleyball"
 		],
 		"Visual and Performing Arts": [
+			"Art Club",
 			"Chinese Orchestra",
 			"Choir",
 			"Dance",
 			"Drama",
-			"Symphonic Band"
+			"Symphonic Band",
+			"Visual Arts Club"
 		],
 		"Clubs & Societies": [
 			"Computing & Robotics",
 			"Debate",
+			"Environmental Club",
+			"Library Club",
 			"Media",
 			"Outdoor Adventure (Odac)",
 			"Service Learning"
@@ -128,9 +133,10 @@
 	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
-			"Integrated Programme"
+			"Integrated Programme",
+			"Music Elective Programme"
 		],
-		"Special Student Development Programmes Offered": "Environmental Literacy Programme"
+		"Special Student Development Programmes Offered": "Bicultural Studies Programme"
 	},
 	"AchievementHistory": {
 		"Junior College": {
