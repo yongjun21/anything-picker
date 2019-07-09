@@ -1,6 +1,7 @@
 const axios = require('axios')
 const cheerio = require('cheerio')
 const tableparser = require('cheerio-tableparser')
+const {sheets} = require('@st-graphics/backend/client/googleapis')
 const {html2json} = require('html2json')
 
 exports.scrapSpecialNeeds = function () {
@@ -159,6 +160,27 @@ function parseNewSchools (table) {
 }
 
 exports.scrapVacancies = function () {
+  const params = {
+    spreadsheetId: '1FkiEeKefC6_QOaDk9J7Bp_2dKNrYNZzAyJu-1UEMdPs',
+    range: "'2019 raw'!A1:S"
+  }
+  return sheets.spreadsheets.values.download(params).then(res => {
+    const vacancies = {}
+    res.data.values.forEach(row => {
+      const school = row['SCHOOL']
+      delete row['SCHOOL']
+      Object.keys(row).forEach(prop => {
+        if (row[prop] == null) return
+        row[prop] = +row[prop]
+      })
+      vacancies[school] = row
+    })
+    return vacancies
+  })
+}
+
+/*
+exports.scrapVacancies = function () {
   const url = 'https://www.moe.gov.sg/admissions/primary-one-registration/vacancies'
   return axios.get(url, {responseType: 'text'})
     .then(res => cheerio.load(res.data))
@@ -189,5 +211,4 @@ function parseVacancies ($) {
 function removeArtifacts (str) {
   return str.trim().replace(/&nbsp;/g, '').replace(/\u200b/g, '').replace(/\s\s+/g, ' ')
 }
-
-// https://www.moe.gov.sg/admissions/primary-one-registration/balloting
+*/

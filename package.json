@@ -35,6 +35,7 @@
     ]
   },
   "devDependencies": {
+    "@st-graphics/backend": "^0.1.47",
     "@turf/buffer": "^3.11.7",
     "@turf/union": "^3.10.5",
     "autoprefixer": "^6.7.3",
