@@ -4,7 +4,7 @@ var ExtractTextPlugin = require('extract-text-webpack-plugin')
 
 module.exports = {
   entry: [
-    'webpack-dev-server/client?http://localhost:9000',
+    'webpack-dev-server/client?http://localhost:8080',
     'webpack/hot/only-dev-server',
     './src/style/base.styl',
     './src/index.js'
@@ -61,7 +61,7 @@ module.exports = {
     }
   },
   devServer: {
-    port: 9000,
+    port: 8080,
     contentBase: path.join(__dirname, '/public'),
     hot: true,
     historyApiFallback: true,

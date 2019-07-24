@@ -2,9 +2,8 @@
   "name": "datagovsg-school-picker",
   "version": "1.0.0",
   "description": "A data.gov.sg opensource project",
-  "main": "dist/server.js",
+  "main": "src/index.js",
   "scripts": {
-    "start": "npm run start-server",
     "dev": "webpack-dev-server --config ./webpack.config.js --colors --progress",
     "build": "webpack --config ./webpack.prod.config.js --colors --progress",
     "deploy:functions": "bin/deploy-functions.sh",
