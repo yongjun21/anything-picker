@@ -94,9 +94,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2015": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -108,31 +105,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2016",
 					"category": "Band - Concert",
@@ -224,30 +196,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2015",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 237,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 188,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Technical",
-			"lower": 96,
-			"upper": 151,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2016",
 			"programme": "Express",
 			"lower": 189,
@@ -315,6 +263,30 @@
 			"year": "2018",
 			"programme": "Normal Technical",
 			"lower": 123,
+			"upper": 155,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 235,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 182,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Technical",
+			"lower": 118,
 			"upper": 155,
 			"lowerAffiliated": null,
 			"upperAffiliated": null

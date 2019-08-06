@@ -89,10 +89,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2015": {
-				"Development Award": "DA (National Education)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"Development Award": "DA (National Education)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -107,41 +103,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
 				{
 					"year": "2016",
 					"category": "Art - Category A",
@@ -280,7 +241,10 @@
 		"NO. OF APPLICANTS IN PHASE 2A2": 20,
 		"PLACES TAKEN UP TO PHASE 2A2": 89,
 		"VACANCY FOR PHASE 2B": 61,
-		"NO. OF APPLICANTS IN PHASE 2B": 2
+		"NO. OF APPLICANTS IN PHASE 2B": 2,
+		"PLACES TAKEN UP TO PHASE 2B": 91,
+		"VACANCY FOR PHASE 2C": 119,
+		"NO. OF APPLICANTS IN PHASE 2C": 85
 	},
 	"id": "1747"
 }

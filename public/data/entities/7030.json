@@ -117,16 +117,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2015": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": "BPA (Teaching and Learning)",
-				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"Outstanding PARTNERS"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -141,46 +131,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
 				{
 					"year": "2016",
 					"category": "Art - Category A",
@@ -322,22 +272,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2015",
-			"programme": "Integrated Programme",
-			"lower": 256,
-			"upper": 268,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2015",
-			"programme": "'O' Level Programme",
-			"lower": 247,
-			"upper": 256,
-			"lowerAffiliated": 221,
-			"upperAffiliated": 260
-		},
-		{
 			"year": "2016",
 			"programme": "Integrated Programme",
 			"lower": 261,
@@ -384,6 +318,22 @@
 			"upper": 263,
 			"lowerAffiliated": 220,
 			"upperAffiliated": 262
+		},
+		{
+			"year": "2019",
+			"programme": "Integrated Programme",
+			"lower": 258,
+			"upper": 271,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "'O' Level Programme",
+			"lower": 254,
+			"upper": 258,
+			"lowerAffiliated": 220,
+			"upperAffiliated": 258
 		}
 	],
 	"postalCode": "599986",

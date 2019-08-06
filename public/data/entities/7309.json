@@ -108,12 +108,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2015": {
-				"School Distinction Awards": "SDA",
-				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"School Distinction Awards": "SDA",
 				"Development Award": "DA (National Education)",
@@ -134,31 +128,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2016",
 					"category": "Band - Concert",
@@ -240,30 +209,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2015",
-			"programme": "Express",
-			"lower": 241,
-			"upper": 253,
-			"lowerAffiliated": 200,
-			"upperAffiliated": 251
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Academic",
-			"lower": null,
-			"upper": null,
-			"lowerAffiliated": 178,
-			"upperAffiliated": 199
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Technical",
-			"lower": 121,
-			"upper": 159,
-			"lowerAffiliated": 119,
-			"upperAffiliated": 156
-		},
-		{
 			"year": "2016",
 			"programme": "Express",
 			"lower": 243,
@@ -333,6 +278,30 @@
 			"lower": 119,
 			"upper": 158,
 			"lowerAffiliated": 120,
+			"upperAffiliated": 157
+		},
+		{
+			"year": "2019",
+			"programme": "Express",
+			"lower": 242,
+			"upper": 249,
+			"lowerAffiliated": 200,
+			"upperAffiliated": 257
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Academic",
+			"lower": null,
+			"upper": null,
+			"lowerAffiliated": 181,
+			"upperAffiliated": 199
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Technical",
+			"lower": 128,
+			"upper": 155,
+			"lowerAffiliated": 148,
 			"upperAffiliated": 157
 		}
 	],

@@ -100,9 +100,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2015": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -114,26 +111,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Commendation"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2016",
 					"category": "Band - Concert",
@@ -210,30 +187,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2015",
-			"programme": "Express",
-			"lower": 202,
-			"upper": 233,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Academic",
-			"lower": 166,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Technical",
-			"lower": 127,
-			"upper": 154,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2016",
 			"programme": "Express",
 			"lower": 194,
@@ -302,6 +255,30 @@
 			"programme": "Normal Technical",
 			"lower": 122,
 			"upper": 156,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "Express",
+			"lower": 193,
+			"upper": 234,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Academic",
+			"lower": 162,
+			"upper": 195,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Technical",
+			"lower": 123,
+			"upper": 155,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

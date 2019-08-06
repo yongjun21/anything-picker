@@ -84,10 +84,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2015": {
-				"Development Award": "DA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"Development Award": "DA (Character Development)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -102,31 +98,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
 				{
 					"year": "2016",
 					"category": "Dance - Chinese",
@@ -248,7 +219,10 @@
 		"NO. OF APPLICANTS IN PHASE 2A2": 3,
 		"PLACES TAKEN UP TO PHASE 2A2": 28,
 		"VACANCY FOR PHASE 2B": 46,
-		"NO. OF APPLICANTS IN PHASE 2B": 0
+		"NO. OF APPLICANTS IN PHASE 2B": 0,
+		"PLACES TAKEN UP TO PHASE 2B": 28,
+		"VACANCY FOR PHASE 2C": 92,
+		"NO. OF APPLICANTS IN PHASE 2C": 15
 	},
 	"id": "1735"
 }

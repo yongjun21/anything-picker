@@ -87,15 +87,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2015": {
-				"Special Awards": "LHL Award for Innovation in the Normal Course",
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"ODA (National Education)",
-					"Outstanding PARTNERS"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Outstanding Development Award": [
@@ -125,41 +116,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Band - Display / Marching",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Commendation"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guzheng",
-					"award": "Commendation"
-				},
 				{
 					"year": "2016",
 					"category": "Band - Concert",
@@ -251,30 +207,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2015",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 227,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 183,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Technical",
-			"lower": 107,
-			"upper": 150,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2016",
 			"programme": "Express",
 			"lower": 190,
@@ -343,6 +275,30 @@
 			"programme": "Normal Technical",
 			"lower": 108,
 			"upper": 154,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 245,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 196,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Technical",
+			"lower": 108,
+			"upper": 151,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

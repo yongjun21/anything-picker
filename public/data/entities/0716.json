@@ -120,7 +120,26 @@
 			"Best Unit Award": []
 		}
 	},
-	"L1R5History": [],
+	"L1R5History": [
+		{
+			"year": "2019",
+			"programme": "Arts",
+			"lower": 10,
+			"upper": 20
+		},
+		{
+			"year": "2019",
+			"programme": "Science/IB",
+			"lower": 7,
+			"upper": 19
+		},
+		{
+			"year": "2019",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		}
+	],
 	"postalCode": "768675",
 	"specialNeeds": [],
 	"id": "0716"

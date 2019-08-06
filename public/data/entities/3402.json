@@ -92,10 +92,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2015": {
-				"Development Award": "DA (National Education)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"Development Award": "DA (National Education)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -108,31 +104,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Commendation"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Orchestra - Chinese",
-					"award": "Commendation"
-				},
 				{
 					"year": "2016",
 					"category": "Band - Concert",
@@ -214,30 +185,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2015",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 230,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 189,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Technical",
-			"lower": 98,
-			"upper": 149,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2016",
 			"programme": "Express",
 			"lower": 188,
@@ -290,6 +237,22 @@
 			"programme": "Normal Academic",
 			"lower": 152,
 			"upper": 195,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 228,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 187,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

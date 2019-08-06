@@ -139,36 +139,6 @@
 			},
 			"Sports & Games Competition": [
 				{
-					"year": "2015",
-					"category": "Fencing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Fencing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
 					"year": "2016",
 					"category": "Fencing",
 					"subCategory": [
@@ -250,41 +220,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2016",
 					"category": "Band - Concert",
@@ -391,24 +326,6 @@
 	},
 	"L1R5History": [
 		{
-			"year": "2015",
-			"programme": "Arts",
-			"lower": 2,
-			"upper": 10
-		},
-		{
-			"year": "2015",
-			"programme": "Science/IB",
-			"lower": 2,
-			"upper": 10
-		},
-		{
-			"year": "2015",
-			"programme": "Commerce",
-			"lower": null,
-			"upper": null
-		},
-		{
 			"year": "2016",
 			"programme": "Arts",
 			"lower": 3,
@@ -458,6 +375,24 @@
 		},
 		{
 			"year": "2018",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2019",
+			"programme": "Arts",
+			"lower": 6,
+			"upper": 13
+		},
+		{
+			"year": "2019",
+			"programme": "Science/IB",
+			"lower": 4,
+			"upper": 14
+		},
+		{
+			"year": "2019",
 			"programme": "Commerce",
 			"lower": null,
 			"upper": null

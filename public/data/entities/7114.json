@@ -97,20 +97,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2015": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Development Award": [
-					"DA (National Education)",
-					"PARTNERS (Merit)"
-				],
-				"Outstanding Development Award": "ODA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -122,61 +108,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2015",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2016",
 					"category": "Art - Category A",
@@ -348,14 +279,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2015",
-			"programme": "Express",
-			"lower": 262,
-			"upper": 277,
-			"lowerAffiliated": 250,
-			"upperAffiliated": 273
-		},
-		{
 			"year": "2016",
 			"programme": "Express",
 			"lower": 264,
@@ -378,6 +301,14 @@
 			"upper": 285,
 			"lowerAffiliated": 250,
 			"upperAffiliated": 277
+		},
+		{
+			"year": "2019",
+			"programme": "Express",
+			"lower": 258,
+			"upper": 276,
+			"lowerAffiliated": 250,
+			"upperAffiliated": 274
 		}
 	],
 	"postalCode": "288683",

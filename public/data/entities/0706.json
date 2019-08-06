@@ -161,18 +161,6 @@
 	},
 	"AchievementHistory": {
 		"Junior College": {
-			"2015": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"ODA (National Education)"
-				]
-			},
 			"2016": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -192,186 +180,6 @@
 				]
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Cricket",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2015",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2016",
 					"category": "Badminton",
@@ -865,61 +673,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2015",
-					"category": "Art - Category C",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Commendation"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Harmonica",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2016",
 					"category": "Art - Category C",
 					"award": "Recognition(Sm)"
@@ -1085,24 +838,6 @@
 	},
 	"L1R5History": [
 		{
-			"year": "2015",
-			"programme": "Arts",
-			"lower": 2,
-			"upper": 6
-		},
-		{
-			"year": "2015",
-			"programme": "Science/IB",
-			"lower": 2,
-			"upper": 5
-		},
-		{
-			"year": "2015",
-			"programme": "Commerce",
-			"lower": null,
-			"upper": null
-		},
-		{
 			"year": "2016",
 			"programme": "Arts",
 			"lower": 2,
@@ -1152,6 +887,24 @@
 		},
 		{
 			"year": "2018",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2019",
+			"programme": "Arts",
+			"lower": 2,
+			"upper": 8
+		},
+		{
+			"year": "2019",
+			"programme": "Science/IB",
+			"lower": 2,
+			"upper": 6
+		},
+		{
+			"year": "2019",
 			"programme": "Commerce",
 			"lower": null,
 			"upper": null

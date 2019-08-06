@@ -105,9 +105,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2015": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -119,21 +116,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2016",
 					"category": "Choir",
@@ -194,30 +176,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2015",
-			"programme": "Express",
-			"lower": 201,
-			"upper": 229,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 188,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Technical",
-			"lower": 93,
-			"upper": 151,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2016",
 			"programme": "Express",
@@ -287,6 +245,30 @@
 			"programme": "Normal Technical",
 			"lower": 113,
 			"upper": 155,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 251,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 192,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Technical",
+			"lower": 112,
+			"upper": 153,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

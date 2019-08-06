@@ -82,10 +82,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2015": {
-				"Development Award": "DA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"Development Award": "DA (Character Development)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -98,36 +94,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Harmonica",
-					"award": "Distinction"
-				},
 				{
 					"year": "2016",
 					"category": "Art - Category B",
@@ -263,7 +229,10 @@
 		"NO. OF APPLICANTS IN PHASE 2A2": 17,
 		"PLACES TAKEN UP TO PHASE 2A2": 63,
 		"VACANCY FOR PHASE 2B": 65,
-		"NO. OF APPLICANTS IN PHASE 2B": 22
+		"NO. OF APPLICANTS IN PHASE 2B": 22,
+		"PLACES TAKEN UP TO PHASE 2B": 84,
+		"VACANCY FOR PHASE 2C": 108,
+		"NO. OF APPLICANTS IN PHASE 2C": 82
 	},
 	"id": "5013"
 }

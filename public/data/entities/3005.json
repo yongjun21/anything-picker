@@ -102,14 +102,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2015": {
-				"School Distinction Awards": "SDA",
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"ODA (National Education)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"School Distinction Awards": "SDA",
 				"Outstanding Development Award": [
@@ -136,41 +128,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Commendation"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
 				{
 					"year": "2016",
 					"category": "Band - Concert",
@@ -267,14 +224,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2015",
-			"programme": "Express",
-			"lower": 242,
-			"upper": 257,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2016",
 			"programme": "Express",
 			"lower": 243,
@@ -295,6 +244,14 @@
 			"programme": "Express",
 			"lower": 241,
 			"upper": 260,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "Express",
+			"lower": 242,
+			"upper": 257,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

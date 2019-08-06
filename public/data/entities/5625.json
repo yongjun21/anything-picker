@@ -86,10 +86,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2015": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -104,31 +100,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
 				{
 					"year": "2016",
 					"category": "Band-Brass",
@@ -238,7 +209,10 @@
 		"NO. OF APPLICANTS IN PHASE 2A2": 36,
 		"PLACES TAKEN UP TO PHASE 2A2": 239,
 		"VACANCY FOR PHASE 2B": 31,
-		"NO. OF APPLICANTS IN PHASE 2B": 32
+		"NO. OF APPLICANTS IN PHASE 2B": 32,
+		"PLACES TAKEN UP TO PHASE 2B": 270,
+		"VACANCY FOR PHASE 2C": 30,
+		"NO. OF APPLICANTS IN PHASE 2C": 55
 	},
 	"id": "5625"
 }

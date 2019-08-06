@@ -89,9 +89,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2015": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -103,21 +100,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Commendation"
-				},
 				{
 					"year": "2016",
 					"category": "Art - Category C",
@@ -208,7 +190,10 @@
 		"NO. OF APPLICANTS IN PHASE 2A2": 15,
 		"PLACES TAKEN UP TO PHASE 2A2": 61,
 		"VACANCY FOR PHASE 2B": 45,
-		"NO. OF APPLICANTS IN PHASE 2B": 0
+		"NO. OF APPLICANTS IN PHASE 2B": 0,
+		"PLACES TAKEN UP TO PHASE 2B": 61,
+		"VACANCY FOR PHASE 2C": 89,
+		"NO. OF APPLICANTS IN PHASE 2C": 45
 	},
 	"id": "1150"
 }

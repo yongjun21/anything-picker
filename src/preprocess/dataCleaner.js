@@ -1,7 +1,7 @@
-import fs from 'fs'
-import isEmpty from 'lodash/isEmpty'
-import omit from 'lodash/omit'
-import {capitalize, acronym, standardFilter} from '../helpers/text'
+const fs = require('fs')
+const isEmpty = require('lodash/isEmpty')
+const omit = require('lodash/omit')
+const {capitalize, acronym, standardFilter} = require('../helpers/text')
 
 const files = fs.readdirSync('data/raw').filter(file => file.match(/\.json$/))
 
@@ -14,7 +14,7 @@ const vacancies = require('../../data/vacancies.json')
 let mrtStations = require('nearest-mrt/data/processed/mrt_stations.json').data
 mrtStations = Object.keys(mrtStations).map(name => name.replace(/ MRT STATION$/, ''))
 
-const filteredYears = ['2015', '2016', '2017', '2018']
+const filteredYears = ['2016', '2017', '2018', '2019']
 
 files.forEach(file => {
   try {

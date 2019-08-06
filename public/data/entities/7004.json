@@ -120,9 +120,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2015": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -137,46 +134,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2015",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
 				{
 					"year": "2016",
 					"category": "Art - Category A",
@@ -293,22 +250,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2015",
-			"programme": "Express",
-			"lower": 243,
-			"upper": 249,
-			"lowerAffiliated": 200,
-			"upperAffiliated": 252
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Academic",
-			"lower": 184,
-			"upper": 198,
-			"lowerAffiliated": 153,
-			"upperAffiliated": 198
-		},
-		{
 			"year": "2016",
 			"programme": "Express",
 			"lower": 247,
@@ -379,6 +320,30 @@
 			"upper": 159,
 			"lowerAffiliated": 123,
 			"upperAffiliated": 152
+		},
+		{
+			"year": "2019",
+			"programme": "Express",
+			"lower": 246,
+			"upper": 265,
+			"lowerAffiliated": 201,
+			"upperAffiliated": 250
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Academic",
+			"lower": 187,
+			"upper": 199,
+			"lowerAffiliated": 155,
+			"upperAffiliated": 198
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Technical",
+			"lower": 129,
+			"upper": 155,
+			"lowerAffiliated": 109,
+			"upperAffiliated": 150
 		}
 	],
 	"postalCode": "319764",

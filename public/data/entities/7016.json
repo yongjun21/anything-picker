@@ -109,9 +109,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2015": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -126,41 +123,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
 				{
 					"year": "2016",
 					"category": "Band - Concert",
@@ -282,30 +244,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2015",
-			"programme": "Express",
-			"lower": 231,
-			"upper": 241,
-			"lowerAffiliated": 188,
-			"upperAffiliated": 239
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Academic",
-			"lower": 169,
-			"upper": 197,
-			"lowerAffiliated": 153,
-			"upperAffiliated": 195
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Technical",
-			"lower": 117,
-			"upper": 154,
-			"lowerAffiliated": 113,
-			"upperAffiliated": 151
-		},
-		{
 			"year": "2016",
 			"programme": "Express",
 			"lower": 219,
@@ -376,6 +314,30 @@
 			"upper": 148,
 			"lowerAffiliated": 118,
 			"upperAffiliated": 154
+		},
+		{
+			"year": "2019",
+			"programme": "Express",
+			"lower": 227,
+			"upper": 249,
+			"lowerAffiliated": 188,
+			"upperAffiliated": 243
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Academic",
+			"lower": 172,
+			"upper": 195,
+			"lowerAffiliated": 152,
+			"upperAffiliated": 195
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Technical",
+			"lower": 111,
+			"upper": 150,
+			"lowerAffiliated": 125,
+			"upperAffiliated": 151
 		}
 	],
 	"postalCode": "469700",

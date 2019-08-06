@@ -106,16 +106,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2015": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Outstanding Development Award": "ODA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -141,56 +131,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Harp",
-					"award": "Distinction"
-				},
 				{
 					"year": "2016",
 					"category": "Art - Category B",
@@ -347,30 +287,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2015",
-			"programme": "Express",
-			"lower": 241,
-			"upper": 253,
-			"lowerAffiliated": 205,
-			"upperAffiliated": 256
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Academic",
-			"lower": 187,
-			"upper": 199,
-			"lowerAffiliated": 152,
-			"upperAffiliated": 199
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Technical",
-			"lower": 111,
-			"upper": 157,
-			"lowerAffiliated": 131,
-			"upperAffiliated": 159
-		},
-		{
 			"year": "2016",
 			"programme": "Express",
 			"lower": 247,
@@ -441,6 +357,30 @@
 			"upper": 159,
 			"lowerAffiliated": 128,
 			"upperAffiliated": 153
+		},
+		{
+			"year": "2019",
+			"programme": "Express",
+			"lower": null,
+			"upper": null,
+			"lowerAffiliated": 212,
+			"upperAffiliated": 257
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Academic",
+			"lower": 185,
+			"upper": 199,
+			"lowerAffiliated": 153,
+			"upperAffiliated": 198
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Technical",
+			"lower": 120,
+			"upper": 159,
+			"lowerAffiliated": 135,
+			"upperAffiliated": 150
 		}
 	],
 	"postalCode": "536742",

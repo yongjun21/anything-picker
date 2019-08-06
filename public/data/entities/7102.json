@@ -117,21 +117,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2015": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"Outstanding PARTNERS"
-				],
-				"Achievement Award": "CHERISH Award",
-				"Sustained Achievement Award": "SAA (CHERISH)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -163,41 +148,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Art - Category A",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2015",
-					"category": "Art - Category C",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2016",
 					"category": "Art - Category A",
@@ -307,19 +257,6 @@
 			"Best Unit Award": []
 		},
 		"Secondary": {
-			"2015": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"Outstanding PARTNERS"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -351,36 +288,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2016",
 					"category": "Band - Concert",
@@ -487,22 +394,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2015",
-			"programme": "Integrated Programme",
-			"lower": 249,
-			"upper": 262,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2015",
-			"programme": "'O' Level Programme",
-			"lower": 245,
-			"upper": 267,
-			"lowerAffiliated": 240,
-			"upperAffiliated": 251
-		},
-		{
 			"year": "2016",
 			"programme": "Integrated Programme",
 			"lower": 253,
@@ -549,6 +440,22 @@
 			"upper": 266,
 			"lowerAffiliated": 240,
 			"upperAffiliated": 253
+		},
+		{
+			"year": "2019",
+			"programme": "Integrated Programme",
+			"lower": 254,
+			"upper": 267,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "'O' Level Programme",
+			"lower": 251,
+			"upper": 259,
+			"lowerAffiliated": 240,
+			"upperAffiliated": 253
 		}
 	],
 	"postalCode": "579767",
@@ -581,7 +488,10 @@
 		"NO. OF APPLICANTS IN PHASE 2A2": 14,
 		"PLACES TAKEN UP TO PHASE 2A2": 200,
 		"VACANCY FOR PHASE 2B": 20,
-		"NO. OF APPLICANTS IN PHASE 2B": 37
+		"NO. OF APPLICANTS IN PHASE 2B": 37,
+		"PLACES TAKEN UP TO PHASE 2B": 219,
+		"VACANCY FOR PHASE 2C": 21,
+		"NO. OF APPLICANTS IN PHASE 2C": 46
 	},
 	"id": "7102"
 }

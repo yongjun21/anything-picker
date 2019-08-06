@@ -105,9 +105,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2015": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -122,36 +119,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
 				{
 					"year": "2016",
 					"category": "Art - Category B",
@@ -263,11 +230,6 @@
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2015",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2016",
 					"category": "Dance - Indian",
 					"award": "Accomplishment"
@@ -287,22 +249,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2015",
-			"programme": "Integrated Programme",
-			"lower": 248,
-			"upper": 265,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2015",
-			"programme": "'O' Level Programme",
-			"lower": 242,
-			"upper": 261,
-			"lowerAffiliated": 238,
-			"upperAffiliated": 259
-		},
 		{
 			"year": "2016",
 			"programme": "Integrated Programme",
@@ -350,27 +296,25 @@
 			"upper": 255,
 			"lowerAffiliated": 238,
 			"upperAffiliated": 260
+		},
+		{
+			"year": "2019",
+			"programme": "Integrated Programme",
+			"lower": 250,
+			"upper": 264,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "'O' Level Programme",
+			"lower": 245,
+			"upper": 255,
+			"lowerAffiliated": 238,
+			"upperAffiliated": 251
 		}
 	],
 	"L1R5History": [
-		{
-			"year": "2015",
-			"programme": "Arts",
-			"lower": null,
-			"upper": null
-		},
-		{
-			"year": "2015",
-			"programme": "Science/IB",
-			"lower": 2,
-			"upper": 6
-		},
-		{
-			"year": "2015",
-			"programme": "Commerce",
-			"lower": null,
-			"upper": null
-		},
 		{
 			"year": "2016",
 			"programme": "Arts",
@@ -421,6 +365,24 @@
 		},
 		{
 			"year": "2018",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2019",
+			"programme": "Arts",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2019",
+			"programme": "Science/IB",
+			"lower": 2,
+			"upper": 7
+		},
+		{
+			"year": "2019",
 			"programme": "Commerce",
 			"lower": null,
 			"upper": null

@@ -110,14 +110,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2015": {
-				"Development Award": [
-					"DA (Character Development)",
-					"PARTNERS (Merit)"
-				],
-				"Outstanding Development Award": "ODA (National Education)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -135,36 +127,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Orchestra - Chinese",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2016",
 					"category": "Band - Concert",
@@ -256,30 +218,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2015",
-			"programme": "Express",
-			"lower": null,
-			"upper": null,
-			"lowerAffiliated": 199,
-			"upperAffiliated": 258
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Academic",
-			"lower": 193,
-			"upper": 198,
-			"lowerAffiliated": 154,
-			"upperAffiliated": 199
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Technical",
-			"lower": 135,
-			"upper": 159,
-			"lowerAffiliated": 121,
-			"upperAffiliated": 145
-		},
-		{
 			"year": "2016",
 			"programme": "Express",
 			"lower": 239,
@@ -350,6 +288,30 @@
 			"upper": 156,
 			"lowerAffiliated": 104,
 			"upperAffiliated": 150
+		},
+		{
+			"year": "2019",
+			"programme": "Express",
+			"lower": 245,
+			"upper": 247,
+			"lowerAffiliated": 191,
+			"upperAffiliated": 249
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Academic",
+			"lower": 185,
+			"upper": 196,
+			"lowerAffiliated": 158,
+			"upperAffiliated": 195
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Technical",
+			"lower": 138,
+			"upper": 157,
+			"lowerAffiliated": 121,
+			"upperAffiliated": 149
 		}
 	],
 	"postalCode": "309919",

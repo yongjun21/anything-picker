@@ -7,8 +7,8 @@
     "dev": "webpack-dev-server --config ./webpack.config.js --colors --progress",
     "build": "webpack --config ./webpack.prod.config.js --colors --progress",
     "deploy:functions": "bin/deploy-functions.sh",
-    "deploy:statics": "AWS_PROFILE=yongjun21 aws s3 sync public s3://schoolpicker.yongjun.sg",
-    "deploy": "npm run build && npm run deploy:statics && npm run deploy:functions"
+    "deploy:statics": "npm run build && AWS_PROFILE=yongjun21 aws s3 sync public s3://schoolpicker.yongjun.sg",
+    "deploy": "npm run deploy:statics && npm run deploy:functions"
   },
   "repository": {
     "type": "git",

@@ -430,7 +430,7 @@ export default {
     syfAchievements () {
       const info = this.achievementHistory && this.achievementHistory['SYF']
       if (info) {
-        const awardYears = ['2015', '2016', '2017']
+        const awardYears = ['2016', '2017', '2018']
         const legendItems = ['Distinction', 'Accomplishment', 'Recognition']
         const groupedbyCategory = groupBy(info, 'category')
         let rows = Object.keys(groupedbyCategory).map(category => {
@@ -459,7 +459,7 @@ export default {
       const info = this.achievementHistory && this.achievementHistory['Best Unit Award']
       if (info) {
         const groupedbyCategory = groupBy(info, 'category')
-        let awardYears = ['2015', '2016', '2017']
+        let awardYears = ['2016', '2017', '2018']
         let legendItems = ['Gold', 'Silver', 'Bronze']
         let rows = Object.keys(groupedbyCategory).map(category => {
           const groupedByYear = groupBy(groupedbyCategory[category], 'year')
@@ -486,7 +486,7 @@ export default {
     sportAchievements () {
       const info = this.achievementHistory && this.achievementHistory['Sports & Games Competition']
       if (info) {
-        const awardYears = ['2015', '2016', '2017']
+        const awardYears = ['2016', '2017', '2018']
         const legendItems = ['1st', '2nd', '3rd']
 
         let rows = []
@@ -528,13 +528,13 @@ export default {
         const placesTaken = info['PLACES TAKEN UP TO ' + max(phases)]
         const rows = [
           {label: 'Total Vacancy', value: info['TOTAL VACANCY'], class: 'text-bold'},
-          {label: 'Reserved for Phase 2B & 2C', value: 40},
+          // {label: 'Reserved for Phase 2B & 2C', value: 40},
           // {label: 'Reserved for Phase 2C', value: Math.floor((info['TOTAL VACANCY'] - placesTaken) / 2)},
           {
             label: 'Places Taken So Far',
             value: placesTaken,
             class: placesTaken >= info['TOTAL VACANCY'] && 'fully-booked',
-            title: 'Up until Phase 2A(2) \nResult of Phase 2B will be out on 26 July 2019'
+            title: 'Up until Phase 2B \nResult of Phase 2C will be out on 7 August 2019'
           },
           {
             values: [
@@ -550,8 +550,8 @@ export default {
         ]
         return {
           label: 'P1 Registration Exercise',
-          year: '2019',
-          lastUpdated: '25 July 2019',
+          year: '2020',
+          lastUpdated: '5 August 2019',
           rows
         }
       }

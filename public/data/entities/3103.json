@@ -128,16 +128,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2015": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Development Award": "DA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -163,46 +153,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2016",
 					"category": "Art - Category A",
@@ -347,15 +297,6 @@
 			"Best Unit Award": []
 		},
 		"Junior College": {
-			"2015": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Development Award": "DA (Character Development)"
-			},
 			"2016": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -375,86 +316,6 @@
 				"Development Award": "DA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2015",
-					"category": "Badminton",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2015",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Netball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Shooting (Air Pistol)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2015",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2015",
-					"category": "Wushu",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
 				{
 					"year": "2016",
 					"category": "Badminton",
@@ -698,46 +559,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2016",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -863,14 +684,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2015",
-			"programme": "Express",
-			"lower": 249,
-			"upper": 269,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
 			"year": "2016",
 			"programme": "Express",
 			"lower": 253,
@@ -893,9 +706,36 @@
 			"upper": 270,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
+		},
+		{
+			"year": "2019",
+			"programme": "Express",
+			"lower": 252,
+			"upper": 276,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
 		}
 	],
-	"L1R5History": [],
+	"L1R5History": [
+		{
+			"year": "2019",
+			"programme": "Arts",
+			"lower": 3,
+			"upper": 10
+		},
+		{
+			"year": "2019",
+			"programme": "Science/IB",
+			"lower": 5,
+			"upper": 9
+		},
+		{
+			"year": "2019",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		}
+	],
 	"postalCode": "649961",
 	"coordinates": [
 		103.7090222,

@@ -96,9 +96,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2015": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -110,31 +107,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Orchestra - Chinese",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2016",
 					"category": "Band - Concert",
@@ -200,30 +172,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2015",
-			"programme": "Express",
-			"lower": 206,
-			"upper": 231,
-			"lowerAffiliated": 188,
-			"upperAffiliated": 236
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Academic",
-			"lower": 153,
-			"upper": 199,
-			"lowerAffiliated": 152,
-			"upperAffiliated": 186
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Technical",
-			"lower": 116,
-			"upper": 155,
-			"lowerAffiliated": 111,
-			"upperAffiliated": 151
-		},
 		{
 			"year": "2016",
 			"programme": "Express",
@@ -295,6 +243,30 @@
 			"upper": 149,
 			"lowerAffiliated": 119,
 			"upperAffiliated": 151
+		},
+		{
+			"year": "2019",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 235,
+			"lowerAffiliated": 188,
+			"upperAffiliated": 221
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 190,
+			"lowerAffiliated": 152,
+			"upperAffiliated": 187
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Technical",
+			"lower": 108,
+			"upper": 156,
+			"lowerAffiliated": 117,
+			"upperAffiliated": 150
 		}
 	],
 	"postalCode": "408940",

@@ -101,13 +101,6 @@
 	},
 	"AchievementHistory": {
 		"Junior College": {
-			"2015": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)",
-					"PARTNERS (Merit)"
-				]
-			},
 			"2016": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -165,46 +158,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
 				{
 					"year": "2016",
 					"category": "Art - Category C",
@@ -341,24 +294,6 @@
 	},
 	"L1R5History": [
 		{
-			"year": "2015",
-			"programme": "Arts",
-			"lower": 10,
-			"upper": 20
-		},
-		{
-			"year": "2015",
-			"programme": "Science/IB",
-			"lower": 8,
-			"upper": 18
-		},
-		{
-			"year": "2015",
-			"programme": "Commerce",
-			"lower": 10,
-			"upper": 20
-		},
-		{
 			"year": "2016",
 			"programme": "Arts",
 			"lower": 11,
@@ -411,6 +346,24 @@
 			"programme": "Commerce",
 			"lower": 9,
 			"upper": 20
+		},
+		{
+			"year": "2019",
+			"programme": "Arts",
+			"lower": 10,
+			"upper": 19
+		},
+		{
+			"year": "2019",
+			"programme": "Science/IB",
+			"lower": 6,
+			"upper": 20
+		},
+		{
+			"year": "2019",
+			"programme": "Commerce",
+			"lower": 8,
+			"upper": 19
 		}
 	],
 	"postalCode": "658965",

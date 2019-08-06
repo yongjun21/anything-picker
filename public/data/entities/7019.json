@@ -115,10 +115,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2015": {
-				"Special Awards": "LHL Award for Innovation in the Normal Course",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -133,46 +129,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
 				{
 					"year": "2016",
 					"category": "Band - Concert",
@@ -299,30 +255,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2015",
-			"programme": "Express",
-			"lower": 231,
-			"upper": 249,
-			"lowerAffiliated": 200,
-			"upperAffiliated": 241
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Academic",
-			"lower": 180,
-			"upper": 197,
-			"lowerAffiliated": 154,
-			"upperAffiliated": 198
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Technical",
-			"lower": 133,
-			"upper": 157,
-			"lowerAffiliated": 123,
-			"upperAffiliated": 151
-		},
-		{
 			"year": "2016",
 			"programme": "Express",
 			"lower": 231,
@@ -393,6 +325,30 @@
 			"upper": 157,
 			"lowerAffiliated": 108,
 			"upperAffiliated": 150
+		},
+		{
+			"year": "2019",
+			"programme": "Express",
+			"lower": 237,
+			"upper": 249,
+			"lowerAffiliated": 200,
+			"upperAffiliated": 241
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Academic",
+			"lower": 187,
+			"upper": 199,
+			"lowerAffiliated": 153,
+			"upperAffiliated": 198
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Technical",
+			"lower": 137,
+			"upper": 159,
+			"lowerAffiliated": 133,
+			"upperAffiliated": 151
 		}
 	],
 	"postalCode": "548595",

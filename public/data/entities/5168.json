@@ -85,10 +85,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2015": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -103,36 +99,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2015",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2016",
 					"category": "Art - Category A",
@@ -258,9 +224,12 @@
 		"PLACES TAKEN UP TO PHASE 2A1": 139,
 		"VACANCY FOR PHASE 2A2": 91,
 		"NO. OF APPLICANTS IN PHASE 2A2": 29,
-		"PLACES TAKEN UP TO PHASE 2A2": 169,
+		"PLACES TAKEN UP TO PHASE 2A2": 168,
 		"VACANCY FOR PHASE 2B": 51,
-		"NO. OF APPLICANTS IN PHASE 2B": 43
+		"NO. OF APPLICANTS IN PHASE 2B": 43,
+		"PLACES TAKEN UP TO PHASE 2B": 209,
+		"VACANCY FOR PHASE 2C": 61,
+		"NO. OF APPLICANTS IN PHASE 2C": 79
 	},
 	"id": "5168"
 }

@@ -76,9 +76,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2015": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -90,36 +87,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2015",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2016",
 					"category": "Art - Category B",
@@ -236,9 +203,12 @@
 		"PLACES TAKEN UP TO PHASE 2A1": 46,
 		"VACANCY FOR PHASE 2A2": 94,
 		"NO. OF APPLICANTS IN PHASE 2A2": 8,
-		"PLACES TAKEN UP TO PHASE 2A2": 55,
+		"PLACES TAKEN UP TO PHASE 2A2": 54,
 		"VACANCY FOR PHASE 2B": 63,
-		"NO. OF APPLICANTS IN PHASE 2B": 0
+		"NO. OF APPLICANTS IN PHASE 2B": 0,
+		"PLACES TAKEN UP TO PHASE 2B": 54,
+		"VACANCY FOR PHASE 2C": 126,
+		"NO. OF APPLICANTS IN PHASE 2C": 36
 	},
 	"id": "1205"
 }

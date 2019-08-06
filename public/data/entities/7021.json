@@ -102,12 +102,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2015": {
-				"Best Practice Awards": "BPA (Student All-Round Development)",
-				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2016": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": "BPA (Student All-Round Development)",
@@ -124,56 +118,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2015",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2015",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2015",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2015",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2016",
 					"category": "Art - Category A",
@@ -330,30 +274,6 @@
 	},
 	"PsleAggregateHistory": [
 		{
-			"year": "2015",
-			"programme": "Express",
-			"lower": 242,
-			"upper": 247,
-			"lowerAffiliated": 200,
-			"upperAffiliated": 248
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Academic",
-			"lower": 189,
-			"upper": 199,
-			"lowerAffiliated": 153,
-			"upperAffiliated": 197
-		},
-		{
-			"year": "2015",
-			"programme": "Normal Technical",
-			"lower": 139,
-			"upper": 152,
-			"lowerAffiliated": 116,
-			"upperAffiliated": 151
-		},
-		{
 			"year": "2016",
 			"programme": "Express",
 			"lower": 244,
@@ -423,6 +343,30 @@
 			"lower": 107,
 			"upper": 159,
 			"lowerAffiliated": 134,
+			"upperAffiliated": 147
+		},
+		{
+			"year": "2019",
+			"programme": "Express",
+			"lower": 242,
+			"upper": 254,
+			"lowerAffiliated": 201,
+			"upperAffiliated": 256
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Academic",
+			"lower": 192,
+			"upper": 199,
+			"lowerAffiliated": 154,
+			"upperAffiliated": 198
+		},
+		{
+			"year": "2019",
+			"programme": "Normal Technical",
+			"lower": 104,
+			"upper": 157,
+			"lowerAffiliated": 114,
 			"upperAffiliated": 147
 		}
 	],
