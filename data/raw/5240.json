@@ -16,7 +16,7 @@
 	"mrt": "Paya Lebar, Eunos",
 	"bus": "13 , 16 , 31 , 36 , 43 , 48 , 55 , 134 , 196 , 197 ",
 	"GeneralInformation": {
-		"Principal": "DR CHIN KIM WOON",
+		"Principal": "MDM POH QINYU",
 		"Vice Principal": [
 			"MR LEOW YEN MIN",
 			"MISS CHOW CHIA MIN AGNES"
@@ -31,7 +31,7 @@
 	},
 	"SubjectOffered": [
 		"ART",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"HEALTH EDUCATION",
@@ -67,9 +67,7 @@
 			"Guzheng Ensemble"
 		],
 		"Clubs & Societies": [
-			"Advanced Mathematics Enrichment Club",
 			"Chinese Club",
-			"Infocomm Club",
 			"International Chess",
 			"Library",
 			"Science Club"
@@ -149,6 +147,17 @@
 						"Senior"
 					],
 					[
+						"Wushu",
+						"1st",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
 						"Badminton",
 						"-",
 						"3rd",
@@ -165,17 +174,6 @@
 						"2nd",
 						"2nd",
 						"3rd",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
-						"Wushu",
-						"1st",
-						"-",
-						"2nd",
-						"-",
 						"-",
 						"-",
 						"-",
@@ -1353,11 +1351,11 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Dance - Chinese": "Distinction",
 					"Art - Category A": "Recognition",
 					"Choir": "Accomplishment",
 					"Ensemble - Guzheng": "Distinction",
-					"Orchestra - Chinese": "Distinction"
+					"Orchestra - Chinese": "Distinction",
+					"Dance - Chinese": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1914,7 +1912,108 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"1st",
+						"1st",
+						"1st",
+						"3rd"
+					],
+					[
+						"Basketball",
+						"-",
+						"3rd",
+						"-",
+						"2nd",
+						"-",
+						"1st",
+						"-",
+						"1st"
+					],
+					[
+						"Sailing",
+						"-",
+						"1st",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "449761"

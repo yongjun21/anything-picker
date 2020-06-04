@@ -21,8 +21,8 @@
 	"GeneralInformation": {
 		"Principal": "Mdm Tan Siew Hong (Mrs Sng)",
 		"Vice Principal": [
-			"Mdm Teo Ting Ting",
-			"Mr Yong Kek Shoong"
+			"Mr Yong Kek Shoong",
+			"Mr Chan Kok Tung Tom"
 		],
 		"School Vision": "Nurturing Talents, Sharing Success",
 		"School Mission": "A school of excellence which nurtures the youths of today for the challenges of tomorrow",
@@ -37,9 +37,9 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"English Language",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Humanities (Ss, Geography)",
@@ -92,11 +92,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "ODA (National Education)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": "DA (Character Development)",
 				"Outstanding Development Award": "ODA (National Education)",
@@ -107,43 +102,11 @@
 				"Outstanding Development Award": "ODA (National Education)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category A",
@@ -198,28 +161,37 @@
 					"year": "2018",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 202,
-			"upper": 231,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 154,
-			"upper": 194,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -265,6 +237,22 @@
 			"programme": "Normal Academic",
 			"lower": 152,
 			"upper": 184,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 204,
+			"upper": 226,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 183,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

@@ -32,9 +32,9 @@
 		"Affiliated Schools": [
 			"Catholic Junior College",
 			"De La Salle School",
-			"St. Joseph's Institution Junior",
-			"St. Stephen's School",
-			"St. Anthony's Primary School"
+			"St. Joseph&#39;s Institution Junior",
+			"St. Stephen&#39;s School",
+			"St. Anthony&#39;s Primary School"
 		]
 	},
 	"SubjectOffered": [
@@ -105,10 +105,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -117,39 +113,13 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -211,6 +181,26 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guitar",
 					"award": "Distinction"
 				}
@@ -218,27 +208,17 @@
 			"Best Unit Award": []
 		},
 		"Junior College": {
-			"2016": {
-				"School Distinction Awards": "SDA"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA"
 			},
 			"2018": {
 				"School Distinction Awards": "SDA"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Commendation"
-				},
 				{
 					"year": "2017",
 					"category": "Drama - English",
@@ -249,22 +229,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Integrated Programme",
-			"lower": 253,
-			"upper": 265,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "'O' Level Programme",
-			"lower": 246,
-			"upper": 263,
-			"lowerAffiliated": 238,
-			"upperAffiliated": 263
-		},
 		{
 			"year": "2017",
 			"programme": "Integrated Programme",
@@ -312,27 +276,25 @@
 			"upper": 255,
 			"lowerAffiliated": 238,
 			"upperAffiliated": 251
+		},
+		{
+			"year": "2020",
+			"programme": "Integrated Programme",
+			"lower": 251,
+			"upper": 263,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "'O' Level Programme",
+			"lower": 246,
+			"upper": 255,
+			"lowerAffiliated": 238,
+			"upperAffiliated": 255
 		}
 	],
 	"L1R5History": [
-		{
-			"year": "2016",
-			"programme": "Arts",
-			"lower": null,
-			"upper": null
-		},
-		{
-			"year": "2016",
-			"programme": "Science/IB",
-			"lower": 2,
-			"upper": 6
-		},
-		{
-			"year": "2016",
-			"programme": "Commerce",
-			"lower": null,
-			"upper": null
-		},
 		{
 			"year": "2017",
 			"programme": "Arts",
@@ -383,6 +345,24 @@
 		},
 		{
 			"year": "2019",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2020",
+			"programme": "Arts",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2020",
+			"programme": "Science/IB",
+			"lower": 2,
+			"upper": 7
+		},
+		{
+			"year": "2020",
 			"programme": "Commerce",
 			"lower": null,
 			"upper": null

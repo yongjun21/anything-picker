@@ -19,7 +19,7 @@
 		"Principal": "MR MICHAEL MUHUNTHAN S/O SUBRAMANIAM",
 		"Vice Principal": [
 			"MDM LIM LAY HOON",
-			"MR NGOH SING KIEN ARTHUR"
+			"MRS ROSIE LAU @ MDM ROSIE LIM"
 		],
 		"School Vision": "A Values-Centred Community where Learning is ignited by Passion, Thinking driven by Innovation and Leading inspired by Service",
 		"School Mission": "To engage the hearts and minds of students to develop them to their full potential enabling them to fulfill their aspirations and contribute as active citizens in society",
@@ -43,13 +43,13 @@
 		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
 		"COMPUTING",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
 		"EXERCISE AND SPORTS SCIENCE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER ART",
@@ -92,7 +92,6 @@
 		"Uniformed Groups": [
 			"Boys' Brigade",
 			"National Cadet Corps",
-			"National Civil Defence Cadet Corps",
 			"National Police Cadet Corps",
 			"Singapore Red Cross Society"
 		],
@@ -105,8 +104,7 @@
 		"Clubs & Societies": [
 			"Audio Video And Information Technology Club",
 			"English Literary Drama & Debate Society",
-			"Science Club",
-			"Student Leadership"
+			"Science Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -229,8 +227,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "3 Awards",
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "3 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Display / Marching": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -342,8 +340,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "3 Awards",
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "3 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Band - Display / Marching": "Silver",
 					"Choir": "Silver",
@@ -458,8 +456,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - International": "Silver"
@@ -573,8 +571,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - International": "Silver"
@@ -1505,7 +1503,110 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1761,6 +1862,23 @@
 			"Normal Technical": [
 				"108",
 				"159",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"214",
+				"248",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"172",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"125",
+				"157",
 				"None-posted"
 			]
 		}

@@ -18,9 +18,10 @@
 	"GeneralInformation": {
 		"Principal": "MDM TAN SUN SUN",
 		"Vice Principal": [
-			"MR LIM KIM THYE",
-			"MDM TAN LAY WAH"
+			"MDM TAN LAY WAH",
+			"MR LEE CHONG TART RONALD"
 		],
+		"Vice Principal (Admin)": "MR NG KOK HENG",
 		"School Vision": "Touching Souls Challenging Minds",
 		"School Mission": "To maximise students' potential and to develop in them a passion for life-long learning guided by compassion, conscience, purity and righteousness.",
 		"School Philosophy, Culture and Ethos": [
@@ -40,10 +41,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
 		"HEALTH EDUCATION",
@@ -188,7 +189,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Dance - Chinese": "Gold",
 					"Orchestra - Chinese": "Bronze"
 				},
@@ -266,7 +267,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Dance - Chinese": "Silver",
 					"Dance - Malay": "Silver",
 					"Orchestra - Chinese": "Silver"
@@ -357,7 +358,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
 					"Dance - Chinese": "Silver",
 					"Dance - Malay": "Silver",
 					"Orchestra - Chinese": "Silver"
@@ -448,7 +449,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - International": "Bronze",
 					"Dance - Malay": "Silver",
@@ -964,7 +965,88 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"3rd",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - Chinese": "Distinction",
+					"Art - Category A": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "828867"

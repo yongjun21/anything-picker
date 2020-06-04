@@ -16,7 +16,7 @@
 	"mrt": "Bishan MRT Station",
 	"bus": "54 , 56 , 410 , 410G ",
 	"GeneralInformation": {
-		"Principal": "MDM TEO CHING LING",
+		"Principal": "MRS YEE-TOH GEK KHIAW",
 		"Vice Principal": [
 			"MISS CHEW MAY",
 			"MR TOH KIM SING (ZHUO JINSHENG)"
@@ -36,10 +36,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -178,7 +178,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"1st",
@@ -289,7 +289,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -400,7 +400,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -443,8 +443,8 @@
 				"Development Award": "DA (Character Development)",
 				"Sustained Achievement Award": "SAA (Aesthetics)",
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - Chinese": "Gold",
@@ -537,7 +537,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"3rd",
 						"-",
 						"-",
@@ -550,8 +550,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold",
@@ -712,7 +712,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -855,7 +855,88 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "579793"

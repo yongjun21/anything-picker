@@ -14,7 +14,7 @@
 	],
 	"email": "twps@moe.edu.sg",
 	"mrt": [],
-	"bus": "975 , 190 & 985 ",
+	"bus": "975 , 190 &amp; 985 ",
 	"GeneralInformation": {
 		"Principal": "Miss Wong Liang Ji Tabitha",
 		"Vice Principal": "Mdm Tan Wan Phing Janice",
@@ -40,7 +40,7 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
 		"Foundation Mathematics",
@@ -58,27 +58,27 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Athletics",
 			"Basketball",
-			"Football",
-			"Self-Defence Sports"
+			"Self Defence Sports",
+			"Soccer",
+			"Track & Field"
 		],
 		"Uniformed Groups": [
 			"Brownies",
-			"Cadet Scouts"
+			"Scouts"
 		],
 		"Visual and Performing Arts": [
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Malay",
-			"Speech And Drama Club"
+			"Speech And Drama Society"
 		],
 		"Clubs & Societies": [
-			"Infocomm Club - Programming",
-			"Saving Gaia"
+			"Infocomm Club (Photography)",
+			"Sig-Saving Gaia"
 		],
 		"Others": [
-			"Student Council"
+			"Prefectorial Board"
 		]
 	},
 	"SpecialProgrammes": {
@@ -90,33 +90,18 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category C",
 					"award": "Recognition"
@@ -153,6 +138,21 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - Malay",
 					"award": "Distinction"
 				}
@@ -194,7 +194,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 64,
 		"VACANCY FOR PHASE 2C": 146,
-		"NO. OF APPLICANTS IN PHASE 2C": 14
+		"NO. OF APPLICANTS IN PHASE 2C": 14,
+		"PLACES TAKEN UP TO PHASE 2C": 78,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 132,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 28
 	},
 	"id": "1043"
 }

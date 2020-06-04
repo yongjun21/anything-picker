@@ -21,6 +21,7 @@
 			"MR LAU WAI CHI ALVIN",
 			"MR KWOK YING LIANG"
 		],
+		"Vice Principal (Admin)": "MR MICHAEL JOHN PETER LAU CHONG LUM",
 		"School Vision": "A world-class institution that develops leaders of distinction for Singapore.",
 		"School Mission": "To nurture in students bicultural acumen and moral integrity; to empower students to be thinkers, leaders and achievers with a global perspective.",
 		"School Philosophy, Culture and Ethos": "Founded in 1956, RVHS has progressed from humble beginnings to become a Special Assistance Plan (SAP) school (1979) with Autonomous Status (1994) that offers a single-track 6-year Integrated Programme (2006). Guided by our school motto, we imbue in our students the values 'Pursuit of Excellence, Perseverance, People-centricity and Proactive-ness'. We equip our students with attitudes, skills and knowledge to realise their potential as future leaders and contribute to society.",
@@ -34,8 +35,8 @@
 		"ART",
 		"BIOLOGY",
 		"CHEMISTRY",
-		"CIVICS & MORAL EDUCATION",
-		"DESIGN & TECHNOLOGY",
+		"CIVICS &amp; MORAL EDUCATION",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
@@ -52,7 +53,7 @@
 		"H2 BIOLOGY",
 		"H2 CHEMISTRY",
 		"H2 CHINA STUDIES IN CHINESE",
-		"H2 CHINESE LANGUAGE & LITERATURE",
+		"H2 CHINESE LANGUAGE &amp; LITERATURE",
 		"H2 COMPUTING",
 		"H2 ECONOMICS",
 		"H2 FURTHER MATHEMATICS",
@@ -99,8 +100,6 @@
 			"Cldds",
 			"Concert Band",
 			"Dance - International",
-			"Drama - Chinese",
-			"Drama - English",
 			"Eldds",
 			"Guitar Ensemble",
 			"Photography Club",
@@ -108,7 +107,6 @@
 		],
 		"Clubs & Societies": [
 			"History And Current Affairs Society",
-			"Infocom Club",
 			"Library And Editorial Club",
 			"Science Leaders Academy",
 			"Service And Citizenship Society",
@@ -539,17 +537,6 @@
 						"'C' Div"
 					],
 					[
-						"Table Tennis",
-						"-",
-						"-",
-						"-",
-						"-",
-						"3rd",
-						"2nd",
-						"2nd",
-						"2nd"
-					],
-					[
 						"Cross Country",
 						"-",
 						"-",
@@ -570,10 +557,21 @@
 						"-",
 						"-",
 						"4th"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"2nd",
+						"2nd"
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
 					"Band - Concert": "Gold",
 					"Choir": "Gold (Hons)",
 					"Dance - Chinese": "Gold (Hons)",
@@ -713,7 +711,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - Chinese": "Gold",
@@ -1552,7 +1550,6 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Choir": "Distinction",
 					"Band - Concert": "Distinction",
 					"Dance - Chinese": "Distinction",
 					"Dance - International": "Distinction",
@@ -1560,7 +1557,8 @@
 					"Drama - English": "Distinction",
 					"Ensemble - Guitar": "Accomplishment",
 					"Ensemble - Strings": "Accomplishment",
-					"Orchestra - Chinese": "Distinction"
+					"Orchestra - Chinese": "Distinction",
+					"Choir": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1961,6 +1959,17 @@
 						"'C' Div"
 					],
 					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"4th",
+						"3rd"
+					],
+					[
 						"Badminton",
 						"-",
 						"-",
@@ -1981,17 +1990,6 @@
 						"-",
 						"-",
 						"-"
-					],
-					[
-						"Table Tennis",
-						"-",
-						"-",
-						"-",
-						"-",
-						"3rd",
-						"4th",
-						"4th",
-						"3rd"
 					],
 					[
 						"Wushu",
@@ -2149,7 +2147,136 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"4th",
+						"2nd",
+						"3rd"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"2nd",
+						"2nd"
+					],
+					[
+						"Wushu",
+						"-",
+						"2nd",
+						"4th",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		},
 		"Junior College": {
 			"2005": {},
@@ -2772,7 +2899,63 @@
 					"Ensemble - Strings": "Accomplishment"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Drama - Chinese": "Distinction",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -2893,6 +3076,13 @@
 				"276",
 				"None-posted"
 			]
+		},
+		"2020": {
+			"Express": [
+				"253",
+				"276",
+				"None-posted"
+			]
 		}
 	},
 	"L1R5History": {
@@ -2918,6 +3108,20 @@
 			"Science/IB": [
 				"5",
 				"9"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2020": {
+			"Arts": [
+				"7",
+				"9"
+			],
+			"Science/IB": [
+				"3",
+				"8"
 			],
 			"Commerce": [
 				"-",

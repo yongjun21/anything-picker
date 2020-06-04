@@ -17,10 +17,7 @@
 	"bus": "14 , 17 , 18 , 28 , 46 , 66 , 67 , 69 , 168 , 222 , 228 , 506 ",
 	"GeneralInformation": {
 		"Principal": "MR BOY ENG SENG",
-		"Vice Principal": [
-			"MR LIM HOCK SEONG KELVIN",
-			"MS FOO SHEUE FENG (FU XUEFENG)"
-		],
+		"Vice Principal": "MS FOO SHEUE FENG (FU XUEFENG)",
 		"Vice Principal (Admin)": "MR LEE CHEE CHONG",
 		"School Vision": "A School of Choice and a Community of Life-Long Learners.",
 		"School Mission": "To provide a nurturing environment where pupils are imbued with sound values, a passion for learning and confidence to face future challenges.",
@@ -39,11 +36,11 @@
 		"COMBINED HUMANITIES (S,H)",
 		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"EXERCISE AND SPORTS SCIENCE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HISTORY",
@@ -95,7 +92,7 @@
 			"STEM": "ilnquire. ilnnovate. Developing scientific thinking and inquiry skills through real-life applications",
 			"Music & Performing Arts": "PAssion Programme"
 		},
-		"Special Student Development Programmes Offered": "Technology is changing the world today. To be future-ready, students need to be technologically confident and competent. Hence, we develop our students through the Applied Learning Programme (ALP) in Science, Technology, Engineering and Mathematics (STEM). It aims to develop scientific thinking and inquiry skills through real-life applications, and rides upon our Integrated Project Work (IPW) where students solve authentic problems and learn important skills like programming, electronics and product design. Our Learning for Life Programme (LLP) builds students' character and values through a whole-school Performing Arts programme, PAssion. All lower secondary students attend a modular Aesthetics Programme in Music, Dance and Drama, and exhibit their learning at the Aesthetics Showcase. The school promotes a strong culture in Sports and Outdoor Activities to develop resilience and ruggedness. We have a very strong Outdoor Education programme and our very own rock wall in the school. Every student goes through Outdoor Education modules in PE, enrichment such as abseiling, as well as the Sec 2 Adventure Camp. We also organise many sporting activities such as Sports Fiesta. We are one of the few schools that offers Exercise and Sports Science as a GCE O-Level subject. The Values-in-Action (VIA) Programme promotes Service Learning to cultivate compassion and leadership in our students. It includes the Sec 3 Overseas VIA, as well as student-initiated projects in collaboration with community partners. The school is also committed to develop the talents among our students through our rigorous Talent Development Programme. Besides developing academic talents, we also develop talents in the sports, performing arts, visual arts etc. Students are also given ample opportunities to hone their leadership skills. Students leaders are developed through our comprehensive Student Leadership Programme using The Leadership Challenge model by Kouzes and Posner."
+		"Special Student Development Programmes Offered": "Technology is changing the world today. To be future-ready, students need to be technologically confident and competent. Hence, we develop our students through the Applied Learning Programme (ALP) in Science, Technology, Engineering and Mathematics (STEM). It aims to develop scientific thinking and inquiry skills through real-life applications, and rides upon our Integrated Project Work (IPW) where students solve authentic problems and learn important skills like programming, electronics and product design. Our Learning for Life Programme (LLP) builds students' character and values through a whole-school Performing Arts programme, PAssion. All lower secondary students attend a modular Aesthetics Programme in Music, Dance and Drama, and exhibit their learning at the Aesthetics Showcase. The school promotes a strong culture in Sports and Outdoor Activities to develop resilience and ruggedness. We have a very strong Outdoor Education programme and our very own rock wall in the school. Every student goes through Outdoor Education modules in PE, enrichment such as abseiling, as well as the cohort Adventure Camp. We also organise many sporting activities such as Sports Fiesta. We are one of the few schools that offers Exercise and Sports Science as a GCE O-Level subject. The Values-in-Action (VIA) Programme promotes Service Learning to cultivate compassion and leadership in our students. It includes the cohort Overseas VIA, as well as student-initiated projects in collaboration with community partners. The school is also committed to develop the talents among our students through our rigorous Talent Development Programme. Besides developing academic talents, we also develop talents in the sports, performing arts, visual arts etc. Students are also given ample opportunities to hone their leadership skills. Students leaders are developed through our comprehensive Student Leadership Programme using The Leadership Challenge model by Kouzes and Posner."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -196,7 +193,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "2 Awards"
+					"Art &amp; Craft (Silver)": "2 Awards"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -296,7 +293,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Bronze",
 					"Choir": "Bronze",
 					"Dance - International": "Gold",
@@ -307,11 +304,11 @@
 			},
 			"2008": {
 				"SYF Central Judging": {
-					"Dance - Malay": "Silver",
-					"Ensemble - Guzheng": "Silver",
 					"Band - Concert": "Bronze",
 					"Choir": "Bronze",
-					"Dance - International": "Gold"
+					"Dance - International": "Gold",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guzheng": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -853,7 +850,17 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Commendation",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Drama - Multi-Lingual": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1109,6 +1116,23 @@
 			"Normal Technical": [
 				"138",
 				"156",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"201",
+				"232",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"159",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"132",
+				"154",
 				"None-posted"
 			]
 		}

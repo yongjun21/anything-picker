@@ -31,16 +31,16 @@
 			"Our shared values are encapsulated in our I4Cs: Integrity, Commitment, Concern, Cooperation, and Creativity. Guided by our school motto 'Ars Potens Est' ('Knowledge is Power'), we strive to nurture every Haig girl to use her knowledge, skills and talents in service to the school, community and nation.   We believe that our pupils are never too young to make a difference and give them a voice through advocacy, service, creative expression and innovation.",
 			"HGS is a second home to our pupils - a safe, nurturing environment for them to be themselves and to grow and learn. We believe in the uniqueness and worth of every child - each child is different, special and talented in her own way and we seek to bring out the best in her. We love, value and accept each child for who she is regardless of her results or achievements, but we hold her to high expectations. In HGS, we would like each child to take responsibility for her learning and develop an intrinsic motivation to learn, grow and excel. We believe in a growth mindset -- with effort, perseverance and resilience, every child can think, learn, achieve and excel."
 		],
-		"Type of School": "Government School / Girls' School / Single Session",
+		"Type of School": "Government School / Girls&#39; School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
 	},
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -89,10 +89,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -101,110 +97,119 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
 					"category": "Choir",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Dance - Chinese",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Dance - Indian",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Ensemble - Gamelan",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Gamelan",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
 					"award": "Recognition"
 				},
 				{
-					"year": "2017",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2017",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Gamelan",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Choir",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Dance - Chinese",
 					"award": "Distinction"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Dance - Indian",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Ensemble - Gamelan",
 					"award": "Distinction"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Accomplishment"
 				}
@@ -246,7 +251,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 14,
 		"PLACES TAKEN UP TO PHASE 2B": 84,
 		"VACANCY FOR PHASE 2C": 96,
-		"NO. OF APPLICANTS IN PHASE 2C": 93
+		"NO. OF APPLICANTS IN PHASE 2C": 93,
+		"PLACES TAKEN UP TO PHASE 2C": 177,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 3,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 3
 	},
 	"id": "1038"
 }

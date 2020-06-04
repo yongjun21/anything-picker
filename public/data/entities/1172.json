@@ -16,9 +16,9 @@
 	"mrt": [
 		"Yishun MRT"
 	],
-	"bus": "Translink Feeder Service 800 & 812",
+	"bus": "Translink Feeder Service 800 &amp; 812",
 	"GeneralInformation": {
-		"Principal": "Mrs Yee-Toh Gek Khiaw",
+		"Principal": "Mr Chan Weng Yew Marvin",
 		"Vice Principal": [
 			"Mr Sadanandhan S/o Palani Anandan",
 			"Mr Tan Yew Lee"
@@ -41,10 +41,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Foundation Science",
 		"Health Education",
@@ -63,7 +63,8 @@
 		"Physical Sports": [
 			"Basketball",
 			"Floorball",
-			"Soccer Boys"
+			"Football Boys",
+			"Sports Club"
 		],
 		"Uniformed Groups": [
 			"Cub Scouts"
@@ -93,53 +94,18 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Gamelan",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category C",
 					"award": "Recognition"
@@ -216,6 +182,46 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Gamelan",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Gamelan",
 					"award": "Accomplishment"
 				}
@@ -259,7 +265,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 89,
 		"VACANCY FOR PHASE 2C": 111,
-		"NO. OF APPLICANTS IN PHASE 2C": 46
+		"NO. OF APPLICANTS IN PHASE 2C": 46,
+		"PLACES TAKEN UP TO PHASE 2C": 135,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 65,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 53
 	},
 	"id": "1172"
 }

@@ -18,12 +18,12 @@
 		"Dover MRT",
 		"One-north MRT"
 	],
-	"bus": "SBS Bus 14 , 33 , 74 , 166 & 196 ",
+	"bus": "SBS Bus 14 , 33 , 74 , 166 &amp; 196 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Law Li Mei",
 		"Vice Principal": [
-			"Mr Andrew Ng Siok Kwang",
-			"Miss Ng Swee Lin"
+			"Miss Ng Swee Lin",
+			"Mdm Quek Tsui Lan Prisca"
 		],
 		"Vice Principal (Admin)": "Mr James Chong Kok Chiang",
 		"School Vision": "Leaders of the future pursuing excellence, upholding strong Christian moral values and having a heart to serve",
@@ -36,10 +36,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Foundation Science(non Exam)",
 		"Health Education",
@@ -76,22 +76,13 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Languages": "SPEAK (School-wide Programme to Enhance Articulateness among Kids): Pathways to Oracy"
+			"Languages": "SPEAK (School-wide Programme to Enhance Articulateness among Kids): Pathways to Oracy",
+			"Music & Performing Arts": "HeARTS - Developing empathy and building social awareness through the ARTS"
 		},
 		"Special Student Development Programmes Offered": "Every programme that is carried out in the school is aligned to our Fairfield Outcomes which is the blueprint to nurturing the 21st century Fairsian. Each level has a signature programme designed to develop confidence, discipline and social-emotional competencies through experiential learning and challenge by choice. These include camps, cultural immersion programmes and values-in-action projects. The school's Applied Learning Programme, SPEAK (School-wide Programmes to Enhance Articulateness among Kids) aims to expose students to auditory, visual and interactive methods to develop them into confident and articulate communicators."
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Development Award": "DA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": [
@@ -105,90 +96,83 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
 					"award": "Recognition(Sm)"
 				},
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
+					"year": "2019",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
+					"year": "2019",
 					"category": "Choir",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2019",
 					"category": "Dance - Chinese",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2017",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2018",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Distinction"
 				}
@@ -229,7 +213,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 51,
 		"PLACES TAKEN UP TO PHASE 2B": 236,
 		"VACANCY FOR PHASE 2C": 34,
-		"NO. OF APPLICANTS IN PHASE 2C": 41
+		"NO. OF APPLICANTS IN PHASE 2C": 41,
+		"PLACES TAKEN UP TO PHASE 2C": 270
 	},
 	"id": "5020"
 }

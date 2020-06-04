@@ -5,7 +5,7 @@
 	"uen": " T07GS1223F",
 	"logo": "./Medias/Images/Schools/logos/tn_1223.jpg",
 	"website": "http://www.huaminpri.moe.edu.sg",
-	"address": "530, YISHUN RING ROAD ( 768680 )",
+	"address": "21, YISHUN AVENUE 11 ( 768857 )",
 	"telephone": [
 		"67529004"
 	],
@@ -48,10 +48,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -101,8 +101,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Visual Arts & Design": "Creative Arts Programme for Students (C.A.P.S.)",
-			"Community Service & Student Leadership": "NurTuring CAPs (T-CAPS) @Huamin through Community Service & Student Leadership Development in Education for Sustainable Development (ESD)"
+			"Interdisciplinary": "Education for Sustainable Development (ESD @ Huamin)",
+			"Visual Arts & Design": "Creative Arts Programme for Students (C.A.P.S.)"
 		},
 		"Special Student Development Programmes Offered": "1)LLP Visual Arts (LLP VA)"
 	},
@@ -270,7 +270,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Dance - Chinese": "Silver",
 					"Dance - International": "Silver",
 					"Ensemble - Angklung / Kulintang": "Silver"
@@ -349,7 +349,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Dance - Chinese": "Silver",
 					"Dance - International": "Gold",
 					"Ensemble - Angklung / Kulintang": "Silver"
@@ -428,7 +428,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "3 Awards",
+					"Art &amp; Craft (Silver)": "3 Awards",
 					"Dance - Chinese": "Silver",
 					"Dance - International": "Gold",
 					"Ensemble - Angklung / Kulintang": "Silver"
@@ -506,7 +506,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "3 Awards",
+					"Art &amp; Craft (Silver)": "3 Awards",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - International": "Silver",
@@ -602,13 +602,13 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - International": "Silver",
-					"Ensemble - Angklung / Kulintang": "Bronze"
+					"Ensemble - Angklung / Kulintang": "Bronze",
+					"Art &amp; Craft (Bronze)": "1 Award"
 				}
 			},
 			"2012": {
@@ -688,9 +688,9 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - International": "Silver",
@@ -1141,8 +1141,20 @@
 					"Ensemble - Guitar": "Distinction"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition(Sm)",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
+					"Ensemble - Guitar": "Distinction"
+				}
+			},
+			"2020": {}
 		}
 	},
-	"postalCode": "768680"
+	"postalCode": "768857"
 }

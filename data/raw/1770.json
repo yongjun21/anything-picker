@@ -17,10 +17,7 @@
 	"bus": "Bus 99 , 242 ",
 	"GeneralInformation": {
 		"Principal": "MRS CHANDLER JAY SIVA",
-		"Vice Principal": [
-			"MR FOO CHUAN KAI",
-			"MISS PHAM HONG LIEN PHYLLIS G."
-		],
+		"Vice Principal": "MS PHAM HONG LIEN PHYLLIS G.",
 		"School Vision": "Active Minds, Gracious Hearts",
 		"School Mission": "We aspire to create a conducive environment where pupils learn from the past, appreciate the present and prepare for the future.",
 		"School Philosophy, Culture and Ethos": [
@@ -35,7 +32,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"HEALTH EDUCATION",
@@ -51,7 +48,6 @@
 		"Physical Sports": [
 			"Badminton",
 			"Football",
-			"Netball",
 			"Rope Skipping"
 		],
 		"Uniformed Groups": [
@@ -67,10 +63,9 @@
 			"Ensemble - Guzheng"
 		],
 		"Clubs & Societies": [
-			"Book Buzz Club",
 			"Environmental Club",
 			"Infomedia Club",
-			"Wgps Robotix"
+			"Robotix Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -234,9 +229,9 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold (Hons))": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Choir": "Bronze",
 					"Dance - International": "Silver",
 					"Ensemble - Guzheng": "Bronze"
@@ -244,12 +239,12 @@
 			},
 			"2008": {
 				"SYF Central Judging": {
-					"Art & Craft (Gold (Hons))": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "2 Awards",
+					"Ensemble - Guzheng": "Bronze",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Choir": "Silver",
-					"Dance - International": "Bronze",
-					"Ensemble - Guzheng": "Bronze"
+					"Dance - International": "Bronze"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -336,7 +331,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - International": "Bronze",
 					"Ensemble - Guzheng": "Bronze"
@@ -426,7 +421,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - International": "Bronze",
 					"Ensemble - Guzheng": "Bronze"
@@ -516,8 +511,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - International": "Bronze",
 					"Ensemble - Guzheng": "Bronze"
@@ -607,8 +602,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Dance - International": "Bronze",
 					"Ensemble - Guzheng": "Silver"
 				},
@@ -801,11 +796,11 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art - Category C": "Recognition",
 					"Art - Category A": "Recognition",
 					"Choir": "Accomplishment",
 					"Dance - International": "Commendation",
-					"Ensemble - Guzheng": "Accomplishment"
+					"Ensemble - Guzheng": "Accomplishment",
+					"Art - Category C": "Recognition"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -984,10 +979,10 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Ensemble - Guzheng": "Accomplishment",
 					"Art - Category A": "Recognition",
 					"Choir": "Accomplishment",
-					"Dance - International": "Accomplishment",
-					"Ensemble - Guzheng": "Accomplishment"
+					"Dance - International": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1160,7 +1155,15 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "649223"

@@ -32,9 +32,9 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
 		"HEALTH EDUCATION",
@@ -270,7 +270,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Bronze",
 					"Orchestra - Chinese": "Silver"
@@ -370,7 +370,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Ensemble - Guzheng": "Silver",
@@ -460,7 +460,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Ensemble - Guzheng": "Silver",
@@ -550,7 +550,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Dance - Chinese": "Silver",
 					"Ensemble - Guzheng": "Silver",
 					"Orchestra - Chinese": "Bronze"
@@ -644,7 +644,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
 					"Dance - Chinese": "Silver",
 					"Ensemble - Guzheng": "Silver",
 					"Orchestra - Chinese": "Bronze"
@@ -738,7 +738,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
 					"Dance - Chinese": "Silver",
 					"Ensemble - Guzheng": "Gold",
 					"Orchestra - Chinese": "Silver"
@@ -1259,7 +1259,109 @@
 					"Ensemble - Guzheng": "Distinction"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"6th",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "327829"

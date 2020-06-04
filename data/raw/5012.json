@@ -17,10 +17,7 @@
 	"bus": "73 , 105 , 105A , 159 ",
 	"GeneralInformation": {
 		"Principal": "MR MARTIN TAN SIEW KIN",
-		"Vice Principal": [
-			"MR SOH KAI GUAN",
-			"MR KEITH TAN CHIN HENG"
-		],
+		"Vice Principal": "MR KEITH TAN CHIN HENG",
 		"Vice Principal (Admin)": "MDM CHRISTINA TEE SIEW PING",
 		"School Vision": "A Gabrielite will be God-loving, disciplined, gracious, caring and a life-long learner.",
 		"School Mission": "Shaping Lives for Service to God and Nation.",
@@ -32,17 +29,17 @@
 			"Motto : 'Labor Omnia Vincit' (Labour conquers all) ",
 			"The motto personifies the importance of giving one's best in all endeavours. It is our hope that each student will approach learning with passion and perseverance; that he will form lasting friendships and thus understand the meaning of loyalty, sincerity and fellowship; that he will become socially responsible citizens who would learn from the youngest age how to give of themselves for the greater good; that he will laugh and play and enjoy being a boy. Above all, he must always be mindful of God's grace and presence."
 		],
-		"Type of School": "GOVERNMENT-AIDED SCH / BOYS' SCHOOL / SINGLE SESSION",
+		"Type of School": "GOVERNMENT-AIDED SCH / BOYS&#39; SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
-		"Affiliated Schools": "ST. GABRIEL'S SECONDARY SCHOOL"
+		"Affiliated Schools": "ST. GABRIEL&#39;S SECONDARY SCHOOL"
 	},
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -840,7 +837,14 @@
 					"Band-Brass": "Accomplishment"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band-Brass": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "556742"

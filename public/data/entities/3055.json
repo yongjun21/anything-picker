@@ -19,7 +19,7 @@
 	],
 	"bus": "190 , 307 , 975 , 982E , 985 ",
 	"GeneralInformation": {
-		"Principal": "Mr Tan Keng Joo",
+		"Principal": "Mdm Ong Liang Fung",
 		"Vice Principal": "Mrs Shaima Anshad",
 		"Vice Principal (Admin)": "Mr Ang King Hor (Steven)",
 		"School Vision": [
@@ -48,12 +48,12 @@
 		"Combined Humanities (S,H)",
 		"Combined Humanities (S,L)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Geography",
 		"Higher Chinese",
 		"Higher Malay",
@@ -116,47 +116,17 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category B",
@@ -216,36 +186,42 @@
 					"year": "2018",
 					"category": "Drama - English",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 214,
-			"upper": 238,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 173,
-			"upper": 194,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 129,
-			"upper": 159,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -315,6 +291,30 @@
 			"programme": "Normal Technical",
 			"lower": 137,
 			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 216,
+			"upper": 239,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 171,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 115,
+			"upper": 156,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

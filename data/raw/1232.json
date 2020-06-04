@@ -17,8 +17,10 @@
 	"bus": "945",
 	"GeneralInformation": {
 		"Principal": "MR WILLY TAN NGUAN PENG",
-		"Vice Principal": "MISS TAN HUI PING",
-		"Vice Principal (Admin)": "MR ANDY ANG",
+		"Vice Principal": [
+			"MISS TAN HUI PING",
+			"MR CHUA KYNN HOWE LEONARD"
+		],
 		"School Vision": "Hearts of Service, Minds of Inquiry, Joy in Learning, Confidence in Life",
 		"School Mission": "Together, we bring out the best in every child for a better nation",
 		"School Philosophy, Culture and Ethos": [
@@ -37,10 +39,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -259,7 +261,7 @@
 			},
 			"2009": {
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - Malay": "Gold",
@@ -345,7 +347,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"3rd",
@@ -358,7 +360,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - Malay": "Silver",
@@ -457,7 +459,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"4th",
@@ -470,7 +472,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - Malay": "Silver",
@@ -551,7 +553,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - Malay": "Gold",
@@ -649,7 +651,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -749,7 +751,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -882,7 +884,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -1178,7 +1180,87 @@
 					"Ensemble - Handbell / Handchime": "Accomplishment"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - International": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Gamelan": "Distinction",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "659243"

@@ -17,10 +17,7 @@
 	"bus": "73 , 105 , 105A , 159 ",
 	"GeneralInformation": {
 		"Principal": "Mr Martin Tan Siew Kin",
-		"Vice Principal": [
-			"Mr Soh Kai Guan",
-			"Mr Keith Tan Chin Heng"
-		],
+		"Vice Principal": "Mr Keith Tan Chin Heng",
 		"Vice Principal (Admin)": "Mdm Christina Tee Siew Ping",
 		"School Vision": "A Gabrielite will be God-loving, disciplined, gracious, caring and a life-long learner.",
 		"School Mission": "Shaping Lives for Service to God and Nation.",
@@ -32,17 +29,17 @@
 			"Motto : 'Labor Omnia Vincit' (Labour conquers all) ",
 			"The motto personifies the importance of giving one's best in all endeavours. It is our hope that each student will approach learning with passion and perseverance; that he will form lasting friendships and thus understand the meaning of loyalty, sincerity and fellowship; that he will become socially responsible citizens who would learn from the youngest age how to give of themselves for the greater good; that he will laugh and play and enjoy being a boy. Above all, he must always be mindful of God's grace and presence."
 		],
-		"Type of School": "Government-aided Sch / Boys' School / Single Session",
+		"Type of School": "Government-aided Sch / Boys&#39; School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
-		"Affiliated Schools": "St. Gabriel's Secondary School"
+		"Affiliated Schools": "St. Gabriel&#39;s Secondary School"
 	},
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -84,17 +81,12 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
+			"2019": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band-Brass",
-					"award": "Commendation"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category C",
 					"award": "Recognition"
@@ -111,6 +103,16 @@
 				},
 				{
 					"year": "2018",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
 					"category": "Band-Brass",
 					"award": "Accomplishment"
 				}
@@ -152,7 +154,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 21,
 		"PLACES TAKEN UP TO PHASE 2B": 79,
 		"VACANCY FOR PHASE 2C": 71,
-		"NO. OF APPLICANTS IN PHASE 2C": 63
+		"NO. OF APPLICANTS IN PHASE 2C": 63,
+		"PLACES TAKEN UP TO PHASE 2C": 141,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 9,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 21
 	},
 	"id": "5012"
 }

@@ -29,7 +29,7 @@
 			"Central to our success at providing a holistic education for our students is the strong partnership we enjoy with our stakeholders and institutions in the wider community. At ACSJ, boys are part of a community that values each person's individual self-worth. They engage in meaningful activities while fostering firm friendships and ties that will last a lifetime.",
 			"We believe that under our nurturing environment, and being amongst a caring and congenial community of staff, students, parents and alumni, a student's primary years with us will be both fulfilled and meaningful. Our students will leave the school as confident young gentlemen, ready to move on to greater heights in their next stage in life for above all they stand by our motto: The Best Is Yet To Be."
 		],
-		"Type of School": "GOVERNMENT-AIDED SCH / BOYS' SCHOOL / SINGLE SESSION",
+		"Type of School": "GOVERNMENT-AIDED SCH / BOYS&#39; SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
 			"ANGLO-CHINESE SCHOOL (INDEPENDENT)",
@@ -39,7 +39,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"HEALTH EDUCATION",
@@ -65,8 +65,8 @@
 			"Tennis"
 		],
 		"Uniformed Groups": [
-			"Boys' Brigade",
-			"Cadet Scouts"
+			"Cadet Scouts",
+			"The Boys' Brigade"
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
@@ -316,39 +316,6 @@
 						"Senior"
 					],
 					[
-						"Table Tennis",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"4th",
-						"-",
-						"-"
-					],
-					[
-						"Tennis",
-						"-",
-						"1st",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
-						"Tenpin Bowling",
-						"3rd",
-						"1st",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
 						"Badminton",
 						"-",
 						"-",
@@ -374,6 +341,39 @@
 						"Sailing",
 						"1st",
 						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"3rd",
+						"1st",
 						"-",
 						"-",
 						"-",
@@ -414,8 +414,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - International": "Bronze"
 				},
@@ -557,8 +557,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Dance - International": "Bronze",
 					"Ensemble - Strings": "Bronze"
@@ -1023,8 +1023,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - International": "Bronze",
@@ -1204,8 +1204,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Band - Concert": "Gold",
 					"Choir": "Silver",
 					"Dance - International": "Silver",
@@ -2371,7 +2371,185 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
+					],
+					[
+						"Swimming",
+						"2nd",
+						"2nd",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track &amp; Field",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Commendation",
+					"Dance - International": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "227988"

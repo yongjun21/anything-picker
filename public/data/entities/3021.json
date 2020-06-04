@@ -34,7 +34,7 @@
 		"Additional Mathematics",
 		"Art",
 		"Art Na Level",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Basic Tamil",
@@ -44,12 +44,12 @@
 		"Chinese N(A)",
 		"Co-curricular Activities",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Food Studies, N Level",
 		"Geography",
@@ -110,13 +110,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Best Practice Awards": "BPA (Staff Well-Being)",
-				"Special Awards": "LHL Award for Innovation in the Normal Course",
-				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "ODA (National Education)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Best Practice Awards": "BPA (Staff Well-Being)",
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
@@ -131,33 +124,12 @@
 				"Outstanding Development Award": "ODA (National Education)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Band - Concert",
@@ -212,36 +184,42 @@
 					"year": "2018",
 					"category": "Drama - English",
 					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 242,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 155,
-			"upper": 195,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 124,
-			"upper": 151,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -311,6 +289,30 @@
 			"programme": "Normal Technical",
 			"lower": 132,
 			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 257,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 187,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 136,
+			"upper": 153,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

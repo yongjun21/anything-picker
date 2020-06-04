@@ -16,7 +16,7 @@
 	"mrt": "Admiralty MRT Station",
 	"bus": "Bus No 913 and Bus No 964",
 	"GeneralInformation": {
-		"Principal": "MDM BOEY HUEY PENG SHARON",
+		"Principal": "MR TAN CHOON KHENG",
 		"Vice Principal": [
 			"MDM KHOO PHAIK HOON REGINA",
 			"MRS RANUKA PALANIVELU"
@@ -38,7 +38,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"HEALTH EDUCATION",
 		"MALAY",
@@ -54,7 +54,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Interdisciplinary": "Playworks – Nurturing Critical and Inventive Thinkers"
+			"Interdisciplinary": "Playworks – Nurturing Critical and Inventive Thinkers",
+			"Community Service & Student Leadership": "PeerWorks – Building Self, Supporting One Another, Serving the Community Together"
 		},
 		"Special Student Development Programmes Offered": "The school's Applied Learning Programme, PlayWorks nurtures Riverians as critical and inventive thinkers and collaborative problem-solvers through play-and-design experiences using different tools and media. Pupils work in groups and apply the protocol \"Understand, Plan, Design, Build, Improvise\" to solve problems. Throughout the problem-solving process, pupils demonstrate the SPARKLE Values and practise communication, collaboration and reflection. At every grade level, there is a signature PlayWorks module, namely P1 LegoWorks, P2 LegoWorks, P3 PaperWorks and P4 ParkWorks. The PlayWorks protocol is also pervasively applied in English Language for writing, Science for inquiry and Art for artmaking.  "
 	},
@@ -85,7 +86,86 @@
 					"Ensemble - Strings": "Accomplishment"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "737803"

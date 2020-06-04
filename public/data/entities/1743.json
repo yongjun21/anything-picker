@@ -20,6 +20,7 @@
 	"GeneralInformation": {
 		"Principal": "Miss Oh See Moey",
 		"Vice Principal": "Mdm Ho Fui Fong",
+		"Vice Principal (Admin)": "Miss Chua Mei Li",
 		"School Vision": "Leaders of Character, championing Service and Excellence",
 		"School Mission": "To nurture future-ready students, anchored on values",
 		"School Philosophy, Culture and Ethos": "We believe that 'Every Child Matters' and we centre our Teaching and Learning on this philosophy. We are guided by our school values of Respect for All, Responsibility in Actions, Resilience in Adversity, Integrity Our Core, Care for Community and Harmony in Diversity in our interactions and our decision-making.",
@@ -30,9 +31,9 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -73,40 +74,21 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
 				},
 				{
 					"year": "2017",
@@ -124,11 +106,6 @@
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2017",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
 					"year": "2018",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -145,6 +122,31 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Commendation"
 				}
@@ -186,7 +188,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 47,
 		"VACANCY FOR PHASE 2C": 103,
-		"NO. OF APPLICANTS IN PHASE 2C": 61
+		"NO. OF APPLICANTS IN PHASE 2C": 61,
+		"PLACES TAKEN UP TO PHASE 2C": 108,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 42,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 23
 	},
 	"id": "1743"
 }

@@ -20,8 +20,8 @@
 	"GeneralInformation": {
 		"Principal": "Mdm Shanti Devi D/o Thambusamy",
 		"Vice Principal": [
-			"Mr Wong Mun Wah",
-			"Mr Derick Wong Teck Fatt"
+			"Mr Derick Wong Teck Fatt",
+			"Mdm Linda Yeo Sock Khoon"
 		],
 		"School Vision": "A caring community in a challenging learning environment",
 		"School Mission": "To nurture all-round individuals of integrity and grace, ready to face global challenges",
@@ -37,9 +37,9 @@
 		"Chemistry",
 		"Chinese",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"English Language",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
@@ -99,11 +99,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Special Awards": "LHL Award for Innovation in the Normal Course",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
@@ -114,48 +109,13 @@
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category B",
@@ -240,36 +200,57 @@
 					"year": "2018",
 					"category": "Drama - English",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 232,
-			"upper": 253,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 185,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 142,
-			"upper": 158,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -339,6 +320,30 @@
 			"programme": "Normal Technical",
 			"lower": 139,
 			"upper": 157,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 235,
+			"upper": 255,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 183,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 144,
+			"upper": 159,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

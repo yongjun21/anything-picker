@@ -21,6 +21,7 @@
 			"MR OW EU GENE JOHN",
 			"MDM SENTHIL POONKODI D/O R K"
 		],
+		"Vice Principal (Admin)": "MR PHANG CHEE KHENG",
 		"School Vision": "Confident Individuals, Responsible Citizens.",
 		"School Mission": "To nurture every child to lead their lives responsibly and to contribute with joy.",
 		"School Philosophy, Culture and Ethos": [
@@ -36,7 +37,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -62,19 +63,18 @@
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
-			"International Dance",
-			"Speech & Drama Club",
-			"Tap Dance",
-			"Ukulele & Guitar"
+			"Dance - International",
+			"Speech And Drama Society",
+			"Tap Dancing"
 		],
 		"Clubs & Societies": [
+			"Chess Club - International",
 			"Eco Club",
 			"Infocom Club",
 			"Innovations Club",
-			"International Chess Club",
 			"Literary Club",
 			"Robotics Club",
-			"Wecare Club"
+			"We Care Club"
 		],
 		"Others": [
 			"School Captains"
@@ -479,17 +479,6 @@
 						"Senior"
 					],
 					[
-						"Rope Skipping",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"3rd"
-					],
-					[
 						"Tenpin Bowling",
 						"-",
 						"3rd",
@@ -499,6 +488,17 @@
 						"-",
 						"-",
 						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
 					]
 				],
 				"SYF Arts Presentation": {
@@ -509,7 +509,16 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guitar": "Commendation"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "828819"

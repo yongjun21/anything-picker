@@ -20,7 +20,7 @@
 	"bus": "2 , 7 , 24 , 25 , 26 , 28 , 30 , 32 , 33 , 67 , 854 ",
 	"GeneralInformation": {
 		"Principal": "Miss Loh Sing Huay",
-		"Vice Principal": "Mr Tayeb B Rajib",
+		"Vice Principal": "Mr Edwin Heng Tow Yang",
 		"Vice Principal (Admin)": "Mr Chew Soo Kwang",
 		"School Vision": "A community of caring, confident and independent learners serving and excelling for the glory of God.",
 		"School Mission": "Enabling all Stephenians to learn how to learn and to learn how to live; empowering them to become men of integrity and men for others.",
@@ -38,11 +38,11 @@
 			"- Know clearly what they believe and why they believe.  ",
 			"- Believe and trust in God, maintain physical fitness and mental health, avoiding excesses and abuses, possess social awareness and a sense of responsibility for the common good."
 		],
-		"Type of School": "Government-aided Sch / Boys' School / Single Session",
+		"Type of School": "Government-aided Sch / Boys&#39; School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
-			"St. Joseph's Institution",
-			"St. Patrick's School"
+			"St. Joseph&#39;s Institution",
+			"St. Patrick&#39;s School"
 		]
 	},
 	"SubjectOffered": [
@@ -51,7 +51,7 @@
 		"Co-curricular Activities",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Tamil",
@@ -97,59 +97,64 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Art - Category B",
 					"award": "Recognition"
 				},
 				{
-					"year": "2016",
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
 					"category": "Band-Brass",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2017",
-					"category": "Band-Brass",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2018",
-					"category": "Band-Brass",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				}
@@ -191,7 +196,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 22,
 		"PLACES TAKEN UP TO PHASE 2B": 84,
 		"VACANCY FOR PHASE 2C": 126,
-		"NO. OF APPLICANTS IN PHASE 2C": 68
+		"NO. OF APPLICANTS IN PHASE 2C": 68,
+		"PLACES TAKEN UP TO PHASE 2C": 152,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 58,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 37
 	},
 	"id": "5015"
 }

@@ -18,7 +18,7 @@
 	],
 	"bus": "812 (next to bus service number 171) at Yishun Interchange",
 	"GeneralInformation": {
-		"Principal": "Mr Tan Choon Kheng",
+		"Principal": "Mr Jay Westly Mahardale",
 		"Vice Principal": "Mdm Neo Aik Seo",
 		"Vice Principal (Admin)": "Mr Fong Kim Wah",
 		"School Vision": "Firm Foundations, Future Learnings",
@@ -39,10 +39,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -95,9 +95,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -105,44 +102,13 @@
 			"2018": {
 				"School Distinction Awards": "SDA"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Commendation"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -230,6 +196,56 @@
 				{
 					"year": "2018",
 					"category": "Dance - International",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Strings",
 					"award": "Commendation"
 				}
 			],
@@ -272,7 +288,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 25,
 		"PLACES TAKEN UP TO PHASE 2B": 157,
 		"VACANCY FOR PHASE 2C": 83,
-		"NO. OF APPLICANTS IN PHASE 2C": 243
+		"NO. OF APPLICANTS IN PHASE 2C": 243,
+		"PLACES TAKEN UP TO PHASE 2C": 240
 	},
 	"id": "1729"
 }

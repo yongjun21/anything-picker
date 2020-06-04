@@ -22,7 +22,7 @@
 			"MDM GOH HUI CHENG"
 		],
 		"Vice Principal (Admin)": "MISS PENNY NG LEE YONG",
-		"School Vision": "A Dynamic Learning Community that nurtures loyal citizens with global outlook and Godly character.",
+		"School Vision": "One Hildan Family anchored on Godly values - Nurturing Servant Leaders and Changemakers of Tomorrow",
 		"School Mission": [
 			"As an Anglican school, we are committed to providing a balanced development of body, mind and spirit for our students and nurturing God-fearing citizens for our nation.",
 			"Our school values are:  Serve Humbly, Love Sincerely, Learn Continuously, Lead Wisely, Live Responsibly",
@@ -31,15 +31,15 @@
 		"School Philosophy, Culture and Ethos": "St Hilda's Primary School established in 1934 is an Anglican Christian school with boys and girls from multi-ethnic backgrounds   Through generations of committed school leaders, staff, church workers and parents, the school has developed a culture of excellence and care.  One of the key school strengths is the emphasis on moral values and character development.  We have daily devotions and a strong Character and Leadership Development programme.  The school challenges our students to do well not only academically but also in their co-curricular activities.  Every Hildan through his or her six years of education will grow to be an Articulate, Confident, Innovative and Caring Ambassador.",
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
-		"Affiliated Schools": "ST. HILDA'S SECONDARY SCHOOL"
+		"Affiliated Schools": "ST. HILDA&#39;S SECONDARY SCHOOL"
 	},
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION TAMIL",
 		"HEALTH EDUCATION",
@@ -74,7 +74,7 @@
 			"Dance",
 			"Drama Box",
 			"Guzheng",
-			"String Ensemble"
+			"String Ensemble Senior (Mon)"
 		],
 		"Clubs & Societies": [
 			"Chess Club",
@@ -340,14 +340,14 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guzheng": "Silver",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Indian": "Gold",
-					"Dance - International": "Silver",
-					"Dance - Malay": "Silver",
-					"Ensemble - Guzheng": "Silver"
+					"Dance - International": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -467,9 +467,9 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Indian": "Gold",
 					"Dance - International": "Gold",
@@ -606,7 +606,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Indian": "Gold",
 					"Dance - International": "Gold",
@@ -743,7 +743,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - International": "Gold",
@@ -875,7 +875,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Choir": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - International": "Gold",
@@ -1007,7 +1007,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Choir": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - International": "Gold (Hons)",
@@ -1788,7 +1788,123 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Hockey",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Sailing",
+						"-",
+						"3rd",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "529706"

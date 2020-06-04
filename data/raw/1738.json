@@ -17,10 +17,8 @@
 	"bus": "Yishun Ring Road - 812 (white plate); Yishun Ave 2 - 169 , 804 , 965 , 117 , 883 ",
 	"GeneralInformation": {
 		"Principal": "MISS ONG LEE CHOO",
-		"Vice Principal": [
-			"MRS HAN LEE KWANG NEE ANG K C",
-			"MADAM SULASNI BINTE ABDUL RAHMAN"
-		],
+		"Vice Principal": "MADAM SULASNI BINTE ABDUL RAHMAN",
+		"Vice Principal (Admin)": "MISS KOK YING YING JASLIN",
 		"School Vision": "Leaders of Character; Learners for Life",
 		"School Mission": "A caring school that provides quality learning experiences for every child to develop good character, pursue academic excellence and acquire life skills for the future.",
 		"School Philosophy, Culture and Ethos": [
@@ -35,10 +33,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
 		"HEALTH EDUCATION",
@@ -71,10 +69,6 @@
 			"Indian Dance",
 			"Malay Dance",
 			"Photography Club"
-		],
-		"Clubs & Societies": [
-			"Infocomm Club",
-			"Innovation And Environment Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -469,7 +463,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Gold (Hons)",
@@ -565,7 +559,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
@@ -764,12 +758,12 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Ensemble - Harmonica": "Accomplishment",
 					"Choir": "Distinction",
 					"Dance - Chinese": "Accomplishment",
 					"Dance - Indian": "Distinction",
 					"Ensemble - Angklung / Kulintang": "Distinction",
-					"Ensemble - Gamelan": "Accomplishment"
+					"Ensemble - Gamelan": "Accomplishment",
+					"Ensemble - Harmonica": "Accomplishment"
 				}
 			},
 			"2015": {
@@ -1034,12 +1028,12 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Choir": "Accomplishment",
 					"Art - Category C": "Recognition",
 					"Dance - Chinese": "Distinction",
 					"Dance - Indian": "Distinction",
 					"Ensemble - Angklung / Kulintang": "Accomplishment",
-					"Ensemble - Harmonica": "Accomplishment",
-					"Choir": "Accomplishment"
+					"Ensemble - Harmonica": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1126,7 +1120,19 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
+					"Ensemble - Harmonica": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "768643"

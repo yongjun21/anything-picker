@@ -36,10 +36,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Foundation Science",
 		"Health Education",
@@ -84,10 +84,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": "DA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": "DA (Character Development)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -96,34 +92,12 @@
 				"Development Award": "DA (Character Development)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -180,6 +154,46 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Accomplishment"
 				}
@@ -222,7 +236,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 28,
 		"VACANCY FOR PHASE 2C": 92,
-		"NO. OF APPLICANTS IN PHASE 2C": 15
+		"NO. OF APPLICANTS IN PHASE 2C": 15,
+		"PLACES TAKEN UP TO PHASE 2C": 43,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 77,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 13
 	},
 	"id": "1735"
 }

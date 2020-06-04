@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MDM LEE WEE LIN MAUREEN",
 		"Vice Principal": [
-			"MR KONG KOK HENG MELVIN",
-			"MR KALVINDAR SINGH"
+			"MR KALVINDAR SINGH",
+			"MR WILSON TAY SWEE KIAT"
 		],
 		"School Vision": "The First President School, an institution that nurtures Scholars, Sportsmen and Statesmen.",
 		"School Mission": "To nurture Curiosity, Creativity and Confidence in Yusoffians so that they will be Life-long Learners who contribute to the Greater Good.",
@@ -35,10 +35,10 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -190,9 +190,9 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Display / Marching": "Bronze"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -293,9 +293,9 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Display / Marching": "Bronze",
 					"Dance - Indian": "Silver",
 					"Dance - International": "Bronze",
@@ -399,8 +399,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Band - Display / Marching": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - International": "Bronze",
@@ -504,13 +504,13 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
+					"Dance - Malay": "Silver",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Band - Display / Marching": "Silver",
 					"Choir": "Silver",
 					"Dance - Indian": "Silver",
-					"Dance - International": "Bronze",
-					"Dance - Malay": "Silver",
-					"Art & Craft (Bronze)": "1 Award"
+					"Dance - International": "Bronze"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -610,7 +610,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Display / Marching": "Bronze",
 					"Choir": "Silver",
 					"Dance - Indian": "Silver",
@@ -721,7 +721,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Display / Marching": "Bronze",
 					"Choir": "Silver",
 					"Dance - Indian": "Bronze",
@@ -1193,7 +1193,17 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Dance - Malay": "Distinction",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Band-Wind Ensemble": "Distinction",
+					"Choir": "Commendation"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1435,7 +1445,8 @@
 				"None-posted"
 			]
 		},
-		"2019": {}
+		"2019": {},
+		"2020": {}
 	},
 	"postalCode": "658712"
 }

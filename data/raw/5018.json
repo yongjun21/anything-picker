@@ -13,11 +13,11 @@
 		"65101599"
 	],
 	"email": "MONTFORT_JS@MOE.EDU.SG",
-	"mrt": "Hougang MRT & Bus Interchange",
+	"mrt": "Hougang MRT &amp; Bus Interchange",
 	"bus": "74 , 88 , 101 , 147 , 161 ,  ",
 	"GeneralInformation": {
 		"Principal": "MR WONG KENG YUIN WILBUR",
-		"Vice Principal": "MDM NG LI YI",
+		"Vice Principal": "MDM POH LEE SIEW",
 		"Vice Principal (Admin)": "MISS CHUA CHEW HIANG",
 		"School Vision": [
 			"A Montfortian, A Man for Others. Every Montfortian a Scholar, Sportsman, gentleman and a leader",
@@ -39,16 +39,16 @@
 			"To become committed to transform society in obedience to Wisdom.",
 			"Given this mandate, the school leverages on our 100 years of history to build an institution that emphasizes on promoting a culture of care and excellence to help develop our students to be imbued with our CHRISTE* values and who will go on to serve his community and be a man for others."
 		],
-		"Type of School": "GOVERNMENT-AIDED SCH / BOYS' SCHOOL / SINGLE SESSION",
+		"Type of School": "GOVERNMENT-AIDED SCH / BOYS&#39; SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "MONTFORT SECONDARY SCHOOL"
 	},
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -423,17 +423,6 @@
 						"Senior"
 					],
 					[
-						"Badminton",
-						"-",
-						"4th",
-						"-",
-						"-",
-						"1st",
-						"1st",
-						"-",
-						"-"
-					],
-					[
 						"Table Tennis",
 						"-",
 						"-",
@@ -441,6 +430,17 @@
 						"-",
 						"-",
 						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"1st",
+						"1st",
 						"-",
 						"-"
 					]
@@ -647,7 +647,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Ensemble - Strings": "Bronze"
 				}
 			},
@@ -751,7 +751,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Dance - International": "Silver",
 					"Ensemble - Strings": "Bronze"
 				},
@@ -1294,7 +1294,96 @@
 					"Ensemble - Guitar": "Accomplishment"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition(Sm)",
+					"Dance - International": "Distinction",
+					"Ensemble - Guitar": "Accomplishment"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "538786"

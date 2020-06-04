@@ -14,7 +14,7 @@
 	],
 	"email": "anchorgreen_ps@moe.edu.sg",
 	"mrt": "MRT : NE16-Sengkang LRT : SW7-TongKang",
-	"bus": "Bus 163 & 372",
+	"bus": "Bus 163 &amp; 372",
 	"GeneralInformation": {
 		"Principal": "MDM NORLIZA BTE A RAHIM",
 		"Vice Principal": "MDM VASUNDHARA  REDDY",
@@ -36,7 +36,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -77,7 +77,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Community Service & Student Leadership": "Serve and Lead through Environmental Education",
+			"Interdisciplinary": "Empowering Learners to be Environmental Activists (ELEA)",
 			"Music & Performing Arts/ Visual Arts & Design": "A.G.P.S Arts (Aspire, Grow, Passion and Serve through the Arts)"
 		},
 		"Special Student Development Programmes Offered": "SLEEC (Serve and Lead through Environment Education) is a programme designed to raise awareness about caring for the environment and building an eco-conscious culture among its students and staff. Over the years, structured school-wide as well as level-wide programmes have been put in place, leveraging its strong foundation in environmental education, with the aim of nurturing in our students the desired character, talent and skills in which they would be able to apply later on in life."
@@ -247,8 +247,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Dance - International": "Bronze",
 					"Ensemble - Handbell / Handchime": "Silver"
 				}
@@ -337,8 +337,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Dance - Chinese": "Silver",
 					"Ensemble - Guzheng": "Silver"
 				},
@@ -722,10 +722,10 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Ensemble - Guzheng": "Accomplishment",
 					"Art - Category C": "Recognition",
 					"Dance - International": "Accomplishment",
-					"Ensemble - Handbell / Handchime": "Accomplishment",
-					"Ensemble - Guzheng": "Accomplishment"
+					"Ensemble - Handbell / Handchime": "Accomplishment"
 				}
 			},
 			"2017": {
@@ -920,7 +920,88 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Commendation",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "544969"

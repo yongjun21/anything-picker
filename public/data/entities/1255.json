@@ -23,6 +23,7 @@
 			"Mr Ow Eu Gene John",
 			"Mdm Senthil Poonkodi D/o R K"
 		],
+		"Vice Principal (Admin)": "Mr Phang Chee Kheng",
 		"School Vision": "Confident Individuals, Responsible Citizens.",
 		"School Mission": "To nurture every child to lead their lives responsibly and to contribute with joy.",
 		"School Philosophy, Culture and Ethos": [
@@ -38,7 +39,7 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
 		"Health Education",
 		"Higher Chinese",
@@ -64,19 +65,18 @@
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
-			"International Dance",
-			"Speech & Drama Club",
-			"Tap Dance",
-			"Ukulele & Guitar"
+			"Dance - International",
+			"Speech And Drama Society",
+			"Tap Dancing"
 		],
 		"Clubs & Societies": [
+			"Chess Club - International",
 			"Eco Club",
 			"Infocom Club",
 			"Innovations Club",
-			"International Chess Club",
 			"Literary Club",
 			"Robotics Club",
-			"Wecare Club"
+			"We Care Club"
 		],
 		"Others": [
 			"School Captains"
@@ -91,33 +91,18 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -149,6 +134,26 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guitar",
 					"award": "Commendation"
 				}
@@ -190,7 +195,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 18,
 		"PLACES TAKEN UP TO PHASE 2B": 115,
 		"VACANCY FOR PHASE 2C": 165,
-		"NO. OF APPLICANTS IN PHASE 2C": 168
+		"NO. OF APPLICANTS IN PHASE 2C": 168,
+		"PLACES TAKEN UP TO PHASE 2C": 280
 	},
 	"id": "1255"
 }

@@ -37,11 +37,11 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -89,10 +89,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": "DA (National Education)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": "DA (National Education)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -101,44 +97,12 @@
 				"Development Award": "DA (National Education)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band-Brass",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -206,6 +170,41 @@
 				{
 					"year": "2018",
 					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
 					"award": "Distinction"
 				}
 			],
@@ -244,7 +243,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 2,
 		"PLACES TAKEN UP TO PHASE 2B": 91,
 		"VACANCY FOR PHASE 2C": 119,
-		"NO. OF APPLICANTS IN PHASE 2C": 85
+		"NO. OF APPLICANTS IN PHASE 2C": 85,
+		"PLACES TAKEN UP TO PHASE 2C": 175,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 35,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 40
 	},
 	"id": "1747"
 }

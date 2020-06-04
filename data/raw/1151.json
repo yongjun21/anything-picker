@@ -45,11 +45,11 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
 		"FOUNDATION TAMIL",
@@ -68,7 +68,6 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Football",
 			"Netball",
 			"Taekwondo",
 			"Tchoukball",
@@ -99,6 +98,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"Science": "STEM@MFPS",
 			"Music & Performing Arts": "LLP@MFPS: Development of Character, Citizenship and 21CC in and through the Arts"
 		},
 		"Special Student Development Programmes Offered": "We believe that if pupils 'Make Thinking Visible' and 'Learn by Doing\", the learning process will be more engaging. Hence we adopt innovative teaching pedagogies to make learning more enjoyable and effective. The list of enrichment/signature programmes shown below is just a snapshot of what the school has to offer:"
@@ -512,7 +512,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Silver",
@@ -596,7 +596,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Silver",
@@ -867,7 +867,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -1161,7 +1161,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -1184,7 +1184,89 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "569948"

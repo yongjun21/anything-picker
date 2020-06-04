@@ -21,15 +21,12 @@
 	"GeneralInformation": {
 		"Principal": "Mrs Elsie Poey",
 		"Vice Principal": [
-			"Mrs Tan Poh Kuan Joycelyn",
-			"Mrs Jacqueline Hiew"
+			"Mrs Jacqueline Hiew",
+			"Mdm Yong Ming Woei Chloe"
 		],
 		"Vice Principal (Admin)": "Mr Tan Tau Chin Vincent",
-		"School Vision": [
-			"Engaged Learner",
-			"Contributing Leader"
-		],
-		"School Mission": "To provide our pupils with an all-rounded bilingual education that will develop them into responsible and forward-looking individuals who will serve God and our nation.",
+		"School Vision": "Students of Character with a zest for learning and a heart to serve",
+		"School Mission": "nurtures bilingual students in a caring, bicultural environment,  to serve God and nation.",
 		"School Philosophy, Culture and Ethos": "Every child can be nurtured and developed.",
 		"Type of School": "Government-aided Sch / Co-ed School / Double Session",
 		"Mother Tongue": "Chinese",
@@ -38,10 +35,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Foundation Science",
 		"Health Education",
@@ -76,7 +73,6 @@
 		"Clubs & Societies": [
 			"Chinese Society",
 			"Christian Fellowship",
-			"It Club",
 			"Robotics Club"
 		]
 	},
@@ -85,21 +81,13 @@
 			"SAP"
 		],
 		"School Distinctive Programmes": {
-			"Languages": [
-				"Competent, Confident Communicators (C",
-				null,
-				") – A 6 year progressive programme."
-			],
+			"Languages": "Competent, Confident Communicators (C3) – A 6 year progressive programme.",
 			"Sports & Outdoor Education": "STAR (Self-defence, Track & field, Adventure and Racquet games) @ PHPPS"
 		},
 		"Special Student Development Programmes Offered": "Chinese Arts Programme (CAP) for P1 - P6; Art and music lessons are taught in Chinese for P1 - P3"
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -108,39 +96,13 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -198,6 +160,36 @@
 				{
 					"year": "2018",
 					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
 				}
 			],
@@ -240,7 +232,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 41,
 		"PLACES TAKEN UP TO PHASE 2B": 203,
 		"VACANCY FOR PHASE 2C": 21,
-		"NO. OF APPLICANTS IN PHASE 2C": 51
+		"NO. OF APPLICANTS IN PHASE 2C": 51,
+		"PLACES TAKEN UP TO PHASE 2C": 224
 	},
 	"id": "5623"
 }

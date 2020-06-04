@@ -31,7 +31,7 @@
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
 			"Catholic Junior College",
-			"Holy Innocents' Primary School"
+			"Holy Innocents&#39; Primary School"
 		]
 	},
 	"SubjectOffered": [
@@ -39,7 +39,7 @@
 		"Art",
 		"Art Na Level",
 		"Art Nt Level",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Biology",
@@ -49,12 +49,12 @@
 		"Chinese N(A)",
 		"Computer Applications",
 		"Computing",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
@@ -70,7 +70,7 @@
 		"Mathematics (Syllabus T)",
 		"Music",
 		"Music Nt Level",
-		"Music 'O' Level",
+		"Music &#39;o&#39; Level",
 		"Physical Education",
 		"Physics",
 		"Principles Of Accounts",
@@ -119,47 +119,18 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -206,6 +177,31 @@
 				},
 				{
 					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Drama - English",
 					"award": "Accomplishment"
 				}
@@ -214,30 +210,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 229,
-			"upper": 242,
-			"lowerAffiliated": 188,
-			"upperAffiliated": 233
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 180,
-			"upper": 199,
-			"lowerAffiliated": 153,
-			"upperAffiliated": 187
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 122,
-			"upper": 148,
-			"lowerAffiliated": 118,
-			"upperAffiliated": 150
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -309,6 +281,30 @@
 			"upper": 153,
 			"lowerAffiliated": 123,
 			"upperAffiliated": 157
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 232,
+			"upper": 244,
+			"lowerAffiliated": 188,
+			"upperAffiliated": 244
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 181,
+			"upper": 198,
+			"lowerAffiliated": 154,
+			"upperAffiliated": 187
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 131,
+			"upper": 157,
+			"lowerAffiliated": 120,
+			"upperAffiliated": 151
 		}
 	],
 	"postalCode": "534786",

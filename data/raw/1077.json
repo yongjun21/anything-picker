@@ -19,7 +19,7 @@
 		"Principal": "MDM ELIS TAN LEE CHING",
 		"Vice Principal": [
 			"MS HO HWEE MEIN, STELLA",
-			"MR CHAN WENG YEW MARVIN"
+			"MR CHIEW JING WEN"
 		],
 		"Vice Principal (Admin)": "MR LOH YUH POR",
 		"School Vision": [
@@ -37,7 +37,7 @@
 		"ART",
 		"CHINESE",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -53,7 +53,7 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton",
+			"Badminton (School)",
 			"Basketball",
 			"Football",
 			"Taekwondo",
@@ -215,7 +215,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -361,7 +361,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -496,7 +496,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -1164,17 +1164,6 @@
 						"Senior"
 					],
 					[
-						"Wushu",
-						"-",
-						"3rd",
-						"3rd",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
 						"Badminton",
 						"-",
 						"-",
@@ -1190,6 +1179,17 @@
 						"-",
 						"3rd",
 						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"-",
+						"3rd",
+						"3rd",
 						"-",
 						"-",
 						"-",
@@ -1462,6 +1462,17 @@
 						"Senior"
 					],
 					[
+						"Badminton",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"3rd",
+						"1st",
+						"4th",
+						"2nd"
+					],
+					[
 						"Tennis",
 						"-",
 						"4th",
@@ -1482,29 +1493,18 @@
 						"-",
 						"-",
 						"-"
-					],
-					[
-						"Badminton",
-						"-",
-						"1st",
-						"-",
-						"-",
-						"3rd",
-						"1st",
-						"4th",
-						"2nd"
 					]
 				],
 				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
 					"Band-Brass": "Accomplishment",
 					"Chinese Orchestra-Full Orchestra": "Distinction",
 					"Choir": "Distinction",
 					"Dance - Chinese": "Accomplishment",
 					"Dance - Indian": "Accomplishment",
 					"Dance - International": "Distinction",
-					"Dance - Malay": "Accomplishment",
-					"Art - Category A": "Recognition",
-					"Art - Category C": "Recognition"
+					"Dance - Malay": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1619,7 +1619,123 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"1st",
+						"4th",
+						"-",
+						"3rd",
+						"1st",
+						"1st",
+						"-",
+						"2nd"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
+					],
+					[
+						"Swimming",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "555855"

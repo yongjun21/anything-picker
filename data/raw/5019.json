@@ -27,14 +27,14 @@
 			"CHIJ Our Lady Queen of Peace founded in 1955, is one of the eleven schools belonging to the congregation of the Infant Jesus. CHIJ OLQP aims to nurture every child to be a Learner, Leader and Lady, who embodies our school motto 'Simple in Virtue, Steadfast in Duty'. A CHIJ OLQP education has always stood for the holistic development of a child through educational opportunities in the six domains of cognitive, physical, aesthetics, social & moral, student leadership and morale. ",
 			"Aligned to our vision, our school values is for every girl to be Good and Smart. The school provides opportunities for all students to show qualities to be her best self, and to do her best work. Guided by the IJ mission, our staff and students work together to promote the IJ virtues 'Truth, Justice, Freedom and Love' through acts of service within and beyond the school community, attending to the needs of persons who are disadvantaged in any ways."
 		],
-		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS' SCHOOL / SINGLE SESSION",
+		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS&#39; SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
-		"Affiliated Schools": "CHIJ ST. THERESA'S CONVENT"
+		"Affiliated Schools": "CHIJ ST. THERESA&#39;S CONVENT"
 	},
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION ENGLISH",
@@ -165,8 +165,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
 					"Dance - International": "Silver"
@@ -244,8 +244,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - Chinese": "Silver",
@@ -336,7 +336,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - Chinese": "Silver",
@@ -427,7 +427,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Gold",
 					"Dance - Chinese": "Silver",
@@ -508,7 +508,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Gold)": "2 Awards",
 					"Band - Concert": "Bronze",
 					"Choir": "Gold",
 					"Dance - Chinese": "Silver",
@@ -593,7 +593,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Gold)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - Chinese": "Silver",
@@ -1148,7 +1148,96 @@
 					"Dance - International": "Accomplishment"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"2nd",
+						"1st"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "679287"

@@ -15,17 +15,15 @@
 	"email": "nvtps@moe.edu.sg",
 	"mrt": "Buangkok MRT (NE15), Ranggung LRT (SE5)",
 	"GeneralInformation": {
-		"Principal": "MRS DHILLON AWTAR SINGH",
-		"Vice Principal": [
-			"MRS LIM MEI LEE NEE YUEN",
-			"MR WEE HOCK MENG VICTOR"
-		],
+		"Principal": "MR ONG LYE WHATT",
+		"Vice Principal": "MR WEE HOCK MENG VICTOR",
+		"Vice Principal (Admin)": "MDM AUDREY KANG",
 		"School Vision": "Community of Learners @ the School of the Future",
 		"School Mission": "Build Character, Inspire Passion in Learning",
 		"School Philosophy, Culture and Ethos": [
 			"We are guided by our philosophy that Every Student is an Engaged Learner, Every Staff a Caring Educator and Every Parent a Supportive Parent. We believe that every child is important and of worth. He is curious and is capable of building his own knowledge. He wants to be heard; so time and space will be given to honour his voice. He wants to learn when opportunities are given to him and we are committed to providing him with the opportunities to learn through our programmes. ",
 			"The House and Sixer System was set up to strengthen Teacher Student Relationship (TSR) and build Social Emotional Competencies in students.  The System provides a safety network for the student population where students build friendships and foster a sense of security in the school. Students get opportunities to engage in activities where the P6 Sixer Leader and the P5 Assistant Leader assist the teachers in caring for the younger students in the group. Each teacher takes care of 3 groups and each group consists of a total of six students from the same House and across 6 levels (P1 to P6).",
-			"The school believes in the importance of school and home partnership. Every parent is a Partner in Education. Parents complement the work of teachers at home. While the responsibility of raising a child lies in the hands of parents, the school will work together with parents to develop the child to the fullest. At North Vista, the Bistro (Cafe) is open to parents for breakfast with their children before school. This is to encourage bonding between parent and child as well as provide opportunities for teachers to have informal tripartite conversations."
+			"The school believes in the importance of school and home partnership. Every parent is a Partner in Education. Parents complement the work of teachers at home. While the responsibility of raising a child lies in the hands of parents, the school will work together with parents to develop the child to the fullest."
 		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay",
@@ -34,7 +32,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"HEALTH EDUCATION",
 		"MALAY",
@@ -56,7 +54,9 @@
 		"Visual and Performing Arts": [
 			"Excellence Art Club",
 			"Excellence Band",
+			"Excellence Chinese Dance",
 			"Excellence Choir",
+			"Excellence International Dance",
 			"Modular Art Club"
 		],
 		"Clubs & Societies": [
@@ -82,20 +82,20 @@
 			"2008": {},
 			"2009": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award"
+					"Art &amp; Craft (Bronze)": "1 Award"
 				}
 			},
 			"2010": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Dance - International": "Silver"
 				}
 			},
 			"2011": {
 				"Achievement Award": "CHERISH Award",
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Dance - International": "Silver"
 				}
 			},
@@ -176,8 +176,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold",
@@ -597,17 +597,6 @@
 						"Senior"
 					],
 					[
-						"Rugby",
-						"-",
-						"-",
-						"-",
-						"-",
-						"2nd",
-						"2nd",
-						"-",
-						"-"
-					],
-					[
 						"Softball",
 						"1st",
 						"1st",
@@ -615,6 +604,17 @@
 						"3rd",
 						"-",
 						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
 						"-",
 						"-"
 					]
@@ -708,7 +708,87 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Softball",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "544974"

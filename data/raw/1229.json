@@ -32,7 +32,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
@@ -63,7 +63,7 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Art And Craft Club",
+			"Art Club",
 			"Choir"
 		]
 	},
@@ -230,11 +230,11 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Silver",
-					"Dance - Malay": "Silver"
+					"Dance - Malay": "Silver",
+					"Art &amp; Craft (Bronze)": "1 Award"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -310,7 +310,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Bronze",
@@ -410,7 +410,7 @@
 				"Achievement Award": "CHERISH Award",
 				"Sustained Achievement Award": "SAA (Aesthetics)",
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Silver",
@@ -422,7 +422,7 @@
 				"Achievement Award": "CHERISH Award",
 				"Sustained Achievement Award": "SAA (Aesthetics)",
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Dance - Chinese": "Silver",
 					"Dance - Malay": "Gold"
@@ -601,9 +601,9 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Dance - International": "Accomplishment",
 					"Art - Category C": "Recognition",
-					"Choir": "Commendation",
-					"Dance - International": "Accomplishment"
+					"Choir": "Commendation"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -774,7 +774,86 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "659441"

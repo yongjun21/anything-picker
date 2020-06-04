@@ -24,17 +24,17 @@
 		"School Vision": "To be an asset to the country by developing capable women of character and relevance.",
 		"School Mission": "To inspire and develop every student to fulfil her fullest potential, according to her individual pace and aspiration, so as to prepare her for meaningful roles in the community.",
 		"School Philosophy, Culture and Ethos": "The SCGS education philosophy stems from our strong belief in providing a holistic and balanced education founded on a bedrock of timeless values and rich heritage. Our environment which offers the warmth and stability of a strong family fosters excellence and achievement based on every student's personal needs, interests and aptitude. We add colour, character and richness to the learning experience.",
-		"Type of School": "INDEPENDENT SCHOOL / GIRLS' SCHOOL / SINGLE SESSION",
+		"Type of School": "INDEPENDENT SCHOOL / GIRLS&#39; SCHOOL / SINGLE SESSION",
 		"IP Partner Schools": [
 			"CATHOLIC HIGH SCHOOL",
 			"CHIJ ST. NICHOLAS GIRLS' SCHOOL"
 		],
 		"Mother Tongue": "Chinese / Malay / Tamil",
-		"Affiliated Schools": "SINGAPORE CHINESE GIRLS' PRIMARY SCHOOL"
+		"Affiliated Schools": "SINGAPORE CHINESE GIRLS&#39; PRIMARY SCHOOL"
 	},
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
@@ -53,7 +53,7 @@
 		"MALAY",
 		"MATHEMATICS",
 		"MUSIC",
-		"MUSIC 'O' LEVEL",
+		"MUSIC &#39;O&#39; LEVEL",
 		"PHYSICS",
 		"TAMIL"
 	],
@@ -280,8 +280,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "2 Awards"
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "2 Awards"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -472,15 +472,15 @@
 					]
 				],
 				"SYF Central Judging": {
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - Chinese": "Gold",
 					"Dance - International": "Gold (Hons)",
 					"Drama - Chinese": "Bronze",
 					"Drama - English": "Gold (Hons)",
-					"Ensemble - Handbell / Handchime": "Gold (Hons)",
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "2 Awards"
+					"Ensemble - Handbell / Handchime": "Gold (Hons)"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1459,7 +1459,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold",
 					"Choir": "Gold (Hons)",
 					"Dance - Chinese": "Gold (Hons)",
@@ -1690,7 +1690,7 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Distinction",
 					"Choir": "Distinction",
 					"Dance - Chinese": "Distinction",
@@ -2195,17 +2195,6 @@
 						"'C' Div"
 					],
 					[
-						"Badminton",
-						"-",
-						"-",
-						"2nd",
-						"2nd",
-						"-",
-						"-",
-						"2nd",
-						"2nd"
-					],
-					[
 						"Basketball",
 						"-",
 						"-",
@@ -2215,6 +2204,17 @@
 						"-",
 						"1st",
 						"1st"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"2nd",
+						"2nd"
 					],
 					[
 						"Netball",
@@ -2752,7 +2752,226 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Canoeing",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Squash",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'A' Div",
+						"'A' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -2909,6 +3128,19 @@
 				"257",
 				"220",
 				"254"
+			]
+		},
+		"2020": {
+			"Integrated Programme": [
+				"252",
+				"271",
+				"None-posted"
+			],
+			"'O' Level Programme": [
+				"252",
+				"258",
+				"220",
+				"253"
 			]
 		}
 	},

@@ -18,11 +18,11 @@
 	"GeneralInformation": {
 		"Principal": "MRS TAN WAN YU",
 		"Vice Principal": "MR CHIA GUO HAO",
-		"Vice Principal (Admin)": "MR DAVID ALLAN D'SOUZA",
+		"Vice Principal (Admin)": "MR DAVID ALLAN D&#39;SOUZA",
 		"School Vision": "A Forward-looking Community of Learners, Thinkers and Leaders",
 		"School Mission": [
-			"Nurturing Talents to Achieve Success.",
-			"The MI mission is to nurture our students to be grounded on the core values of INTEGRITY, RESILIENCE, RESPECT and RESPONSIBILITY, so that they succeed as contributing members of society.  This is done, in partnership with our stakeholders, by providing a variety of programmes and opportunities to students to have a broad-based learning experience and space to pursue their passion and interests."
+			"Nurture Talents, Achieve Success.",
+			"The MI mission is to nurture our students to be grounded on the core values of INTEGRITY, RESILIENCE, RESPECT and RESPONSIBILITY, so that they achieve different definitions of success, beyond the academic, as contributing members of society.  This is done, in partnership with our stakeholders, by providing a variety of programmes and opportunities to students to have a broad-based learning experience and space to pursue their passion and interests."
 		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / FULL DAY",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -50,17 +50,17 @@
 		"H2 ART",
 		"H2 BIOLOGY",
 		"H2 CHEMISTRY",
-		"H2 CHINESE LANGUAGE & LITERATURE",
+		"H2 CHINESE LANGUAGE &amp; LITERATURE",
 		"H2 ECONOMICS",
 		"H2 GEOGRAPHY",
 		"H2 HISTORY",
 		"H2 LITERATURE IN ENGLISH",
-		"H2 MALAY LANGUAGE & LITERATURE",
+		"H2 MALAY LANGUAGE &amp; LITERATURE",
 		"H2 MANAGEMENT OF BUSINESS",
 		"H2 MATHEMATICS",
 		"H2 PHYSICS",
 		"H2 PRINCIPLES OF ACCOUNTING",
-		"H2 TAMIL LANGUAGE & LITERATURE",
+		"H2 TAMIL LANGUAGE &amp; LITERATURE",
 		"MALAY B",
 		"PHYSICAL EDUCATION",
 		"TAMIL B"
@@ -71,7 +71,6 @@
 			"Floorball",
 			"Football",
 			"Hockey",
-			"Rugby",
 			"Ten-Pin Bowling",
 			"Wushu"
 		],
@@ -82,8 +81,7 @@
 			"Indian Cultural Society",
 			"Malay Cultural Society",
 			"Millennian Stage",
-			"Modern Dance",
-			"New Media Club"
+			"Modern Dance"
 		],
 		"Clubs & Societies": [
 			"Chinese Cultural Society",
@@ -135,7 +133,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Drama - English": "Silver"
 				}
 			},
@@ -178,7 +176,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Dance - Indian": "Silver",
 					"Dance - International": "Silver",
 					"Dance - Malay": "Silver",
@@ -470,9 +468,9 @@
 						"'A' Div"
 					],
 					[
-						"Rugby",
-						"4th",
+						"Football",
 						"-",
+						"4th",
 						"-",
 						"-"
 					],
@@ -484,9 +482,9 @@
 						"-"
 					],
 					[
-						"Football",
-						"-",
+						"Rugby",
 						"4th",
+						"-",
 						"-",
 						"-"
 					]
@@ -581,6 +579,7 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
 					"Band - Concert": "Commendation",
 					"Dance - Indian": "Distinction",
 					"Dance - International": "Accomplishment",
@@ -588,8 +587,7 @@
 					"Drama - Chinese": "Commendation",
 					"Drama - English": "Distinction",
 					"Drama - Malay": "Distinction",
-					"Ensemble - Angklung / Kulintang": "Distinction",
-					"Art - Category C": "Recognition"
+					"Ensemble - Angklung / Kulintang": "Distinction"
 				}
 			},
 			"2018": {
@@ -641,7 +639,19 @@
 					"Ensemble - Angklung / Kulintang": "Distinction"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - Chinese": "Commendation",
+					"Drama - English": "Accomplishment",
+					"Drama - Malay": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Distinction"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"L1R5History": {
@@ -748,6 +758,20 @@
 			],
 			"Commerce": [
 				"8",
+				"19"
+			]
+		},
+		"2020": {
+			"Arts": [
+				"9",
+				"19"
+			],
+			"Science/IB": [
+				"3",
+				"20"
+			],
+			"Commerce": [
+				"10",
 				"19"
 			]
 		}

@@ -16,7 +16,7 @@
 	"mrt": "SERANGOON MRT",
 	"bus": "22 , 43 , 45 , 53 , 58 , 70 , 81 , 82 , 100 , 101 , 103 , 105 , 107 , 109 , 133 , 135 , 147 , 153 , 158 , 315 , 317 , 853 ",
 	"GeneralInformation": {
-		"Principal": "MR LOH LEONG BENG",
+		"Principal": "MISS LOW SHIOK CHENG CINDY",
 		"Vice Principal": [
 			"MDM NEO LAY PIN",
 			"MR KOH KAI HONG"
@@ -33,26 +33,26 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
-		"ART FOR AEP",
-		"ART NA LEVEL",
-		"ART NT LEVEL",
-		"ART 'O' LEVEL",
+		"BASIC CHINESE",
+		"BASIC MALAY",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
+		"CHINESE N(A)",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
 		"COMPUTING",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"FOOD STUDIES, N LEVEL",
 		"GEOGRAPHY",
+		"HIGHER ART",
 		"HIGHER CHINESE",
 		"HISTORY",
 		"HUMANITIES (SS, GEOGRAPHY)",
@@ -65,7 +65,7 @@
 		"MATHEMATICS (SYLLABUS A)",
 		"MATHEMATICS (SYLLABUS T)",
 		"MUSIC",
-		"MUSIC 'O' LEVEL",
+		"MUSIC &#39;O&#39; LEVEL",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
@@ -343,17 +343,6 @@
 						"'C' Div"
 					],
 					[
-						"Volleyball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"4th",
-						"4th",
-						"-",
-						"-"
-					],
-					[
 						"Basketball",
 						"-",
 						"-",
@@ -363,6 +352,17 @@
 						"-",
 						"-",
 						"3rd"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"-"
 					],
 					[
 						"",
@@ -403,13 +403,13 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Orchestra - Chinese": "Gold",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Drama - Chinese": "Bronze",
 					"Drama - English": "Bronze",
-					"Ensemble - Guzheng": "Silver"
+					"Ensemble - Guzheng": "Silver",
+					"Orchestra - Chinese": "Gold"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -865,7 +865,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
@@ -1042,7 +1042,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
@@ -1217,7 +1217,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
@@ -1394,7 +1394,7 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art & Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
 					"Band - Concert": "Distinction",
 					"Choir": "Distinction",
 					"Dance - Chinese": "Accomplishment",
@@ -2160,17 +2160,6 @@
 						"'C' Div"
 					],
 					[
-						"Basketball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"2nd"
-					],
-					[
 						"Volleyball",
 						"-",
 						"-",
@@ -2180,6 +2169,17 @@
 						"4th",
 						"-",
 						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd"
 					],
 					[
 						"",
@@ -2242,7 +2242,126 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -2498,6 +2617,23 @@
 			"Normal Technical": [
 				"135",
 				"158",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"236",
+				"264",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"181",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"134",
+				"159",
 				"None-posted"
 			]
 		}

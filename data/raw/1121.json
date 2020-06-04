@@ -18,9 +18,10 @@
 	"GeneralInformation": {
 		"Principal": "MR KOH CHIN THONG, MARTIN",
 		"Vice Principal": [
-			"MISS CHEN YANTING NATHALIE",
-			"MDM WONG SU MAY"
+			"MDM WONG SU MAY",
+			"MR CHUA CHYE HOCK"
 		],
+		"Vice Principal (Admin)": "MISS REGINA KIM LEE HOON",
 		"School Vision": "Lead with character, serve with talents",
 		"School Mission": "Nurturing concerned citizens with integrity and a spirit of excellence through holistic education",
 		"School Philosophy, Culture and Ethos": "We believe that \"Every child matters and every child can succeed\". Since its founding in 1977, Henry Park Primary School has been educating responsible citizens and citizen-leaders for our society. Much emphasis is placed on the two key pillars that support the development of total curriculum and character building to ensure the holistic development of talented all-rounders. We provide a distinctively unique learning experience to meet the varied needs and interests of all our students. Supported by a team of skilful, caring and dedicated staff who take pride in their service, the school seeks to identify the strengths of each individual student and develop his or her potential to the fullest, be it the cognitive, aesthetic, leadership or physical domain. With its value-added academic programmes, coupled with a strong focus on character education, students are equipped and empowered to be future-ready citizens, possessing a strong sense of identity and resilience as they contribute to society. It is the school's fervent belief that every Henry Park student that passes through its doors will be a holistic and joyful life-long learner.",
@@ -31,9 +32,9 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -290,17 +291,6 @@
 						"Senior"
 					],
 					[
-						"Table Tennis",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
 						"Tennis",
 						"4th",
 						"4th",
@@ -332,6 +322,17 @@
 						"-",
 						"1st",
 						"1st"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
 					],
 					[
 						"",
@@ -392,7 +393,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - International": "Bronze",
@@ -562,7 +563,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Choir": "Gold",
 					"Dance - Chinese": "Silver",
 					"Orchestra - Chinese": "Bronze"
@@ -1539,17 +1540,6 @@
 						"Senior"
 					],
 					[
-						"Badminton",
-						"4th",
-						"-",
-						"-",
-						"-",
-						"2nd",
-						"2nd",
-						"1st",
-						"-"
-					],
-					[
 						"Netball",
 						"-",
 						"-",
@@ -1570,6 +1560,17 @@
 						"2nd",
 						"3rd",
 						"3rd"
+					],
+					[
+						"Badminton",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"1st",
+						"-"
 					],
 					[
 						"",
@@ -1630,11 +1631,11 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Dance - Chinese": "Distinction",
+					"Orchestra - Chinese": "Accomplishment",
 					"Art - Category A": "Recognition",
 					"Art - Category B": "Recognition",
-					"Choir": "Distinction",
-					"Dance - Chinese": "Distinction",
-					"Orchestra - Chinese": "Accomplishment"
+					"Choir": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1885,7 +1886,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"2nd",
 						"-",
@@ -2046,7 +2047,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"2nd",
 						"3rd",
 						"-",
@@ -2128,17 +2129,6 @@
 						"Senior"
 					],
 					[
-						"Netball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"3rd"
-					],
-					[
 						"Badminton",
 						"-",
 						"4th",
@@ -2183,6 +2173,17 @@
 						"-"
 					],
 					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
 						"",
 						"'C' Div",
 						"'D' Div",
@@ -2202,7 +2203,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"3rd",
 						"2nd",
 						"-",
@@ -2281,7 +2282,185 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"4th",
+						"2nd",
+						"2nd"
+					],
+					[
+						"Football",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"4th"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
+					],
+					[
+						"Track &amp; Field",
+						"4th",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"Jnr Optional",
+						"Jnr Novice",
+						"Junior",
+						"Senior",
+						"Jnr Elite",
+						"Jnr Devt",
+						"Junior",
+						"Senior",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Commendation",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "278790"

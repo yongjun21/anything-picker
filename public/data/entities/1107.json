@@ -18,7 +18,7 @@
 	],
 	"bus": "51 , 66 , 66B , 78 , 79 , 97 , 97A , 98 , 105 , 105B , 143 , 176 , 197 , 333 , 334 , 335 , 506 ",
 	"GeneralInformation": {
-		"Principal": "Mr Phua Kia Wang",
+		"Principal": "Mr Ganesan S/o Raman",
 		"Vice Principal": "Mdm Teo Siew Khim",
 		"Vice Principal (Admin)": "Ms Saima Hanif",
 		"School Vision": "SINGAPORE SMART SCHOOL OF THE FUTURE",
@@ -30,10 +30,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -55,20 +55,19 @@
 			"Badminton",
 			"Basketball",
 			"Football",
-			"Netball",
-			"Tennis"
+			"Netball"
 		],
 		"Uniformed Groups": [
 			"Brownies",
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Art Club",
+			"Art And Craft Club",
 			"Brass Band",
+			"Chinese Dance",
 			"Choir",
-			"Dance - Chinese",
-			"Dance - Modern",
-			"Ensemble - Guzheng"
+			"Ensemble - Guzheng",
+			"Modern Dance"
 		]
 	},
 	"SpecialProgrammes": {
@@ -80,39 +79,18 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": "PARTNERS (Merit)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band-Brass",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -144,11 +122,6 @@
 				},
 				{
 					"year": "2018",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2018",
 					"category": "Art - Category A",
 					"award": "Recognition"
 				},
@@ -174,6 +147,51 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Commendation"
 				}
@@ -216,7 +234,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 1,
 		"PLACES TAKEN UP TO PHASE 2B": 106,
 		"VACANCY FOR PHASE 2C": 104,
-		"NO. OF APPLICANTS IN PHASE 2C": 53
+		"NO. OF APPLICANTS IN PHASE 2C": 53,
+		"PLACES TAKEN UP TO PHASE 2C": 159,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 51,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 59
 	},
 	"id": "1107"
 }

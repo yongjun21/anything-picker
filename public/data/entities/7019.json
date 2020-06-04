@@ -26,7 +26,7 @@
 		"School Vision": "WOMEN OF INTEGRITY WITH THE PASSION TO PURSUE EXCELLENCE",
 		"School Mission": "The mission of an Infant Jesus Convent is the creation of a Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way.",
 		"School Philosophy, Culture and Ethos": "We believe our students possess talents and will experience success. SJC is where we develop our girls' moral character (values-driven) and performance character (value-adding). Our goal is for our girls to embody the values of Love, Integrity and Freedom, and to grow as Engaged and Empowered learners, Effective leaders, and Eloquent individuals with strong Ethics (LIFE4). We provide a vibrant Aesthetics curriculum, and an extensive Differentiated Leadership Programme for all our students.",
-		"Type of School": "Government-aided Sch / Girls' School / Single Session",
+		"Type of School": "Government-aided Sch / Girls&#39; School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
 			"Catholic Junior College",
@@ -37,7 +37,7 @@
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art Na Level",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Basic Tamil",
@@ -45,18 +45,17 @@
 		"Chemistry",
 		"Chinese",
 		"Chinese N(A)",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
-		"Combined Humanities (S,L)",
 		"Computer Applications",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
 		"Literature(E)",
 		"Malay",
 		"Malay N(A)",
@@ -111,14 +110,10 @@
 			"Languages & Humanities": "The Art of Communication through Theatre and Debates",
 			"Community & Youth Leadership": "Buidling Critical and Creative Thinking through Future-Problem Solving"
 		},
-		"Special Student Development Programmes Offered": "Our Applied Learning Programme (ALP), 'The Art of Communication through Theatre and Debates', uses a values-centred approach to deepen our girls' creativity, reflective-thinking and communication skills via a layered curriculum that integrates the arts, the languages and the humanities.  Through the analysis of social issues and the validation of aesthetics skills, this ALP supports our aim to nurture articulate and confident students who are women of integrity.  Our Learning for Life Programme (LLP), Thinking for Life Using the Future Problem Solving Model (FPSM), aims to broaden students' critical and creative thinking skills through the active discussion and engagement of the community in issues and problems that students have identified.  This approach seeks to deepen students' perspective-taking skills, empathy and social entrepreneurship to prepare them for active, engaged citizenship in a global world.  In line with SJC's emphasis on Performance and Moral Character-Building, SJC's Differentiated Leadership Programme is adapted from the Kouzes and Posner's Leadership Challenge Model and MacGregor's Everyday Leadership Model to ensure that every SJCian has extensive opportunities to develop her leadership skills to develop strong moral values."
+		"Special Student Development Programmes Offered": "Our Applied Learning Programme (ALP), 'The Art of Communication through Theatre and Debates', uses a values-centred approach to deepen our girls' creativity, reflective-thinking and communication skills via a layered curriculum that integrates the arts, the languages and the humanities.  Through the analysis of social issues and the validation of aesthetics skills, this ALP supports our aim to nurture articulate and confident students who are women of integrity.  Our Learning for Life Programme (LLP), Thinking for Life Using the Future Problem Solving Model (FPSM), aims to broaden students' critical and creative thinking skills through the active engagement of the community in issues and problems that students have identified.  This approach seeks to deepen students' perspectives, empathy and social entrepreneurship to prepare them for active, engaged citizenship in a global world.  SJC's Differentiated Leadership Programme is adapted from the Kouzes and Posner's Leadership Challenge Model and MacGregor's Everyday Leadership Model to ensure that every SJCian has extensive opportunities to develop her leadership skills."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Special Awards": "LHL Award for Innovation in the Normal Course",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -127,49 +122,13 @@
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -246,6 +205,46 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - Multi-Lingual",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Distinction"
 				}
@@ -254,30 +253,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 231,
-			"upper": 250,
-			"lowerAffiliated": 200,
-			"upperAffiliated": 243
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": null,
-			"upper": null,
-			"lowerAffiliated": 154,
-			"upperAffiliated": 199
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 117,
-			"upper": 154,
-			"lowerAffiliated": 127,
-			"upperAffiliated": 155
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -348,6 +323,30 @@
 			"lower": 137,
 			"upper": 159,
 			"lowerAffiliated": 133,
+			"upperAffiliated": 151
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 237,
+			"upper": 246,
+			"lowerAffiliated": 200,
+			"upperAffiliated": 248
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 187,
+			"upper": 196,
+			"lowerAffiliated": 162,
+			"upperAffiliated": 199
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 139,
+			"upper": 153,
+			"lowerAffiliated": 119,
 			"upperAffiliated": 151
 		}
 	],

@@ -31,11 +31,11 @@
 			"Family   Society   Eternity"
 		],
 		"School Philosophy, Culture and Ethos": "As a mission school, St Andrew's Secondary school provides a holistic education nurturing young men to become future-ready Servant Leaders. It is our belief that no one comes to the school by chance. Growing boys to become men requires our focus on the following strategic areas: Empowering Learning : Building self-directed learners who excel in learning. Serving and Belonging : Fostering in our students a strong sense of belonging and a disposition toward service and contribution. Every Boy Aspiring : Helping our students discover and hone their skills and talents and bringing out the best in them.",
-		"Type of School": "Government-aided Sch / Boys' School / Single Session",
+		"Type of School": "Government-aided Sch / Boys&#39; School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
-			"St. Andrew's Junior College",
-			"St. Andrew's Junior School"
+			"St. Andrew&#39;s Junior College",
+			"St. Andrew&#39;s Junior School"
 		]
 	},
 	"SubjectOffered": [
@@ -46,11 +46,12 @@
 		"Chinese",
 		"Combined Humanities (S,H)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Electronics",
 		"Elements Of Business Skills",
 		"English Language",
 		"Food And Consumer Education",
+		"Geography",
 		"Higher Chinese",
 		"Higher Tamil",
 		"History",
@@ -102,13 +103,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Special Awards": "LHL Award for Innovation in the Normal Course",
-				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
@@ -119,28 +113,13 @@
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category B",
@@ -180,36 +159,32 @@
 					"year": "2018",
 					"category": "Drama - English",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 245,
-			"upper": 249,
-			"lowerAffiliated": 189,
-			"upperAffiliated": 256
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 189,
-			"upper": 199,
-			"lowerAffiliated": 152,
-			"upperAffiliated": 187
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 142,
-			"upper": 155,
-			"lowerAffiliated": 123,
-			"upperAffiliated": 151
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -281,6 +256,30 @@
 			"upper": 155,
 			"lowerAffiliated": 111,
 			"upperAffiliated": 151
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 247,
+			"upper": 249,
+			"lowerAffiliated": 193,
+			"upperAffiliated": 262
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 193,
+			"upper": 199,
+			"lowerAffiliated": 152,
+			"upperAffiliated": 195
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 142,
+			"upper": 157,
+			"lowerAffiliated": 99,
+			"upperAffiliated": 149
 		}
 	],
 	"postalCode": "359342",

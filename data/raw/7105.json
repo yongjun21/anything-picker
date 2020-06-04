@@ -22,9 +22,9 @@
 			"MR CHANG FOOK YONG"
 		],
 		"Vice Principal (Admin)": "MDM ELSIE TAN SER HONG",
-		"School Vision": "A Premier And Prestigious School",
-		"School Mission": "To instill desired values in our students and develop their potential so that they will achieve excellence and contribute to the community, nation and the world.",
-		"School Philosophy, Culture and Ethos": "Chung Cheng High School (Yishun) offers a quality values-driven holistic education that grows our students to be responsible, respectful, courageous and inquiring learners with a mindset for excellence.  Our students are caring individuals who contribute to the local, national and global community.  Guided by school core value of Zhi, Ren and Yong, students are disciplined and diligent in the pursuit of knowledge.  They are responsible and discerning when seeking to acquire knowledge.  They are keen learners who are ready to deal with 21st century challenges.  Being compassionate, caring and grateful, they proactively contribute to improving the lives of others.  Our students will embrace change, seize opportunities and be willing to take calculated risks so as to overcome challenges with courage and resilience.  Through self-reflection for continuous improvement, they are courageous to stand up for what is right and demonstrate honesty and responsibility in all their actions.  They live up to the school motto of 'Success through Diligence and Perseverance'.",
+		"School Vision": "A community of positive and future-ready leaders with a mindset for excellence",
+		"School Mission": "Nurturing lifelong learners with a global outlook, anchored on values and competencies to serve and to lead",
+		"School Philosophy, Culture and Ethos": "Chung Cheng High School (Yishun) offers a quality values-driven holistic education that grows our students to be responsible, respectful, courageous and inquiring learners with a mindset for excellence.  Our students are caring individuals who contribute to the local, national and global community.  Guided by school core value of With Integrity We Live; With Empathy We Care; With Grit We Persevere; With Gratitude We Serve, students are disciplined and diligent in the pursuit of knowledge.  They are responsible and discerning when seeking to acquire knowledge.  They are keen learners who are ready to deal with 21st century challenges.  Being compassionate, caring and grateful, they proactively contribute to improving the lives of others.  Our students will embrace change, seize opportunities and be willing to take calculated risks so as to overcome challenges with courage and resilience.  Through self-reflection for continuous improvement, they are courageous to stand up for what is right and demonstrate honesty and responsibility in all their actions.  They live up to the school motto of 'Success through Diligence and Perseverance'",
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "NANYANG JUNIOR COLLEGE"
@@ -34,7 +34,7 @@
 		"ART",
 		"ART NA LEVEL",
 		"ART NT LEVEL",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BIOLOGY",
@@ -44,7 +44,7 @@
 		"CHINESE N(A)",
 		"COMPUTER APPLICATIONS",
 		"COMPUTING",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
@@ -87,16 +87,16 @@
 			"Band - Symphonic",
 			"Choir",
 			"Dance - Chinese",
-			"Dance - International",
+			"Dance Ensemble",
 			"Drama Club",
 			"Festival Drums",
 			"Guzheng Ensemble",
 			"Orchestra - Chinese"
 		],
 		"Clubs & Societies": [
-			"Ava Club",
-			"Entrepreneur Club",
-			"Green Club"
+			"Green Club",
+			"Journalism & Library",
+			"Multimedia Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -1486,7 +1486,135 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Fencing",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Wushu",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Commendation",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1742,6 +1870,23 @@
 			"Normal Technical": [
 				"142",
 				"159",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"241",
+				"259",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"185",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"142",
+				"157",
 				"None-posted"
 			]
 		}

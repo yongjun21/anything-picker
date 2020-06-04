@@ -25,11 +25,11 @@
 		"School Vision": "The Gabrielite...Servant Leader, Lifelong Learner, Gracious Citizen",
 		"School Mission": "Shaping lives for Service to God and Nation",
 		"School Philosophy, Culture and Ethos": "Founded in 1953, we are an all boys Cathoilic institution of the Montfort Brothers of St. Gabriel. Our mission is to shape the lives of Gabrielites who will serve the community as Servant Leaders, who are  Lifelong Learners and Gracious Citizens. Our philosophy of education is guided by the Montfortian Education Charter, formed by an understanding and study of the life and works of St. Louis Marie de Montfort. We design our programmes and curriculum to develop Gabrielites grounded in the values  of Respect, Resilience, Responsibility and Care. We emphasize and respect the need for personal spiritual growth and sustain it through daily reflections and actions. Our motto, Labour Omnia Vincit (Labour Conquers All), rallies Gabrielites to persevere in all endeavours with tenacity and determination. In our Gabrielite community, there is a strong culture of care amongst staff as well as students. This care is extended to the larger community, putting our values into action through service.   Our school has sustained high levels of achievement in the areas of academia, sports, aesthetics and uniformed groups. Our character and leadership programme aims to grow and nurture our students to be Servant Leaders through progressive development from self-directed to  collaborative learners and eventually serving actively and leading effectively.",
-		"Type of School": "GOVERNMENT-AIDED SCH / BOYS' SCHOOL / SINGLE SESSION",
+		"Type of School": "GOVERNMENT-AIDED SCH / BOYS&#39; SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
 			"CATHOLIC JUNIOR COLLEGE",
-			"ST. GABRIEL'S PRIMARY SCHOOL"
+			"ST. GABRIEL&#39;S PRIMARY SCHOOL"
 		]
 	},
 	"SubjectOffered": [
@@ -44,7 +44,7 @@
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"FOOD AND CONSUMER EDUCATION",
@@ -1611,23 +1611,23 @@
 						"'C' Div"
 					],
 					[
-						"Floorball",
-						"-",
-						"4th",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
 						"Football",
 						"4th",
 						"-",
 						"-",
 						"-",
 						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
 						"-",
 						"-",
 						"-"
@@ -1918,7 +1918,132 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Golf",
+						"4th",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Drama - English": "Distinction",
+					"Ensemble - Guitar": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -2220,6 +2345,26 @@
 				"158",
 				"94",
 				"151"
+			]
+		},
+		"2020": {
+			"Express": [
+				"225",
+				"243",
+				"188",
+				"231"
+			],
+			"Normal Academic": [
+				"172",
+				"196",
+				"152",
+				"185"
+			],
+			"Normal Technical": [
+				"121",
+				"153",
+				"130",
+				"146"
 			]
 		}
 	},

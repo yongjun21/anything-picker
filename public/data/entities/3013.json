@@ -21,15 +21,12 @@
 	"bus": "10 , 16 , 31 , 32 , 33 , 40 , 43 , 134 , 135 , 197 ",
 	"GeneralInformation": {
 		"Principal": "Miss Chew Ing Lim",
-		"Vice Principal": [
-			"Mdm Yehidaah Beevi D/o Shaik A",
-			"Mr Low Ying Ning"
-		],
+		"Vice Principal": "Mdm Yehidaah Beevi D/o Shaik A",
 		"Vice Principal (Admin)": "Mdm Koh Seok Lee Shirley",
 		"School Vision": "Accomplished  women of character and grace",
 		"School Mission": "To nurture every TKGian to be a leader",
-		"School Philosophy, Culture and Ethos": "TKGS is dedicated to nurturing leaders of character, accomplished learners and women of grace. We are committed to nurturing leaders in the academic, character and arts domains. In doing so, we believe in students learning the value of stewardship, where the best and the brightest TKGians must lead through 'noble service' and to 'serve with honour', as inspired by the school song penned by the first principal Ms Maude Scott in 1953. Our aspiration for being a school of distinction must start from within, where every girl who come through our doors would understand the obligations and responsibilities in upholding a tradition of excellence which we have built over 65 years.",
-		"Type of School": "Government School / Girls' School / Single Session",
+		"School Philosophy, Culture and Ethos": "TKGS is dedicated to nurturing leaders of character, accomplished learners and women of grace. We are committed to nurturing leaders in the character, academic and arts domains. In doing so, we believe in students learning the value of stewardship, where the best and the brightest TKGians must lead through 'noble service' to 'serve with honour', as inspired by the school song penned by the first principal Ms Maude Scott in 1953. Our aspiration for being a school of distinction must start from within, where every girl who comes through our doors would understand the obligations and responsibilities in upholding a tradition of excellence which we have built over 65 years.",
+		"Type of School": "Government School / Girls&#39; School / Single Session",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -37,11 +34,11 @@
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Drama",
 		"English Language",
 		"Food And Consumer Education",
@@ -58,7 +55,7 @@
 		"Mathematics",
 		"Music",
 		"Music (MEP)",
-		"Music 'O' Level",
+		"Music &#39;o&#39; Level",
 		"Oecie Economics (GCEO)",
 		"Physical Education",
 		"Physics",
@@ -104,12 +101,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Development Award": "DA (National Education)",
@@ -122,44 +113,15 @@
 				"Outstanding Development Award": "ODA (Character Development)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Development Award": "DA (National Education)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -227,6 +189,41 @@
 				{
 					"year": "2018",
 					"category": "Ensemble - Strings",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
 					"award": "Distinction"
 				}
 			],
@@ -234,14 +231,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 236,
-			"upper": 258,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -263,6 +252,14 @@
 			"programme": "Express",
 			"lower": 235,
 			"upper": 256,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 237,
+			"upper": 271,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

@@ -20,9 +20,8 @@
 	"GeneralInformation": {
 		"Principal": "Mdm Sharma Poonam Kumari",
 		"Vice Principal": [
-			"Mr Pang Chin Keat, Kevin",
-			"Mdm Lim Wei Yin Selina",
-			"Miss Loh Sein Ling"
+			"Miss Loh Sein Ling",
+			"Mr Danny Chew Poh Huat"
 		],
 		"School Vision": [
 			"Learn with Passion,",
@@ -42,21 +41,19 @@
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art",
-		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"English Language",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
 		"Physics",
 		"Principles Of Accounts",
 		"Science (Chem, Bio)",
-		"Science (Phy, Bio)",
 		"Science (Phy, Chem)",
 		"Tamil"
 	],
@@ -92,44 +89,18 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Development Award": "DA (National Education)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Commendation"
-				},
-				{
 					"year": "2017",
 					"category": "Band-Brass Ensemble",
 					"award": "Accomplishment"
@@ -178,36 +149,37 @@
 					"year": "2018",
 					"category": "Drama - English",
 					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Brass Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Sectional Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 227,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 188,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 94,
-			"upper": 148,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -253,6 +225,22 @@
 			"programme": "Normal Academic",
 			"lower": 152,
 			"upper": 187,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 246,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 185,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

@@ -34,7 +34,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -591,17 +591,6 @@
 						"Senior"
 					],
 					[
-						"Volleyball",
-						"-",
-						"-",
-						"4th",
-						"1st",
-						"-",
-						"2nd",
-						"1st",
-						"1st"
-					],
-					[
 						"Table Tennis",
 						"-",
 						"-",
@@ -611,10 +600,21 @@
 						"-",
 						"-",
 						"3rd"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"4th",
+						"1st",
+						"-",
+						"2nd",
+						"1st",
+						"1st"
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Dance - International": "Gold",
 					"Orchestra - Chinese": "Gold"
 				}
@@ -708,7 +708,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Orchestra - Chinese": "Gold",
 					"Dance - International": "Silver"
 				},
@@ -1231,7 +1231,96 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Dance - International": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "518866"

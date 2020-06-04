@@ -16,7 +16,7 @@
 	"mrt": "TAMPINES EAST MRT",
 	"bus": "28 , 29 , 293 ",
 	"GeneralInformation": {
-		"Principal": "MR SURESH S/O BALAKRISHNAN",
+		"Principal": "MR TOH THIAM CHYE",
 		"Vice Principal": [
 			"MRS CLAIRE CHO",
 			"MR MOHAMED SAYADI BIN MOHAMED NOR"
@@ -43,12 +43,12 @@
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
@@ -509,7 +509,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold (Hons)",
 					"Dance - Indian": "Bronze",
@@ -649,15 +649,15 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Band - Concert": "Silver",
 					"Choir": "Gold (Hons)",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Bronze",
 					"Dance - Malay": "Bronze",
 					"Drama - English": "Silver",
 					"Ensemble - Guitar": "Bronze",
-					"Ensemble - Strings": "Bronze"
+					"Ensemble - Strings": "Bronze",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Band - Concert": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1378,13 +1378,13 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Band - Concert": "Distinction",
 					"Choir": "Distinction",
 					"Dance - Chinese": "Accomplishment",
 					"Dance - Malay": "Accomplishment",
 					"Drama - English": "Accomplishment",
 					"Ensemble - Guitar": "Distinction",
-					"Ensemble - Strings": "Accomplishment"
+					"Ensemble - Strings": "Accomplishment",
+					"Band - Concert": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1612,6 +1612,17 @@
 						"'C' Div"
 					],
 					[
+						"Volleyball",
+						"3rd",
+						"3rd",
+						"-",
+						"1st",
+						"2nd",
+						"3rd",
+						"3rd",
+						"1st"
+					],
+					[
 						"Basketball",
 						"2nd",
 						"-",
@@ -1632,17 +1643,6 @@
 						"-",
 						"1st",
 						"3rd"
-					],
-					[
-						"Volleyball",
-						"3rd",
-						"3rd",
-						"-",
-						"1st",
-						"2nd",
-						"3rd",
-						"3rd",
-						"1st"
 					]
 				],
 				"SYF Arts Presentation": {
@@ -1913,7 +1913,147 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"1st",
+						"-"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
+					],
+					[
+						"Volleyball",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"2nd",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -2169,6 +2309,23 @@
 			"Normal Technical": [
 				"129",
 				"159",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"232",
+				"251",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"183",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"140",
+				"155",
 				"None-posted"
 			]
 		}

@@ -17,13 +17,16 @@
 		"Dover MRT",
 		"Clementi MRT"
 	],
-	"bus": "96 , 97 , 151 , 183 , 188 , 196 , 197 , 198 ",
+	"bus": "96 , 97 , 151 , 183 , 188 , 189 , 196 , 197 , 198 ",
 	"GeneralInformation": {
-		"Principal": "Mrs Lee Bee Yann",
-		"Vice Principal": "Mr Goh Hock Leong",
+		"Principal": "Mdm Soh Lai Leng Magdalen",
+		"Vice Principal": [
+			"Mr Goh Hock Leong",
+			"Mr Clifton Koh Siew Boon"
+		],
 		"Vice Principal (Admin)": "Mrs Doreen Gan Soo Hong",
-		"School Vision": "To be a Wellspring of Inspiration for Math & Science Education and Research.",
-		"School Mission": "The NUS High School will nurture well-rounded and world-ready scientific minds to make distinguished contributions as Pioneers, Achievers, Thinkers & Humanitarians.",
+		"School Vision": "Future-ready Pioneers, Humanitarians and Innovators for the world.",
+		"School Mission": "To inspire and shape the future of education in mathematics and science.",
 		"Type of School": "Specialised Independent School / Co-ed School / Full Day",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -56,10 +59,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -68,23 +67,12 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Commendation"
-				},
 				{
 					"year": "2017",
 					"category": "Choir",
@@ -119,37 +107,37 @@
 					"year": "2018",
 					"category": "Drama - English",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		},
 		"Junior College": {
-			"2016": {
-				"School Distinction Awards": "SDA"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA"
 			},
 			"2018": {
 				"School Distinction Awards": "SDA"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category C",
@@ -199,6 +187,31 @@
 					"year": "2018",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Mixed Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Strings",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": []

@@ -14,10 +14,10 @@
 	],
 	"email": "YZPS@MOE.EDU.SG",
 	"mrt": "Serangoon Station",
-	"bus": "58 & 105 (Outside the school , Serangoon Ave 3) 133 & 135(Serangoon Ave 2) ",
+	"bus": "58 &amp; 105 (Outside the school , Serangoon Ave 3) 133 &amp; 135(Serangoon Ave 2) ",
 	"GeneralInformation": {
 		"Principal": "MDM LEE YEN PING CHRISTINE",
-		"Vice Principal": "MISS YAK HIOK WOON, FAITH",
+		"Vice Principal": "MDM NG LI YI",
 		"Vice Principal (Admin)": "MDM MOK MEW KUEN",
 		"School Vision": "Every Yangzhengnite a Passionate Learner, Caring Friend and Responsible Citizen.",
 		"School Mission": "Yangzheng Primary is committed to providing a supportive environment that will help every pupil develop his moral, cognitive, physical, social, aesthetic and leadership capabilities to his fullest potential.",
@@ -34,10 +34,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -55,16 +55,24 @@
 		"Physical Sports": [
 			"Basketball",
 			"Rope Skipping",
-			"Soccer"
+			"Soccer",
+			"Wushu"
 		],
 		"Uniformed Groups": [
 			"Brownies",
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
+			"Art Club",
+			"Band - Concert",
 			"Chinese Calligraphy Society",
 			"Dance - Chinese",
-			"Dance - International"
+			"Dance - International",
+			"Ensemble - Guzheng",
+			"Media Club"
+		],
+		"Clubs & Societies": [
+			"Green Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -599,7 +607,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Dance - Chinese": "Bronze",
 					"Dance - Indian": "Silver",
 					"Dance - Malay": "Silver",
@@ -696,7 +704,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Bronze",
 					"Dance - Malay": "Silver",
@@ -772,17 +780,6 @@
 						"Senior"
 					],
 					[
-						"Rope Skipping",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"4th",
-						"4th"
-					],
-					[
 						"Basketball",
 						"-",
 						"-",
@@ -803,6 +800,17 @@
 						"-",
 						"-",
 						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
 					]
 				],
 				"SYF Arts Presentation": {
@@ -881,17 +889,6 @@
 						"Senior"
 					],
 					[
-						"Rope Skipping",
-						"-",
-						"-",
-						"-",
-						"-",
-						"4th",
-						"-",
-						"-",
-						"3rd"
-					],
-					[
 						"Basketball",
 						"-",
 						"-",
@@ -912,6 +909,17 @@
 						"-",
 						"-",
 						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"3rd"
 					]
 				],
 				"SYF Arts Presentation": {
@@ -1288,7 +1296,86 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "556108"

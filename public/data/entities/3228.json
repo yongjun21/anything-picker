@@ -21,7 +21,7 @@
 		"Principal": "Mrs Lim Ai Poo",
 		"Vice Principal": [
 			"Mdm Tan Shao May",
-			"Miss Ong Hui Chee"
+			"Mr Apollos Induchoodan S/o R A P"
 		],
 		"School Vision": "Active Learners, Gracious Citizens",
 		"School Mission": "Inspiring Lives, Nurturing Talents, Realising Dreams",
@@ -33,7 +33,7 @@
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Basic Tamil",
@@ -41,13 +41,13 @@
 		"Chemistry",
 		"Chinese",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Drama",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
@@ -103,47 +103,17 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Band-Display",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category B",
@@ -198,36 +168,47 @@
 					"year": "2018",
 					"category": "Drama - English",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Display",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 210,
-			"upper": 235,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 164,
-			"upper": 198,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 98,
-			"upper": 153,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -297,6 +278,30 @@
 			"programme": "Normal Technical",
 			"lower": 86,
 			"upper": 152,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 222,
+			"upper": 242,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 166,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 127,
+			"upper": 156,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

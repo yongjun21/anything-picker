@@ -19,10 +19,7 @@
 	"bus": "Bus 99 , 242 ",
 	"GeneralInformation": {
 		"Principal": "Mrs Chandler Jay Siva",
-		"Vice Principal": [
-			"Mr Foo Chuan Kai",
-			"Miss Pham Hong Lien Phyllis G."
-		],
+		"Vice Principal": "Ms Pham Hong Lien Phyllis G.",
 		"School Vision": "Active Minds, Gracious Hearts",
 		"School Mission": "We aspire to create a conducive environment where pupils learn from the past, appreciate the present and prepare for the future.",
 		"School Philosophy, Culture and Ethos": [
@@ -37,7 +34,7 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
 		"Health Education",
@@ -53,7 +50,6 @@
 		"Physical Sports": [
 			"Badminton",
 			"Football",
-			"Netball",
 			"Rope Skipping"
 		],
 		"Uniformed Groups": [
@@ -69,10 +65,9 @@
 			"Ensemble - Guzheng"
 		],
 		"Clubs & Societies": [
-			"Book Buzz Club",
 			"Environmental Club",
 			"Infomedia Club",
-			"Wgps Robotix"
+			"Robotix Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -83,39 +78,18 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": "DA (National Education)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -152,6 +126,21 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
 				}
@@ -193,7 +182,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 17,
 		"PLACES TAKEN UP TO PHASE 2B": 117,
 		"VACANCY FOR PHASE 2C": 63,
-		"NO. OF APPLICANTS IN PHASE 2C": 74
+		"NO. OF APPLICANTS IN PHASE 2C": 74,
+		"PLACES TAKEN UP TO PHASE 2C": 180
 	},
 	"id": "1770"
 }

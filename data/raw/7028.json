@@ -21,11 +21,11 @@
 		"Vice Principal (Admin)": "MR TIN CHEE KUANG EDMUND",
 		"School Vision": "Every KCPian a Servant Leader & Scholar",
 		"School Mission": "We provide a conducive and nurturing Christian environment for the holistic development of every child through high engagement in, achievement through, and enjoyment of learning.",
-		"School Philosophy, Culture and Ethos": "Kuo Chuan Presbyterian Secondary School seeks to develop Servant Leaders and Scholars in a nurturing, values-based environment. We offer a curriculum focused on the holistic development of every child with a strong focus on leadership of self for the service of others. The school vision captures our legacy as a school started by Christian ministers to provide education opportunities for the community, as well as the aspiration that KCPians will grow to be leaders who will likewise develop their talents and abilities to be of service to others. The KCPian Servant Leader and Scholar will be a self-directed learner who displays integrity and resilience in the face of challenge. He is a conscientious individual who cares for others and empathises with and responds to the needs around him. The school team of dedicated teachers is supported by active alumni, the Parent Support Group and a School Management Committee that takes a keen interest in the quality of teaching and learning and character development programmes offered by the school.",
+		"School Philosophy, Culture and Ethos": "Kuo Chuan Presbyterian Secondary School seeks to develop Servant Leaders and Scholars in a nurturing, values-based environment. We offer a curriculum focused on the holistic development of every child with a strong focus on leadership of self for the service of others. The school vision captures our legacy as a school started by Christian ministers to provide education opportunities for the community, as well as the aspiration that KCPians will grow to be leaders who will develop their talents and abilities to be of service to others. The KCPian Servant Leader and Scholar will be a self-directed learner who displays integrity and resilience in the face of challenge. He is a conscientious individual who cares for others and empathises with and responds to the needs around him. The school team of dedicated teachers is supported by active alumni, the Parent Support Group and a School Management Committee that takes a keen interest in the quality of teaching and learning and character development programmes offered by the school.",
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
-			"ST. ANDREW'S JUNIOR COLLEGE",
+			"ST. ANDREW&#39;S JUNIOR COLLEGE",
 			"KUO CHUAN PRESBYTERIAN PRIMARY SCHOOL"
 		]
 	},
@@ -38,11 +38,14 @@
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMBINED HUMANITIES (S,L)",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"HIGHER CHINESE",
 		"HIGHER TAMIL",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
@@ -183,17 +186,6 @@
 						"'C' Div"
 					],
 					[
-						"Shooting (Air Pistol)",
-						"-",
-						"-",
-						"-",
-						"-",
-						"4th",
-						"-",
-						"3rd",
-						"-"
-					],
-					[
 						"Shooting (Air Rifle)",
 						"-",
 						"-",
@@ -203,6 +195,17 @@
 						"3rd",
 						"3rd",
 						"1st"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"3rd",
+						"-"
 					]
 				],
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -1187,7 +1190,124 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1431,6 +1551,20 @@
 				"199",
 				"153",
 				"197"
+			]
+		},
+		"2020": {
+			"Express": [
+				"238",
+				"254",
+				"200",
+				"241"
+			],
+			"Normal Academic": [
+				"171",
+				"199",
+				"155",
+				"199"
 			]
 		}
 	},

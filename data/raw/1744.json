@@ -18,6 +18,7 @@
 	"GeneralInformation": {
 		"Principal": "MR PEK WEE HAUR",
 		"Vice Principal": "MDM CHUA MUI LING",
+		"Vice Principal (Admin)": "MDM LEE YOKE PENG",
 		"School Vision": "A vibrant and dynamic education hub",
 		"School Mission": "Nurture good citizens and passionate learners",
 		"School Philosophy, Culture and Ethos": [
@@ -31,7 +32,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION ENGLISH",
@@ -69,7 +70,7 @@
 		],
 		"Clubs & Societies": [
 			"Green Club",
-			"Infocom Club"
+			"Infocomm Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -77,7 +78,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Music & Performing Arts": "Appreciating Diversity and Building Cross-Cultural Skills Programme",
+			"STEM": "Design Thinking for Sustainability (DTS @ Admiralty)",
 			"Community Service & Student Leadership": "High Performance Mind-set for Personal Leadership"
 		},
 		"Special Student Development Programmes Offered": "With globalization, it is important for our students to achieve global awareness and learn cross-cultural skills that allow them to reach out beyond the main races in Singapore to understand and work with whoever lives and work here. To achieve this goal, our Learning for Life programme on Appreciating Diversity and Building Cross-Cultural Skills helps imbue in our students the right attitude towards cultural differences, knowledge of different cultural practices and worldviews, and skills. The result will be students with an ability to understand, communicate, and effectively interact with people across cultures within and from outside of Singapore. This will strengthen our students' ability to become more involved in Singapore society that now spans even more cultural groups Our pupils develop their skills in critical thinking, communication and self-directed learning - core competencies in the 21st century."
@@ -268,12 +269,12 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Gold",
 					"Dance - Malay": "Bronze",
-					"Choir": "Bronze"
+					"Choir": "Bronze",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award"
 				}
 			},
 			"2008": {
@@ -370,8 +371,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
@@ -462,9 +463,9 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
@@ -565,9 +566,9 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Bronze",
 					"Dance - Indian": "Silver",
@@ -650,12 +651,12 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Bronze",
 					"Dance - Indian": "Silver",
 					"Dance - Malay": "Gold",
-					"Ensemble - Guitar": "Bronze"
+					"Ensemble - Guitar": "Bronze",
+					"Art &amp; Craft (Silver)": "1 Award"
 				}
 			},
 			"2012": {
@@ -733,7 +734,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
@@ -1092,12 +1093,12 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Dance - Indian": "Distinction",
-					"Dance - Malay": "Distinction",
-					"Ensemble - Guitar": "Accomplishment",
 					"Dance - Chinese": "Distinction",
 					"Art - Category A": "Recognition",
-					"Choir": "Accomplishment"
+					"Choir": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guitar": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1302,7 +1303,92 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"5th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition(Sm)",
+					"Art - Category B": "Recognition(Sm)",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guitar": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "738907"

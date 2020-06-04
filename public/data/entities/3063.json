@@ -20,12 +20,9 @@
 	"bus": "98 , 99 , 157 , 185 , 187 , 198 , 334 , 502 ",
 	"GeneralInformation": {
 		"Principal": "Mr Chan Yew Wooi",
-		"Vice Principal": [
-			"Mdm Tan Pei Lee Elaine",
-			"Mr Yong Mun Chong"
-		],
+		"Vice Principal": "Mdm Tan Pei Lee Elaine",
 		"Vice Principal (Admin)": "Mr Chong Chee Keong Alvin",
-		"School Vision": "Everyone Empowered and Enlightened",
+		"School Vision": "A vibrant and nurturing community of passionate and resilient learners.",
 		"School Mission": "To nurture world-ready students with the passion to learn, lead and serve",
 		"School Philosophy, Culture and Ethos": "The school is guided by our philosophy 'Everyone can Learn, Everyone can Achieve and Everyone can Contribute' in the design of our curriculum. With this philosophy as our anchor, the school offers a rich variety of programmes that holistically prepare our students for the opportunities and challenges of life. Our student-centric learning culture is focused around the following five school learning outcomes: Our students are persons of good character who make choices based on sound values; our students are responsible contributors to the well-being of their family, community and country; our students have learned the secondary curriculum well; our students have good self-awareness of their strengths and interests; our students have effective communication and leadership skills as individuals, team members or leaders. Our team of caring teachers also nurture the students guided by the following PRIDE school values: Perseverance, Respect, Integrity, Discipline and Empathy. When these values are learned well and applied by our students in their lives, they will be the pride of our families, communities and country.",
 		"Type of School": "Government School / Co-ed School / Single Session",
@@ -45,13 +42,13 @@
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Electronics",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
@@ -91,9 +88,8 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
+			"Angklung & Kulintang Ensemble",
 			"Band - Concert",
-			"Choir",
-			"Cultural Ensemble - Malay",
 			"Dance - International",
 			"Drama - English",
 			"Drumatix Batucada",
@@ -105,70 +101,25 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"STEM": "In Heath We Thrive - Connecting the Science and Skills of Health and Wellness",
+			"STEM": "Real World Learning through Electronics",
 			"Sports & Outdoor Education": "Sports for Life - Character Education through Sports Exposure, Sports Empowerment and Sports Excellence"
 		},
 		"Special Student Development Programmes Offered": "To broaden the learning experiences of students, Jurongville Secondary School plans and implements an Applied Learning Programme (ALP) and a Learning for Life Programme (LLP). The school's ALP is 'Real-World Learning Through Electronics'. Through various authentic tasks, students learn and apply concepts relating to electronics. Lower secondary students, for instance, use their knowledge to design tools and equipment that can potentially be used to improve our quality of life. Upper secondary students who wish to deepen their knowledge can also choose to offer Electronics ('O' Levels) or Smart Electrical Technology ('N' Levels). With such early exposure to electronics, our students are more ready to consider STEM (Science, Technology, Engineering, Mathematics) professional courses beyond secondary schools. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -247,36 +198,57 @@
 					"year": "2018",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English (2nd Entry)",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Mixed Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guzheng",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 200,
-			"upper": 230,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 164,
-			"upper": 197,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 118,
-			"upper": 154,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -346,6 +318,30 @@
 			"programme": "Normal Technical",
 			"lower": 133,
 			"upper": 156,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 202,
+			"upper": 225,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 160,
+			"upper": 192,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 134,
+			"upper": 159,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

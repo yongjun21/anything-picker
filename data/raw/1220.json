@@ -36,7 +36,7 @@
 		"CHINESE",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -90,6 +90,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"Interdisciplinary": "Caring and Responsible Environmentalist (CaRE) Programme",
 			"Sports & Outdoor Education": "Character and Leadership development through ADventure (CLAD)"
 		},
 		"Special Student Development Programmes Offered": "Guided by our ICARE values, (Integrity, Care, Adaptability, Respect, and Excellence), our Character and Citizenship Education programmes aim to develop Shuqunites into confident leaders with sound character who contribute actively to the community. We offer a wide variety of programmes such as Values-in-Action (VIA), Play and Learn @Shuqun (PAL) and Values Education to inculcate values and develop the necessary knowledge and life skills. "
@@ -1313,7 +1314,102 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Development Award": "DA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					],
+					[
+						"Sailing",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition(Sm)",
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "649332"

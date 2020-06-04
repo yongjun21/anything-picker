@@ -17,17 +17,15 @@
 		"Buangkok MRT"
 	],
 	"GeneralInformation": {
-		"Principal": "Mrs Dhillon Awtar Singh",
-		"Vice Principal": [
-			"Mrs Lim Mei Lee Nee Yuen",
-			"Mr Wee Hock Meng Victor"
-		],
+		"Principal": "Mr Ong Lye Whatt",
+		"Vice Principal": "Mr Wee Hock Meng Victor",
+		"Vice Principal (Admin)": "Mdm Audrey Kang",
 		"School Vision": "Community of Learners @ the School of the Future",
 		"School Mission": "Build Character, Inspire Passion in Learning",
 		"School Philosophy, Culture and Ethos": [
 			"We are guided by our philosophy that Every Student is an Engaged Learner, Every Staff a Caring Educator and Every Parent a Supportive Parent. We believe that every child is important and of worth. He is curious and is capable of building his own knowledge. He wants to be heard; so time and space will be given to honour his voice. He wants to learn when opportunities are given to him and we are committed to providing him with the opportunities to learn through our programmes. ",
 			"The House and Sixer System was set up to strengthen Teacher Student Relationship (TSR) and build Social Emotional Competencies in students.  The System provides a safety network for the student population where students build friendships and foster a sense of security in the school. Students get opportunities to engage in activities where the P6 Sixer Leader and the P5 Assistant Leader assist the teachers in caring for the younger students in the group. Each teacher takes care of 3 groups and each group consists of a total of six students from the same House and across 6 levels (P1 to P6).",
-			"The school believes in the importance of school and home partnership. Every parent is a Partner in Education. Parents complement the work of teachers at home. While the responsibility of raising a child lies in the hands of parents, the school will work together with parents to develop the child to the fullest. At North Vista, the Bistro (Cafe) is open to parents for breakfast with their children before school. This is to encourage bonding between parent and child as well as provide opportunities for teachers to have informal tripartite conversations."
+			"The school believes in the importance of school and home partnership. Every parent is a Partner in Education. Parents complement the work of teachers at home. While the responsibility of raising a child lies in the hands of parents, the school will work together with parents to develop the child to the fullest."
 		],
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay",
@@ -36,7 +34,7 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
 		"Health Education",
 		"Malay",
@@ -58,7 +56,9 @@
 		"Visual and Performing Arts": [
 			"Excellence Art Club",
 			"Excellence Band",
+			"Excellence Chinese Dance",
 			"Excellence Choir",
+			"Excellence International Dance",
 			"Modular Art Club"
 		],
 		"Clubs & Societies": [
@@ -75,13 +75,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -92,34 +85,12 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -166,6 +137,31 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				}
@@ -210,7 +206,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 1,
 		"PLACES TAKEN UP TO PHASE 2B": 82,
 		"VACANCY FOR PHASE 2C": 158,
-		"NO. OF APPLICANTS IN PHASE 2C": 56
+		"NO. OF APPLICANTS IN PHASE 2C": 56,
+		"PLACES TAKEN UP TO PHASE 2C": 137,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 103,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 28
 	},
 	"id": "1253"
 }

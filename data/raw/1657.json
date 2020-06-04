@@ -17,10 +17,7 @@
 	"bus": "18 , 228 , 222 , 17 , 69 , 66 , 67 , 168 , 28 , 506 , 14 , 45 ",
 	"GeneralInformation": {
 		"Principal": "MR POH CHEE YANG",
-		"Vice Principal": [
-			"MR RAJINDER SINGH S/O PIARA SINGH",
-			"MDM LAI KAI CHING"
-		],
+		"Vice Principal": "MDM LAI KAI CHING",
 		"School Vision": "Anchored Hearts, Driven Minds, Leaders of Tomorrow",
 		"School Mission": "To nurture loyal individuals with strength of character and determination to succeed in the spirit of lifelong learning.",
 		"School Philosophy, Culture and Ethos": "In Fengshan, we believe that every child has a talent and as a school, we strive to bring out the best in the learner by providing a student-centric and values-driven education. As a school we remain committed to nurturing our students to be loyal individuals with strength of character and a determination to succeed in the spirit of lifelong learning. As a school we focus on delivering quality cognitive development programmes as well as a meaningful and vibrant co-curriculum that aims to enrich their educational experiences. The school seeks to develop our students to become Leaders of Tomorrow who will influence and contribute to the community through their compassionate leadership and excellence mindset. In nurturing and developing Leaders with Anchored Hearts and Driven Minds, the focus on CCE and Leadership Development is an essential part of our curriculum.",
@@ -31,9 +28,9 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
 		"HEALTH EDUCATION",
@@ -347,7 +344,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
 					"Band - Concert": "Gold (Hons)",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
@@ -429,7 +426,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
@@ -514,7 +511,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "3 Awards",
+					"Art &amp; Craft (Silver)": "3 Awards",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
@@ -603,7 +600,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "3 Awards",
+					"Art &amp; Craft (Silver)": "3 Awards",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - Chinese": "Silver",
@@ -693,13 +690,13 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Band - Concert": "Silver",
 					"Art - Category B": "Recognition",
 					"Art - Category C": "Recognition",
 					"Choir": "Gold",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
-					"Dance - Malay": "Silver"
+					"Dance - Malay": "Silver",
+					"Band - Concert": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1168,7 +1165,99 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Commendation",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "469680"

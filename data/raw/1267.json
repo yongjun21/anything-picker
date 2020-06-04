@@ -17,7 +17,10 @@
 	"bus": "Bus number 962",
 	"GeneralInformation": {
 		"Principal": "MRS THERESA HONG-NG",
-		"Vice Principal": "MISS TAN YIT PENG",
+		"Vice Principal": [
+			"MISS TAN YIT PENG",
+			"MDM HO JUN- LYNN"
+		],
 		"Vice Principal (Admin)": "MDM LEE SOOK FUN EVELYN",
 		"School Vision": "Learning and Leading with HEART",
 		"School Mission": "Instilling Core Values, Igniting the Love for Learning, Inspiring Excellence",
@@ -49,7 +52,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Innovation & Enterprise": "Curriculum Integration through Innovation@Northoakes (CI=I@northoakes)"
+			"Innovation & Enterprise": "Curriculum Integration through Innovation@Northoakes (CI=I@northoakes)",
+			"Sports & Outdoor Education": "SporTs, OutdooR Programme and Inculcation of Values Education (STRIVE) @ Northoaks"
 		},
 		"Special Student Development Programmes Offered": "We develop our child through our Special Student Development Programme - The Leader in Me - where we focus on the 7 Habits of Highly Effective People to build lifeskills in our students. Every child can be a leader and through the programme, we teach our children to be a leader of themselves, be proactive in learning and demonstrating the school core values."
 	},
@@ -79,7 +83,14 @@
 					"Dance - International": "Accomplishment"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band-Percussion Ensemble": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "757622"

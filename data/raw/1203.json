@@ -18,6 +18,7 @@
 	"GeneralInformation": {
 		"Principal": "MISS CHONG SIEW FONG",
 		"Vice Principal": "MR MOHAMAD NOOR BIN ABDUL MANAF @",
+		"Vice Principal (Admin)": "MISS SHERRY OH SWEE LYN",
 		"School Vision": [
 			"An Innovative Thinker ",
 			"A Gracious Leader ",
@@ -32,10 +33,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -60,7 +61,7 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Art And Craft Club",
+			"Art Club",
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Indian",
@@ -79,7 +80,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Innovation & Enterprise": "EPIC -  Empowering Pupils to Innovate for Community"
+			"Innovation & Enterprise": "EPIC -  Empowering Pupils to Innovate for Community",
+			"Community Service & Student Leadership": "Chong Zheng Community Leaders (CZCL)"
 		},
 		"Special Student Development Programmes Offered": "The school's Applied Learning Programme is innovation and enterprise which is called EPIC - Empowering Pupils to Innovate for Community.  The tagline for this programme is Fun Ideas Serious Solutions. Through the school-based innovation curriculum, all P1-P6 students are progressively taught critical thinking, creative thinking, problem-solving and decision-making skills through Project Work. To enable the students to authentically apply their learning, the school integrates Project Work with Values-in-Action (VIA) programme. For our students who are inclined towards innovation, the school has established an Innovation Club to provide intensive training and exposure to competitions to hone their innovation skills. Students create products and embark on projects that help solve community issues. "
 	},
@@ -361,13 +363,13 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Dance - Malay": "Silver",
-					"Ensemble - Angklung / Kulintang": "Gold",
-					"Ensemble - Strings": "Silver",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
-					"Dance - International": "Bronze"
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Ensemble - Angklung / Kulintang": "Gold",
+					"Ensemble - Strings": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -454,8 +456,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
@@ -549,8 +551,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
@@ -638,8 +640,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
@@ -738,8 +740,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - International": "Silver",
@@ -1013,13 +1015,13 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Dance - International": "Distinction",
 					"Art - Category B": "Recognition",
 					"Choir": "Accomplishment",
 					"Dance - Chinese": "Accomplishment",
 					"Dance - Indian": "Accomplishment",
 					"Dance - Malay": "Accomplishment",
-					"Ensemble - Angklung / Kulintang": "Accomplishment",
-					"Dance - International": "Distinction"
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1200,7 +1202,90 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Hockey",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "529392"

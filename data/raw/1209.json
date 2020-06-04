@@ -17,7 +17,7 @@
 	"bus": "173 , 157 , 178 , 852 , 66 , 106 , 61 , 506 , 963 , 77 ",
 	"GeneralInformation": {
 		"Principal": "MDM KOH YUEN CHOO",
-		"Vice Principal": "MR KOOR SIEW HWA",
+		"Vice Principal": "MDM TEO ENG HUI",
 		"Vice Principal (Admin)": "MDM KWEK LING LING IRENE",
 		"School Vision": "Self-directed Learners . Confident Leaders . Caring Citizens",
 		"School Mission": "We are committed to providing a learner-centric and values-driven education.",
@@ -33,11 +33,11 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -102,8 +102,8 @@
 			},
 			"2007": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Indian": "Silver",
@@ -112,8 +112,8 @@
 			},
 			"2008": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Indian": "Gold",
@@ -122,8 +122,8 @@
 			},
 			"2009": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Indian": "Gold",
@@ -132,12 +132,12 @@
 			},
 			"2010": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Ensemble - Angklung / Kulintang": "Gold (Hons)",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Indian": "Gold (Hons)",
-					"Dance - Malay": "Gold",
-					"Ensemble - Angklung / Kulintang": "Gold (Hons)"
+					"Dance - Malay": "Gold"
 				}
 			},
 			"2011": {
@@ -147,8 +147,8 @@
 				],
 				"Sustained Achievement Award": "SAA (Aesthetics)",
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Indian": "Gold (Hons)",
 					"Dance - Malay": "Gold",
@@ -162,8 +162,8 @@
 				],
 				"Sustained Achievement Award": "SAA (Aesthetics)",
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Indian": "Silver",
 					"Dance - Malay": "Gold",
@@ -385,7 +385,17 @@
 					"Ensemble - Angklung / Kulintang": "Distinction"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Distinction"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "659634"

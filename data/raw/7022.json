@@ -15,24 +15,24 @@
 	],
 	"email": "stpatricksch@moe.edu.sg",
 	"mrt": "KEMBANGAN MRT",
-	"bus": "10 , 12 , 13 , 14 , 16 , 31 , 32 , 36 , 40 , 48 , 55 , 76 , 155 , 135 , 196 , 197 ",
+	"bus": "10 , 10e , 12 , 13 , 14 , 14e , 15 , 16 , 31 , 32 , 36 , 40 , 43 , 47 , 48 , 55 , 135 , 150 , 155 , 196 , 197 ",
 	"GeneralInformation": {
-		"Principal": "MR ERIC LEE WEI TAT",
+		"Principal": "MR MARK GERARD MINJOOT",
 		"Vice Principal": [
 			"MR LEONG TSHUN KHONG PAUL",
 			"MS NG FOONG MENG"
 		],
 		"School Vision": "A Lasallian Institution that nurtures Patricians to be worthy of God and man.",
 		"School Mission": "Touch hearts. Engage minds. Transform lives.",
-		"School Philosophy, Culture and Ethos": "As a Lasallian institution, St. Patrick's School seeks to imbue in its students the values of faith, service, community, honesty, humility and humanity. Patricians are constantly challenged to live the school values at all times in their pursuit of excellence in the academic and co-curricular areas. The school works closely with parents and other stakeholders to ensure that every student has a sound moral compass. The school motto \"Potest Qui Vult\", meaning \"He who wills, can\", is instilled in all students to enable them to respond with resilience in the face of challenges and adversity. The school also has a strong culture of care for all students and staff. It is within this caring environment that Patricians grow and develop to become mature and self-confident leaders who are always ready to serve society. These attributes make St. Patrick's School stand out as a 'School of Life'.",
-		"Type of School": "GOVERNMENT-AIDED SCH / BOYS' SCHOOL / SINGLE SESSION",
+		"School Philosophy, Culture and Ethos": "As a Lasallian institution, St. Patrick's School seeks to imbue in its students the values of faith, service, community, honesty, humility and humanity. Patricians are constantly challenged to live the school values at all times in their pursuit of excellence in the academic and co-curricular areas. The school works closely with parents and other stakeholders to ensure that every student has a sound moral compass. The school motto \"Potest Qui Vult\", meaning \"He who wills, can\", is instilled in all students to enable them to respond with resilience in the face of challenges and adversity. The school also has a strong culture of care for all students and staff. It is within this caring environment that Patricians grow and develop to become mature and self-confident leaders who are always ready to serve society.",
+		"Type of School": "GOVERNMENT-AIDED SCH / BOYS&#39; SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
 			"CATHOLIC JUNIOR COLLEGE",
 			"DE LA SALLE SCHOOL",
-			"ST. JOSEPH'S INSTITUTION JUNIOR",
-			"ST. STEPHEN'S SCHOOL",
-			"ST. ANTHONY'S PRIMARY SCHOOL"
+			"ST. JOSEPH&#39;S INSTITUTION JUNIOR",
+			"ST. STEPHEN&#39;S SCHOOL",
+			"ST. ANTHONY&#39;S PRIMARY SCHOOL"
 		]
 	},
 	"SubjectOffered": [
@@ -43,12 +43,11 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"CHINESE B",
 		"COMPUTER APPLICATIONS",
 		"COMPUTING",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"FOOD STUDIES, N LEVEL",
 		"GEOGRAPHY",
@@ -198,17 +197,6 @@
 						"'C' Div"
 					],
 					[
-						"Shooting (Air Rifle)",
-						"2nd",
-						"1st",
-						"-",
-						"-",
-						"1st",
-						"1st",
-						"-",
-						"-"
-					],
-					[
 						"Cricket",
 						"4th",
 						"-",
@@ -227,6 +215,17 @@
 						"-",
 						"1st",
 						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st",
 						"-",
 						"-"
 					]
@@ -1760,7 +1759,109 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Golf",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Drama - English": "Commendation",
+					"Ensemble - Guitar": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -2054,6 +2155,26 @@
 				"151",
 				"116",
 				"151"
+			]
+		},
+		"2020": {
+			"Express": [
+				"233",
+				"238",
+				"201",
+				"240"
+			],
+			"Normal Academic": [
+				"184",
+				"193",
+				"152",
+				"194"
+			],
+			"Normal Technical": [
+				"143",
+				"155",
+				"110",
+				"148"
 			]
 		}
 	},

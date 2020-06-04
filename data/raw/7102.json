@@ -18,18 +18,18 @@
 	"mrt": "BISHAN MRT",
 	"bus": "13 , 52 , 54 , 88 , 156 , 162 , 162M , 410 ",
 	"GeneralInformation": {
-		"Principal": "MDM SOH LAI LENG MAGDALEN",
+		"Principal": "MR POH CHUN LECK",
 		"Vice Principal": [
 			"MISS HO PING PING",
-			"MR CHAN WENG CHEONG",
 			"MS TAN PEY SAN",
-			"MR BENSON TEO HONG GUAN"
+			"MR BENSON TEO HONG GUAN",
+			"MR WONG CHEE WAI (HUANG ZHIWEI)"
 		],
 		"Vice Principal (Admin)": "MR TAN PERRY",
 		"School Vision": "The Catholic High student is a leader, gentleman and bilingual scholar of high integrity and robust character, who is passionate about life, learning and service to others.",
 		"School Mission": "To establish Catholic High School as a school of distinction in innovative and challenging programmes, a forerunner in character building and a beacon for the mindset of excellence, firmly built upon the foundation of Christian values.",
 		"School Philosophy, Culture and Ethos": "Founded in 1935 by the late Rev. Fr. Edward Becheras, Catholic High School is one of Singapore's highly regarded institutions under the auspices of the Catholic Archdiocese. As a Special Assistance Plan (SAP) school, CHS is grounded in the philosophy of bilingualism and biculturalism. As a Catholic mission school, love is the motivation behind all our actions. We ensure there is Joy of Learning in school life, and that students develop a Mindset of Excellence. The school's core values underpin every member's attitude, actions and aspirations. Our heritage, alumni and parent support group are the strengths that our school draws upon for our model of education, where every student is a Leader, Gentleman and Bilingual Scholar in the making. Offering the unique dual-track model with both the O-Level and Integrated Programmes (IP), the CHS experience offers a curriculum strong in academic distinction, leadership and character development, and sports and aesthetics excellence. Our IP students will spend their first 4 years in CHS before progressing to Eunoia Junior College to complete the IP.",
-		"Type of School": "GOVERNMENT-AIDED SCH / BOYS' SCHOOL / SINGLE SESSION",
+		"Type of School": "GOVERNMENT-AIDED SCH / BOYS&#39; SCHOOL / SINGLE SESSION",
 		"IP Partner Schools": [
 			"CHIJ ST. NICHOLAS GIRLS' SCHOOL",
 			"SINGAPORE CHINESE GIRLS' SCHOOL"
@@ -45,12 +45,12 @@
 		"ADDITIONAL MATHEMATICS",
 		"APPRE OF CHINESE CULTURE",
 		"ART",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"ART(IP)",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
 		"EXERCISE AND SPORTS SCIENCE",
 		"FOOD AND CONSUMER EDUCATION",
@@ -65,12 +65,10 @@
 		"LITERATURE(E)",
 		"MATHEMATICS",
 		"MUSIC",
-		"MUSIC 'O' LEVEL",
-		"PASSION PURSUIT",
+		"MUSIC &#39;O&#39; LEVEL",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"SCIENCE",
-		"WORLD READINESS PROGRAMME"
+		"SCIENCE"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -83,7 +81,7 @@
 			"Wushu"
 		],
 		"Uniformed Groups": [
-			"Ncc(Air)",
+			"Ncc (Air)",
 			"Ncc(Land)",
 			"Npcc",
 			"Scouts",
@@ -98,6 +96,7 @@
 			"Symphony Band"
 		],
 		"Clubs & Societies": [
+			"Ion",
 			"Ion (Infocomm & Robotics)"
 		]
 	},
@@ -109,6 +108,7 @@
 			"MUSIC ELECTIVE PROGRAMME"
 		],
 		"School Distinctive Programmes": {
+			"Science": "Coding in Environmental Solutions (CODES)",
 			"Sports & Outdoor Education": "VITALS (Values Infused Through Active Learning in Sports)"
 		},
 		"Special Student Development Programmes Offered": "1)LEADER: Heart of a Leader Student Leadership Programme (Prog), Overseas Immersion & Cross-cultural Prog, Work Attachment & Entrepreneurship Prog. 2)GENTLEMAN: Music Elective Prog, Aesthetics Development Prog, Gentlemen-in-the-Making Prog, Sports Participation Prog, Rugged Outdoor Prog, Outward Bound School. 3)BILINGUAL SCHOLAR: MOE Bicultural Studies Prog, SAP Flagship Prog, English Talent Development Prog (TDP) with Debate, Humanities TDP, Mathematics Interest & TDP, CNERGY Science TDP, Space & Flight Science Prog."
@@ -510,7 +510,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Silver",
 					"Dance - International": "Gold (Hons)",
@@ -655,7 +655,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold (Hons)",
 					"Dance - International": "Gold (Hons)",
@@ -879,6 +879,28 @@
 						"Senior"
 					],
 					[
+						"Softball",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
 						"Tennis",
 						"-",
 						"4th",
@@ -908,28 +930,6 @@
 						"-",
 						"1st",
 						"1st",
-						"-",
-						"-"
-					],
-					[
-						"Softball",
-						"-",
-						"4th",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
-						"Table Tennis",
-						"-",
-						"-",
-						"-",
-						"-",
-						"2nd",
-						"2nd",
 						"-",
 						"-"
 					],
@@ -1111,7 +1111,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
 					"Band - Concert": "Gold",
 					"Choir": "Silver",
 					"Dance - International": "Gold (Hons)",
@@ -1272,7 +1272,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
 					"Band - Concert": "Gold",
 					"Choir": "Gold (Hons)",
 					"Dance - International": "Gold (Hons)",
@@ -1872,6 +1872,28 @@
 						"Senior"
 					],
 					[
+						"Volleyball",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
 						"Basketball",
 						"-",
 						"1st",
@@ -1917,28 +1939,6 @@
 					],
 					[
 						"Taekwondo (Kyorugi)",
-						"2nd",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
-						"Volleyball",
-						"3rd",
-						"1st",
-						"-",
-						"-",
-						"2nd",
-						"1st",
-						"-",
-						"-"
-					],
-					[
-						"Wushu",
 						"2nd",
 						"-",
 						"-",
@@ -2317,7 +2317,143 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		},
 		"Secondary": {
 			"2005": {
@@ -2640,7 +2776,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"4th",
 						"-",
@@ -2663,8 +2799,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award"
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -2830,8 +2966,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold (Hons)",
 					"Dance - International": "Gold",
@@ -2991,7 +3127,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"4th",
 						"3rd",
 						"-",
@@ -3173,7 +3309,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"4th",
 						"-",
@@ -3355,7 +3491,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"2nd",
 						"-",
@@ -3763,7 +3899,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"3rd",
 						"4th",
 						"-",
@@ -3896,28 +4032,6 @@
 						"'C' Div"
 					],
 					[
-						"Basketball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"2nd",
-						"4th",
-						"-",
-						"-"
-					],
-					[
-						"Cross Country",
-						"-",
-						"4th",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
 						"Softball",
 						"3rd",
 						"3rd",
@@ -3951,7 +4065,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"4th",
 						"-",
@@ -3982,15 +4096,37 @@
 						"-",
 						"-",
 						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
 					]
 				],
 				"SYF Arts Presentation": {
-					"Band - Concert": "Distinction",
-					"Choir": "Distinction",
-					"Dance - International": "Distinction",
 					"Drama - Chinese": "Distinction",
 					"Drama - English": "Distinction",
-					"Orchestra - Chinese": "Distinction"
+					"Orchestra - Chinese": "Distinction",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -4088,18 +4224,7 @@
 						"'C' Div"
 					],
 					[
-						"Tennis",
-						"4th",
-						"3rd",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
-						"Track & Field",
+						"Track &amp; Field",
 						"4th",
 						"-",
 						"-",
@@ -4161,6 +4286,17 @@
 						"-",
 						"3rd",
 						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"4th",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
 						"-",
 						"-"
 					]
@@ -4483,7 +4619,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"4th",
 						"-",
@@ -4825,7 +4961,167 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Distinction",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -4997,6 +5293,19 @@
 			],
 			"'O' Level Programme": [
 				"251",
+				"259",
+				"240",
+				"253"
+			]
+		},
+		"2020": {
+			"Integrated Programme": [
+				"252",
+				"274",
+				"None-posted"
+			],
+			"'O' Level Programme": [
+				"249",
 				"259",
 				"240",
 				"253"

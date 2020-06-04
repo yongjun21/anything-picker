@@ -5,7 +5,7 @@
 	"uen": " T07GS5258J",
 	"logo": "./Medias/Images/Schools/logos/tn_5258.jpg",
 	"website": "http://www.nyps.moe.edu.sg",
-	"address": "52, Kings Road (268097)",
+	"address": "52, King & Amp;#39;s Road (268097)",
 	"telephone": [
 		"64672677"
 	],
@@ -33,15 +33,15 @@
 		],
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese",
-		"Affiliated Schools": "Nanyang Girls' High School"
+		"Affiliated Schools": "Nanyang Girls&#39; High School"
 	},
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -73,7 +73,6 @@
 		"Visual and Performing Arts": [
 			"Art And Craft Club",
 			"Chinese Calligraphy Club",
-			"Chinese Speech And Drama Club",
 			"Choir",
 			"Dance - Chinese",
 			"Ensemble - String",
@@ -81,7 +80,6 @@
 		],
 		"Clubs & Societies": [
 			"Chess Club",
-			"Computer Club",
 			"Green Club",
 			"Robotics Club",
 			"Weiqi Club"
@@ -93,22 +91,13 @@
 			"Gifted Education Programme"
 		],
 		"School Distinctive Programmes": {
-			"Innovation & Enterprise": "MIND SPORTS FOR LIFE",
+			"Innovation & Enterprise": "Problem-Solving Through Maker Education",
 			"Music & Performing Arts": "Building Cultural Quotience Through Dance"
 		},
 		"Special Student Development Programmes Offered": "The \"Learning Cultures through Dance\" Learning for Life Programme in Nanyang Primary School aims to develop our pupils holistically beyond academic excellence by building character with understanding of self, others and cultures and developing peaks of growth and excellence. "
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -127,49 +116,12 @@
 				],
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition(Sm)"
@@ -236,6 +188,46 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Strings",
 					"award": "Distinction"
 				}
@@ -279,7 +271,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 30,
 		"PLACES TAKEN UP TO PHASE 2B": 369,
 		"VACANCY FOR PHASE 2C": 21,
-		"NO. OF APPLICANTS IN PHASE 2C": 37
+		"NO. OF APPLICANTS IN PHASE 2C": 37,
+		"PLACES TAKEN UP TO PHASE 2C": 390
 	},
 	"id": "5258"
 }

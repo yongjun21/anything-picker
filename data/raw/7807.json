@@ -16,7 +16,7 @@
 	"mrt": "ADMIRALTY MRT",
 	"bus": "901M , 904 , 912 , 913 , 962 , 964 , 965 , 969 ",
 	"GeneralInformation": {
-		"Principal": "MR KRISHNAN ARAVINTHAN",
+		"Principal": "MR TAN TECK HOCK",
 		"Vice Principal": [
 			"MS LIM CHENG LIAN",
 			"MR HOW PUI SENG"
@@ -34,7 +34,7 @@
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BASIC TAMIL",
-		"CHARACTER & CITIZENSHIP (NT)",
+		"CHARACTER &amp; CITIZENSHIP (NT)",
 		"CHINESE N(A)",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE (SYLL A)",
@@ -45,7 +45,7 @@
 		"MATHEMATICS (SYLLABUS T)",
 		"PERFORMING ARTS",
 		"PHYSICAL EDUCATION",
-		"SCIENCE & TECHNOLOGY",
+		"SCIENCE &amp; TECHNOLOGY",
 		"SCIENCE (SYLL T)",
 		"TAMIL N(A)",
 		"VOCATIONAL EDUCATION"
@@ -390,7 +390,15 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Commendation"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -408,7 +416,8 @@
 		"2016": {},
 		"2017": {},
 		"2018": {},
-		"2019": {}
+		"2019": {},
+		"2020": {}
 	},
 	"postalCode": "737758"
 }

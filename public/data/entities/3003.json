@@ -24,6 +24,7 @@
 			"Mr Lim Soon Wai",
 			"Mdm New Yi Cheen"
 		],
+		"Vice Principal (Admin)": "Madam Lim Sok Ngin",
 		"School Vision": "Every Beattyian - A Thinker, Learner and Contributor",
 		"School Mission": "To nurture Beattyians of Character with a Sense of Purpose and Passion for Life",
 		"School Philosophy, Culture and Ethos": "Established in 1953, Beatty Secondary believes in the unique worth of every student and aims to nurture confident, adaptable, resilient, future-ready and morally upright individuals with a sense of purpose and passion for life. The broad-based academic and character development programmes offered at Beatty Secondary are specially tailored to ignite students' passion and the joy of learning. They are also designed to develop and stretch students' abilities and talents to the fullest. Beatty Secondary seeks to nurture critical thinkers and self-directed learners who will become valuable contributors to society. Undergirding these programmes is the care we provide to ensure the physical, intellectual, social and emotional well-being of every Beattyian. Our team of committed and caring staff take pride in adopting innovative approaches to create an enriching and supportive learning environment for all Beattyians. Over the years, Beatty Secondary has nurtured many illustrious Beattyians. Its Alumni boasts of prominent members from the civil service, academia, business and the arts.",
@@ -42,10 +43,10 @@
 		"Chinese",
 		"Chinese B",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
@@ -102,14 +103,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)",
-					"PARTNERS (Merit)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -124,43 +117,11 @@
 				],
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category A",
@@ -240,36 +201,52 @@
 					"year": "2018",
 					"category": "Drama - English",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Brass Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 214,
-			"upper": 242,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 164,
-			"upper": 197,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 120,
-			"upper": 149,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -339,6 +316,30 @@
 			"programme": "Normal Technical",
 			"lower": 124,
 			"upper": 152,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 217,
+			"upper": 237,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 195,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 124,
+			"upper": 158,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

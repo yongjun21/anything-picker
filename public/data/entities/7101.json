@@ -24,19 +24,19 @@
 			"Mr John Wu Yifan"
 		],
 		"Vice Principal (Admin)": "Mr Seah Thiam Siong",
-		"School Vision": "Where Talents Soar: Bicultural Scholars, Accomplished Achievers, Honourable Leaders",
+		"School Vision": "Every AHS Student A Leader - Leading Honourably, Learning for Life, Creating Value for Others",
 		"School Mission": "To nurture creative thinkers, lifelong learners and compassionate leaders who uphold tradition and aspire towards holiness and righteousness.",
 		"School Philosophy, Culture and Ethos": "Anchored on the school philosophy 'Every Child Has Talent, Every Child Can Excel', the school provides all students with a rich learner-centered, holistic educational experience, with the aim of stretching every student's potential in the Cognitive, Leadership, Aesthetics, Moral, Physical and Social domains. In nurturing the whole child, the school places emphasis on leadership and talent development to build both personal and social capacities of each child. Students are equipped with life skills to be confident communicators, active collaborators and critical thinkers. As a Special Assistance Plan (SAP) school, the school offers a bicultural learning environment with strong emphasis on the learning of the Chinese language and culture premised on strong values and active citizenry. Besides offering a quality 4-year instructional programme, the school also has a robust and vibrant CCA programme and Student Development Co-curriculum to nurture good character and develop 21st century competencies. With its strong sports tradition, the school is affirmed as the Centre of Excellence (COE) for Sports in the East Zone.",
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese",
-		"Affiliated Schools": "St. Andrew's Junior College"
+		"Affiliated Schools": "St. Andrew&#39;s Junior College"
 	},
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Appre Of Chinese Culture",
 		"Art",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Biology",
 		"Chemistry",
 		"Chinese",
@@ -54,7 +54,7 @@
 		"Malay (Special Programme)",
 		"Mathematics",
 		"Music",
-		"Music 'O' Level",
+		"Music &#39;o&#39; Level",
 		"Physical Education",
 		"Physics"
 	],
@@ -100,10 +100,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -112,48 +108,12 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Harmonica",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2017",
 					"category": "Band - Concert",
@@ -238,20 +198,57 @@
 					"year": "2018",
 					"category": "Ensemble - Harmonica",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Harmonica",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 240,
-			"upper": 261,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -273,6 +270,14 @@
 			"programme": "Express",
 			"lower": 239,
 			"upper": 265,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 241,
+			"upper": 259,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

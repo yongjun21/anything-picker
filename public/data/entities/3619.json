@@ -21,8 +21,8 @@
 	"GeneralInformation": {
 		"Principal": "Mr Keh Chin Chuan Benedict",
 		"Vice Principal": [
-			"Miss Wee Mei Yen Janice",
-			"Mr Quah Siew Kin"
+			"Mr Quah Siew Kin",
+			"Mr Ow Kwok Leong"
 		],
 		"School Vision": "A Kent Ridgean has the Heart of a Saint, the Passion of an Inventor, and the Will of an Olympian.",
 		"School Mission": "Kent Ridge Secondary nurtures the heart, ignites the passion and strengthens the will of all Kent Ridgeans to become individuals of exemplary character.",
@@ -44,12 +44,12 @@
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
@@ -110,38 +110,18 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -180,36 +160,32 @@
 					"year": "2018",
 					"category": "Drama - English",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 200,
-			"upper": 232,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 161,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 109,
-			"upper": 155,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -279,6 +255,30 @@
 			"programme": "Normal Technical",
 			"lower": 116,
 			"upper": 149,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 217,
+			"upper": 237,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 167,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 108,
+			"upper": 148,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

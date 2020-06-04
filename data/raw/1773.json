@@ -17,6 +17,7 @@
 	"bus": "New Upper Changi Road (Opposite the school): 2 , 9 , 24 , 31 , 35 , 35M , 45 , 222 , 506 , NR7 (School side): 2 , 9 , 24 , 31 , 35 , 35M , 45 , 222 , 506 ",
 	"GeneralInformation": {
 		"Principal": "MRS CAROLINE WU",
+		"Principal-Designate": "MDM CHUA LAY TIN",
 		"Vice Principal": "MDM HOO WAI LING",
 		"Vice Principal (Admin)": "MRS VIJAYA GANESH",
 		"School Vision": "To nurture pupils so that they can excel in their pursuits and contribute to the society, through providing a holistic education and a dynamic learning environment.",
@@ -36,7 +37,7 @@
 		"CHINESE",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -146,17 +147,6 @@
 						"Senior"
 					],
 					[
-						"Volleyball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"4th",
-						"4th"
-					],
-					[
 						"Soccer",
 						"-",
 						"-",
@@ -177,6 +167,17 @@
 						"-",
 						"1st",
 						"1st"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
 					]
 				],
 				"SYF Central Judging": {
@@ -466,8 +467,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - International": "Silver",
@@ -570,8 +571,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - International": "Silver",
@@ -670,7 +671,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - International": "Silver",
@@ -769,7 +770,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - International": "Gold",
@@ -1372,15 +1373,117 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Choir": "Accomplishment",
 					"Dance - Chinese": "Accomplishment",
 					"Dance - International": "Accomplishment",
 					"Dance - Malay": "Distinction",
-					"Ensemble - Guitar": "Accomplishment",
-					"Choir": "Accomplishment"
+					"Ensemble - Guitar": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guitar": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "467353"

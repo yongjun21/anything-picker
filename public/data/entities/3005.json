@@ -19,15 +19,12 @@
 	"bus": "32 , 111 , 122 , 132 , 51 , 139 , 186 , 970 ",
 	"GeneralInformation": {
 		"Principal": "Mrs Helen Chong",
-		"Vice Principal": [
-			"Mdm V Priya Rajan",
-			"Miss Low Shiok Cheng Cindy"
-		],
+		"Vice Principal": "Mdm V Priya Rajan",
 		"Vice Principal (Admin)": "Miss Chuang Siew Chin",
 		"School Vision": "Ladies and Leaders of Tomorrow",
 		"School Mission": "We nurture Crescentians to be Confident Learners, Global Citizens and Servant Leaders.",
 		"School Philosophy, Culture and Ethos": "Crescent Girls' School provides a nurturing and innovative environment with a distinctive brand of education that empowers generations of students to grow into gracious and confident ladies, and caring visionary leaders. The school focuses on transforming the learning experiences of students through pervasive and purposeful use of technology. As one of the pioneer FutureSchools@Singapore, we continually harness technology to develop in our students a passion for learning and for life so that they are well-prepared for the challenges of the 21st century. Beyond academic excellence, the school is committed to inculcating sound values in our students so that they are able to contribute to the community. There is a pervasive culture of care in the school, and a strong emphasis on development of strength of character, focusing on moral courage, resilience, empathy and commitment to teamwork to nurture our students to be responsible members of society and gracious citizens of the world. The school has done well in many aspects over the years. This is possible due to a team of dedicated and innovative staff and the support of parents, alumnae and the school advisory committee.",
-		"Type of School": "Government School / Girls' School / Single Session",
+		"Type of School": "Government School / Girls&#39; School / Single Session",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -35,13 +32,13 @@
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Biology",
 		"Chemistry",
 		"Chinese",
 		"Chinese (Special Programme)",
-		"Civics & Moral Education",
-		"Design & Technology",
+		"Civics &amp; Moral Education",
+		"Design &amp; Technology",
 		"English Language",
 		"Food And Consumer Education",
 		"Geography",
@@ -58,7 +55,7 @@
 		"Malay (Special Programme)",
 		"Mathematics",
 		"Music",
-		"Music 'O' Level",
+		"Music &#39;o&#39; Level",
 		"Physical Education",
 		"Physics",
 		"Science",
@@ -80,36 +77,28 @@
 			"Singapore Red Cross Youth"
 		],
 		"Visual and Performing Arts": [
+			"Art & Photographic Club",
 			"Band - Symphonic",
 			"Chinese And Modern Dance",
 			"Choir",
-			"Digital Art & Photography Club",
+			"Drama - English",
 			"Ensemble - Angklung/Kulintang"
 		],
 		"Clubs & Societies": [
 			"Audio & Video/ Pa Club",
 			"Chess Club",
 			"Computer Club",
-			"Innovation And Enterprise Club",
-			"Ldds - English"
+			"Innovation And Enterprise Club"
 		]
 	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Music Elective Programme"
 		],
-		"Special Student Development Programmes Offered": "The school's Student Development Programmes are offered within our Student-centric Holistic Curriculum. In our Instructional Programmes, students are exposed to a myriad of learner-centric teaching approaches that extend learning beyond the classroom and empower our students with 21st century competencies like collaboration, global awareness, skilled communication and real-world problem solving. Our 4-year Character & Leadership Development Programme provides all students with opportunities to develop their leadership potential. Our Values in Action Programme equips students with problem-solving skills and provides them with platforms to engage with the community, with the aim of inspiring and empowering them to make a difference in society. All students have opportunities to travel overseas in our Service Learning Programme, which aims to develop a sense of empathy, civic responsibility and cross-cultural skills in our students. Our Talent Development Programme aims to stretch our able, committed and creative students further. The school also offers the Music Elective Programme for students passionate about music."
+		"Special Student Development Programmes Offered": "The school's Student Development Programmes are offered within our Student-centric Holistic Curriculum. In our Instructional Programmes, students are exposed to a myriad learner-centric teaching approaches that extend learning beyond the classroom and empower our students with 21st century competencies like collaboration, global awareness, skilled communication and real-world problem solving. Our 4-year Character & Leadership Development Programme provides all students with opportunities to develop their leadership potential. Our Values in Action Programme equips students with problem-solving skills and provides them with platforms to engage with the community, with the aim of inspiring and empowering them to make a difference in society. All students have opportunities to travel overseas in our Service Learning Programme, which aims to develop a sense of empathy, civic responsibility and cross-cultural skills in our students. Our Talent Development Programme aims to stretch our able, committed and creative students further. The school also offers the Music Elective Programme for students who are passionate about music."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"ODA (National Education)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Outstanding Development Award": [
@@ -126,39 +115,14 @@
 				],
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -217,20 +181,37 @@
 					"year": "2018",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 243,
-			"upper": 260,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -252,6 +233,14 @@
 			"programme": "Express",
 			"lower": 242,
 			"upper": 257,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 243,
+			"upper": 255,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

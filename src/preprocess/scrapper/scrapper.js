@@ -50,7 +50,7 @@ function parseContactInfo (body) {
       //   } catch (err) {}
       // } else if (i === 3 && !j.name) {
       //   j.name = c.child[0].child[0].child[0].text
-      else if (i === 5) j.website = c.child[0].child[0].text
+      else if (i === 5) j.website = c.child[0].child && c.child[0].child[0].text
       else if (i === 11) j.address = c.child[0].text
       else if (i === 13) {
         j.telephone = c.child[0].child[1].child
@@ -191,7 +191,7 @@ function parseSpecialProgrammes (body) {
         const _value = {}
         while (value.length) {
           const group = value.splice(0, 3)
-          const k = group[0].child[0].child[0].text
+          const k = group[0].child[0].child ? group[0].child[0].child[0].text : 'Others'
           let v = group[1].child.map(c => c.text)
           if (v.length === 1) v = v[0]
           _value[k] = v

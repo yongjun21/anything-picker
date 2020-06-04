@@ -18,7 +18,7 @@
 	],
 	"bus": "22 , 43 , 45 , 53 , 58 , 70 , 81 , 82 , 100 , 101 , 103 , 105 , 107 , 109 , 133 , 135 , 147 , 153 , 158 , 315 , 317 , 853 ",
 	"GeneralInformation": {
-		"Principal": "Mr Loh Leong Beng",
+		"Principal": "Miss Low Shiok Cheng Cindy",
 		"Vice Principal": [
 			"Mdm Neo Lay Pin",
 			"Mr Koh Kai Hong"
@@ -35,26 +35,26 @@
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art",
-		"Art For AEP",
-		"Art Na Level",
-		"Art Nt Level",
-		"Art 'O' Level",
+		"Basic Chinese",
+		"Basic Malay",
 		"Biology",
 		"Chemistry",
 		"Chinese",
+		"Chinese N(A)",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
 		"Computer Applications",
 		"Computing",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Food Studies, N Level",
 		"Geography",
+		"Higher Art",
 		"Higher Chinese",
 		"History",
 		"Humanities (Ss, Geography)",
@@ -67,7 +67,7 @@
 		"Mathematics (Syllabus A)",
 		"Mathematics (Syllabus T)",
 		"Music",
-		"Music 'O' Level",
+		"Music &#39;o&#39; Level",
 		"Physical Education",
 		"Physics",
 		"Principles Of Accounts",
@@ -115,14 +115,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -131,54 +123,13 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -270,6 +221,46 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
 				}
@@ -278,30 +269,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 234,
-			"upper": 253,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 182,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 130,
-			"upper": 158,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -371,6 +338,30 @@
 			"programme": "Normal Technical",
 			"lower": 135,
 			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 236,
+			"upper": 264,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 181,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 134,
+			"upper": 159,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

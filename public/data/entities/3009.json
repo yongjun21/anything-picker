@@ -21,12 +21,12 @@
 	"GeneralInformation": {
 		"Principal": "Mr Yeo Kok Peng Frederick",
 		"Vice Principal": [
-			"Mr Magendiran K Sinathurai",
 			"Mdm Thor Poh Sin Theresa",
 			"Mr Edward Ng",
 			"Mr Chen Ziyang",
 			"Mr Ang Peng Siong Brian Lagman",
-			"Mrs Reavley Munn Ye"
+			"Mrs Reavley Munn Ye",
+			"Ms Ng Mei Sze"
 		],
 		"School Vision": "To be the 'Hope of a Better Age', as encapsulated in the school's Latin motto, Auspicium Melioris Aevi.",
 		"School Mission": "Nurturing Thinkers, Leaders and Pioneers of character who serve by leading and lead in serving.",
@@ -41,23 +41,26 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Computer Studies",
-		"Design Thinking",
 		"English Language",
+		"French",
 		"Geography",
+		"German",
 		"Higher Chinese",
 		"Higher Malay",
 		"Higher Tamil",
 		"History",
+		"Japanese",
 		"Literature(E)",
 		"Malay",
 		"Malay (Special Programme)",
 		"Mathematics",
 		"Music",
-		"Philosophy",
 		"Physics",
-		"Research Education",
+		"School Subject 1",
+		"School Subject 2",
+		"School Subject 3",
 		"Social Studies",
+		"Spanish",
 		"Tamil"
 	],
 	"Cca": {
@@ -136,49 +139,21 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Special Awards": "LKY (NE) Award",
-				"Development Award": "PARTNERS (Merit)",
-				"Outstanding Development Award": "ODA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
 				},
 				{
 					"year": "2017",
@@ -216,9 +191,9 @@
 					"award": "Distinction"
 				},
 				{
-					"year": "2017",
-					"category": "Art - Category A",
-					"award": "Recognition(Sm)"
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
 				},
 				{
 					"year": "2018",
@@ -251,449 +226,53 @@
 					"award": "Distinction"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Choir",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English (2nd Entry)",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		},
 		"Junior College": {
-			"2016": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Special Awards": "LKY (NE) Award",
-				"Development Award": "PARTNERS (Merit)",
-				"Outstanding Development Award": "ODA (Character Development)"
-			},
 			"Sports & Games Competition": [
 				{
-					"year": "2016",
-					"category": "Badminton",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Badminton",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Cricket",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Fencing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Fencing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Floorball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Gymnastics (Trampoline)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Hockey",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Judo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Judo",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Netball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Shooting (Air Pistol)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Shooting (Air Pistol)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Shooting (Air Rifle)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Shooting (Air Rifle)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Swimming",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Swimming",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Track & Field",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Waterpolo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Waterpolo",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
 					"year": "2017",
-					"category": "Track & Field",
+					"category": "Track &amp; Field",
 					"subCategory": [
 						"National",
 						"Boys",
@@ -703,7 +282,7 @@
 				},
 				{
 					"year": "2017",
-					"category": "Track & Field",
+					"category": "Track &amp; Field",
 					"subCategory": [
 						"National",
 						"Girls",
@@ -1423,7 +1002,7 @@
 				},
 				{
 					"year": "2018",
-					"category": "Track & Field",
+					"category": "Track &amp; Field",
 					"subCategory": [
 						"National",
 						"Boys",
@@ -1433,7 +1012,7 @@
 				},
 				{
 					"year": "2018",
-					"category": "Track & Field",
+					"category": "Track &amp; Field",
 					"subCategory": [
 						"National",
 						"Girls",
@@ -1460,44 +1039,399 @@
 						"'A' Div"
 					],
 					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Softball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Softball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Badminton",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Badminton",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Cricket",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Cross Country",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Cross Country",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Fencing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Fencing",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2019",
+					"category": "Golf",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Golf",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2019",
+					"category": "Judo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Judo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Sailing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Shooting (Air Pistol)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Shooting (Air Pistol)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Shooting (Air Rifle)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Shooting (Air Rifle)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Squash",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Squash",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Track &amp; Field",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Track &amp; Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Waterpolo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Waterpolo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
 				}
 			],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Chinese",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category C",
@@ -1536,6 +1470,11 @@
 				{
 					"year": "2017",
 					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
 					"award": "Distinction"
 				},
 				{
@@ -1574,23 +1513,45 @@
 					"award": "Distinction"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Choir",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - Chinese",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 261,
-			"upper": 276,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -1614,27 +1575,17 @@
 			"upper": 277,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 259,
+			"upper": 277,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
 		}
 	],
 	"L1R5History": [
-		{
-			"year": "2016",
-			"programme": "Arts",
-			"lower": 2,
-			"upper": 4
-		},
-		{
-			"year": "2016",
-			"programme": "Science/IB",
-			"lower": 2,
-			"upper": 3
-		},
-		{
-			"year": "2016",
-			"programme": "Commerce",
-			"lower": null,
-			"upper": null
-		},
 		{
 			"year": "2017",
 			"programme": "Arts",
@@ -1685,6 +1636,24 @@
 		},
 		{
 			"year": "2019",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2020",
+			"programme": "Arts",
+			"lower": 2,
+			"upper": 5
+		},
+		{
+			"year": "2020",
+			"programme": "Science/IB",
+			"lower": 2,
+			"upper": 4
+		},
+		{
+			"year": "2020",
 			"programme": "Commerce",
 			"lower": null,
 			"upper": null

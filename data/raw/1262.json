@@ -17,7 +17,10 @@
 	"bus": "50 , 85 , 102 , 372    Nearest Bus Stop: In front of Blk 326 Car Park  *1-2 min walk from bus stop; enter by Main Gate along Anchorvale Link or Rear Gate ",
 	"GeneralInformation": {
 		"Principal": "MDM NEO LAY WAH",
-		"Vice Principal": "MR HO WEE MIN KELVIN",
+		"Vice Principal": [
+			"MR HO WEE MIN KELVIN",
+			"MR SHOEB BURHANUDDIN"
+		],
 		"Vice Principal (Admin)": "MR CHAN SOON HUA",
 		"School Vision": "Every Springdalite is a Secure Individual, a Leader of Self-worth and a Significant Citizen.",
 		"School Mission": "To engage young minds, mould their character and equip them for the future.",
@@ -60,9 +63,8 @@
 		],
 		"Clubs & Societies": [
 			"Green Club",
-			"Innovators' Club",
-			"Media Club",
-			"T(H)Inkers Club"
+			"Inno-T(H)Inkers Club",
+			"Media Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -70,7 +72,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Interdisciplinary": "Out-of-Door Education (ODE) through Curriculum Integration"
+			"Interdisciplinary": "Out-of-Door Education (ODE) through Curriculum Integration",
+			"Community Service & Student Leadership": "Nurturing Leaders with a Heart"
 		},
 		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP) is Out-of-Door Education (ODE) which seeks to provide an integrated learning experience through creative installations within the school such as the Low-elements Rope Trail, Science Eco-garden Trail and the Learning Maze. In addition, it also provides authentic learning experiences for the students by tapping on learning spaces both within and beyond the school. For instance, learning journeys in this school are specially designed by the teachers to enable inquiry learning. The school also trains the students to adopt an innovative and solution-focused mindset through the use of Design Thinking as a problem-solving protocol. "
 	},
@@ -108,7 +111,84 @@
 					"Dance - International": "Accomplishment"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "544799"

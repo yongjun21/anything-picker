@@ -35,7 +35,7 @@
 		"CHINESE",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -54,15 +54,13 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Athletics",
 			"Badminton",
 			"Hockey",
 			"Soccer",
 			"Taekwondo"
 		],
 		"Uniformed Groups": [
-			"Red Cross Youth",
-			"Scouts"
+			"Red Cross Youth"
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
@@ -73,9 +71,6 @@
 			"Guzheng",
 			"Indian Dance",
 			"Malay Dance"
-		],
-		"Clubs & Societies": [
-			"Robotics"
 		]
 	},
 	"SpecialProgrammes": {
@@ -508,8 +503,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold (Hons))": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
@@ -527,8 +522,8 @@
 				"Achievement Award": "CHERISH Award",
 				"Sustained Achievement Award": "SAA (Aesthetics)",
 				"SYF Central Judging": {
-					"Art & Craft (Gold (Hons))": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold (Hons)",
@@ -1068,7 +1063,101 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "545092"

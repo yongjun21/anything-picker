@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MR KEH CHIN CHUAN BENEDICT",
 		"Vice Principal": [
-			"MISS WEE MEI YEN JANICE",
-			"MR QUAH SIEW KIN"
+			"MR QUAH SIEW KIN",
+			"MR OW KWOK LEONG"
 		],
 		"School Vision": "A Kent Ridgean has the Heart of a Saint, the Passion of an Inventor, and the Will of an Olympian.",
 		"School Mission": "Kent Ridge Secondary nurtures the heart, ignites the passion and strengthens the will of all Kent Ridgeans to become individuals of exemplary character.",
@@ -41,12 +41,12 @@
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -1090,7 +1090,16 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Commendation"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1346,6 +1355,23 @@
 			"Normal Technical": [
 				"116",
 				"149",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"217",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"167",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"108",
+				"148",
 				"None-posted"
 			]
 		}

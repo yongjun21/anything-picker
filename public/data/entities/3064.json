@@ -20,12 +20,12 @@
 	"GeneralInformation": {
 		"Principal": "Miss Ho Sook Fun Doris",
 		"Vice Principal": [
-			"Mrs Rosie Lau @ Mdm Rosie Lim",
-			"Ms Choo Wan Xian"
+			"Ms Choo Wan Xian",
+			"Mr Ngoh Sing Kien Arthur"
 		],
 		"School Vision": "A Vibrant Community of Learners who Lead and Contribute to Family, Nation and Beyond.",
 		"School Mission": "To Grow a Vibrant Community of Leader-Learners of Character who Contribute to Family, Nation and Beyond.",
-		"School Philosophy, Culture and Ethos": "We strive to develop all our students to be learning leaders firmly anchored in sound moral values through a student-centric, values-driven education within a holistic learning environment.  These values are infused into the academic curriculum, the Applied Learning Programme (ALP), the Learning for Life Programme (LLP) and the Character and Citizenship Education (CCE) curriculum. Our team of committed staff build strong teacher-student relationships and trust as we nurture our students in developing sound character to give their best to realize their dreams with courage, to succeed in life and contribute to the school, family, nation and beyond.",
+		"School Philosophy, Culture and Ethos": "We strive to develop all our students to be learning leaders firmly anchored in sound moral values through a student-centric, values-driven education within a holistic learning environment.  These values are infused into the academic curriculum, the Applied Learning Programme (ALP), the Learning for Life Programme (LLP) and the Character and Citizenship Education (CCE) curriculum. Our team of committed staff builds strong teacher-student relationships and trust, as we nurture our students in developing sound character to give their best to realise their dreams with courage, to succeed in life and contribute to the school, family, nation and beyond.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -35,7 +35,7 @@
 		"Art",
 		"Art Na Level",
 		"Art Nt Level",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Basic Tamil",
@@ -45,12 +45,12 @@
 		"Chinese B",
 		"Chinese N(A)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Tamil",
@@ -111,14 +111,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)",
-					"PARTNERS (Merit)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -133,28 +125,11 @@
 				],
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Commendation"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category B",
@@ -184,36 +159,27 @@
 					"year": "2018",
 					"category": "Drama - English",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Brass Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 227,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 153,
-			"upper": 185,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 87,
-			"upper": 144,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -283,6 +249,30 @@
 			"programme": "Normal Technical",
 			"lower": 103,
 			"upper": 157,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 242,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 187,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 94,
+			"upper": 156,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

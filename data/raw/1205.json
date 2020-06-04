@@ -29,7 +29,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
@@ -43,8 +43,6 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton",
-			"Football",
 			"Softball",
 			"Track & Field",
 			"Volleyball",
@@ -71,6 +69,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"Interdisciplinary": "Students as Advocates of Environmental Issues in the Community",
 			"Visual Arts & Design": "Developing Higher Order Thinking Through Visual Art"
 		},
 		"Special Student Development Programmes Offered": "The Learning for Life Programme (LLP) in Xinghua Primary School centres on \"Confidence Building and Critical thinking through the Visual Arts\". The school believes that this focus is one of the key strategies to enhance the actualization of the school vision. Through participation in visual arts, pupils' creativity and curiosity to learn can be unlocked, helping them to grow a passion for learning.  Increased pupil participation in visual arts programmes will lead to more visible and tangible vibrancy as the physical presence of artworks and pupil activities throughout the school create the atmosphere. As the pupils discover more about the cultures of other races through the respective art forms and the artworks of local artists, they develop a deeper understanding of Singapore's ethnic diversity and a sense of national identity. This nurtures the pupils into sensitive and caring citizens. Not only does active participation in visual art cultivate the school values, the programme is able to promote critical thinking and communication skills among the pupils to become confident learners of the 21st century."
@@ -323,7 +322,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - International": "Gold",
 					"Ensemble - Angklung / Kulintang": "Silver",
@@ -406,7 +405,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - International": "Gold (Hons)",
 					"Ensemble - Angklung / Kulintang": "Gold",
@@ -503,7 +502,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - International": "Gold (Hons)",
 					"Ensemble - Angklung / Kulintang": "Gold",
@@ -601,7 +600,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - International": "Gold",
 					"Ensemble - Angklung / Kulintang": "Gold",
@@ -1049,17 +1048,6 @@
 						"Senior"
 					],
 					[
-						"Softball",
-						"2nd",
-						"3rd",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
 						"Volleyball",
 						"-",
 						"-",
@@ -1069,6 +1057,17 @@
 						"2nd",
 						"1st",
 						"1st"
+					],
+					[
+						"Softball",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
 					]
 				],
 				"SYF Arts Presentation": {
@@ -1171,7 +1170,98 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Softball",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"4th",
+						"3rd",
+						"1st"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "538882"

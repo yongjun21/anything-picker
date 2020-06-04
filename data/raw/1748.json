@@ -13,7 +13,7 @@
 		"67600147"
 	],
 	"email": "wvps@moe.edu.sg",
-	"mrt": "CCK MRT, SENJA LRT (A13)",
+	"mrt": "Bukit Panjang MRT, SENJA LRT (A13)",
 	"bus": "170 , 171 , 176 , 178 , 180 , 187 , 190 , 960 , 961 , 963 ",
 	"GeneralInformation": {
 		"Principal": "MR FOO CHIT CHEONG EDDIE",
@@ -45,7 +45,7 @@
 		"ART",
 		"CHINESE",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -69,6 +69,7 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
+			"Art And Craft Club",
 			"Band",
 			"Dance-Chinese",
 			"Dance-Malay"
@@ -492,7 +493,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Bronze",
@@ -574,7 +575,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Silver",
@@ -849,11 +850,11 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Dance - Malay": "Accomplishment",
 					"Art - Category B": "Recognition(Sm)",
 					"Band-Brass": "Accomplishment",
 					"Dance - Chinese": "Distinction",
-					"Dance - Indian": "Accomplishment",
-					"Dance - Malay": "Accomplishment"
+					"Dance - Indian": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -940,13 +941,13 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
 					"Art - Category B": "Recognition",
 					"Art - Category C": "Recognition",
 					"Band-Brass": "Accomplishment",
 					"Dance - Chinese": "Distinction",
 					"Dance - Indian": "Accomplishment",
-					"Dance - Malay": "Accomplishment",
-					"Art - Category A": "Recognition"
+					"Dance - Malay": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -961,7 +962,86 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Floorball",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "677742"

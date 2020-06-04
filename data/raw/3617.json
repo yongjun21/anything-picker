@@ -14,7 +14,7 @@
 	],
 	"email": "ZHENGHUA_SS@MOE.EDU.SG",
 	"mrt": "JELAPANG LRT",
-	"bus": "920 , 922 ",
+	"bus": "920 , 922 , 976 ",
 	"GeneralInformation": {
 		"Principal": "MR LIN YUCHENG EUGENE",
 		"Vice Principal": [
@@ -22,7 +22,7 @@
 			"MR PHOR HOAY GUAN"
 		],
 		"School Vision": "Every Student, A Principled and Future-Ready Leader",
-		"School Mission": "To prepare every student to better meet the challenges of the future by building the student's emotional, ethical, intellectual, physical and social capacity through organisational commitment, competence and compassion.",
+		"School Mission": "To prepare every student to better meet the challenges of the future by building the student's emotional, ethical, intellectual, physical and social capacity.",
 		"School Philosophy, Culture and Ethos": "Strong fundamental skills and values are at the centre of Zhenghua Secondary's endeavours. The school establishes a firm foundation for future learning by teaching core learning skills and instilling in our students a strong moral compass to face challenges with resilience and integrity. In academic learning, students are encouraged to take responsibility for their learning and be independent in the pursuit of knowledge. Problem-based and inquiry-based learning continue to be key teaching strategies to promote critical, creative and independent thinking. These efforts have yielded value-added outcomes.  We have a caring environment in which students and teachers have strong rapport. Our strong emphasis on holistic development is reflected in our unique Outdoor Education and Leadership programmes. We have an Adventure and Leadership Training Centre with facilities such as the high elements challenge ropes course and the outdoor and indoor rock walls. Outdoor education is infused in our PE programme. We are proud of the many achievements of our Uniformed Groups and Aesthetics groups. The school was conferred the Lee Hsien Loong Award for Innovations in the Normal Course for our efforts in providing our students with meaningful learning experiences. We offer Direct School Admission (DSA) to suitable P6 students who demonstrate exemplary leadership competencies or who have excelled in their respective uniformed groups.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -32,7 +32,7 @@
 		"ADDITIONAL MATHEMATICS",
 		"ART NA LEVEL",
 		"ART NT LEVEL",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BIOLOGY",
@@ -40,15 +40,16 @@
 		"CHINESE",
 		"CHINESE N(A)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
+		"HISTORY",
 		"HUMANITIES (SS, GEOGRAPHY)",
 		"HUMANITIES (SS, HISTORY)",
 		"HUMANITIES (SS, LIT IN ENGLISH)",
@@ -88,7 +89,7 @@
 			"Band - Symphonic",
 			"Chinese Drums",
 			"Choir",
-			"Dance - Modern",
+			"Dance - Malay",
 			"Drama Club",
 			"Drums Ensemble",
 			"Ensemble - Handbell/Handchime"
@@ -780,7 +781,18 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1036,6 +1048,23 @@
 			"Normal Technical": [
 				"136",
 				"159",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"210",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"169",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"129",
+				"158",
 				"None-posted"
 			]
 		}

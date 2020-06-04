@@ -14,12 +14,12 @@
 	],
 	"email": "westwood_ps@moe.edu.sg",
 	"mrt": "Boon Lay MRT Station",
-	"bus": "181 , 502 & 243 ",
+	"bus": "181 , 502 &amp; 243 ",
 	"GeneralInformation": {
 		"Principal": "MR NG YEOW LING",
 		"Vice Principal": [
-			"MS TRACY TAN I- LIAN",
-			"MRS RUTH TAI MEI FEN"
+			"MRS RUTH TAI MEI FEN",
+			"MR LOW MIN CHYE"
 		],
 		"Vice Principal (Admin)": "MR CHIN HONG FAI HUMPHREY",
 		"School Vision": "A positive institution in Jurong West that inspires the community to lead meaningful and engaged lives",
@@ -36,7 +36,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"HEALTH EDUCATION",
 		"MALAY",
@@ -56,13 +56,13 @@
 			"Boys' Brigade"
 		],
 		"Visual and Performing Arts": [
+			"Chinese Dance",
 			"Choir",
-			"Dance - Chinese",
-			"Dance - Malay"
+			"Malay Dance"
 		],
 		"Clubs & Societies": [
-			"English Society",
-			"It Club"
+			"Imagine Guild",
+			"Speech & Drama Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -187,7 +187,88 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass Ensemble": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "649188"

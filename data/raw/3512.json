@@ -34,11 +34,11 @@
 	},
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
 		"EXERCISE AND SPORTS SCIENCE",
 		"FOOD AND CONSUMER EDUCATION",
@@ -87,7 +87,7 @@
 		"MOE Programmes": [
 			"Not Available"
 		],
-		"Special Student Development Programmes Offered": "Signature programmes: Da Vinci Programme which develops 21st century communication, collaboration and information skills, while sharpening critical and inventive thinking via applied learning opportunities; Einstein Programme which develops computational thinking through programming micro-controllers to create solutions to solve real world problems; Principal's Honours List Programme which includes research curriculum; TK Current Affairs which builds general knowledge and discernment; SKILLS Programme which develops in students skills for self-directed learning, and critical and inventive thinking; TK Student Leadership programme; Outdoor Education at TK that stretches students mentally, physically and emotionally while instilling firm belief and confidence in their own ability to succeed; Overseas twinning programmes with schools, that broaden students' global outlook and increase cultural quotient. Programmes to deepen disciplinary understanding include the Mathematics and Science Olympiads. Students also participate in Debating Competitions and the CB Paul Science Quiz. In addition, the school also offers Malay Language Elective Programme which aims to nurture promising students to attain a high level of language proficiency in Malay, and enhance their understanding of literature. TKSS is renowned for its vibrancy and excellent CCAs in sports, the performing arts and uniformed groups. TeamTK's sportsmen and sportswomen have excelled in various sports such as Netball, Floorball and Football. The Uniformed Groups have a proven track record and have continuously excelled in national competitions. TKSS is the East Zone Centre of Excellence (COE) for Character and Citizenship Education as well as Design Education. As a COE, TK leads in the teaching and learning and supports collaboration in these areas for East Zone schools."
+		"Special Student Development Programmes Offered": "Signature programmes: Da Vinci Programme which develops 21st century skills such as communication, collaboration and information skills, while sharpening critical and inventive thinking via applied learning opportunities; Einstein Programme which develops computational thinking through programming micro-controllers to create solutions to solve real world problems; Principal's Honours List Programme which includes research curriculum; TK Current Affairs which builds general knowledge and discernment; SKILLS Programme which develops in students skills for self-directed learning, and critical and inventive thinking; TK Student Leadership programme; Outdoor Education at TK that stretches students mentally, physically and emotionally while instilling firm belief and confidence in their own ability to succeed; Overseas twinning programmes with schools, that broaden students' global outlook and increase cultural quotient. Programmes to deepen disciplinary understanding include the Mathematics and Science Olympiads. Students also participate in Debating Competitions and the CB Paul Science Quiz. In addition, the school also offers Malay Language Elective Programme which aims to nurture promising students to attain a high level of language proficiency in Malay, and enhance their understanding of literature. TKSS is renowned for its vibrancy and excellent CCAs in sports, the performing arts and uniformed groups. TeamTK's sportsmen and sportswomen have excelled in various sports such as Netball, Floorball and Football. The Uniformed Groups have a proven track record and have continuously excelled in national competitions. TKSS is the East Zone Centre of Excellence (COE) for Character and Citizenship Education as well as Design Education. As a COE, TK leads in the teaching and learning and supports collaboration in these areas for East Zone schools."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -194,11 +194,11 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Band - Concert": "Silver",
 					"Band - Display / Marching": "Gold (Hons)",
 					"Choir": "Gold (Hons)",
 					"Dance - International": "Silver",
-					"Drama - English": "Silver"
+					"Drama - English": "Silver",
+					"Band - Concert": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1133,17 +1133,6 @@
 						"'C' Div"
 					],
 					[
-						"Floorball",
-						"-",
-						"-",
-						"3rd",
-						"1st",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
 						"Football",
 						"1st",
 						"1st",
@@ -1151,6 +1140,17 @@
 						"-",
 						"3rd",
 						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"-",
+						"-",
+						"3rd",
+						"1st",
+						"-",
+						"-",
 						"-",
 						"-"
 					],
@@ -1423,16 +1423,132 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Choir": "Distinction",
 					"Band - Concert": "Distinction",
 					"Band-Display": "Distinction",
 					"Dance - International": "Accomplishment",
 					"Drama - Chinese": "Distinction",
-					"Drama - English": "Accomplishment",
-					"Choir": "Distinction"
+					"Drama - English": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Band-Display": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1538,6 +1654,13 @@
 			"Express": [
 				"233",
 				"258",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"234",
+				"256",
 				"None-posted"
 			]
 		}

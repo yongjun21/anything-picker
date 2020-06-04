@@ -16,9 +16,9 @@
 	"mrt": "LAKESIDE MRT",
 	"bus": "98 , 154 , 154A , 180 , 182 , 187 , 240 , 240A , 246 ",
 	"GeneralInformation": {
-		"Principal": "MISS NG SOOK KIT",
+		"Principal": "MS NG SOOK KIT",
 		"Vice Principal": [
-			"MR CASEY MUI CHEE YIN",
+			"MR LOH KOK NIAM VINCENT",
 			"MR CHEONG LIT SERN WESLEY"
 		],
 		"School Vision": "Every Individual a Thinker, an Achiever, a Concerned Citizen",
@@ -32,14 +32,14 @@
 		"ADDITIONAL MATHEMATICS",
 		"ART NA LEVEL",
 		"ART NT LEVEL",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HISTORY",
@@ -92,8 +92,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"STEM": "Marine Architecture and Engineering",
-			"Sports & Outdoor Education": "Dragonboat -- gRowing Values: Mastering Core Dragon Boating Skills and Embracing the Values it Embodies"
+			"STEM": "Marine Robotics",
+			"Sports & Outdoor Education": "gRowing Values through Sports and Outdoor Education"
 		},
 		"Special Student Development Programmes Offered": "Applied Learning Programme: Marine Robotics enthuses learners by connecting their knowledge and skills learnt in classrooms to the Underwater Vehicle building and Microbit programming activities. The students will acquire Problem Solving and Science, Technology, Engineering and Mathematics skills as they learn to overcome assigned challenges in their projects. They are also imbued with 21st Century Competencies and strong values while working collaboratively in teams. Learning for Life Programme: gRowing Values Through Sports and Outdoor Experiences instils values and builds character in students through their acquisition of skills in swimming, life-saving and dragon boating. Student Leadership Development: The Leadership Challenge Model enhances students' inter-personal and communication skills, develops leadership competencies and builds teamwork. Overseas cultural exchange and outdoor learning programmes expose students to authentic learning experiences that nurture character and values. Environmental education deepens understanding and develops active citizenry in students who will care for the environment. Aesthetics programmes use a multi-faceted approach to develop in students an appreciation for the aesthetics and to discover their interests and strengths."
 	},
@@ -248,12 +248,12 @@
 					"DA (National Education)"
 				],
 				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
 					"Dance - Chinese": "Accomplishment",
 					"Dance - Indian": "Accomplishment",
 					"Dance - Malay": "Accomplishment",
 					"Drama - English": "Commendation",
-					"Ensemble - Guzheng": "Distinction",
-					"Band - Concert": "Accomplishment"
+					"Ensemble - Guzheng": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -286,7 +286,18 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -542,6 +553,23 @@
 			"Normal Technical": [
 				"113",
 				"157",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"218",
+				"233",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"166",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"118",
+				"154",
 				"None-posted"
 			]
 		}

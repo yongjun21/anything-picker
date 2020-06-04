@@ -24,9 +24,9 @@
 			"Mr Chang Fook Yong"
 		],
 		"Vice Principal (Admin)": "Mdm Elsie Tan Ser Hong",
-		"School Vision": "A Premier And Prestigious School",
-		"School Mission": "To instill desired values in our students and develop their potential so that they will achieve excellence and contribute to the community, nation and the world.",
-		"School Philosophy, Culture and Ethos": "Chung Cheng High School (Yishun) offers a quality values-driven holistic education that grows our students to be responsible, respectful, courageous and inquiring learners with a mindset for excellence.  Our students are caring individuals who contribute to the local, national and global community.  Guided by school core value of Zhi, Ren and Yong, students are disciplined and diligent in the pursuit of knowledge.  They are responsible and discerning when seeking to acquire knowledge.  They are keen learners who are ready to deal with 21st century challenges.  Being compassionate, caring and grateful, they proactively contribute to improving the lives of others.  Our students will embrace change, seize opportunities and be willing to take calculated risks so as to overcome challenges with courage and resilience.  Through self-reflection for continuous improvement, they are courageous to stand up for what is right and demonstrate honesty and responsibility in all their actions.  They live up to the school motto of 'Success through Diligence and Perseverance'.",
+		"School Vision": "A community of positive and future-ready leaders with a mindset for excellence",
+		"School Mission": "Nurturing lifelong learners with a global outlook, anchored on values and competencies to serve and to lead",
+		"School Philosophy, Culture and Ethos": "Chung Cheng High School (Yishun) offers a quality values-driven holistic education that grows our students to be responsible, respectful, courageous and inquiring learners with a mindset for excellence.  Our students are caring individuals who contribute to the local, national and global community.  Guided by school core value of With Integrity We Live; With Empathy We Care; With Grit We Persevere; With Gratitude We Serve, students are disciplined and diligent in the pursuit of knowledge.  They are responsible and discerning when seeking to acquire knowledge.  They are keen learners who are ready to deal with 21st century challenges.  Being compassionate, caring and grateful, they proactively contribute to improving the lives of others.  Our students will embrace change, seize opportunities and be willing to take calculated risks so as to overcome challenges with courage and resilience.  Through self-reflection for continuous improvement, they are courageous to stand up for what is right and demonstrate honesty and responsibility in all their actions.  They live up to the school motto of 'Success through Diligence and Perseverance'",
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Nanyang Junior College"
@@ -36,7 +36,7 @@
 		"Art",
 		"Art Na Level",
 		"Art Nt Level",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Biology",
@@ -46,7 +46,7 @@
 		"Chinese N(A)",
 		"Computer Applications",
 		"Computing",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
@@ -89,16 +89,16 @@
 			"Band - Symphonic",
 			"Choir",
 			"Dance - Chinese",
-			"Dance - International",
+			"Dance Ensemble",
 			"Drama Club",
 			"Festival Drums",
 			"Guzheng Ensemble",
 			"Orchestra - Chinese"
 		],
 		"Clubs & Societies": [
-			"Ava Club",
-			"Entrepreneur Club",
-			"Green Club"
+			"Green Club",
+			"Journalism & Library",
+			"Multimedia Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -110,120 +110,119 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Development Award": "DA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
 					"category": "Choir",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Dance - Chinese",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Dance - International",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
+					"category": "Drama - Multi-Lingual",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Multi-Lingual",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Drama - Chinese",
-					"award": "Accomplishment"
+					"award": "Commendation"
 				},
 				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Drama - Multi-Lingual",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Drama - Multi-Lingual",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
 				}
@@ -232,30 +231,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 237,
-			"upper": 258,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 184,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 138,
-			"upper": 159,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -325,6 +300,30 @@
 			"programme": "Normal Technical",
 			"lower": 142,
 			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 241,
+			"upper": 259,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 185,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 142,
+			"upper": 157,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

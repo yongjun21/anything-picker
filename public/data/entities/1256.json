@@ -14,7 +14,8 @@
 	],
 	"email": "cantonment_ps@moe.edu.sg",
 	"mrt": [
-		"Tanjong Pagar MRT"
+		"Tanjong Pagar MRT",
+		"Outram Park MRT"
 	],
 	"bus": "75 , 167 , 196 ",
 	"GeneralInformation": {
@@ -39,7 +40,7 @@
 		"Chinese",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -76,35 +77,24 @@
 			"Ensemble - Guitar"
 		],
 		"Clubs & Societies": [
-			"Infocom/Robotics Club",
+			"Infocomm/Robotics Club",
 			"Science Club"
 		]
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Interdisciplinary": "TC@CPS"
+			"Interdisciplinary": "TC@CPS",
+			"Music & Performing Arts": "PAVE @CPS (Performing Art for Values & Excellence)"
 		},
 		"Special Student Development Programmes Offered": "The CPS vision is to nurture 'Concerned Citizens, Innovative Thinkers, Passionate Learners'. This future oriented vision recognises that our students need to possess skills, aptitudes and attitudes in order to succeed and contribute in the 21st century. The school's Applied Learning Programme, a Thinking Curriculum @ Cantonment Primary School (TC@CPS) is to develop and encourage 'Innovative Thinkers' through a school wide approach. "
 	},
 	"AchievementHistory": {
 		"Primary": {
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Commendation"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category A",
@@ -137,6 +127,26 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guitar",
 					"award": "Accomplishment"
 				}
@@ -179,7 +189,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 1,
 		"PLACES TAKEN UP TO PHASE 2B": 65,
 		"VACANCY FOR PHASE 2C": 115,
-		"NO. OF APPLICANTS IN PHASE 2C": 80
+		"NO. OF APPLICANTS IN PHASE 2C": 80,
+		"PLACES TAKEN UP TO PHASE 2C": 145,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 35,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 35
 	},
 	"id": "1256"
 }

@@ -20,15 +20,12 @@
 	"bus": "31 , 36 , 43 , 47 , 48 , 55 , 135 , 155 , 196 , 196E , 197 , 401 , 853C ",
 	"GeneralInformation": {
 		"Principal": "Mr Chow Weisi",
-		"Vice Principal": [
-			"Mr Vincent Lee Wei Yee",
-			"Mr Tan Eng Hong Jonathan"
-		],
+		"Vice Principal": "Mr Tan Eng Hong Jonathan",
 		"Vice Principal (Admin)": "Mdm Cham Szu May Sylvia",
 		"School Vision": "Every Victorian is a Gentleman, Professional and Sportsman who makes tangible contributions to his family, work, community and nation.",
 		"School Mission": "To groom upright and balanced individuals with leadership qualities.",
 		"School Philosophy, Culture and Ethos": "Established in 1876, Victoria School (VS) is an all-boys school that is strong in spirit, rich in tradition and provides a broad-based holistic education. Our staff and students are guided by our school motto Nil Sine Labore (Nothing Without Labour) in the pursuit of performance excellence. The Victorian Spirit, the sense of pride and belonging to the school, encapsulates the camaraderie, fighting spirit and desire by every Victorian to be the best that he can be. VS is a dual-track school offering the 4-year 'O' level Programme, and the 6-year Victoria-Cedar Alliance Integrated Programme (VCA IP) developed jointly with Cedar Girls' Secondary School (CGSS) and our affiliated college, Victoria Junior College (VJC). Every Victorian will be developed in character and leadership, in the cognitive, physical and aesthetics domains, and in service to the community. Through a broad-based rigorous curriculum and an inviting school environment that fosters thinking, creativity and teamwork, our Victorians are nurtured into young gentlemen who are upright and balanced leaders.",
-		"Type of School": "Government School / Boys' School / Single Session",
+		"Type of School": "Government School / Boys&#39; School / Single Session",
 		"IP Partner Schools": [
 			"Cedar Girls' Secondary School",
 			"Victoria Junior College"
@@ -45,10 +42,10 @@
 		"Chemistry",
 		"Chinese",
 		"Chinese B",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"English Language",
 		"Exercise And Sports Science",
 		"Food And Consumer Education",
@@ -115,10 +112,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -127,38 +120,12 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category B",
@@ -208,28 +175,37 @@
 					"year": "2018",
 					"category": "Drama - Multi-Lingual",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Integrated Programme",
-			"lower": 254,
-			"upper": 268,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "'O' Level Programme",
-			"lower": 248,
-			"upper": 262,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Integrated Programme",
@@ -275,6 +251,22 @@
 			"programme": "'O' Level Programme",
 			"lower": 246,
 			"upper": 255,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Integrated Programme",
+			"lower": 252,
+			"upper": 275,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "'O' Level Programme",
+			"lower": 248,
+			"upper": 262,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

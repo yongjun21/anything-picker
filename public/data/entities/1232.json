@@ -20,8 +20,10 @@
 	"bus": "945",
 	"GeneralInformation": {
 		"Principal": "Mr Willy Tan Nguan Peng",
-		"Vice Principal": "Miss Tan Hui Ping",
-		"Vice Principal (Admin)": "Mr Andy Ang",
+		"Vice Principal": [
+			"Miss Tan Hui Ping",
+			"Mr Chua Kynn Howe Leonard"
+		],
 		"School Vision": "Hearts of Service, Minds of Inquiry, Joy in Learning, Confidence in Life",
 		"School Mission": "Together, we bring out the best in every child for a better nation",
 		"School Philosophy, Culture and Ethos": [
@@ -40,10 +42,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -92,36 +94,6 @@
 		"Primary": {
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Gamelan",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category A",
@@ -186,6 +158,36 @@
 					"year": "2018",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Gamelan",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
@@ -226,7 +228,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 45,
 		"VACANCY FOR PHASE 2C": 135,
-		"NO. OF APPLICANTS IN PHASE 2C": 30
+		"NO. OF APPLICANTS IN PHASE 2C": 30,
+		"PLACES TAKEN UP TO PHASE 2C": 75,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 105,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 34
 	},
 	"id": "1232"
 }

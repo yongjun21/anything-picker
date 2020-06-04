@@ -55,14 +55,12 @@
 			"Badminton",
 			"Basketball",
 			"Football",
-			"Gymnastics Enrichment",
 			"Volleyball"
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
 			"Band - Brass",
-			"Dance - Chinese",
-			"Dance - International",
+			"Dance Ensemble",
 			"Drama - English",
 			"Ensemble - Angklung/Kulintang",
 			"Ensemble - Guitar",
@@ -70,7 +68,7 @@
 		],
 		"Clubs & Societies": [
 			"Gaia Club",
-			"Infocomm Club",
+			"Infocom Club",
 			"Robotics Club"
 		]
 	},
@@ -210,7 +208,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -330,7 +328,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -343,7 +341,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Bronze",
 					"Ensemble - Angklung / Kulintang": "Silver",
@@ -452,7 +450,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -465,7 +463,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Silver",
 					"Ensemble - Angklung / Kulintang": "Silver",
@@ -586,7 +584,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -707,7 +705,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -1504,7 +1502,89 @@
 					"Ensemble - Guzheng": "Distinction"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "569785"

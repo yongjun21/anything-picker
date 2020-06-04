@@ -16,7 +16,7 @@
 	"mrt": "Marsiling",
 	"bus": "187 , 856 , 912 , 925 , 950 , 960 , 961 , 963 , 963E , 963R , 966 ",
 	"GeneralInformation": {
-		"Principal": "MRS YAP DAI JEE",
+		"Principal": "MRS EUNICE LIM",
 		"Vice Principal": "MISS LIM PEI LIN OLIVIA",
 		"Vice Principal (Admin)": "MR LONG TIEN HO",
 		"School Vision": "A Concerned Leader, A LifeLong Learner",
@@ -35,7 +35,7 @@
 		"CHINESE",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -82,6 +82,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"Languages": "Speak Up! at Fuchun",
 			"Music & Performing Arts": "Aesthetically Responding To Shine (ARTS)"
 		},
 		"Special Student Development Programmes Offered": "In alignment to its school's vision, 'A Concerned Leader, A Lifelong Learner', the school seeks to create a learning community to help our pupils excel holistically with a key focus to develop its pupils aesthetically. A comprehensive school-wide programme and achievements in the Performing Arts led the school to be recognised as a MOE Learning for Life Programme (LLP) School in Music Education and Performing Arts, and the N7 Cluster Centre of Learning in Music. Pupils are given many opportunities to perform in front of an audience through the termly music competitions or exhibit their artworks publicly. They are groomed to become confident performers to showcase their talents at various platforms such as class competitions and Art Jam sessions during recess."
@@ -171,7 +172,7 @@
 			},
 			"2007": {
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold",
@@ -182,7 +183,7 @@
 			},
 			"2008": {
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
@@ -264,7 +265,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
@@ -346,7 +347,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
@@ -445,8 +446,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
@@ -533,8 +534,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold (Hons)",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold (Hons)",
@@ -639,7 +640,6 @@
 				],
 				"Sustained Achievement Award": "SAA (Aesthetics)",
 				"SYF Arts Presentation": {
-					"Dance - Chinese": "Accomplishment",
 					"Art - Category B": "Recognition",
 					"Art - Category C": "Recognition",
 					"Band - Concert": "Distinction",
@@ -647,7 +647,8 @@
 					"Dance - Indian": "Accomplishment",
 					"Dance - Malay": "Accomplishment",
 					"Ensemble - Guitar": "Distinction",
-					"Ensemble - Strings": "Distinction"
+					"Ensemble - Strings": "Distinction",
+					"Dance - Chinese": "Accomplishment"
 				}
 			},
 			"2015": {
@@ -938,7 +939,99 @@
 					"Ensemble - Strings": "Accomplishment"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guitar": "Commendation",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "739063"

@@ -21,8 +21,8 @@
 	"GeneralInformation": {
 		"Principal": "Mdm Thong May Teng",
 		"Vice Principal": [
-			"Mdm Doreen Tan Mui Hiang",
-			"Mdm Low Chia Yee"
+			"Mdm Low Chia Yee",
+			"Mr Jonah Lim Tuck Hway"
 		],
 		"School Vision": "Thinkers, Innovators and Leaders who make a difference for the greater good.",
 		"School Mission": "Developing and Inspiring in all Andersonians a sense of purpose, and constancy to reach their full potential for self and nation.",
@@ -38,7 +38,7 @@
 		"Chemistry",
 		"Chinese",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"English Language",
 		"Food And Consumer Education",
 		"Geography",
@@ -85,24 +85,20 @@
 			"Dance - Malay"
 		],
 		"Clubs & Societies": [
+			"Anderson Science Academy",
 			"Green Club",
 			"Infocomm Club",
-			"Robotics Club",
-			"Science Club"
+			"Robotics Club"
 		],
 		"Others": [
 			"Students' Council"
 		]
 	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "With the aim to nurture Andersonians to be intellectually curious, innovative, creative and culturally versatile leaders, the school takes pride in its niche and signature programmes that provide the platforms to imbue these qualities and facilitate diverse learning experiences. We have established a comprehensive Science Research Programme that provides opportunities for students to pursue their interests, develop their competencies and hone their talents in this area.  The Basic Coding Enrichment Programme aims to inculcate computational skills in students, to set them up for a lifetime of opportunities.  The Service and Student Leadership Programme integrates leadership development with community outreach and action, so that students imbibe the qualities and attitudes of a servant leader. The Elective Programme in Malay Language for Secondary Schools (EMAS, for Sec 1 and 4) and Malay Language Elective Programme (MLEP, for Sec 3 and 4) provide opportunities for students to develop a deeper appreciation of the Malay Language and culture. We hope to nurture citizens who are socially aware, informed about local and international issues, and able to make a difference to the community and people around them. All in all, there is a strong focus on experiential learning in our academic and non-academic curriculum as we seek to actively engage our students in constructing, integrating and deepening their learning experiences."
+		"Special Student Development Programmes Offered": "With the aim to nurture Andersonians to be intellectually curious, innovative, creative and culturally versatile leaders, the school takes pride in its niche and signature programmes that provide the platforms to imbue these qualities and facilitate diverse learning experiences. We have established a comprehensive Science Research Programme that provides opportunities for students to pursue their interests, develop their competencies and hone their talents in this area.  The Basic Coding Enrichment Programme aims to inculcate computational skills in students, to set them up for a lifetime of opportunities.  The Service and Student Leadership Programme integrates leadership development with community outreach and action, so that students imbibe the qualities and attitudes of a servant leader. In addition to the Elective Programme in Malay Language for Secondary Schools (EMAS), the school also offers the Malay Language Elective Programme (MLEP) to provide opportunities for students to develop a deeper appreciation of the Malay Language and culture. We hope to nurture citizens who are socially aware, informed about local and international issues, and able to make a difference to the community and people around them. All in all, there is a strong focus on experiential learning in our academic and non-academic curriculum as we seek to actively engage our students in constructing, integrating and deepening their learning experiences."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -111,91 +107,90 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Choir",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Dance - Chinese",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Drama - English",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2017",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2017",
+					"year": "2019",
 					"category": "Band - Concert",
 					"award": "Distinction"
 				},
 				{
-					"year": "2017",
+					"year": "2019",
 					"category": "Choir",
-					"award": "Distinction"
+					"award": "Accomplishment"
 				},
 				{
-					"year": "2017",
+					"year": "2019",
 					"category": "Dance - Chinese",
 					"award": "Distinction"
 				},
 				{
-					"year": "2017",
+					"year": "2019",
 					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Drama - English",
 					"award": "Distinction"
 				}
 			],
@@ -203,30 +198,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 247,
-			"upper": 266,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 186,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 139,
-			"upper": 159,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -296,6 +267,30 @@
 			"programme": "Normal Technical",
 			"lower": 146,
 			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 245,
+			"upper": 260,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 188,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 140,
+			"upper": 157,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

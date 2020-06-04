@@ -49,10 +49,10 @@
 		"COMBINED HUMANITIES (S,H)",
 		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"FOOD STUDIES, N LEVEL",
 		"GEOGRAPHY",
@@ -514,11 +514,11 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Dance - International": "Distinction",
 					"Band - Concert": "Accomplishment",
 					"Dance - Malay": "Accomplishment",
 					"Drama - English": "Distinction",
-					"Orchestra - Chinese": "Distinction"
+					"Orchestra - Chinese": "Distinction",
+					"Dance - International": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -946,7 +946,122 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"3rd",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"3rd",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Art - Category B": "Recognition(Sm)",
+					"Dance - International": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Drama - English (2nd Entry)": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1202,6 +1317,23 @@
 			"Normal Technical": [
 				"91",
 				"150",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"188",
+				"253",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"191",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"91",
+				"148",
 				"None-posted"
 			]
 		}

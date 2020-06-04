@@ -16,7 +16,7 @@
 	"mrt": "REDHILL MRT, TIONG BAHRU MRT",
 	"bus": "14 , 16 , 32 , 33 , 51 , 63 , 64 , 120 , 122 , 145 , 139 , 186 , 851 , 970 ",
 	"GeneralInformation": {
-		"Principal": "MDM TAN MEI MEI JENNY",
+		"Principal": "MISS TAN HWEE PIN",
 		"Vice Principal": [
 			"MR CHUNG KWOK LEONG DANIEL",
 			"MDM SARAWATHY D/O VARADARAJU"
@@ -31,7 +31,7 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART NA LEVEL",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BASIC TAMIL",
@@ -41,12 +41,12 @@
 		"CHINESE B",
 		"CHINESE N(A)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"HIGHER CHINESE",
 		"HUMANITIES (SS, GEOGRAPHY)",
@@ -227,9 +227,9 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "2 Awards",
-					"Art & Craft (Silver)": "2 Awards"
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -351,9 +351,9 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "2 Awards",
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - Indian": "Bronze",
@@ -481,7 +481,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "3 Awards",
+					"Art &amp; Craft (Silver)": "3 Awards",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - Indian": "Bronze",
@@ -598,7 +598,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "3 Awards",
+					"Art &amp; Craft (Silver)": "3 Awards",
 					"Band - Concert": "Bronze",
 					"Choir": "Bronze",
 					"Dance - Indian": "Gold",
@@ -984,7 +984,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - International": "Silver",
@@ -1111,7 +1111,7 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Distinction",
 					"Dance - International": "Accomplishment",
@@ -1727,7 +1727,123 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Canoeing",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - English": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1983,6 +2099,23 @@
 			"Normal Technical": [
 				"130",
 				"158",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"227",
+				"249",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"179",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"141",
+				"157",
 				"None-posted"
 			]
 		}

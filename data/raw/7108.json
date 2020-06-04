@@ -29,7 +29,7 @@
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
 			"CATHOLIC JUNIOR COLLEGE",
-			"HOLY INNOCENTS' PRIMARY SCHOOL"
+			"HOLY INNOCENTS&#39; PRIMARY SCHOOL"
 		]
 	},
 	"SubjectOffered": [
@@ -37,7 +37,7 @@
 		"ART",
 		"ART NA LEVEL",
 		"ART NT LEVEL",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BIOLOGY",
@@ -47,12 +47,12 @@
 		"CHINESE N(A)",
 		"COMPUTER APPLICATIONS",
 		"COMPUTING",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -68,7 +68,7 @@
 		"MATHEMATICS (SYLLABUS T)",
 		"MUSIC",
 		"MUSIC NT LEVEL",
-		"MUSIC 'O' LEVEL",
+		"MUSIC &#39;O&#39; LEVEL",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
@@ -347,11 +347,11 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Orchestra - Chinese": "Distinction",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Distinction",
 					"Dance - International": "Distinction",
-					"Drama - English": "Distinction"
+					"Drama - English": "Distinction",
+					"Orchestra - Chinese": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -563,7 +563,111 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -865,6 +969,26 @@
 				"153",
 				"123",
 				"157"
+			]
+		},
+		"2020": {
+			"Express": [
+				"232",
+				"244",
+				"188",
+				"244"
+			],
+			"Normal Academic": [
+				"181",
+				"198",
+				"154",
+				"187"
+			],
+			"Normal Technical": [
+				"131",
+				"157",
+				"120",
+				"151"
 			]
 		}
 	},

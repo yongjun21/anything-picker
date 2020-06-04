@@ -22,6 +22,11 @@
 			"MDM TOH LAY HAR"
 		],
 		"Vice Principal (Admin)": "MR TAN ENG POH",
+		"School Vision": "A dynamic institution known for its rich learning experiences in a culture of innovation, empowerment and care",
+		"School Mission": [
+			"To nurture lifelong learners with a heart to lead and serve, guided by a strong moral compass and a spirit of",
+			"excellence"
+		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / FULL DAY",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -46,27 +51,28 @@
 		"H2 ART",
 		"H2 BIOLOGY",
 		"H2 CHEMISTRY",
-		"H2 CHINESE LANGUAGE & LITERATURE",
+		"H2 CHINESE LANGUAGE &amp; LITERATURE",
 		"H2 ECONOMICS",
 		"H2 FURTHER MATHEMATICS",
 		"H2 GEOGRAPHY",
 		"H2 HISTORY",
 		"H2 LITERATURE IN ENGLISH",
-		"H2 MALAY LANGUAGE & LITERATURE",
+		"H2 MALAY LANGUAGE &amp; LITERATURE",
 		"H2 MATHEMATICS",
 		"H2 PHYSICS",
-		"H2 TAMIL LANGUAGE & LITERATURE",
+		"H2 TAMIL LANGUAGE &amp; LITERATURE",
 		"H2 THEATRE STUDIES AND DRAMA",
 		"H3 BIOLOGY",
 		"H3 CHEMISTRY",
 		"H3 ECONOMICS",
-		"H3 MALAY LANGUAGE & LITERATURE",
+		"H3 GEOGRAPHY",
+		"H3 LITERATURE IN ENGLISH",
+		"H3 MALAY LANGUAGE &amp; LITERATURE",
 		"H3 MATHEMATICS",
 		"H3 PHYSICS",
 		"NTU MOLECULAR BIOLOGY",
-		"NTU NUMBERS & MATRICES",
-		"NTU SEMICONDUCTOR PHYSICS & DEVICES",
-		"NUS MODERN PHYSICS"
+		"NTU SEMICONDUCTOR PHYSICS &amp; DEVICES",
+		"SMU GAME THEORY"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -100,6 +106,7 @@
 		"Clubs & Societies": [
 			"Debates Society",
 			"Health And Fitness Club",
+			"Interact Club",
 			"Interactive Games Club",
 			"Makers Club",
 			"Media Resource Club",
@@ -112,7 +119,7 @@
 			"DRAMA ELECTIVE PROGRAMME",
 			"LANGUAGE ELECTIVE PROGRAMME (MALAY)"
 		],
-		"Special Student Development Programmes Offered": "Character & Citizenship Development: Nurtures students to have a personal vision and be anchored in values and principles in the pursuit of their vision."
+		"Special Student Development Programmes Offered": "Character & Citizenship Education: Aims to inculcate values and build social emotional competencies in students through all aspects of college life. Our signature programme, Spotlight Series, which is intended to foster in students 21st Century Competencies of global awareness and civic literacy, features weekly sharing sessions by teachers and students that critically examine contemporary issues that have"
 	},
 	"AchievementHistory": {
 		"Junior College": {
@@ -130,7 +137,74 @@
 			"2016": {},
 			"2017": {},
 			"2018": {},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Basketball",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"4th",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"L1R5History": {
@@ -156,6 +230,20 @@
 			"Science/IB": [
 				"3",
 				"14"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2020": {
+			"Arts": [
+				"5",
+				"13"
+			],
+			"Science/IB": [
+				"4",
+				"13"
 			],
 			"Commerce": [
 				"-",

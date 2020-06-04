@@ -23,7 +23,7 @@
 			"Dr Ong Chun Ghee",
 			"Mdm Tan Jwee Lynn, Cheryl"
 		],
-		"Vice Principal (Admin)": "Mr Boh Hong Jik",
+		"Vice Principal (Admin)": "Mdm Ong Lee Fong",
 		"School Vision": "Institution of Eminence, Generations of Leaders; Grounded in Values, Global in Outlook",
 		"School Mission": "Empowering our students to be Role Models of Learning, Leaders of Society and Pillars of the Nation.",
 		"School Philosophy, Culture and Ethos": [
@@ -39,11 +39,11 @@
 		"Additional Mathematics",
 		"Appre Of Chinese Culture",
 		"Art",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"English Language",
 		"Food And Consumer Education",
 		"Geography",
@@ -60,7 +60,7 @@
 		"Malay (Special Programme)",
 		"Mathematics",
 		"Music",
-		"Music 'O' Level",
+		"Music &#39;o&#39; Level",
 		"Physical Education",
 		"Physics",
 		"Science"
@@ -69,7 +69,7 @@
 		"Physical Sports": [
 			"Badminton",
 			"Basketball",
-			"Cross Country & Track",
+			"Cross Country",
 			"Netball",
 			"Softball",
 			"Table Tennis",
@@ -85,14 +85,14 @@
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
-			"Calligraphy & Chinese Painting Club",
+			"Chinese Calligraphy & Painting Club",
 			"Chinese Drama Society",
 			"Chinese Orchestra",
 			"Choir",
 			"Concert Band",
 			"Dance Club",
 			"English Drama Society",
-			"Guzheng",
+			"Guzheng Ensemble",
 			"Lion Dance Club",
 			"Media & Technology Club"
 		],
@@ -108,10 +108,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -120,49 +116,13 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition(Sm)"
@@ -239,6 +199,46 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
 				}
@@ -247,14 +247,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 239,
-			"upper": 266,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -275,6 +267,14 @@
 			"year": "2019",
 			"programme": "Express",
 			"lower": 242,
+			"upper": 269,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 244,
 			"upper": 269,
 			"lowerAffiliated": null,
 			"upperAffiliated": null

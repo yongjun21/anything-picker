@@ -40,9 +40,9 @@
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -65,15 +65,15 @@
 		"Physical Sports": [
 			"Badminton",
 			"Basketball",
-			"Football",
-			"Table Tennis"
+			"Football (Boys)",
+			"Table Tennis (Girls)"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
 			"Girls' Brigade",
 			"Ncc (Land)",
 			"Npcc",
-			"St John Ambulance Brigade"
+			"St John Brigade"
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
@@ -83,8 +83,7 @@
 		],
 		"Clubs & Societies": [
 			"Ldds - English",
-			"Ldds - Malay",
-			"Media Production Team"
+			"Media & Production Team"
 		]
 	},
 	"SpecialProgrammes": {
@@ -429,7 +428,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - International": "Silver",
@@ -544,7 +543,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
@@ -1090,11 +1089,11 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Drama - English": "Distinction",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Distinction",
 					"Dance - Chinese": "Accomplishment",
-					"Dance - International": "Distinction"
+					"Dance - International": "Distinction",
+					"Drama - English": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1695,7 +1694,112 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1950,6 +2054,23 @@
 			],
 			"Normal Technical": [
 				"128",
+				"154",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"234",
+				"242",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"180",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"126",
 				"154",
 				"None-posted"
 			]

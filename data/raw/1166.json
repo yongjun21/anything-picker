@@ -16,7 +16,7 @@
 	"mrt": "Ang Mo Kio MRT",
 	"bus": "Bus 265",
 	"GeneralInformation": {
-		"Principal": "MDM THONG HOI NON",
+		"Principal": "MDM BOEY HUEY PENG SHARON",
 		"Vice Principal": [
 			"MDM TOH GUAT HWA PAULINE",
 			"MISS REZIA RAHUMATHULLAH"
@@ -36,11 +36,11 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION TAMIL",
@@ -84,7 +84,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Science": "Learning Science – the I3 (Inquiry, ICT & Innovation) Approach",
-			"Visual Arts & Design": "Nurturing Thinkers, Learners and Leaders through Visual Arts and Pottery"
+			"Community Service & Student Leadership": "FLOURISH @ JSPS – Developing Character Strengths, Resilience & Mindfulness through VIA"
 		},
 		"Special Student Development Programmes Offered": "Jing Shan Primary School is a caring school with an innovative and values-driven curriculum, providing a value-added learning experience to nurture learners into thinking leaders. Our curriculum prepares pupils holistically in the moral, intellectual, physical, social and aesthetic domains."
 	},
@@ -284,7 +284,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
 					"Dance - Chinese": "Silver",
 					"Orchestra - Chinese": "Silver"
 				},
@@ -292,7 +292,7 @@
 			},
 			"2008": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
 					"Dance - Chinese": "Gold",
 					"Orchestra - Chinese": "Bronze"
 				},
@@ -539,8 +539,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Dance - Chinese": "Gold",
 					"Orchestra - Chinese": "Bronze"
 				}
@@ -623,8 +623,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Dance - Chinese": "Silver",
 					"Orchestra - Chinese": "Gold"
 				},
@@ -1049,7 +1049,86 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "569228"

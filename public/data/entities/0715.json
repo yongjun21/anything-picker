@@ -23,7 +23,7 @@
 			"Mrs Koh Caiyu",
 			"Miss Low Bee Yen"
 		],
-		"Vice Principal (Admin)": "Mr Ngeow Siong Chye",
+		"Vice Principal (Admin)": "Mdm Sharon Lim Chwee Hong",
 		"Type of School": "Government School / Co-ed School / Full Day",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -46,26 +46,27 @@
 		"H2 Art",
 		"H2 Biology",
 		"H2 Chemistry",
-		"H2 Chinese Language & Literature",
+		"H2 Chinese Language &amp; Literature",
 		"H2 Economics",
 		"H2 Further Mathematics",
 		"H2 Geography",
 		"H2 History",
 		"H2 Literature In English",
-		"H2 Malay Language & Literature",
+		"H2 Malay Language &amp; Literature",
 		"H2 Mathematics",
 		"H2 Physics",
-		"H2 Tamil Language & Literature",
+		"H2 Tamil Language &amp; Literature",
 		"H3 Biology",
 		"H3 Chemistry",
+		"H3 Economics",
 		"H3 Mathematics",
 		"H3 Physics",
 		"Ntu Molecular Biology",
-		"Ntu Semiconductor Physics & Devices",
+		"Ntu Semiconductor Physics &amp; Devices",
 		"Nus Modern Physics",
-		"Nus-moe Humanities & Soc Sci Research (Geog)",
-		"Nus-moe Humanities & Soc Sci Research (Hist)",
-		"Nus-moe Humanities & Soc Sci Research (Lit)"
+		"Nus-moe Humanities &amp; Soc Sci Research (Geog)",
+		"Nus-moe Humanities &amp; Soc Sci Research (Hist)",
+		"Nus-moe Humanities &amp; Soc Sci Research (Lit)"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -98,15 +99,13 @@
 		],
 		"Clubs & Societies": [
 			"Audio & Video/ Pa Club",
-			"Chess Club",
 			"Debate And Creative Communications",
 			"Interact Club",
 			"Ldds - Chinese",
 			"Ldds - Indian",
-			"Outdoor Activities Club",
+			"Odac",
 			"Red Cross Youth",
-			"Science Society",
-			"Students' Council"
+			"Science Society"
 		]
 	},
 	"SpecialProgrammes": {
@@ -114,8 +113,135 @@
 	},
 	"AchievementHistory": {
 		"Junior College": {
-			"Sports & Games Competition": [],
-			"SYF": [],
+			"Sports & Games Competition": [
+				{
+					"year": "2019",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Hockey",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2019",
+					"category": "Shooting (Air Pistol)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Shooting (Air Pistol)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2019",
+					"category": "Shooting (Air Rifle)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2019",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Harmonica",
+					"award": "Distinction"
+				}
+			],
 			"Best Unit Award": []
 		}
 	},
@@ -134,6 +260,24 @@
 		},
 		{
 			"year": "2019",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2020",
+			"programme": "Arts",
+			"lower": 5,
+			"upper": 11
+		},
+		{
+			"year": "2020",
+			"programme": "Science/IB",
+			"lower": 3,
+			"upper": 11
+		},
+		{
+			"year": "2020",
 			"programme": "Commerce",
 			"lower": null,
 			"upper": null

@@ -4,7 +4,7 @@
 	"levels": "P",
 	"uen": " T15GS0008G",
 	"logo": "./Medias/Images/Schools/logos/tn_1271.jpg",
-	"website": "http://www.waterwaypri.moe.edu.sg",
+	"website": "https://waterwaypri.moe.edu.sg",
 	"address": "70, Punggol Drive ( 828802 )",
 	"telephone": [
 		"6636 6880"
@@ -17,7 +17,7 @@
 	"bus": "50 , 381 ",
 	"GeneralInformation": {
 		"Principal": "MRS WEE KWAN LIAM",
-		"Vice Principal": "MR HOY KIN CHUNG EDWIN",
+		"Vice Principal": "MDM CHUA KIM LAN JUDY",
 		"Vice Principal (Admin)": "MR DALJIT SINGH S/O DARBARA SINGH",
 		"School Vision": "A Life-long Learner, A Gracious Citizen",
 		"School Mission": "To build a vibrant environment that nurtures young minds and builds upright character",
@@ -57,7 +57,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Languages": "Orators@Waterway"
+			"Languages": "Orators@Waterway",
+			"Others": "Growth and Benefit Mindset"
 		},
 		"Special Student Development Programmes Offered": "We provide a holistic education for our pupils to prepare them for life and work in the future. We want learning to be fun and meaningful. Some of our key programmes include:"
 	},
@@ -77,7 +78,12 @@
 			"2016": {},
 			"2017": {},
 			"2018": {},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "828802"

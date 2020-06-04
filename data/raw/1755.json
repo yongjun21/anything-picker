@@ -32,9 +32,9 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -77,6 +77,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"ICT & Media": "Digital Creativity @ ESPS",
 			"Sports & Outdoor Education": "SPRING for Life – Developing Character through Sports"
 		},
 		"Special Student Development Programmes Offered": "Extensive Reading Programme, Parental Involvement Programmes, Value-In-Action Programmes, Mathe & Science Olympiad Training, Learning Support Programmes (English & Math), Pupil Oracy Programme (POP), Spring for Life Programme, LifeSkills Programme."
@@ -507,13 +508,13 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Dance - Malay": "Silver",
-					"Ensemble - Guitar": "Bronze",
-					"Ensemble - Guzheng": "Bronze",
 					"Choir": "Gold",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Gold (Hons)",
-					"Dance - International": "Bronze"
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guitar": "Bronze",
+					"Ensemble - Guzheng": "Bronze"
 				}
 			},
 			"2011": {
@@ -588,7 +589,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Gold",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Gold (Hons)",
@@ -670,7 +671,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Gold (Hons)",
@@ -1169,7 +1170,89 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Volleyball",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"3rd",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guitar": "Commendation",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "529258"

@@ -16,7 +16,7 @@
 	"mrt": [
 		"Woodlands MRT"
 	],
-	"bus": "912 & 912E",
+	"bus": "912 &amp; 912E",
 	"GeneralInformation": {
 		"Principal": "Miss Tan Sin Wei Winnie",
 		"Vice Principal": [
@@ -39,10 +39,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -72,24 +72,20 @@
 			"Ensemble - Handbell/Handchime"
 		],
 		"Clubs & Societies": [
-			"Chinese Cultural Club",
+			"Chinese Cultural Society",
 			"Library",
 			"Robotics Club"
 		]
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Music & Performing Arts": "Performance And Character Education through Music (PACE@Music)",
+			"Languages": "Joy of Learning Languages (JOL2@WOODS)",
 			"Sports & Outdoor Education": "Sports Performance And Character Education (SPACE)"
 		},
 		"Special Student Development Programmes Offered": "The school believes that academic and character building are equally important in the development of the whole child. "
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Best Practice Awards": "BPA (Teaching and Learning)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Best Practice Awards": "BPA (Teaching and Learning)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -98,39 +94,12 @@
 				"Best Practice Awards": "BPA (Teaching and Learning)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -187,6 +156,36 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Distinction"
 				}
@@ -226,7 +225,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 5,
 		"PLACES TAKEN UP TO PHASE 2B": 136,
 		"VACANCY FOR PHASE 2C": 74,
-		"NO. OF APPLICANTS IN PHASE 2C": 80
+		"NO. OF APPLICANTS IN PHASE 2C": 80,
+		"PLACES TAKEN UP TO PHASE 2C": 210
 	},
 	"id": "1114"
 }

@@ -33,10 +33,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -58,10 +58,14 @@
 			"Taekwondo",
 			"Track & Field"
 		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Scouts",
+			"Singapore Red Cross Society"
+		],
 		"Visual and Performing Arts": [
 			"Art Club",
 			"Choir",
-			"Dance - Malay",
 			"Dance - Modern",
 			"Ensemble - Guitar"
 		],
@@ -80,16 +84,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Teaching and Learning)"
-				],
-				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "Outstanding PARTNERS",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": [
@@ -110,34 +104,12 @@
 				"Outstanding Development Award": "Outstanding PARTNERS",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition(Sm)"
@@ -204,6 +176,36 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guitar",
 					"award": "Accomplishment"
 				}
@@ -247,7 +249,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 27,
 		"PLACES TAKEN UP TO PHASE 2B": 179,
 		"VACANCY FOR PHASE 2C": 21,
-		"NO. OF APPLICANTS IN PHASE 2C": 55
+		"NO. OF APPLICANTS IN PHASE 2C": 55,
+		"PLACES TAKEN UP TO PHASE 2C": 200
 	},
 	"id": "1160"
 }

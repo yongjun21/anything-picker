@@ -17,9 +17,9 @@
 		"Tanah Merah MRT",
 		"Bedok MRT"
 	],
-	"bus": "Bus No. 2 , 9 , 12 , 24 , 31 , 34 & 38 ",
+	"bus": "Bus No. 2 , 9 , 12 , 24 , 31 , 34 &amp; 38 ",
 	"GeneralInformation": {
-		"Principal": "Mrs Ng Kim Choo Celine",
+		"Principal": "Mr Yong Yik Yen Benjamin",
 		"Vice Principal": [
 			"Mdm Sharifah Fairuz Bte S Y A",
 			"Mr Yeo Sho Hor"
@@ -37,11 +37,11 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -58,51 +58,27 @@
 	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
+			"Interdisciplinary": "Environmental Education (E2@BGPS)",
 			"Sports & Outdoor Education": "Sports to Reinforce Values Education or STRIVE @ BGPS"
 		},
 		"Special Student Development Programmes Offered": "Learning for Life Programme Sports to Reinforce Values Education (STRIVE @ BGPS): STRIVE @ BGPS taps on key platforms such as physical education lessons, co-curricular activities (CCA) and outdoor education programmes to inculcate values in students so as to develop their character and citizenship, as well as hone their social-emotional (SEL) and 21st century competencies.  "
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
 				},
 				{
@@ -131,9 +107,9 @@
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2017",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Commendation"
 				},
 				{
 					"year": "2018",
@@ -161,7 +137,32 @@
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Commendation"
 				}
@@ -203,7 +204,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 61,
 		"VACANCY FOR PHASE 2C": 149,
-		"NO. OF APPLICANTS IN PHASE 2C": 52
+		"NO. OF APPLICANTS IN PHASE 2C": 52,
+		"PLACES TAKEN UP TO PHASE 2C": 112,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 98,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 55
 	},
 	"id": "1230"
 }

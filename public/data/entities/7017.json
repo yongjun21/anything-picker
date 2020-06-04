@@ -27,11 +27,11 @@
 		"School Vision": "The Gabrielite...Servant Leader, Lifelong Learner, Gracious Citizen",
 		"School Mission": "Shaping lives for Service to God and Nation",
 		"School Philosophy, Culture and Ethos": "Founded in 1953, we are an all boys Cathoilic institution of the Montfort Brothers of St. Gabriel. Our mission is to shape the lives of Gabrielites who will serve the community as Servant Leaders, who are  Lifelong Learners and Gracious Citizens. Our philosophy of education is guided by the Montfortian Education Charter, formed by an understanding and study of the life and works of St. Louis Marie de Montfort. We design our programmes and curriculum to develop Gabrielites grounded in the values  of Respect, Resilience, Responsibility and Care. We emphasize and respect the need for personal spiritual growth and sustain it through daily reflections and actions. Our motto, Labour Omnia Vincit (Labour Conquers All), rallies Gabrielites to persevere in all endeavours with tenacity and determination. In our Gabrielite community, there is a strong culture of care amongst staff as well as students. This care is extended to the larger community, putting our values into action through service.   Our school has sustained high levels of achievement in the areas of academia, sports, aesthetics and uniformed groups. Our character and leadership programme aims to grow and nurture our students to be Servant Leaders through progressive development from self-directed to  collaborative learners and eventually serving actively and leading effectively.",
-		"Type of School": "Government-aided Sch / Boys' School / Single Session",
+		"Type of School": "Government-aided Sch / Boys&#39; School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
 			"Catholic Junior College",
-			"St. Gabriel's Primary School"
+			"St. Gabriel&#39;s Primary School"
 		]
 	},
 	"SubjectOffered": [
@@ -46,7 +46,7 @@
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"Food And Consumer Education",
@@ -104,15 +104,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Best Practice Awards": "BPA (Staff Well-Being)",
-				"Development Award": [
-					"DA (Character Development)",
-					"PARTNERS (Merit)"
-				],
-				"Outstanding Development Award": "ODA (National Education)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Best Practice Awards": "BPA (Staff Well-Being)",
 				"Development Award": [
@@ -125,24 +116,12 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Commendation"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -181,36 +160,32 @@
 					"year": "2018",
 					"category": "Ensemble - Guitar",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 224,
-			"upper": 244,
-			"lowerAffiliated": 188,
-			"upperAffiliated": 236
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 177,
-			"upper": 194,
-			"lowerAffiliated": 153,
-			"upperAffiliated": 187
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 123,
-			"upper": 159,
-			"lowerAffiliated": 127,
-			"upperAffiliated": 151
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -282,6 +257,30 @@
 			"upper": 158,
 			"lowerAffiliated": 94,
 			"upperAffiliated": 151
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 225,
+			"upper": 243,
+			"lowerAffiliated": 188,
+			"upperAffiliated": 231
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 172,
+			"upper": 196,
+			"lowerAffiliated": 152,
+			"upperAffiliated": 185
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 121,
+			"upper": 153,
+			"lowerAffiliated": 130,
+			"upperAffiliated": 146
 		}
 	],
 	"postalCode": "556140",

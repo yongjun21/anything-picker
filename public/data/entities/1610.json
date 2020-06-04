@@ -37,7 +37,7 @@
 		"Art",
 		"Chinese",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -63,62 +63,30 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Choir",
-			"Dance - Chinese",
-			"Dance - Indian",
-			"Dance - Malay"
+			"Choir"
 		]
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Visual Arts & Design": "FIRST Clicks – Literacy Through Photography (LTP)"
+			"Others": "First Clicks - Literacy Through Photography (Visual Arts & Design)",
+			"Sports & Outdoor Education": "Character Building Through Outdoor Experiential Learning"
 		},
 		"Special Student Development Programmes Offered": "FTPPS endeavours to deliver a student centric, values driven education to enable them to attain the 4 FTPPS Student Outcomes - a confident person, a self-directed learner, an active contributor and a concerned citizen."
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -185,6 +153,36 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
 				}
@@ -230,7 +228,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 19,
 		"VACANCY FOR PHASE 2C": 101,
-		"NO. OF APPLICANTS IN PHASE 2C": 16
+		"NO. OF APPLICANTS IN PHASE 2C": 16,
+		"PLACES TAKEN UP TO PHASE 2C": 35,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 85,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 11
 	},
 	"id": "1610"
 }

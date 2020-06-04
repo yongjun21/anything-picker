@@ -29,11 +29,11 @@
 			"Family   Society   Eternity"
 		],
 		"School Philosophy, Culture and Ethos": "As a mission school, St Andrew's Secondary school provides a holistic education nurturing young men to become future-ready Servant Leaders. It is our belief that no one comes to the school by chance. Growing boys to become men requires our focus on the following strategic areas: Empowering Learning : Building self-directed learners who excel in learning. Serving and Belonging : Fostering in our students a strong sense of belonging and a disposition toward service and contribution. Every Boy Aspiring : Helping our students discover and hone their skills and talents and bringing out the best in them.",
-		"Type of School": "GOVERNMENT-AIDED SCH / BOYS' SCHOOL / SINGLE SESSION",
+		"Type of School": "GOVERNMENT-AIDED SCH / BOYS&#39; SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
-			"ST. ANDREW'S JUNIOR COLLEGE",
-			"ST. ANDREW'S JUNIOR SCHOOL"
+			"ST. ANDREW&#39;S JUNIOR COLLEGE",
+			"ST. ANDREW&#39;S JUNIOR SCHOOL"
 		]
 	},
 	"SubjectOffered": [
@@ -44,11 +44,12 @@
 		"CHINESE",
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELECTRONICS",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"FOOD AND CONSUMER EDUCATION",
+		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HIGHER TAMIL",
 		"HISTORY",
@@ -211,7 +212,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award"
+					"Art &amp; Craft (Silver)": "1 Award"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -355,7 +356,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold",
 					"Choir": "Silver",
 					"Drama - English": "Gold"
@@ -695,7 +696,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold (Hons)",
 					"Choir": "Silver",
 					"Drama - English": "Silver"
@@ -831,7 +832,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold (Hons)",
 					"Choir": "Gold",
 					"Drama - English": "Gold"
@@ -980,7 +981,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold (Hons)",
 					"Choir": "Gold",
 					"Drama - English": "Gold"
@@ -1129,7 +1130,7 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Distinction",
 					"Choir": "Distinction",
 					"Drama - English": "Distinction"
@@ -1258,9 +1259,9 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Band - Concert": "Distinction",
 					"Choir": "Distinction",
-					"Drama - English": "Distinction"
+					"Drama - English": "Distinction",
+					"Band - Concert": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1818,7 +1819,134 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Cricket",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -2120,6 +2248,26 @@
 				"155",
 				"111",
 				"151"
+			]
+		},
+		"2020": {
+			"Express": [
+				"247",
+				"249",
+				"193",
+				"262"
+			],
+			"Normal Academic": [
+				"193",
+				"199",
+				"152",
+				"195"
+			],
+			"Normal Technical": [
+				"142",
+				"157",
+				"99",
+				"149"
 			]
 		}
 	},

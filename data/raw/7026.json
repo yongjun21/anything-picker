@@ -17,33 +17,30 @@
 	"bus": "45 , 53 , 53M , 62 , 113 ",
 	"GeneralInformation": {
 		"Principal": "MRS QUEK LI GEK",
-		"Vice Principal": [
-			"MISS SIM SOO LENG AILEEN",
-			"MDM ONG LIANG FUNG"
-		],
+		"Vice Principal": "MISS SIM SOO LENG AILEEN",
 		"Vice Principal (Admin)": "MDM CHUA NGA WOON",
 		"School Vision": "An outstanding school of choice producing women of fine character with a passion for life and learning.",
 		"School Mission": "To nurture every PL-Lite into a whole person who lives in favour with God and Man.",
 		"School Philosophy, Culture and Ethos": "Founded in 1916, PLMGS(Sec) is a school rich in heritage and tradition. At the heart of an education in PLMGS(Sec) is Holistic Education with an emphasis on Character Development. PLMGS(Sec) aspires to be an outstanding School of Choice which produces women of fine character with a passion for life and learning. Grounded on strong values. PL-Lites are expected to demonstrate the school values as represented in the acronym H.E.A.R.T. - Each PL-Lite Honours God, strives for Excellence, is Adaptable, Respects self and others; and is always Thankful. At the end of their Secondary education journey, PL-Lites will be enriched for life, with each becoming \"A Confident PL-Lite, A Passionate Learner, An Active Citizen and An Inspiring Leader\".",
-		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS' SCHOOL / SINGLE SESSION",
+		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS&#39; SCHOOL / SINGLE SESSION",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
 			"ANGLO-CHINESE JUNIOR COLLEGE",
-			"PAYA LEBAR METHODIST GIRLS' SCHOOL (PRIMARY)"
+			"PAYA LEBAR METHODIST GIRLS&#39; SCHOOL (PRIMARY)"
 		]
 	},
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -57,7 +54,7 @@
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
-		"MUSIC 'O' LEVEL",
+		"MUSIC &#39;O&#39; LEVEL",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
@@ -82,13 +79,13 @@
 			"St. John Brigade"
 		],
 		"Visual and Performing Arts": [
-			"Band",
 			"Choir",
-			"D'arts Society (Cl Drama)",
+			"Concert Band",
+			"D'arts (Cl Drama)",
 			"Dance",
-			"El Drama Club",
-			"Guitar",
-			"Guzheng",
+			"El Drama",
+			"Guitar Ensemble",
+			"Guzheng Ensemble",
 			"Handbell Ensemble",
 			"Harp Ensemble",
 			"Photography Club"
@@ -988,8 +985,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - International": "Gold",
@@ -1126,8 +1123,8 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Commendation",
 					"Choir": "Distinction",
 					"Drama - Chinese": "Accomplishment",
@@ -1849,7 +1846,138 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Swimming",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Handbell / Handchime": "Distinction",
+					"Ensemble - Harp": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -2140,6 +2268,26 @@
 				"159",
 				"135",
 				"150"
+			]
+		},
+		"2020": {
+			"Express": [
+				"237",
+				"261",
+				"205",
+				"255"
+			],
+			"Normal Academic": [
+				"173",
+				"199",
+				"161",
+				"199"
+			],
+			"Normal Technical": [
+				"121",
+				"159",
+				"139",
+				"157"
 			]
 		}
 	},

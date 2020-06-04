@@ -18,11 +18,11 @@
 	"GeneralInformation": {
 		"Principal": "MDM LEE YEW KOON TONNINE",
 		"Vice Principal": [
-			"MR SYAMSUL ANWAR BIN AWANG",
-			"MDM CHAN YEE CHIN WILNA"
+			"MDM CHAN YEE CHIN WILNA",
+			"MDM DAPHNE CHAN PEI SZE"
 		],
 		"Vice Principal (Admin)": "MR GOH GIN HOWE",
-		"School Vision": "Confident Thinkers. Adaptable Learners.Passionate Leaders.",
+		"School Vision": "Confident Thinkers. Adaptable Individuals.Passionate Leaders.",
 		"School Mission": "We develop every Frontierer to reflect deeply, embrace differences and serve as a role model to overcome future challenges.",
 		"School Philosophy, Culture and Ethos": [
 			"We are guided by our philosophy of 'Strong Fundamentals, Future Learning' which underpins the holistic education that Frontier provides to prepare our pupils to thrive in a fast-changing and highly-connected world. We want our pupils to be grounded with strong fundamentals so that they can partake in future learning.",
@@ -36,10 +36,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -75,7 +75,6 @@
 			"Ensemble - String"
 		],
 		"Clubs & Societies": [
-			"Environmental Club",
 			"Robotics/New Media Club"
 		]
 	},
@@ -146,7 +145,87 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "648200"

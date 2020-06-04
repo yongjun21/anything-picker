@@ -18,12 +18,12 @@
 	"GeneralInformation": {
 		"Principal": "MISS HO SOOK FUN DORIS",
 		"Vice Principal": [
-			"MRS ROSIE LAU @ MDM ROSIE LIM",
-			"MS CHOO WAN XIAN"
+			"MS CHOO WAN XIAN",
+			"MR NGOH SING KIEN ARTHUR"
 		],
 		"School Vision": "A Vibrant Community of Learners who Lead and Contribute to Family, Nation and Beyond.",
 		"School Mission": "To Grow a Vibrant Community of Leader-Learners of Character who Contribute to Family, Nation and Beyond.",
-		"School Philosophy, Culture and Ethos": "We strive to develop all our students to be learning leaders firmly anchored in sound moral values through a student-centric, values-driven education within a holistic learning environment.  These values are infused into the academic curriculum, the Applied Learning Programme (ALP), the Learning for Life Programme (LLP) and the Character and Citizenship Education (CCE) curriculum. Our team of committed staff build strong teacher-student relationships and trust as we nurture our students in developing sound character to give their best to realize their dreams with courage, to succeed in life and contribute to the school, family, nation and beyond.",
+		"School Philosophy, Culture and Ethos": "We strive to develop all our students to be learning leaders firmly anchored in sound moral values through a student-centric, values-driven education within a holistic learning environment.  These values are infused into the academic curriculum, the Applied Learning Programme (ALP), the Learning for Life Programme (LLP) and the Character and Citizenship Education (CCE) curriculum. Our team of committed staff builds strong teacher-student relationships and trust, as we nurture our students in developing sound character to give their best to realise their dreams with courage, to succeed in life and contribute to the school, family, nation and beyond.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -33,7 +33,7 @@
 		"ART",
 		"ART NA LEVEL",
 		"ART NT LEVEL",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BASIC TAMIL",
@@ -43,12 +43,12 @@
 		"CHINESE B",
 		"CHINESE N(A)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER TAMIL",
@@ -325,8 +325,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "3 Awards",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "3 Awards",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - International": "Silver",
 					"Drama - English": "Silver"
@@ -429,8 +429,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "3 Awards",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "3 Awards",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - International": "Silver",
 					"Drama - English": "Silver"
@@ -473,7 +473,7 @@
 					"SAA (Uniformed Groups)"
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - International": "Silver",
@@ -492,7 +492,7 @@
 					"SAA (Uniformed Groups)"
 				],
 				"SYF Arts Presentation": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Accomplishment",
 					"Dance - International": "Commendation",
@@ -659,7 +659,15 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Band-Brass Ensemble": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -915,6 +923,23 @@
 			"Normal Technical": [
 				"103",
 				"157",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"188",
+				"242",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"94",
+				"156",
 				"None-posted"
 			]
 		}

@@ -100,15 +100,6 @@
 	},
 	"AchievementHistory": {
 		"Junior College": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": "BPA (Teaching and Learning)",
-				"Development Award": "PARTNERS (Merit)",
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"ODA (National Education)"
-				]
-			},
 			"2017": {
 				"Outstanding Development Award": [
 					"ODA (Character Development)",
@@ -116,16 +107,6 @@
 				]
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2017",
 					"category": "Basketball",
@@ -138,51 +119,6 @@
 				}
 			],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Multi-Lingual",
-					"award": "Distinction"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category C",
@@ -268,24 +204,6 @@
 		}
 	},
 	"L1R5History": [
-		{
-			"year": "2016",
-			"programme": "Arts",
-			"lower": 5,
-			"upper": 13
-		},
-		{
-			"year": "2016",
-			"programme": "Science/IB",
-			"lower": 5,
-			"upper": 12
-		},
-		{
-			"year": "2016",
-			"programme": "Commerce",
-			"lower": null,
-			"upper": null
-		},
 		{
 			"year": "2017",
 			"programme": "Arts",

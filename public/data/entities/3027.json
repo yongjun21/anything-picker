@@ -34,7 +34,7 @@
 		"Additional Mathematics",
 		"Art",
 		"Art Na Level",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Biology",
@@ -43,14 +43,15 @@
 		"Chinese N(A)",
 		"Co-curricular Activities",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
+		"Higher Chinese",
 		"History",
 		"Humanities (Ss, Geography)",
 		"Humanities (Ss, History)",
@@ -102,57 +103,22 @@
 			"Interdisciplinary": "Project S.H.I.N.E -- An Integrated Student-Centred and Holistic Programme that Develops Innovation and Nurtures Empathy",
 			"Sports & Outdoor Education": "SHAPE @ BDS: A School of Healthy And Physically Educated Enthusiasts"
 		},
-		"Special Student Development Programmes Offered": "ALP Project S.H.I.N.E. (Student-centred and Holistic programme that develops Innovation and Nurtures Empathy) aims to bring about active student learning through the progressive development of 21st century skills such as critical thinking, creativity, innovation and collaborative learning. The curriculum involves the use of experiential and inquiry leaning through Design Thinking, a creative problem-solving approach that aims to equip students with the skills, knowledge, and attitudes they need for individual success and global competitiveness. "
+		"Special Student Development Programmes Offered": "ALP Project S.H.I.N.E. (Student-centred and Holistic programme that develops Innovation and Nurtures Empathy) aims to bring about active student learning through the progressive development of 21st century skills such as critical thinking, creativity, innovation and collaborative learning. The curriculum involves the use of experiential and inquiry learning through Design Thinking, a creative problem-solving approach that aims to equip students with the skills, knowledge, and attitudes they need for individual success and global competitiveness. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -216,36 +182,42 @@
 					"year": "2018",
 					"category": "Dance - Malay",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 206,
-			"upper": 232,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 164,
-			"upper": 192,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 114,
-			"upper": 156,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -299,6 +271,30 @@
 			"programme": "Normal Academic",
 			"lower": 158,
 			"upper": 195,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 213,
+			"upper": 237,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 159,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 96,
+			"upper": 152,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

@@ -24,7 +24,7 @@
 		"Vice Principal (Admin)": "MR JAYAKUMAR S/O NAVARETNAM",
 		"School Vision": "Quality Mind, Caring Heart",
 		"School Mission": "To provide a well-balanced education to our students, develop their potential to the fullest intellectually, physically, morally, socially, emotionally and aesthetically, and prepare them to contribute to the nation.",
-		"School Philosophy, Culture and Ethos": "Yishun Secondary School is committed to developing our students holistically. We take pride in offering a values-driven education that develops the strengths of each student. Through the years, Yishun Secondary has produced many successful students, whose achievements are made possible by a team of dedicated educators who believe that 'every child can succeed'. The school's motto, 'We Seek, We Strive, We Soar', describes our continuous effort in striving for excellence to soar to greater heights. The school values of Respect, Integrity and Resilience are inculcated in students via daily lessons and school programmes. The school also seeks to develop every student to be a Thinker, an Innovator and a Contributor (Desired Outcomes of an Yishunite) to prepare them for the future.",
+		"School Philosophy, Culture and Ethos": "Yishun Secondary School is committed to developing our students holistically. We take pride in offering a values-driven education that develops the strengths of each student. Through the years, Yishun Secondary has produced many successful students, whose achievements are made possible by a team of dedicated educators who believe that every child can succeed. The school's motto, 'We Seek, We Strive, We Soar', describes our continuous effort in striving for excellence to soar to greater heights. The school values of Respect, Integrity and Resilience are inculcated in students via daily lessons and school programmes. The school also seeks to develop every student to be a Thinker, an Innovator and a Contributor (Desired Outcomes of an Yishunite) to prepare them for the future.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -36,12 +36,14 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"FOOD STUDIES, N LEVEL",
+		"GEOGRAPHY",
 		"HIGHER CHINESE",
+		"HISTORY",
 		"HUMANITIES (SS, GEOGRAPHY)",
 		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
@@ -78,9 +80,9 @@
 			"Band - Symphonic",
 			"Choir",
 			"D'lite (English Drama)",
-			"Dance - Chinese",
 			"Dance - Indian",
 			"Dance - Malay",
+			"Dance - Modern",
 			"Ensemble - Guzheng"
 		],
 		"Clubs & Societies": [
@@ -97,7 +99,7 @@
 			"Aesthetics": "Sonic Arts – Applied Learning in Music, Media and Technology",
 			"Community & Youth Leadership": "Leadership for Life"
 		},
-		"Special Student Development Programmes Offered": "The curricular and co-curricular programmes in Yishun Secondary School are designed to develop confident and competent Yishunites who are Thinkers, Innovators and Contributors. Students enjoy differentiated learning experiences through inter-disciplinary programmes such as School Area for Integrated Learning (SAIL) in outdoor learning environments, English-Mathematics-ICT-Science (EMITS) Day and Joy of Life-long Learning, Innovation and Enterprise (JoLLIE). These experiential activities challenge students to solve real world problems and numerous other activities such as inter-class debates and public speaking showcases build confidence and prepare Yishunites for life in and beyond secondary school. Our Applied Learning Programme (ALP) in Sonic Arts (Music, Media and Technology) leverages new media to provide students with a strong foundation in and exposure to established and emerging disciplines in Music Technology and Recording Arts. In addition to stretching the students academically, the School's Learning for Life Programme (LLP) on Community Youth Leadership (CYL) creates platforms for students to lead in serving the community and provides opportunities for Yishunites to broaden their understanding of the needs and aspirations of the community. Through these authentic experiences, their leadership skills and attitudes are developed and enhanced. Key features of our Character and Citizen Education Programme include Citizenship Education Learning Journeys, the Sec 2 Adventure Camp and the Yishun Secondary School Goes Global Programme. The school also builds on its strong partnerships with various community groups to achieve its aims of equipping Yishunites with the appropriate skillsets to face the challenges of tomorrow."
+		"Special Student Development Programmes Offered": "The curricular and co-curricular programmes in Yishun Secondary School are designed to develop confident and competent Yishunites who are Thinkers, Innovators and Contributors. Students enjoy differentiated learning experiences through inter-disciplinary programmes such as School Area for Integrated Learning (SAIL) in outdoor learning environments, English-Mathematics-ICT-Science (EMITS) Day and Joy of Life-long Learning, Innovation and Enterprise (JoLLIE). These experiential activities challenge students to solve real world problems and numerous other activities such as inter-class debates and public speaking showcases build confidence and prepare Yishunites for life in and beyond secondary school. Our Applied Learning Programme (ALP) in Sonic Arts (Music, Media and Technology) leverages new media to provide students with a strong foundation in and exposure to established and emerging disciplines in Music Technology and Recording Arts. In addition to stretching the students academically, the School's Learning for Life Programme (LLP) in Leading with Empathy, Serving with Compassion, creates platforms for students to lead in serving the community and provides opportunities for Yishunites to broaden their understanding of the needs and aspirations of the community. Through these authentic experiences, students' leadership skills and attitudes are developed and enhanced. Key features of our Character and Citizen Education Programme include Citizenship Education Learning Journeys, the Sec 2 Adventure Camp and the Yishun Secondary School Goes Global Programme. The school also builds on its strong partnerships with various community groups to achieve its aims of equipping Yishunites with the appropriate skillsets to face the challenges of tomorrow."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -654,7 +656,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
@@ -783,7 +785,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
@@ -1024,12 +1026,12 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Dance - Indian": "Distinction",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Accomplishment",
 					"Dance - Chinese": "Accomplishment",
 					"Dance - Malay": "Distinction",
-					"Drama - English": "Distinction"
+					"Drama - English": "Distinction",
+					"Dance - Indian": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1298,9 +1300,22 @@
 			},
 			"2018": {
 				"SYF Arts Presentation": {
+					"Ensemble - Guzheng": "Accomplishment",
 					"Band - Concert": "Distinction",
 					"Choir": "Accomplishment",
 					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Distinction",
+					"Drama - English (2nd Entry)": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
 					"Dance - Indian": "Distinction",
 					"Dance - Malay": "Distinction",
 					"Drama - English": "Distinction",
@@ -1309,7 +1324,7 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1564,6 +1579,23 @@
 			],
 			"Normal Technical": [
 				"109",
+				"157",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"207",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"169",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"118",
 				"157",
 				"None-posted"
 			]

@@ -19,7 +19,7 @@
 		"Principal": "MR SIM CHONG BOON",
 		"Vice Principal": [
 			"MDM HENG WEI SHAN",
-			"MR HO MINGDA"
+			"MR HO MING DA"
 		],
 		"School Vision": "A Vibrant Learning Community distinguished by Wisdom, Conduct, Benevolence and Aspiration",
 		"School Mission": "Nurturing Passionate Learners and Compassionate Leaders who are future-ready and anchored in values.",
@@ -38,10 +38,10 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -1383,7 +1383,16 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1679,6 +1688,26 @@
 				"156",
 				"117",
 				"150"
+			]
+		},
+		"2020": {
+			"Express": [
+				"197",
+				"230",
+				"189",
+				"238"
+			],
+			"Normal Academic": [
+				"152",
+				"184",
+				"157",
+				"182"
+			],
+			"Normal Technical": [
+				"97",
+				"153",
+				"106",
+				"149"
 			]
 		}
 	},

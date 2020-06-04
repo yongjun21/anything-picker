@@ -19,10 +19,8 @@
 	"bus": "Yishun Ring Road - 812 (white plate); Yishun Ave 2 - 169 , 804 , 965 , 117 , 883 ",
 	"GeneralInformation": {
 		"Principal": "Miss Ong Lee Choo",
-		"Vice Principal": [
-			"Mrs Han Lee Kwang Nee Ang K C",
-			"Madam Sulasni Binte Abdul Rahman"
-		],
+		"Vice Principal": "Madam Sulasni Binte Abdul Rahman",
+		"Vice Principal (Admin)": "Miss Kok Ying Ying Jaslin",
 		"School Vision": "Leaders of Character; Learners for Life",
 		"School Mission": "A caring school that provides quality learning experiences for every child to develop good character, pursue academic excellence and acquire life skills for the future.",
 		"School Philosophy, Culture and Ethos": [
@@ -37,10 +35,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Foundation Science",
 		"Health Education",
@@ -73,10 +71,6 @@
 			"Indian Dance",
 			"Malay Dance",
 			"Photography Club"
-		],
-		"Clubs & Societies": [
-			"Infocomm Club",
-			"Innovation And Environment Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -88,9 +82,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Outstanding Development Award": "Outstanding PARTNERS"
-			},
 			"2017": {
 				"Outstanding Development Award": "Outstanding PARTNERS",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -99,36 +90,14 @@
 				"Outstanding Development Award": "Outstanding PARTNERS",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Harmonica",
 					"award": "Accomplishment"
 				},
 				{
@@ -154,11 +123,6 @@
 				{
 					"year": "2017",
 					"category": "Ensemble - Harmonica",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Choir",
 					"award": "Accomplishment"
 				},
 				{
@@ -193,6 +157,41 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Harmonica",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Harmonica",
 					"award": "Accomplishment"
 				}
@@ -238,7 +237,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 57,
 		"VACANCY FOR PHASE 2C": 183,
-		"NO. OF APPLICANTS IN PHASE 2C": 32
+		"NO. OF APPLICANTS IN PHASE 2C": 32,
+		"PLACES TAKEN UP TO PHASE 2C": 89,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 151,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 9
 	},
 	"id": "1738"
 }

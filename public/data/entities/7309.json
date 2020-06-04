@@ -39,7 +39,7 @@
 		"Additional Mathematics",
 		"Art",
 		"Art Na Level",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Biology",
@@ -48,11 +48,11 @@
 		"Chinese B",
 		"Chinese N(A)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
@@ -74,7 +74,7 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton (Girls)",
+			"Badminton",
 			"Basketball (Boys)",
 			"Football (Boys)",
 			"Netball",
@@ -108,12 +108,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Development Award": "DA (National Education)",
@@ -126,34 +120,13 @@
 				"Outstanding Development Award": "ODA (Character Development)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -202,36 +175,37 @@
 					"year": "2018",
 					"category": "Ensemble - Guitar",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 243,
-			"upper": 254,
-			"lowerAffiliated": 200,
-			"upperAffiliated": 256
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": null,
-			"upper": null,
-			"lowerAffiliated": 170,
-			"upperAffiliated": 199
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 112,
-			"upper": 158,
-			"lowerAffiliated": 126,
-			"upperAffiliated": 156
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -302,6 +276,30 @@
 			"lower": 128,
 			"upper": 155,
 			"lowerAffiliated": 148,
+			"upperAffiliated": 157
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 243,
+			"upper": 251,
+			"lowerAffiliated": 200,
+			"upperAffiliated": 260
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 187,
+			"upper": 199,
+			"lowerAffiliated": 171,
+			"upperAffiliated": 199
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 97,
+			"upper": 158,
+			"lowerAffiliated": 139,
 			"upperAffiliated": 157
 		}
 	],

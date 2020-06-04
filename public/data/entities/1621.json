@@ -37,7 +37,7 @@
 	"SubjectOffered": [
 		"Art",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -54,8 +54,7 @@
 			"Badminton",
 			"Basketball",
 			"Football",
-			"Netball",
-			"Tchoukball"
+			"Netball"
 		],
 		"Uniformed Groups": [
 			"Brownies",
@@ -66,15 +65,13 @@
 			"Chinese Dance",
 			"Choir",
 			"Indian Dance",
-			"International Dance",
+			"International",
 			"Malay Dance"
 		],
 		"Clubs & Societies": [
-			"English Club",
+			"Drama Club",
 			"It/Media Club",
-			"Mathematics Club",
-			"Robotics Club",
-			"Science  & Environment Club"
+			"Robotics Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -88,53 +85,11 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band-Brass Ensemble",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Band-Percussion Ensemble",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category B",
@@ -212,6 +167,46 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Brass Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Percussion Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - Malay",
 					"award": "Distinction"
 				}
@@ -252,7 +247,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 1,
 		"PLACES TAKEN UP TO PHASE 2B": 45,
 		"VACANCY FOR PHASE 2C": 165,
-		"NO. OF APPLICANTS IN PHASE 2C": 26
+		"NO. OF APPLICANTS IN PHASE 2C": 26,
+		"PLACES TAKEN UP TO PHASE 2C": 71,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 139,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 28
 	},
 	"id": "1621"
 }

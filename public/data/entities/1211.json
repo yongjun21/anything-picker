@@ -18,11 +18,8 @@
 	],
 	"bus": "8; 61; 65; 66; 100; 135; 154;",
 	"GeneralInformation": {
-		"Principal": "Mr Chua Choon Hock",
-		"Vice Principal": [
-			"Mr James Peh Chin Heng",
-			"Miss Choong Pei Chin"
-		],
+		"Principal": "Mr Chris Chua",
+		"Vice Principal": "Miss Choong Pei Chin",
 		"Vice Principal (Admin)": "Mr Tan Meng Khiang",
 		"School Vision": "Joyful Learners, Responsible Citizens and Creative Leaders in a connected community",
 		"School Philosophy, Culture and Ethos": [
@@ -44,7 +41,7 @@
 		"Chinese",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Tamil",
 		"Health Education",
@@ -88,24 +85,17 @@
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Interdisciplinary": "Creative and Inventive Thinking (CIT) Programme",
-			"Community Service & Student Leadership": "Upstanding Leaders@ Cedar Primary School"
+			"Community Service & Student Leadership": "Leadership through Service and Sports"
 		},
 		"Special Student Development Programmes Offered": "Applied Learning Programme (ALP)"
 	},
 	"AchievementHistory": {
 		"Primary": {
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Band-Brass",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category A",
@@ -148,6 +138,26 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Brass Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Percussion Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				}
@@ -193,7 +203,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 44,
 		"VACANCY FOR PHASE 2C": 166,
-		"NO. OF APPLICANTS IN PHASE 2C": 31
+		"NO. OF APPLICANTS IN PHASE 2C": 31,
+		"PLACES TAKEN UP TO PHASE 2C": 75,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 135,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 7
 	},
 	"id": "1211"
 }

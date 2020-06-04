@@ -42,10 +42,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -72,12 +72,11 @@
 			"Tennis"
 		],
 		"Uniformed Groups": [
-			"Boys' Brigade",
-			"Girls' Brigade"
+			"Boys' Brigade"
 		],
 		"Visual and Performing Arts": [
-			"Art Club",
-			"Drama Club"
+			"Art And Craft Club",
+			"Drama - English"
 		],
 		"Clubs & Societies": [
 			"Environmental Club",
@@ -109,7 +108,7 @@
 			},
 			"2007": {
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Dance - Indian": "Bronze",
 					"Dance - International": "Bronze"
@@ -118,7 +117,7 @@
 			},
 			"2008": {
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Dance - Indian": "Silver",
 					"Dance - Malay": "Silver"
@@ -127,7 +126,7 @@
 			},
 			"2009": {
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Dance - Indian": "Silver",
 					"Dance - Malay": "Silver"
@@ -136,7 +135,7 @@
 			},
 			"2010": {
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Indian": "Bronze",
 					"Dance - Malay": "Silver"
@@ -145,7 +144,7 @@
 			"2011": {
 				"Achievement Award": "CHERISH Award",
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Dance - Indian": "Bronze",
 					"Dance - Malay": "Silver"
@@ -154,7 +153,7 @@
 			"2012": {
 				"Achievement Award": "CHERISH Award",
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Bronze",
 					"Dance - Indian": "Bronze",
 					"Dance - Malay": "Silver"
@@ -427,7 +426,15 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Dance - International": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "217567"

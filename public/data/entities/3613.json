@@ -20,8 +20,8 @@
 	"GeneralInformation": {
 		"Principal": "Mr Tan Shun Loong",
 		"Vice Principal": [
-			"Mdm Leong Sook Hing",
-			"Mr Adrian Leow Lip Boon"
+			"Mr Adrian Leow Lip Boon",
+			"Mr Ashraf Hyder Yusoff Maniam"
 		],
 		"School Vision": "A Choice School, A Caring Home",
 		"School Mission": "Nurturing TOMORROW's learners, who are the pride of their family, society and nation, TODAY.",
@@ -42,14 +42,14 @@
 		"Chemistry",
 		"Chinese",
 		"Chinese N(A)",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Food Studies, N Level",
 		"Geography",
@@ -67,7 +67,7 @@
 		"Mathematics (Syllabus T)",
 		"Music",
 		"Music Nt Level",
-		"Music 'O' Level",
+		"Music &#39;o&#39; Level",
 		"Physical Education",
 		"Physics",
 		"Principles Of A/C",
@@ -103,8 +103,7 @@
 			"Ensemble - Guzheng"
 		],
 		"Clubs & Societies": [
-			"Audio & Video/ Pa Club",
-			"Media & Communication"
+			"Audio & Video/ Pa Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -116,9 +115,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -126,39 +122,13 @@
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -215,6 +185,36 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
 				}
@@ -223,30 +223,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 216,
-			"upper": 252,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 174,
-			"upper": 198,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 124,
-			"upper": 155,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -316,6 +292,30 @@
 			"programme": "Normal Technical",
 			"lower": 120,
 			"upper": 152,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 220,
+			"upper": 248,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 172,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 128,
+			"upper": 159,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

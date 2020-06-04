@@ -19,7 +19,7 @@
 	"bus": "912 from Woodlands Interchange",
 	"GeneralInformation": {
 		"Principal": "Mr Koe Ee Tiong",
-		"Vice Principal": "Mr Jay Westly Mahardale",
+		"Vice Principal": "Mr Andrew Ng Siok Kwang",
 		"Vice Principal (Admin)": "Mdm Tan Ai Choo",
 		"School Vision": "Every Si Ling Pupil a Scholar who Leads and Serves",
 		"School Mission": "We, in partnership with all our stakeholders, are committed to nurture our pupils to be thinking learners and gracious citizens.",
@@ -35,10 +35,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -69,13 +69,14 @@
 			"Ensemble - Guitar"
 		],
 		"Clubs & Societies": [
-			"Ict Club",
+			"Infocomm Club",
 			"Scieinsteins"
 		]
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Science": "Environmental Science Programme"
+			"Science": "Environmental Science Programme",
+			"Community Service & Student Leadership": "Community and Student Leadership"
 		},
 		"Special Student Development Programmes Offered": "Our Applied Learning Programme (ALP), Environmental Science Programme (ESP), provides pupils with opportunities to apply science knowledge, processes and attitudes acquired from science lessons in real-life environmental issues, allowing their learning to be relevant, meaningful and enjoyable. Stakeholders are roped in to enhance pupils# learning experiences, as well as provide opportunities for pupils to gain more exposure."
 	},
@@ -84,16 +85,6 @@
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category C",
 					"award": "Recognition"
@@ -125,6 +116,26 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guitar",
 					"award": "Accomplishment"
 				}
@@ -164,7 +175,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 42,
 		"VACANCY FOR PHASE 2C": 108,
-		"NO. OF APPLICANTS IN PHASE 2C": 34
+		"NO. OF APPLICANTS IN PHASE 2C": 34,
+		"PLACES TAKEN UP TO PHASE 2C": 75,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 75,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 22
 	},
 	"id": "1161"
 }

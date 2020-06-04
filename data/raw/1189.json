@@ -33,10 +33,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -398,8 +398,8 @@
 			},
 			"2009": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - Malay": "Bronze",
@@ -511,8 +511,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Bronze",
@@ -596,8 +596,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Bronze",
@@ -692,8 +692,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
 					"Ensemble - Angklung / Kulintang": "Silver",
@@ -901,11 +901,11 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art - Category C": "Recognition",
 					"Art - Category A": "Recognition",
 					"Dance - Chinese": "Distinction",
 					"Dance - Indian": "Accomplishment",
-					"Ensemble - Angklung / Kulintang": "Distinction"
+					"Ensemble - Angklung / Kulintang": "Distinction",
+					"Art - Category C": "Recognition"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1091,7 +1091,17 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "569730"

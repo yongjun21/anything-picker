@@ -18,6 +18,7 @@
 	"GeneralInformation": {
 		"Principal": "MISS OH SEE MOEY",
 		"Vice Principal": "MDM HO FUI FONG",
+		"Vice Principal (Admin)": "MISS CHUA MEI LI",
 		"School Vision": "Leaders of Character, championing Service and Excellence",
 		"School Mission": "To nurture future-ready students, anchored on values",
 		"School Philosophy, Culture and Ethos": "We believe that 'Every Child Matters' and we centre our Teaching and Learning on this philosophy. We are guided by our school values of Respect for All, Responsibility in Actions, Resilience in Adversity, Integrity Our Core, Care for Community and Harmony in Diversity in our interactions and our decision-making.",
@@ -28,9 +29,9 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -506,8 +507,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Dance - International": "Silver",
 					"Ensemble - Guzheng": "Gold"
 				}
@@ -601,8 +602,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Dance - International": "Silver",
 					"Ensemble - Guzheng": "Silver"
 				}
@@ -1016,10 +1017,10 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
 					"Dance - International": "Accomplishment",
 					"Dance - Malay": "Accomplishment",
-					"Ensemble - Guzheng": "Accomplishment",
-					"Art - Category B": "Recognition"
+					"Ensemble - Guzheng": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1102,7 +1103,87 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"1st",
+						"1st"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition(Sm)",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Guzheng": "Commendation"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "519524"

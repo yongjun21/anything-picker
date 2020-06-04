@@ -38,7 +38,7 @@
 		"Chinese",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -89,16 +89,13 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
+			"Interdisciplinary": "Caring and Responsible Environmentalist (CaRE) Programme",
 			"Sports & Outdoor Education": "Character and Leadership development through ADventure (CLAD)"
 		},
 		"Special Student Development Programmes Offered": "Guided by our ICARE values, (Integrity, Care, Adaptability, Respect, and Excellence), our Character and Citizenship Education programmes aim to develop Shuqunites into confident leaders with sound character who contribute actively to the community. We offer a wide variety of programmes such as Values-in-Action (VIA), Play and Learn @Shuqun (PAL) and Values Education to inculcate values and develop the necessary knowledge and life skills. "
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": "DA (National Education)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": "DA (National Education)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -107,39 +104,13 @@
 				"Development Award": "DA (National Education)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Development Award": "DA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band-Brass",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Commendation"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -196,6 +167,46 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
 				}
@@ -239,7 +250,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 18,
 		"PLACES TAKEN UP TO PHASE 2B": 159,
 		"VACANCY FOR PHASE 2C": 41,
-		"NO. OF APPLICANTS IN PHASE 2C": 77
+		"NO. OF APPLICANTS IN PHASE 2C": 77,
+		"PLACES TAKEN UP TO PHASE 2C": 200
 	},
 	"id": "1220"
 }

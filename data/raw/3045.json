@@ -42,7 +42,7 @@
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -308,6 +308,17 @@
 						"'C' Div"
 					],
 					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd"
+					],
+					[
 						"Shooting (Air Rifle)",
 						"-",
 						"-",
@@ -328,24 +339,13 @@
 						"2nd",
 						"-",
 						"-"
-					],
-					[
-						"Basketball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"2nd"
 					]
 				],
 				"SYF Central Judging": {
-					"Dance - Chinese": "Gold",
-					"Drama - English": "Silver",
 					"Band - Concert": "Silver",
-					"Choir": "Silver"
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Drama - English": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -478,7 +478,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
@@ -604,7 +604,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold (Hons)",
@@ -696,6 +696,17 @@
 						"'C' Div"
 					],
 					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					],
+					[
 						"Table Tennis",
 						"-",
 						"-",
@@ -716,24 +727,13 @@
 						"4th",
 						"-",
 						"-"
-					],
-					[
-						"Basketball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"3rd",
-						"-"
 					]
 				],
 				"SYF Central Judging": {
+					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold (Hons)",
-					"Drama - English": "Silver",
-					"Band - Concert": "Silver"
+					"Drama - English": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1193,10 +1193,10 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Choir": "Distinction",
 					"Band - Concert": "Accomplishment",
 					"Dance - Chinese": "Distinction",
-					"Drama - English": "Distinction"
+					"Drama - English": "Distinction",
+					"Choir": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1851,7 +1851,134 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"2nd",
+						"1st"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -2106,6 +2233,23 @@
 			],
 			"Normal Technical": [
 				"146",
+				"159",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"239",
+				"255",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"186",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"148",
 				"159",
 				"None-posted"
 			]

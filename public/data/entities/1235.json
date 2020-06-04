@@ -22,8 +22,8 @@
 	"GeneralInformation": {
 		"Principal": "Mdm Rostinah Bte Mohamad Said",
 		"Vice Principal": [
-			"Mr Goh Zensen",
-			"Mdm Tham Siew Leng"
+			"Mdm Tham Siew Leng",
+			"Mrs Trina Yee-Pook Sim Nar"
 		],
 		"School Vision": "A Learner . A Thinker . A Leader",
 		"School Mission": "Ignite Passion for Learning, Nurture Strength of Character",
@@ -35,10 +35,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -58,7 +58,7 @@
 	"Cca": {
 		"Physical Sports": [
 			"Football",
-			"Modular Sports",
+			"Multi Games",
 			"Sepak Takraw",
 			"Volleyball"
 		],
@@ -78,105 +78,106 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
+			"STEM": "ZPS STE(A)M – Thinknovate",
 			"Community Service & Student Leadership": "Green Education Movement @ Zhonghua Primary School (GEM@ZPS)"
 		},
 		"Special Student Development Programmes Offered": "The school's Lifelong Learning Programme (LLP) is in Environmental Education (EE). Through this, pupils are exposed to progressive level-appropriate learning of EE issues integrated with the learning of leadership skills, values and community involvement."
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Art - Category B",
-					"award": "Recognition"
+					"award": "Recognition(Sm)"
 				},
 				{
-					"year": "2016",
+					"year": "2019",
 					"category": "Choir",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2017",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2017",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2018",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2018",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Dance - Chinese",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Dance - Indian",
 					"award": "Distinction"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Dance - Malay",
 					"award": "Distinction"
 				}
@@ -220,7 +221,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 1,
 		"PLACES TAKEN UP TO PHASE 2B": 27,
 		"VACANCY FOR PHASE 2C": 93,
-		"NO. OF APPLICANTS IN PHASE 2C": 13
+		"NO. OF APPLICANTS IN PHASE 2C": 13,
+		"PLACES TAKEN UP TO PHASE 2C": 40,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 80,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 19
 	},
 	"id": "1235"
 }

@@ -14,7 +14,7 @@
 	],
 	"email": "SKPS@MOE.EDU.SG",
 	"mrt": "Sengkang MRT",
-	"bus": "27 , 80 , 82 , 83 , 86 , 87 , 88 , 89 , 119 , 156 , 163 , 371 , 372 & 965 ",
+	"bus": "27 , 80 , 82 , 83 , 86 , 87 , 88 , 89 , 119 , 156 , 163 , 371 , 372 &amp; 965 ",
 	"GeneralInformation": {
 		"Principal": "MDM SEAH WHYE CHOO",
 		"Vice Principal": "MISS THIEN LI CHIN",
@@ -29,11 +29,11 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -50,7 +50,7 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Basketball",
+			"Basketball (Girls)",
 			"Hockey",
 			"Softball",
 			"Track & Field"
@@ -176,7 +176,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"4th",
 						"-",
 						"-",
@@ -189,9 +189,9 @@
 					]
 				],
 				"SYF Central Judging": {
+					"Ensemble - Angklung / Kulintang": "Silver",
 					"Dance - Chinese": "Gold",
-					"Dance - International": "Silver",
-					"Ensemble - Angklung / Kulintang": "Silver"
+					"Dance - International": "Silver"
 				}
 			},
 			"2007": {
@@ -284,7 +284,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -718,7 +718,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -842,7 +842,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -1051,7 +1051,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"4th",
@@ -1250,7 +1250,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"2nd",
@@ -1270,7 +1270,108 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Hockey",
+						"-",
+						"4th",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Handbell / Handchime": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "545166"

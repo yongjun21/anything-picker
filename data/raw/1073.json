@@ -18,21 +18,21 @@
 	"GeneralInformation": {
 		"Principal": "MRS YUE YOKE MUN NEE WAI",
 		"Vice Principal": [
-			"MDM GOH LUNG ENG",
-			"MDM GERMAINE NG YING- HAN"
+			"MISS CHEN MEI CHUEN",
+			"MISS KONG SU MAY"
 		],
 		"Vice Principal (Admin)": "MR LIM BOON TECK",
 		"School Vision": "A Vibrant Community of Creative Thinkers, Lifelong Learners and Value-based Leaders",
 		"School Mission": "Nurturing Women of Excellence, Leaders of Character and Service",
 		"School Philosophy, Culture and Ethos": "School Philosophy:  Every Child Matters and To Develop Every Pupil to be the Best that She Can Be",
-		"Type of School": "GOVERNMENT SCHOOL / GIRLS' SCHOOL / SINGLE SESSION",
+		"Type of School": "GOVERNMENT SCHOOL / GIRLS&#39; SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
 	},
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -52,9 +52,7 @@
 			"Basketball",
 			"Rhythmic Gymnastics",
 			"Softball",
-			"Swimming",
 			"Table Tennis",
-			"Ten-Pin Bowling",
 			"Tennis"
 		],
 		"Uniformed Groups": [
@@ -71,8 +69,7 @@
 		],
 		"Clubs & Societies": [
 			"Enviro-Life Science Club",
-			"International Chess Club",
-			"New Media Club"
+			"International Chess Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -350,9 +347,9 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold (Hons))": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold",
 					"Choir": "Gold",
 					"Dance - Chinese": "Gold",
@@ -488,9 +485,9 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold (Hons))": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold (Hons)",
 					"Dance - Chinese": "Gold",
@@ -679,7 +676,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold (Hons)",
 					"Dance - Chinese": "Gold",
@@ -814,7 +811,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold (Hons)",
 					"Dance - Chinese": "Silver",
@@ -985,7 +982,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold (Hons)",
 					"Dance - Chinese": "Silver",
@@ -1154,7 +1151,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
@@ -1767,6 +1764,17 @@
 						"Senior"
 					],
 					[
+						"Badminton",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"2nd"
+					],
+					[
 						"Basketball",
 						"-",
 						"-",
@@ -1820,17 +1828,6 @@
 						"-",
 						"-",
 						"-"
-					],
-					[
-						"Badminton",
-						"-",
-						"-",
-						"4th",
-						"-",
-						"-",
-						"-",
-						"1st",
-						"2nd"
 					],
 					[
 						"",
@@ -2278,7 +2275,153 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"2nd"
+					],
+					[
+						"Sailing",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
+					],
+					[
+						"Swimming",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "289072"

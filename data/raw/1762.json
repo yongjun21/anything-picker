@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MISS ANG MUI KHOONG",
 		"Vice Principal": [
-			"MRS ONG CHWEE ENG NEE LIM",
-			"MDM WONG WEI YONG"
+			"MDM WONG WEI YONG",
+			"MDM SIM EE KOON PATRICIA"
 		],
 		"School Vision": [
 			"Reflective Learners, Gracious Citizens",
@@ -67,9 +67,9 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -89,13 +89,10 @@
 			"Floorball",
 			"Football",
 			"Sport Climbing Modular",
-			"Table Tennis",
-			"Taekwondo",
 			"Wushu"
 		],
 		"Uniformed Groups": [
-			"Boys' Brigade",
-			"Brownies"
+			"Boys' Brigade"
 		],
 		"Visual and Performing Arts": [
 			"Artists' Hub",
@@ -378,12 +375,12 @@
 					]
 				],
 				"SYF Central Judging": {
+					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - International": "Silver",
 					"Dance - Malay": "Silver",
 					"Ensemble - Angklung / Kulintang": "Gold",
-					"Ensemble - Strings": "Silver",
-					"Dance - Chinese": "Silver"
+					"Ensemble - Strings": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -459,7 +456,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - International": "Silver",
@@ -552,7 +549,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - International": "Silver",
@@ -926,6 +923,17 @@
 						"Senior"
 					],
 					[
+						"Floorball",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
 						"Badminton",
 						"-",
 						"-",
@@ -955,17 +963,6 @@
 						"-",
 						"-",
 						"4th",
-						"-",
-						"-"
-					],
-					[
-						"Floorball",
-						"-",
-						"-",
-						"1st",
-						"-",
-						"-",
-						"-",
 						"-",
 						"-"
 					]
@@ -1051,14 +1048,104 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Ensemble - Angklung / Kulintang": "Distinction",
 					"Art - Category B": "Recognition",
 					"Choir": "Distinction",
-					"Dance - International": "Distinction"
+					"Dance - International": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"3rd"
+					],
+					[
+						"Wushu",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "689100"

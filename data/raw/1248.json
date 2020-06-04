@@ -31,7 +31,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -56,8 +56,6 @@
 		],
 		"Visual and Performing Arts": [
 			"Band - Concert",
-			"Chinese Calligraphy",
-			"Chinese Painting",
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Indian",
@@ -65,7 +63,8 @@
 			"Dikir Barat",
 			"Ensemble - Guzheng",
 			"Ensemble - Harmonica",
-			"Speech & Drama"
+			"Speech & Drama",
+			"Visual Arts Club"
 		],
 		"Clubs & Societies": [
 			"Infocomm Club",
@@ -78,7 +77,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Music & Performing Arts": "ARTS De La Sc&egrave;ne"
+			"Interdisciplinary": "ThInkers with Heart",
+			"Music & Performing Arts": "ARTS De La Sc?ne"
 		},
 		"Special Student Development Programmes Offered": "1.PERI Holistic Assessment 2.Whole-School Reading Programme 3.Character and Citizenship Education 4.Environment Education 5.Modular Aesthetics/PE/ICT 6.Inter-disciplinary Project Work 7.Conversational CL and ML Enrichment"
 	},
@@ -145,17 +145,6 @@
 						"Senior"
 					],
 					[
-						"Rope Skipping",
-						"-",
-						"-",
-						"3rd",
-						"-",
-						"3rd",
-						"3rd",
-						"1st",
-						"2nd"
-					],
-					[
 						"Sepak Takraw",
 						"-",
 						"2nd",
@@ -165,6 +154,17 @@
 						"1st",
 						"-",
 						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"3rd",
+						"3rd",
+						"1st",
+						"2nd"
 					],
 					[
 						"Volleyball",
@@ -469,7 +469,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold (Hons))": "2 Awards",
+					"Art &amp; Craft (Gold (Hons))": "2 Awards",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Gold",
@@ -562,7 +562,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold (Hons))": "2 Awards",
+					"Art &amp; Craft (Gold (Hons))": "2 Awards",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Bronze",
@@ -663,8 +663,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Bronze",
@@ -777,8 +777,8 @@
 				],
 				"SYF Central Judging": {
 					"Ensemble - Harmonica": "Silver",
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Gold",
@@ -1416,7 +1416,89 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Harmonica": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "618310"

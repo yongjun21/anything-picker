@@ -16,10 +16,10 @@
 	"mrt": [
 		"Serangoon MRT"
 	],
-	"bus": "58 & 105 (Outside the school , Serangoon Ave 3) 133 & 135(Serangoon Ave 2) ",
+	"bus": "58 &amp; 105 (Outside the school , Serangoon Ave 3) 133 &amp; 135(Serangoon Ave 2) ",
 	"GeneralInformation": {
 		"Principal": "Mdm Lee Yen Ping Christine",
-		"Vice Principal": "Miss Yak Hiok Woon, Faith",
+		"Vice Principal": "Mdm Ng Li Yi",
 		"Vice Principal (Admin)": "Mdm Mok Mew Kuen",
 		"School Vision": "Every Yangzhengnite a Passionate Learner, Caring Friend and Responsible Citizen.",
 		"School Mission": "Yangzheng Primary is committed to providing a supportive environment that will help every pupil develop his moral, cognitive, physical, social, aesthetic and leadership capabilities to his fullest potential.",
@@ -36,10 +36,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -57,16 +57,24 @@
 		"Physical Sports": [
 			"Basketball",
 			"Rope Skipping",
-			"Soccer"
+			"Soccer",
+			"Wushu"
 		],
 		"Uniformed Groups": [
 			"Brownies",
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
+			"Art Club",
+			"Band - Concert",
 			"Chinese Calligraphy Society",
 			"Dance - Chinese",
-			"Dance - International"
+			"Dance - International",
+			"Ensemble - Guzheng",
+			"Media Club"
+		],
+		"Clubs & Societies": [
+			"Green Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -77,44 +85,18 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": "PARTNERS (Merit)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -156,6 +138,26 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
 				}
@@ -181,6 +183,7 @@
 		"TP"
 	],
 	"specialNeeds": [],
+	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 180,
 		"VACANCY FOR PHASE 1": 140,
@@ -196,7 +199,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 11,
 		"PLACES TAKEN UP TO PHASE 2B": 102,
 		"VACANCY FOR PHASE 2C": 78,
-		"NO. OF APPLICANTS IN PHASE 2C": 86
+		"NO. OF APPLICANTS IN PHASE 2C": 86,
+		"PLACES TAKEN UP TO PHASE 2C": 180
 	},
 	"id": "1725"
 }

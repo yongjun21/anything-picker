@@ -18,9 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MDM SHARMA POONAM KUMARI",
 		"Vice Principal": [
-			"MR PANG CHIN KEAT, KEVIN",
-			"MDM LIM WEI YIN SELINA",
-			"MISS LOH SEIN LING"
+			"MISS LOH SEIN LING",
+			"MR DANNY CHEW POH HUAT"
 		],
 		"School Vision": [
 			"Learn with Passion,",
@@ -40,21 +39,19 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
-		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
-		"SCIENCE (PHY, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"TAMIL"
 	],
@@ -287,10 +284,10 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Band - Concert": "Bronze",
 					"Dance - International": "Bronze",
 					"Dance - Malay": "Silver",
-					"Orchestra - Chinese": "Bronze"
+					"Orchestra - Chinese": "Bronze",
+					"Band - Concert": "Bronze"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1164,7 +1161,17 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band-Brass Ensemble": "Accomplishment",
+					"Chinese Orchestra-Sectional Ensemble": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1405,6 +1412,18 @@
 			"Normal Academic": [
 				"152",
 				"187",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"188",
+				"246",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"185",
 				"None-posted"
 			]
 		}

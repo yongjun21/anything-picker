@@ -36,7 +36,7 @@
 		"Art",
 		"Art Na Level",
 		"Art Nt Level",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Basic Tamil",
@@ -45,12 +45,12 @@
 		"Chinese B",
 		"Chinese N(A)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Higher Chinese",
 		"Higher Malay",
@@ -112,10 +112,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -124,137 +120,107 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Dance - Chinese",
-					"award": "Distinction"
+					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Dance - Indian",
-					"award": "Distinction"
+					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
+					"category": "Drama - Multi-Lingual",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Commendation"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Multi-Lingual",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Drama - English",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2017",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Malay",
+					"year": "2019",
+					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Drama - Multi-Lingual",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Guitar",
-					"award": "Commendation"
-				},
-				{
-					"year": "2018",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Drama - Multi-Lingual",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Ensemble - Guitar",
-					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 219,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 185,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 129,
-			"upper": 159,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -324,6 +290,30 @@
 			"programme": "Normal Technical",
 			"lower": 128,
 			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 236,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 155,
+			"upper": 198,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 120,
+			"upper": 159,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

@@ -18,7 +18,7 @@
 	],
 	"bus": "61 , 66 , 77 , 106 , 157 , 174 , 178 , 963 ",
 	"GeneralInformation": {
-		"Principal": "Miss Chew Tock Lee",
+		"Principal": "Mrs Yap Dai Jee",
 		"Vice Principal": [
 			"Mdm Ang Chai Ting, Jessie",
 			"Miss Saraswathy D/o Idamban"
@@ -39,9 +39,9 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Foundation Science",
 		"Health Education",
@@ -74,7 +74,6 @@
 			"International Dance"
 		],
 		"Clubs & Societies": [
-			"Debate",
 			"Infocomm Club",
 			"International Chess",
 			"Science Club",
@@ -83,21 +82,13 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
+			"Science": "INquiry Science Projects Involving Research and Experiments (I.N.S.P.I.R.E. the Scientist in Me)",
 			"Sports & Outdoor Education": "Sports4All@Keming: Character Development through Sports"
 		},
 		"Special Student Development Programmes Offered": "Learning comes alive for Kemingnites through Authentic Learning@Keming.  "
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": "BPA (Teaching and Learning)",
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)",
-					"PARTNERS (Merit)"
-				]
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": "BPA (Teaching and Learning)",
@@ -110,29 +101,12 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category C",
 					"award": "Recognition(Sm)"
@@ -169,6 +143,21 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				}
@@ -211,7 +200,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 13,
 		"PLACES TAKEN UP TO PHASE 2B": 142,
 		"VACANCY FOR PHASE 2C": 68,
-		"NO. OF APPLICANTS IN PHASE 2C": 135
+		"NO. OF APPLICANTS IN PHASE 2C": 135,
+		"PLACES TAKEN UP TO PHASE 2C": 210
 	},
 	"id": "1238"
 }

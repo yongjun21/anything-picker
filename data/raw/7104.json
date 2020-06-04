@@ -21,7 +21,7 @@
 			"DR ONG CHUN GHEE",
 			"MDM TAN JWEE LYNN, CHERYL"
 		],
-		"Vice Principal (Admin)": "MR BOH HONG JIK",
+		"Vice Principal (Admin)": "MDM ONG LEE FONG",
 		"School Vision": "Institution of Eminence, Generations of Leaders; Grounded in Values, Global in Outlook",
 		"School Mission": "Empowering our students to be Role Models of Learning, Leaders of Society and Pillars of the Nation.",
 		"School Philosophy, Culture and Ethos": [
@@ -37,11 +37,11 @@
 		"ADDITIONAL MATHEMATICS",
 		"APPRE OF CHINESE CULTURE",
 		"ART",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
@@ -58,7 +58,7 @@
 		"MALAY (SPECIAL PROGRAMME)",
 		"MATHEMATICS",
 		"MUSIC",
-		"MUSIC 'O' LEVEL",
+		"MUSIC &#39;O&#39; LEVEL",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
 		"SCIENCE"
@@ -67,7 +67,7 @@
 		"Physical Sports": [
 			"Badminton",
 			"Basketball",
-			"Cross Country & Track",
+			"Cross Country",
 			"Netball",
 			"Softball",
 			"Table Tennis",
@@ -83,14 +83,14 @@
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
-			"Calligraphy & Chinese Painting Club",
+			"Chinese Calligraphy & Painting Club",
 			"Chinese Drama Society",
 			"Chinese Orchestra",
 			"Choir",
 			"Concert Band",
 			"Dance Club",
 			"English Drama Society",
-			"Guzheng",
+			"Guzheng Ensemble",
 			"Lion Dance Club",
 			"Media & Technology Club"
 		],
@@ -191,15 +191,15 @@
 						"'C' Div"
 					],
 					[
-						"Wushu",
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"4th",
 						"1st",
-						"2nd",
-						"1st",
+						"4th",
 						"-",
-						"-",
-						"-",
-						"-",
-						"-"
+						"3rd"
 					],
 					[
 						"Table Tennis",
@@ -213,15 +213,26 @@
 						"-"
 					],
 					[
-						"Basketball",
+						"Volleyball",
+						"-",
 						"-",
 						"-",
 						"-",
 						"4th",
-						"1st",
-						"4th",
+						"-",
 						"-",
 						"3rd"
+					],
+					[
+						"Wushu",
+						"1st",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
 					],
 					[
 						"Tenpin Bowling",
@@ -233,17 +244,6 @@
 						"-",
 						"-",
 						"-"
-					],
-					[
-						"Volleyball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"4th",
-						"-",
-						"-",
-						"3rd"
 					]
 				],
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -332,17 +332,6 @@
 						"'C' Div"
 					],
 					[
-						"Wushu",
-						"1st",
-						"1st",
-						"1st",
-						"2nd",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
 						"Badminton",
 						"-",
 						"-",
@@ -385,6 +374,17 @@
 						"-",
 						"4th",
 						"4th"
+					],
+					[
+						"Wushu",
+						"1st",
+						"1st",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
 					]
 				],
 				"SYF Central Judging": {
@@ -528,7 +528,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - International": "Gold (Hons)",
@@ -680,7 +680,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - International": "Gold",
@@ -810,7 +810,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - International": "Gold",
@@ -968,7 +968,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - International": "Silver",
@@ -1129,7 +1129,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - International": "Silver",
@@ -1287,7 +1287,7 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Accomplishment",
 					"Dance - International": "Distinction",
@@ -1384,28 +1384,6 @@
 						"'C' Div"
 					],
 					[
-						"Badminton",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"4th"
-					],
-					[
-						"Basketball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"4th",
-						"-"
-					],
-					[
 						"Table Tennis",
 						"-",
 						"-",
@@ -1437,18 +1415,40 @@
 						"-",
 						"-",
 						"-"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
 					]
 				],
 				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Orchestra - Chinese": "Distinction",
 					"Art - Category B": "Recognition(Sm)",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Accomplishment",
 					"Dance - International": "Distinction",
 					"Drama - Chinese": "Distinction",
 					"Drama - English": "Distinction",
-					"Ensemble - Guzheng": "Distinction",
-					"Art - Category A": "Recognition",
-					"Orchestra - Chinese": "Distinction"
+					"Ensemble - Guzheng": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1842,28 +1842,6 @@
 						"'C' Div"
 					],
 					[
-						"Badminton",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"2nd",
-						"-",
-						"-"
-					],
-					[
-						"Basketball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"3rd",
-						"2nd",
-						"1st",
-						"2nd"
-					],
-					[
 						"Table Tennis",
 						"-",
 						"-",
@@ -1884,6 +1862,28 @@
 						"-",
 						"-",
 						"-"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"1st",
+						"2nd"
 					]
 				],
 				"SYF Arts Presentation": {
@@ -2050,7 +2050,137 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"2nd",
+						"3rd",
+						"2nd"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"3rd"
+					],
+					[
+						"Wushu",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -2170,6 +2300,13 @@
 		"2019": {
 			"Express": [
 				"242",
+				"269",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"244",
 				"269",
 				"None-posted"
 			]

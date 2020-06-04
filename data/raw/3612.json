@@ -36,10 +36,10 @@
 		"CHINESE",
 		"CHINESE B",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD STUDIES, N LEVEL",
 		"GEOGRAPHY",
 		"HUMANITIES (SS, GEOGRAPHY)",
@@ -67,14 +67,13 @@
 		"Visual and Performing Arts": [
 			"Concert Band",
 			"Drama Club",
-			"Environmental Club",
+			"Environmental Art Club",
 			"Guzheng Ensemble",
-			"Modern Dance",
-			"Photography Club"
+			"Modern Dance"
 		],
 		"Clubs & Societies": [
 			"Audio Visual Aids Club",
-			"Infocomm Club",
+			"Infocomm Club (Photography & Videography)",
 			"Northbrooks Youth Flying Club",
 			"Outdoor Activities Club"
 		],
@@ -296,7 +295,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Drama - English": "Bronze",
 					"Ensemble - Guzheng": "Bronze"
@@ -305,7 +304,7 @@
 			},
 			"2009": {
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Drama - English": "Bronze",
 					"Ensemble - Guzheng": "Gold"
@@ -714,7 +713,17 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -970,6 +979,23 @@
 			"Normal Technical": [
 				"123",
 				"159",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"188",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"158",
+				"186",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"129",
+				"154",
 				"None-posted"
 			]
 		}

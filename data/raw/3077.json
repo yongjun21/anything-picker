@@ -35,11 +35,11 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -114,7 +114,16 @@
 			"2016": {},
 			"2017": {},
 			"2018": {},
-			"2019": {}
+			"2019": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Drama - Multi-Lingual": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -162,6 +171,23 @@
 			"Normal Technical": [
 				"106",
 				"149",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"188",
+				"230",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"104",
+				"156",
 				"None-posted"
 			]
 		}

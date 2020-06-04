@@ -20,8 +20,8 @@
 	"GeneralInformation": {
 		"Principal": "Mr Cheng Ghee Hock Timothy",
 		"Vice Principal": [
-			"Mr Apollos Induchoodan S/o R A P",
-			"Miss Tan Mei Chang Rebekah"
+			"Mr Koh Yong Hwee Daryl",
+			"Mdm Yap Sharon"
 		],
 		"School Vision": "Every Merahan a Resilient, Caring and Self-directed Learner",
 		"School Mission": "To Nurture Resilient Merahans with Character and Heart",
@@ -45,12 +45,12 @@
 		"Combined Humanities (S,L)",
 		"Combined Humanities (SS,LC)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Food Studies, N Level",
 		"Geography",
@@ -93,6 +93,7 @@
 		"Clubs & Societies": [
 			"Ava Club",
 			"Engineering And Innovation Club",
+			"Engineering And Innovation Club (Robotics)",
 			"Library Society",
 			"Student Activity Club",
 			"Young Entrepreneur Club"
@@ -107,39 +108,18 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Development Award": "DA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -161,6 +141,11 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
 				},
@@ -170,8 +155,18 @@
 					"award": "Commendation"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
 					"award": "Accomplishment"
 				}
 			],
@@ -179,30 +174,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 260,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 192,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 133,
-			"upper": 151,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -272,6 +243,30 @@
 			"programme": "Normal Technical",
 			"lower": 122,
 			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 249,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 186,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 117,
+			"upper": 157,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

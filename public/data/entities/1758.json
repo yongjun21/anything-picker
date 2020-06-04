@@ -21,7 +21,7 @@
 		"Principal": "Miss Ng Siok Ching Josephine",
 		"Vice Principal": [
 			"Mrs Ahkeela Julia Edison",
-			"Miss Ng Yui Yun"
+			"Dr. Ng Siew Hiang Sally"
 		],
 		"School Vision": "Every Child Succeeds - A Learner. A Thinker. A Leader with Character.",
 		"School Mission": "Building Character, Nurturing Hearts, Enriching Minds.",
@@ -33,11 +33,11 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -56,7 +56,7 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton",
+			"Badminton Cca",
 			"Basketball",
 			"Football",
 			"Netball",
@@ -97,51 +97,20 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": "DA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
 					"award": "Accomplishment"
 				},
 				{
@@ -172,11 +141,6 @@
 				{
 					"year": "2017",
 					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Chinese Orchestra-Full Orchestra",
 					"award": "Accomplishment"
 				},
 				{
@@ -211,6 +175,41 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Mixed Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
 				}
@@ -250,7 +249,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 6,
 		"PLACES TAKEN UP TO PHASE 2B": 104,
 		"VACANCY FOR PHASE 2C": 76,
-		"NO. OF APPLICANTS IN PHASE 2C": 94
+		"NO. OF APPLICANTS IN PHASE 2C": 94,
+		"PLACES TAKEN UP TO PHASE 2C": 180
 	},
 	"id": "1758"
 }

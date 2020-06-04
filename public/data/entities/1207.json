@@ -20,8 +20,8 @@
 	"GeneralInformation": {
 		"Principal": "Mr Andy Mickey Choong Tek Choy",
 		"Vice Principal": [
-			"Mdm Ho Jun Lynn",
-			"Mrs Nur Fatimah Frauder"
+			"Mrs Nur Fatimah Frauder",
+			"Mdm Christine Lim Min Hui"
 		],
 		"School Vision": "Global Learners, Discerning Citizens",
 		"School Mission": "Nurturing Hearts and Minds",
@@ -33,10 +33,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -64,9 +64,6 @@
 			"Dance - Chinese",
 			"Dance - Malay",
 			"Ensemble - Angklung/Kulintang"
-		],
-		"Clubs & Societies": [
-			"Library"
 		]
 	},
 	"SpecialProgrammes": {
@@ -78,49 +75,18 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": "DA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": "DA (Character Development)"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category C",
 					"award": "Recognition"
@@ -149,11 +115,6 @@
 					"year": "2017",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
 				},
 				{
 					"year": "2018",
@@ -177,6 +138,36 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Distinction"
 				}
@@ -220,7 +211,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 7,
 		"PLACES TAKEN UP TO PHASE 2B": 95,
 		"VACANCY FOR PHASE 2C": 85,
-		"NO. OF APPLICANTS IN PHASE 2C": 84
+		"NO. OF APPLICANTS IN PHASE 2C": 84,
+		"PLACES TAKEN UP TO PHASE 2C": 179,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 1,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 1
 	},
 	"id": "1207"
 }

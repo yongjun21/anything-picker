@@ -14,9 +14,9 @@
 	],
 	"email": "bgps@moe.edu.sg",
 	"mrt": "Bedok MRT Station, Tanah Merah MRT Station",
-	"bus": "Bus No. 2 , 9 , 12 , 24 , 31 , 34 & 38 ",
+	"bus": "Bus No. 2 , 9 , 12 , 24 , 31 , 34 &amp; 38 ",
 	"GeneralInformation": {
-		"Principal": "MRS NG KIM CHOO CELINE",
+		"Principal": "MR YONG YIK YEN BENJAMIN",
 		"Vice Principal": [
 			"MDM SHARIFAH FAIRUZ BTE S Y A",
 			"MR YEO SHO HOR"
@@ -34,11 +34,11 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -58,6 +58,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"Interdisciplinary": "Environmental Education (E2@BGPS)",
 			"Sports & Outdoor Education": "Sports to Reinforce Values Education or STRIVE @ BGPS"
 		},
 		"Special Student Development Programmes Offered": "Learning for Life Programme Sports to Reinforce Values Education (STRIVE @ BGPS): STRIVE @ BGPS taps on key platforms such as physical education lessons, co-curricular activities (CCA) and outdoor education programmes to inculcate values in students so as to develop their character and citizenship, as well as hone their social-emotional (SEL) and 21st century competencies.  "
@@ -217,7 +218,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Bronze",
 					"Dance - Malay": "Bronze",
@@ -298,12 +299,12 @@
 					]
 				],
 				"SYF Central Judging": {
+					"Art &amp; Craft (Silver)": "1 Award",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
 					"Dance - Malay": "Bronze",
 					"Ensemble - Angklung / Kulintang": "Bronze",
-					"Ensemble - Guzheng": "Bronze",
-					"Art & Craft (Silver)": "1 Award",
-					"Choir": "Silver",
-					"Dance - Chinese": "Silver"
+					"Ensemble - Guzheng": "Bronze"
 				}
 			},
 			"2009": {
@@ -1063,12 +1064,12 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
 					"Art - Category B": "Recognition",
 					"Choir": "Commendation",
 					"Dance - Chinese": "Accomplishment",
 					"Dance - Malay": "Distinction",
-					"Ensemble - Guzheng": "Accomplishment",
-					"Ensemble - Angklung / Kulintang": "Accomplishment"
+					"Ensemble - Guzheng": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1144,6 +1145,87 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Ensemble - Guzheng": "Commendation",
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
 					"Art - Category B": "Recognition",
 					"Choir": "Accomplishment",
 					"Dance - Chinese": "Accomplishment",
@@ -1153,7 +1235,7 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2020": {}
 		}
 	},
 	"postalCode": "469317"

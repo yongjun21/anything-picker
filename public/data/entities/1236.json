@@ -38,9 +38,9 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -78,33 +78,24 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
+			"Interdisciplinary": "Project THINK (Thinking Holistic Innovative Networked Kids) for Home Earth",
 			"Sports & Outdoor Education": "Sports, Character Development and Adventure Learning Experiences @ Peiying (SCALE@PEIYING)"
 		},
 		"Special Student Development Programmes Offered": "Scale@Peiying: SCALE@Peiying is a 6-year Learning for Life Programme (LLP) that focuses on sports, character development and adventure learning. The LLP provides students with real-life experiential learning to develop their character and values, cultivate positive attitudes, self-expression and strengthen their interaction skills. Peiying has its own Adventure Tower that enables the school to carry out outdoor adventure activities regularly on the school premises. "
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category C",
@@ -132,6 +123,21 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Accomplishment"
 				}
@@ -175,7 +181,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 65,
 		"VACANCY FOR PHASE 2C": 115,
-		"NO. OF APPLICANTS IN PHASE 2C": 41
+		"NO. OF APPLICANTS IN PHASE 2C": 41,
+		"PLACES TAKEN UP TO PHASE 2C": 106,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 74,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 56
 	},
 	"id": "1236"
 }

@@ -17,7 +17,7 @@
 	"bus": "30 , 51 , 78 , 79 , 143 , 143M , 176 , 201 ",
 	"GeneralInformation": {
 		"Principal": "MR NG BOON KIAT",
-		"Vice Principal": "MR TAN BOON PIANG",
+		"Vice Principal": "MR LEOW ZHI WEN PHILIBERT",
 		"Vice Principal (Admin)": "MDM SHABNAM LENA",
 		"School Vision": "Every CommonWEALTHian a Confident Learner, Compassionate Leader and Imaginative Trailblazer.",
 		"School Mission": "Nurturing Commonwealthians as Champions of Today and Leaders of Tomorrow.",
@@ -35,7 +35,8 @@
 		"ADDITIONAL MATHEMATICS",
 		"ART",
 		"ART NA LEVEL",
-		"ART 'O' LEVEL",
+		"ART NT LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BASIC TAMIL",
@@ -46,12 +47,12 @@
 		"CHINESE N(A)",
 		"COMPUTER APPLICATIONS",
 		"COMPUTING",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"FOOD STUDIES, N LEVEL",
 		"GEOGRAPHY",
@@ -214,25 +215,25 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award"
+					"Art &amp; Craft (Bronze)": "1 Award"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2007": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
 					"Band - Concert": "Gold",
 					"Choir": "Gold",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Gold",
 					"Dance - Malay": "Bronze",
-					"Drama - English": "Silver"
+					"Drama - English": "Silver",
+					"Art &amp; Craft (Bronze)": "1 Award"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2008": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
 					"Band - Concert": "Gold",
 					"Choir": "Gold",
 					"Dance - Chinese": "Silver",
@@ -244,7 +245,7 @@
 			},
 			"2009": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Choir": "Gold (Hons)",
 					"Dance - Chinese": "Gold",
@@ -994,7 +995,115 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Commendation",
+					"Drama - Multi-Lingual": "Commendation"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1250,6 +1359,23 @@
 			"Normal Technical": [
 				"102",
 				"155",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"239",
+				"247",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"180",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"114",
+				"158",
 				"None-posted"
 			]
 		}

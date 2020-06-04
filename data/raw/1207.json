@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MR ANDY MICKEY CHOONG TEK CHOY",
 		"Vice Principal": [
-			"MDM HO JUN- LYNN",
-			"MRS NUR FATIMAH FRAUDER"
+			"MRS NUR FATIMAH FRAUDER",
+			"MDM CHRISTINE LIM MIN HUI"
 		],
 		"School Vision": "Global Learners, Discerning Citizens",
 		"School Mission": "Nurturing Hearts and Minds",
@@ -31,10 +31,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -62,9 +62,6 @@
 			"Dance - Chinese",
 			"Dance - Malay",
 			"Ensemble - Angklung/Kulintang"
-		],
-		"Clubs & Societies": [
-			"Library"
 		]
 	},
 	"SpecialProgrammes": {
@@ -124,7 +121,7 @@
 				"Development Award": "DA (Character Development)",
 				"Sustained Achievement Award": "SAA (Aesthetics)",
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Bronze",
 					"Dance - International": "Bronze",
@@ -137,7 +134,7 @@
 				"Achievement Award": "CHERISH Award",
 				"Sustained Achievement Award": "SAA (Aesthetics)",
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Bronze",
 					"Dance - International": "Silver",
@@ -151,11 +148,11 @@
 				"Achievement Award": "CHERISH Award",
 				"Sustained Achievement Award": "SAA (Aesthetics)",
 				"SYF Arts Presentation": {
-					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Bronze",
 					"Dance - International": "Silver",
 					"Dance - Malay": "Gold",
-					"Ensemble - Angklung / Kulintang": "Gold"
+					"Ensemble - Angklung / Kulintang": "Gold",
+					"Dance - Chinese": "Gold"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -208,16 +205,26 @@
 			},
 			"2018": {
 				"SYF Arts Presentation": {
-					"Dance - Malay": "Accomplishment",
 					"Art - Category C": "Recognition",
 					"Dance - Chinese": "Accomplishment",
 					"Dance - Indian": "Commendation",
 					"Dance - International": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {
+				"SYF Arts Presentation": {
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Commendation",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
 					"Ensemble - Angklung / Kulintang": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2020": {}
 		}
 	},
 	"postalCode": "768515"

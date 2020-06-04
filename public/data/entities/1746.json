@@ -16,7 +16,7 @@
 	"mrt": [
 		"Sengkang MRT"
 	],
-	"bus": "27 , 80 , 82 , 83 , 86 , 87 , 88 , 89 , 119 , 156 , 163 , 371 , 372 & 965 ",
+	"bus": "27 , 80 , 82 , 83 , 86 , 87 , 88 , 89 , 119 , 156 , 163 , 371 , 372 &amp; 965 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Seah Whye Choo",
 		"Vice Principal": "Miss Thien Li Chin",
@@ -31,11 +31,11 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -52,7 +52,7 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Basketball",
+			"Basketball (Girls)",
 			"Hockey",
 			"Softball",
 			"Track & Field"
@@ -84,33 +84,18 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category C",
 					"award": "Recognition"
@@ -147,6 +132,26 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Distinction"
 				}
@@ -193,7 +198,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 67,
 		"VACANCY FOR PHASE 2C": 173,
-		"NO. OF APPLICANTS IN PHASE 2C": 52
+		"NO. OF APPLICANTS IN PHASE 2C": 52,
+		"PLACES TAKEN UP TO PHASE 2C": 119,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 121,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 38
 	},
 	"id": "1746"
 }

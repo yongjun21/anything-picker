@@ -16,12 +16,12 @@
 	"mrt": [
 		"Admiralty MRT"
 	],
-	"bus": "913(front) , 911 & 858(back) ",
+	"bus": "913(front) , 911 &amp; 858(back) ",
 	"GeneralInformation": {
 		"Principal": "Mdm Rabiathul Bazriya D/o Abu Bakar",
 		"Vice Principal": [
 			"Mdm Yeo Siau Yen",
-			"Mrs Eunice Lim"
+			"Mr Yong Mun Chong"
 		],
 		"School Vision": "A vibrant school which inspires passion in learning and purposeful living.",
 		"School Mission": [
@@ -53,10 +53,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -94,104 +94,94 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Art - Category C",
 					"award": "Recognition"
 				},
 				{
-					"year": "2016",
+					"year": "2019",
 					"category": "Chinese Orchestra-Full Orchestra",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2019",
 					"category": "Dance - Chinese",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2019",
 					"category": "Dance - Indian",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2017",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2018",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Dance - Malay",
 					"award": "Distinction"
 				}
@@ -233,7 +223,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 5,
 		"PLACES TAKEN UP TO PHASE 2B": 99,
 		"VACANCY FOR PHASE 2C": 81,
-		"NO. OF APPLICANTS IN PHASE 2C": 81
+		"NO. OF APPLICANTS IN PHASE 2C": 81,
+		"PLACES TAKEN UP TO PHASE 2C": 180
 	},
 	"id": "1756"
 }

@@ -37,16 +37,16 @@
 		],
 		"Type of School": "Government-aided Sch / Co-ed School / Double Session",
 		"Mother Tongue": "Chinese",
-		"Affiliated Schools": "Holy Innocents' High School"
+		"Affiliated Schools": "Holy Innocents&#39; High School"
 	},
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Foundation Science",
 		"Health Education",
@@ -96,13 +96,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -113,28 +106,11 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category B",
@@ -172,6 +148,31 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
 				}
@@ -214,7 +215,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 60,
 		"PLACES TAKEN UP TO PHASE 2B": 223,
 		"VACANCY FOR PHASE 2C": 47,
-		"NO. OF APPLICANTS IN PHASE 2C": 72
+		"NO. OF APPLICANTS IN PHASE 2C": 72,
+		"PLACES TAKEN UP TO PHASE 2C": 270
 	},
 	"id": "5634"
 }

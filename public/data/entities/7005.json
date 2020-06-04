@@ -19,14 +19,11 @@
 	"bus": "40 , 62 , 63 , 80 , 100 , 125 , 134 , 155 , 158 ",
 	"GeneralInformation": {
 		"Principal": "Mr Wee Tat Chuen",
-		"Vice Principal": [
-			"Mr Eka Tanu",
-			"Mdm Loy Wee Meng"
-		],
+		"Vice Principal": "Mdm Loy Wee Meng",
 		"Vice Principal (Admin)": "Mdm Tan Sor Leng",
 		"School Vision": "Passionate Learners. Courageous Leaders. Caring Citizens.",
 		"School Mission": "With God's help, to be a beacon of light by connecting, nurturing and inspiring GEMS to make a difference.",
-		"School Philosophy, Culture and Ethos": "Founded in 1924, the School continues to stay true to its mission by developing passionate learners, courageous leaders and caring citizens who make a difference to the community.  We are a school where lives are connected and meaningful friendships are fostered. We create a caring and conducive environment for learning and teaching, where our students are inspired, lives are touched and ideas germinate and flourish, all for the purpose of making a positive influence and difference to the world around us.  We hope to see every student who graduates become useful member of society, grounded in sound moral principles.",
+		"School Philosophy, Culture and Ethos": "Founded in 1924, the School continues to stay true to its mission by developing passionate learners, courageous leaders and caring citizens who make a difference to the community. We are a school where lives are connected through meaningful friendships. We create a caring and conducive environment for learning and teaching, where our students are inspired, lives are touched and ideas germinate and flourish. We do this for the purpose of nurturing students who are grounded in sound moral principles with the disposition to learn for life and to be useful members of society by being positive influences to the world around them.",
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
@@ -47,13 +44,13 @@
 		"Combined Humanities (S,H)",
 		"Combined Humanities (S,L)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
 		"Exercise And Sports Science",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Food Studies, N Level",
 		"Geography",
@@ -117,10 +114,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Outstanding Development Award": "ODA (National Education)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Outstanding Development Award": "ODA (National Education)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -129,34 +122,12 @@
 				"Outstanding Development Award": "ODA (National Education)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -205,36 +176,32 @@
 					"year": "2018",
 					"category": "Drama - English",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 223,
-			"upper": 237,
-			"lowerAffiliated": 195,
-			"upperAffiliated": 240
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 174,
-			"upper": 196,
-			"lowerAffiliated": 153,
-			"upperAffiliated": 193
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 137,
-			"upper": 150,
-			"lowerAffiliated": 106,
-			"upperAffiliated": 149
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -306,6 +273,30 @@
 			"upper": 149,
 			"lowerAffiliated": 104,
 			"upperAffiliated": 159
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 231,
+			"upper": 253,
+			"lowerAffiliated": 197,
+			"upperAffiliated": 235
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 181,
+			"upper": 199,
+			"lowerAffiliated": 153,
+			"upperAffiliated": 192
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 143,
+			"upper": 159,
+			"lowerAffiliated": 114,
+			"upperAffiliated": 152
 		}
 	],
 	"postalCode": "389705",

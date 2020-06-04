@@ -32,7 +32,7 @@
 		"Additional Mathematics",
 		"Art Na Level",
 		"Art Nt Level",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Biology",
@@ -40,12 +40,12 @@
 		"Chinese",
 		"Chinese B",
 		"Chinese N(A)",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
@@ -85,12 +85,7 @@
 		"Visual and Performing Arts": [
 			"Band - Concert",
 			"Choir",
-			"Dance Ensemble"
-		],
-		"Clubs & Societies": [
-			"English Language Drama And Debate Society",
-			"Green Club",
-			"Media Club"
+			"Dance - Ensemble"
 		]
 	},
 	"SpecialProgrammes": {
@@ -102,13 +97,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -120,50 +108,38 @@
 				"Development Award": "DA (Character Development)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Commendation"
 				},
 				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Dance - International",
-					"award": "Distinction"
+					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Drama - English",
 					"award": "Commendation"
 				},
 				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
+					"year": "2018",
 					"category": "Band - Concert",
 					"award": "Commendation"
 				},
 				{
-					"year": "2017",
+					"year": "2018",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2017",
+					"year": "2018",
 					"category": "Drama - English",
 					"award": "Commendation"
 				},
@@ -173,49 +149,35 @@
 					"award": "Recognition"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
 					"category": "Band - Concert",
 					"award": "Commendation"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Drama - English",
-					"award": "Commendation"
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 250,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 100,
-			"upper": 145,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -285,6 +247,30 @@
 			"programme": "Normal Technical",
 			"lower": 112,
 			"upper": 156,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 244,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 186,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 105,
+			"upper": 151,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

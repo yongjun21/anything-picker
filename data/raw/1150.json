@@ -21,6 +21,7 @@
 			"MRS ZAHIRA BINTE MOHAMED SEDIK",
 			"MR KYAW SAW LYNN"
 		],
+		"Vice Principal (Admin)": "MDM LIEW KAH CHANG ALETHEA",
 		"School Vision": "Every Child a Leader of Self, and for Others, with a Passion for Excellence.",
 		"School Mission": "To Care, To Guide, To Inspire.",
 		"School Philosophy, Culture and Ethos": [
@@ -42,9 +43,9 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -181,7 +182,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"1st",
 						"-",
@@ -292,7 +293,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"1st",
 						"3rd",
 						"-",
@@ -403,7 +404,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -416,10 +417,10 @@
 					]
 				],
 				"SYF Central Judging": {
+					"Dance - Malay": "Silver",
 					"Band - Concert": "Gold",
 					"Dance - Chinese": "Bronze",
-					"Dance - Indian": "Silver",
-					"Dance - Malay": "Silver"
+					"Dance - Indian": "Silver"
 				}
 			},
 			"2009": {
@@ -494,8 +495,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold",
 					"Dance - Chinese": "Bronze",
 					"Dance - Indian": "Silver",
@@ -593,7 +594,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"1st",
 						"-",
@@ -606,8 +607,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Gold",
@@ -709,7 +710,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"2nd",
 						"-",
@@ -822,7 +823,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -926,9 +927,9 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Dance - International": "Commendation",
 					"Art - Category C": "Recognition",
-					"Band - Concert": "Accomplishment"
+					"Band - Concert": "Accomplishment",
+					"Dance - International": "Commendation"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1239,14 +1240,92 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Dance - International": "Accomplishment",
 					"Art - Category B": "Recognition",
 					"Art - Category C": "Recognition",
-					"Band-Brass": "Accomplishment"
+					"Band-Brass": "Accomplishment",
+					"Dance - International": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "569920"

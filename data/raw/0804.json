@@ -20,7 +20,7 @@
 		"Principal": "MR LO KHEE TIAN MARK",
 		"Vice Principal": [
 			"MR ANG KHENG SAN CECIL",
-			"MDM YEOW CHERN EE"
+			"MRS WHANG AI LEE"
 		],
 		"Vice Principal (Admin)": "MR CHAN KWANG HOW BERNARD",
 		"School Vision": [
@@ -35,13 +35,13 @@
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / FULL DAY",
 		"Mother Tongue": "Not Available",
 		"Affiliated Schools": [
-			"ST. ANDREW'S SECONDARY SCHOOL",
-			"ST. MARGARET'S SECONDARY SCHOOL",
+			"ST. ANDREW&#39;S SECONDARY SCHOOL",
+			"ST. MARGARET&#39;S SECONDARY SCHOOL",
 			"CHRIST CHURCH SECONDARY SCHOOL",
 			"KUO CHUAN PRESBYTERIAN SECONDARY SCHOOL",
 			"ANGLICAN HIGH SCHOOL",
 			"PRESBYTERIAN HIGH SCHOOL",
-			"ST. HILDA'S SECONDARY SCHOOL"
+			"ST. HILDA&#39;S SECONDARY SCHOOL"
 		]
 	},
 	"SubjectOffered": [
@@ -62,7 +62,7 @@
 		"H2 ART",
 		"H2 BIOLOGY",
 		"H2 CHEMISTRY",
-		"H2 CHINESE LANGUAGE & LITERATURE",
+		"H2 CHINESE LANGUAGE &amp; LITERATURE",
 		"H2 ECONOMICS",
 		"H2 FURTHER MATHEMATICS",
 		"H2 GEOGRAPHY",
@@ -70,7 +70,7 @@
 		"H2 LITERATURE IN ENGLISH",
 		"H2 MATHEMATICS",
 		"H2 PHYSICS",
-		"H2 TAMIL LANGUAGE & LITERATURE"
+		"H2 TAMIL LANGUAGE &amp; LITERATURE"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -406,9 +406,9 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Gold (Hons))": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Band - Concert": "Gold (Hons)",
 					"Choir": "Silver",
 					"Dance - International": "Gold",
@@ -506,9 +506,9 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Gold (Hons))": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Band - Concert": "Gold",
 					"Choir": "Silver",
 					"Dance - International": "Gold",
@@ -542,34 +542,6 @@
 						"'A' Div"
 					],
 					[
-						"Basketball",
-						"-",
-						"4th",
-						"-",
-						"-"
-					],
-					[
-						"Canoeing",
-						"2nd",
-						"2nd",
-						"-",
-						"-"
-					],
-					[
-						"Gymnastics (Rhythmic)",
-						"-",
-						"1st",
-						"-",
-						"-"
-					],
-					[
-						"Hockey",
-						"1st",
-						"4th",
-						"-",
-						"-"
-					],
-					[
 						"Rugby",
 						"3rd",
 						"-",
@@ -601,6 +573,34 @@
 						"Waterpolo",
 						"-",
 						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Canoeing",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"1st",
+						"4th",
 						"-",
 						"-"
 					]
@@ -1165,7 +1165,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"4th",
 						"-",
 						"-",
@@ -1320,7 +1320,75 @@
 					"Ensemble - Guitar": "Accomplishment"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Football",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"4th",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - English": "Commendation",
+					"Ensemble - Guitar": "Accomplishment"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"L1R5History": {
@@ -1423,6 +1491,20 @@
 			],
 			"Science/IB": [
 				"2",
+				"10"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2020": {
+			"Arts": [
+				"2",
+				"11"
+			],
+			"Science/IB": [
+				"3",
 				"10"
 			],
 			"Commerce": [

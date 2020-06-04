@@ -19,11 +19,8 @@
 	"bus": "911",
 	"GeneralInformation": {
 		"Principal": "Mr Toh Kim Yong Vincent",
-		"Vice Principal": [
-			"Mr Elangovan S/o V Muthoo",
-			"Mr Chua Tung Kian"
-		],
-		"School Vision": "A dynamic school that thinks and cares.",
+		"Vice Principal": "Mr Chua Tung Kian",
+		"School Vision": "A dynamic community that thinks and cares.",
 		"School Mission": "We nurture citizens of character with the passion to contribute and excel.",
 		"School Philosophy, Culture and Ethos": "Evergreen Secondary School wants to nurture our students to become Caring Leaders and Thinking Citizens. We endeavour to know every child, support them in exploring their own strengths, and affirm them of their abilities to make a difference. We believe every student who aspires to do well can succeed given the right support from parents and teachers. We recognise the importance of forging effective partnerships with our parents in addition to building a team of dedicated and competent teachers.  In preparing our students for the challenges of the 21st Century, our curriculum is innovative and forward-looking, and is undergirded by sound values. A dynamic school that thinks and cares, Evergreen Secondary School has put in place quality programmes that take into consideration student aspirations, interests, and talents. Students will be nurtured to develop a passion in what they do, and a belief that they can contribute and excel wherever they are.",
 		"Type of School": "Government School / Co-ed School / Single Session",
@@ -36,12 +33,12 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
@@ -107,47 +104,17 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Gamelan",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2017",
 					"category": "Band - Concert",
@@ -212,36 +179,42 @@
 					"year": "2018",
 					"category": "Ensemble - Guitar",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Gamelan",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 225,
-			"upper": 256,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 180,
-			"upper": 198,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 132,
-			"upper": 157,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -311,6 +284,30 @@
 			"programme": "Normal Technical",
 			"lower": 132,
 			"upper": 156,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 229,
+			"upper": 248,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 179,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 138,
+			"upper": 159,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

@@ -51,9 +51,7 @@
 		"Physical Sports": [
 			"Basketball",
 			"Floorball",
-			"Football",
-			"Softball",
-			"Tchoukball"
+			"Football"
 		],
 		"Uniformed Groups": [
 			"Brownies",
@@ -69,8 +67,7 @@
 			"Tps Theatrics In Action"
 		],
 		"Clubs & Societies": [
-			"Innovation And Enterprise Club",
-			"Weiqi Club"
+			"Innovation And Enterprise Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -985,7 +982,20 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "529426"

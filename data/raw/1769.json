@@ -31,10 +31,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -72,8 +72,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Music & Performing Arts": "Values Inculcation through the Aesthetics",
-			"Visual Arts & Design": "21st Century Competencies through Visual Arts"
+			"Science": "Environmental Science and Sustainability",
+			"Music & Performing Arts": "Values Inculcation through the Aesthetics"
 		},
 		"Special Student Development Programmes Offered": "The school is committed towards building a robust and innovative curriculum to cater to every child's diverse needs and talents. "
 	},
@@ -162,12 +162,12 @@
 			},
 			"2007": {
 				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - International": "Bronze",
 					"Dance - Malay": "Silver",
-					"Ensemble - Guitar": "Bronze",
-					"Choir": "Bronze",
-					"Dance - Chinese": "Silver"
+					"Ensemble - Guitar": "Bronze"
 				}
 			},
 			"2008": {
@@ -1042,7 +1042,99 @@
 					"Ensemble - Angklung / Kulintang": "Accomplishment"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"7th",
+						"-",
+						"8th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Commendation",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "828869"

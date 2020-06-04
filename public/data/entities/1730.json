@@ -19,10 +19,8 @@
 	"bus": "Feeder bus No. 811 from Yishun Interchange.",
 	"GeneralInformation": {
 		"Principal": "Mrs Sita Singh",
-		"Vice Principal": [
-			"Mr Ong Nai Ah Noah",
-			"Mr Muhammad Faisal B Pairin"
-		],
+		"Vice Principal": "Mr Muhammad Faisal B Pairin",
+		"Vice Principal (Admin)": "Mdm Tham Lai Peng",
 		"School Vision": "Every Individual A Leader",
 		"School Mission": "Nurturing Individuals to be Leaders to Meet New Challenges",
 		"School Philosophy, Culture and Ethos": [
@@ -36,10 +34,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -87,65 +85,59 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": "DA (National Education)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
+					"year": "2017",
+					"category": "Art - Category B",
 					"award": "Recognition"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
 					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
 					"award": "Recognition(Sm)"
 				},
 				{
-					"year": "2016",
+					"year": "2019",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2017",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2018",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				}
@@ -191,7 +183,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 2,
 		"PLACES TAKEN UP TO PHASE 2B": 94,
 		"VACANCY FOR PHASE 2C": 146,
-		"NO. OF APPLICANTS IN PHASE 2C": 112
+		"NO. OF APPLICANTS IN PHASE 2C": 112,
+		"PLACES TAKEN UP TO PHASE 2C": 206,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 34,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 81
 	},
 	"id": "1730"
 }

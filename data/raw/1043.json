@@ -13,8 +13,8 @@
 		"67635191"
 	],
 	"email": "twps@moe.edu.sg",
-	"mrt": "Chua Chu Kang MRT & LRTs",
-	"bus": "975 , 190 & 985 ",
+	"mrt": "Chua Chu Kang MRT &amp; LRTs",
+	"bus": "975 , 190 &amp; 985 ",
 	"GeneralInformation": {
 		"Principal": "MISS WONG LIANG- JI TABITHA",
 		"Vice Principal": "MDM TAN WAN PHING JANICE",
@@ -40,7 +40,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
@@ -58,27 +58,27 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Athletics",
 			"Basketball",
-			"Football",
-			"Self-Defence Sports"
+			"Self Defence Sports",
+			"Soccer",
+			"Track & Field"
 		],
 		"Uniformed Groups": [
 			"Brownies",
-			"Cadet Scouts"
+			"Scouts"
 		],
 		"Visual and Performing Arts": [
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Malay",
-			"Speech And Drama Club"
+			"Speech And Drama Society"
 		],
 		"Clubs & Societies": [
-			"Infocomm Club - Programming",
-			"Saving Gaia"
+			"Infocomm Club (Photography)",
+			"Sig-Saving Gaia"
 		],
 		"Others": [
-			"Student Council"
+			"Prefectorial Board"
 		]
 	},
 	"SpecialProgrammes": {
@@ -428,7 +428,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -619,7 +619,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"1st",
@@ -731,7 +731,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"4th",
@@ -916,7 +916,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"1st",
@@ -1014,7 +1014,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"3rd",
@@ -1113,7 +1113,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"3rd",
@@ -1133,7 +1133,15 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "688261"

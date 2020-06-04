@@ -35,12 +35,12 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -74,12 +74,12 @@
 			"Npcc"
 		],
 		"Visual and Performing Arts": [
-			"Band - Display/Marching",
-			"Dance - Modern",
+			"Band - Marching",
 			"Drama - English",
 			"Ensemble - Guitar",
 			"Ensemble - Guzheng",
-			"Festive Drums"
+			"Festive Drums",
+			"International Dance"
 		],
 		"Clubs & Societies": [
 			"Audio & Video/ Pa Club",
@@ -628,17 +628,6 @@
 						"'C' Div"
 					],
 					[
-						"Volleyball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"3rd",
-						"-",
-						"-",
-						"-"
-					],
-					[
 						"Golf",
 						"-",
 						"-",
@@ -656,6 +645,17 @@
 						"3rd",
 						"2nd",
 						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
 						"-",
 						"-",
 						"-"
@@ -1622,7 +1622,122 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band-Display": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1878,6 +1993,23 @@
 			"Normal Technical": [
 				"138",
 				"156",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"225",
+				"242",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"175",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"135",
+				"159",
 				"None-posted"
 			]
 		}

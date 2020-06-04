@@ -16,7 +16,7 @@
 	"mrt": "Bukit Batok",
 	"bus": "61 , 66 , 77 , 106 , 157 , 174 , 178 , 963 ",
 	"GeneralInformation": {
-		"Principal": "MISS CHEW TOCK LEE",
+		"Principal": "MRS YAP DAI JEE",
 		"Vice Principal": [
 			"MDM ANG CHAI TING, JESSIE",
 			"MISS SARASWATHY D/O IDAMBAN"
@@ -37,9 +37,9 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
 		"HEALTH EDUCATION",
@@ -72,7 +72,6 @@
 			"International Dance"
 		],
 		"Clubs & Societies": [
-			"Debate",
 			"Infocomm Club",
 			"International Chess",
 			"Science Club",
@@ -84,6 +83,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"Science": "INquiry Science Projects Involving Research and Experiments (I.N.S.P.I.R.E. the Scientist in Me)",
 			"Sports & Outdoor Education": "Sports4All@Keming: Character Development through Sports"
 		},
 		"Special Student Development Programmes Offered": "Learning comes alive for Kemingnites through Authentic Learning@Keming.  "
@@ -1231,10 +1231,10 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Dance - Chinese": "Distinction",
 					"Art - Category A": "Recognition",
 					"Chinese Orchestra-Full Orchestra": "Accomplishment",
-					"Dance - Malay": "Accomplishment",
-					"Dance - Chinese": "Distinction"
+					"Dance - Malay": "Accomplishment"
 				}
 			},
 			"2017": {
@@ -1415,6 +1415,17 @@
 						"Senior"
 					],
 					[
+						"Wushu",
+						"-",
+						"3rd",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
 						"Badminton",
 						"-",
 						"-",
@@ -1446,17 +1457,6 @@
 						"-",
 						"-",
 						"-"
-					],
-					[
-						"Wushu",
-						"-",
-						"3rd",
-						"2nd",
-						"1st",
-						"-",
-						"-",
-						"-",
-						"-"
 					]
 				],
 				"SYF Arts Presentation": {
@@ -1467,7 +1467,96 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "659762"

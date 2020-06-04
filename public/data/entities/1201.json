@@ -53,9 +53,7 @@
 		"Physical Sports": [
 			"Basketball",
 			"Floorball",
-			"Football",
-			"Softball",
-			"Tchoukball"
+			"Football"
 		],
 		"Uniformed Groups": [
 			"Brownies",
@@ -71,8 +69,7 @@
 			"Tps Theatrics In Action"
 		],
 		"Clubs & Societies": [
-			"Innovation And Enterprise Club",
-			"Weiqi Club"
+			"Innovation And Enterprise Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -83,10 +80,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -95,34 +88,13 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Commendation"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -179,6 +151,41 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
 				}
@@ -221,7 +228,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 2,
 		"PLACES TAKEN UP TO PHASE 2B": 90,
 		"VACANCY FOR PHASE 2C": 90,
-		"NO. OF APPLICANTS IN PHASE 2C": 94
+		"NO. OF APPLICANTS IN PHASE 2C": 94,
+		"PLACES TAKEN UP TO PHASE 2C": 180
 	},
 	"id": "1201"
 }

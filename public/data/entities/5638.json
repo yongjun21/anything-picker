@@ -37,7 +37,7 @@
 			"Our school's motto, The Best Is Yet To Be, encapsulates our aspirations to continually strive for excellence. With the strong traditions of our institution, we will continue to live up to our motto, for the glory of God.",
 			" *iHOPEFUL stands for integrity, humility, obedience, perseverance, empathy, faithfulness, unity and loyalty"
 		],
-		"Type of School": "Government-aided Sch / Boys' School / Single Session",
+		"Type of School": "Government-aided Sch / Boys&#39; School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
 			"Anglo-Chinese School (Independent)",
@@ -50,7 +50,7 @@
 		"Co-curricular Activities",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -69,7 +69,7 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton School Team",
+			"Badminton",
 			"Basketball",
 			"Floorball",
 			"Football",
@@ -110,10 +110,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -122,80 +118,89 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Art - Category A",
 					"award": "Recognition"
 				},
 				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
+					"year": "2019",
 					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
+					"award": "Recognition"
 				},
 				{
-					"year": "2017",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Choir",
 					"award": "Distinction"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Dance - International",
 					"award": "Distinction"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Ensemble - Guitar",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
 				}
@@ -238,7 +243,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 37,
 		"PLACES TAKEN UP TO PHASE 2B": 213,
 		"VACANCY FOR PHASE 2C": 27,
-		"NO. OF APPLICANTS IN PHASE 2C": 42
+		"NO. OF APPLICANTS IN PHASE 2C": 42,
+		"PLACES TAKEN UP TO PHASE 2C": 240
 	},
 	"id": "5638"
 }

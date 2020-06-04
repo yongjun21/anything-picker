@@ -19,7 +19,10 @@
 	"bus": "Bus number 962",
 	"GeneralInformation": {
 		"Principal": "Mrs Theresa Hong-Ng",
-		"Vice Principal": "Miss Tan Yit Peng",
+		"Vice Principal": [
+			"Miss Tan Yit Peng",
+			"Mdm Ho Jun Lynn"
+		],
 		"Vice Principal (Admin)": "Mdm Lee Sook Fun Evelyn",
 		"School Vision": "Learning and Leading with HEART",
 		"School Mission": "Instilling Core Values, Igniting the Love for Learning, Inspiring Excellence",
@@ -48,7 +51,8 @@
 	"Cca": {},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Innovation & Enterprise": "Curriculum Integration through Innovation@Northoakes (CI=I@northoakes)"
+			"Innovation & Enterprise": "Curriculum Integration through Innovation@Northoakes (CI=I@northoakes)",
+			"Sports & Outdoor Education": "SporTs, OutdooR Programme and Inculcation of Values Education (STRIVE) @ Northoaks"
 		},
 		"Special Student Development Programmes Offered": "We develop our child through our Special Student Development Programme - The Leader in Me - where we focus on the 7 Habits of Highly Effective People to build lifeskills in our students. Every child can be a leader and through the programme, we teach our children to be a leader of themselves, be proactive in learning and demonstrating the school core values."
 	},
@@ -73,6 +77,21 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Percussion Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				}
@@ -115,7 +134,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 55,
 		"VACANCY FOR PHASE 2C": 185,
-		"NO. OF APPLICANTS IN PHASE 2C": 26
+		"NO. OF APPLICANTS IN PHASE 2C": 26,
+		"PLACES TAKEN UP TO PHASE 2C": 81,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 159,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 8
 	},
 	"id": "1267"
 }

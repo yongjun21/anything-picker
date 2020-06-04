@@ -22,7 +22,7 @@
 		"Principal": "Mrs Mabel Leong",
 		"Vice Principal": [
 			"Mr Chan Weng Onn Martin",
-			"Mr Bambang Purnama Putra Shakni"
+			"Mr Keith Tan"
 		],
 		"School Vision": "Lifelong Learners, Exemplary Leaders",
 		"School Mission": "To nurture youth with a passion for learning, shape leaders of character and develop useful citizens through a comprehensive education",
@@ -35,7 +35,7 @@
 		"Additional Mathematics",
 		"Art",
 		"Art Na Level",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Biology",
@@ -44,11 +44,11 @@
 		"Chinese N(A)",
 		"Computer Applications",
 		"Computing",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Food Studies, N Level",
 		"Geography",
@@ -97,59 +97,25 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"STEM": [
-				"Exploring Health Sciences through SP",
-				null,
-				"A"
-			],
+			"STEM": "Exploring Health Sciences through SP2A",
 			"Community & Youth Leadership": "GEARing Springfielders for Success - Grounding in Values, Engaged to Learn and Lead, Aspiring to Serve, Ready to Soar"
 		},
 		"Special Student Development Programmes Offered": "The school's Applied Learning Programme (ALP), 'Exploring Health Sciences and Sports Sciences' aims to deepen students' knowledge and develop their interest in the Health domains (e.g. General Physiology and Nutrition). During the ALP lessons, students learn to apply the skills and knowledge learned to enhance their individual well-being and that of others. In addition, learning journeys and attachments to health science related companies are arranged for the students to experience and understand the challenges, needs and expectations of healthcare professionals. The school's Learning for Life Programme (LLP), 'GEARing Springfielders for Success', seeks to nurture students to be socially responsible and develop in them a spirit of volunteerism to make a difference to the community. Through the school's LLP which focuses on Community and Youth Leadership (CYL), the school designs learning experiences for students to acquire a critical set of skills and knowledge related to CYL. This is done through purposeful partnerships with the community partners to provide opportunities for students to transfer their learning and put into practice the skills learned."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -196,6 +162,26 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
 				}
@@ -204,30 +190,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 223,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 186,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 112,
-			"upper": 150,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -297,6 +259,30 @@
 			"programme": "Normal Technical",
 			"lower": 100,
 			"upper": 148,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 256,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 186,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 114,
+			"upper": 153,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

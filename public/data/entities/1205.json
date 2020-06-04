@@ -31,7 +31,7 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
 		"Higher Chinese",
 		"Higher Malay",
@@ -45,8 +45,6 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton",
-			"Football",
 			"Softball",
 			"Track & Field",
 			"Volleyball",
@@ -70,54 +68,25 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
+			"Interdisciplinary": "Students as Advocates of Environmental Issues in the Community",
 			"Visual Arts & Design": "Developing Higher Order Thinking Through Visual Art"
 		},
 		"Special Student Development Programmes Offered": "The Learning for Life Programme (LLP) in Xinghua Primary School centres on \"Confidence Building and Critical thinking through the Visual Arts\". The school believes that this focus is one of the key strategies to enhance the actualization of the school vision. Through participation in visual arts, pupils' creativity and curiosity to learn can be unlocked, helping them to grow a passion for learning.  Increased pupil participation in visual arts programmes will lead to more visible and tangible vibrancy as the physical presence of artworks and pupil activities throughout the school create the atmosphere. As the pupils discover more about the cultures of other races through the respective art forms and the artworks of local artists, they develop a deeper understanding of Singapore's ethnic diversity and a sense of national identity. This nurtures the pupils into sensitive and caring citizens. Not only does active participation in visual art cultivate the school values, the programme is able to promote critical thinking and communication skills among the pupils to become confident learners of the 21st century."
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category C",
 					"award": "Recognition(Sm)"
@@ -164,6 +133,31 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
 				}
@@ -208,7 +202,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 54,
 		"VACANCY FOR PHASE 2C": 126,
-		"NO. OF APPLICANTS IN PHASE 2C": 36
+		"NO. OF APPLICANTS IN PHASE 2C": 36,
+		"PLACES TAKEN UP TO PHASE 2C": 90,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 90,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 28
 	},
 	"id": "1205"
 }

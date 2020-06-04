@@ -21,15 +21,16 @@
 	],
 	"bus": "93 , 156 , 157 , 163 ",
 	"GeneralInformation": {
-		"Principal": "Mdm Tham Mun See",
+		"Principal": "Mdm Haslinda Bte Zamani",
 		"Vice Principal": [
 			"Ms Chin Jen Fu",
-			"Ms Tan Hwee Mian May"
+			"Ms Tan Hwee Mian May",
+			"Mrs Mary Cheriyan"
 		],
 		"School Vision": "To aspire, strive and dare to be active creators of a better age for all.",
 		"School Mission": "Nurturing the high ability girl to be a leader who will realise her talents in service of nation and community.",
 		"School Philosophy, Culture and Ethos": "At RGS, every student is nurtured and developed to her fullest potential. Our students journey beyond traditional boundaries in their pursuit of knowledge in a supportive environment that caters to their needs, so that they can live a fulfilling life and contribute to society.",
-		"Type of School": "Independent School / Girls' School / Single Session",
+		"Type of School": "Independent School / Girls&#39; School / Single Session",
 		"IP Partner Schools": "Raffles Institution",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -39,22 +40,18 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"English Language",
-		"Food & Design",
 		"Geography",
 		"Higher Chinese",
 		"Higher Malay",
 		"Higher Tamil",
 		"History",
-		"Inquiry & Advocacy",
 		"Literature(E)",
 		"Malay",
-		"Mathematics And Additional Mathematics",
 		"Music",
 		"Physical Education",
 		"Physics",
-		"Science (Lower Secondary)",
 		"Tamil"
 	],
 	"Cca": {
@@ -113,18 +110,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Special Awards": "LKY (NE) Award",
-				"Development Award": "PARTNERS (Merit)",
-				"Outstanding Development Award": "ODA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -140,81 +125,14 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
 					"award": "Distinction"
 				},
 				{
@@ -288,8 +206,8 @@
 					"award": "Distinction"
 				},
 				{
-					"year": "2017",
-					"category": "Dance - International",
+					"year": "2018",
+					"category": "Ensemble - Guitar",
 					"award": "Distinction"
 				},
 				{
@@ -363,8 +281,78 @@
 					"award": "Distinction"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Strings",
 					"award": "Distinction"
 				}
 			],
@@ -372,14 +360,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 260,
-			"upper": 278,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -401,6 +381,14 @@
 			"programme": "Express",
 			"lower": 259,
 			"upper": 276,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 261,
+			"upper": 282,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

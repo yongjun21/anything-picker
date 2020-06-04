@@ -33,10 +33,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -71,8 +71,8 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Music & Performing Arts": "Values Inculcation through the Aesthetics",
-			"Visual Arts & Design": "21st Century Competencies through Visual Arts"
+			"Science": "Environmental Science and Sustainability",
+			"Music & Performing Arts": "Values Inculcation through the Aesthetics"
 		},
 		"Special Student Development Programmes Offered": "The school is committed towards building a robust and innovative curriculum to cater to every child's diverse needs and talents. "
 	},
@@ -80,36 +80,6 @@
 		"Primary": {
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category A",
@@ -174,6 +144,41 @@
 					"year": "2018",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
@@ -213,7 +218,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 104,
 		"VACANCY FOR PHASE 2C": 136,
-		"NO. OF APPLICANTS IN PHASE 2C": 69
+		"NO. OF APPLICANTS IN PHASE 2C": 69,
+		"PLACES TAKEN UP TO PHASE 2C": 173,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 67,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 31
 	},
 	"id": "1769"
 }

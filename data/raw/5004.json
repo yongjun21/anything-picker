@@ -16,9 +16,11 @@
 	"mrt": "Toa Payoh",
 	"bus": "59 , 231 , 141 ",
 	"GeneralInformation": {
-		"Principal": "MRS TAN SOON KEE MARGARET",
-		"Vice Principal": "MDM MISCHA LEIGH PEREIRA",
-		"Vice Principal (Admin)": "MDM AUDREY KANG",
+		"Principal": "DR TAN SOON KEE MARGARET",
+		"Vice Principal": [
+			"MDM MISCHA LEIGH PEREIRA",
+			"MRS CHARMAINE LEE"
+		],
 		"School Vision": "A choice school providing the IJ legacy of a holistic education where girls become women of character, women for others, able to meet life's challenges with God as their Shepherd.",
 		"School Mission": "CHIJ Primary (Toa Payoh) believes in the creation of a Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of the pupils who are disadvantaged in any way.",
 		"School Philosophy, Culture and Ethos": [
@@ -43,17 +45,17 @@
 			"- Civic - Conscious and have a sense of national identity ",
 			"- Service-oriented and have a passion to serve the school and community"
 		],
-		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS' SCHOOL / SINGLE SESSION",
+		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS&#39; SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "CHIJ SECONDARY (TOA PAYOH)"
 	},
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION TAMIL",
@@ -1455,11 +1457,11 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition(Sm)",
 					"Choir": "Distinction",
 					"Dance - Indian": "Distinction",
 					"Dance - International": "Distinction",
-					"Ensemble - Handbell / Handchime": "Accomplishment",
-					"Art - Category C": "Recognition(Sm)"
+					"Ensemble - Handbell / Handchime": "Accomplishment"
 				}
 			},
 			"2017": {
@@ -1744,7 +1746,148 @@
 					"Dance - Indian": "Accomplishment"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Tennis",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
+					],
+					[
+						"Swimming",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"Jnr Optional",
+						"Jnr Novice",
+						"Junior",
+						"Senior",
+						"Jnr Elite",
+						"Jnr Devt",
+						"Junior",
+						"Senior",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"2nd",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "319765"

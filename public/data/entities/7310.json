@@ -25,7 +25,6 @@
 			"Mdm Tan Lay Gin",
 			"Mr Tan Yit Kee"
 		],
-		"Vice Principal (Admin)": "Mr Tan Kock Leong",
 		"School Vision": "An Icon of Excellence and the Pride of the Community.",
 		"School Mission": "Building Character, Expanding Minds, Shaping Lives.",
 		"School Philosophy, Culture and Ethos": "Ngee Ann Secondary is committed to be an Excellent School of the Future that develops Future Ready NASians. Students are developed to be Thinkers with Vision, Leaders of Character, and Citizens who Serve. We inculcate in students the values of Respect, Responsibility, Resilience, Care, Commitment and Integrity. As the student is the focus in Ngee Ann Secondary, programmes, activities and events are designed to be Extraordinary Experiences to meet the needs and interests of all our students. As a leading school in the use of ICT for teaching and learning, our teachers are at the forefront of pedagogical innovations, and engage students in learning through the innovative and effective use of ICT. The success of our school is largely attributed to the strong support from our parents, alumni and partners, as well as the commitment of all staff - together, we believe in doing our utmost for our students.",
@@ -44,7 +43,7 @@
 		"Chinese",
 		"Computer Applications",
 		"Computing",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"Food And Consumer Education",
@@ -102,10 +101,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -114,49 +109,13 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -245,36 +204,47 @@
 					"year": "2018",
 					"category": "Ensemble - Strings",
 					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 238,
-			"upper": 263,
-			"lowerAffiliated": 225,
-			"upperAffiliated": 242
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 193,
-			"upper": 199,
-			"lowerAffiliated": 154,
-			"upperAffiliated": 197
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 146,
-			"upper": 158,
-			"lowerAffiliated": 116,
-			"upperAffiliated": 149
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -346,6 +316,30 @@
 			"upper": 158,
 			"lowerAffiliated": 93,
 			"upperAffiliated": 131
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 238,
+			"upper": 256,
+			"lowerAffiliated": 225,
+			"upperAffiliated": 251
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 189,
+			"upper": 199,
+			"lowerAffiliated": 152,
+			"upperAffiliated": 197
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 146,
+			"upper": 155,
+			"lowerAffiliated": 121,
+			"upperAffiliated": 152
 		}
 	],
 	"postalCode": "529283",

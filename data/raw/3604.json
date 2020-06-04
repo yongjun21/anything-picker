@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MDM NG SIEW BEE",
 		"Vice Principal": [
-			"MDM KOMATHI D/O P KESAVAN",
-			"MDM NUR HIDAYANI IBRAHIM"
+			"MDM NUR HIDAYANI IBRAHIM",
+			"MDM KOMATHI D/O P KESAVAN"
 		],
 		"School Vision": "Every WRS Student is Worthy, Resilient and Selfless",
 		"School Mission": "Nurturing Self-Directed, Confident and Caring Learners",
@@ -32,18 +32,18 @@
 		"ADDITIONAL MATHEMATICS",
 		"ART",
 		"ART NA LEVEL",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELECTRONICS",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -653,13 +653,13 @@
 					"DA (National Education)"
 				],
 				"SYF Arts Presentation": {
-					"Dance - Chinese": "Distinction",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Distinction",
 					"Dance - International": "Accomplishment",
 					"Dance - Malay": "Accomplishment",
 					"Drama - English": "Accomplishment",
-					"Ensemble - Guzheng": "Distinction"
+					"Ensemble - Guzheng": "Distinction",
+					"Dance - Chinese": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -709,7 +709,18 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -965,6 +976,23 @@
 			"Normal Technical": [
 				"120",
 				"157",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"212",
+				"235",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"160",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"122",
+				"158",
 				"None-posted"
 			]
 		}

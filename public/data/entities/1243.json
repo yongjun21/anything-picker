@@ -75,19 +75,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"ODA (National Education)",
-					"Outstanding PARTNERS"
-				]
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": [
@@ -116,31 +103,6 @@
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category C",
@@ -183,6 +145,26 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
 				}
@@ -224,7 +206,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 22,
 		"PLACES TAKEN UP TO PHASE 2B": 135,
 		"VACANCY FOR PHASE 2C": 45,
-		"NO. OF APPLICANTS IN PHASE 2C": 58
+		"NO. OF APPLICANTS IN PHASE 2C": 58,
+		"PLACES TAKEN UP TO PHASE 2C": 180
 	},
 	"id": "1243"
 }

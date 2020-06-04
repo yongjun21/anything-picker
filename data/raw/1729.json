@@ -16,7 +16,7 @@
 	"mrt": "Yishun MRT Station",
 	"bus": "812 (next to bus service number 171) at Yishun Interchange",
 	"GeneralInformation": {
-		"Principal": "MR TAN CHOON KHENG",
+		"Principal": "MR JAY WESTLY MAHARDALE",
 		"Vice Principal": "MDM NEO AIK SEO",
 		"Vice Principal (Admin)": "MR FONG KIM WAH",
 		"School Vision": "Firm Foundations, Future Learnings",
@@ -37,10 +37,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -986,7 +986,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -1025,7 +1025,23 @@
 					"Dance - International": "Commendation"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition(Sm)",
+					"Choir": "Commendation",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Commendation",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment",
+					"Ensemble - Strings": "Commendation"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "769026"

@@ -13,17 +13,17 @@
 		"67593237"
 	],
 	"email": "NVPS@MOE.EDU.SG",
-	"mrt": "Yishun",
-	"bus": "Feeder Service 804 , 806 , 870 ",
+	"mrt": "Yishun Khatib",
+	"bus": "Feeder Service 804 , 806 , 807 , 860 ",
 	"GeneralInformation": {
 		"Principal": "MDM WONG MEI FOONG",
 		"Vice Principal": [
-			"MR WONG KONG CHIEW",
-			"MR HANIFF A T",
-			"MDM UE TAY SZE YIN"
+			"MDM UE TAY SZE YIN",
+			"MR RAJINDER SINGH S/O PIARA SINGH",
+			"MR HANIFF A T"
 		],
-		"School Vision": "A school whose pupils are fully developed, fully engaged and fully empathetic.",
-		"School Mission": "To develop every child to his fullest potential.",
+		"School Vision": "Passionate Learners, Caring Leaders",
+		"School Mission": "A vibrant and caring environment that empowers Northviewans to aspire, grow and excel.",
 		"School Philosophy, Culture and Ethos": [
 			"At North View Primary School, our tagline, \"We are Full-House\" essentially conveys our value proposition and commitment to our stakeholders that we will be a school that will engender an environment to develop every child to his fullest potential. We will envision to achieve the following 3 key outcomes of the school:",
 			"1. Fully developed pupils",
@@ -40,7 +40,7 @@
 			"- respecting others;",
 			"- helping others; and",
 			"- growing others",
-			"In nurturing the children entrusted to our care, we will be guided by our creed - The North View Way; \"Doing it right, Doing it well\". Through our offering of a student-centric, values-driven education, undergirded by the school core values of Integrity, Empathy, Sincerity and Resilience, we will lead our pupils to pursue excellence in character and performance in both academic and non-academic domains."
+			"In nurturing the children entrusted to our care, we will be guided by our creed - The North View Way; \"Doing it right, Doing it well\". Through our offering of a student-centric, values-driven education, undergirded by the school core values of graciousness, Integrity, Resilience, Respect and Responsibility, we will lead our pupils to pursue excellence in character and performance in both academic and non-academic domains."
 		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -49,10 +49,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION TAMIL",
@@ -70,7 +70,9 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Floorball"
+			"Basketball",
+			"Floorball",
+			"Soccer"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
@@ -80,7 +82,7 @@
 		"Visual and Performing Arts": [
 			"Choir",
 			"Creative Hands",
-			"Drama Club",
+			"Drama",
 			"Guzheng"
 		]
 	},
@@ -184,7 +186,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -206,12 +208,12 @@
 			},
 			"2008": {
 				"SYF Central Judging": {
-					"Choir": "Bronze",
-					"Dance - Chinese": "Bronze",
-					"Dance - Indian": "Gold",
 					"Dance - Malay": "Bronze",
 					"Ensemble - Guitar": "Silver",
-					"Ensemble - Guzheng": "Gold"
+					"Ensemble - Guzheng": "Gold",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Bronze",
+					"Dance - Indian": "Gold"
 				}
 			},
 			"2009": {
@@ -411,7 +413,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Gold",
@@ -427,7 +429,7 @@
 				"Achievement Award": "CHERISH Award",
 				"Sustained Achievement Award": "SAA (Aesthetics)",
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Gold",
@@ -595,7 +597,22 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "768960"

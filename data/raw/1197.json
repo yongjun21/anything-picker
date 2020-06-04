@@ -58,7 +58,7 @@
 		],
 		"Visual and Performing Arts": [
 			"24 Chinese Drumming Troupe",
-			"Art And Craft Club",
+			"Art Club",
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Indian",
@@ -66,8 +66,8 @@
 			"Ensemble - Guzheng"
 		],
 		"Clubs & Societies": [
-			"Eldds",
-			"Infocomm Club"
+			"Infocomm Club",
+			"Theatrical Arts & Mass Media"
 		]
 	},
 	"SpecialProgrammes": {
@@ -244,7 +244,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Gold",
@@ -345,7 +345,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Gold",
 					"Dance - Malay": "Silver",
@@ -462,7 +462,7 @@
 					"Dance - Malay": "Silver",
 					"Ensemble - Angklung / Kulintang": "Bronze",
 					"Ensemble - Guzheng": "Bronze",
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Dance - Chinese": "Gold"
 				}
 			},
@@ -560,7 +560,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Gold",
@@ -1305,7 +1305,100 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"2nd"
+					],
+					[
+						"Volleyball",
+						"-",
+						"1st",
+						"-",
+						"3rd",
+						"3rd",
+						"1st",
+						"2nd",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "128104"

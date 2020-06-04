@@ -30,7 +30,7 @@
 		"ADDITIONAL MATHEMATICS",
 		"ART",
 		"ART NA LEVEL",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BASIC TAMIL",
@@ -39,17 +39,17 @@
 		"CHINESE",
 		"CHINESE B",
 		"CHINESE N(A)",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -762,12 +762,12 @@
 					"SAA (Uniformed Groups)"
 				],
 				"SYF Arts Presentation": {
-					"Orchestra - Chinese": "Distinction",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Distinction",
 					"Dance - International": "Distinction",
 					"Drama - Chinese": "Distinction",
-					"Drama - English": "Distinction"
+					"Drama - English": "Distinction",
+					"Orchestra - Chinese": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -919,7 +919,19 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Distinction",
+					"Drama - English (2nd Entry)": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1175,6 +1187,23 @@
 			"Normal Technical": [
 				"126",
 				"153",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"193",
+				"229",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"156",
+				"189",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"108",
+				"154",
 				"None-posted"
 			]
 		}

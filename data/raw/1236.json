@@ -36,9 +36,9 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -79,6 +79,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"Interdisciplinary": "Project THINK (Thinking Holistic Innovative Networked Kids) for Home Earth",
 			"Sports & Outdoor Education": "Sports, Character Development and Adventure Learning Experiences @ Peiying (SCALE@PEIYING)"
 		},
 		"Special Student Development Programmes Offered": "Scale@Peiying: SCALE@Peiying is a 6-year Learning for Life Programme (LLP) that focuses on sports, character development and adventure learning. The LLP provides students with real-life experiential learning to develop their character and values, cultivate positive attitudes, self-expression and strengthen their interaction skills. Peiying has its own Adventure Tower that enables the school to carry out outdoor adventure activities regularly on the school premises. "
@@ -1181,7 +1182,15 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - International": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "768687"

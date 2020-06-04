@@ -17,12 +17,9 @@
 	"bus": "98 , 99 , 157 , 185 , 187 , 198 , 334 , 502 ",
 	"GeneralInformation": {
 		"Principal": "MR CHAN YEW WOOI",
-		"Vice Principal": [
-			"MDM TAN PEI LEE ELAINE",
-			"MR YONG MUN CHONG"
-		],
+		"Vice Principal": "MDM TAN PEI LEE ELAINE",
 		"Vice Principal (Admin)": "MR CHONG CHEE KEONG ALVIN",
-		"School Vision": "Everyone Empowered and Enlightened",
+		"School Vision": "A vibrant and nurturing community of passionate and resilient learners.",
 		"School Mission": "To nurture world-ready students with the passion to learn, lead and serve",
 		"School Philosophy, Culture and Ethos": "The school is guided by our philosophy 'Everyone can Learn, Everyone can Achieve and Everyone can Contribute' in the design of our curriculum. With this philosophy as our anchor, the school offers a rich variety of programmes that holistically prepare our students for the opportunities and challenges of life. Our student-centric learning culture is focused around the following five school learning outcomes: Our students are persons of good character who make choices based on sound values; our students are responsible contributors to the well-being of their family, community and country; our students have learned the secondary curriculum well; our students have good self-awareness of their strengths and interests; our students have effective communication and leadership skills as individuals, team members or leaders. Our team of caring teachers also nurture the students guided by the following PRIDE school values: Perseverance, Respect, Integrity, Discipline and Empathy. When these values are learned well and applied by our students in their lives, they will be the pride of our families, communities and country.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
@@ -42,13 +39,13 @@
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELECTRONICS",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -88,9 +85,8 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
+			"Angklung & Kulintang Ensemble",
 			"Band - Concert",
-			"Choir",
-			"Cultural Ensemble - Malay",
 			"Dance - International",
 			"Drama - English",
 			"Drumatix Batucada",
@@ -105,7 +101,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"STEM": "In Heath We Thrive - Connecting the Science and Skills of Health and Wellness",
+			"STEM": "Real World Learning through Electronics",
 			"Sports & Outdoor Education": "Sports for Life - Character Education through Sports Exposure, Sports Empowerment and Sports Excellence"
 		},
 		"Special Student Development Programmes Offered": "To broaden the learning experiences of students, Jurongville Secondary School plans and implements an Applied Learning Programme (ALP) and a Learning for Life Programme (LLP). The school's ALP is 'Real-World Learning Through Electronics'. Through various authentic tasks, students learn and apply concepts relating to electronics. Lower secondary students, for instance, use their knowledge to design tools and equipment that can potentially be used to improve our quality of life. Upper secondary students who wish to deepen their knowledge can also choose to offer Electronics ('O' Levels) or Smart Electrical Technology ('N' Levels). With such early exposure to electronics, our students are more ready to consider STEM (Science, Technology, Engineering, Mathematics) professional courses beyond secondary schools. "
@@ -306,12 +302,12 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Ensemble - Angklung / Kulintang": "Bronze",
-					"Orchestra - Chinese": "Bronze",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
-					"Dance - Malay": "Silver"
+					"Dance - Malay": "Silver",
+					"Ensemble - Angklung / Kulintang": "Bronze",
+					"Orchestra - Chinese": "Bronze"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1641,7 +1637,126 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Drama - English (2nd Entry)": "Commendation",
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Mixed Ensemble": "Distinction",
+					"Choir": "Commendation",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Commendation",
+					"Ensemble - Angklung / Kulintang": "Distinction",
+					"Ensemble - Guzheng": "Commendation"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1897,6 +2012,23 @@
 			"Normal Technical": [
 				"133",
 				"156",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"202",
+				"225",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"160",
+				"192",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"134",
+				"159",
 				"None-posted"
 			]
 		}

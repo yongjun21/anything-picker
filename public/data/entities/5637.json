@@ -20,19 +20,19 @@
 	"bus": "15 , 55 , 36 , 16 , 135 , 197 , 196 , 31 , 13 , 76 , 12 , 10 , 14 , 32 , 40 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Chua Sook Lian Judina",
-		"Vice Principal": "Mdm Ariken Charmaine Carrie",
+		"Vice Principal": "Mrs Tan Poh Kuan Joycelyn",
 		"Vice Principal (Admin)": "Mr Koh Kum Weng",
 		"School Vision": "FROM GIRLS TO WOMEN OF GRACE AND SUBSTANCE",
 		"School Mission": "WE, AT CHIJ KATONG PRIMARY BELIEVE IN THE CREATION OF A CHRIST-CENTRED COMMUNITY WHERE ALL WORK TOGETHER FOR THE PROMOTION OF TRUTH, JUSTICE, FREEDOM AND LOVE, WITH SPECIAL REFERENCE TO THE NEEDS OF PERONS WHO ARE DISADVANTAGED IN ANY WAY.",
 		"School Philosophy, Culture and Ethos": "Provide a well-rounded education to all pupils by caring and concerned teachers in a Christian atmosphere conducive to learning and where each child's unique talents and potential are valued.",
-		"Type of School": "Government-aided Sch / Girls' School / Single Session",
+		"Type of School": "Government-aided Sch / Girls&#39; School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "CHIJ Katong Convent"
 	},
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
 		"Foundation Chinese",
@@ -57,7 +57,6 @@
 			"Netball",
 			"Sailing",
 			"Sports Club",
-			"Swimming",
 			"Ten-Pin Bowling",
 			"Track & Field"
 		],
@@ -68,19 +67,18 @@
 			"Art Club",
 			"Choir",
 			"Dance Club",
-			"Drama Club",
 			"Handbell Ensemble"
 		],
 		"Clubs & Societies": [
-			"Cultural Club",
-			"Home Management",
-			"Infocomm Club",
-			"Science Club"
+			"Eureka Club",
+			"Home Crafts Club",
+			"Innovation Club"
 		]
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Languages": "Competent, Confident and Respectful Communicators"
+			"Languages": "Competent, Confident and Respectful Communicators",
+			"Others": "Community Student Leadership"
 		},
 		"Special Student Development Programmes Offered": "Applied Learning Programme: Competent, Confident and Respectful Communicators"
 	},
@@ -88,26 +86,6 @@
 		"Primary": {
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category A",
@@ -157,6 +135,26 @@
 					"year": "2018",
 					"category": "Art - Category A",
 					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
@@ -180,6 +178,7 @@
 		"TM"
 	],
 	"specialNeeds": [],
+	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 200,
 		"VACANCY FOR PHASE 1": 160,
@@ -195,7 +194,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 25,
 		"PLACES TAKEN UP TO PHASE 2B": 88,
 		"VACANCY FOR PHASE 2C": 112,
-		"NO. OF APPLICANTS IN PHASE 2C": 40
+		"NO. OF APPLICANTS IN PHASE 2C": 40,
+		"PLACES TAKEN UP TO PHASE 2C": 128,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 72,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 21
 	},
 	"id": "5637"
 }

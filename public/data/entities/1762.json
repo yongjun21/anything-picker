@@ -20,8 +20,8 @@
 	"GeneralInformation": {
 		"Principal": "Miss Ang Mui Khoong",
 		"Vice Principal": [
-			"Mrs Ong Chwee Eng Nee Lim",
-			"Mdm Wong Wei Yong"
+			"Mdm Wong Wei Yong",
+			"Mdm Sim Ee Koon Patricia"
 		],
 		"School Vision": [
 			"Reflective Learners, Gracious Citizens",
@@ -69,9 +69,9 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -91,13 +91,10 @@
 			"Floorball",
 			"Football",
 			"Sport Climbing Modular",
-			"Table Tennis",
-			"Taekwondo",
 			"Wushu"
 		],
 		"Uniformed Groups": [
-			"Boys' Brigade",
-			"Brownies"
+			"Boys' Brigade"
 		],
 		"Visual and Performing Arts": [
 			"Artists' Hub",
@@ -120,90 +117,80 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Art - Category C",
 					"award": "Recognition"
 				},
 				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2017",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Choir",
 					"award": "Distinction"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Distinction"
 				}
 			],
@@ -244,7 +231,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 4,
 		"PLACES TAKEN UP TO PHASE 2B": 74,
 		"VACANCY FOR PHASE 2C": 106,
-		"NO. OF APPLICANTS IN PHASE 2C": 58
+		"NO. OF APPLICANTS IN PHASE 2C": 58,
+		"PLACES TAKEN UP TO PHASE 2C": 132,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 48,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 38
 	},
 	"id": "1762"
 }

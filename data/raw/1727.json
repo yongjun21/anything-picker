@@ -16,7 +16,7 @@
 	"mrt": "Tampines West (Downtown Line); Tampines (EW Line)",
 	"bus": "5 , 8 , 10 , 15 , 18 , 21 , 22 , 23 , 27 , 28 , 31 , 34 , 39 , 59 , 65 , 67 , 168 , 292 , 293 ",
 	"GeneralInformation": {
-		"Principal": "MISS CHIAM LEE MENG",
+		"Principal": "MR CHAN WENG CHEONG",
 		"Vice Principal": [
 			"MDM HO LAY YEN JENNY",
 			"MRS KWOK SIEW LIAN"
@@ -39,7 +39,7 @@
 		"CHINESE",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -75,8 +75,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Languages": "Developing Every Student into a Confident Communicator",
-			"Sports & Outdoor Education": "Shaping Individuals to Excel (SHINE) @ Junyuan through Sports"
+			"Languages": "Developing Every Pupil into a Confident Communicator",
+			"Music & Performing Arts": "Mind, Body and Soul"
 		},
 		"Special Student Development Programmes Offered": "Applied Learning Programme : DEVELOPING EVERY STUDENT INTO A CONFIDENT COMMUNICATOR"
 	},
@@ -621,7 +621,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Gold (Hons)",
 					"Dance - Chinese": "Silver",
 					"Dance - Malay": "Gold"
@@ -718,7 +718,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Gold (Hons)",
 					"Dance - Chinese": "Gold",
 					"Dance - Malay": "Gold"
@@ -1289,7 +1289,86 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "528906"

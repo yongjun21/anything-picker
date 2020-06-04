@@ -35,7 +35,7 @@
 	"SubjectOffered": [
 		"ART",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -52,8 +52,7 @@
 			"Badminton",
 			"Basketball",
 			"Football",
-			"Netball",
-			"Tchoukball"
+			"Netball"
 		],
 		"Uniformed Groups": [
 			"Brownies",
@@ -64,15 +63,13 @@
 			"Chinese Dance",
 			"Choir",
 			"Indian Dance",
-			"International Dance",
+			"International",
 			"Malay Dance"
 		],
 		"Clubs & Societies": [
-			"English Club",
+			"Drama Club",
 			"It/Media Club",
-			"Mathematics Club",
-			"Robotics Club",
-			"Science  & Environment Club"
+			"Robotics Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -277,7 +274,20 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass Ensemble": "Accomplishment",
+					"Band-Percussion Ensemble": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "148812"

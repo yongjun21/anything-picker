@@ -29,10 +29,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -144,17 +144,6 @@
 						"Senior"
 					],
 					[
-						"Table Tennis",
-						"-",
-						"2nd",
-						"-",
-						"-",
-						"2nd",
-						"2nd",
-						"3rd",
-						"-"
-					],
-					[
 						"Badminton",
 						"4th",
 						"4th",
@@ -163,6 +152,17 @@
 						"3rd",
 						"3rd",
 						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"3rd",
 						"-"
 					],
 					[
@@ -448,8 +448,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "2 Awards",
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
 					"Ensemble - Guzheng": "Gold (Hons)",
@@ -540,8 +540,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "2 Awards",
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Bronze",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
@@ -642,8 +642,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
@@ -744,8 +744,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Gold",
 					"Dance - Chinese": "Gold (Hons)",
 					"Ensemble - Guzheng": "Gold",
@@ -1370,7 +1370,142 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"2nd",
+						"3rd",
+						"2nd",
+						"1st"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"1st"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
+					],
+					[
+						"Swimming",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition(Sm)",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Commendation",
+					"Dance - Chinese": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "399772"

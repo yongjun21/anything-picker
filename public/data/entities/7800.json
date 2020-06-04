@@ -14,14 +14,14 @@
 	],
 	"email": "enquire@sportsschool.edu.sg",
 	"mrt": [
-		"Woodlands MRT"
+		"Woodlands MRT",
+		"Woodlands South MRT"
 	],
-	"bus": "900A , 901 ",
+	"bus": "665 , 900A , 901 , 901M ",
 	"GeneralInformation": {
-		"Principal": "Mr Tan Teck Hock",
+		"Principal": "Mr Ong Kim Soon",
 		"Vice Principal": [
 			"Mr Ho Beng Kiat",
-			"Mr Danny Chew Poh Huat",
 			"Miss Low Ying Xiu"
 		],
 		"School Vision": "Nurturing Learned Champions With Character",
@@ -62,56 +62,6 @@
 		"Junior College": {
 			"Sports & Games Competition": [
 				{
-					"year": "2016",
-					"category": "Fencing",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Golf",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Swimming",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
 					"year": "2017",
 					"category": "Fencing",
 					"subCategory": [
@@ -183,7 +133,7 @@
 				},
 				{
 					"year": "2017",
-					"category": "Track & Field",
+					"category": "Track &amp; Field",
 					"subCategory": [
 						"National",
 						"Girls",
@@ -253,13 +203,63 @@
 				},
 				{
 					"year": "2018",
-					"category": "Track & Field",
+					"category": "Track &amp; Field",
 					"subCategory": [
 						"National",
 						"Girls",
 						"'A' Div"
 					],
 					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Fencing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2019",
+					"category": "Fencing",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Golf",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Shooting (Air Rifle)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Track &amp; Field",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [],

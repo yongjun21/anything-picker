@@ -22,7 +22,7 @@
 			"MRS TEO-TAY CHAI HONG"
 		],
 		"School Vision": "ONE.Home.School.Community: One in Truth and Charity, HSC is a Home where hearts belong, a School where students shine forth, and a Community that leads, cares and serves.",
-		"School Mission": "With God in our presence, we strive to create a family of compassionate persons imbibed with integrity. We strive to cultivate confident and independent learners who are adaptable and gracious.",
+		"School Mission": "With GOD in our presence, we guide our students to seek their true purpose in life, we imbue them with school values and equip them with the hearts and minds to live out their purpose to be a positive force in the world beyond.",
 		"School Philosophy, Culture and Ethos": "Hai Sing Catholic School was founded in 1959 by the Franciscan Missionaries of Mary (FMM). In Hai Sing, we believe that every HAIsian is a child of God, blessed with talents and a unique identity and will become a person with integrity and compassion who contributes to a better world. Every HAIsian will be the culmination of his/her experiences and is to be given deserved care and opportunities. Our teachers are exemplary in their love for the students, take ownership of their responsibilities and learning to constantly seek better and more effective ways to enhance students' learning experiences. With students and staff as our focus and excellence our pursuit, we work with persistence in unison, using innovative and exciting approaches to transform the WHOLE school experience for every HAIsian.",
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -37,10 +37,10 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -52,6 +52,7 @@
 		"MATHEMATICS",
 		"MUSIC",
 		"PHYSICAL EDUCATION",
+		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
@@ -59,11 +60,10 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Archery",
 			"Athletics",
 			"Badminton (Boys)",
+			"Floorball",
 			"Golf",
-			"Taekwondo",
 			"Ten-Pin Bowling",
 			"Volleyball(Girls)"
 		],
@@ -291,11 +291,11 @@
 					]
 				],
 				"SYF Central Judging": {
+					"Drama - English": "Bronze",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - International": "Silver",
-					"Dance - Malay": "Silver",
-					"Drama - English": "Bronze"
+					"Dance - Malay": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -803,11 +803,11 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Drama - English": "Accomplishment",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Distinction",
 					"Dance - International": "Accomplishment",
-					"Dance - Malay": "Distinction",
-					"Drama - English": "Accomplishment"
+					"Dance - Malay": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1030,7 +1030,17 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1286,6 +1296,23 @@
 			"Normal Technical": [
 				"127",
 				"157",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"225",
+				"241",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"172",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"119",
+				"158",
 				"None-posted"
 			]
 		}

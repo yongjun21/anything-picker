@@ -31,16 +31,16 @@
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
-			"ST. JOSEPH'S INSTITUTION",
-			"ST. PATRICK'S SCHOOL"
+			"ST. JOSEPH&#39;S INSTITUTION",
+			"ST. PATRICK&#39;S SCHOOL"
 		]
 	},
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -82,8 +82,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Visual Arts & Design": "Visual Arts Programme for Active Learning (VAPAL)",
-			"Sports & Outdoor Education": "LEARN.PLAY.GROW – ‘Developing Character through Sports’ Programme"
+			"STEM": "CODE@SAPS",
+			"Visual Arts & Design": "Visual Arts Programme for Active Learning (VAPAL)"
 		},
 		"Special Student Development Programmes Offered": "To achieve our Mission and Vision, the required competencies, skills and attitudes are inculcated in our pupils through key programmes such as:"
 	},
@@ -189,8 +189,8 @@
 			},
 			"2009": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "2 Awards",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Gold (Hons)",
@@ -270,8 +270,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "2 Awards",
 					"Band - Concert": "Gold",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold",
@@ -352,8 +352,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold (Hons))": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold",
@@ -434,8 +434,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold (Hons))": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - Chinese": "Gold",
@@ -978,7 +978,18 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "659401"

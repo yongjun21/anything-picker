@@ -26,7 +26,7 @@
 		],
 		"School Vision": "Leaders for Tomorrow, Anchored in Values, Committed to Serve.",
 		"School Mission": "To nurture all Queenstownians to R2ISE as future-ready leaders, actively contributing to society.",
-		"School Philosophy, Culture and Ethos": "We believe in the unique worth of the individual, the enhancement of his well-being and the symbiotic relation between him and society. This philosophy is built on the foundation, 'Every Child Worthy and Every Teacher Transformational', anchored in our 5 core values of Resilience, Respect, Integrity, Service and Excellence.",
+		"School Philosophy, Culture and Ethos": "We believe in the unique worth of the individual, the enhancement of his well-being and the symbiotic relationship between him and society. This philosophy is built on the foundation, 'Every Child Worthy and Every Teacher Transformational', anchored in our 5 core values of Resilience, Respect, Integrity, Service and Excellence.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -38,16 +38,17 @@
 		"Basic Chinese",
 		"Basic Malay",
 		"Basic Tamil",
+		"Biology",
 		"Chemistry",
 		"Chinese",
 		"Chinese N(A)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Humanities (Ss, Geography)",
@@ -60,7 +61,6 @@
 		"Mathematics (Syllabus T)",
 		"Physics",
 		"Principles Of Accounts",
-		"Science (Chem, Bio)",
 		"Science (Phy, Bio)",
 		"Science (Phy, Chem)",
 		"Science (Syll T)",
@@ -107,49 +107,18 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Development Award": "DA (National Education)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -201,6 +170,31 @@
 				},
 				{
 					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Drama - English",
 					"award": "Accomplishment"
 				}
@@ -209,30 +203,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 189,
-			"upper": 252,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 157,
-			"upper": 191,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 128,
-			"upper": 155,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -302,6 +272,30 @@
 			"programme": "Normal Technical",
 			"lower": 103,
 			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 191,
+			"upper": 225,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 188,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 120,
+			"upper": 149,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

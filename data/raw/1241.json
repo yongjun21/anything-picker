@@ -46,10 +46,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -67,7 +67,7 @@
 		"Physical Sports": [
 			"Badminton",
 			"Football",
-			"Track & Field"
+			"Multi Sports"
 		],
 		"Uniformed Groups": [
 			"Boys' Brigade",
@@ -253,7 +253,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Indian": "Silver",
@@ -334,13 +334,13 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Indian": "Silver",
 					"Dance - International": "Bronze",
 					"Dance - Malay": "Gold",
-					"Orchestra - Chinese": "Gold"
+					"Orchestra - Chinese": "Gold",
+					"Art &amp; Craft (Silver)": "1 Award"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -427,7 +427,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Indian": "Silver",
@@ -509,7 +509,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Indian": "Silver",
@@ -614,7 +614,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"1st",
@@ -627,8 +627,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Indian": "Silver",
@@ -715,8 +715,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Gold",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Gold",
@@ -906,6 +906,17 @@
 						"Senior"
 					],
 					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"3rd"
+					],
+					[
 						"Football",
 						"-",
 						"1st",
@@ -926,26 +937,15 @@
 						"-",
 						"-",
 						"-"
-					],
-					[
-						"Badminton",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"4th",
-						"3rd"
 					]
 				],
 				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
 					"Dance - Chinese": "Distinction",
 					"Dance - Indian": "Accomplishment",
 					"Dance - Malay": "Distinction",
 					"Orchestra - Chinese": "Distinction",
-					"Choir": "Distinction",
-					"Art - Category A": "Recognition"
+					"Choir": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1168,7 +1168,88 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "689762"

@@ -17,8 +17,10 @@
 	"bus": "Bus 293 , 72 , 27 and 168 ",
 	"GeneralInformation": {
 		"Principal": "MR MAH SENG THONG ANDREW",
-		"Vice Principal": "MDM PEH TAN WEE",
-		"Vice Principal (Admin)": "MISS CHUA MEI LI",
+		"Vice Principal": [
+			"MDM PEH TAN WEE",
+			"MISS TAN SEOK KUAN"
+		],
 		"School Vision": "To be a premier SAP school",
 		"School Mission": "To nurture morally upright, effectively bilingual and concerned citizens",
 		"School Philosophy, Culture and Ethos": [
@@ -36,7 +38,7 @@
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
 		"HEALTH EDUCATION",
@@ -63,9 +65,9 @@
 		"Visual and Performing Arts": [
 			"Art And Craft Club",
 			"Chinese Calligraphy And Brush Painting",
+			"Chinese Dance",
 			"Chinese Drums",
-			"Dance - Chinese",
-			"Orchestra - Chinese"
+			"Chinese Orchestra"
 		],
 		"Clubs & Societies": [
 			"Science Club"
@@ -76,6 +78,7 @@
 			"SAP"
 		],
 		"School Distinctive Programmes": {
+			"Languages": "Developing a Bilingual and Effective Speaker and wriTer in every pupil (BEST)",
 			"Music & Performing Arts": "D’ARTS@PCS"
 		},
 		"Special Student Development Programmes Offered": "Bi-Cultural Programme"
@@ -244,28 +247,6 @@
 						"Senior"
 					],
 					[
-						"Volleyball",
-						"3rd",
-						"-",
-						"-",
-						"-",
-						"1st",
-						"1st",
-						"2nd",
-						"2nd"
-					],
-					[
-						"Wushu",
-						"-",
-						"1st",
-						"-",
-						"3rd",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
 						"Badminton",
 						"4th",
 						"-",
@@ -286,13 +267,35 @@
 						"-",
 						"-",
 						"4th"
+					],
+					[
+						"Volleyball",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"2nd",
+						"2nd"
+					],
+					[
+						"Wushu",
+						"-",
+						"1st",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
 					]
 				],
 				"SYF Central Judging": {
-					"Dance - International": "Gold (Hons)",
-					"Orchestra - Chinese": "Silver",
 					"Band - Concert": "Silver",
-					"Dance - Chinese": "Gold"
+					"Dance - Chinese": "Gold",
+					"Dance - International": "Gold (Hons)",
+					"Orchestra - Chinese": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -458,8 +461,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "2 Awards",
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - International": "Gold (Hons)",
@@ -561,8 +564,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "2 Awards",
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - International": "Gold (Hons)",
@@ -657,8 +660,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - International": "Gold (Hons)",
@@ -775,8 +778,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - International": "Gold (Hons)",
@@ -964,17 +967,6 @@
 						"Senior"
 					],
 					[
-						"Badminton",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"4th",
-						"-",
-						"-"
-					],
-					[
 						"Table Tennis",
 						"-",
 						"-",
@@ -995,6 +987,17 @@
 						"2nd",
 						"3rd",
 						"2nd"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
 					]
 				],
 				"SYF Arts Presentation": {
@@ -1426,7 +1429,121 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"3rd"
+					],
+					[
+						"Wushu",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "529067"

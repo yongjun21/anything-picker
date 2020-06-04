@@ -17,11 +17,8 @@
 	"bus": "53 , 62 , 113 , 45 ",
 	"GeneralInformation": {
 		"Principal": "MRS JOYCE ANG",
-		"Vice Principal": [
-			"MR YAP LIH MIN SAMUEL",
-			"MS POH HWEE THING"
-		],
-		"Vice Principal (Admin)": "MDM GINNY CHUA GEOK HONG",
+		"Vice Principal": "MR YAP LIH MIN SAMUEL",
+		"Vice Principal (Admin)": "MDM TEO YONG HUA SHIRLEY",
 		"School Vision": "An outstanding school of choice producing women of fine character with a passion for life and learning",
 		"School Mission": "To nurture every PL Lite into a whole person who lives in favour with God and man.",
 		"School Philosophy, Culture and Ethos": [
@@ -30,17 +27,17 @@
 			"Undergirding these two tenets is the key emphasis on the use of experiential learning. PL teachers design authentic settings for learning so that our girls will grow to become Confident Leaders, Global Citizens and Creative Problem-solvers. ",
 			"Together with the Board, Alumni, Parents and PLMGS (Sec), the school builds a strong culture which we name the PL Spirit. This PL Spirit fosters a strong school identity and safe learning environment which enable the girls to blossom as they grow under the care of their teachers and love of their peers."
 		],
-		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS' SCHOOL / SINGLE SESSION",
+		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS&#39; SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
-		"Affiliated Schools": "PAYA LEBAR METHODIST GIRLS' SCHOOL (SECONDARY)"
+		"Affiliated Schools": "PAYA LEBAR METHODIST GIRLS&#39; SCHOOL (SECONDARY)"
 	},
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -74,7 +71,8 @@
 			"String Ensemble"
 		],
 		"Clubs & Societies": [
-			"Christian Fellowship"
+			"Christian Fellowship",
+			"Science Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -364,7 +362,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - International": "Silver",
 					"Ensemble - Angklung / Kulintang": "Gold",
@@ -466,7 +464,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Gold",
 					"Dance - International": "Silver",
 					"Ensemble - Angklung / Kulintang": "Gold",
@@ -568,9 +566,9 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Gold (Hons))": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Gold",
 					"Dance - International": "Silver",
 					"Ensemble - Angklung / Kulintang": "Gold",
@@ -639,6 +637,17 @@
 						"Senior"
 					],
 					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th"
+					],
+					[
 						"Rope Skipping",
 						"-",
 						"-",
@@ -659,28 +668,17 @@
 						"-",
 						"4th",
 						"-"
-					],
-					[
-						"Badminton",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"3rd",
-						"4th"
 					]
 				],
 				"SYF Central Judging": {
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
+					"Choir": "Gold",
 					"Dance - International": "Silver",
 					"Ensemble - Angklung / Kulintang": "Silver",
 					"Ensemble - Guzheng": "Gold",
-					"Ensemble - Handbell / Handchime": "Gold",
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Gold (Hons))": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
-					"Choir": "Gold"
+					"Ensemble - Handbell / Handchime": "Gold"
 				}
 			},
 			"2011": {
@@ -813,7 +811,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Gold",
 					"Dance - International": "Silver",
 					"Ensemble - Angklung / Kulintang": "Silver",
@@ -925,7 +923,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Gold (Hons)",
 					"Dance - International": "Silver",
 					"Ensemble - Angklung / Kulintang": "Silver",
@@ -1137,13 +1135,13 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Ensemble - Angklung / Kulintang": "Accomplishment",
 					"Art - Category A": "Recognition(Sm)",
 					"Art - Category C": "Recognition",
 					"Choir": "Distinction",
 					"Dance - International": "Accomplishment",
 					"Ensemble - Handbell / Handchime": "Distinction",
-					"Ensemble - Strings": "Accomplishment"
+					"Ensemble - Strings": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1260,7 +1258,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -1407,7 +1405,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -1542,7 +1540,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -1708,7 +1706,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -1761,7 +1759,173 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
+					],
+					[
+						"Track &amp; Field",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					],
+					[
+						"",
+						"Jnr Optional",
+						"Jnr Novice",
+						"Junior",
+						"Senior",
+						"Jnr Elite",
+						"Jnr Devt",
+						"Junior",
+						"Senior",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Distinction",
+					"Ensemble - Handbell / Handchime": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "536741"

@@ -36,14 +36,14 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
@@ -100,47 +100,22 @@
 			"STEM": "Inspire through Scientific Innovation and Enterprise",
 			"Sports & Outdoor Education": "Lead through Outdoor and Sporting Adventures"
 		},
-		"Special Student Development Programmes Offered": "Our school is committed to nurturing Unitians to become lifelong learners and inspiring leaders. Key programmes such as the Young Scientists Programme, Advanced Mathematics Programme, Leaders of English Programme and Unity Humanities Programme integrate learning and stretch the potential of our students in their academic learning.  The school conducts an Applied Learning Programme (ALP) for all its students to develop in them a scientific mindset of innovation and enterprise. The Programme focuses on real-world problem-solving through the application of science and problem-solving processes such as design thinking, scientific methods and research skills. The ALP is conducted in collaboration with tertiary institutions and research agencies."
+		"Special Student Development Programmes Offered": "Our school is committed to nurturing Unitians to become lifelong learners and inspiring leaders. Key programmes such as the Young Scientists Programme, Advanced Mathematics Programme, Leaders of English Programme and Unity Humanities Programme integrate learning and stretch the potential of our students in their academic learning.  The school conducts an Applied Learning Programme (ALP) on 'Biotechnology in Food Sustainability' for all its students to develop in them a scientific mindset of innovation and enterprise. The Programme focuses on real-world problem-solving through the application of science and problem-solving processes such as design thinking, scientific methods and research skills. The ALP is conducted in collaboration with tertiary institutions and research agencies."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Indian",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -187,6 +162,31 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Indian",
 					"award": "Accomplishment"
 				}
@@ -195,30 +195,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 219,
-			"upper": 240,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 176,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 113,
-			"upper": 158,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -287,6 +263,30 @@
 			"year": "2019",
 			"programme": "Normal Technical",
 			"lower": 128,
+			"upper": 151,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 219,
+			"upper": 251,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 169,
+			"upper": 187,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 104,
 			"upper": 151,
 			"lowerAffiliated": null,
 			"upperAffiliated": null

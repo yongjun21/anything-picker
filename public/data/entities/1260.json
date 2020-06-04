@@ -20,8 +20,8 @@
 	"GeneralInformation": {
 		"Principal": "Dr Ang Wek Cheng",
 		"Vice Principal": [
-			"Mr Chua Chye Hock",
-			"Mdm Sharifah Samirah Bte Syed Mohamad"
+			"Mdm Sharifah Samirah Bte Syed Mohamad",
+			"Mr Goh Zensen"
 		],
 		"Vice Principal (Admin)": "Mr Chong Wee Ming",
 		"School Vision": [
@@ -73,21 +73,21 @@
 	],
 	"Cca": {
 		"Physical Sports": [
+			"Adventure Club",
 			"Badminton",
 			"Floorball",
-			"Sports & Adventure Club",
 			"Wushu"
 		],
 		"Uniformed Groups": [
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
+			"Art And Craft Club",
 			"Choir",
-			"Ethnic Dance",
-			"Young Artist's Club"
+			"Dance - Ethnic"
 		],
 		"Clubs & Societies": [
-			"Service & Interact Club"
+			"Service Learning Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -98,27 +98,17 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category B",
@@ -146,6 +136,26 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
 				}
@@ -187,7 +197,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 2,
 		"PLACES TAKEN UP TO PHASE 2B": 159,
 		"VACANCY FOR PHASE 2C": 121,
-		"NO. OF APPLICANTS IN PHASE 2C": 105
+		"NO. OF APPLICANTS IN PHASE 2C": 105,
+		"PLACES TAKEN UP TO PHASE 2C": 263,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 17,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 25
 	},
 	"id": "1260"
 }

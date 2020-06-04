@@ -14,7 +14,7 @@
 	],
 	"email": "XINGNAN_PS@MOE.EDU.SG",
 	"mrt": "Pioneer MRT Station",
-	"bus": "Bus 99 & 241",
+	"bus": "Bus 99 &amp; 241",
 	"GeneralInformation": {
 		"Principal": "MR CHAN GEOK ANN CHARLES",
 		"Vice Principal": [
@@ -34,11 +34,11 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION TAMIL",
@@ -67,7 +67,6 @@
 		],
 		"Visual and Performing Arts": [
 			"Band - Brass",
-			"Choir",
 			"Dance - Chinese",
 			"Dance - Indian",
 			"Dance - International",
@@ -87,6 +86,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"Science": "Xingnan Explorers",
 			"Music & Performing Arts": "FLAIR@XINGNAN – An experience with Performing Arts"
 		},
 		"Special Student Development Programmes Offered": "Modular-CCA"
@@ -177,12 +177,12 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Dance - International": "Silver",
-					"Dance - Malay": "Silver",
-					"Orchestra - Chinese": "Bronze",
 					"Band - Concert": "Gold",
 					"Dance - Chinese": "Silver",
-					"Dance - Indian": "Silver"
+					"Dance - Indian": "Silver",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Silver",
+					"Orchestra - Chinese": "Bronze"
 				}
 			},
 			"2007": {
@@ -257,13 +257,13 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Band - Concert": "Gold",
-					"Dance - Chinese": "Silver",
-					"Dance - Indian": "Silver",
 					"Dance - International": "Silver",
 					"Dance - Malay": "Silver",
-					"Orchestra - Chinese": "Bronze"
+					"Orchestra - Chinese": "Bronze",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Band - Concert": "Gold",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver"
 				}
 			},
 			"2008": {
@@ -338,7 +338,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Gold",
 					"Choir": "Bronze",
 					"Dance - Indian": "Bronze",
@@ -372,8 +372,8 @@
 				"Development Award": "DA (Character Development)",
 				"Sustained Achievement Award": "SAA (Aesthetics)",
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
@@ -387,8 +387,8 @@
 				"Development Award": "DA (Character Development)",
 				"Sustained Achievement Award": "SAA (Aesthetics)",
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold (Hons)",
 					"Choir": "Bronze",
 					"Dance - Indian": "Bronze",
@@ -824,14 +824,14 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Dance - Chinese": "Distinction",
 					"Art - Category C": "Recognition",
 					"Band-Brass": "Distinction",
 					"Band-Percussion Ensemble": "Accomplishment",
 					"Choir": "Commendation",
 					"Dance - Indian": "Distinction",
 					"Dance - International": "Accomplishment",
-					"Dance - Malay": "Accomplishment",
-					"Dance - Chinese": "Distinction"
+					"Dance - Malay": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -927,7 +927,99 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st"
+					],
+					[
+						"Basketball",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "649036"

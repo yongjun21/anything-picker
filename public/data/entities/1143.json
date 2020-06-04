@@ -21,8 +21,8 @@
 	"GeneralInformation": {
 		"Principal": "Mr Ng Aik Boon",
 		"Vice Principal": [
-			"Mdm Poh Lee Siew",
-			"Mr Chan Tuck Cheong"
+			"Mr Chan Tuck Cheong",
+			"Mdm Ramachandra Suguna"
 		],
 		"School Vision": "Empowering Mind, Engaging Heart, Extending Hands",
 		"School Mission": "To nurture Confident and Self-Directed Learners who are Keen to Serve",
@@ -41,7 +41,7 @@
 		"Chinese",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -73,7 +73,8 @@
 			"Dance - Malay/International",
 			"Ensemble - Angklung",
 			"Ensemble - Handbell/Handchime",
-			"Infocomm Club"
+			"Infocomm Club",
+			"Musical Cast 2020"
 		]
 	},
 	"SpecialProgrammes": {
@@ -85,13 +86,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -102,120 +96,123 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Art - Category B",
 					"award": "Recognition"
 				},
 				{
-					"year": "2016",
+					"year": "2019",
 					"category": "Choir",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2017",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2017",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2018",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2018",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Dance - Chinese",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Dance - Indian",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Accomplishment"
 				}
@@ -258,7 +255,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 50,
 		"VACANCY FOR PHASE 2C": 130,
-		"NO. OF APPLICANTS IN PHASE 2C": 27
+		"NO. OF APPLICANTS IN PHASE 2C": 27,
+		"PLACES TAKEN UP TO PHASE 2C": 77,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 103,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 31
 	},
 	"id": "1143"
 }

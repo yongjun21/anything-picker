@@ -5,7 +5,7 @@
 	"uen": " T15GS0009C",
 	"logo": "./Medias/Images/Schools/logos/tn_0714.jpg",
 	"website": "http://www.eunoiajc.moe.edu.sg",
-	"address": "53, Mount Sinai Road ( 276880 )",
+	"address": "2, Sin Ming Place ( 573838 )",
 	"telephone": [
 		"63518388"
 	],
@@ -13,13 +13,13 @@
 		"63518399"
 	],
 	"email": "eunoiajc@moe.edu.sg",
-	"mrt": "Buona Vista MRT Station, Dover MRT Station",
-	"bus": "92 , 100 , 105 , 106 , 111 , 147 , 185 ",
+	"mrt": "Bishan MRT Station, Marymount MRT Station, Ang Mo Kio MRT Station",
+	"bus": "13 , 52 , 74 , 88 , 130 , 410G , 410W , 851 , 852 ",
 	"GeneralInformation": {
 		"Principal": "MDM CHEANG MEI HENG",
 		"Vice Principal": [
-			"MR POH CHUN LECK",
-			"MR TAY JUNCHENG ADRIAN"
+			"MR TAY JUNCHENG ADRIAN",
+			"MR CHEN XUANTING EDMUND"
 		],
 		"Vice Principal (Admin)": "MR MOHAMAD AMRAN SHAH BIN ABD RAHIM",
 		"School Vision": "Every Eunoian a Youth with Purpose, Thinker with Heart, Leader with Courage",
@@ -54,7 +54,7 @@
 		"H2 BIOLOGY",
 		"H2 CHEMISTRY",
 		"H2 CHINA STUDIES IN CHINESE",
-		"H2 CHINESE LANGUAGE & LITERATURE",
+		"H2 CHINESE LANGUAGE &amp; LITERATURE",
 		"H2 ECONOMICS",
 		"H2 FRENCH LANGUAGE",
 		"H2 FURTHER MATHEMATICS",
@@ -62,18 +62,18 @@
 		"H2 GERMAN LANGUAGE",
 		"H2 HISTORY",
 		"H2 JAPANESE LANGUAGE",
-		"H2 KNOWLEDGE & INQUIRY",
+		"H2 KNOWLEDGE &amp; INQUIRY",
 		"H2 LITERATURE IN ENGLISH",
-		"H2 MALAY LANGUAGE & LITERATURE",
+		"H2 MALAY LANGUAGE &amp; LITERATURE",
 		"H2 MATHEMATICS",
 		"H2 MUSIC",
 		"H2 PHYSICS",
 		"H2 SPANISH",
-		"H2 TAMIL LANGUAGE & LITERATURE",
+		"H2 TAMIL LANGUAGE &amp; LITERATURE",
 		"H2 TRANSLATION (CHINESE)",
 		"H3 ART",
 		"H3 CHEMISTRY",
-		"H3 CHINESE LANGUAGE & LITERATURE",
+		"H3 CHINESE LANGUAGE &amp; LITERATURE",
 		"H3 ECONOMICS",
 		"H3 GEOGRAPHY",
 		"H3 HISTORY",
@@ -83,7 +83,7 @@
 		"NTU SCIENCE RESEARCH (CHEM)",
 		"NTU SCIENCE RESEARCH (MATH)",
 		"NTU SCIENCE RESEARCH (PHY)",
-		"NTU SEMICONDUCTOR PHYSICS & DEVICES",
+		"NTU SEMICONDUCTOR PHYSICS &amp; DEVICES",
 		"NUS MODERN PHYSICS",
 		"NUS-MOE SCIENCE RESEARCH (BIO)",
 		"NUS-MOE SCIENCE RESEARCH (CHEM)",
@@ -107,25 +107,21 @@
 			"Volleyball"
 		],
 		"Visual and Performing Arts": [
-			"Art Club",
 			"Chinese Orchestra",
 			"Choir",
 			"Dance",
 			"Drama",
-			"Symphonic Band",
-			"Visual Arts Club"
+			"Ej Visual Art Club",
+			"Symphonic Band"
 		],
 		"Clubs & Societies": [
 			"Computing & Robotics",
 			"Debate",
-			"Environmental Club",
+			"Ej Media",
+			"Environment Club",
 			"Library Club",
-			"Media",
-			"Outdoor Adventure (Odac)",
+			"Odac",
 			"Service Learning"
-		],
-		"Others": [
-			"Students' Council"
 		]
 	},
 	"SpecialProgrammes": {
@@ -199,7 +195,74 @@
 					"Drama - English": "Distinction"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Floorball",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Distinction"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"L1R5History": {
@@ -256,7 +319,21 @@
 				"-",
 				"-"
 			]
+		},
+		"2020": {
+			"Arts": [
+				"4",
+				"8"
+			],
+			"Science/IB": [
+				"2",
+				"7"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
 		}
 	},
-	"postalCode": "276880"
+	"postalCode": "573838"
 }

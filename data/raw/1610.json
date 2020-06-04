@@ -13,7 +13,7 @@
 		"62561102"
 	],
 	"email": "FTPPS@MOE.EDU.SG",
-	"mrt": "Braddell & Toa Payoh Stations",
+	"mrt": "Braddell &amp; Toa Payoh Stations",
 	"bus": "157 , 153 , 105 , 159 , 88 , FS238 ",
 	"GeneralInformation": {
 		"Principal": "MR CHUA CHOON GUAN",
@@ -34,7 +34,7 @@
 		"ART",
 		"CHINESE",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -60,10 +60,7 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Choir",
-			"Dance - Chinese",
-			"Dance - Indian",
-			"Dance - Malay"
+			"Choir"
 		]
 	},
 	"SpecialProgrammes": {
@@ -71,7 +68,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Visual Arts & Design": "FIRST Clicks – Literacy Through Photography (LTP)"
+			"Others": "First Clicks - Literacy Through Photography (Visual Arts & Design)",
+			"Sports & Outdoor Education": "Character Building Through Outdoor Experiential Learning"
 		},
 		"Special Student Development Programmes Offered": "FTPPS endeavours to deliver a student centric, values driven education to enable them to attain the 4 FTPPS Student Outcomes - a confident person, a self-directed learner, an active contributor and a concerned citizen."
 	},
@@ -138,17 +136,6 @@
 						"Senior"
 					],
 					[
-						"Soccer",
-						"-",
-						"3rd",
-						"-",
-						"-",
-						"-",
-						"1st",
-						"-",
-						"-"
-					],
-					[
 						"Basketball",
 						"-",
 						"-",
@@ -167,6 +154,17 @@
 						"-",
 						"4th",
 						"-",
+						"-",
+						"-"
+					],
+					[
+						"Soccer",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"1st",
 						"-",
 						"-"
 					],
@@ -190,7 +188,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"2nd",
@@ -313,7 +311,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"3rd",
@@ -326,7 +324,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
@@ -448,7 +446,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"2nd",
@@ -461,7 +459,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
@@ -564,7 +562,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
@@ -633,17 +631,6 @@
 						"Senior"
 					],
 					[
-						"Basketball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"3rd",
-						"4th",
-						"-",
-						"-"
-					],
-					[
 						"Sepak Takraw",
 						"-",
 						"-",
@@ -664,16 +651,27 @@
 						"2nd",
 						"-",
 						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-"
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
-					"Choir": "Silver",
-					"Dance - Chinese": "Bronze",
-					"Dance - Indian": "Gold",
 					"Dance - Malay": "Silver",
 					"Ensemble - Guzheng": "Silver",
-					"Ensemble - Harmonica": "Bronze"
+					"Ensemble - Harmonica": "Bronze",
+					"Art &amp; Craft (Silver)": "1 Award",
+					"Choir": "Silver",
+					"Dance - Chinese": "Bronze",
+					"Dance - Indian": "Gold"
 				}
 			},
 			"2011": {
@@ -902,7 +900,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"3rd",
@@ -990,7 +988,7 @@
 						"Senior"
 					],
 					[
-						"Football",
+						"Sepak Takraw",
 						"-",
 						"-",
 						"-",
@@ -1001,7 +999,7 @@
 						"-"
 					],
 					[
-						"Sepak Takraw",
+						"Football",
 						"-",
 						"-",
 						"-",
@@ -1031,7 +1029,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"3rd",
@@ -1156,7 +1154,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"4th",
@@ -1516,7 +1514,88 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"1st"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "319252"

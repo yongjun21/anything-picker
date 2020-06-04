@@ -19,7 +19,7 @@
 	],
 	"bus": "65 , 121 , 123 , 123M , 124 , 131 , 131M , 195 , 195A , 272 , 855 ",
 	"GeneralInformation": {
-		"Principal": "Mrs Pauline Wong",
+		"Principal": "Mdm Tan Mei Mei Jenny",
 		"Vice Principal": [
 			"Mdm Ong Lee Lee",
 			"Miss Kuo Zhaoyan, Felicia"
@@ -27,7 +27,7 @@
 		"School Vision": "We are a community of Leaders and Learners for God and for Others.",
 		"School Mission": "To create a Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way.",
 		"School Philosophy, Culture and Ethos": "CHIJ St. Theresa's Convent is a Catholic mission school started in 1933 in response to an urgent need to provide an education for the daughters of poor workers at the Harbour, Hospital and Railway in the Tanjong Pagar area.  Today, the school remains true to its mission to provide a quality education for all, with special reference to persons who are disadvantaged in any way.  The Theresian Brand of education seeks to equip our students with knowledge, skills and values for life, not just for examinations.  We believe that education must develop the Theresian student to go beyond self to serve others in the community.  The design and delivery of our curriculum is therefore guided by the Integral Pedagogy Process which starts with the Context of the learner, taking her through Experience and Reflection to Action and Evaluation.  It is only in action that the Theresian demonstrates learning and service to others.",
-		"Type of School": "Government-aided Sch / Girls' School / Single Session",
+		"Type of School": "Government-aided Sch / Girls&#39; School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
 			"Catholic Junior College",
@@ -39,7 +39,7 @@
 		"Additional Mathematics",
 		"Art",
 		"Art Na Level",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Basic Tamil",
@@ -51,13 +51,13 @@
 		"Combined Humanities (S,H)",
 		"Combined Humanities (S,L)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
 		"Exercise And Sports Science",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Food Studies, N Level",
 		"Geography",
@@ -120,49 +120,18 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA"
 			},
 			"2018": {
 				"School Distinction Awards": "SDA"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -219,6 +188,36 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guitar",
 					"award": "Accomplishment"
 				}
@@ -227,30 +226,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 235,
-			"upper": 250,
-			"lowerAffiliated": 201,
-			"upperAffiliated": 240
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 178,
-			"upper": 199,
-			"lowerAffiliated": 153,
-			"upperAffiliated": 199
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 108,
-			"upper": 147,
-			"lowerAffiliated": 118,
-			"upperAffiliated": 150
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -321,6 +296,30 @@
 			"lower": 92,
 			"upper": 158,
 			"lowerAffiliated": 127,
+			"upperAffiliated": 151
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 238,
+			"upper": 243,
+			"lowerAffiliated": 200,
+			"upperAffiliated": 242
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 184,
+			"upper": 198,
+			"lowerAffiliated": 154,
+			"upperAffiliated": 199
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 110,
+			"upper": 159,
+			"lowerAffiliated": 117,
 			"upperAffiliated": 151
 		}
 	],

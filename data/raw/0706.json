@@ -66,11 +66,11 @@
 		"H2 GERMAN LANGUAGE",
 		"H2 HISTORY",
 		"H2 JAPANESE LANGUAGE",
-		"H2 KNOWLEDGE & INQUIRY",
+		"H2 KNOWLEDGE &amp; INQUIRY",
 		"H2 LITERATURE IN ENGLISH",
 		"H2 MATHEMATICS",
 		"H2 PHYSICS",
-		"H2 TAMIL LANGUAGE & LITERATURE",
+		"H2 TAMIL LANGUAGE &amp; LITERATURE",
 		"H2 THEATRE STUDIES AND DRAMA",
 		"H3 BIOLOGY",
 		"H3 CHEMISTRY",
@@ -82,8 +82,8 @@
 		"H3 PHYSICS",
 		"NTU CONTEMPORARY PHYSICS",
 		"NTU MOLECULAR BIOLOGY",
-		"NTU NUMBERS & MATRICES",
-		"NTU ORGANIC SYNTHESIS & MECHANISM",
+		"NTU NUMBERS &amp; MATRICES",
+		"NTU ORGANIC SYNTHESIS &amp; MECHANISM",
 		"NUS-A*STAR-VJC SCIENCE RESEARCH (BIO)",
 		"NUS-A*STAR-VJC SCIENCE RESEARCH (CHEM)",
 		"NUS-A*STAR-VJC SCIENCE RESEARCH (MATH)",
@@ -102,7 +102,6 @@
 			"Rockclimbing",
 			"Sailing",
 			"Soccer",
-			"Softball",
 			"Swimming",
 			"Table Tennis",
 			"Taekwondo",
@@ -119,7 +118,6 @@
 			"Drama",
 			"Guitar Ensemble",
 			"Harmonica Band",
-			"Photographic Society",
 			"Photography Society",
 			"Piano Ensemble",
 			"String Ensemble",
@@ -142,7 +140,7 @@
 			"Medical Society",
 			"Outdoor Activities Club",
 			"Pa Crew",
-			"Robotics Club",
+			"Robotics-Makers Club",
 			"Singapore Youth Flying Club",
 			"Strategic Games Club",
 			"Students' Council",
@@ -390,7 +388,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"3rd",
 						"2nd",
 						"-",
@@ -433,8 +431,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Drama - English": "Silver"
 				}
 			},
@@ -460,27 +458,6 @@
 						"'A' Div",
 						"'A' Div",
 						"'A' Div"
-					],
-					[
-						"Badminton",
-						"-",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
-						"Basketball",
-						"-",
-						"1st",
-						"-",
-						"-"
-					],
-					[
-						"Cross Country",
-						"3rd",
-						"1st",
-						"-",
-						"-"
 					],
 					[
 						"Floorball",
@@ -546,7 +523,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"3rd",
 						"3rd",
 						"-",
@@ -565,19 +542,40 @@
 						"1st",
 						"-",
 						"-"
+					],
+					[
+						"Badminton",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"3rd",
+						"1st",
+						"-",
+						"-"
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
-					"Band - Concert": "Gold (Hons)",
-					"Choir": "Gold (Hons)",
 					"Dance - International": "Gold (Hons)",
 					"Drama - English": "Silver",
 					"Ensemble - Guitar": "Gold",
 					"Ensemble - Harmonica": "Gold",
 					"Ensemble - Strings": "Gold (Hons)",
-					"Orchestra - Chinese": "Gold"
+					"Orchestra - Chinese": "Gold",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
+					"Band - Concert": "Gold (Hons)",
+					"Choir": "Gold (Hons)"
 				}
 			},
 			"2008": {
@@ -602,62 +600,6 @@
 						"'A' Div",
 						"'A' Div",
 						"'A' Div"
-					],
-					[
-						"Soccer",
-						"2nd",
-						"1st",
-						"-",
-						"-"
-					],
-					[
-						"Softball",
-						"4th",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
-						"Swimming",
-						"-",
-						"4th",
-						"-",
-						"-"
-					],
-					[
-						"Table Tennis",
-						"-",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
-						"Tennis",
-						"-",
-						"1st",
-						"-",
-						"-"
-					],
-					[
-						"Track & Field",
-						"2nd",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
-						"Volleyball",
-						"-",
-						"2nd",
-						"-",
-						"-"
-					],
-					[
-						"Wushu",
-						"2nd",
-						"1st",
-						"-",
-						"-"
 					],
 					[
 						"Badminton",
@@ -707,11 +649,67 @@
 						"1st",
 						"-",
 						"-"
+					],
+					[
+						"Soccer",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"4th",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Track &amp; Field",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"2nd",
+						"1st",
+						"-",
+						"-"
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold (Hons)",
 					"Choir": "Gold (Hons)",
 					"Dance - International": "Gold (Hons)",
@@ -831,7 +829,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"2nd",
 						"3rd",
 						"-",
@@ -853,8 +851,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold",
 					"Choir": "Gold (Hons)",
 					"Dance - International": "Gold",
@@ -888,6 +886,27 @@
 						"'A' Div",
 						"'A' Div",
 						"'A' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"4th",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"3rd",
+						"-",
+						"-",
+						"-"
 					],
 					[
 						"Cross Country",
@@ -953,7 +972,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"3rd",
 						"3rd",
 						"-",
@@ -972,42 +991,21 @@
 						"1st",
 						"-",
 						"-"
-					],
-					[
-						"Badminton",
-						"-",
-						"2nd",
-						"-",
-						"-"
-					],
-					[
-						"Basketball",
-						"4th",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
-						"Cricket",
-						"3rd",
-						"-",
-						"-",
-						"-"
 					]
 				],
 				"SYF Central Judging": {
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
+					"Band - Concert": "Gold",
+					"Choir": "Gold (Hons)",
 					"Dance - International": "Gold",
 					"Drama - English": "Silver",
 					"Ensemble - Guitar": "Silver",
 					"Ensemble - Harmonica": "Silver",
 					"Ensemble - Strings": "Silver",
-					"Orchestra - Chinese": "Gold",
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Gold (Hons))": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
-					"Band - Concert": "Gold",
-					"Choir": "Gold (Hons)"
+					"Orchestra - Chinese": "Gold"
 				}
 			},
 			"2011": {
@@ -1139,7 +1137,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"4th",
 						"-",
@@ -1161,10 +1159,10 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Gold (Hons))": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold (Hons)",
 					"Dance - International": "Silver",
@@ -1285,7 +1283,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"4th",
 						"-",
@@ -1307,8 +1305,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold (Hons)",
 					"Dance - International": "Silver",
@@ -1358,27 +1356,6 @@
 						"'A' Div"
 					],
 					[
-						"Badminton",
-						"-",
-						"2nd",
-						"-",
-						"-"
-					],
-					[
-						"Cricket",
-						"3rd",
-						"-",
-						"-",
-						"-"
-					],
-					[
-						"Cross Country",
-						"4th",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
 						"Floorball",
 						"1st",
 						"4th",
@@ -1421,7 +1398,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"3rd",
 						"-",
@@ -1440,20 +1417,41 @@
 						"1st",
 						"-",
 						"-"
+					],
+					[
+						"Badminton",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"4th",
+						"3rd",
+						"-",
+						"-"
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Ensemble - Harmonica": "Accomplishment",
+					"Ensemble - Strings": "Distinction",
+					"Orchestra - Chinese": "Distinction",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Band - Concert": "Distinction",
 					"Choir": "Distinction",
 					"Dance - International": "Distinction",
 					"Drama - Chinese": "Distinction",
 					"Ensemble - Guitar": "Distinction",
-					"Ensemble - Guzheng": "Distinction",
-					"Ensemble - Harmonica": "Accomplishment",
-					"Ensemble - Strings": "Distinction",
-					"Orchestra - Chinese": "Distinction"
+					"Ensemble - Guzheng": "Distinction"
 				}
 			},
 			"2014": {
@@ -1491,34 +1489,6 @@
 						"'A' Div"
 					],
 					[
-						"Tennis",
-						"-",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
-						"Track & Field",
-						"-",
-						"2nd",
-						"-",
-						"-"
-					],
-					[
-						"Volleyball",
-						"2nd",
-						"1st",
-						"-",
-						"-"
-					],
-					[
-						"Wushu",
-						"2nd",
-						"1st",
-						"-",
-						"-"
-					],
-					[
 						"Badminton",
 						"-",
 						"3rd",
@@ -1571,6 +1541,34 @@
 						"Softball",
 						"-",
 						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Track &amp; Field",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"2nd",
+						"1st",
 						"-",
 						"-"
 					]
@@ -1679,7 +1677,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"3rd",
 						"2nd",
 						"-",
@@ -1748,6 +1746,13 @@
 						"'A' Div"
 					],
 					[
+						"Football",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
 						"Badminton",
 						"-",
 						"4th",
@@ -1783,13 +1788,6 @@
 						"-"
 					],
 					[
-						"Football",
-						"2nd",
-						"1st",
-						"-",
-						"-"
-					],
-					[
 						"Hockey",
 						"1st",
 						"1st",
@@ -1797,7 +1795,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"3rd",
 						"1st",
 						"-",
@@ -1909,7 +1907,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"3rd",
 						"2nd",
 						"-",
@@ -1995,7 +1993,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"4th",
 						"2nd",
 						"-",
@@ -2031,7 +2029,6 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Ensemble - Guitar": "Distinction",
 					"Ensemble - Guzheng": "Accomplishment",
 					"Ensemble - Harmonica": "Accomplishment",
 					"Ensemble - Strings": "Accomplishment",
@@ -2041,10 +2038,112 @@
 					"Choir": "Distinction",
 					"Dance - International": "Distinction",
 					"Drama - Chinese": "Distinction",
-					"Drama - English": "Accomplishment"
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Distinction"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Cross Country",
+						"4th",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track &amp; Field",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment",
+					"Ensemble - Harmonica": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"L1R5History": {
@@ -2148,6 +2247,20 @@
 			"Science/IB": [
 				"2",
 				"6"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2020": {
+			"Arts": [
+				"2",
+				"8"
+			],
+			"Science/IB": [
+				"2",
+				"7"
 			],
 			"Commerce": [
 				"-",

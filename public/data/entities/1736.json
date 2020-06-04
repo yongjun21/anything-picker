@@ -39,7 +39,7 @@
 		"Art",
 		"Chinese",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Foundation Tamil",
 		"Health Education",
@@ -59,7 +59,6 @@
 			"Badminton",
 			"Basketball",
 			"Football",
-			"Sepak Takraw",
 			"Tchoukball",
 			"Wushu"
 		],
@@ -69,7 +68,6 @@
 		],
 		"Visual and Performing Arts": [
 			"Art And Craft Club",
-			"Choir",
 			"Dance - Indian",
 			"Dance - International",
 			"Dance - Malay",
@@ -77,7 +75,6 @@
 		],
 		"Clubs & Societies": [
 			"Chinese Language Club",
-			"Environmental Club",
 			"Infocom Club"
 		]
 	},
@@ -89,48 +86,18 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -198,6 +165,36 @@
 				{
 					"year": "2018",
 					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Distinction"
 				}
 			],
@@ -239,7 +236,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 69,
 		"VACANCY FOR PHASE 2C": 141,
-		"NO. OF APPLICANTS IN PHASE 2C": 76
+		"NO. OF APPLICANTS IN PHASE 2C": 76,
+		"PLACES TAKEN UP TO PHASE 2C": 145,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 65,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 33
 	},
 	"id": "1736"
 }

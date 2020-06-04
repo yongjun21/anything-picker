@@ -21,7 +21,7 @@
 			"MR TAN SIAN YEOW TERENCE",
 			"MR SOON WOO SIN"
 		],
-		"Vice Principal (Admin)": "MDM THAM LAI PENG",
+		"Vice Principal (Admin)": "MR NGEOW SIONG CHYE",
 		"School Vision": "A community of thinkers who are patriotic, gracious and global in outlook.",
 		"School Mission": "Developing pupils in five core areas, namely moral, intellectual, physical, social and aesthetics domains and thereby preparing them for the future.",
 		"School Philosophy, Culture and Ethos": "Founded on 16 April 1915 by a supervisor of schools with the Singapore Hokkien Huay Kuan (SHHK), Chongfu School's (CFS) distinctiveness stems from its rich history and heritage. Being one of the 6 Singapore Hokkien Huay Kuan (SHHK) affiliated schools, it shares a common motto, Sincerity and Perseverance, with other SHHK schools. Upon relocation of its original premises to its current site in Yishun, it began offering all three Mother Tongue Languages, thereby paving the way for Singaporean children of all races to be part of the CFS education experience. Anchoring the pursuit towards holistic education are the school's values (expressed in the acronym GRACIOUSLY).",
@@ -32,9 +32,9 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
 		"HEALTH EDUCATION",
@@ -248,11 +248,11 @@
 					]
 				],
 				"SYF Central Judging": {
+					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Bronze",
 					"Dance - International": "Gold",
 					"Dance - Malay": "Silver",
-					"Orchestra - Chinese": "Bronze",
-					"Dance - Chinese": "Gold"
+					"Orchestra - Chinese": "Bronze"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -420,7 +420,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Gold",
 					"Dance - International": "Silver",
@@ -513,7 +513,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Bronze",
 					"Dance - Malay": "Silver",
@@ -615,8 +615,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Bronze",
 					"Dance - Malay": "Silver",
@@ -695,17 +695,6 @@
 						"Senior"
 					],
 					[
-						"Table Tennis",
-						"-",
-						"3rd",
-						"1st",
-						"2nd",
-						"2nd",
-						"2nd",
-						"1st",
-						"1st"
-					],
-					[
 						"Wushu",
 						"4th",
 						"1st",
@@ -715,11 +704,22 @@
 						"-",
 						"-",
 						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"3rd",
+						"1st",
+						"2nd",
+						"2nd",
+						"2nd",
+						"1st",
+						"1st"
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Bronze",
 					"Dance - Malay": "Gold",
@@ -1300,7 +1300,102 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"1st"
+					],
+					[
+						"Wushu",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition(Sm)",
+					"Art - Category C": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "768959"

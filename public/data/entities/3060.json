@@ -93,50 +93,7 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Development Award": "DA (Character Development)"
-			},
 			"Sports & Games Competition": [
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'B' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'C' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'B' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Football",
-					"subCategory": [
-						"Zone",
-						"Boys",
-						"'C' Div"
-					],
-					"award": "2nd"
-				},
 				{
 					"year": "2017",
 					"category": "Football",
@@ -170,16 +127,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -211,21 +158,6 @@
 				}
 			],
 			"Best Unit Award": [
-				{
-					"year": "2016",
-					"category": "NCC (Land Boys)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "NPCC (Land)",
-					"award": "Gold"
-				},
-				{
-					"year": "2016",
-					"category": "Scout (Unit 1)",
-					"award": "Gold"
-				},
 				{
 					"year": "2017",
 					"category": "NCC (Land Boys)",
@@ -260,30 +192,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 247,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 157,
-			"upper": 187,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 106,
-			"upper": 154,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",

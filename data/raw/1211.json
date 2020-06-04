@@ -16,11 +16,8 @@
 	"mrt": "Potong Pasir MRT Station",
 	"bus": "8; 61; 65; 66; 100; 135; 154;",
 	"GeneralInformation": {
-		"Principal": "MR CHUA CHOON HOCK",
-		"Vice Principal": [
-			"MR JAMES PEH CHIN HENG",
-			"MISS CHOONG PEI CHIN"
-		],
+		"Principal": "MR CHRIS CHUA",
+		"Vice Principal": "MISS CHOONG PEI CHIN",
 		"Vice Principal (Admin)": "MR TAN MENG KHIANG",
 		"School Vision": "Joyful Learners, Responsible Citizens and Creative Leaders in a connected community",
 		"School Philosophy, Culture and Ethos": [
@@ -42,7 +39,7 @@
 		"CHINESE",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION TAMIL",
 		"HEALTH EDUCATION",
@@ -89,7 +86,7 @@
 		],
 		"School Distinctive Programmes": {
 			"Interdisciplinary": "Creative and Inventive Thinking (CIT) Programme",
-			"Community Service & Student Leadership": "Upstanding Leaders@ Cedar Primary School"
+			"Community Service & Student Leadership": "Leadership through Service and Sports"
 		},
 		"Special Student Development Programmes Offered": "Applied Learning Programme (ALP)"
 	},
@@ -1030,7 +1027,86 @@
 					"Dance - International": "Accomplishment"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band-Brass Ensemble": "Distinction",
+					"Band-Percussion Ensemble": "Distinction",
+					"Dance - International": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "349700"

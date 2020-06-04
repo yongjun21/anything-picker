@@ -17,8 +17,8 @@
 	"bus": "Bus 920 , 922 , 972 ",
 	"GeneralInformation": {
 		"Principal": "MDM ONG FEI MIN",
-		"Vice Principal": "MDM KAY HWEE GEAK",
-		"Vice Principal (Admin)": "MR CHUA GUAN HWA",
+		"Vice Principal": "MDM GOH LUNG ENG",
+		"Vice Principal (Admin)": "MR ANDY ANG",
 		"School Vision": "Engaged Learners, Caring LeadersWe envision our staff and students to be Engaged Learners, Caring Leaders: values-centered persons with a lifelong passion for learning, driven by their sense of responsibility and public-spiritedness to come forth to lead. They lead graciously, with Integrity and humility, never asking anything in return. They constantly think about how to apply what they have learnt to serve others and contribute to the development of a gracious and inclusive society.",
 		"School Mission": "To nurture Lifelong Learners; Gracious, Responsible and Public-Spirited in thoughts and deeds",
 		"School Philosophy, Culture and Ethos": [
@@ -35,11 +35,11 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION TAMIL",
@@ -260,7 +260,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Bronze",
 					"Dance - Malay": "Gold",
@@ -328,17 +328,6 @@
 						"Senior"
 					],
 					[
-						"Netball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"1st",
-						"2nd"
-					],
-					[
 						"Badminton",
 						"-",
 						"-",
@@ -348,15 +337,26 @@
 						"4th",
 						"-",
 						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"2nd"
 					]
 				],
 				"SYF Central Judging": {
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Band - Concert": "Gold",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - Malay": "Gold",
-					"Orchestra - Chinese": "Silver",
-					"Art & Craft (Bronze)": "1 Award",
-					"Band - Concert": "Gold"
+					"Orchestra - Chinese": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -454,7 +454,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
@@ -557,7 +557,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Malay": "Gold",
@@ -665,8 +665,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Malay": "Gold",
@@ -762,8 +762,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - Malay": "Gold",
@@ -872,12 +872,12 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Dance - Chinese": "Gold",
 					"Art - Category B": "Recognition",
 					"Band - Concert": "Silver",
 					"Dance - Malay": "Gold",
 					"Ensemble - Guzheng": "Bronze",
-					"Orchestra - Chinese": "Silver"
+					"Orchestra - Chinese": "Silver",
+					"Dance - Chinese": "Gold"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1075,18 +1075,30 @@
 			"2018": {
 				"Outstanding Development Award": "ODA (National Education)",
 				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
 					"Art - Category B": "Recognition",
 					"Art - Category C": "Recognition",
 					"Band-Brass Ensemble": "Commendation",
 					"Band-Percussion Ensemble": "Accomplishment",
 					"Chinese Orchestra-Mixed Ensemble": "Accomplishment",
 					"Dance - Chinese": "Accomplishment",
-					"Dance - Malay": "Distinction",
-					"Art - Category A": "Recognition"
+					"Dance - Malay": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Outstanding Development Award": "ODA (National Education)",
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass Ensemble": "Commendation",
+					"Band-Percussion Ensemble": "Accomplishment",
+					"Chinese Orchestra-Mixed Ensemble": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "677744"

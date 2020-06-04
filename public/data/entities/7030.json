@@ -21,7 +21,7 @@
 		"Principal": "Miss Ng Wun Har Grace",
 		"Vice Principal": [
 			"Mdm Wee Kheng Lin Corinne",
-			"Mdm Tan P'eng Diana"
+			"Mdm Tan P&#39;eng Diana"
 		],
 		"Vice Principal (Admin)": "Mr Soh Beng Kian",
 		"School Vision": "Godly women of Excellence with a heart of Love.",
@@ -31,18 +31,18 @@
 			"Emphasis is placed on the mastery of what is important in life, such as intellectual, physical and social skills. Leadership, confidence, responsibility, respect, resilience and integrity are some of the qualities cultivated in the MGS girl, and the curricular and co-curricular programmes provide the arena for the development and growth in character and personhood.",
 			"MGS endeavours to stay true to her vision to produce Godly Women of Excellence with a Heart of Love. True to her motto, the MGS girl will always seek `To Master, To Grow, To Serve', which sums up the school philosophy."
 		],
-		"Type of School": "Independent School / Girls' School / Single Session",
+		"Type of School": "Independent School / Girls&#39; School / Single Session",
 		"IP Partner Schools": "Anglo-Chinese School (Independent)",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
 			"Anglo-Chinese Junior College",
-			"Methodist Girls' School (Primary)"
+			"Methodist Girls&#39; School (Primary)"
 		]
 	},
 	"SubjectOffered": [
 		"Additional Mathematics",
 		"Art",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Biology",
 		"Chemistry",
 		"Chinese",
@@ -57,7 +57,6 @@
 		"Higher Tamil",
 		"History",
 		"Home Economics",
-		"Home Economics",
 		"Humanities (Ss, Geography)",
 		"Humanities (Ss, History)",
 		"Humanities (Ss, Lit In English)",
@@ -67,8 +66,7 @@
 		"Mathematics",
 		"Music",
 		"Music (MEP)",
-		"Music 'O' Level",
-		"Physical Education",
+		"Music &#39;o&#39; Level",
 		"Physics",
 		"Project Work",
 		"Tamil"
@@ -117,10 +115,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -129,54 +123,13 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -263,6 +216,51 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Strings",
 					"award": "Distinction"
 				}
@@ -271,22 +269,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Integrated Programme",
-			"lower": 261,
-			"upper": 277,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "'O' Level Programme",
-			"lower": 253,
-			"upper": 268,
-			"lowerAffiliated": 220,
-			"upperAffiliated": 260
-		},
 		{
 			"year": "2017",
 			"programme": "Integrated Programme",
@@ -334,6 +316,22 @@
 			"upper": 258,
 			"lowerAffiliated": 220,
 			"upperAffiliated": 258
+		},
+		{
+			"year": "2020",
+			"programme": "Integrated Programme",
+			"lower": 257,
+			"upper": 271,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "'O' Level Programme",
+			"lower": 253,
+			"upper": 263,
+			"lowerAffiliated": 220,
+			"upperAffiliated": 257
 		}
 	],
 	"postalCode": "599986",

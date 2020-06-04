@@ -23,6 +23,7 @@
 			"Mr Lim Jit Hin",
 			"Miss Sabariah Bte Subari"
 		],
+		"Vice Principal (Admin)": "Mdm Ginny Chua Geok Hong",
 		"School Vision": [
 			"Vibrant School",
 			"Culture of Care",
@@ -36,7 +37,7 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
 		"Health Education",
 		"Malay",
@@ -45,7 +46,32 @@
 		"Physical Education",
 		"Social Studies"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Floorball",
+			"Soccer",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Choir",
+			"Creative Movements",
+			"Dance - Chinese",
+			"Dance - Indian",
+			"Drama Club",
+			"Ensemble - Guzheng",
+			"New Media Arts",
+			"Violin"
+		],
+		"Clubs & Societies": [
+			"Green Sparks",
+			"Robotics Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Music & Performing Arts/ Visual Arts & Design": "ICAR2E THROUGH THE ARTS"
@@ -54,28 +80,11 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category A",
@@ -125,6 +134,46 @@
 					"year": "2018",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
@@ -169,7 +218,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 15,
 		"PLACES TAKEN UP TO PHASE 2B": 200,
 		"VACANCY FOR PHASE 2C": 70,
-		"NO. OF APPLICANTS IN PHASE 2C": 147
+		"NO. OF APPLICANTS IN PHASE 2C": 147,
+		"PLACES TAKEN UP TO PHASE 2C": 270
 	},
 	"id": "1261"
 }

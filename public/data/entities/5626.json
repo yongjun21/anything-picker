@@ -34,9 +34,9 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Foundation Science",
 		"Health Education",
@@ -78,38 +78,18 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA"
 			},
 			"2018": {
 				"School Distinction Awards": "SDA"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category C",
 					"award": "Recognition"
@@ -156,6 +136,31 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
 				}
@@ -197,7 +202,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 33,
 		"PLACES TAKEN UP TO PHASE 2B": 146,
 		"VACANCY FOR PHASE 2C": 64,
-		"NO. OF APPLICANTS IN PHASE 2C": 116
+		"NO. OF APPLICANTS IN PHASE 2C": 116,
+		"PLACES TAKEN UP TO PHASE 2C": 210
 	},
 	"id": "5626"
 }

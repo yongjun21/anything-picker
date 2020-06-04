@@ -29,8 +29,8 @@
 		"Affiliated Schools": [
 			"ANGLO-CHINESE SCHOOL (INDEPENDENT)",
 			"GEYLANG METHODIST SCHOOL (SECONDARY)",
-			"PAYA LEBAR METHODIST GIRLS' SCHOOL (SECONDARY)",
-			"METHODIST GIRLS' SCHOOL (SECONDARY)",
+			"PAYA LEBAR METHODIST GIRLS&#39; SCHOOL (SECONDARY)",
+			"METHODIST GIRLS&#39; SCHOOL (SECONDARY)",
 			"ANGLO-CHINESE SCHOOL (BARKER ROAD)",
 			"FAIRFIELD METHODIST SCHOOL (SECONDARY)"
 		]
@@ -60,7 +60,7 @@
 		"H2 ART",
 		"H2 BIOLOGY",
 		"H2 CHEMISTRY",
-		"H2 CHINESE LANGUAGE & LITERATURE",
+		"H2 CHINESE LANGUAGE &amp; LITERATURE",
 		"H2 COMPUTING",
 		"H2 ECONOMICS",
 		"H2 FRENCH LANGUAGE",
@@ -68,13 +68,13 @@
 		"H2 GERMAN LANGUAGE",
 		"H2 HISTORY",
 		"H2 JAPANESE LANGUAGE",
-		"H2 KNOWLEDGE & INQUIRY",
+		"H2 KNOWLEDGE &amp; INQUIRY",
 		"H2 LITERATURE IN ENGLISH",
-		"H2 MALAY LANGUAGE & LITERATURE",
+		"H2 MALAY LANGUAGE &amp; LITERATURE",
 		"H2 MATHEMATICS",
 		"H2 MUSIC",
 		"H2 PHYSICS",
-		"H2 TAMIL LANGUAGE & LITERATURE",
+		"H2 TAMIL LANGUAGE &amp; LITERATURE",
 		"H2 THEATRE STUDIES AND DRAMA"
 	],
 	"Cca": {
@@ -82,7 +82,7 @@
 			"Badminton",
 			"Basketball",
 			"Bowling",
-			"Canoeing & Dragonboat",
+			"Canoeing",
 			"Cross Country",
 			"Football",
 			"Golf",
@@ -166,34 +166,6 @@
 						"'A' Div"
 					],
 					[
-						"Swimming",
-						"2nd",
-						"2nd",
-						"-",
-						"-"
-					],
-					[
-						"Tennis",
-						"1st",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
-						"Tenpin Bowling",
-						"2nd",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
-						"Track & Field",
-						"4th",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
 						"Cross Country",
 						"1st",
 						"2nd",
@@ -236,6 +208,34 @@
 						"-"
 					],
 					[
+						"Swimming",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Track &amp; Field",
+						"4th",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
 						"Waterpolo",
 						"3rd",
 						"-",
@@ -251,8 +251,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Drama - English": "Gold (Hons)"
 				}
 			},
@@ -357,7 +357,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"4th",
 						"4th",
 						"-",
@@ -372,8 +372,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold (Hons)",
 					"Choir": "Gold",
 					"Dance - Indian": "Silver",
@@ -406,6 +406,27 @@
 						"'A' Div",
 						"'A' Div",
 						"'A' Div"
+					],
+					[
+						"Badminton",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Canoeing",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"4th",
+						"4th",
+						"-",
+						"-"
 					],
 					[
 						"Golf",
@@ -478,7 +499,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"4th",
 						"-",
 						"-",
@@ -490,42 +511,21 @@
 						"-",
 						"-",
 						"-"
-					],
-					[
-						"Badminton",
-						"4th",
-						"-",
-						"-",
-						"-"
-					],
-					[
-						"Canoeing",
-						"4th",
-						"2nd",
-						"-",
-						"-"
-					],
-					[
-						"Cross Country",
-						"4th",
-						"4th",
-						"-",
-						"-"
 					]
 				],
 				"SYF Central Judging": {
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "2 Awards",
+					"Band - Concert": "Gold (Hons)",
+					"Choir": "Gold",
+					"Dance - Indian": "Silver",
 					"Dance - International": "Gold (Hons)",
 					"Drama - Chinese": "Gold (Hons)",
 					"Drama - English": "Gold",
 					"Ensemble - Guitar": "Gold (Hons)",
 					"Ensemble - Strings": "Gold",
-					"Orchestra - Chinese": "Gold",
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "2 Awards",
-					"Band - Concert": "Gold (Hons)",
-					"Choir": "Gold",
-					"Dance - Indian": "Silver"
+					"Orchestra - Chinese": "Gold"
 				}
 			},
 			"2009": {
@@ -636,7 +636,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"4th",
 						"4th",
 						"-",
@@ -658,9 +658,9 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Gold",
 					"Choir": "Gold (Hons)",
 					"Dance - Indian": "Gold (Hons)",
@@ -767,7 +767,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"4th",
 						"-",
 						"-",
@@ -789,7 +789,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Gold",
 					"Choir": "Gold (Hons)",
 					"Dance - Indian": "Gold (Hons)",
@@ -925,7 +925,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"4th",
 						"3rd",
 						"-",
@@ -947,7 +947,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Gold (Hons)",
 					"Choir": "Gold (Hons)",
 					"Dance - Indian": "Gold (Hons)",
@@ -1070,7 +1070,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"4th",
 						"3rd",
 						"-",
@@ -1164,27 +1164,6 @@
 						"'A' Div"
 					],
 					[
-						"Badminton",
-						"4th",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
-						"Canoeing",
-						"4th",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
-						"Cross Country",
-						"3rd",
-						"-",
-						"-",
-						"-"
-					],
-					[
 						"Floorball",
 						"3rd",
 						"-",
@@ -1255,7 +1234,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"3rd",
 						"4th",
 						"-",
@@ -1274,19 +1253,40 @@
 						"-",
 						"-",
 						"-"
+					],
+					[
+						"Badminton",
+						"4th",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Canoeing",
+						"4th",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"3rd",
+						"-",
+						"-",
+						"-"
 					]
 				],
 				"SYF Arts Presentation": {
-					"Band - Concert": "Distinction",
-					"Choir": "Distinction",
-					"Dance - Indian": "Accomplishment",
-					"Dance - International": "Distinction",
 					"Drama - Chinese": "Accomplishment",
 					"Drama - English": "Gold",
 					"Ensemble - Guitar": "Distinction",
 					"Ensemble - Harp": "Accomplishment",
 					"Ensemble - Strings": "Distinction",
-					"Orchestra - Chinese": "Distinction"
+					"Orchestra - Chinese": "Distinction",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction"
 				}
 			},
 			"2014": {
@@ -1380,7 +1380,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"3rd",
 						"-",
 						"-",
@@ -1484,6 +1484,27 @@
 						"'A' Div"
 					],
 					[
+						"Canoeing",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
 						"Hockey",
 						"2nd",
 						"3rd",
@@ -1540,7 +1561,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"4th",
 						"-",
@@ -1552,31 +1573,9 @@
 						"-",
 						"-",
 						"-"
-					],
-					[
-						"Canoeing",
-						"-",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
-						"Floorball",
-						"4th",
-						"-",
-						"-",
-						"-"
-					],
-					[
-						"Golf",
-						"1st",
-						"3rd",
-						"-",
-						"-"
 					]
 				],
 				"SYF Arts Presentation": {
-					"Orchestra - Chinese": "Distinction",
 					"Art - Category C": "Recognition(Sm)",
 					"Band - Concert": "Distinction",
 					"Choir": "Distinction",
@@ -1586,7 +1585,8 @@
 					"Drama - English": "Distinction",
 					"Ensemble - Guitar": "Accomplishment",
 					"Ensemble - Harp": "Accomplishment",
-					"Ensemble - Strings": "Distinction"
+					"Ensemble - Strings": "Distinction",
+					"Orchestra - Chinese": "Distinction"
 				}
 			},
 			"2016": {
@@ -1722,6 +1722,7 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Orchestra - Chinese": "Distinction",
 					"Art - Category C": "Recognition(Sm)",
 					"Band - Concert": "Distinction",
 					"Choir": "Distinction",
@@ -1731,8 +1732,7 @@
 					"Drama - English": "Distinction",
 					"Ensemble - Guitar": "Accomplishment",
 					"Ensemble - Harp": "Accomplishment",
-					"Ensemble - Strings": "Distinction",
-					"Orchestra - Chinese": "Distinction"
+					"Ensemble - Strings": "Distinction"
 				}
 			},
 			"2017": {
@@ -1898,13 +1898,6 @@
 						"'A' Div"
 					],
 					[
-						"Hockey",
-						"-",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
 						"Canoeing",
 						"3rd",
 						"3rd",
@@ -1987,6 +1980,13 @@
 						"-",
 						"-",
 						"-"
+					],
+					[
+						"Hockey",
+						"-",
+						"3rd",
+						"-",
+						"-"
 					]
 				],
 				"SYF Arts Presentation": {
@@ -2002,7 +2002,106 @@
 					"Ensemble - Strings": "Distinction"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Canoeing",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"4th",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"L1R5History": {
@@ -2099,6 +2198,20 @@
 			]
 		},
 		"2019": {
+			"Arts": [
+				"2",
+				"9"
+			],
+			"Science/IB": [
+				"2",
+				"8"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2020": {
 			"Arts": [
 				"2",
 				"9"

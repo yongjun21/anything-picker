@@ -20,18 +20,18 @@
 	],
 	"bus": "13 , 52 , 54 , 88 , 156 , 162 , 162M , 410 ",
 	"GeneralInformation": {
-		"Principal": "Mdm Soh Lai Leng Magdalen",
+		"Principal": "Mr Poh Chun Leck",
 		"Vice Principal": [
 			"Miss Ho Ping Ping",
-			"Mr Chan Weng Cheong",
 			"Ms Tan Pey San",
-			"Mr Benson Teo Hong Guan"
+			"Mr Benson Teo Hong Guan",
+			"Mr Wong Chee Wai (Huang Zhiwei)"
 		],
 		"Vice Principal (Admin)": "Mr Tan Perry",
 		"School Vision": "The Catholic High student is a leader, gentleman and bilingual scholar of high integrity and robust character, who is passionate about life, learning and service to others.",
 		"School Mission": "To establish Catholic High School as a school of distinction in innovative and challenging programmes, a forerunner in character building and a beacon for the mindset of excellence, firmly built upon the foundation of Christian values.",
 		"School Philosophy, Culture and Ethos": "Founded in 1935 by the late Rev. Fr. Edward Becheras, Catholic High School is one of Singapore's highly regarded institutions under the auspices of the Catholic Archdiocese. As a Special Assistance Plan (SAP) school, CHS is grounded in the philosophy of bilingualism and biculturalism. As a Catholic mission school, love is the motivation behind all our actions. We ensure there is Joy of Learning in school life, and that students develop a Mindset of Excellence. The school's core values underpin every member's attitude, actions and aspirations. Our heritage, alumni and parent support group are the strengths that our school draws upon for our model of education, where every student is a Leader, Gentleman and Bilingual Scholar in the making. Offering the unique dual-track model with both the O-Level and Integrated Programmes (IP), the CHS experience offers a curriculum strong in academic distinction, leadership and character development, and sports and aesthetics excellence. Our IP students will spend their first 4 years in CHS before progressing to Eunoia Junior College to complete the IP.",
-		"Type of School": "Government-aided Sch / Boys' School / Single Session",
+		"Type of School": "Government-aided Sch / Boys&#39; School / Single Session",
 		"IP Partner Schools": [
 			"CHIJ St. Nicholas Girls' School",
 			"Singapore Chinese Girls' School"
@@ -47,12 +47,12 @@
 		"Additional Mathematics",
 		"Appre Of Chinese Culture",
 		"Art",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Art(ip)",
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"English Language",
 		"Exercise And Sports Science",
 		"Food And Consumer Education",
@@ -67,12 +67,10 @@
 		"Literature(E)",
 		"Mathematics",
 		"Music",
-		"Music 'O' Level",
-		"Passion Pursuit",
+		"Music &#39;o&#39; Level",
 		"Physical Education",
 		"Physics",
-		"Science",
-		"World Readiness Programme"
+		"Science"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -85,7 +83,7 @@
 			"Wushu"
 		],
 		"Uniformed Groups": [
-			"Ncc(Air)",
+			"Ncc (Air)",
 			"Ncc(Land)",
 			"Npcc",
 			"Scouts",
@@ -100,6 +98,7 @@
 			"Symphony Band"
 		],
 		"Clubs & Societies": [
+			"Ion",
 			"Ion (Infocomm & Robotics)"
 		]
 	},
@@ -111,25 +110,13 @@
 			"Music Elective Programme"
 		],
 		"School Distinctive Programmes": {
+			"Science": "Coding in Environmental Solutions (CODES)",
 			"Sports & Outdoor Education": "VITALS (Values Infused Through Active Learning in Sports)"
 		},
 		"Special Student Development Programmes Offered": "1)LEADER: Heart of a Leader Student Leadership Programme (Prog), Overseas Immersion & Cross-cultural Prog, Work Attachment & Entrepreneurship Prog. 2)GENTLEMAN: Music Elective Prog, Aesthetics Development Prog, Gentlemen-in-the-Making Prog, Sports Participation Prog, Rugged Outdoor Prog, Outward Bound School. 3)BILINGUAL SCHOLAR: MOE Bicultural Studies Prog, SAP Flagship Prog, English Talent Development Prog (TDP) with Debate, Humanities TDP, Mathematics Interest & TDP, CNERGY Science TDP, Space & Flight Science Prog."
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"Outstanding PARTNERS"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -146,44 +133,12 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -250,6 +205,36 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Strings",
 					"award": "Distinction"
 				}
@@ -257,19 +242,6 @@
 			"Best Unit Award": []
 		},
 		"Secondary": {
-			"2016": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"Outstanding PARTNERS"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -286,39 +258,12 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -385,6 +330,36 @@
 				},
 				{
 					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Drama - English",
 					"award": "Accomplishment"
 				}
@@ -393,22 +368,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Integrated Programme",
-			"lower": 253,
-			"upper": 270,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "'O' Level Programme",
-			"lower": 251,
-			"upper": 263,
-			"lowerAffiliated": 240,
-			"upperAffiliated": 252
-		},
 		{
 			"year": "2017",
 			"programme": "Integrated Programme",
@@ -456,6 +415,22 @@
 			"upper": 259,
 			"lowerAffiliated": 240,
 			"upperAffiliated": 253
+		},
+		{
+			"year": "2020",
+			"programme": "Integrated Programme",
+			"lower": 252,
+			"upper": 274,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "'O' Level Programme",
+			"lower": 249,
+			"upper": 259,
+			"lowerAffiliated": 240,
+			"upperAffiliated": 253
 		}
 	],
 	"postalCode": "579767",
@@ -491,7 +466,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 37,
 		"PLACES TAKEN UP TO PHASE 2B": 219,
 		"VACANCY FOR PHASE 2C": 21,
-		"NO. OF APPLICANTS IN PHASE 2C": 46
+		"NO. OF APPLICANTS IN PHASE 2C": 46,
+		"PLACES TAKEN UP TO PHASE 2C": 240
 	},
 	"id": "7102"
 }

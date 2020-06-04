@@ -14,12 +14,12 @@
 	],
 	"email": "innova_pri@moe.edu.sg",
 	"mrt": "Woodlands",
-	"bus": "900A (weekdays only - 7.00 am to 8.30 am & 4.30 pm to 6.30 pm) , 901 ",
+	"bus": "900A (weekdays only - 7.00 am to 8.30 am &amp; 4.30 pm to 6.30 pm) , 901 ",
 	"GeneralInformation": {
 		"Principal": "MISS WINDERSALAM SHYAMALA DEVI",
 		"Vice Principal": [
 			"MDM TAY GEK KHIM",
-			"MR WONG CHEE WAI (HUANG ZHIWEI)"
+			"MR LAU YEAN HUI"
 		],
 		"School Vision": [
 			"Our Vision is to be an Inspirational, Innovative and Inviting school ",
@@ -41,7 +41,7 @@
 		"CHINESE",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -60,7 +60,7 @@
 	],
 	"Cca": {
 		"Visual and Performing Arts": [
-			"Art And Craft Club"
+			"Art & Calligraphy Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -251,7 +251,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Dance - Chinese": "Silver",
 					"Dance - Malay": "Silver"
@@ -364,7 +364,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Dance - Chinese": "Gold",
 					"Dance - Malay": "Gold"
@@ -965,15 +965,95 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Ensemble - Harmonica": "Accomplishment",
 					"Art - Category B": "Recognition",
 					"Choir": "Commendation",
 					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"5th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
 					"Dance - Malay": "Distinction",
+					"Art - Category B": "Recognition",
+					"Choir": "Commendation",
+					"Dance - Chinese": "Distinction",
 					"Ensemble - Harmonica": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2020": {}
 		}
 	},
 	"postalCode": "737888"

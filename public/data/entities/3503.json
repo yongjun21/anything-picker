@@ -41,10 +41,10 @@
 		"Chinese",
 		"Chinese N(A)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"History",
@@ -100,104 +100,104 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Choir",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Drama - English",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Wind Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
 					"award": "Commendation"
 				},
 				{
-					"year": "2017",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
+					"year": "2019",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2017",
+					"year": "2019",
 					"category": "Dance - Malay",
-					"award": "Accomplishment"
+					"award": "Distinction"
 				},
 				{
-					"year": "2017",
+					"year": "2019",
 					"category": "Drama - English",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2017",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
 				}
@@ -206,30 +206,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 251,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 185,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 105,
-			"upper": 140,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -299,6 +275,30 @@
 			"programme": "Normal Technical",
 			"lower": 116,
 			"upper": 145,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 246,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 153,
+			"upper": 191,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 117,
+			"upper": 151,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

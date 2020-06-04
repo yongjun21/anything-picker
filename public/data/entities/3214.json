@@ -19,8 +19,10 @@
 	"bus": "39 , 811 , 812 , 851 , 852 , 853 , 854 , 855 , 858 , 965 , 969 ",
 	"GeneralInformation": {
 		"Principal": "Mr Sulaiman B Mohamad Yusof",
-		"Vice Principal": "Mdm Koh Hui Hui",
-		"Vice Principal (Admin)": "Mr Isaac Neo Teng Sing",
+		"Vice Principal": [
+			"Mdm Koh Hui Hui",
+			"Mr Lim Seow Kuan"
+		],
 		"School Vision": "Leaders of Character, School of Excellence",
 		"School Mission": "Every Navalite to achieve personal mastery and impact others positively.",
 		"School Philosophy, Culture and Ethos": "The school places strong emphasis on both performance and moral character for staff and students, with excellence being a key attitude trait. In NBSS, both staff and the students embrace the core values (ExC2ITe); Excellence, Care, Courage, Integrity and Teamwork, which anchor the way all will behave. This is also reflected in the school's motto: Enitamur in Alitora (Be Our Best - aim to achieve as high as possible, be at one's best and inspire others). The school thus sees excellence both as a value and an attitude while success is the outcome of exhibiting excellence.",
@@ -35,9 +37,9 @@
 		"Chemistry",
 		"Chinese",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"English Language",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Humanities (Ss, Geography)",
 		"Humanities (Ss, History)",
 		"Humanities (Ss, Lit In English)",
@@ -85,53 +87,18 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -193,6 +160,36 @@
 				},
 				{
 					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Drama - English",
 					"award": "Accomplishment"
 				}
@@ -201,30 +198,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 189,
-			"upper": 251,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 158,
-			"upper": 198,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 123,
-			"upper": 155,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -294,6 +267,30 @@
 			"programme": "Normal Technical",
 			"lower": 131,
 			"upper": 156,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 205,
+			"upper": 235,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 168,
+			"upper": 196,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 130,
+			"upper": 159,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

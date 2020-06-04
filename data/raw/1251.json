@@ -29,7 +29,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"HEALTH EDUCATION",
@@ -158,11 +158,11 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Choir": "Bronze",
 					"Art - Category B": "Recognition",
 					"Dance - International": "Bronze",
 					"Ensemble - Guitar": "Silver",
-					"Ensemble - Harmonica": "Silver"
+					"Ensemble - Harmonica": "Silver",
+					"Choir": "Bronze"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -369,7 +369,17 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Commendation",
+					"Dance - International": "Distinction",
+					"Ensemble - Guitar": "Commendation",
+					"Ensemble - Harmonica": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "828848"

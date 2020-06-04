@@ -39,10 +39,10 @@
 		"CHINESE",
 		"CHINESE B",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -98,7 +98,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"STEM": "Chemical and Applied Sciences (Fragrance)",
+			"STEM": "Chemical and Life Sciences (Perfumery)",
 			"Community & Youth Leadership": "i-LEAD @ Bartley (Leadership Experience and Development)"
 		},
 		"Special Student Development Programmes Offered": "The school's Learning for Life Programme (LLP) is on Community Youth Leadership. As part of the LLP, all Bartleyans undergo the Student Leadership Development Programme, coupled with Outdoor Experiential Learning, to nurture them to be courageous, optimistic and responsible leaders of self and for others. The 7 Habits of Highly Effective Youths (7 HEY) programme underpins the school's character development effort. Through this programme, students learn to live out the school's motto of Facta Non Verba (Deeds not Words). "
@@ -435,10 +435,10 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Drama - Chinese": "Silver",
-					"Ensemble - Guzheng": "Silver",
 					"Band - Concert": "Bronze",
-					"Dance - Malay": "Silver"
+					"Dance - Malay": "Silver",
+					"Drama - Chinese": "Silver",
+					"Ensemble - Guzheng": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1389,7 +1389,17 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Commendation",
+					"Choir": "Commendation",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1645,6 +1655,23 @@
 			"Normal Technical": [
 				"107",
 				"150",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"188",
+				"252",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"155",
+				"192",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"100",
+				"149",
 				"None-posted"
 			]
 		}

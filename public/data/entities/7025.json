@@ -14,9 +14,10 @@
 	],
 	"email": "ccss@moe.edu.sg",
 	"mrt": [
-		"Woodlands MRT"
+		"Woodlands MRT",
+		"Woodlands South MRT"
 	],
-	"bus": "901",
+	"bus": "901 , 901M ",
 	"GeneralInformation": {
 		"Principal": "Mr Lau Yan Boon David",
 		"Vice Principal": [
@@ -25,10 +26,10 @@
 		],
 		"School Vision": "Purposeful Leaders with God as the Enabler",
 		"School Mission": "Empowering our Students to be ready for Service to the Nation.",
-		"School Philosophy, Culture and Ethos": "Education is for life. It helps to prepare our youths for responsibilities and successes in their journey of continuous learning. At Christ Church Secondary School (CHR), we strongly believe that our primary role is to nurture the whole child, and we endeavour to reflect this in every interaction with our students. Holding fast to our philosophy that each child has worth and must be nurtured to reach his/her fullest potential, the school aims to provide a holistic and integrated education for all students through our CHR AOP curriculum where the three components - Academic (A), Outdoor Education (O) and Pupil Well-being and Developmental Discipline (P) education ensure our students grow and develop into caring, persevering and forward-looking members of the community. Together with our nurturing team of staff, supportive parents, alumni and key stakeholders, we are dedicated to build the lives of our young charges.",
+		"School Philosophy, Culture and Ethos": "Success comes in many forms and everyone will chart their own paths to realise their potential. In Christ Church Secondary School, we are committed to enabling our students to take charge of their lives and keep focus on the things that matter most to them by learning to appreciate themselves and taking ownership of their own growth. Holding fast to our philosophy that each child has worth and must be nurtured to reach his/her fullest potential, the school aims to develop our students to be purposeful leaders where they have the drive to excel, are thoughtful contributors and active learners. Together with our nurturing team of staff, supportive parents, alumni and key stakeholders, we are dedicated to build the lives of our young charges.",
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
-		"Affiliated Schools": "St. Andrew's Junior College"
+		"Affiliated Schools": "St. Andrew&#39;s Junior College"
 	},
 	"SubjectOffered": [
 		"Additional Mathematics",
@@ -40,24 +41,24 @@
 		"Chemistry",
 		"Chinese",
 		"Chinese B",
-		"Civics & Moral Education",
-		"Combined Humanities (S,G)",
-		"Combined Humanities (S,H)",
+		"Civics &amp; Moral Education",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Higher Chinese",
-		"Home Economics",
+		"Humanities (Ss, Geography)",
+		"Humanities (Ss, History)",
 		"Literature(E)",
 		"Malay",
 		"Malay B",
 		"Mathematics",
+		"Music",
 		"Physical Education",
 		"Physics",
-		"Principles Of A/C",
+		"Principles Of Accounts",
 		"Science (Phy, Chem)",
 		"Social Studies",
 		"Tamil",
@@ -97,47 +98,22 @@
 			"STEM": "Developing 21st Century Competencies through an Inquiry approach  in Health Science and Technology",
 			"Sports & Outdoor Education": "Developing Social Emotional Learning Competencies through Outdoor Adventure Learning"
 		},
-		"Special Student Development Programmes Offered": "The school's LLP, Developing Social Emotional Learning Competencies through Outdoor Adventure Learning, provides all students with authentic experiences to hone their Social Emotional Competencies and  demonstrate the school core values of Responsibility, Integrity, Care, Perseverance and Forward-Looking. Through exploring their environment, both local and overseas, they not only challenge themselves but also collaborate with one another to achieve their goals. The programme will bring students out of their comfort zones, allowing them to discover their potential to overcome challenges and build their character. The school's ALP, Developing 21st Century Competencies through an Inquiry Approach in Health Science and Technology, provides students with the opportunity to apply academic knowledge learnt across disciplines to authentic situations. Students acquire critical and inventive thinking dispositions and communications skills which prepares them for the complexities and challenges faced in the era of innovation and uncertainty. To develop confident and self-directed learners who take responsibility for their own learning, the school engages its students through a blended learning approach, which allows the thoughtful integration of ICT and a rich array of structured learning opportunities.  Key anchor programmes such as the Chingay Project for English and Humanities, Science Lower Seletar Reservoir Project, and Learning Mother Tongue through Drama and experiential learning journeys help to ignite interest and joy in learning."
+		"Special Student Development Programmes Offered": "The school experience for our CHRians focuses on students knowing themselves during their Lower Secondary years and, as they progress to the Upper Secondary level, to continue to challenge themselves and strive towards building their dreams and contributing their best in all that they do. In building students' resilience and a can-do mindset, the school's Learning for Life Programme (LLP)- \"Developing Social Emotional Learning Competencies through Outdoor Adventure Learning\" is key to drawing our students out of their comfort zones and helping them discover their potential to overcome their fears and limitations.  The school believes that the cumulative successes in overcoming challenges will help build their social emotional competencies, putting them on the road to facing life with determination and living an active lifestyle. The school provides students with the opportunity to apply academic knowledge learnt across disciplines to authentic situations in collaboration with Woodlands Healthcare Campus (WHC) through the Applied Learning Programme (ALP)- \"Developing 21st Century Competencies through an Inquiry Approach in Health Science and Technology\".  Using Design Thinking process in ALP, students acquire critical and inventive thinking dispositions, empathy and communications skills through which prepare them for the complexities and challenges faced in the era of innovation and uncertainty."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -184,6 +160,31 @@
 				},
 				{
 					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Drama - English",
 					"award": "Accomplishment"
 				}
@@ -192,30 +193,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 199,
-			"upper": 245,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 165,
-			"upper": 197,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 107,
-			"upper": 151,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -285,6 +262,30 @@
 			"programme": "Normal Technical",
 			"lower": 109,
 			"upper": 155,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 207,
+			"upper": 235,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 170,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 122,
+			"upper": 156,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

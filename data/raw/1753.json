@@ -32,9 +32,9 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -65,8 +65,7 @@
 			"Band - Concert",
 			"Choir",
 			"Dance - Indian",
-			"Dance- Chinese",
-			"Dance- Malay Aesthetics"
+			"Dance- Chinese"
 		],
 		"Clubs & Societies": [
 			"Health And Fitness Club"
@@ -574,12 +573,12 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Commendation",
 					"Dance - Chinese": "Distinction",
 					"Dance - Indian": "Accomplishment",
-					"Dance - Malay": "Distinction",
-					"Art - Category C": "Recognition"
+					"Dance - Malay": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -664,7 +663,18 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "648368"

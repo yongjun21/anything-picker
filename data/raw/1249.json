@@ -32,11 +32,11 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -52,7 +52,7 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Soccer",
+			"Football",
 			"Tchoukball",
 			"Wushu"
 		],
@@ -60,15 +60,14 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
+			"Chinese Dance",
 			"Choir",
-			"Dance - Chinese",
-			"Dance - Malay",
-			"String Ensemble Club",
-			"Visual Arts Club"
+			"Malay Dance",
+			"Visual Art"
 		],
 		"Clubs & Societies": [
 			"Library",
-			"Robotics & Innovation Club"
+			"Robotics And Innovation"
 		]
 	},
 	"SpecialProgrammes": {
@@ -208,11 +207,11 @@
 			},
 			"2016": {
 				"SYF Arts Presentation": {
+					"Choir": "Accomplishment",
 					"Art - Category A": "Recognition(Sm)",
 					"Art - Category C": "Recognition",
 					"Dance - Chinese": "Distinction",
-					"Dance - Malay": "Distinction",
-					"Choir": "Accomplishment"
+					"Dance - Malay": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -288,11 +287,11 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Dance - Chinese": "Distinction",
 					"Art - Category A": "Recognition",
 					"Art - Category C": "Recognition",
 					"Choir": "Accomplishment",
-					"Dance - Malay": "Distinction",
-					"Dance - Chinese": "Distinction"
+					"Dance - Malay": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -306,7 +305,16 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "679944"

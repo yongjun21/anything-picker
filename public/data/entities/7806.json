@@ -21,10 +21,10 @@
 	"GeneralInformation": {
 		"Principal": "Mr Seet Tiat Hee",
 		"Vice Principal": [
-			"Mr Ho Kum Fai",
+			"Mr Ho Kum Fai Sam",
 			"Mr Chan Teck Hong David"
 		],
-		"Vice Principal (Admin)": "Mr Michael John Peter Lau Chong Lum",
+		"Vice Principal (Admin)": "Mdm Lee Kee Meng",
 		"School Vision": "Advocating a Promising Future for Every Student.",
 		"School Mission": "We are committed to providing a caring and creative learning environment that customises authentic learning experiences, builds our students' character and equips them for academic progression and employment.",
 		"School Philosophy, Culture and Ethos": "Crest Secondary School's vision underscores our firm belief in our students' potential to succeed in their talents, areas of strength and passion, and our steadfast commitment in enabling them to realise their aspirations. As a Specialised School for Normal (Technical) students, we offer a four-year customised curriculum that integrates both academic learning and vocational training. Learning is practice-oriented, with an emphasis on skills development to better prepare our students for post-secondary learning at the Institute of Technical Education (ITE) and for future employment. Industry attachment is an important component of our students' holistic learning experience. In addition, our teachers deploy innovative pedagogies to strengthen our students' literacy and numeracy skills through real-world, ICT-enriched learning contexts. The school adopts a multi-faceted approach to develop our students as well-rounded individuals, anchored in good character and equipped with the skills and social and emotional competencies to succeed in life. The school collaborates with many partners from the industry and community to support our students' learning and holistic development. At the end of Sec 4, our students will graduate with the GCE 'N' Level Certificate and the ITE Skills Subject Certificate (ISSC).",
@@ -36,25 +36,20 @@
 		"Basic Chinese",
 		"Basic Malay",
 		"Basic Tamil",
-		"Character & Citizenship (NT)",
-		"Culinary & Restaurant Operations",
+		"Character &amp; Citizenship (NT)",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
 		"Every Crestan Can Code",
 		"Fabulous Merchandise Display",
 		"Infocomm Technology (NT)",
 		"Input To Output",
-		"Internet Of Things Applications",
-		"Let's Get Connected",
+		"Let&#39;s Get Connected",
 		"Link Up The World",
 		"Looks Good, Tastes Good",
 		"Mathematics (Syllabus A)",
 		"Mathematics (Syllabus T)",
-		"Mechanical Design & Automation",
-		"Mobile Web Applications",
 		"Passion To Serve",
 		"Physical Education",
-		"Retail & E-commerce",
 		"Science",
 		"Service With A Smile",
 		"Visual Arts",
@@ -82,8 +77,8 @@
 		],
 		"Clubs & Societies": [
 			"Entrepreneurship Club",
+			"Explorer's Club",
 			"Innovation Club",
-			"Library Club",
 			"New Media Club",
 			"Service Club"
 		]
@@ -96,29 +91,12 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band-Display-Percussion Ensemble",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -172,6 +150,31 @@
 					"year": "2018",
 					"category": "Ensemble - Guitar",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Display-Percussion Ensemble",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Percussion Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": []

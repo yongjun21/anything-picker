@@ -17,24 +17,24 @@
 	"mrt": [
 		"Kembangan MRT"
 	],
-	"bus": "10 , 12 , 13 , 14 , 16 , 31 , 32 , 36 , 40 , 48 , 55 , 76 , 155 , 135 , 196 , 197 ",
+	"bus": "10 , 10e , 12 , 13 , 14 , 14e , 15 , 16 , 31 , 32 , 36 , 40 , 43 , 47 , 48 , 55 , 135 , 150 , 155 , 196 , 197 ",
 	"GeneralInformation": {
-		"Principal": "Mr Eric Lee Wei Tat",
+		"Principal": "Mr Mark Gerard Minjoot",
 		"Vice Principal": [
 			"Mr Leong Tshun Khong Paul",
 			"Ms Ng Foong Meng"
 		],
 		"School Vision": "A Lasallian Institution that nurtures Patricians to be worthy of God and man.",
 		"School Mission": "Touch hearts. Engage minds. Transform lives.",
-		"School Philosophy, Culture and Ethos": "As a Lasallian institution, St. Patrick's School seeks to imbue in its students the values of faith, service, community, honesty, humility and humanity. Patricians are constantly challenged to live the school values at all times in their pursuit of excellence in the academic and co-curricular areas. The school works closely with parents and other stakeholders to ensure that every student has a sound moral compass. The school motto \"Potest Qui Vult\", meaning \"He who wills, can\", is instilled in all students to enable them to respond with resilience in the face of challenges and adversity. The school also has a strong culture of care for all students and staff. It is within this caring environment that Patricians grow and develop to become mature and self-confident leaders who are always ready to serve society. These attributes make St. Patrick's School stand out as a 'School of Life'.",
-		"Type of School": "Government-aided Sch / Boys' School / Single Session",
+		"School Philosophy, Culture and Ethos": "As a Lasallian institution, St. Patrick's School seeks to imbue in its students the values of faith, service, community, honesty, humility and humanity. Patricians are constantly challenged to live the school values at all times in their pursuit of excellence in the academic and co-curricular areas. The school works closely with parents and other stakeholders to ensure that every student has a sound moral compass. The school motto \"Potest Qui Vult\", meaning \"He who wills, can\", is instilled in all students to enable them to respond with resilience in the face of challenges and adversity. The school also has a strong culture of care for all students and staff. It is within this caring environment that Patricians grow and develop to become mature and self-confident leaders who are always ready to serve society.",
+		"Type of School": "Government-aided Sch / Boys&#39; School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
 			"Catholic Junior College",
 			"De La Salle School",
-			"St. Joseph's Institution Junior",
-			"St. Stephen's School",
-			"St. Anthony's Primary School"
+			"St. Joseph&#39;s Institution Junior",
+			"St. Stephen&#39;s School",
+			"St. Anthony&#39;s Primary School"
 		]
 	},
 	"SubjectOffered": [
@@ -45,12 +45,11 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Chinese B",
 		"Computer Applications",
 		"Computing",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"English Language",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Food Studies, N Level",
 		"Geography",
@@ -112,33 +111,18 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -165,6 +149,21 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guitar",
 					"award": "Distinction"
 				}
@@ -173,30 +172,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 232,
-			"upper": 244,
-			"lowerAffiliated": 188,
-			"upperAffiliated": 246
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 185,
-			"upper": 199,
-			"lowerAffiliated": 152,
-			"upperAffiliated": 189
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 130,
-			"upper": 151,
-			"lowerAffiliated": 116,
-			"upperAffiliated": 150
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -268,6 +243,30 @@
 			"upper": 151,
 			"lowerAffiliated": 116,
 			"upperAffiliated": 151
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 233,
+			"upper": 238,
+			"lowerAffiliated": 201,
+			"upperAffiliated": 240
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 184,
+			"upper": 193,
+			"lowerAffiliated": 152,
+			"upperAffiliated": 194
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 143,
+			"upper": 155,
+			"lowerAffiliated": 110,
+			"upperAffiliated": 148
 		}
 	],
 	"postalCode": "429058",

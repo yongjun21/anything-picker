@@ -32,7 +32,7 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART NA LEVEL",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
@@ -40,11 +40,11 @@
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"EXERCISE AND SPORTS SCIENCE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"FOOD STUDIES, N LEVEL",
 		"GEOGRAPHY",
@@ -90,8 +90,8 @@
 			"Drama - English"
 		],
 		"Clubs & Societies": [
-			"Infocom 3D Animation",
-			"Mechantronics, Aeronautical & Robotics",
+			"Digital Animation",
+			"Mechatronics, Aeronautical & Robotics",
 			"Media Club - Ava & Videography",
 			"Media Club - Photography"
 		]
@@ -230,18 +230,18 @@
 			},
 			"2009": {
 				"SYF Central Judging": {
-					"Band - Concert": "Gold",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Gold (Hons)",
 					"Dance - Malay": "Gold (Hons)",
-					"Drama - English": "Gold"
+					"Drama - English": "Gold",
+					"Band - Concert": "Gold"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2010": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Gold",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
@@ -267,7 +267,7 @@
 					"SAA (Uniformed Groups)"
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold (Hons)",
 					"Dance - Chinese": "Silver",
@@ -477,17 +477,30 @@
 			"2018": {
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"SYF Arts Presentation": {
+					"Drama - English": "Distinction",
 					"Art - Category B": "Recognition(Sm)",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Distinction",
 					"Dance - Chinese": "Distinction",
 					"Dance - Indian": "Distinction",
-					"Dance - Malay": "Distinction",
-					"Drama - English": "Distinction"
+					"Dance - Malay": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -738,6 +751,23 @@
 			"Normal Technical": [
 				"114",
 				"157",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"189",
+				"238",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"183",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"109",
+				"147",
 				"None-posted"
 			]
 		}

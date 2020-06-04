@@ -14,13 +14,16 @@
 	],
 	"email": "einstein@highsch.nus.edu.sg",
 	"mrt": "Nearest MRT Stations - Clementi and Dover",
-	"bus": "96 , 97 , 151 , 183 , 188 , 196 , 197 , 198 ",
+	"bus": "96 , 97 , 151 , 183 , 188 , 189 , 196 , 197 , 198 ",
 	"GeneralInformation": {
-		"Principal": "MRS LEE BEE YANN",
-		"Vice Principal": "MR GOH HOCK LEONG",
+		"Principal": "MDM SOH LAI LENG MAGDALEN",
+		"Vice Principal": [
+			"MR GOH HOCK LEONG",
+			"MR CLIFTON KOH SIEW BOON"
+		],
 		"Vice Principal (Admin)": "MRS DOREEN GAN SOO HONG",
-		"School Vision": "To be a Wellspring of Inspiration for Math & Science Education and Research.",
-		"School Mission": "The NUS High School will nurture well-rounded and world-ready scientific minds to make distinguished contributions as Pioneers, Achievers, Thinkers & Humanitarians.",
+		"School Vision": "Future-ready Pioneers, Humanitarians and Innovators for the world.",
+		"School Mission": "To inspire and shape the future of education in mathematics and science.",
 		"Type of School": "SPECIALISED INDEPENDENT SCHOOL / CO-ED SCHOOL / FULL DAY",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -341,7 +344,110 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Dance - Chinese": "Distinction",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		},
 		"Junior College": {
 			"2005": {},
@@ -423,7 +529,17 @@
 					"Ensemble - Strings": "Accomplishment"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition(Sm)",
+					"Chinese Orchestra-Mixed Ensemble": "Distinction",
+					"Choir": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Strings": "Commendation"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -441,7 +557,8 @@
 		"2016": {},
 		"2017": {},
 		"2018": {},
-		"2019": {}
+		"2019": {},
+		"2020": {}
 	},
 	"L1R5History": {
 		"2005": {},
@@ -458,7 +575,8 @@
 		"2016": {},
 		"2017": {},
 		"2018": {},
-		"2019": {}
+		"2019": {},
+		"2020": {}
 	},
 	"postalCode": "129957"
 }

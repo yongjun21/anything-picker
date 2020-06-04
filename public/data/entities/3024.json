@@ -14,9 +14,10 @@
 	],
 	"email": "fcss@moe.edu.sg",
 	"mrt": [
-		"Marsiling MRT"
+		"Marsiling MRT",
+		"Woodlands MRT"
 	],
-	"bus": "187 , 856 , 912 , 925 , 926 , 950 , 960 , 961 , 963 , 966 , 912B ",
+	"bus": "187 , 856 , 912 , 913M , 925 , 926 , 950 , 960 , 961 , 963 , 966 , 912B ",
 	"GeneralInformation": {
 		"Principal": "Mdm Ong Bee Lian Doris",
 		"Vice Principal": [
@@ -38,10 +39,10 @@
 		"Chinese",
 		"Chinese B",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Higher Chinese",
 		"Humanities (Ss, Geography)",
@@ -53,7 +54,6 @@
 		"Music",
 		"Physical Education",
 		"Physics",
-		"Principles Of Accounts",
 		"Science (Chem, Bio)",
 		"Science (Phy, Chem)",
 		"Science (Syll T)",
@@ -96,17 +96,10 @@
 			"STEM": "Innovations in Science & Technology for Sustain-Ability",
 			"Music & Performing Arts": "Values Through Dance"
 		},
-		"Special Student Development Programmes Offered": "Your child is unique, blessed with talents and fired with passion in his or her interests which is why, within our framework of holistic development, we provide a host of exciting opportunities to maximise the potential of your child through various Talent Identification Programmes. We offer two distinctive programmes  -  the Applied Learning Programme (ALP), 'Innovations in Science and Technology for SustainAbility' to engage students in simulation, modelling and mBot, and the Learning for Life Programme  (LLP), 'Values Through Dance', which students develop character through dance and other performing arts in school. To nurture life-long LEARNERS, we introduce interdisciplinary project work at Lower Secondary, task-based assessments and Values-In-Action projects at Upper Secondary to imbue life skills and 21st Century skills. Our student LEADERS are active contributors to community work. Fuchun Secondary offers all students opportunities to develop their leadership skills and confidence building workshops. Believers in the green cause can participate in our environmental programme that has earned various accolades including the SEC's highest achievement, the Lotus Award, and the NEA's 3R Gold Award. Aligned to our vision of every student an EXPLORER, our students enjoy opportunities to learn beyond the classroom and participate in overseas trips in their 4-5 years in Fuchun Secondary."
+		"Special Student Development Programmes Offered": "Your child is unique, blessed with talents and fired with passion in his or her interests which is why, within our framework of holistic development, we provide a host of exciting opportunities to maximise the potential of your child through various Talent Identification Programmes. We offer two distinctive programmes  -  the Applied Learning Programme (ALP), 'Innovations in Science and Technology for SustainAbility' to engage students in simulation, modelling and mBot, and the Learning for Life Programme  (LLP), 'Values Through Dance', which students develop character through dance and other performing arts in school. To nurture life-long LEARNERS, we introduce interdisciplinary project work at Lower Secondary, task-based assessments and Values-In-Action projects at Upper Secondary to imbue life skills and 21st Century skills. Our student LEADERS are active contributors to community work. Fuchun Secondary offers all students opportunities to develop their leadership skills and confidence building workshops. Believers in the green cause can participate in our environmental programme that has earned various accolades including the SEC's highest achievement, the Vanda Miss Joaquim Award. Aligned to our vision of every student an EXPLORER, our students enjoy opportunities to learn beyond the classroom and participate in overseas trips in their 4-5 years in Fuchun Secondary."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -121,49 +114,16 @@
 				],
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -240,6 +200,41 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
 				}
@@ -248,30 +243,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 252,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 192,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 113,
-			"upper": 151,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -341,6 +312,30 @@
 			"programme": "Normal Technical",
 			"lower": 100,
 			"upper": 156,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 236,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 193,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 108,
+			"upper": 148,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

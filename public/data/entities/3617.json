@@ -14,7 +14,7 @@
 	],
 	"email": "ZHENGHUA_SS@MOE.EDU.SG",
 	"mrt": [],
-	"bus": "920 , 922 ",
+	"bus": "920 , 922 , 976 ",
 	"GeneralInformation": {
 		"Principal": "Mr Lin Yucheng Eugene",
 		"Vice Principal": [
@@ -22,7 +22,7 @@
 			"Mr Phor Hoay Guan"
 		],
 		"School Vision": "Every Student, A Principled and Future-Ready Leader",
-		"School Mission": "To prepare every student to better meet the challenges of the future by building the student's emotional, ethical, intellectual, physical and social capacity through organisational commitment, competence and compassion.",
+		"School Mission": "To prepare every student to better meet the challenges of the future by building the student's emotional, ethical, intellectual, physical and social capacity.",
 		"School Philosophy, Culture and Ethos": "Strong fundamental skills and values are at the centre of Zhenghua Secondary's endeavours. The school establishes a firm foundation for future learning by teaching core learning skills and instilling in our students a strong moral compass to face challenges with resilience and integrity. In academic learning, students are encouraged to take responsibility for their learning and be independent in the pursuit of knowledge. Problem-based and inquiry-based learning continue to be key teaching strategies to promote critical, creative and independent thinking. These efforts have yielded value-added outcomes.  We have a caring environment in which students and teachers have strong rapport. Our strong emphasis on holistic development is reflected in our unique Outdoor Education and Leadership programmes. We have an Adventure and Leadership Training Centre with facilities such as the high elements challenge ropes course and the outdoor and indoor rock walls. Outdoor education is infused in our PE programme. We are proud of the many achievements of our Uniformed Groups and Aesthetics groups. The school was conferred the Lee Hsien Loong Award for Innovations in the Normal Course for our efforts in providing our students with meaningful learning experiences. We offer Direct School Admission (DSA) to suitable P6 students who demonstrate exemplary leadership competencies or who have excelled in their respective uniformed groups.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -32,7 +32,7 @@
 		"Additional Mathematics",
 		"Art Na Level",
 		"Art Nt Level",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Biology",
@@ -40,15 +40,16 @@
 		"Chinese",
 		"Chinese N(A)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
+		"History",
 		"Humanities (Ss, Geography)",
 		"Humanities (Ss, History)",
 		"Humanities (Ss, Lit In English)",
@@ -88,7 +89,7 @@
 			"Band - Symphonic",
 			"Chinese Drums",
 			"Choir",
-			"Dance - Modern",
+			"Dance - Malay",
 			"Drama Club",
 			"Drums Ensemble",
 			"Ensemble - Handbell/Handchime"
@@ -111,14 +112,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Special Awards": "LHL Award for Innovation in the Normal Course",
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -127,34 +120,12 @@
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -211,6 +182,36 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Accomplishment"
 				}
@@ -219,30 +220,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 210,
-			"upper": 240,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 167,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 124,
-			"upper": 159,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -312,6 +289,30 @@
 			"programme": "Normal Technical",
 			"lower": 136,
 			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 210,
+			"upper": 237,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 169,
+			"upper": 198,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 129,
+			"upper": 158,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

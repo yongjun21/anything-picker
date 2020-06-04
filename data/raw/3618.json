@@ -17,10 +17,8 @@
 	"bus": "307 , 302 , 160 , 170 , 178 , 925 , 927 , 960 , 961 ",
 	"GeneralInformation": {
 		"Principal": "MR LEONG KOK KEE",
-		"Vice Principal": [
-			"MDM PUSHPARANI D/O K NADARAJAH",
-			"MRS TANG HUAY JIUAN PATRINE"
-		],
+		"Vice Principal": "MRS TANG HUAY JIUAN PATRINE",
+		"Vice Principal (Admin)": "MR THANGARASU PUBALAN",
 		"School Vision": "A Self-Directed Learner. A Confident Leader. In Pursuit of Excellence",
 		"School Mission": "Realising the Potential of Our Students",
 		"School Philosophy, Culture and Ethos": "Our students learn to be self-directed learners, who take pride in learning, think critically and make informed decisions. They lead and motivate others to effect positive changes in school and community. In the pursuit of excellence, our students embrace self-belief, seek progress and turn challenges into opportunities for learning and growth.  More importantly, they are grounded in the right school values of \"Pride, Respect, Integrity, Determination and Empathy\". Our staff firmly believes in a student-centric education and we are committed to help students realise their aspirations.",
@@ -34,10 +32,10 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
 		"EXERCISE AND SPORTS SCIENCE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"GEOGRAPHY",
 		"HISTORY",
 		"HUMANITIES (SS, GEOGRAPHY)",
@@ -66,15 +64,14 @@
 		],
 		"Visual and Performing Arts": [
 			"Band - Concert",
-			"Elds",
+			"English Literary And Drama Society",
 			"Movement & Dance",
 			"Show Choir"
 		],
 		"Clubs & Societies": [
-			"Avpa",
 			"Entrepreneur Club",
 			"Environment Club",
-			"Infocom Club",
+			"Mediatech Club",
 			"Robotics Club"
 		]
 	},
@@ -1316,7 +1313,16 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1557,6 +1563,18 @@
 			"Normal Academic": [
 				"153",
 				"197",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"200",
+				"223",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"158",
+				"199",
 				"None-posted"
 			]
 		}

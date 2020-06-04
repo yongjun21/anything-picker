@@ -18,7 +18,7 @@
 	"GeneralInformation": {
 		"Principal": "MRS VALERIE PINTO",
 		"Vice Principal": [
-			"MDM CH'NG YUEN PING",
+			"MDM CH&#39;NG YUEN PING",
 			"MR LAWRENCE KOH"
 		],
 		"School Vision": "A School Of High Standards, Quality Learning and Holistic Development",
@@ -32,16 +32,16 @@
 		"ADDITIONAL MATHEMATICS",
 		"ART",
 		"ART NA LEVEL",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE B",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -1326,7 +1326,20 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Commendation",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1572,6 +1585,18 @@
 			"Normal Academic": [
 				"165",
 				"199",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"218",
+				"240",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"164",
+				"191",
 				"None-posted"
 			]
 		}

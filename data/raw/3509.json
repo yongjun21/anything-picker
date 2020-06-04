@@ -39,9 +39,9 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"HIGHER CHINESE",
 		"HUMANITIES (SS, GEOGRAPHY)",
 		"HUMANITIES (SS, HISTORY)",
@@ -749,7 +749,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Bronze",
 					"Dance - Indian": "Bronze",
@@ -866,7 +866,7 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Accomplishment",
 					"Dance - Chinese": "Accomplishment",
 					"Ensemble - Guzheng": "Distinction"
@@ -1404,7 +1404,19 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1659,6 +1671,23 @@
 			],
 			"Normal Technical": [
 				"106",
+				"152",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"188",
+				"239",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"123",
 				"152",
 				"None-posted"
 			]

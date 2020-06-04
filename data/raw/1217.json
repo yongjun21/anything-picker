@@ -22,7 +22,7 @@
 			"DR AUDREY KOH CHOUK ENG"
 		],
 		"School Vision": "Inspiring Learners, Edifying Leaders",
-		"School Mission": "To nurture our pupils to be future-ready by providing a Total Education in RVPS",
+		"School Mission": "To nurture our students to be future-ready by providing a Total Education in RVPS",
 		"School Philosophy, Culture and Ethos": [
 			"Our vision \"Inspiring Learners, Edifying Leaders\" commits every RVian to work towards striving for the best outcomes for themselves and people around them. As Inspiring Learners, RVians have the passion for continuous learning, seek better ways of doing things and become committed members of the school as a learning organization. As Edifying Leaders, RVians have the confidence and leadership qualities to inspire, enrich and nurture the lives of others. We are committed to imbue our staff and pupils with this spirit of inspiring and edifying for us to contribute to the progress of our school and nation.",
 			"Our Philosophy",
@@ -51,7 +51,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"HEALTH EDUCATION",
@@ -70,7 +70,6 @@
 			"Floorball",
 			"Football",
 			"Netball",
-			"Swimming",
 			"Volleyball",
 			"Wushu"
 		],
@@ -377,8 +376,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold (Hons))": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Gold",
 					"Dance - Chinese": "Silver",
@@ -400,11 +399,11 @@
 					"SAA (CHERISH)"
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
 					"Choir": "Gold",
 					"Dance - Chinese": "Silver",
 					"Dance - International": "Gold (Hons)",
-					"Art & Craft (Silver)": "1 Award"
+					"Art &amp; Craft (Silver)": "1 Award"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -801,7 +800,86 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition(Sm)",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "237993"

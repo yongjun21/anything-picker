@@ -4,7 +4,7 @@
 	"levels": "P",
 	"uen": " T15GS0008G",
 	"logo": "./Medias/Images/Schools/logos/tn_1271.jpg",
-	"website": "http://www.waterwaypri.moe.edu.sg",
+	"website": "https://waterwaypri.moe.edu.sg",
 	"address": "70, Punggol Drive (828802)",
 	"telephone": [
 		"6636 6880"
@@ -17,7 +17,7 @@
 	"bus": "50 , 381 ",
 	"GeneralInformation": {
 		"Principal": "Mrs Wee Kwan Liam",
-		"Vice Principal": "Mr Hoy Kin Chung Edwin",
+		"Vice Principal": "Mdm Chua Kim Lan Judy",
 		"Vice Principal (Admin)": "Mr Daljit Singh S/o Darbara Singh",
 		"School Vision": "A Life-long Learner, A Gracious Citizen",
 		"School Mission": "To build a vibrant environment that nurtures young minds and builds upright character",
@@ -54,14 +54,21 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Languages": "Orators@Waterway"
+			"Languages": "Orators@Waterway",
+			"Others": "Growth and Benefit Mindset"
 		},
 		"Special Student Development Programmes Offered": "We provide a holistic education for our pupils to prepare them for life and work in the future. We want learning to be fun and meaningful. Some of our key programmes include:"
 	},
 	"AchievementHistory": {
 		"Primary": {
 			"Sports & Games Competition": [],
-			"SYF": [],
+			"SYF": [
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				}
+			],
 			"Best Unit Award": []
 		}
 	},
@@ -99,7 +106,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 115,
 		"VACANCY FOR PHASE 2C": 165,
-		"NO. OF APPLICANTS IN PHASE 2C": 140
+		"NO. OF APPLICANTS IN PHASE 2C": 140,
+		"PLACES TAKEN UP TO PHASE 2C": 255,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 25,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 25
 	},
 	"id": "1271"
 }

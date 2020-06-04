@@ -21,7 +21,7 @@
 			"MRS KOH CAIYU",
 			"MISS LOW BEE YEN"
 		],
-		"Vice Principal (Admin)": "MR NGEOW SIONG CHYE",
+		"Vice Principal (Admin)": "MDM SHARON LIM CHWEE HONG",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / FULL DAY",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -44,26 +44,27 @@
 		"H2 ART",
 		"H2 BIOLOGY",
 		"H2 CHEMISTRY",
-		"H2 CHINESE LANGUAGE & LITERATURE",
+		"H2 CHINESE LANGUAGE &amp; LITERATURE",
 		"H2 ECONOMICS",
 		"H2 FURTHER MATHEMATICS",
 		"H2 GEOGRAPHY",
 		"H2 HISTORY",
 		"H2 LITERATURE IN ENGLISH",
-		"H2 MALAY LANGUAGE & LITERATURE",
+		"H2 MALAY LANGUAGE &amp; LITERATURE",
 		"H2 MATHEMATICS",
 		"H2 PHYSICS",
-		"H2 TAMIL LANGUAGE & LITERATURE",
+		"H2 TAMIL LANGUAGE &amp; LITERATURE",
 		"H3 BIOLOGY",
 		"H3 CHEMISTRY",
+		"H3 ECONOMICS",
 		"H3 MATHEMATICS",
 		"H3 PHYSICS",
 		"NTU MOLECULAR BIOLOGY",
-		"NTU SEMICONDUCTOR PHYSICS & DEVICES",
+		"NTU SEMICONDUCTOR PHYSICS &amp; DEVICES",
 		"NUS MODERN PHYSICS",
-		"NUS-MOE HUMANITIES & SOC SCI RESEARCH (GEOG)",
-		"NUS-MOE HUMANITIES & SOC SCI RESEARCH (HIST)",
-		"NUS-MOE HUMANITIES & SOC SCI RESEARCH (LIT)"
+		"NUS-MOE HUMANITIES &amp; SOC SCI RESEARCH (GEOG)",
+		"NUS-MOE HUMANITIES &amp; SOC SCI RESEARCH (HIST)",
+		"NUS-MOE HUMANITIES &amp; SOC SCI RESEARCH (LIT)"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -96,15 +97,13 @@
 		],
 		"Clubs & Societies": [
 			"Audio & Video/ Pa Club",
-			"Chess Club",
 			"Debate And Creative Communications",
 			"Interact Club",
 			"Ldds - Chinese",
 			"Ldds - Indian",
-			"Outdoor Activities Club",
+			"Odac",
 			"Red Cross Youth",
-			"Science Society",
-			"Students' Council"
+			"Science Society"
 		]
 	},
 	"SpecialProgrammes": {
@@ -129,7 +128,83 @@
 			"2016": {},
 			"2017": {},
 			"2018": {},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Basketball",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"3rd",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"4th",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Harmonica": "Distinction"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"L1R5History": {
@@ -154,6 +229,20 @@
 			],
 			"Science/IB": [
 				"2",
+				"11"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2020": {
+			"Arts": [
+				"5",
+				"11"
+			],
+			"Science/IB": [
+				"3",
 				"11"
 			],
 			"Commerce": [

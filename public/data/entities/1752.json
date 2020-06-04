@@ -35,7 +35,7 @@
 		"Chinese",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -54,15 +54,13 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Athletics",
 			"Badminton",
 			"Hockey",
 			"Soccer",
 			"Taekwondo"
 		],
 		"Uniformed Groups": [
-			"Red Cross Youth",
-			"Scouts"
+			"Red Cross Youth"
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
@@ -73,9 +71,6 @@
 			"Guzheng",
 			"Indian Dance",
 			"Malay Dance"
-		],
-		"Clubs & Societies": [
-			"Robotics"
 		]
 	},
 	"SpecialProgrammes": {
@@ -87,48 +82,17 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": "PARTNERS (Merit)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Band-Brass",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category A",
@@ -213,6 +177,46 @@
 					"year": "2018",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Brass",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
@@ -255,7 +259,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 17,
 		"PLACES TAKEN UP TO PHASE 2B": 133,
 		"VACANCY FOR PHASE 2C": 107,
-		"NO. OF APPLICANTS IN PHASE 2C": 115
+		"NO. OF APPLICANTS IN PHASE 2C": 115,
+		"PLACES TAKEN UP TO PHASE 2C": 240
 	},
 	"id": "1752"
 }

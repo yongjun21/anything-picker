@@ -20,7 +20,7 @@
 	"bus": "SBS 123 , 131 , 275 SBS 65 ",
 	"GeneralInformation": {
 		"Principal": "Mr Muhammad Farizal Bin Umar Effe",
-		"Vice Principal": "Mr Low Min Chye",
+		"Vice Principal": "Mrs Linda Tan",
 		"Vice Principal (Admin)": "Mr Kwok Keng Lian",
 		"School Vision": "A School Where All Work Hard, Play Hard And Make A Mark",
 		"School Mission": "To Develop Each Child Holistically, Equipping Him With Competences For The Future",
@@ -35,7 +35,7 @@
 	"SubjectOffered": [
 		"Art",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -75,16 +75,13 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Coding": "Nurturing 21st Century Competencies through Computational Thinking With Design Thinking"
+			"Coding": "Nurturing 21st Century Competencies through Computational Thinking With Design Thinking",
+			"Sports & Outdoor Education": "G.R.I.T@RMPS – Growth Mindset.Resilience.Independence.Teamwork"
 		},
 		"Special Student Development Programmes Offered": "Applied Learning Programme: Nurturing 21st Century Competencies through Computational Thinking With Design Thinking"
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -93,39 +90,13 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -177,6 +148,26 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - Chinese",
 					"award": "Accomplishment"
 				}
@@ -217,7 +208,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 16,
 		"PLACES TAKEN UP TO PHASE 2B": 148,
 		"VACANCY FOR PHASE 2C": 52,
-		"NO. OF APPLICANTS IN PHASE 2C": 86
+		"NO. OF APPLICANTS IN PHASE 2C": 86,
+		"PLACES TAKEN UP TO PHASE 2C": 200
 	},
 	"id": "1072"
 }

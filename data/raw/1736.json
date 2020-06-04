@@ -37,7 +37,7 @@
 		"ART",
 		"CHINESE",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION TAMIL",
 		"HEALTH EDUCATION",
@@ -57,7 +57,6 @@
 			"Badminton",
 			"Basketball",
 			"Football",
-			"Sepak Takraw",
 			"Tchoukball",
 			"Wushu"
 		],
@@ -67,7 +66,6 @@
 		],
 		"Visual and Performing Arts": [
 			"Art And Craft Club",
-			"Choir",
 			"Dance - Indian",
 			"Dance - International",
 			"Dance - Malay",
@@ -75,7 +73,6 @@
 		],
 		"Clubs & Societies": [
 			"Chinese Language Club",
-			"Environmental Club",
 			"Infocom Club"
 		]
 	},
@@ -454,8 +451,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Indian": "Gold",
 					"Dance - International": "Silver",
@@ -558,8 +555,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Indian": "Gold",
 					"Dance - International": "Gold",
@@ -1149,7 +1146,18 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "529565"

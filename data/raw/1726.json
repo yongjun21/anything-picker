@@ -21,12 +21,8 @@
 			"MDM SITI SUHAILA BTE SAPIHE",
 			"MDM WONG WEI YI"
 		],
-		"School Vision": [
-			"A Bright Student ",
-			"A Talented Person",
-			"A Useful Citizen"
-		],
-		"School Mission": "Nurturing holistic and morally upright individuals to pursue excellence and rise to the challenges of the future",
+		"School Vision": "Values- Driven. Future Ready.",
+		"School Mission": "To nurture holistic and morally upright individuals to pursue excellence and rise to the challenges of the future.",
 		"School Philosophy, Culture and Ethos": [
 			"Touching Hearts, Engaging Minds",
 			"Providing a quality education that develops our pupils holistically has always been the mission of Juying Primary School. We firmly believe that every child can learn and wants to learn. We touch hearts and engage minds. ",
@@ -46,9 +42,10 @@
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION SCIENCE",
+		"FOUNDATION TAMIL",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
@@ -70,6 +67,7 @@
 		"Visual and Performing Arts": [
 			"Chinese Dance",
 			"Choir",
+			"Hip Hop Dance",
 			"Malay Dance",
 			"Percussion Ensemble"
 		],
@@ -100,9 +98,9 @@
 			},
 			"2007": {
 				"SYF Central Judging": {
-					"Dance - Malay": "Silver",
 					"Choir": "Bronze",
-					"Dance - Chinese": "Bronze"
+					"Dance - Chinese": "Bronze",
+					"Dance - Malay": "Silver"
 				}
 			},
 			"2008": {
@@ -203,7 +201,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"4th",
@@ -488,11 +486,11 @@
 			},
 			"2016": {
 				"SYF Arts Presentation": {
-					"Art - Category A": "Recognition",
-					"Choir": "Commendation",
 					"Dance - Chinese": "Accomplishment",
 					"Dance - International": "Accomplishment",
-					"Dance - Malay": "Distinction"
+					"Dance - Malay": "Distinction",
+					"Art - Category A": "Recognition",
+					"Choir": "Commendation"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -580,8 +578,88 @@
 			},
 			"2018": {
 				"SYF Arts Presentation": {
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
 					"Art - Category A": "Recognition",
 					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment"
+				}
+			},
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
 					"Art - Category C": "Recognition",
 					"Choir": "Accomplishment",
 					"Dance - Chinese": "Accomplishment",
@@ -589,7 +667,7 @@
 					"Dance - Malay": "Accomplishment"
 				}
 			},
-			"2019": {}
+			"2020": {}
 		}
 	},
 	"postalCode": "649037"

@@ -13,12 +13,11 @@
 		"64589886"
 	],
 	"email": "tgps@moe.edu.sg",
-	"mrt": "Ang Mo Kio & Bishan",
+	"mrt": "Ang Mo Kio &amp; Bishan",
 	"bus": "22 , 24 , 135 , 853 , 162 , 262 , 159 ",
 	"GeneralInformation": {
 		"Principal": "MR WONG JIA WANG",
 		"Vice Principal": "MDM RAPS AZRINAH",
-		"Vice Principal (Admin)": "MR KHOO THIAM HUAT",
 		"School Vision": "Nurturing Tomorrow's Leaders:  Creative Thinkers, Confident Communicators,  Lifelong Learners and Responsible Citizens.",
 		"School Mission": "We are committed to providing our pupils with quality education, inspiring our pupils towards excellence, creating a caring environment and working in partnership with stakeholders.",
 		"School Philosophy, Culture and Ethos": "The school's core values, encapsulated by the acronym TGPS, which stands for Team Spirit, Graciousness, Perseverance, and Self-Discipline are integral in shaping the TGPS spirit and culture, and inspire judgment, decisions and actions. The learning environment is supported by a caring culture that encourages experimentation, learning from doing and peer learning.",
@@ -31,7 +30,7 @@
 		"CHINESE",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
@@ -63,7 +62,7 @@
 			"Fusion Dance"
 		],
 		"Clubs & Societies": [
-			"Info Comm And Media Club",
+			"Media Club",
 			"Robotics Club",
 			"Science & Environmental Club"
 		]
@@ -263,7 +262,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold",
 					"Dance - International": "Silver",
@@ -330,17 +329,6 @@
 						"Senior"
 					],
 					[
-						"Rope Skipping",
-						"3rd",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
 						"Basketball",
 						"-",
 						"-",
@@ -350,10 +338,21 @@
 						"-",
 						"-",
 						"4th"
+					],
+					[
+						"Rope Skipping",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - International": "Bronze",
@@ -651,8 +650,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - International": "Silver",
@@ -751,8 +750,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Dance - Chinese": "Silver",
 					"Dance - International": "Silver",
 					"Ensemble - Guzheng": "Gold",
@@ -1145,10 +1144,10 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
 					"Choir": "Accomplishment",
 					"Dance - Chinese": "Accomplishment",
-					"Dance - International": "Accomplishment",
-					"Art - Category C": "Recognition"
+					"Dance - International": "Accomplishment"
 				}
 			},
 			"2017": {
@@ -1330,7 +1329,86 @@
 					"Ensemble - Guzheng": "Commendation"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"8th",
+						"-",
+						"8th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guzheng": "Commendation"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "569299"

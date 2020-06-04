@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MDM MOLIAH BINTE HASHIM",
 		"Vice Principal": [
-			"MR LEE WEI YAP, ROY",
-			"MISS NGIAM WEE HENG"
+			"MISS NGIAM WEE HENG",
+			"MR LEE FOOK LOONG EUGENE"
 		],
 		"Vice Principal (Admin)": "MR CHUA GIM HONG",
 		"School Vision": "Every Child an Engaged Learner, a Caring Citizen and a Steadfast Leader",
@@ -37,10 +37,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -83,6 +83,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"Innovation & Enterprise": "Designing For InclUsivity (Design4U)",
 			"Community Service & Student Leadership": "ASPIRE to Serve and Lead"
 		},
 		"Special Student Development Programmes Offered": "Excellence in Character Development"
@@ -92,20 +93,20 @@
 			"2005": {},
 			"2006": {
 				"SYF Central Judging": {
-					"Ensemble - Strings": "Silver",
-					"Orchestra - Chinese": "Silver",
 					"Band - Concert": "Bronze",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Gold",
 					"Dance - International": "Bronze",
-					"Dance - Malay": "Bronze"
+					"Dance - Malay": "Bronze",
+					"Ensemble - Strings": "Silver",
+					"Orchestra - Chinese": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2007": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
@@ -119,8 +120,6 @@
 			},
 			"2008": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
@@ -128,13 +127,15 @@
 					"Dance - Malay": "Silver",
 					"Ensemble - Harmonica": "Silver",
 					"Ensemble - Strings": "Silver",
-					"Orchestra - Chinese": "Silver"
+					"Orchestra - Chinese": "Silver",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Band - Concert": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2009": {
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
@@ -149,7 +150,7 @@
 			},
 			"2010": {
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold",
@@ -173,8 +174,8 @@
 					"SAA (CHERISH)"
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold",
@@ -199,8 +200,8 @@
 					"SAA (CHERISH)"
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
@@ -552,7 +553,23 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Commendation",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Harmonica": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "659163"

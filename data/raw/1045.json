@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MR ONG THIAM HUAT ROBIN",
 		"Vice Principal": [
-			"MDM CHERYL CHOO SHUEH-LI",
-			"MDM LEE HWEE KHENG"
+			"MDM LEE HWEE KHENG",
+			"MR CHEN ZHONGYI"
 		],
 		"School Vision": "A vibrant community of gracious citizens and passionate learners",
 		"School Mission": "We nurture all-rounded pupils of grace, distinction and sound moral values,ready to take on future endeavours.",
@@ -152,13 +152,13 @@
 					]
 				],
 				"SYF Central Judging": {
+					"Orchestra - Chinese": "Silver",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Gold",
 					"Dance - International": "Silver",
-					"Dance - Malay": "Silver",
-					"Orchestra - Chinese": "Silver"
+					"Dance - Malay": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -234,7 +234,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - Chinese": "Silver",
@@ -317,7 +317,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
@@ -491,7 +491,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -593,8 +593,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold",
@@ -613,8 +613,8 @@
 				],
 				"Sustained Achievement Award": "SAA (Aesthetics)",
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
 					"Band - Concert": "Gold",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
@@ -694,15 +694,15 @@
 			},
 			"2017": {
 				"SYF Arts Presentation": {
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
 					"Art - Category C": "Recognition",
 					"Band-Brass Ensemble": "Accomplishment",
 					"Band-Percussion Ensemble": "Commendation",
 					"Chinese Orchestra-Mixed Ensemble": "Commendation",
 					"Choir": "Commendation",
-					"Dance - Chinese": "Distinction",
-					"Dance - International": "Accomplishment",
-					"Dance - Malay": "Accomplishment",
-					"Dance - Indian": "Accomplishment"
+					"Dance - Chinese": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -790,7 +790,91 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band-Brass Ensemble": "Accomplishment",
+					"Band-Percussion Ensemble": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment",
+					"Dance - International": "Commendation"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "609476"

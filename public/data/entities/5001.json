@@ -31,7 +31,7 @@
 			"Central to our success at providing a holistic education for our students is the strong partnership we enjoy with our stakeholders and institutions in the wider community. At ACSJ, boys are part of a community that values each person's individual self-worth. They engage in meaningful activities while fostering firm friendships and ties that will last a lifetime.",
 			"We believe that under our nurturing environment, and being amongst a caring and congenial community of staff, students, parents and alumni, a student's primary years with us will be both fulfilled and meaningful. Our students will leave the school as confident young gentlemen, ready to move on to greater heights in their next stage in life for above all they stand by our motto: The Best Is Yet To Be."
 		],
-		"Type of School": "Government-aided Sch / Boys' School / Single Session",
+		"Type of School": "Government-aided Sch / Boys&#39; School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
 			"Anglo-Chinese School (Independent)",
@@ -41,7 +41,7 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
 		"Health Education",
@@ -67,8 +67,8 @@
 			"Tennis"
 		],
 		"Uniformed Groups": [
-			"Boys' Brigade",
-			"Cadet Scouts"
+			"Cadet Scouts",
+			"The Boys' Brigade"
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
@@ -91,11 +91,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": "PARTNERS (Merit)",
-				"Outstanding Development Award": "ODA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Outstanding Development Award": "ODA (Character Development)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -103,33 +98,11 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category A",
@@ -179,6 +152,31 @@
 					"year": "2018",
 					"category": "Ensemble - Strings",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
@@ -202,6 +200,7 @@
 		"TN"
 	],
 	"specialNeeds": [],
+	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 270,
 		"VACANCY FOR PHASE 1": 230,
@@ -217,7 +216,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 65,
 		"PLACES TAKEN UP TO PHASE 2B": 224,
 		"VACANCY FOR PHASE 2C": 46,
-		"NO. OF APPLICANTS IN PHASE 2C": 60
+		"NO. OF APPLICANTS IN PHASE 2C": 60,
+		"PLACES TAKEN UP TO PHASE 2C": 270
 	},
 	"id": "5001"
 }

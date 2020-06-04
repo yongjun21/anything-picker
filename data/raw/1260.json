@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "DR ANG WEK CHENG",
 		"Vice Principal": [
-			"MR CHUA CHYE HOCK",
-			"MDM SHARIFAH SAMIRAH BTE SYED MOHAMAD"
+			"MDM SHARIFAH SAMIRAH BTE SYED MOHAMAD",
+			"MR GOH ZENSEN"
 		],
 		"Vice Principal (Admin)": "MR CHONG WEE MING",
 		"School Vision": [
@@ -71,21 +71,21 @@
 	],
 	"Cca": {
 		"Physical Sports": [
+			"Adventure Club",
 			"Badminton",
 			"Floorball",
-			"Sports & Adventure Club",
 			"Wushu"
 		],
 		"Uniformed Groups": [
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
+			"Art And Craft Club",
 			"Choir",
-			"Ethnic Dance",
-			"Young Artist's Club"
+			"Dance - Ethnic"
 		],
 		"Clubs & Societies": [
-			"Service & Interact Club"
+			"Service Learning Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -277,7 +277,16 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "828845"

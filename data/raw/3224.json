@@ -16,7 +16,7 @@
 	"mrt": "BOON LAY MRT",
 	"bus": "99 , 181 , 192 , 193 , 242 , 243 , 257 , 502 , 502A ",
 	"GeneralInformation": {
-		"Principal": "MR TAN CHOR PANG",
+		"Principal": "MR INDERJIT SINGH",
 		"Vice Principal": [
 			"MR ABDULATTIF S/O ABDULLAH",
 			"MISS SHARON SHEN QIUHUA"
@@ -42,11 +42,11 @@
 		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
 		"COMPUTING",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"EXERCISE AND SPORTS SCIENCE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -294,11 +294,11 @@
 					]
 				],
 				"SYF Central Judging": {
+					"Orchestra - Chinese": "Silver",
 					"Band - Concert": "Bronze",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold (Hons)",
-					"Dance - Malay": "Silver",
-					"Orchestra - Chinese": "Silver"
+					"Dance - Malay": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1044,17 +1044,6 @@
 						"'C' Div"
 					],
 					[
-						"Basketball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
 						"Badminton",
 						"-",
 						"-",
@@ -1062,6 +1051,17 @@
 						"-",
 						"4th",
 						"-",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
 						"-",
 						"-"
 					]
@@ -1220,7 +1220,18 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Mixed Ensemble": "Distinction",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1476,6 +1487,23 @@
 			"Normal Technical": [
 				"101",
 				"155",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"188",
+				"268",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"106",
+				"150",
 				"None-posted"
 			]
 		}

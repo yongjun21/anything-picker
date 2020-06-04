@@ -20,10 +20,8 @@
 	"bus": "307 , 302 , 160 , 170 , 178 , 925 , 927 , 960 , 961 ",
 	"GeneralInformation": {
 		"Principal": "Mr Leong Kok Kee",
-		"Vice Principal": [
-			"Mdm Pushparani D/o K Nadarajah",
-			"Mrs Tang Huay Jiuan Patrine"
-		],
+		"Vice Principal": "Mrs Tang Huay Jiuan Patrine",
+		"Vice Principal (Admin)": "Mr Thangarasu Pubalan",
 		"School Vision": "A Self-Directed Learner. A Confident Leader. In Pursuit of Excellence",
 		"School Mission": "Realising the Potential of Our Students",
 		"School Philosophy, Culture and Ethos": "Our students learn to be self-directed learners, who take pride in learning, think critically and make informed decisions. They lead and motivate others to effect positive changes in school and community. In the pursuit of excellence, our students embrace self-belief, seek progress and turn challenges into opportunities for learning and growth.  More importantly, they are grounded in the right school values of \"Pride, Respect, Integrity, Determination and Empathy\". Our staff firmly believes in a student-centric education and we are committed to help students realise their aspirations.",
@@ -37,10 +35,10 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"English Language",
 		"Exercise And Sports Science",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Geography",
 		"History",
 		"Humanities (Ss, Geography)",
@@ -69,15 +67,14 @@
 		],
 		"Visual and Performing Arts": [
 			"Band - Concert",
-			"Elds",
+			"English Literary And Drama Society",
 			"Movement & Dance",
 			"Show Choir"
 		],
 		"Clubs & Societies": [
-			"Avpa",
 			"Entrepreneur Club",
 			"Environment Club",
-			"Infocom Club",
+			"Mediatech Club",
 			"Robotics Club"
 		]
 	},
@@ -90,43 +87,18 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition(Sm)"
@@ -168,6 +140,26 @@
 				},
 				{
 					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Drama - English",
 					"award": "Accomplishment"
 				}
@@ -176,30 +168,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 189,
-			"upper": 229,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 162,
-			"upper": 186,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 122,
-			"upper": 151,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -245,6 +213,22 @@
 			"programme": "Normal Academic",
 			"lower": 153,
 			"upper": 197,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 200,
+			"upper": 223,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 158,
+			"upper": 199,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

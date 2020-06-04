@@ -28,8 +28,8 @@
           <template v-if="p1Registration">
             <dt>
               {{p1Registration.year}} {{p1Registration.label}}:
-              &nbsp;<a href="https://beta.moe.gov.sg/primary/p1-registration/vacancies-and-balloting/"><small>(as at {{p1Registration.lastUpdated}})</small></a>
-              <!-- &nbsp;<a href="https://beta.moe.gov.sg/primary/p1-registration/vacancies-and-balloting/"><small style="color: red;">(application closed)</small></a> -->
+              <!-- &nbsp;<a href="https://beta.moe.gov.sg/primary/p1-registration/vacancies-and-balloting/"><small>(as at {{p1Registration.lastUpdated}})</small></a> -->
+              &nbsp;<a href="https://beta.moe.gov.sg/primary/p1-registration/vacancies-and-balloting/"><small style="color: red;">(application closed)</small></a>
             </dt>
             <dd>
               <table class="p1-registration">
@@ -430,7 +430,7 @@ export default {
     syfAchievements () {
       const info = this.achievementHistory && this.achievementHistory['SYF']
       if (info) {
-        const awardYears = ['2016', '2017', '2018']
+        const awardYears = ['2017', '2018', '2019']
         const legendItems = ['Distinction', 'Accomplishment', 'Recognition']
         const groupedbyCategory = groupBy(info, 'category')
         let rows = Object.keys(groupedbyCategory).map(category => {
@@ -459,7 +459,7 @@ export default {
       const info = this.achievementHistory && this.achievementHistory['Best Unit Award']
       if (info) {
         const groupedbyCategory = groupBy(info, 'category')
-        let awardYears = ['2016', '2017', '2018']
+        let awardYears = ['2017', '2018', '2019']
         let legendItems = ['Gold', 'Silver', 'Bronze']
         let rows = Object.keys(groupedbyCategory).map(category => {
           const groupedByYear = groupBy(groupedbyCategory[category], 'year')
@@ -486,7 +486,7 @@ export default {
     sportAchievements () {
       const info = this.achievementHistory && this.achievementHistory['Sports & Games Competition']
       if (info) {
-        const awardYears = ['2016', '2017', '2018']
+        const awardYears = ['2017', '2018', '2019']
         const legendItems = ['1st', '2nd', '3rd']
 
         let rows = []

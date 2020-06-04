@@ -21,8 +21,8 @@
 	"GeneralInformation": {
 		"Principal": "Mr Michael De Silva",
 		"Vice Principal": [
-			"Mr Ng Ping Hwee",
-			"Mr Tay Yuan Zhuang"
+			"Mr Tay Yuan Zhuang",
+			"Mr Lim Kah Leong Marc"
 		],
 		"Vice Principal (Admin)": "Mdm Tan Swee Eng Jennifer",
 		"Type of School": "Government School / Co-ed School / Full Day",
@@ -52,17 +52,17 @@
 		"H2 Chemistry",
 		"H2 China Studies In Chinese",
 		"H2 China Studies In English",
-		"H2 Chinese Language & Literature",
+		"H2 Chinese Language &amp; Literature",
 		"H2 Computing",
 		"H2 Economics",
 		"H2 Further Mathematics",
 		"H2 Geography",
 		"H2 History",
 		"H2 Literature In English",
-		"H2 Malay Language & Literature",
+		"H2 Malay Language &amp; Literature",
 		"H2 Mathematics",
 		"H2 Physics",
-		"H2 Tamil Language & Literature",
+		"H2 Tamil Language &amp; Literature",
 		"Malay B",
 		"Tamil B"
 	],
@@ -73,7 +73,6 @@
 			"Basketball",
 			"Floorball",
 			"Football",
-			"Frisbee",
 			"Modular Sports",
 			"Netball",
 			"Squash",
@@ -81,6 +80,7 @@
 			"Ten-Pin Bowling",
 			"Tennis",
 			"Track & Field",
+			"Ultimate Frisbee",
 			"Volleyball",
 			"Wushu"
 		],
@@ -116,7 +116,38 @@
 	"AchievementHistory": {
 		"Junior College": {
 			"Sports & Games Competition": [],
-			"SYF": [],
+			"SYF": [
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Commendation"
+				}
+			],
 			"Best Unit Award": []
 		}
 	},
@@ -135,6 +166,24 @@
 		},
 		{
 			"year": "2019",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2020",
+			"programme": "Arts",
+			"lower": 10,
+			"upper": 20
+		},
+		{
+			"year": "2020",
+			"programme": "Science/IB",
+			"lower": 4,
+			"upper": 20
+		},
+		{
+			"year": "2020",
 			"programme": "Commerce",
 			"lower": null,
 			"upper": null

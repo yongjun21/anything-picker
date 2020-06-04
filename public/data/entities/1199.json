@@ -21,8 +21,9 @@
 		"Principal": "Mdm Rita Rajlal",
 		"Vice Principal": [
 			"Mdm Chua Leng Yin",
-			"Miss Yap Foon Lyn"
+			"Miss Tay Hwee Lin"
 		],
+		"Vice Principal (Admin)": "Mdm Woo Li San",
 		"School Vision": "Learning School GIVER3S Heart",
 		"School Mission": "To nurture thinking individuals and gracious citizens",
 		"School Philosophy, Culture and Ethos": [
@@ -37,11 +38,11 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Tamil",
@@ -61,7 +62,7 @@
 		"Physical Sports": [
 			"Badminton",
 			"Basketball Boys",
-			"Floorball",
+			"Floor Ball",
 			"Football",
 			"Rope Skipping",
 			"Table Tennis",
@@ -69,7 +70,7 @@
 			"Wushu"
 		],
 		"Uniformed Groups": [
-			"Boys' Brigade",
+			"Boy's Brigade",
 			"Girls' Brigade"
 		],
 		"Visual and Performing Arts": [
@@ -86,48 +87,24 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Science": [
-				"Developing Zhangde GIVER",
-				null,
-				"S Values Through Environment Education"
-			]
+			"Science": "Developing Zhangde GIVER3S Values Through Environment Education"
 		},
 		"Special Student Development Programmes Offered": "The school believes in the holistic development of the whole child."
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -154,11 +131,6 @@
 				},
 				{
 					"year": "2018",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2018",
 					"category": "Choir",
 					"award": "Distinction"
 				},
@@ -174,6 +146,36 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
 				}
@@ -214,7 +216,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 1,
 		"PLACES TAKEN UP TO PHASE 2B": 86,
 		"VACANCY FOR PHASE 2C": 124,
-		"NO. OF APPLICANTS IN PHASE 2C": 124
+		"NO. OF APPLICANTS IN PHASE 2C": 124,
+		"PLACES TAKEN UP TO PHASE 2C": 210
 	},
 	"id": "1199"
 }

@@ -20,10 +20,9 @@
 	"GeneralInformation": {
 		"Principal": "Mdm Jessie Lim Chien Chin",
 		"Vice Principal": [
-			"Mdm Poh Qinyu",
-			"Mdm Siew Yoke Yin Serene"
+			"Mdm Siew Yoke Yin Serene",
+			"Mr James Peh Chin Heng"
 		],
-		"Vice Principal (Admin)": "Mdm Ong Lee Fong",
 		"School Vision": "Caring Community, Innovative Leaders.",
 		"School Mission": "To nurture a community of independent learners, effective communicators, active citizens, and innovative leaders.",
 		"School Philosophy, Culture and Ethos": [
@@ -38,9 +37,9 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -70,8 +69,8 @@
 			"Orchestra - Chinese"
 		],
 		"Clubs & Societies": [
-			"Robotics Club",
-			"Science And Mathematics Club"
+			"Applied Science",
+			"Robotics Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -86,42 +85,17 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category A",
@@ -176,6 +150,31 @@
 					"year": "2018",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Mixed Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
@@ -199,6 +198,7 @@
 		"TM"
 	],
 	"specialNeeds": [],
+	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 240,
 		"VACANCY FOR PHASE 1": 200,
@@ -214,7 +214,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 10,
 		"PLACES TAKEN UP TO PHASE 2B": 207,
 		"VACANCY FOR PHASE 2C": 33,
-		"NO. OF APPLICANTS IN PHASE 2C": 59
+		"NO. OF APPLICANTS IN PHASE 2C": 59,
+		"PLACES TAKEN UP TO PHASE 2C": 240
 	},
 	"id": "5214"
 }

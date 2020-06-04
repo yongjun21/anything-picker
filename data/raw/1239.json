@@ -17,7 +17,7 @@
 	"bus": "9 , 38 , 5 ",
 	"GeneralInformation": {
 		"Principal": "MDM CHENG HUEY TENG",
-		"Vice Principal": "MDM TAY MENG HON",
+		"Vice Principal": "MS GRACE TAY MENG HON",
 		"Vice Principal (Admin)": "MDM TAN GEK SIM MAGELLA",
 		"School Vision": "Learners with Passion, Citizens of Honour",
 		"School Mission": "To instil the love for learning and nurture all-round individuals, grounded by values",
@@ -57,6 +57,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"STEM": "Empathetic towards our Earth and Environment, skilful in Computational thinking with the development of Coding skills, and Opportunity seekers with entrepreneurial dare (ECO@CKP)",
 			"Sports & Outdoor Education": "Sports, Outdoor, Athletics & Recreation @ Changkat Primary"
 		},
 		"Special Student Development Programmes Offered": "The school's Learning For Life Programme, SOAR@CKPS(Sports, Outdoor, Athletics, Recreation at Changkat Pr), creates rich learning opportunities and experiences to develop the child physically, mentally and emotionally so that he/she goes on to lead a healthy and active lifestyle. Through skilful questioning, teachers draw out student learning in values and life skills such as problem-solving, communication and teamwork.  SOAR@CKP seeks to provide students with a comprehensive sporting and outdoor experience while giving opportunities to those with greater interest and/or aptitude to pursue their strengths and interest further. This is done through a structured PE Program(P1-6), Program for Active Learning(P1-2), Modular Co-Curricular Activities(P3-6) and Co-Curricular Activities(P3-6)."
@@ -1019,10 +1020,10 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
 					"Choir": "Accomplishment",
 					"Dance - International": "Accomplishment",
-					"Ensemble - Guzheng": "Accomplishment",
-					"Art - Category B": "Recognition"
+					"Ensemble - Guzheng": "Accomplishment"
 				}
 			},
 			"2018": {
@@ -1033,7 +1034,15 @@
 					"Ensemble - Guitar": "Commendation"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Ensemble - Guitar": "Commendation"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "529896"

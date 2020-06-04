@@ -13,8 +13,8 @@
 		"63670180"
 	],
 	"email": "fcss@moe.edu.sg",
-	"mrt": "MARSILING MRT",
-	"bus": "187 , 856 , 912 , 925 , 926 , 950 , 960 , 961 , 963 , 966 , 912B ",
+	"mrt": "MARSILING MRT, WOODLANDS MRT",
+	"bus": "187 , 856 , 912 , 913M , 925 , 926 , 950 , 960 , 961 , 963 , 966 , 912B ",
 	"GeneralInformation": {
 		"Principal": "MDM ONG BEE LIAN DORIS",
 		"Vice Principal": [
@@ -36,10 +36,10 @@
 		"CHINESE",
 		"CHINESE B",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"HIGHER CHINESE",
 		"HUMANITIES (SS, GEOGRAPHY)",
@@ -51,7 +51,6 @@
 		"MUSIC",
 		"PHYSICAL EDUCATION",
 		"PHYSICS",
-		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
@@ -97,7 +96,7 @@
 			"STEM": "Innovations in Science & Technology for Sustain-Ability",
 			"Music & Performing Arts": "Values Through Dance"
 		},
-		"Special Student Development Programmes Offered": "Your child is unique, blessed with talents and fired with passion in his or her interests which is why, within our framework of holistic development, we provide a host of exciting opportunities to maximise the potential of your child through various Talent Identification Programmes. We offer two distinctive programmes  -  the Applied Learning Programme (ALP), 'Innovations in Science and Technology for SustainAbility' to engage students in simulation, modelling and mBot, and the Learning for Life Programme  (LLP), 'Values Through Dance', which students develop character through dance and other performing arts in school. To nurture life-long LEARNERS, we introduce interdisciplinary project work at Lower Secondary, task-based assessments and Values-In-Action projects at Upper Secondary to imbue life skills and 21st Century skills. Our student LEADERS are active contributors to community work. Fuchun Secondary offers all students opportunities to develop their leadership skills and confidence building workshops. Believers in the green cause can participate in our environmental programme that has earned various accolades including the SEC's highest achievement, the Lotus Award, and the NEA's 3R Gold Award. Aligned to our vision of every student an EXPLORER, our students enjoy opportunities to learn beyond the classroom and participate in overseas trips in their 4-5 years in Fuchun Secondary."
+		"Special Student Development Programmes Offered": "Your child is unique, blessed with talents and fired with passion in his or her interests which is why, within our framework of holistic development, we provide a host of exciting opportunities to maximise the potential of your child through various Talent Identification Programmes. We offer two distinctive programmes  -  the Applied Learning Programme (ALP), 'Innovations in Science and Technology for SustainAbility' to engage students in simulation, modelling and mBot, and the Learning for Life Programme  (LLP), 'Values Through Dance', which students develop character through dance and other performing arts in school. To nurture life-long LEARNERS, we introduce interdisciplinary project work at Lower Secondary, task-based assessments and Values-In-Action projects at Upper Secondary to imbue life skills and 21st Century skills. Our student LEADERS are active contributors to community work. Fuchun Secondary offers all students opportunities to develop their leadership skills and confidence building workshops. Believers in the green cause can participate in our environmental programme that has earned various accolades including the SEC's highest achievement, the Vanda Miss Joaquim Award. Aligned to our vision of every student an EXPLORER, our students enjoy opportunities to learn beyond the classroom and participate in overseas trips in their 4-5 years in Fuchun Secondary."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -873,7 +872,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Dance - Chinese": "Bronze",
 					"Dance - Indian": "Bronze",
@@ -992,7 +991,7 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Accomplishment",
 					"Dance - Chinese": "Accomplishment",
@@ -1487,7 +1486,117 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Sepak Takraw",
+						"4th",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Commendation",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1742,6 +1851,23 @@
 			"Normal Technical": [
 				"100",
 				"156",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"188",
+				"236",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"193",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"108",
+				"148",
 				"None-posted"
 			]
 		}

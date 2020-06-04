@@ -19,7 +19,7 @@
 		"Principal": "MDM TENG LAI KWAN",
 		"Vice Principal": [
 			"MDM HEATHER SIM SIAW CHENG",
-			"MR LAU YEAN HUI"
+			"MR ONG NAI AH NOAH"
 		],
 		"School Vision": "Yuhualite -One who Cares, Shares and ContributesOne who Learns, Thinks and Innovates",
 		"School Mission": "Growing Our Hearts and Minds",
@@ -34,9 +34,9 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -60,17 +60,14 @@
 			"Volleyball"
 		],
 		"Uniformed Groups": [
-			"Cub Scouts"
+			"Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Angklung Ensemble",
+			"Angklung",
 			"Art Club",
-			"Band - Brass",
+			"Brass Band",
 			"Chinese Dance",
 			"Choir"
-		],
-		"Clubs & Societies": [
-			"It And Media Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -78,6 +75,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"Interdisciplinary": "Think@Yuhua – Developing Critical and Creative Thinkers",
 			"Music & Performing Arts": "Building Good Character through Music and the Performing Arts"
 		},
 		"Special Student Development Programmes Offered": "Learning for Life Programme (LLP): Building Good Character through Music and the Performing Arts "
@@ -444,11 +442,11 @@
 				"Development Award": "DA (Character Development)",
 				"Sustained Achievement Award": "SAA (Aesthetics)",
 				"SYF Arts Presentation": {
+					"Ensemble - Angklung / Kulintang": "Distinction",
 					"Art - Category B": "Recognition",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Accomplishment",
-					"Dance - Chinese": "Distinction",
-					"Ensemble - Angklung / Kulintang": "Distinction"
+					"Dance - Chinese": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -466,11 +464,11 @@
 			"2016": {
 				"Development Award": "DA (Character Development)",
 				"SYF Arts Presentation": {
+					"Choir": "Commendation",
 					"Art - Category B": "Recognition",
 					"Band-Brass": "Accomplishment",
 					"Dance - Chinese": "Accomplishment",
-					"Ensemble - Angklung / Kulintang": "Accomplishment",
-					"Choir": "Commendation"
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -496,7 +494,18 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band-Brass": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "609558"

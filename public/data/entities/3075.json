@@ -19,14 +19,11 @@
 	"bus": "3 , 34 , 62 , 82 , 83 , 119 , 136 , 381 , 382G ",
 	"GeneralInformation": {
 		"Principal": "Mr Lee Peck Ping",
-		"Vice Principal": [
-			"Mr Tan Chai Hok",
-			"Mdm Lim Puay Kheng"
-		],
+		"Vice Principal": "Mdm Lim Puay Kheng",
 		"Vice Principal (Admin)": "Mr Yeo See One",
 		"School Vision": "Collaborative Innovators, Compassionate Leaders",
 		"School Mission": "Growing Minds, Glowing Hearts",
-		"School Philosophy, Culture and Ethos": "At Edgefield, we believe in nurturing our students to be 'Future Ready'. Framed by Five Minds for the Future, our curriculum nurtures Innovators who collaborate actively with others to design and develop creative solutions to problems, and are resilient in facing setbacks and challenges. They are also Compassionate Leaders who are inclusive, with the moral courage to do what is right in contributing positively to the society. Built by a dedicated team of experienced educators, equipped with the newest facilities and powered by meaningful use of technologies, the Edgefield Community prides itself for its curriculum innovation in providing the ideal learning environment and experiences for our students. Edgefield Secondary School looks forward to this educational partnership with you and your child in 2020.",
+		"School Philosophy, Culture and Ethos": "At Edgefield, we believe in nurturing our students to be 'Future Ready'. Framed by Five Minds for the Future, our curriculum nurtures Innovators who collaborate actively with others to design and develop creative solutions to problems, and are resilient in facing setbacks and challenges. They are also Compassionate Leaders who are inclusive, with the moral courage to do what is right in contributing positively to the society. We practise mixed stream form classes in support of full subject- based banding that all schools will be implementing. Built by a dedicated team of experienced educators, equipped with the newest facilities and powered by meaningful use of technologies, the Edgefield Community prides itself for its curriculum innovation in providing the ideal learning environment and experiences for our students. Edgefield Secondary School looks forward to this educational partnership with you and your child in 2020.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -38,16 +35,16 @@
 		"Chemistry",
 		"Chinese",
 		"Chinese N(A)",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
@@ -113,48 +110,18 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Harmonica",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -213,36 +180,42 @@
 					"year": "2018",
 					"category": "Ensemble - Harmonica",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Harmonica",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 224,
-			"upper": 250,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 183,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 134,
-			"upper": 152,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -311,6 +284,30 @@
 			"year": "2019",
 			"programme": "Normal Technical",
 			"lower": 146,
+			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 230,
+			"upper": 259,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 186,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 148,
 			"upper": 159,
 			"lowerAffiliated": null,
 			"upperAffiliated": null

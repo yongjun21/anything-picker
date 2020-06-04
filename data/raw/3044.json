@@ -38,16 +38,16 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE N(A)",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -550,12 +550,12 @@
 				"Special Awards": "LHL Award for Innovation in the Normal Course",
 				"Development Award": "DA (National Education)",
 				"SYF Arts Presentation": {
+					"Dance - Malay": "Distinction",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Accomplishment",
 					"Dance - International": "Accomplishment",
 					"Drama - English": "Accomplishment",
-					"Orchestra - Chinese": "Distinction",
-					"Dance - Malay": "Distinction"
+					"Orchestra - Chinese": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -587,7 +587,19 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -843,6 +855,23 @@
 			"Normal Technical": [
 				"132",
 				"155",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"229",
+				"241",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"177",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"135",
+				"153",
 				"None-posted"
 			]
 		}

@@ -22,9 +22,8 @@
 	"GeneralInformation": {
 		"Principal": "Mr Low Teck Eng Tony",
 		"Vice Principal": [
-			"Mdm Tey Kah Hwee",
-			"Mr Keith Tan",
-			"Miss Lie Suyin Jamie"
+			"Miss Lie Suyin Jamie",
+			"Mdm Leong Sook Hing"
 		],
 		"Vice Principal (Admin)": "Miss See Pei Loo",
 		"School Vision": "The Premier School of Leaders of Honour",
@@ -54,16 +53,14 @@
 		"H1 Geography",
 		"H1 History",
 		"H1 Literature In English",
-		"H1 Malay Language",
 		"H1 Mathematics",
 		"H1 Physics",
 		"H1 Project Work",
-		"H1 Tamil Language",
 		"H2 Art",
 		"H2 Biology",
 		"H2 Chemistry",
 		"H2 China Studies In Chinese",
-		"H2 Chinese Language & Literature",
+		"H2 Chinese Language &amp; Literature",
 		"H2 Computing",
 		"H2 Economics",
 		"H2 English Language And Linguistics",
@@ -74,11 +71,11 @@
 		"H2 Mathematics",
 		"H2 Music",
 		"H2 Physics",
-		"H2 Tamil Language & Literature",
+		"H2 Tamil Language &amp; Literature",
 		"H2 Translation (Chinese)",
 		"H3 Biology",
 		"H3 Chemistry",
-		"H3 Chinese Language & Literature",
+		"H3 Chinese Language &amp; Literature",
 		"H3 Economics",
 		"H3 Geography",
 		"H3 History",
@@ -160,7 +157,6 @@
 			"Mass Communication Club (Senior High)",
 			"Mass Communication Society",
 			"Mathematics & Science Programme (Mathematics)",
-			"Mathematics Society (Senior High)",
 			"Oratorical Society",
 			"Oratorical Society (Senior High)",
 			"Pa Crew",
@@ -184,20 +180,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Development Award": [
-					"DA (National Education)",
-					"PARTNERS (Merit)"
-				],
-				"Outstanding Development Award": "ODA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -215,56 +197,14 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
 					"award": "Distinction"
 				},
 				{
@@ -313,11 +253,6 @@
 					"award": "Distinction"
 				},
 				{
-					"year": "2017",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
 					"year": "2018",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -361,24 +296,46 @@
 					"year": "2018",
 					"category": "Ensemble - Strings",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - Multi-Lingual",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		},
 		"Junior College": {
-			"2016": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Development Award": [
-					"DA (National Education)",
-					"PARTNERS (Merit)"
-				],
-				"Outstanding Development Award": "ODA (Character Development)"
-			},
 			"2017": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -393,46 +350,6 @@
 				"Outstanding Development Award": "ODA (Character Development)"
 			},
 			"Sports & Games Competition": [
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Shooting (Air Pistol)",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
 				{
 					"year": "2017",
 					"category": "Basketball",
@@ -522,54 +439,49 @@
 						"'A' Div"
 					],
 					"award": "4th"
+				},
+				{
+					"year": "2019",
+					"category": "Shooting (Air Pistol)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Softball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2019",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2019",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
 				}
 			],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Multi-Lingual",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category C",
@@ -614,20 +526,52 @@
 					"year": "2018",
 					"category": "Ensemble - Strings",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - Chinese (2nd Entry)",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 258,
-			"upper": 276,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -651,6 +595,14 @@
 			"upper": 272,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 255,
+			"upper": 280,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
 		}
 	],
 	"L1R5History": [
@@ -668,6 +620,24 @@
 		},
 		{
 			"year": "2019",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2020",
+			"programme": "Arts",
+			"lower": 6,
+			"upper": 9
+		},
+		{
+			"year": "2020",
+			"programme": "Science/IB",
+			"lower": 2,
+			"upper": 8
+		},
+		{
+			"year": "2020",
 			"programme": "Commerce",
 			"lower": null,
 			"upper": null

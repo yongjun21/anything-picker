@@ -17,10 +17,8 @@
 	"bus": "80 , 82 , 87 , 88 , 89 , 119 ",
 	"GeneralInformation": {
 		"Principal": "MR YAP THIAM CHUAN",
-		"Vice Principal": [
-			"MR MOHAMED NASIM S/O ABDUL RAHIM",
-			"MDM WONG FUI CHIN"
-		],
+		"Vice Principal": "MR MOHAMED NASIM S/O ABDUL RAHIM",
+		"Vice Principal (Admin)": "MR KWEK CHIN LEONG",
 		"School Vision": "A School of Choice for Citizens of the Future",
 		"School Mission": "We are committed to providing Vistarians with a holistic education that will equip them with the necessary values, knowledge and skills to meet challenges of the future",
 		"School Philosophy, Culture and Ethos": "The Vistarian Experience!, guided by the philosophy of 'A World of Possibilities', ensures that all Vistarians receive an all-round education. North Vista Secondary provides a balanced education through its Academic and Affective programmes to nurture Inquiring Thinkers, Responsible Risk Takers and Caring Individuals who are equipped to face the challenges of a globalized world. The Academic programme includes the core and elective subjects while the Affective programme includes values and character education through CCE lessons, student leadership and the various CCAs that the school has to offer. Differentiated Instruction (DI) has been adopted as the core pedagogical approach in the school as departments aim to cater to the different interests, abilities and needs of our students.",
@@ -32,7 +30,7 @@
 		"ADDITIONAL MATHEMATICS",
 		"ART",
 		"ART NA LEVEL",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BIOLOGY",
@@ -40,13 +38,13 @@
 		"CHINESE",
 		"CHINESE N(A)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
 		"EXERCISE AND SPORTS SCIENCE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -109,8 +107,8 @@
 			"2005": {},
 			"2006": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award"
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -221,8 +219,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
@@ -316,17 +314,6 @@
 						"'C' Div"
 					],
 					[
-						"Basketball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"4th",
-						"-",
-						"4th"
-					],
-					[
 						"Golf",
 						"-",
 						"-",
@@ -347,10 +334,21 @@
 						"-",
 						"2nd",
 						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"4th"
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
@@ -467,7 +465,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
@@ -1088,13 +1086,13 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Dance - International": "Distinction",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Distinction",
 					"Dance - Chinese": "Distinction",
 					"Drama - Chinese": "Accomplishment",
 					"Drama - English": "Accomplishment",
-					"Ensemble - Strings": "Accomplishment"
+					"Ensemble - Strings": "Accomplishment",
+					"Dance - International": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1548,7 +1546,123 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"2nd"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Multi-Lingual": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1803,6 +1917,23 @@
 			],
 			"Normal Technical": [
 				"133",
+				"157",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"218",
+				"247",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"170",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"139",
 				"157",
 				"None-posted"
 			]

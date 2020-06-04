@@ -5,7 +5,7 @@ import {onemapApi} from '../helpers/api'
 
 // geocode()
 // getPrimarySchoolLocations()
-// getPlanningArea()
+getPlanningArea()
 
 export function geocode () {
   const filenames = fs.readdirSync('data/raw')

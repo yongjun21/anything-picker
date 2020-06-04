@@ -20,6 +20,7 @@
 	"GeneralInformation": {
 		"Principal": "Mr Pek Wee Haur",
 		"Vice Principal": "Mdm Chua Mui Ling",
+		"Vice Principal (Admin)": "Mdm Lee Yoke Peng",
 		"School Vision": "A vibrant and dynamic education hub",
 		"School Mission": "Nurture good citizens and passionate learners",
 		"School Philosophy, Culture and Ethos": [
@@ -33,7 +34,7 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
 		"Foundation English",
@@ -71,23 +72,18 @@
 		],
 		"Clubs & Societies": [
 			"Green Club",
-			"Infocom Club"
+			"Infocomm Club"
 		]
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Music & Performing Arts": "Appreciating Diversity and Building Cross-Cultural Skills Programme",
+			"STEM": "Design Thinking for Sustainability (DTS @ Admiralty)",
 			"Community Service & Student Leadership": "High Performance Mind-set for Personal Leadership"
 		},
 		"Special Student Development Programmes Offered": "With globalization, it is important for our students to achieve global awareness and learn cross-cultural skills that allow them to reach out beyond the main races in Singapore to understand and work with whoever lives and work here. To achieve this goal, our Learning for Life programme on Appreciating Diversity and Building Cross-Cultural Skills helps imbue in our students the right attitude towards cultural differences, knowledge of different cultural practices and worldviews, and skills. The result will be students with an ability to understand, communicate, and effectively interact with people across cultures within and from outside of Singapore. This will strengthen our students' ability to become more involved in Singapore society that now spans even more cultural groups Our pupils develop their skills in critical thinking, communication and self-directed learning - core competencies in the 21st century."
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": "DA (Character Development)",
-				"Outstanding Development Award": "ODA (National Education)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": "DA (Character Development)",
 				"Outstanding Development Award": "ODA (National Education)",
@@ -98,39 +94,14 @@
 				"Outstanding Development Award": "ODA (National Education)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -197,6 +168,46 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guitar",
 					"award": "Distinction"
 				}
@@ -236,7 +247,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 44,
 		"PLACES TAKEN UP TO PHASE 2B": 149,
 		"VACANCY FOR PHASE 2C": 61,
-		"NO. OF APPLICANTS IN PHASE 2C": 86
+		"NO. OF APPLICANTS IN PHASE 2C": 86,
+		"PLACES TAKEN UP TO PHASE 2C": 210
 	},
 	"id": "1744"
 }

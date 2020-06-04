@@ -23,7 +23,7 @@
 		],
 		"School Vision": "Leaders for Tomorrow, Anchored in Values, Committed to Serve.",
 		"School Mission": "To nurture all Queenstownians to R2ISE as future-ready leaders, actively contributing to society.",
-		"School Philosophy, Culture and Ethos": "We believe in the unique worth of the individual, the enhancement of his well-being and the symbiotic relation between him and society. This philosophy is built on the foundation, 'Every Child Worthy and Every Teacher Transformational', anchored in our 5 core values of Resilience, Respect, Integrity, Service and Excellence.",
+		"School Philosophy, Culture and Ethos": "We believe in the unique worth of the individual, the enhancement of his well-being and the symbiotic relationship between him and society. This philosophy is built on the foundation, 'Every Child Worthy and Every Teacher Transformational', anchored in our 5 core values of Resilience, Respect, Integrity, Service and Excellence.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -35,16 +35,17 @@
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BASIC TAMIL",
+		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE N(A)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HUMANITIES (SS, GEOGRAPHY)",
@@ -57,7 +58,6 @@
 		"MATHEMATICS (SYLLABUS T)",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
-		"SCIENCE (CHEM, BIO)",
 		"SCIENCE (PHY, BIO)",
 		"SCIENCE (PHY, CHEM)",
 		"SCIENCE (SYLL T)",
@@ -969,7 +969,111 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1225,6 +1329,23 @@
 			"Normal Technical": [
 				"103",
 				"151",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"191",
+				"225",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"188",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"120",
+				"149",
 				"None-posted"
 			]
 		}

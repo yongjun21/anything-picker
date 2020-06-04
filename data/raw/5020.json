@@ -13,13 +13,13 @@
 		"67762948"
 	],
 	"email": "fmsp@moe.edu.sg",
-	"mrt": "One-North MRT, Buona Vista MRT & Dover MRT",
-	"bus": "SBS Bus 14 , 33 , 74 , 166 & 196 ",
+	"mrt": "One-North MRT, Buona Vista MRT &amp; Dover MRT",
+	"bus": "SBS Bus 14 , 33 , 74 , 166 &amp; 196 ",
 	"GeneralInformation": {
 		"Principal": "MDM LAW LI MEI",
 		"Vice Principal": [
-			"MR ANDREW NG SIOK KWANG",
-			"MISS NG SWEE LIN"
+			"MISS NG SWEE LIN",
+			"MDM QUEK TSUI LAN PRISCA"
 		],
 		"Vice Principal (Admin)": "MR JAMES CHONG KOK CHIANG",
 		"School Vision": "Leaders of the future pursuing excellence, upholding strong Christian moral values and having a heart to serve",
@@ -32,10 +32,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE(NON EXAM)",
 		"HEALTH EDUCATION",
@@ -75,7 +75,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Languages": "SPEAK (School-wide Programme to Enhance Articulateness among Kids): Pathways to Oracy"
+			"Languages": "SPEAK (School-wide Programme to Enhance Articulateness among Kids): Pathways to Oracy",
+			"Music & Performing Arts": "HeARTS - Developing empathy and building social awareness through the ARTS"
 		},
 		"Special Student Development Programmes Offered": "Every programme that is carried out in the school is aligned to our Fairfield Outcomes which is the blueprint to nurturing the 21st century Fairsian. Each level has a signature programme designed to develop confidence, discipline and social-emotional competencies through experiential learning and challenge by choice. These include camps, cultural immersion programmes and values-in-action projects. The school's Applied Learning Programme, SPEAK (School-wide Programmes to Enhance Articulateness among Kids) aims to expose students to auditory, visual and interactive methods to develop them into confident and articulate communicators."
 	},
@@ -142,17 +143,6 @@
 						"Senior"
 					],
 					[
-						"Badminton",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
 						"Volleyball",
 						"-",
 						"-",
@@ -161,6 +151,17 @@
 						"4th",
 						"-",
 						"3rd",
+						"-"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
 						"-"
 					],
 					[
@@ -183,7 +184,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -463,9 +464,9 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold"
@@ -566,9 +567,9 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - Chinese": "Gold",
@@ -692,7 +693,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -705,8 +706,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - Chinese": "Gold",
@@ -836,7 +837,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -849,8 +850,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold (Hons)",
 					"Dance - Chinese": "Gold",
@@ -1544,7 +1545,109 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"1st"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"1st",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Ensemble - Handbell / Handchime": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "139648"

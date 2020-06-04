@@ -20,6 +20,7 @@
 	"GeneralInformation": {
 		"Principal": "Miss Chong Siew Fong",
 		"Vice Principal": "Mr Mohamad Noor Bin Abdul Manaf @",
+		"Vice Principal (Admin)": "Miss Sherry Oh Swee Lyn",
 		"School Vision": [
 			"An Innovative Thinker ",
 			"A Gracious Leader ",
@@ -34,10 +35,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -62,7 +63,7 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Art And Craft Club",
+			"Art Club",
 			"Choir",
 			"Dance - Chinese",
 			"Dance - Indian",
@@ -78,16 +79,13 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Innovation & Enterprise": "EPIC -  Empowering Pupils to Innovate for Community"
+			"Innovation & Enterprise": "EPIC -  Empowering Pupils to Innovate for Community",
+			"Community Service & Student Leadership": "Chong Zheng Community Leaders (CZCL)"
 		},
 		"Special Student Development Programmes Offered": "The school's Applied Learning Programme is innovation and enterprise which is called EPIC - Empowering Pupils to Innovate for Community.  The tagline for this programme is Fun Ideas Serious Solutions. Through the school-based innovation curriculum, all P1-P6 students are progressively taught critical thinking, creative thinking, problem-solving and decision-making skills through Project Work. To enable the students to authentically apply their learning, the school integrates Project Work with Values-in-Action (VIA) programme. For our students who are inclined towards innovation, the school has established an Innovation Club to provide intensive training and exposure to competitions to hone their innovation skills. Students create products and embark on projects that help solve community issues. "
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -96,44 +94,13 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category C",
 					"award": "Recognition"
@@ -200,6 +167,41 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Accomplishment"
 				}
@@ -240,7 +242,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 18,
 		"PLACES TAKEN UP TO PHASE 2B": 111,
 		"VACANCY FOR PHASE 2C": 69,
-		"NO. OF APPLICANTS IN PHASE 2C": 79
+		"NO. OF APPLICANTS IN PHASE 2C": 79,
+		"PLACES TAKEN UP TO PHASE 2C": 180
 	},
 	"id": "1203"
 }

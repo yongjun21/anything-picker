@@ -24,10 +24,11 @@
 			"Mrs Aw Meng Yin",
 			"Mr Tan Whye Wee Jeffrey"
 		],
+		"Vice Principal (Admin)": "Mdm Lee Li Ching Corie",
 		"School Vision": "Generations of educated men who are God-fearing and growing in Grace.",
 		"School Mission": "Touch Hearts, Empower Minds, Enrich Souls",
 		"School Philosophy, Culture and Ethos": "Anglo-Chinese School (Barker Road) belongs to the ACS family of schools. Established in 1994 as a school of Hope for our feeder boys who desired a continued ACS education in a secondary school, we have been consistently moving towards our aspiration to be a school of Excellence. As a Methodist institution, we provide an ACS(BR) education that imbues in our boys 3 senses (sense of worth, sense of purpose and sense of honour) and 4 honours (honour self and their words, honour others, honour effort and honour excellence).  We believe that our students have the potential to excel and provide opportunities for them to do so.  Our Applied Learning Programme is \"Developing Confident and Effective Communicators\" and our Lifelong Learning Programme is \"Building Character through Sports and Outdoor Education\".  We offer a holistic and broad-based education that strikes a balance between the academic and non-academic, so that we can provide an environment that is happy, enriching and fulfilling.  True to our mission, we aim to touch hearts by creating memories and giving meaning to all that we do, empower minds by sharpening the intellect and broadening perspectives, and enrich souls by growing in faith and serving others. Our product - the ACS(BR) Gentleman.",
-		"Type of School": "Government-aided Sch / Boys' School / Single Session",
+		"Type of School": "Government-aided Sch / Boys&#39; School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
 			"Anglo-Chinese Junior College",
@@ -44,10 +45,10 @@
 		"Chinese B",
 		"Computer Applications",
 		"Computing",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"History",
@@ -90,7 +91,6 @@
 		"Visual and Performing Arts": [
 			"Chinese Orchestra",
 			"Choir",
-			"Concert Band",
 			"Dance @ Acs",
 			"Drama @ Acs"
 		],
@@ -110,14 +110,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Development Award": [
-					"DA (Character Development)",
-					"PARTNERS (Merit)"
-				],
-				"Outstanding Development Award": "ODA (National Education)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Outstanding Development Award": "ODA (National Education)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -125,91 +117,104 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
+					"category": "Band-Percussion Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Chinese Orchestra-Sectional Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English (2nd Entry)",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Percussion Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Chinese Orchestra-Sectional Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English (2nd Entry)",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Percussion Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Mixed Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Choir",
-					"award": "Accomplishment"
+					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2019",
 					"category": "Dance - International",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
-					"category": "Drama - English",
+					"year": "2019",
+					"category": "Drama - Multi-Lingual",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Band-Percussion Ensemble",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Chinese Orchestra-Sectional Ensemble",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Drama - English (2nd Entry)",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Drama - English (2nd Entry)",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Band-Percussion Ensemble",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Chinese Orchestra-Sectional Ensemble",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Drama - English",
+					"year": "2019",
+					"category": "Drama - Multi-Lingual (2nd Entry)",
 					"award": "Accomplishment"
 				}
 			],
@@ -217,30 +222,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 239,
-			"upper": 248,
-			"lowerAffiliated": 188,
-			"upperAffiliated": 248
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 193,
-			"upper": 199,
-			"lowerAffiliated": 152,
-			"upperAffiliated": 199
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 123,
-			"upper": 157,
-			"lowerAffiliated": 126,
-			"upperAffiliated": 154
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -311,6 +292,30 @@
 			"lower": 138,
 			"upper": 157,
 			"lowerAffiliated": 121,
+			"upperAffiliated": 149
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 246,
+			"upper": 251,
+			"lowerAffiliated": 198,
+			"upperAffiliated": 239
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 188,
+			"upper": 199,
+			"lowerAffiliated": 159,
+			"upperAffiliated": 198
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 129,
+			"upper": 157,
+			"lowerAffiliated": 120,
 			"upperAffiliated": 149
 		}
 	],

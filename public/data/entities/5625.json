@@ -23,11 +23,12 @@
 			"Mdm Ng Bee Eng, Cindy",
 			"Mr Yak Beng Wei"
 		],
+		"Vice Principal (Admin)": "Mr Khoo Thiam Huat",
 		"School Vision": "A School of Dynamic Learners in a Culture of Care",
 		"School Mission": "To Nurture Students of Good Character Rooted in Chinese Culture",
 		"School Philosophy, Culture and Ethos": [
 			"Ai Tong School was founded on 12 October 1912 for children of poor Chinese immigrants. In 1929, the school received the patronage of Singapore Hokkien Huay Kuan and has, since then, been one of its affiliated schools. Ai Tong School marked a significant milestone in 1989 when it was designated as a Special Assistance Plan (SAP) School. In 2012, Ai Tong School celebrated its 100th anniversary.",
-			"The school believes that Ai Tong pupils should be exposed to a holistic education grounded in values within a SAP context. This culture is deep-seated, and is shaped by our heritage and history. Guided by this belief together with our school motto and value of 'Sincerity and Perseverance', the school is committed to nurture students of good character rooted in Chinese Culture. These values are unpacked for the students into the four Dynamic Learners with its associated observable qualities and social emotional competencies for the 21st century. The four Dynamic Learners are the Socially Responsible Leader, Bilingual Communicator, Knowledgeable Innovator and Sports and Cultural Enthusiast."
+			"The school believes that Ai Tong pupils should be exposed to a holistic education grounded in values within a SAP context. This culture is deep-seated, and is shaped by our heritage and history. Guided by this belief together with our school motto and value of 'Sincerity and Perseverance', the school is committed to nurture students of good character rooted in Chinese Culture. These values are unpacked for the students into the four Dynamic Learners with its associated observable qualities and social emotional competencies for the 21st century. The four Dynamic Learners are the Caring Contributor, the Responsible Learner, the Respectful Communicator and the Resilient Innovator."
 		],
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese",
@@ -36,11 +37,13 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation Chinese",
+		"Foundation English Language",
 		"Foundation Mathematics",
+		"Foundation Science",
 		"Health Education",
 		"Higher Chinese",
 		"Mathematics",
@@ -70,8 +73,7 @@
 			"Infocomm Club"
 		],
 		"Clubs & Societies": [
-			"Robotics Club",
-			"Weiqi"
+			"Robotics Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -86,10 +88,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -98,34 +96,13 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band-Brass",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition(Sm)"
@@ -172,6 +149,31 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
 				}
@@ -212,7 +214,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 32,
 		"PLACES TAKEN UP TO PHASE 2B": 270,
 		"VACANCY FOR PHASE 2C": 30,
-		"NO. OF APPLICANTS IN PHASE 2C": 55
+		"NO. OF APPLICANTS IN PHASE 2C": 55,
+		"PLACES TAKEN UP TO PHASE 2C": 300
 	},
 	"id": "5625"
 }

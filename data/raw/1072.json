@@ -17,7 +17,7 @@
 	"bus": "SBS 123 , 131 , 275 SBS 65 ",
 	"GeneralInformation": {
 		"Principal": "MR MUHAMMAD FARIZAL BIN UMAR EFFE",
-		"Vice Principal": "MR LOW MIN CHYE",
+		"Vice Principal": "MRS LINDA TAN",
 		"Vice Principal (Admin)": "MR KWOK KENG LIAN",
 		"School Vision": "A School Where All Work Hard, Play Hard And Make A Mark",
 		"School Mission": "To Develop Each Child Holistically, Equipping Him With Competences For The Future",
@@ -32,7 +32,7 @@
 	"SubjectOffered": [
 		"ART",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -75,7 +75,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Coding": "Nurturing 21st Century Competencies through Computational Thinking With Design Thinking"
+			"Coding": "Nurturing 21st Century Competencies through Computational Thinking With Design Thinking",
+			"Sports & Outdoor Education": "G.R.I.T@RMPS – Growth Mindset.Resilience.Independence.Teamwork"
 		},
 		"Special Student Development Programmes Offered": "Applied Learning Programme: Nurturing 21st Century Competencies through Computational Thinking With Design Thinking"
 	},
@@ -165,10 +166,10 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Orchestra - Chinese": "Gold (Hons)",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
-					"Dance - Indian": "Gold (Hons)"
+					"Dance - Indian": "Gold (Hons)",
+					"Orchestra - Chinese": "Gold (Hons)"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -322,6 +323,17 @@
 						"Senior"
 					],
 					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
 						"Hockey",
 						"-",
 						"-",
@@ -342,17 +354,6 @@
 						"4th",
 						"-",
 						"-"
-					],
-					[
-						"Basketball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"3rd"
 					]
 				],
 				"SYF Central Judging": {
@@ -645,7 +646,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Bronze",
@@ -755,7 +756,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Gold",
@@ -1035,12 +1036,12 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Dance - Indian": "Accomplishment",
-					"Orchestra - Chinese": "Distinction",
 					"Art - Category A": "Recognition",
 					"Art - Category C": "Recognition",
 					"Choir": "Accomplishment",
-					"Dance - Chinese": "Distinction"
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Orchestra - Chinese": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1291,17 +1292,6 @@
 						"Senior"
 					],
 					[
-						"Hockey",
-						"-",
-						"-",
-						"-",
-						"4th",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
 						"Football",
 						"-",
 						"-",
@@ -1322,6 +1312,17 @@
 						"4th",
 						"-",
 						"3rd"
+					],
+					[
+						"Hockey",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
 					]
 				],
 				"SYF Arts Presentation": {
@@ -1333,7 +1334,98 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "099840"

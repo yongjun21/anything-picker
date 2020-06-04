@@ -21,11 +21,12 @@
 			"MDM NG BEE ENG, CINDY",
 			"MR YAK BENG WEI"
 		],
+		"Vice Principal (Admin)": "MR KHOO THIAM HUAT",
 		"School Vision": "A School of Dynamic Learners in a Culture of Care",
 		"School Mission": "To Nurture Students of Good Character Rooted in Chinese Culture",
 		"School Philosophy, Culture and Ethos": [
 			"Ai Tong School was founded on 12 October 1912 for children of poor Chinese immigrants. In 1929, the school received the patronage of Singapore Hokkien Huay Kuan and has, since then, been one of its affiliated schools. Ai Tong School marked a significant milestone in 1989 when it was designated as a Special Assistance Plan (SAP) School. In 2012, Ai Tong School celebrated its 100th anniversary.",
-			"The school believes that Ai Tong pupils should be exposed to a holistic education grounded in values within a SAP context. This culture is deep-seated, and is shaped by our heritage and history. Guided by this belief together with our school motto and value of 'Sincerity and Perseverance', the school is committed to nurture students of good character rooted in Chinese Culture. These values are unpacked for the students into the four Dynamic Learners with its associated observable qualities and social emotional competencies for the 21st century. The four Dynamic Learners are the Socially Responsible Leader, Bilingual Communicator, Knowledgeable Innovator and Sports and Cultural Enthusiast."
+			"The school believes that Ai Tong pupils should be exposed to a holistic education grounded in values within a SAP context. This culture is deep-seated, and is shaped by our heritage and history. Guided by this belief together with our school motto and value of 'Sincerity and Perseverance', the school is committed to nurture students of good character rooted in Chinese Culture. These values are unpacked for the students into the four Dynamic Learners with its associated observable qualities and social emotional competencies for the 21st century. The four Dynamic Learners are the Caring Contributor, the Responsible Learner, the Respectful Communicator and the Resilient Innovator."
 		],
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese",
@@ -34,11 +35,13 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION CHINESE",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
+		"FOUNDATION SCIENCE",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
 		"MATHEMATICS",
@@ -68,8 +71,7 @@
 			"Infocomm Club"
 		],
 		"Clubs & Societies": [
-			"Robotics Club",
-			"Weiqi"
+			"Robotics Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -373,7 +375,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
@@ -506,7 +508,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -545,7 +547,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold (Hons)",
 					"Dance - Chinese": "Gold (Hons)",
@@ -704,7 +706,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold (Hons)",
 					"Dance - Chinese": "Gold (Hons)",
@@ -874,7 +876,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Gold",
 					"Choir": "Gold",
 					"Dance - Chinese": "Gold (Hons)",
@@ -1042,8 +1044,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold",
 					"Choir": "Gold",
 					"Dance - Chinese": "Gold (Hons)",
@@ -1121,17 +1123,6 @@
 						"Senior"
 					],
 					[
-						"Table Tennis",
-						"3rd",
-						"1st",
-						"-",
-						"-",
-						"1st",
-						"1st",
-						"1st",
-						"3rd"
-					],
-					[
 						"Volleyball",
 						"-",
 						"-",
@@ -1141,6 +1132,17 @@
 						"-",
 						"2nd",
 						"2nd"
+					],
+					[
+						"Table Tennis",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"1st",
+						"3rd"
 					],
 					[
 						"",
@@ -1201,8 +1203,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold (Hons)",
 					"Choir": "Gold",
 					"Dance - Chinese": "Gold (Hons)",
@@ -1744,7 +1746,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"3rd",
 						"-",
 						"-",
@@ -1916,7 +1918,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -2155,7 +2157,110 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"-",
+						"3rd"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"2nd",
+						"-",
+						"1st"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "579646"

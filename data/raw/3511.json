@@ -35,12 +35,12 @@
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELECTRONICS",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HISTORY",
@@ -65,11 +65,12 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton",
+			"Badminton (Girls Only)",
 			"Basketball",
 			"Fencing",
 			"Football",
 			"Netball",
+			"Track & Field",
 			"Volleyball"
 		],
 		"Uniformed Groups": [
@@ -87,7 +88,7 @@
 			"Percussion Ensemble"
 		],
 		"Clubs & Societies": [
-			"Infocomm Club"
+			"Infocom Club"
 		],
 		"Others": [
 			"Prefectorial Board",
@@ -214,8 +215,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award"
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -326,8 +327,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Dance - Chinese": "Gold",
 					"Dance - International": "Bronze",
@@ -950,7 +951,17 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band-Brass Ensemble": "Accomplishment",
+					"Band-Wind Ensemble": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1203,6 +1214,23 @@
 			"Normal Technical": [
 				"100",
 				"144",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"188",
+				"235",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"195",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"107",
+				"149",
 				"None-posted"
 			]
 		}

@@ -19,10 +19,7 @@
 	"bus": "3 , 62 , 83 , 85 , 136 , 386 ",
 	"GeneralInformation": {
 		"Principal": "Miss Ng Amy",
-		"Vice Principal": [
-			"Mr Peterson Joseph Stanley",
-			"Mr Loh Chih Hui"
-		],
+		"Vice Principal": "Mr Loh Chih Hui",
 		"Vice Principal (Admin)": "Mr Derek Lee Kwang Boon",
 		"School Vision": "Learners. Thinkers. Leaders",
 		"School Mission": "Nurturing Talents. Developing Character. Inspiring Lives",
@@ -39,11 +36,11 @@
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"Food And Consumer Education",
@@ -80,7 +77,7 @@
 			"Art Club",
 			"Chorale",
 			"Dance Ensemble",
-			"Greendale Broadcasting Corporation",
+			"Greendale Broadcasting Club",
 			"Greendale Orchestra",
 			"Theatricks - English"
 		],
@@ -95,52 +92,22 @@
 			"STEM": "SMART Living: Design. Code. Build",
 			"Sports & Outdoor Education": "Character Development through Outdoor and Adventure Education"
 		},
-		"Special Student Development Programmes Offered": "We believe that every child is unique and talented. Our Talent Development Programme offers students an enhanced learning experience, centred on the 3E approach of 'Exposure, Extension and Excellence'. Students are Exposed to and engaged through different learning experiences and platforms. Their learning is Extended through deepened knowledge and skills acquisition via specific and special enrichment classes. Finally, students will be able to pursue and achieve Excellence in the cognitive, aesthetics, sporting and life skills domains through targeted activities such as national competitions. Through the school's Applied Learning Programme (ALP) in 'Design, Technology and Engineering', students develop in-depth knowledge in engineering and technology, while acquiring critical and inventive thinking skills. Students will learn how to Design, Code and Build through exposure to Computer Aided Design software and Arduino programming language. Through the ALP, students will acquire 21st century skills such as design thinking, problem-solving strategies as well as creative and critical thinking techniques to solve real-world problems. The school's Learning For Life programme (LLP) in Outdoor and Adventure Education programme develops students in their character attributes and specific skillsets through concrete experiences and challenges. Students step out of their comfort zones to develop qualities of resilience, initiative and self-reliance, and competencies in leadership and teamwork. They acquire a range of skills in outdoor activities, building them up as confident leaders. All students participate in a level camp every year to develop their physical, social, leadership and personal skills. There will also be opportunities for students to undergo our Aspiring Leaders and Inspiring Leaders Training Programmes and Camps. The highlight of the Inspiring Leaders Training Programme is an overseas training camp."
+		"Special Student Development Programmes Offered": "We believe that every child is unique and talented. Our Talent Development Programme offers students an enhanced learning experience, centred on the 3E approach of 'Exposure, Extension and Excellence'. Students are Exposed to and engaged through different learning experiences and platforms. Their learning is Extended through deepened knowledge and skills acquisition via specific and special enrichment classes. Finally, students will be able to pursue and achieve Excellence in the cognitive, aesthetics, sporting and life skills domains through targeted activities such as national competitions. Through the school's Applied Learning Programme (ALP) in 'Design, Technology and Engineering', students develop in-depth knowledge in engineering and technology, while acquiring critical and inventive thinking skills. Students will learn how to Design, Code and Build through exposure to Computer Aided Design software and Arduino programming language. Through the ALP, students will acquire 21st century skills such as design thinking, problem-solving strategies as well as creative and critical thinking techniques to solve real-world problems. The school's Learning For Life Programme (LLP) in Outdoor and Adventure Education develops students in their character attributes and specific skillsets through concrete experiences and challenges. Students step out of their comfort zones to develop qualities of resilience, initiative and self-reliance, and competencies in leadership and teamwork. They acquire a range of skills in outdoor activities, building them up as confident leaders. All students participate in a level camp every year to develop their physical, social, leadership and personal skills. There will also be opportunities for students to undergo our Aspiring Leaders and Inspiring Leaders Training Programmes and Camps. The highlight of the Inspiring Leaders Training Programme is an overseas training camp."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -194,36 +161,37 @@
 					"year": "2018",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 203,
-			"upper": 244,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 167,
-			"upper": 195,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 131,
-			"upper": 159,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -292,6 +260,30 @@
 			"year": "2019",
 			"programme": "Normal Technical",
 			"lower": 141,
+			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 213,
+			"upper": 238,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 180,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 143,
 			"upper": 158,
 			"lowerAffiliated": null,
 			"upperAffiliated": null

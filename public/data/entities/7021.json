@@ -18,21 +18,18 @@
 	],
 	"bus": "48 , 93 , 153 , 165 , 174 , 186 , 855 , 961 ",
 	"GeneralInformation": {
-		"Principal": "Mdm Lee Lin Yee",
-		"Vice Principal": [
-			"Miss Lim Hui Kheng Linda",
-			"Ms Toh Susan"
-		],
+		"Principal": "Miss Lim Hui Kheng Linda",
+		"Vice Principal": "Ms Toh Susan",
 		"Vice Principal (Admin)": "Ms Woon Chin Fong Chrystine",
 		"School Vision": "A Community of Learners Growing and Glowing for God.",
 		"School Mission": "To provide an All-round Education in a Christ-centred Environment to nurture Confident, Creative and Caring Young Ladies who will serve God, the Country and the Community.",
 		"School Philosophy, Culture and Ethos": "Founded in 1842, St. Margaret's Secondary School is an autonomous mission school that strives to develop every girl to her fullest potential by equipping her with the skills, knowledge and attributes to become a confident, creative and caring young lady with sound values. We provide a value-added education with emphasis on the cognitive, character and aesthetics development of each girl. Our enriching curriculum and co-curriculum have brought about many value-added outcomes in student learning and development.",
-		"Type of School": "Government-aided Sch / Girls' School / Single Session",
+		"Type of School": "Government-aided Sch / Girls&#39; School / Single Session",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
-			"St. Andrew's Junior College",
-			"St. Margaret's Primary School"
+			"St. Andrew&#39;s Junior College",
+			"St. Margaret&#39;s Primary School"
 		]
 	},
 	"SubjectOffered": [
@@ -44,7 +41,7 @@
 		"Drama",
 		"Elements Of Business Skills",
 		"English Language",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Geography",
 		"Higher Chinese",
 		"Higher Music",
@@ -56,7 +53,7 @@
 		"Literature(E)",
 		"Malay",
 		"Mathematics",
-		"Music 'O' Level",
+		"Music &#39;o&#39; Level",
 		"Physics",
 		"Principles Of Accounts",
 		"Science (Chem, Bio)",
@@ -102,11 +99,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": "BPA (Student All-Round Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": "BPA (Student All-Round Development)",
@@ -116,58 +108,12 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category A",
@@ -267,36 +213,62 @@
 					"year": "2018",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 244,
-			"upper": 252,
-			"lowerAffiliated": 200,
-			"upperAffiliated": 250
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 187,
-			"upper": 199,
-			"lowerAffiliated": 153,
-			"upperAffiliated": 199
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 126,
-			"upper": 158,
-			"lowerAffiliated": 118,
-			"upperAffiliated": 151
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -368,6 +340,30 @@
 			"upper": 157,
 			"lowerAffiliated": 114,
 			"upperAffiliated": 147
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 243,
+			"upper": 255,
+			"lowerAffiliated": 200,
+			"upperAffiliated": 265
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 171,
+			"upper": 199,
+			"lowerAffiliated": 154,
+			"upperAffiliated": 199
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 126,
+			"upper": 159,
+			"lowerAffiliated": 121,
+			"upperAffiliated": 151
 		}
 	],
 	"postalCode": "259240",

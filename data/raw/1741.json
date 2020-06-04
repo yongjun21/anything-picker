@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MDM LOKE WAI LING",
 		"Vice Principal": [
-			"DR TAN JEAN LEE",
-			"MR TAN HOCK CHYE CHARLES"
+			"MR TAN HOCK CHYE CHARLES",
+			"MDM CHOO SIEW HONG"
 		],
 		"School Vision": "Rooted in Values; Ready for the Future; Gem of the Community",
 		"School Mission": "To develop each student to be a life-long learner, a leader with character, a success in his own right so as to serve the community.",
@@ -38,10 +38,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -57,24 +57,23 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Athletics",
 			"Football",
 			"Netball",
-			"Rope Skipping",
+			"Track & Field",
 			"Wushu"
 		],
 		"Uniformed Groups": [
-			"Cub Scouts"
+			"Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Chinese Orchestra",
 			"Choir",
-			"Indian Dance",
-			"Malay Dance"
+			"Dance - Indian",
+			"Dance - Malay",
+			"Orchestra - Chinese"
 		],
 		"Clubs & Societies": [
-			"Environmental Club",
-			"Infocomm Club"
+			"Robotics Club",
+			"Science Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -82,6 +81,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"Interdisciplinary": "21CC PW",
 			"Music & Performing Arts": "Fitness and Graciousness Through Dance"
 		},
 		"Special Student Development Programmes Offered": "The wide range of Co-Curricular Activities (CCA) in our school forms a key pillar of our students' character development. All our CCA set high targets and work towards them relentlessly as a team. Through their participation, students are significantly developed in teamwork, confidence and resilience. Many students have distinguished themselves and won honours in various competitions."
@@ -526,7 +526,7 @@
 						"-"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"3rd",
@@ -570,7 +570,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Silver",
@@ -651,7 +651,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Silver",
 					"Dance - Malay": "Silver",
@@ -742,7 +742,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Silver",
 					"Dance - Malay": "Silver",
@@ -851,7 +851,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -864,7 +864,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Bronze",
@@ -965,7 +965,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -1258,7 +1258,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -1391,7 +1391,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -1505,7 +1505,90 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition(Sm)",
+					"Art - Category C": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "649076"

@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MDM CHIN MING YEW MAGDALENE",
 		"Vice Principal": [
-			"MDM QUEK TSUI LAN PRISCA",
-			"MS NG CHIOU HIEN HELEN"
+			"MS NG CHIOU HIEN HELEN",
+			"MRS CHAN-TIONG LE CHIN"
 		],
 		"School Vision": "A Christ-centred learning community where every child will develop her unique giftedness to lead and make a difference.",
 		"School Mission": "A Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of the persons who are disadvantaged in any way.",
@@ -31,15 +31,15 @@
 			"LEAD & MAKE A DIFFERENCE",
 			"Leadership in CHIJ Kellock is premised on the concept of Servant Leadership, aligned to the school's mission and vision of being persons for others and based on the founder's values that \"the gifts given to you are for others\"."
 		],
-		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS' SCHOOL / SINGLE SESSION",
+		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS&#39; SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
-		"Affiliated Schools": "CHIJ ST. THERESA'S CONVENT"
+		"Affiliated Schools": "CHIJ ST. THERESA&#39;S CONVENT"
 	},
 	"SubjectOffered": [
 		"CHINESE",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -78,7 +78,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Sports & Outdoor Education": "Net Infinity! Nurturing character, Inspiring passion and Unleashing giftedness through sports and outdoor education",
+			"Interdisciplinary": "Rethinking Possibilities to Serve the Common Good",
 			"Music & Performing Arts": "ArtsONE+ : Purposeful Learning of Music and Performing Arts Using the Self-regulated Approach"
 		},
 		"Special Student Development Programmes Offered": "Character-building is integral to schooling at CHIJ Kellock. As a Christ-centred Learning Community, the students in the school receive a values-based learning experience that pushes them not just to learn but to LEAD and MAKE A DIFFERENCE, anchored on a set of values that form the compass for their words, actions and deeds."
@@ -630,8 +630,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - International": "Silver"
@@ -777,8 +777,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - International": "Silver"
@@ -906,8 +906,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - International": "Silver"
@@ -1036,8 +1036,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Gold",
 					"Dance - Chinese": "Silver",
 					"Dance - International": "Gold",
@@ -1671,7 +1671,86 @@
 					"Ensemble - Strings": "Distinction"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"1st",
+						"4th",
+						"-",
+						"-",
+						"1st",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Strings": "Distinction"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "099757"

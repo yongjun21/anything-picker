@@ -17,7 +17,7 @@
 		"Cashew MRT",
 		"Downtown MRT"
 	],
-	"bus": "SBS Transit No 170    SMRT No 67 , 75 , 171 , 176 , 178 , 184 , 961 , 963 & 970 ",
+	"bus": "SBS Transit No 170    SMRT No 67 , 75 , 171 , 176 , 178 , 184 , 961 , 963 &amp; 970 ",
 	"GeneralInformation": {
 		"Principal": "Mr Leong Yew Hon Eric",
 		"Vice Principal": "Mr Shashidaran S/o Kaneson",
@@ -29,7 +29,26 @@
 		"Affiliated Schools": "Not Applicable"
 	},
 	"SubjectOffered": [],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Floorball",
+			"Football",
+			"Sepak Takraw",
+			"Tchoukball"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Dance Club",
+			"Malay Dance Club",
+			"Percussion Band"
+		],
+		"Clubs & Societies": [
+			"Av Crew",
+			"Publication",
+			"Robotics Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"Special Student Development Programmes Offered": "Montfort Development Programme, iSTAY (Residential Programme), Physical Education, Performing Arts, Visual Arts, English Language, Mathematics, Information & Communication Technology, Vocational Training Programme, IEP (Industry Experiential Programme), SIP (Skills Induction Programme)"
 	},
@@ -37,11 +56,6 @@
 		"Secondary": {
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category A",
@@ -64,6 +78,16 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
 				}

@@ -17,10 +17,7 @@
 	"bus": "SBS 235 , 56 , 73 , 88 , 157 , 159 , 163 , 231 ,  ",
 	"GeneralInformation": {
 		"Principal": "MDM LEONG CHUI YIN SARAH",
-		"Vice Principal": [
-			"MR WONG SUNG LAI",
-			"MR KHOO GHEE HAN"
-		],
+		"Vice Principal": "MR KHOO GHEE HAN",
 		"Vice Principal (Admin)": "MR CHIONH BOON SOO",
 		"School Vision": "A dynamic community of compassionate leaders and critical thinkers",
 		"School Mission": "Empowering every child to lead and impact the community, and be ready for the future.",
@@ -36,7 +33,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
 		"HEALTH EDUCATION",
@@ -50,21 +47,20 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton",
-			"Basketball School Team"
+			"Basketball"
 		],
 		"Uniformed Groups": [
-			"Singapore Red Cross Society"
+			"Red Cross Link"
 		],
 		"Visual and Performing Arts": [
+			"Angklung",
+			"Chinese Orchestra",
 			"Choir",
 			"Dance Ensemble",
-			"Ensemble - Angklung/Kulintang",
-			"Orchestra - Chinese",
 			"Visual Arts Club"
 		],
 		"Clubs & Societies": [
-			"Elite Chess",
+			"Chess Club",
 			"Environmental Club",
 			"Media Club"
 		]
@@ -387,7 +383,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - International": "Silver",
 					"Orchestra - Chinese": "Bronze"
@@ -466,7 +462,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - International": "Silver",
 					"Ensemble - Angklung / Kulintang": "Bronze",
@@ -551,7 +547,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - International": "Silver",
 					"Ensemble - Angklung / Kulintang": "Bronze",
@@ -639,7 +635,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - International": "Gold",
 					"Ensemble - Angklung / Kulintang": "Gold",
@@ -1148,7 +1144,119 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"4th"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
+					],
+					[
+						"Track &amp; Field",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition(Sm)",
+					"Art - Category C": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "319580"

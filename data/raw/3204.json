@@ -41,11 +41,11 @@
 		"CHINESE",
 		"CHINESE N(A)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"FOOD STUDIES, N LEVEL",
 		"GEOGRAPHY",
@@ -232,7 +232,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Gold)": "2 Awards",
 					"Band - Display / Marching": "Gold"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -355,7 +355,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Gold)": "2 Awards",
 					"Band - Display / Marching": "Gold",
 					"Choir": "Silver",
 					"Dance - International": "Bronze",
@@ -449,17 +449,6 @@
 						"'C' Div"
 					],
 					[
-						"Basketball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"4th",
-						"-",
-						"-"
-					],
-					[
 						"Canoeing",
 						"4th",
 						"4th",
@@ -491,16 +480,27 @@
 						"3rd",
 						"2nd",
 						"4th"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "2 Awards",
-					"Band - Display / Marching": "Silver",
 					"Choir": "Silver",
 					"Dance - International": "Bronze",
 					"Dance - Malay": "Silver",
 					"Ensemble - Gamelan": "Bronze",
-					"Orchestra - Chinese": "Silver"
+					"Orchestra - Chinese": "Silver",
+					"Art &amp; Craft (Silver)": "2 Awards",
+					"Band - Display / Marching": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -611,7 +611,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Display / Marching": "Silver",
 					"Choir": "Silver",
 					"Dance - International": "Silver",
@@ -705,17 +705,6 @@
 						"'C' Div"
 					],
 					[
-						"Basketball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"3rd",
-						"-",
-						"-"
-					],
-					[
 						"Canoeing",
 						"4th",
 						"4th",
@@ -747,17 +736,28 @@
 						"2nd",
 						"3rd",
 						"3rd"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
-					"Band - Display / Marching": "Silver",
 					"Choir": "Silver",
 					"Dance - International": "Silver",
 					"Dance - Malay": "Silver",
 					"Ensemble - Gamelan": "Silver",
-					"Orchestra - Chinese": "Silver"
+					"Orchestra - Chinese": "Silver",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
+					"Band - Display / Marching": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -893,8 +893,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Band - Display / Marching": "Silver",
 					"Choir": "Gold",
@@ -1049,8 +1049,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Band - Display / Marching": "Silver",
 					"Choir": "Gold",
@@ -1193,8 +1193,8 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Display / Marching": "Silver",
 					"Choir": "Distinction",
 					"Dance - Chinese": "Distinction",
@@ -1740,9 +1740,9 @@
 					"Drama - Chinese": "Commendation",
 					"Drama - English": "Accomplishment",
 					"Ensemble - Gamelan": "Accomplishment",
+					"Band-Display": "Distinction",
 					"Art - Category B": "Recognition(Sm)",
-					"Band - Concert": "Accomplishment",
-					"Band-Display": "Distinction"
+					"Band - Concert": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1878,7 +1878,139 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
+					],
+					[
+						"Volleyball",
+						"-",
+						"1st",
+						"-",
+						"1st",
+						"-",
+						"1st",
+						"-",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Band-Display": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Drama - Chinese": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Gamelan": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -2134,6 +2266,23 @@
 			"Normal Technical": [
 				"147",
 				"158",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"244",
+				"260",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"187",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"145",
+				"159",
 				"None-posted"
 			]
 		}

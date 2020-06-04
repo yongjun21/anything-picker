@@ -13,7 +13,9 @@
 		"67600147"
 	],
 	"email": "wvps@moe.edu.sg",
-	"mrt": [],
+	"mrt": [
+		"Bukit Panjang MRT"
+	],
 	"bus": "170 , 171 , 176 , 178 , 180 , 187 , 190 , 960 , 961 , 963 ",
 	"GeneralInformation": {
 		"Principal": "Mr Foo Chit Cheong Eddie",
@@ -45,7 +47,7 @@
 		"Art",
 		"Chinese",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -69,6 +71,7 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
+			"Art And Craft Club",
 			"Band",
 			"Dance-Chinese",
 			"Dance-Malay"
@@ -83,41 +86,21 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2016",
-					"category": "Band-Brass",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
+					"year": "2017",
+					"category": "Art - Category A",
+					"award": "Recognition"
 				},
 				{
 					"year": "2017",
@@ -150,11 +133,6 @@
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2017",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
 					"year": "2018",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -181,6 +159,26 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
 				}
@@ -222,7 +220,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 53,
 		"VACANCY FOR PHASE 2C": 127,
-		"NO. OF APPLICANTS IN PHASE 2C": 53
+		"NO. OF APPLICANTS IN PHASE 2C": 53,
+		"PLACES TAKEN UP TO PHASE 2C": 106,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 74,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 10
 	},
 	"id": "1748"
 }

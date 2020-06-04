@@ -14,7 +14,8 @@
 	],
 	"email": "OSS@MOE.EDU.SG",
 	"mrt": [
-		"Outram Park MRT"
+		"Outram Park MRT",
+		"Chinatown MRT"
 	],
 	"bus": "174 , 123 , 16 , 175 , 195 , 33 , 5 , 63 , 75 , 851 , 970 , 123 , 186 , 51 , 64 ",
 	"GeneralInformation": {
@@ -23,7 +24,7 @@
 			"Miss Tan Ee Ling Ellen",
 			"Mr Lim Pang Chuang"
 		],
-		"School Vision": "Outram - A Hallmark of Distinction",
+		"School Vision": "Lifelong Learners . Innovative Leaders . Caring Contributors",
 		"School Mission": "To nurture individuals with a true Outramian SPIRIT",
 		"School Philosophy, Culture and Ethos": "The school sets out to accomplish the mission of nurturing every individual with a true Outramian SPIRIT. It is committed to the provision of an education that is strongly anchored in developing values and character. For each child that joins Outram, we seek to inculcate in them the school values, 'Sense of belonging - to the school, society and nation, Perseverance, Integrity, Responsibility, Industriousness and Teamwork (SPIRIT)'  The school motto, 'Labor Omnia Vincit', signifies the importance of 'Labour Conquers All'. The motto highlights the school's belief that through hard work, one can overcome difficulties encountered in life. Success in any area requires our students to exercise self-discipline and diligence as well as make necessary sacrifices so as to accomplish tasks set before them.",
 		"Type of School": "Government School / Co-ed School / Single Session",
@@ -35,7 +36,7 @@
 		"Art",
 		"Art Na Level",
 		"Art Nt Level",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Basic Tamil",
@@ -48,7 +49,7 @@
 		"Combined Humanities (S,H)",
 		"Combined Humanities (S,L)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
@@ -78,7 +79,6 @@
 			"Basketball",
 			"Netball",
 			"Rockwall Climbing",
-			"Squash",
 			"Swimming",
 			"Water Polo"
 		],
@@ -89,7 +89,6 @@
 		"Visual and Performing Arts": [
 			"Band - Concert",
 			"Dance - Modern",
-			"Ensemble - Guzheng",
 			"Visual Art"
 		],
 		"Clubs & Societies": [
@@ -109,27 +108,17 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Commendation"
-				},
 				{
 					"year": "2017",
 					"category": "Band-Wind Ensemble",
@@ -154,36 +143,32 @@
 					"year": "2018",
 					"category": "Ensemble - Guzheng",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 188,
-			"upper": 248,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 152,
-			"upper": 184,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 119,
-			"upper": 151,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -252,6 +237,30 @@
 			"year": "2019",
 			"programme": "Normal Technical",
 			"lower": 96,
+			"upper": 150,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 188,
+			"upper": 258,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 181,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 97,
 			"upper": 150,
 			"lowerAffiliated": null,
 			"upperAffiliated": null

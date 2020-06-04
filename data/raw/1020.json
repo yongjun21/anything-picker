@@ -17,7 +17,7 @@
 	"bus": "75 , 184 ",
 	"GeneralInformation": {
 		"Principal": "MR BUCKTHA SEELAN",
-		"Vice Principal": "MDM GOH PUAY HOON JENNY",
+		"Vice Principal": "MDM KAY HWEE GEAK",
 		"Vice Principal (Admin)": "MR TAN SENG CHUAN",
 		"School Vision": "Future Leaders, Concerned Citizens",
 		"School Mission": "Developing our students holistically in a vibrant and caring environment",
@@ -34,7 +34,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"HEALTH EDUCATION",
@@ -250,7 +250,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
@@ -322,17 +322,6 @@
 						"Senior"
 					],
 					[
-						"Basketball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"4th",
-						"-"
-					],
-					[
 						"Hockey",
 						"-",
 						"-",
@@ -342,18 +331,29 @@
 						"-",
 						"-",
 						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Indian": "Gold",
 					"Dance - International": "Silver",
 					"Dance - Malay": "Silver",
 					"Ensemble - Indian": "Bronze",
-					"Orchestra - Chinese": "Bronze"
+					"Orchestra - Chinese": "Bronze",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Band - Concert": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1253,17 +1253,111 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Dance - Malay": "Distinction",
 					"Art - Category B": "Recognition",
 					"Band-Brass Ensemble": "Accomplishment",
 					"Choir": "Accomplishment",
 					"Dance - Chinese": "Distinction",
 					"Dance - Indian": "Accomplishment",
-					"Dance - International": "Distinction"
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Development Award": "DA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band-Brass Ensemble": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "679676"

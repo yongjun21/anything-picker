@@ -19,10 +19,7 @@
 	"bus": "SBS 235 , 56 , 73 , 88 , 157 , 159 , 163 , 231 ,  ",
 	"GeneralInformation": {
 		"Principal": "Mdm Leong Chui Yin Sarah",
-		"Vice Principal": [
-			"Mr Wong Sung Lai",
-			"Mr Khoo Ghee Han"
-		],
+		"Vice Principal": "Mr Khoo Ghee Han",
 		"Vice Principal (Admin)": "Mr Chionh Boon Soo",
 		"School Vision": "A dynamic community of compassionate leaders and critical thinkers",
 		"School Mission": "Empowering every child to lead and impact the community, and be ready for the future.",
@@ -38,7 +35,7 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
 		"Foundation Chinese",
 		"Health Education",
@@ -52,21 +49,20 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Badminton",
-			"Basketball School Team"
+			"Basketball"
 		],
 		"Uniformed Groups": [
-			"Singapore Red Cross Society"
+			"Red Cross Link"
 		],
 		"Visual and Performing Arts": [
+			"Angklung",
+			"Chinese Orchestra",
 			"Choir",
 			"Dance Ensemble",
-			"Ensemble - Angklung/Kulintang",
-			"Orchestra - Chinese",
 			"Visual Arts Club"
 		],
 		"Clubs & Societies": [
-			"Elite Chess",
+			"Chess Club",
 			"Environmental Club",
 			"Media Club"
 		]
@@ -79,10 +75,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": "DA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": "DA (Character Development)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -91,34 +83,12 @@
 				"Development Award": "DA (Character Development)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category C",
 					"award": "Recognition"
@@ -165,6 +135,36 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Accomplishment"
 				}
@@ -208,7 +208,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 90,
 		"VACANCY FOR PHASE 2C": 150,
-		"NO. OF APPLICANTS IN PHASE 2C": 129
+		"NO. OF APPLICANTS IN PHASE 2C": 129,
+		"PLACES TAKEN UP TO PHASE 2C": 219,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 21,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 27
 	},
 	"id": "5608"
 }

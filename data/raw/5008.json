@@ -16,11 +16,12 @@
 	"mrt": "YEW TEE MRT",
 	"bus": "TIBS 302 , 979 ",
 	"GeneralInformation": {
-		"Principal": "MDM DAPHNE POON CHOR CHOO",
+		"Principal": "MDM CHERYL CHOO SHUEH-LI",
 		"Vice Principal": [
 			"MR CHING KIN HIN",
 			"MR SIM KOOI SUEN"
 		],
+		"Vice Principal (Admin)": "MISS THIEN KIEN SAN SHARON",
 		"School Vision": "Lifelong Learners, Caring Citizens",
 		"School Mission": "Enabling youth in a Lasallian community to learn how to learn and to learn how to live; empowering them to be men of integrity and men for others",
 		"School Philosophy, Culture and Ethos": [
@@ -30,8 +31,8 @@
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
-			"ST. JOSEPH'S INSTITUTION",
-			"ST. PATRICK'S SCHOOL"
+			"ST. JOSEPH&#39;S INSTITUTION",
+			"ST. PATRICK&#39;S SCHOOL"
 		]
 	},
 	"SubjectOffered": [
@@ -39,7 +40,7 @@
 		"CHINESE",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -63,7 +64,6 @@
 		],
 		"Uniformed Groups": [
 			"Brownies",
-			"Red Cross (Links)",
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
@@ -265,7 +265,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Gold (Hons)",
@@ -357,7 +357,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Gold",
@@ -460,8 +460,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Gold",
@@ -553,8 +553,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Gold",
@@ -650,8 +650,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Gold",
@@ -747,8 +747,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
@@ -1084,6 +1084,17 @@
 						"Senior"
 					],
 					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
+					],
+					[
 						"Basketball",
 						"-",
 						"-",
@@ -1104,17 +1115,6 @@
 						"3rd",
 						"-",
 						"-"
-					],
-					[
-						"Volleyball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"4th",
-						"4th"
 					],
 					[
 						"Wushu",
@@ -1311,7 +1311,18 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "689285"

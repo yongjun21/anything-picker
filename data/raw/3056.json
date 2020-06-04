@@ -23,7 +23,7 @@
 		],
 		"Vice Principal (Admin)": "MR TOO MENG NGEE",
 		"School Vision": "A Purposeful and Meaningful Life",
-		"School Mission": "To imbue students with sound values, journey with them on their exploration to discover themselves, their interests and talents, and nurture them to always do their best.",
+		"School Mission": "To imbue students with sound moral values, journey with them on their exploration to discover themselves, their interests and talents, and nurture them to always do their best.",
 		"School Philosophy, Culture and Ethos": "Damai Secondary School aims to nurture students into upright citizens who are determined to do their best always to fulfil their purpose in life in a meaningful way.  We believe everyone has the capacity to contribute to the good of society and make a positive difference in everything they do, and every individual has a role to play and a purpose in life.  The school will create opportunities for students' growth and development laying a strong foundation for them to build their future upon.  The school will provide students with opportunities to discover themselves through their studies, interaction and engagement with others (peers, teachers as well as the wider community), active participation in school activities and programmes, application of values and skills learnt in authentic settings, and reflections on lessons learnt.  Imbued with sound values and a positive attitude towards learning and life, students will be able to make informed decisions on the paths they should take upon completion of their studies at Damai Secondary School.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -39,10 +39,10 @@
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"FOOD STUDIES, N LEVEL",
 		"GEOGRAPHY",
@@ -62,6 +62,7 @@
 	"Cca": {
 		"Physical Sports": [
 			"Canoeing",
+			"Handball",
 			"Netball",
 			"Rugby"
 		],
@@ -91,7 +92,7 @@
 			"STEM": "Environmental & Health Sciences",
 			"Sports & Outdoor Education": "Character, Citizenship and Leadership Development through Water Sports"
 		},
-		"Special Student Development Programmes Offered": "The school offers a range of programmes to support students' development.  These include:  1.  Applied Learning Programme (ALP) which caters to the aptitudes, skills and knowledge related to Science, Technology, Engineering and Mathematics (STEM).  Our STEM-ALP focuses on Environmental and Health Sciences.  This programme enhances students' competencies in problem solving, scientific inquiry, computational thinking and design thinking through a series of modules that expose students to advanced electronics, programming, healthcare, environmental knowledge as well as related innovative projects.  With this early exposure, students will have the opportunity to explore their interests and talents in careers in the related fields.  2.  Learning for Life Programme (LLP) which aims to build character, citizenship and leadership through water sports and water survival skills.  Students will have opportunities to attain a Kayak 1-Star award, and enjoy experiences such as Dragon boating, flow-riding, scuba-diving, stand up paddling or windsurfing. Incorporated into the LLP are programmes/activities related to leadership training, life skills and Values-In-Action.  3.  Level-wide programmes including academic and National Education-related learning journeys; comprehensive Values-In-Action Programme as well as Sec 2 and Sec 3 cohort camps."
+		"Special Student Development Programmes Offered": "The school offers a range of programmes to support students' development.  These include:  1.  Applied Learning Programme (ALP) which caters to the aptitudes, skills and knowledge related to Science, Technology, Engineering and Mathematics (STEM).  Our STEM-ALP focuses on Environmental and Health Sciences.  This programme enhances students' competencies in problem solving, scientific inquiry, computational thinking and design thinking through a series of modules that expose students to advanced electronics, programming, healthcare, environmental knowledge as well as related innovative projects.  With this early exposure, students will have the opportunity to explore their interests and talents in careers in the related fields.  2.  Learning for Life Programme (LLP) which aims to build character, citizenship and leadership through water and adventure sports.  Students will have opportunities to attain a Kayak 1-Star award, and enjoy experiences such as Dragon boating, flow-riding, scuba-diving, stand up paddling or windsurfing. Incorporated into the LLP are programmes/activities related to leadership training, life skills and Values-In-Action.  3.  Level-wide programmes including academic and National Education-related learning journeys; comprehensive Values-In-Action Programme as well as Sec 2 and Sec 3 cohort camps."
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -203,7 +204,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "2 Awards"
+					"Art &amp; Craft (Gold)": "2 Awards"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -291,17 +292,6 @@
 						"'C' Div"
 					],
 					[
-						"Canoeing",
-						"-",
-						"-",
-						"-",
-						"4th",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
 						"Netball",
 						"-",
 						"-",
@@ -322,10 +312,21 @@
 						"-",
 						"-",
 						"-"
+					],
+					[
+						"Canoeing",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Gold)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - International": "Bronze",
@@ -440,8 +441,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Gold)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - International": "Bronze",
@@ -545,20 +546,20 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Ensemble - Guzheng": "Gold",
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Gold)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - International": "Silver",
-					"Drama - English": "Bronze"
+					"Drama - English": "Bronze",
+					"Ensemble - Guzheng": "Gold"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2010": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - International": "Silver",
@@ -672,8 +673,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - International": "Bronze",
@@ -783,8 +784,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - International": "Bronze",
@@ -898,8 +899,8 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Commendation",
 					"Dance - International": "Accomplishment",
@@ -1354,16 +1355,122 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
 					"Art - Category A": "Recognition",
 					"Choir": "Accomplishment",
 					"Dance - International": "Accomplishment",
 					"Dance - Malay": "Distinction",
-					"Ensemble - Guzheng": "Distinction",
-					"Band - Concert": "Accomplishment"
+					"Ensemble - Guzheng": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Canoeing",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1619,6 +1726,23 @@
 			"Normal Technical": [
 				"116",
 				"148",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"188",
+				"232",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"180",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"112",
+				"156",
 				"None-posted"
 			]
 		}

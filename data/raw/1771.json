@@ -14,13 +14,14 @@
 	],
 	"email": "CASUARINA_PS@MOE.EDU.SG",
 	"mrt": "Pasir Ris MRT Station",
-	"bus": "Nos. 12 , 21 & 358 ",
+	"bus": "Nos. 12 , 21 &amp; 358 ",
 	"GeneralInformation": {
 		"Principal": "MDM ONG KWEE LAN",
 		"Vice Principal": [
-			"MR WONG MUN ONN DANIEL",
-			"MR WONG JUNFU STEVEN"
+			"MR WONG JUNFU STEVEN",
+			"MR TAYEB B RAJIB"
 		],
+		"School Mission": "Nurturing students holistically in a caring environment to their full potential.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -28,9 +29,9 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -46,8 +47,10 @@
 	],
 	"Cca": {
 		"Physical Sports": [
+			"Badminton",
 			"Contact Rugby",
 			"Floorball",
+			"Football",
 			"Wushu"
 		],
 		"Uniformed Groups": [
@@ -59,10 +62,12 @@
 			"Band - Concert",
 			"Choir",
 			"Dance - Chinese",
-			"Dance - International"
+			"Dance - International",
+			"Dance - Malay"
 		],
 		"Clubs & Societies": [
-			"Infocom Club"
+			"Infocomm Club",
+			"Science And Environment Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -70,10 +75,10 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Languages": "The Art of Language",
-			"Music & Performing Arts": "Holistic Education through the ARTS at Casuarina Primary School (HE’ARTS@CAPS)"
+			"Science": "Nature-Based Education",
+			"Visual Arts & Design": "Holistic Education through the ARTS at Casuarina Primary School (HE’ARTS@CAPS)"
 		},
-		"Special Student Development Programmes Offered": "To reflect our focus on the holistic development of our students under our CAPS (Cognitive, Aesthetics, Physical and Socio-moral-emotional) Domains, Casuarina Primary School offers both a Learning for Life Programme (LLP) and an Applied Learning Programme (ALP) for our students.  "
+		"Special Student Development Programmes Offered": "The school believes in providing opportunities for all students to be part of a holistic school experience that prepares them for the future. The key school-wide programmes, as featured below, are designed to meet our student profile, needs and interests while offering to our students a buffet of opportunities for holistic development:"
 	},
 	"AchievementHistory": {
 		"Primary": {
@@ -1166,7 +1171,17 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Commendation",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "518935"

@@ -18,10 +18,9 @@
 	"GeneralInformation": {
 		"Principal": "MDM JESSIE LIM CHIEN CHIN",
 		"Vice Principal": [
-			"MDM POH QINYU",
-			"MDM SIEW YOKE YIN SERENE"
+			"MDM SIEW YOKE YIN SERENE",
+			"MR JAMES PEH CHIN HENG"
 		],
-		"Vice Principal (Admin)": "MDM ONG LEE FONG",
 		"School Vision": "Caring Community, Innovative Leaders.",
 		"School Mission": "To nurture a community of independent learners, effective communicators, active citizens, and innovative leaders.",
 		"School Philosophy, Culture and Ethos": [
@@ -36,9 +35,9 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -68,8 +67,8 @@
 			"Orchestra - Chinese"
 		],
 		"Clubs & Societies": [
-			"Robotics Club",
-			"Science And Mathematics Club"
+			"Applied Science",
+			"Robotics Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -247,17 +246,6 @@
 						"Senior"
 					],
 					[
-						"Badminton",
-						"-",
-						"2nd",
-						"-",
-						"-",
-						"4th",
-						"2nd",
-						"-",
-						"-"
-					],
-					[
 						"Table Tennis",
 						"-",
 						"-",
@@ -276,6 +264,17 @@
 						"1st",
 						"-",
 						"-",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"4th",
+						"2nd",
 						"-",
 						"-"
 					],
@@ -299,7 +298,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"1st",
 						"-",
@@ -312,12 +311,12 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
+					"Orchestra - Chinese": "Silver",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Choir": "Gold (Hons)",
 					"Dance - Chinese": "Gold",
 					"Dance - International": "Silver",
-					"Ensemble - Guzheng": "Silver",
-					"Orchestra - Chinese": "Silver"
+					"Ensemble - Guzheng": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -433,7 +432,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"4th",
 						"-",
 						"-",
@@ -446,7 +445,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - International": "Silver",
@@ -568,7 +567,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -799,8 +798,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - International": "Silver",
@@ -906,8 +905,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Gold)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - International": "Gold (Hons)",
@@ -1416,7 +1415,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -1540,7 +1539,98 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Chinese Orchestra-Mixed Ensemble": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "469719"

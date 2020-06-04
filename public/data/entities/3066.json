@@ -40,7 +40,7 @@
 		"Additional Mathematics",
 		"Art",
 		"Art Na Level",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Basic Chinese",
 		"Basic Malay",
 		"Biology",
@@ -52,12 +52,12 @@
 		"Combined Humanities (S,H)",
 		"Combined Humanities (S,L)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
@@ -100,7 +100,7 @@
 			"Hip-Hop"
 		],
 		"Clubs & Societies": [
-			"Av / It Club",
+			"Av & It Club",
 			"Ldds - English",
 			"Strategic Games Club",
 			"Students' Council"
@@ -111,41 +111,21 @@
 			"Languages & Humanities": "Developing Confident & Competent Communicators through Oracy Skills Programme",
 			"Music & Performing Arts": "Performing Arts : “iACE@Juying” (I Appreciate, I Create, I Exhibit at Juying)"
 		},
-		"Special Student Development Programmes Offered": "Applied Learning Programme (ALP) in Oracy: Develops students to be competent, confident and empathetic communicators. Students undergo a tiered oracy programme from Tier 1 for all students (Stand & Deliver / Drama, Debate & Interview Training), Tier 2 (ELDDS / Ambassadorship & Ted-Talk Training) to Tier 2+ (Talent Development / Newscasting & Emceeing Training). A Speakers' Corner, a podium set up in the canteen, allows students to confidently address their schoolmates on various issues. Students get ambassadorship opportunities with organisations such as Gardens By The Bay. Learning for Life Programme (LLP) in Aesthetics: Provides students opportunities to learn to play instruments such as the ukulele and guzheng, experience dance styles such as Hip-Hop, and develop appreciation for arts performances. Through these, students develop character values, and people skills. ICT Programme: Equips JYians to be future-ready, digitally responsible lifelong learners with coding capabilities, creating micro:bit DigitalMaker projects, 3D-modelling and developing Google cloud proficiency. Trips for International Experience / Values-in-Action: Develops students to be gracious and concerned citizens for all Sec 2 students. All Sec 3 students undergo OBS to develop ruggedness and resilience. "
+		"Special Student Development Programmes Offered": "Applied Learning Programme (ALP) in Oracy: Develops students to be competent, confident and empathetic communicators. Students undergo a tiered oracy programme from Tier 1 for all students (Stand & Deliver / Drama, Debate & Interview Training), Tier 2 (ELDDS / Ambassadorship & Ted-Talk Training) to Tier 2+ (Talent Development / Newscasting & Emceeing Training). A Speakers' Corner, a podium set up in the canteen, allows students to confidently address their schoolmates on various issues. Students get ambassadorship opportunities with organisations such as Gardens By The Bay. Learning for Life Programme (LLP) in Aesthetics: Provides students opportunities to learn to play instruments such as the ukulele and guzheng, experience dance styles such as Hip-Hop, and develop appreciation for arts performances. Through these, students develop character values, and people skills. ICT Programme: Equips JYians to be future-ready, digitally responsible lifelong learners with coding capabilities, creating micro:bit DigitalMaker projects, 3D-modelling and developing Google cloud proficiency. Trips for International Experience / Values-in-Action: Develops students to be gracious and concerned citizens; for all Sec 2 students. All Sec 3 students undergo OBS to develop ruggedness and resilience. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
 				{
 					"year": "2017",
 					"category": "Band - Concert",
@@ -193,6 +173,31 @@
 				},
 				{
 					"year": "2018",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Drama - English",
 					"award": "Accomplishment"
 				}
@@ -201,30 +206,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 192,
-			"upper": 242,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 160,
-			"upper": 193,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 114,
-			"upper": 154,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -294,6 +275,30 @@
 			"programme": "Normal Technical",
 			"lower": 122,
 			"upper": 153,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 198,
+			"upper": 235,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 160,
+			"upper": 197,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 135,
+			"upper": 157,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

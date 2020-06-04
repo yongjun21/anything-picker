@@ -17,7 +17,7 @@
 	"bus": "912 from Woodlands Interchange",
 	"GeneralInformation": {
 		"Principal": "MR KOE EE TIONG",
-		"Vice Principal": "MR JAY WESTLY MAHARDALE",
+		"Vice Principal": "MR ANDREW NG SIOK KWANG",
 		"Vice Principal (Admin)": "MDM TAN AI CHOO",
 		"School Vision": "Every Si Ling Pupil a Scholar who Leads and Serves",
 		"School Mission": "We, in partnership with all our stakeholders, are committed to nurture our pupils to be thinking learners and gracious citizens.",
@@ -33,10 +33,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -67,7 +67,7 @@
 			"Ensemble - Guitar"
 		],
 		"Clubs & Societies": [
-			"Ict Club",
+			"Infocomm Club",
 			"Scieinsteins"
 		]
 	},
@@ -76,7 +76,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"Science": "Environmental Science Programme"
+			"Science": "Environmental Science Programme",
+			"Community Service & Student Leadership": "Community and Student Leadership"
 		},
 		"Special Student Development Programmes Offered": "Our Applied Learning Programme (ALP), Environmental Science Programme (ESP), provides pupils with opportunities to apply science knowledge, processes and attitudes acquired from science lessons in real-life environmental issues, allowing their learning to be relevant, meaningful and enjoyable. Stakeholders are roped in to enhance pupils# learning experiences, as well as provide opportunities for pupils to gain more exposure."
 	},
@@ -255,7 +256,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Gold (Hons)",
 					"Dance - Malay": "Gold",
@@ -345,7 +346,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
@@ -528,11 +529,11 @@
 					]
 				],
 				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - Malay": "Silver",
-					"Orchestra - Chinese": "Bronze",
-					"Choir": "Silver",
-					"Dance - Chinese": "Silver"
+					"Orchestra - Chinese": "Bronze"
 				}
 			},
 			"2011": {
@@ -609,7 +610,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
@@ -700,7 +701,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
@@ -1242,7 +1243,15 @@
 					"Ensemble - Guitar": "Accomplishment"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "739067"

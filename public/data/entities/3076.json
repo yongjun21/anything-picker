@@ -23,6 +23,7 @@
 			"Mr Mohd Azman B Mohd Sidek",
 			"Mrs Rose Chen"
 		],
+		"Vice Principal (Admin)": "Mr Kong Mun Heng",
 		"School Vision": "Joyful Learners, Creative Thinkers, Compassionate Leaders",
 		"School Mission": "To nurture in Meridians inquiring minds and caring hearts for their pursuit of excellence",
 		"School Philosophy, Culture and Ethos": "We believe that every child is a unique and precious individual who can learn and be developed holistically. We nurture talents and shape the character of students through a range of student-centric and values-driven programmes and experiences. We provide a nurturing and conducive environment for learning so that students can grow, build confidence and strive for success. Students learn best when they collaborate with others and are well supported by their teachers, peers and parents. Our team of unwavering, caring and competent staff lead, care and inspire our students to bring out the best in them, and enable our students to discover their passion and fulfil their aspirations. Anchored in sound values, and imbued with a strong sense of integrity and accountability, the staff are committed to serve, innovate and make a positive impact on the community. Our dedicated school partners provide further support through opportunities to enrich the students' learning. Together, we equip our students with sound values and competencies that they need for the future.",
@@ -37,10 +38,10 @@
 		"Chemistry",
 		"Chinese",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Higher Chinese",
@@ -92,6 +93,9 @@
 	"AchievementHistory": {
 		"Secondary": {
 			"2018": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2019": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"Sports & Games Competition": [],
@@ -175,6 +179,41 @@
 					"year": "2018",
 					"category": "Ensemble - Gamelan",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Gamelan",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
@@ -249,6 +288,30 @@
 			"year": "2019",
 			"programme": "Normal Technical",
 			"lower": 135,
+			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 212,
+			"upper": 232,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 163,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 137,
 			"upper": 159,
 			"lowerAffiliated": null,
 			"upperAffiliated": null

@@ -19,7 +19,7 @@
 	"bus": "75 , 184 ",
 	"GeneralInformation": {
 		"Principal": "Mr Bucktha Seelan",
-		"Vice Principal": "Mdm Goh Puay Hoon Jenny",
+		"Vice Principal": "Mdm Kay Hwee Geak",
 		"Vice Principal (Admin)": "Mr Tan Seng Chuan",
 		"School Vision": "Future Leaders, Concerned Citizens",
 		"School Mission": "Developing our students holistically in a vibrant and caring environment",
@@ -36,7 +36,7 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
 		"Health Education",
@@ -83,10 +83,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": "DA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": "DA (Character Development)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -95,43 +91,12 @@
 				"Development Award": "DA (Character Development)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Development Award": "DA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band-Percussion Ensemble",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category B",
@@ -164,11 +129,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
 					"category": "Dance - Malay",
 					"award": "Distinction"
 				},
@@ -200,6 +160,46 @@
 				{
 					"year": "2018",
 					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Brass Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
 					"award": "Distinction"
 				}
 			],
@@ -240,7 +240,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 20,
 		"PLACES TAKEN UP TO PHASE 2B": 170,
 		"VACANCY FOR PHASE 2C": 70,
-		"NO. OF APPLICANTS IN PHASE 2C": 87
+		"NO. OF APPLICANTS IN PHASE 2C": 87,
+		"PLACES TAKEN UP TO PHASE 2C": 240
 	},
 	"id": "1020"
 }

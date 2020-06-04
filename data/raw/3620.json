@@ -36,25 +36,25 @@
 		"ADDITIONAL MATHEMATICS",
 		"ART",
 		"ART NA LEVEL",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE N(A)",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
 		"EXERCISE AND SPORTS SCIENCE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -90,7 +90,7 @@
 			"Girls' Brigade",
 			"National Cadet Corps (Land)",
 			"National Police Cadet Corps",
-			"St. John Ambulance Brigade"
+			"St. John Brigade"
 		],
 		"Visual and Performing Arts": [
 			"Band - Concert",
@@ -358,7 +358,17 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band-Brass Ensemble": "Accomplishment",
+					"Band-Wind Ensemble": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - Multi-Lingual": "Distinction",
+					"Ensemble - Guitar": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -614,6 +624,23 @@
 			"Normal Technical": [
 				"103",
 				"158",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"194",
+				"232",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"153",
+				"192",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"122",
+				"153",
 				"None-posted"
 			]
 		}

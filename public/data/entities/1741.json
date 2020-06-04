@@ -20,8 +20,8 @@
 	"GeneralInformation": {
 		"Principal": "Mdm Loke Wai Ling",
 		"Vice Principal": [
-			"Dr Tan Jean Lee",
-			"Mr Tan Hock Chye Charles"
+			"Mr Tan Hock Chye Charles",
+			"Mdm Choo Siew Hong"
 		],
 		"School Vision": "Rooted in Values; Ready for the Future; Gem of the Community",
 		"School Mission": "To develop each student to be a life-long learner, a leader with character, a success in his own right so as to serve the community.",
@@ -40,10 +40,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -59,71 +59,46 @@
 	],
 	"Cca": {
 		"Physical Sports": [
-			"Athletics",
 			"Football",
 			"Netball",
-			"Rope Skipping",
+			"Track & Field",
 			"Wushu"
 		],
 		"Uniformed Groups": [
-			"Cub Scouts"
+			"Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Chinese Orchestra",
 			"Choir",
-			"Indian Dance",
-			"Malay Dance"
+			"Dance - Indian",
+			"Dance - Malay",
+			"Orchestra - Chinese"
 		],
 		"Clubs & Societies": [
-			"Environmental Club",
-			"Infocomm Club"
+			"Robotics Club",
+			"Science Club"
 		]
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
+			"Interdisciplinary": "21CC PW",
 			"Music & Performing Arts": "Fitness and Graciousness Through Dance"
 		},
 		"Special Student Development Programmes Offered": "The wide range of Co-Curricular Activities (CCA) in our school forms a key pillar of our students' character development. All our CCA set high targets and work towards them relentlessly as a team. Through their participation, students are significantly developed in teamwork, confidence and resilience. Many students have distinguished themselves and won honours in various competitions."
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -180,6 +155,46 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
 				}
@@ -223,7 +238,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 49,
 		"VACANCY FOR PHASE 2C": 131,
-		"NO. OF APPLICANTS IN PHASE 2C": 19
+		"NO. OF APPLICANTS IN PHASE 2C": 19,
+		"PLACES TAKEN UP TO PHASE 2C": 68,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 112,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 27
 	},
 	"id": "1741"
 }

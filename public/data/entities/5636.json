@@ -23,7 +23,7 @@
 			"Mr Tan Sian Yeow Terence",
 			"Mr Soon Woo Sin"
 		],
-		"Vice Principal (Admin)": "Mdm Tham Lai Peng",
+		"Vice Principal (Admin)": "Mr Ngeow Siong Chye",
 		"School Vision": "A community of thinkers who are patriotic, gracious and global in outlook.",
 		"School Mission": "Developing pupils in five core areas, namely moral, intellectual, physical, social and aesthetics domains and thereby preparing them for the future.",
 		"School Philosophy, Culture and Ethos": "Founded on 16 April 1915 by a supervisor of schools with the Singapore Hokkien Huay Kuan (SHHK), Chongfu School's (CFS) distinctiveness stems from its rich history and heritage. Being one of the 6 Singapore Hokkien Huay Kuan (SHHK) affiliated schools, it shares a common motto, Sincerity and Perseverance, with other SHHK schools. Upon relocation of its original premises to its current site in Yishun, it began offering all three Mother Tongue Languages, thereby paving the way for Singaporean children of all races to be part of the CFS education experience. Anchoring the pursuit towards holistic education are the school's values (expressed in the acronym GRACIOUSLY).",
@@ -34,9 +34,9 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Foundation Science",
 		"Health Education",
@@ -83,11 +83,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Development Award": "DA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Development Award": "DA (Character Development)",
@@ -98,33 +93,12 @@
 				"Development Award": "DA (Character Development)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category A",
@@ -194,6 +168,46 @@
 					"year": "2018",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
@@ -235,7 +249,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 55,
 		"PLACES TAKEN UP TO PHASE 2B": 249,
 		"VACANCY FOR PHASE 2C": 51,
-		"NO. OF APPLICANTS IN PHASE 2C": 144
+		"NO. OF APPLICANTS IN PHASE 2C": 144,
+		"PLACES TAKEN UP TO PHASE 2C": 300
 	},
 	"id": "5636"
 }

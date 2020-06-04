@@ -17,17 +17,14 @@
 	"bus": "45 , 70 , 71 , 76 , 86 , 529 , 825 , 851 , 851e , 852 , 853 ",
 	"GeneralInformation": {
 		"Principal": "MR OWYONG TUCK SING VICTOR",
-		"Vice Principal": [
-			"MISS YEW MEI FOONG SARAH",
-			"MR LOH KOK NIAM VINCENT"
-		],
+		"Vice Principal": "MISS YEW MEI FOONG SARAH",
 		"Vice Principal (Admin)": "MDM POH LYE IMM",
 		"School Vision": "PHS honours GOD in mentoring Promise - Keepers, Hope - Builders and Servant - Leaders to bless their world always.",
 		"School Mission": "Our mission is to inculcate Christian values in every individual and develop his potential as a total person worthy of God and man.",
 		"School Philosophy, Culture and Ethos": "The school's vision is to develop our students to be Promise-Keepers, Hope-Builders and Servant-Leaders. To this intent, the school places emphasis on nurturing and developing good character as well as harness the leadership potential in every child; inculcating in them a sense of gratitude and responsibility to the community and nation. To achieve our mission to develop \"A Total Person Worthy of God and Man\", the school provides a  holistic education that seeks to engage students to participate fully in CCA and Student Leadership programmes. The school provides a Christian environment where there is a strong culture of teamwork, learning, excellence, care and self-discipline in the school.",
 		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
-		"Affiliated Schools": "ST. ANDREW'S JUNIOR COLLEGE"
+		"Affiliated Schools": "ST. ANDREW&#39;S JUNIOR COLLEGE"
 	},
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
@@ -36,9 +33,9 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"HIGHER CHINESE",
 		"HUMANITIES (SS, GEOGRAPHY)",
@@ -214,7 +211,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award"
+					"Art &amp; Craft (Silver)": "1 Award"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -302,17 +299,6 @@
 						"'C' Div"
 					],
 					[
-						"Basketball",
-						"-",
-						"2nd",
-						"-",
-						"-",
-						"2nd",
-						"1st",
-						"-",
-						"-"
-					],
-					[
 						"Table Tennis",
 						"-",
 						"4th",
@@ -333,6 +319,17 @@
 						"-",
 						"2nd",
 						"1st"
+					],
+					[
+						"Basketball",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
 					],
 					[
 						"",
@@ -373,12 +370,12 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Orchestra - Chinese": "Silver",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Bronze",
 					"Dance - International": "Gold",
-					"Ensemble - Guzheng": "Gold",
-					"Orchestra - Chinese": "Silver"
+					"Ensemble - Guzheng": "Gold"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1844,7 +1841,134 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"4th",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Mixed Ensemble": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -2100,6 +2224,23 @@
 			"Normal Technical": [
 				"135",
 				"159",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"236",
+				"252",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"180",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"133",
+				"158",
 				"None-posted"
 			]
 		}

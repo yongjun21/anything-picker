@@ -13,8 +13,8 @@
 		"62763037"
 	],
 	"email": "BRPS@MOE.EDU.SG",
-	"mrt": "Telok Blangah, Tiong Bahru & Redhill",
-	"bus": "SBS 273 & 124",
+	"mrt": "Telok Blangah, Tiong Bahru &amp; Redhill",
+	"bus": "SBS 273 &amp; 124",
 	"GeneralInformation": {
 		"Principal": "MR FRANCIS FOO",
 		"Vice Principal": [
@@ -25,9 +25,8 @@
 		"School Vision": "A Joyful School of Confident Learners and Caring Leaders.",
 		"School Mission": "Nurturing Every Child Holistically",
 		"School Philosophy, Culture and Ethos": [
-			"The school believes in educating each child for life. It aspires to develop resilient children with joyful attributes of a growth mindset, a heart of appreciation and a sense of purpose; as well as to ground them in sound values that will withstand the test of time. We hope to develop confident life-long learners with the love for learning and have habits of a self-directed learner. We aim to provide opportunities for each child to become a caring leader, serving others and the community as well as play their part for the environment. ",
-			"Towards this end, the school believes that it will 'take a village to raise a child'. In partnership with numerous partners, the school provides a unique Blangah Rise education experience customised to the needs of each child to maximise his or her potential. Ranging from outdoor experiences through the Southern Ridges located conveniently opposite the school, to having experiences of being an entrepreneur in Sentosa's Kidzflea, each child develops literacy, numeracy and 21st century skills to be future-ready. ",
-			"The quality of the unique Blangah Rise experience will only be as good as the team of teachers who plans and delivers them. We believe in continually developing ourselves professionally to be skilful teachers who are caring and competent in what we do. And as a team we support and help each other in bringing out the best in us as well as our children. We thank our stakeholders for recognising our efforts through the numerous awards for inspiring teaching and innovation!"
+			"To enable our students to learn successfully, we help them develop core habits to enhance effectiveness. This is done through the \"Leader in Me\" programme, which equips our students with Stephen Covey's Seven Habits of Happy Kids for personal and inter-personal effectiveness. We design learning to meet the different learning needs of children through various programmes, including Aspiring Confident Engineers @ BRPS (Applied Learning Programme), Accelerated Programme to enhance Students' eXperience (APEX) (stretch programme), Chinese Junior Reporters and Young Photographers. We use service as a key platform to help our students apply learning and nurture connectedness with the school and the community, for example, through our Learning for Life Programme (LLP) for community and leadership which is anchored on environmental education.",
+			"Through these programmes, we create a positive school experience for each student by nurturing their joy of learning, providing opportunities for all and developing a growth mindset in them. Our students become learners who are engaged, self-directed and have a love for learning. They also become leaders who are resilient and responsible, and care for self, others and the community."
 		],
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
@@ -36,10 +35,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -57,30 +56,13 @@
 		"SOCIAL STUDIES",
 		"TAMIL"
 	],
-	"Cca": {
-		"Physical Sports": [
-			"Badminton",
-			"Basketball",
-			"Football"
-		],
-		"Uniformed Groups": [
-			"Scouts",
-			"Singapore Red Cross Society"
-		],
-		"Visual and Performing Arts": [
-			"Art And Design Club",
-			"Dance"
-		],
-		"Clubs & Societies": [
-			"Media Kids",
-			"Stem Club"
-		]
-	},
+	"Cca": {},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"STEM": "Aspiring Confident Engineers (ACE)@BRPS",
 			"Sports & Outdoor Education": "The RISE3 (Explore, Empower, Enrich) Outdoor Experience"
 		},
 		"Special Student Development Programmes Offered": "The Blangah Rise Experience"
@@ -389,7 +371,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver"
 				},
@@ -467,7 +449,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Dance - Chinese": "Silver"
 				}
 			},
@@ -548,7 +530,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Dance - Chinese": "Silver"
 				}
 			},
@@ -629,7 +611,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver"
 				},
@@ -925,7 +907,15 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Dance - Chinese": "Accomplishment",
+					"Art - Category B": "Recognition",
+					"Dance - International": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "109100"

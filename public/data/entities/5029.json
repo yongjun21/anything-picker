@@ -38,7 +38,7 @@
 		],
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
-		"Affiliated Schools": "St. Anthony's Canossian Secondary School"
+		"Affiliated Schools": "St. Anthony&#39;s Canossian Secondary School"
 	},
 	"SubjectOffered": [
 		"Art",
@@ -46,7 +46,7 @@
 		"Chinese",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -70,8 +70,17 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
-			"SYF": [],
+			"SYF": [
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				}
+			],
 			"Best Unit Award": []
 		}
 	},
@@ -109,7 +118,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 15,
 		"PLACES TAKEN UP TO PHASE 2B": 41,
 		"VACANCY FOR PHASE 2C": 79,
-		"NO. OF APPLICANTS IN PHASE 2C": 39
+		"NO. OF APPLICANTS IN PHASE 2C": 39,
+		"PLACES TAKEN UP TO PHASE 2C": 80,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 40,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 9
 	},
 	"id": "5029"
 }

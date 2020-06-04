@@ -32,7 +32,7 @@
 		"ADDITIONAL MATHEMATICS",
 		"ART",
 		"ART NA LEVEL",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BIOLOGY",
@@ -41,14 +41,15 @@
 		"CHINESE N(A)",
 		"CO-CURRICULAR ACTIVITIES",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
+		"HIGHER CHINESE",
 		"HISTORY",
 		"HUMANITIES (SS, GEOGRAPHY)",
 		"HUMANITIES (SS, HISTORY)",
@@ -103,7 +104,7 @@
 			"Interdisciplinary": "Project S.H.I.N.E -- An Integrated Student-Centred and Holistic Programme that Develops Innovation and Nurtures Empathy",
 			"Sports & Outdoor Education": "SHAPE @ BDS: A School of Healthy And Physically Educated Enthusiasts"
 		},
-		"Special Student Development Programmes Offered": "ALP Project S.H.I.N.E. (Student-centred and Holistic programme that develops Innovation and Nurtures Empathy) aims to bring about active student learning through the progressive development of 21st century skills such as critical thinking, creativity, innovation and collaborative learning. The curriculum involves the use of experiential and inquiry leaning through Design Thinking, a creative problem-solving approach that aims to equip students with the skills, knowledge, and attitudes they need for individual success and global competitiveness. "
+		"Special Student Development Programmes Offered": "ALP Project S.H.I.N.E. (Student-centred and Holistic programme that develops Innovation and Nurtures Empathy) aims to bring about active student learning through the progressive development of 21st century skills such as critical thinking, creativity, innovation and collaborative learning. The curriculum involves the use of experiential and inquiry learning through Design Thinking, a creative problem-solving approach that aims to equip students with the skills, knowledge, and attitudes they need for individual success and global competitiveness. "
 	},
 	"AchievementHistory": {
 		"Secondary": {
@@ -123,12 +124,12 @@
 			},
 			"2008": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Band - Concert": "Bronze",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold",
 					"Dance - Malay": "Silver",
-					"Orchestra - Chinese": "Gold"
+					"Orchestra - Chinese": "Gold",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Band - Concert": "Bronze"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -228,12 +229,12 @@
 					]
 				],
 				"SYF Central Judging": {
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Band - Concert": "Bronze",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - International": "Silver",
 					"Dance - Malay": "Silver",
-					"Orchestra - Chinese": "Silver",
-					"Art & Craft (Bronze)": "1 Award",
-					"Band - Concert": "Bronze"
+					"Orchestra - Chinese": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -487,7 +488,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold (Hons)",
@@ -607,7 +608,7 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Accomplishment",
 					"Dance - Chinese": "Distinction",
@@ -872,7 +873,112 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1118,6 +1224,23 @@
 			"Normal Academic": [
 				"158",
 				"195",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"213",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"159",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"96",
+				"152",
 				"None-posted"
 			]
 		}

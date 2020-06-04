@@ -36,7 +36,7 @@
 		"Chinese",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -66,6 +66,7 @@
 		],
 		"Visual and Performing Arts": [
 			"Choir",
+			"Concert Band",
 			"International Dance"
 		],
 		"Clubs & Societies": [
@@ -86,36 +87,21 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band-Brass Ensemble",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Choir",
 					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Commendation"
 				},
 				{
 					"year": "2017",
@@ -136,11 +122,6 @@
 					"year": "2017",
 					"category": "Dance - International",
 					"award": "Commendation"
-				},
-				{
-					"year": "2017",
-					"category": "Choir",
-					"award": "Accomplishment"
 				},
 				{
 					"year": "2018",
@@ -164,6 +145,26 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - International",
 					"award": "Accomplishment"
 				}
@@ -204,7 +205,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 35,
 		"VACANCY FOR PHASE 2C": 85,
-		"NO. OF APPLICANTS IN PHASE 2C": 9
+		"NO. OF APPLICANTS IN PHASE 2C": 9,
+		"PLACES TAKEN UP TO PHASE 2C": 43,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 77,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 3
 	},
 	"id": "1268"
 }

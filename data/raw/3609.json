@@ -21,7 +21,6 @@
 			"MR ANG JOHNNY",
 			"MR GOH WAI MIN, JASON"
 		],
-		"Vice Principal (Admin)": "MR LEE CHEE SENG",
 		"School Vision": "Creative Learners, Upright Leaders, Global Thinkers",
 		"School Mission": [
 			"To nurture East Springians to be self-directed, compassionate citizens with a passion for excellence and",
@@ -46,7 +45,7 @@
 		"ART",
 		"ART NA LEVEL",
 		"ART NT LEVEL",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BASIC TAMIL",
@@ -56,17 +55,18 @@
 		"CHINESE B",
 		"CHINESE N(A)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"FOOD STUDIES, N LEVEL",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
+		"HISTORY",
 		"HUMANITIES (SS, GEOGRAPHY)",
 		"HUMANITIES (SS, HISTORY)",
 		"HUMANITIES (SS, LIT IN ENGLISH)",
@@ -126,8 +126,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"STEM": "Harnessing Energy to Live, Work and Play",
-			"Community & Youth Leadership": "Every Student a Leader"
+			"STEM": "21st Century Innovators through Health Science",
+			"Community & Youth Leadership": "Every Student a Leader Through Service"
 		},
 		"Special Student Development Programmes Offered": "The school's Holistic Education, Character and Citizenship Education (HDCCE) framework is designed based on 21st Century Competencies and the desired student outcomes of a confident person, self-directed learner, concerned citizen, and active contributor. Our Applied Learning Programme (ALP), 21st Century Innovators through Health Science, prepares students for the future through the learning and application of skills, concepts and knowledge related to health science. This unique programme allows students to acquire and apply critical thinking skills and develop dispositions of an inquiring mind. The school also seeks to develop student leadership skills through our distinctive Community Youth Leadership (CYL) Programme under the Learning for Life Programme (LLP). The programme, comprising both formal training and experiential learning opportunities, is designed for students to develop the self-awareness to lead self, as well as to influence others in making a difference to the community."
 	},
@@ -1268,7 +1268,115 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Commendation",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1524,6 +1632,23 @@
 			"Normal Technical": [
 				"108",
 				"157",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"188",
+				"227",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"157",
+				"191",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"109",
+				"153",
 				"None-posted"
 			]
 		}

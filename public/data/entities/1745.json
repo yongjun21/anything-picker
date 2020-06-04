@@ -19,15 +19,12 @@
 	"bus": "Bus No 307 , 302 ",
 	"GeneralInformation": {
 		"Principal": "Mdm Goh Meei Yunn",
-		"Vice Principal": [
-			"Mr Gan Kok Soon Simon",
-			"Miss Tay Sze Leng"
-		],
+		"Vice Principal": "Miss Tay Sze Leng",
 		"Vice Principal (Admin)": "Mdm Neu Siew Lay",
 		"School Vision": "Joyful Learners, Gracious Citizens, Champions in Life",
 		"School Mission": "Nurturing Minds, Engaging Hearts, Building Character",
 		"School Philosophy, Culture and Ethos": [
-			"In line with our philosophy 'Every child matters and deserves the best', we in Kranjj Primary believe that every student is a unique individual who has the capability to realise his potential and deserves to be provided with the opportunities, support and resources to do so. Guided by our core values of 'Responsibility to Serve, Compassion to Care, Integrity to Uphold and Perseverance to Pursue', students are committed to the Student's Creed - to be exemplary in character at all times, respect self and others, be responsible for their learning and actions, show care, uphold integrity and persevere in everything they do to achieve success.",
+			"In line with our philosophy 'Every Kranjian matters and deserves the best', we in Kranji Primary believe that every student is a unique individual who has the capability to realise his potential and deserves to be provided with the opportunities, support and resources to do so. Guided by our core values of 'Responsibility, Resilience, Compassion, Integrity and Respect', students are committed to the Student's Creed - to be exemplary in character at all times, respect self and others, be responsible for their learning and actions, show care, uphold integrity and persevere in everything they do to achieve success.",
 			"Our student management model is one of positive discipline. Every student learns to self-regulate and be mindful of the well-being of their peers, teachers and the environment.  A four-stage student leadership model allows for all students to serve as leaders.  They develop leadership capacity through taking on specific roles of higher responsibility in class, during Co-curricular Activities (CCA) and at the highest level, key student leadership positions.  ",
 			"With a mix of students from different nationalities and races, we emphasise the moulding of gracious citizens with a deep sense of national identity; equipping them with cross-cultural awareness and communication skills. Building upon a dedicated staff and strong teacher-student rapport, we focus on nurturing critical thinking and social-emotional competencies. We strive to imbue in our students the character and disposition to excel in ways they never thought they could."
 		],
@@ -38,10 +35,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -58,18 +55,16 @@
 	"Cca": {
 		"Physical Sports": [
 			"Basketball",
-			"Football",
-			"Taekwondo",
-			"Wushu"
+			"Football"
 		],
 		"Uniformed Groups": [
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
-			"Art Club",
-			"Choir",
+			"Art And Craft Club",
 			"Dance - International",
-			"Digital Media Club"
+			"Digital Media Club",
+			"Ensemble - Percussion"
 		],
 		"Clubs & Societies": [
 			"Science Club"
@@ -77,41 +72,22 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
+			"Science": "Nurturing Joyful Learners through Critical and Inventive Thinking",
 			"Sports & Outdoor Education": "Developing Champions in Life through Sports"
 		},
 		"Special Student Development Programmes Offered": "LLP: Developing Champions in Life through Sports: This signature programme offers students a range of sports experiences to acquire the attitude and aptitude of a Kranjian Champion - a self-directed learner who demonstrates perseverance and resilience in the pursuit of excellence, exercises initiative and takes responsibility for his own learning, communicates and works effectively in teams and is adaptable in taking on challenges of the future. It adopts a whole-school approach to developing sports essentials such as broad-based skills and outdoor education at the lower primary levels. At the sports experience stage, those from P3 upwards are exposed to sports that include swimming and outdoor adventure camp. 'Play Cool Sports' offers students the option of learning a selection of sports such as archery, fencing, golf, inline-skating, self-defence and trampoline. Those who show a keen aptitude and attitude for our niche sports of Basketball and Football and emerging niches in Taekwondo and Wushu, receive targetted training to achieve sports excellence. Weaving through the LLP is VECCA (Values Education in CCA), a series of short structured lessons to instill core values."
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
+			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2017": {
+			"2019": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Harmonica",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category C",
 					"award": "Recognition"
@@ -148,6 +124,26 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Harmonica",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Harmonica",
 					"award": "Accomplishment"
 				}
@@ -189,7 +185,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 28,
 		"VACANCY FOR PHASE 2C": 122,
-		"NO. OF APPLICANTS IN PHASE 2C": 21
+		"NO. OF APPLICANTS IN PHASE 2C": 21,
+		"PLACES TAKEN UP TO PHASE 2C": 48,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 102,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 6
 	},
 	"id": "1745"
 }

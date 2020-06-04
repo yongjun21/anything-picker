@@ -21,9 +21,10 @@
 	"GeneralInformation": {
 		"Principal": "Mr Koh Chin Thong, Martin",
 		"Vice Principal": [
-			"Miss Chen Yanting Nathalie",
-			"Mdm Wong Su May"
+			"Mdm Wong Su May",
+			"Mr Chua Chye Hock"
 		],
+		"Vice Principal (Admin)": "Miss Regina Kim Lee Hoon",
 		"School Vision": "Lead with character, serve with talents",
 		"School Mission": "Nurturing concerned citizens with integrity and a spirit of excellence through holistic education",
 		"School Philosophy, Culture and Ethos": "We believe that \"Every child matters and every child can succeed\". Since its founding in 1977, Henry Park Primary School has been educating responsible citizens and citizen-leaders for our society. Much emphasis is placed on the two key pillars that support the development of total curriculum and character building to ensure the holistic development of talented all-rounders. We provide a distinctively unique learning experience to meet the varied needs and interests of all our students. Supported by a team of skilful, caring and dedicated staff who take pride in their service, the school seeks to identify the strengths of each individual student and develop his or her potential to the fullest, be it the cognitive, aesthetic, leadership or physical domain. With its value-added academic programmes, coupled with a strong focus on character education, students are equipped and empowered to be future-ready citizens, possessing a strong sense of identity and resilience as they contribute to society. It is the school's fervent belief that every Henry Park student that passes through its doors will be a holistic and joyful life-long learner.",
@@ -34,9 +35,9 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -63,10 +64,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -75,38 +72,12 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category C",
@@ -161,6 +132,41 @@
 					"year": "2018",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
@@ -202,7 +208,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 26,
 		"PLACES TAKEN UP TO PHASE 2B": 260,
 		"VACANCY FOR PHASE 2C": 40,
-		"NO. OF APPLICANTS IN PHASE 2C": 53
+		"NO. OF APPLICANTS IN PHASE 2C": 53,
+		"PLACES TAKEN UP TO PHASE 2C": 300
 	},
 	"id": "1121"
 }

@@ -21,9 +21,9 @@
 		"Principal": "Dr Hang Kim Hoo",
 		"Vice Principal": [
 			"Mr Chua Kah Sheng",
-			"Miss Seet Ying Ling Britta"
+			"Miss Yeo Siok Ee"
 		],
-		"Vice Principal (Admin)": "Miss Thien Kien San Sharon",
+		"Vice Principal (Admin)": "Mr Phua Yong Swee",
 		"Type of School": "Government School / Co-ed School / Full Day",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -50,17 +50,17 @@
 		"H2 Chemistry",
 		"H2 China Studies In Chinese",
 		"H2 China Studies In English",
-		"H2 Chinese Language & Literature",
+		"H2 Chinese Language &amp; Literature",
 		"H2 Computing",
 		"H2 Economics",
 		"H2 Further Mathematics",
 		"H2 Geography",
 		"H2 History",
 		"H2 Literature In English",
-		"H2 Malay Language & Literature",
+		"H2 Malay Language &amp; Literature",
 		"H2 Mathematics",
 		"H2 Physics",
-		"H2 Tamil Language & Literature",
+		"H2 Tamil Language &amp; Literature",
 		"H2 Translation (Chinese)",
 		"H3 Biology",
 		"H3 Chemistry",
@@ -118,7 +118,43 @@
 	"AchievementHistory": {
 		"Junior College": {
 			"Sports & Games Competition": [],
-			"SYF": [],
+			"SYF": [
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				}
+			],
 			"Best Unit Award": []
 		}
 	},
@@ -137,6 +173,24 @@
 		},
 		{
 			"year": "2019",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2020",
+			"programme": "Arts",
+			"lower": 6,
+			"upper": 16
+		},
+		{
+			"year": "2020",
+			"programme": "Science/IB",
+			"lower": 6,
+			"upper": 15
+		},
+		{
+			"year": "2020",
 			"programme": "Commerce",
 			"lower": null,
 			"upper": null

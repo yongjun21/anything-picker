@@ -20,10 +20,7 @@
 	"bus": "14 , 17 , 18 , 28 , 46 , 66 , 67 , 69 , 168 , 222 , 228 , 506 ",
 	"GeneralInformation": {
 		"Principal": "Mr Boy Eng Seng",
-		"Vice Principal": [
-			"Mr Lim Hock Seong Kelvin",
-			"Ms Foo Sheue Feng (Fu Xuefeng)"
-		],
+		"Vice Principal": "Ms Foo Sheue Feng (Fu Xuefeng)",
 		"Vice Principal (Admin)": "Mr Lee Chee Chong",
 		"School Vision": "A School of Choice and a Community of Life-Long Learners.",
 		"School Mission": "To provide a nurturing environment where pupils are imbued with sound values, a passion for learning and confidence to face future challenges.",
@@ -42,11 +39,11 @@
 		"Combined Humanities (S,H)",
 		"Combined Humanities (S,L)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"Exercise And Sports Science",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"History",
@@ -95,61 +92,22 @@
 			"STEM": "ilnquire. ilnnovate. Developing scientific thinking and inquiry skills through real-life applications",
 			"Music & Performing Arts": "PAssion Programme"
 		},
-		"Special Student Development Programmes Offered": "Technology is changing the world today. To be future-ready, students need to be technologically confident and competent. Hence, we develop our students through the Applied Learning Programme (ALP) in Science, Technology, Engineering and Mathematics (STEM). It aims to develop scientific thinking and inquiry skills through real-life applications, and rides upon our Integrated Project Work (IPW) where students solve authentic problems and learn important skills like programming, electronics and product design. Our Learning for Life Programme (LLP) builds students' character and values through a whole-school Performing Arts programme, PAssion. All lower secondary students attend a modular Aesthetics Programme in Music, Dance and Drama, and exhibit their learning at the Aesthetics Showcase. The school promotes a strong culture in Sports and Outdoor Activities to develop resilience and ruggedness. We have a very strong Outdoor Education programme and our very own rock wall in the school. Every student goes through Outdoor Education modules in PE, enrichment such as abseiling, as well as the Sec 2 Adventure Camp. We also organise many sporting activities such as Sports Fiesta. We are one of the few schools that offers Exercise and Sports Science as a GCE O-Level subject. The Values-in-Action (VIA) Programme promotes Service Learning to cultivate compassion and leadership in our students. It includes the Sec 3 Overseas VIA, as well as student-initiated projects in collaboration with community partners. The school is also committed to develop the talents among our students through our rigorous Talent Development Programme. Besides developing academic talents, we also develop talents in the sports, performing arts, visual arts etc. Students are also given ample opportunities to hone their leadership skills. Students leaders are developed through our comprehensive Student Leadership Programme using The Leadership Challenge model by Kouzes and Posner."
+		"Special Student Development Programmes Offered": "Technology is changing the world today. To be future-ready, students need to be technologically confident and competent. Hence, we develop our students through the Applied Learning Programme (ALP) in Science, Technology, Engineering and Mathematics (STEM). It aims to develop scientific thinking and inquiry skills through real-life applications, and rides upon our Integrated Project Work (IPW) where students solve authentic problems and learn important skills like programming, electronics and product design. Our Learning for Life Programme (LLP) builds students' character and values through a whole-school Performing Arts programme, PAssion. All lower secondary students attend a modular Aesthetics Programme in Music, Dance and Drama, and exhibit their learning at the Aesthetics Showcase. The school promotes a strong culture in Sports and Outdoor Activities to develop resilience and ruggedness. We have a very strong Outdoor Education programme and our very own rock wall in the school. Every student goes through Outdoor Education modules in PE, enrichment such as abseiling, as well as the cohort Adventure Camp. We also organise many sporting activities such as Sports Fiesta. We are one of the few schools that offers Exercise and Sports Science as a GCE O-Level subject. The Values-in-Action (VIA) Programme promotes Service Learning to cultivate compassion and leadership in our students. It includes the cohort Overseas VIA, as well as student-initiated projects in collaboration with community partners. The school is also committed to develop the talents among our students through our rigorous Talent Development Programme. Besides developing academic talents, we also develop talents in the sports, performing arts, visual arts etc. Students are also given ample opportunities to hone their leadership skills. Students leaders are developed through our comprehensive Student Leadership Programme using The Leadership Challenge model by Kouzes and Posner."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -212,6 +170,31 @@
 				{
 					"year": "2018",
 					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - Multi-Lingual",
 					"award": "Accomplishment"
 				}
 			],
@@ -219,30 +202,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 189,
-			"upper": 246,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 162,
-			"upper": 198,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 117,
-			"upper": 156,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -312,6 +271,30 @@
 			"programme": "Normal Technical",
 			"lower": 138,
 			"upper": 156,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 201,
+			"upper": 232,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 159,
+			"upper": 198,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 132,
+			"upper": 154,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

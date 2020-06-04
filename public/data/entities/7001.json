@@ -24,7 +24,8 @@
 		"Vice Principal": [
 			"Mrs Teo Lai Cheng Judy-Ho",
 			"Miss Chock Siew Hwa",
-			"Mdm Yong Lee Har"
+			"Mdm Yong Lee Har",
+			"Mr Soo Mun Keong Patrick"
 		],
 		"School Vision": "Years 1-4: A Scholar, Officer and Gentleman; Catalyst for Change, for God and Humanity. Years 5-6: A Scholar, Leader and Global Citizen; Catalyst for Change, for God and Humanity.",
 		"School Mission": "To be a beacon of truth and light, a world-class institution through the holistic development of our students",
@@ -141,11 +142,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Development Award": "DA (National Education)",
-				"Outstanding Development Award": "ODA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": "DA (National Education)",
 				"Outstanding Development Award": "ODA (Character Development)",
@@ -156,49 +152,13 @@
 				"Outstanding Development Award": "ODA (Character Development)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -255,6 +215,31 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Strings",
 					"award": "Distinction"
 				}
@@ -262,154 +247,11 @@
 			"Best Unit Award": []
 		},
 		"Junior College": {
-			"2016": {
-				"Outstanding Development Award": "ODA (Character Development)"
-			},
 			"2017": {
 				"Outstanding Development Award": "ODA (Character Development)"
 			},
 			"Sports & Games Competition": [
 				{
-					"year": "2016",
-					"category": "Cricket",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Cross Country",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Rugby",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Sailing",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Shooting (Air Pistol)",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Softball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Squash",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Swimming",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Swimming",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "1st"
-				},
-				{
-					"year": "2016",
-					"category": "Tenpin Bowling",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Waterpolo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Waterpolo",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
 					"year": "2017",
 					"category": "Badminton",
 					"subCategory": [
@@ -541,7 +383,7 @@
 				},
 				{
 					"year": "2017",
-					"category": "Track & Field",
+					"category": "Track &amp; Field",
 					"subCategory": [
 						"National",
 						"Boys",
@@ -711,7 +553,7 @@
 				},
 				{
 					"year": "2018",
-					"category": "Track & Field",
+					"category": "Track &amp; Field",
 					"subCategory": [
 						"National",
 						"Boys",
@@ -728,96 +570,236 @@
 						"'A' Div"
 					],
 					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Badminton",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Canoeing",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2019",
+					"category": "Cricket",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Cross Country",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Golf",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Rugby",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Shooting (Air Pistol)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Softball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Squash",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Swimming",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Tenpin Bowling",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Track &amp; Field",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2019",
+					"category": "Waterpolo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
 				}
 			],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
+					"category": "Band-Brass Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Band-Wind Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Brass Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Wind Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Band - Concert",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2019",
 					"category": "Dance - International",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
+					"year": "2019",
 					"category": "Ensemble - Guitar",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Band-Brass Ensemble",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Band-Wind Ensemble",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Band-Brass Ensemble",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Band-Wind Ensemble",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Ensemble - Strings",
 					"award": "Distinction"
 				}
@@ -826,22 +808,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Integrated Programme",
-			"lower": 256,
-			"upper": 274,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "'O' Level Programme",
-			"lower": 250,
-			"upper": 260,
-			"lowerAffiliated": 235,
-			"upperAffiliated": 256
-		},
 		{
 			"year": "2017",
 			"programme": "Integrated Programme",
@@ -889,27 +855,25 @@
 			"upper": 260,
 			"lowerAffiliated": 235,
 			"upperAffiliated": 254
+		},
+		{
+			"year": "2020",
+			"programme": "Integrated Programme",
+			"lower": 256,
+			"upper": 274,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "'O' Level Programme",
+			"lower": 252,
+			"upper": 255,
+			"lowerAffiliated": 235,
+			"upperAffiliated": 255
 		}
 	],
 	"L1R5History": [
-		{
-			"year": "2016",
-			"programme": "Arts",
-			"lower": null,
-			"upper": null
-		},
-		{
-			"year": "2016",
-			"programme": "Science/IB",
-			"lower": 2,
-			"upper": 5
-		},
-		{
-			"year": "2016",
-			"programme": "Commerce",
-			"lower": null,
-			"upper": null
-		},
 		{
 			"year": "2017",
 			"programme": "Arts",
@@ -960,6 +924,24 @@
 		},
 		{
 			"year": "2019",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2020",
+			"programme": "Arts",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2020",
+			"programme": "Science/IB",
+			"lower": 2,
+			"upper": 5
+		},
+		{
+			"year": "2020",
 			"programme": "Commerce",
 			"lower": null,
 			"upper": null

@@ -5,7 +5,7 @@
 	"uen": " T07GS5602E",
 	"logo": "./Medias/Images/Schools/logos/tn_5602.jpg",
 	"website": "http://www.peichunpublic.moe.edu.sg",
-	"address": "580, Toa Payoh East (319133)",
+	"address": "16, Lorong 7 Toa Payoh (319320)",
 	"telephone": [
 		"63539450"
 	],
@@ -43,10 +43,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -62,7 +62,7 @@
 			"Let's Play Sports",
 			"Table Tennis",
 			"Volleyball",
-			"Wushu And Lion Dance"
+			"Wushu And Lion / Dragon Dance"
 		],
 		"Uniformed Groups": [
 			"Brownies",
@@ -70,13 +70,12 @@
 		],
 		"Visual and Performing Arts": [
 			"Art And Craft Club",
-			"Chinese Calligraphy And Ink Brush Painting Club",
+			"Chinese Calligraphy And Ink Brush Painting",
 			"Chinese Dance",
 			"Chinese Orchestra",
 			"Choir"
 		],
 		"Clubs & Societies": [
-			"Peer Tutoring Club",
 			"Science And Gardening Club",
 			"Weiqi"
 		]
@@ -93,18 +92,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Teaching and Learning)"
-				],
-				"Development Award": [
-					"DA (Character Development)",
-					"PARTNERS (Merit)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Best Practice Awards": [
@@ -123,24 +110,12 @@
 				"Development Award": "DA (Character Development)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category C",
 					"award": "Recognition"
@@ -177,6 +152,26 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - Chinese",
 					"award": "Accomplishment"
 				}
@@ -184,7 +179,7 @@
 			"Best Unit Award": []
 		}
 	},
-	"postalCode": "319133",
+	"postalCode": "319320",
 	"coordinates": [
 		103.8554674,
 		1.3372885
@@ -204,6 +199,7 @@
 		"CC"
 	],
 	"specialNeeds": [],
+	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 300,
 		"VACANCY FOR PHASE 1": 260,
@@ -219,7 +215,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 30,
 		"PLACES TAKEN UP TO PHASE 2B": 267,
 		"VACANCY FOR PHASE 2C": 33,
-		"NO. OF APPLICANTS IN PHASE 2C": 64
+		"NO. OF APPLICANTS IN PHASE 2C": 64,
+		"PLACES TAKEN UP TO PHASE 2C": 300
 	},
 	"id": "5602"
 }

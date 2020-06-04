@@ -19,21 +19,18 @@
 	"bus": "22 , 24 , 53 , 73 , 133 , 105 , 135 , 136 , 156 , 853 ",
 	"GeneralInformation": {
 		"Principal": "Mr Low Chun Meng",
-		"Vice Principal": [
-			"Miss Wu Xinping Jennifer",
-			"Ms Ng Boon Min"
-		],
+		"Vice Principal": "Miss Wu Xinping Jennifer",
 		"Vice Principal (Admin)": "Mr Ning Tau Yee",
 		"School Vision": [
 			"A leading college serving the nation with:",
-			"- Enhanced character development",
-			"- Quality staff",
-			"- Quality learners",
-			"- Organisational excellence"
+			"- Quality Learners",
+			"- Enhanced Character Development",
+			"- Quality Staff",
+			"- Organisational Excellence"
 		],
 		"School Mission": [
 			"Uphold Values",
-			"Enhance Lifeskills",
+			"Enhance Life-Skills",
 			"Maximise Potential"
 		],
 		"Type of School": "Government-aided Sch / Co-ed School / Full Day",
@@ -44,15 +41,12 @@
 		]
 	},
 	"SubjectOffered": [
-		"Civics",
-		"Co-curricular Activities",
 		"H1 Art",
 		"H1 Biology",
 		"H1 Chemistry",
 		"H1 Chinese Language",
 		"H1 Economics",
 		"H1 General Paper",
-		"H1 General Studies In Chinese",
 		"H1 Geography",
 		"H1 History",
 		"H1 Literature In English",
@@ -64,8 +58,7 @@
 		"H2 Art",
 		"H2 Biology",
 		"H2 Chemistry",
-		"H2 China Studies In Chinese",
-		"H2 Chinese Language & Literature",
+		"H2 Chinese Language &amp; Literature",
 		"H2 Computing",
 		"H2 Economics",
 		"H2 English Language And Linguistics",
@@ -73,21 +66,20 @@
 		"H2 Geography",
 		"H2 History",
 		"H2 Literature In English",
-		"H2 Malay Language & Literature",
+		"H2 Malay Language &amp; Literature",
 		"H2 Mathematics",
 		"H2 Physics",
-		"H2 Tamil Language & Literature",
 		"H2 Translation (Chinese)",
 		"H3 Art",
 		"H3 Chemistry",
-		"H3 Chinese Language & Literature",
+		"H3 Chinese Language &amp; Literature",
 		"H3 Economics",
 		"H3 Geography",
 		"H3 History",
 		"H3 Mathematics",
 		"H3 Physics",
 		"Ntu Molecular Biology",
-		"Ntu Semiconductor Physics & Devices",
+		"Ntu Semiconductor Physics &amp; Devices",
 		"Nus Modern Physics",
 		"Smu Game Theory"
 	],
@@ -106,7 +98,7 @@
 			"Volleyball"
 		],
 		"Visual and Performing Arts": [
-			"Art Elective Programme (Aep)",
+			"Art Elective Programme Club (Aep Club)",
 			"Choir",
 			"Dance - Modern / Street",
 			"Drama - English",
@@ -133,99 +125,29 @@
 			"Art Elective Programme",
 			"Language Elective Programme (Chinese)"
 		],
-		"Special Student Development Programmes Offered": "Art Elective Programme (AEP), Language Elective Programme (Chinese) (CLEP), Student Leadership Development Programme, Overseas Service-Learning Programme, Career Guidance Programme, Scholar Development Programme, S6 Centre of Excellance for CL and Art"
+		"Special Student Development Programmes Offered": "Art Elective Programme (AEP), Language Elective Programme (Chinese) (CLEP), Student Leadership Development Programme, Overseas Service-Learning Programme, Career Guidance Programme, Talent Development Programme, S6 Centre of Excellance for CL"
 	},
 	"AchievementHistory": {
 		"Junior College": {
-			"2016": {
-				"School Distinction Awards": "SDA"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA"
 			},
 			"2018": {
 				"School Distinction Awards": "SDA"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA"
+			},
 			"Sports & Games Competition": [
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Badminton",
 					"subCategory": [
 						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Basketball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Judo",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Judo",
-					"subCategory": [
-						"National",
 						"Girls",
 						"'A' Div"
 					],
 					"award": "3rd"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Table Tennis",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "4th"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Boys",
-						"'A' Div"
-					],
-					"award": "2nd"
-				},
-				{
-					"year": "2016",
-					"category": "Volleyball",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "1st"
 				},
 				{
 					"year": "2017",
@@ -296,16 +218,6 @@
 						"'A' Div"
 					],
 					"award": "1st"
-				},
-				{
-					"year": "2017",
-					"category": "Badminton",
-					"subCategory": [
-						"National",
-						"Girls",
-						"'A' Div"
-					],
-					"award": "3rd"
 				},
 				{
 					"year": "2018",
@@ -389,6 +301,136 @@
 				},
 				{
 					"year": "2018",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Badminton",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "2nd"
+				},
+				{
+					"year": "2019",
+					"category": "Badminton",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2019",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Judo",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2019",
+					"category": "Judo",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Netball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2019",
+					"category": "Squash",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2019",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Table Tennis",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Volleyball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
 					"category": "Volleyball",
 					"subCategory": [
 						"National",
@@ -400,61 +442,6 @@
 			],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Chinese",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Orchestra - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Drama - Chinese",
-					"award": "Commendation"
-				},
-				{
-					"year": "2017",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category C",
 					"award": "Recognition(Sm)"
@@ -478,6 +465,21 @@
 					"year": "2017",
 					"category": "Dance - International",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - Chinese",
+					"award": "Commendation"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
 				},
 				{
 					"year": "2018",
@@ -516,6 +518,46 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
 				}
@@ -524,24 +566,6 @@
 		}
 	},
 	"L1R5History": [
-		{
-			"year": "2016",
-			"programme": "Arts",
-			"lower": 3,
-			"upper": 7
-		},
-		{
-			"year": "2016",
-			"programme": "Science/IB",
-			"lower": 2,
-			"upper": 6
-		},
-		{
-			"year": "2016",
-			"programme": "Commerce",
-			"lower": null,
-			"upper": null
-		},
 		{
 			"year": "2017",
 			"programme": "Arts",
@@ -592,6 +616,24 @@
 		},
 		{
 			"year": "2019",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2020",
+			"programme": "Arts",
+			"lower": 2,
+			"upper": 7
+		},
+		{
+			"year": "2020",
+			"programme": "Science/IB",
+			"lower": 2,
+			"upper": 6
+		},
+		{
+			"year": "2020",
 			"programme": "Commerce",
 			"lower": null,
 			"upper": null

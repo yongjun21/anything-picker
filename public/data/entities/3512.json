@@ -37,11 +37,11 @@
 	},
 	"SubjectOffered": [
 		"Additional Mathematics",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Biology",
 		"Chemistry",
 		"Chinese",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"English Language",
 		"Exercise And Sports Science",
 		"Food And Consumer Education",
@@ -87,14 +87,10 @@
 		]
 	},
 	"SpecialProgrammes": {
-		"Special Student Development Programmes Offered": "Signature programmes: Da Vinci Programme which develops 21st century communication, collaboration and information skills, while sharpening critical and inventive thinking via applied learning opportunities; Einstein Programme which develops computational thinking through programming micro-controllers to create solutions to solve real world problems; Principal's Honours List Programme which includes research curriculum; TK Current Affairs which builds general knowledge and discernment; SKILLS Programme which develops in students skills for self-directed learning, and critical and inventive thinking; TK Student Leadership programme; Outdoor Education at TK that stretches students mentally, physically and emotionally while instilling firm belief and confidence in their own ability to succeed; Overseas twinning programmes with schools, that broaden students' global outlook and increase cultural quotient. Programmes to deepen disciplinary understanding include the Mathematics and Science Olympiads. Students also participate in Debating Competitions and the CB Paul Science Quiz. In addition, the school also offers Malay Language Elective Programme which aims to nurture promising students to attain a high level of language proficiency in Malay, and enhance their understanding of literature. TKSS is renowned for its vibrancy and excellent CCAs in sports, the performing arts and uniformed groups. TeamTK's sportsmen and sportswomen have excelled in various sports such as Netball, Floorball and Football. The Uniformed Groups have a proven track record and have continuously excelled in national competitions. TKSS is the East Zone Centre of Excellence (COE) for Character and Citizenship Education as well as Design Education. As a COE, TK leads in the teaching and learning and supports collaboration in these areas for East Zone schools."
+		"Special Student Development Programmes Offered": "Signature programmes: Da Vinci Programme which develops 21st century skills such as communication, collaboration and information skills, while sharpening critical and inventive thinking via applied learning opportunities; Einstein Programme which develops computational thinking through programming micro-controllers to create solutions to solve real world problems; Principal's Honours List Programme which includes research curriculum; TK Current Affairs which builds general knowledge and discernment; SKILLS Programme which develops in students skills for self-directed learning, and critical and inventive thinking; TK Student Leadership programme; Outdoor Education at TK that stretches students mentally, physically and emotionally while instilling firm belief and confidence in their own ability to succeed; Overseas twinning programmes with schools, that broaden students' global outlook and increase cultural quotient. Programmes to deepen disciplinary understanding include the Mathematics and Science Olympiads. Students also participate in Debating Competitions and the CB Paul Science Quiz. In addition, the school also offers Malay Language Elective Programme which aims to nurture promising students to attain a high level of language proficiency in Malay, and enhance their understanding of literature. TKSS is renowned for its vibrancy and excellent CCAs in sports, the performing arts and uniformed groups. TeamTK's sportsmen and sportswomen have excelled in various sports such as Netball, Floorball and Football. The Uniformed Groups have a proven track record and have continuously excelled in national competitions. TKSS is the East Zone Centre of Excellence (COE) for Character and Citizenship Education as well as Design Education. As a COE, TK leads in the teaching and learning and supports collaboration in these areas for East Zone schools."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -103,39 +99,13 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Band-Display",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -167,6 +137,11 @@
 				},
 				{
 					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
 					"category": "Band - Concert",
 					"award": "Distinction"
 				},
@@ -191,8 +166,28 @@
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Display",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
 					"award": "Distinction"
 				}
 			],
@@ -200,14 +195,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 233,
-			"upper": 259,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -229,6 +216,14 @@
 			"programme": "Express",
 			"lower": 233,
 			"upper": 258,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 234,
+			"upper": 256,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

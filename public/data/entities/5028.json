@@ -23,6 +23,7 @@
 			"Mdm Lim Sheue Tyug",
 			"Mr Jackson Kek"
 		],
+		"Vice Principal (Admin)": "Mdm Ong Suat Li",
 		"School Vision": "An Innovative school where Inspiring Educators Nurture Future-ready Leaders with Values.",
 		"School Mission": "To foster Leadership, Cognitive, Physical, Aesthetic, Social and Moral growth of Students.",
 		"School Philosophy, Culture and Ethos": [
@@ -39,10 +40,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -94,74 +95,75 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA"
 			},
 			"2018": {
 				"School Distinction Awards": "SDA"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guzheng",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Art - Category B",
 					"award": "Recognition"
 				},
 				{
-					"year": "2016",
+					"year": "2019",
 					"category": "Choir",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2017",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2018",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Dance - Chinese",
 					"award": "Accomplishment"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
 				}
@@ -208,7 +210,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 70,
 		"PLACES TAKEN UP TO PHASE 2B": 239,
 		"VACANCY FOR PHASE 2C": 61,
-		"NO. OF APPLICANTS IN PHASE 2C": 235
+		"NO. OF APPLICANTS IN PHASE 2C": 235,
+		"PLACES TAKEN UP TO PHASE 2C": 300
 	},
 	"id": "5028"
 }

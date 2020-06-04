@@ -14,10 +14,10 @@
 	],
 	"email": "sjijunior@moe.edu.sg",
 	"mrt": "Novena",
-	"bus": "21;54;56;57;124;131;166;518;851",
+	"bus": "21;54;56;57;124;131;141;166;518;851;980",
 	"GeneralInformation": {
 		"Principal": "MR GOH HENG LIANG TIMOTHY",
-		"Vice Principal": "MRS LINDA TAN",
+		"Vice Principal": "MISS YAK HIOK WOON, FAITH",
 		"Vice Principal (Admin)": "MR LIM KOK YEOW WINSTON",
 		"School Vision": [
 			"Belief in Self ",
@@ -34,17 +34,17 @@
 			"\"True to One's Faith\" asks our boys to be aware of and cultivate their spiritual side and to become men of Integrity. To do the right things even when no one is watching. We want our boys to be faithful to their own religions, and become a better Christian, Muslim, Hindu, Buddhist etc. We want all our boys to do all their actions for the love of God.",
 			"To achieve this vision laid out for the school, the school focusses on 5 key areas: Teaching and Learning, Character Formation, Nurturing Talents Holistically, Staff Development and Organisational Excellence."
 		],
-		"Type of School": "GOVERNMENT-AIDED SCH / BOYS' SCHOOL / SINGLE SESSION",
+		"Type of School": "GOVERNMENT-AIDED SCH / BOYS&#39; SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
-			"ST. JOSEPH'S INSTITUTION",
-			"ST. PATRICK'S SCHOOL"
+			"ST. JOSEPH&#39;S INSTITUTION",
+			"ST. PATRICK&#39;S SCHOOL"
 		]
 	},
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"HEALTH EDUCATION",
@@ -85,6 +85,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"Interdisciplinary": "Observe – Reflect – Act (ORA @ SJI Junior)",
 			"Sports & Outdoor Education": "Sports Experience Reinforcing Values Education (Serve@SJIJ)"
 		},
 		"Special Student Development Programmes Offered": "The school has a comprehensive and holistic set of programmes to create learning experiences to develop each boy to his BEST. Over and above the programme offered by all MOE schools, SJI Junior offers the following key programmes: "
@@ -193,7 +194,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"4th",
 						"-",
@@ -517,7 +518,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -1246,6 +1247,17 @@
 						"Senior"
 					],
 					[
+						"Tennis",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
 						"Badminton",
 						"-",
 						"-",
@@ -1263,17 +1275,6 @@
 						"-",
 						"-",
 						"2nd",
-						"-",
-						"-",
-						"-"
-					],
-					[
-						"Tennis",
-						"2nd",
-						"3rd",
-						"-",
-						"-",
-						"-",
 						"-",
 						"-",
 						"-"
@@ -1421,7 +1422,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"4th",
 						"-",
@@ -1595,7 +1596,150 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"4th",
+						"2nd",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
+					],
+					[
+						"Swimming",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "309331"

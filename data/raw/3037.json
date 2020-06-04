@@ -32,14 +32,14 @@
 		"ADDITIONAL MATHEMATICS",
 		"ART",
 		"ART NA LEVEL",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BIOLOGY",
 		"CHEMISTRY",
 		"CHINESE",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELECTRONICS",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
@@ -75,11 +75,11 @@
 		],
 		"Visual and Performing Arts": [
 			"Art Club",
+			"Concert Band",
 			"Dance Dynamics",
 			"English Drama",
 			"Malay Dance",
 			"Modern Chinese Dance",
-			"Photo And Video Club",
 			"Show Choir"
 		],
 		"Clubs & Societies": [
@@ -197,7 +197,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award"
+					"Art &amp; Craft (Bronze)": "1 Award"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -297,7 +297,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Silver",
@@ -412,11 +412,11 @@
 			},
 			"2009": {
 				"SYF Central Judging": {
-					"Band - Concert": "Gold",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Malay": "Silver",
-					"Drama - English": "Silver"
+					"Drama - English": "Silver",
+					"Band - Concert": "Gold"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -516,11 +516,11 @@
 					]
 				],
 				"SYF Central Judging": {
+					"Drama - English": "Silver",
 					"Band - Concert": "Gold",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold (Hons)",
-					"Dance - Malay": "Silver",
-					"Drama - English": "Silver"
+					"Dance - Malay": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -903,23 +903,23 @@
 						"'C' Div"
 					],
 					[
-						"Football",
-						"-",
-						"-",
-						"4th",
-						"4th",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
 						"Badminton",
 						"-",
 						"-",
 						"-",
 						"-",
 						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
 						"-",
 						"-",
 						"-"
@@ -936,7 +936,113 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1192,6 +1298,23 @@
 			"Normal Technical": [
 				"130",
 				"156",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"210",
+				"238",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"167",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"132",
+				"157",
 				"None-posted"
 			]
 		}

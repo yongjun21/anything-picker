@@ -19,18 +19,20 @@
 	],
 	"bus": "17",
 	"GeneralInformation": {
-		"Principal": "Mdm Mak Lai Ying",
-		"Vice Principal": "Mdm Ng Meow Leng Nancy",
-		"Vice Principal (Admin)": "Miss Chew Ping Ping Grace",
+		"Principal": "Mdm Koh Tyng Yuann Fiona",
+		"Vice Principal": [
+			"Mdm Ng Meow Leng Nancy",
+			"Miss Wang Siew Ping"
+		],
 		"School Vision": "A passionate learning community that embraces innovation and excellence within a culture of compassion.",
 		"School Mission": "To nurture and empower Canossians through a holistic curriculum to be persons of integrity committed to serve God and others.",
 		"School Philosophy, Culture and Ethos": "The 'Formation of the Heart' is central to our education programme.  The Canossian Brand of Education is all inclusive, seeking to ensure that each student discovers the ability to realise her full potential and bringing out the best of herself.  We aim to develop the attitudes and habits that will make our students good women committed to God, compassionate to all and cheerful in service to others.  We believe in nurturing our students in an atmosphere of warmth and affection, yet showing firmness, so that they will grow in self-discipline and experience joy in learning.  Brain-Based Learning has been deployed as a whole-school approach to teaching and learning as we believe that learning should be in accordance with the way the brain is naturally designed to learn.",
-		"Type of School": "Government-aided Sch / Girls' School / Single Session",
+		"Type of School": "Government-aided Sch / Girls&#39; School / Single Session",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
 			"Catholic Junior College",
-			"St. Anthony's Canossian Primary School",
+			"St. Anthony&#39;s Canossian Primary School",
 			"Canossa Catholic Primary School"
 		]
 	},
@@ -44,13 +46,13 @@
 		"Chinese",
 		"Chinese N(A)",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Drama",
 		"Elements Of Business Skills",
 		"English Language",
 		"English Language (Syll A)",
 		"English Language (Syll T)",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Food And Consumer Education",
 		"Geography",
 		"Humanities (Ss, Geography)",
@@ -109,10 +111,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -121,152 +119,137 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Band - Concert",
-					"award": "Distinction"
+					"award": "Accomplishment"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
+					"category": "Band-Percussion Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
 					"category": "Choir",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Dance - Indian",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
 					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Drama - Multi-Lingual",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Band-Percussion Ensemble",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - Multi-Lingual",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Percussion Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Drama - English",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2019",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
+					"year": "2019",
 					"category": "Ensemble - Guitar",
 					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Band-Percussion Ensemble",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Drama - Multi-Lingual",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Band-Percussion Ensemble",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Drama - Multi-Lingual",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Ensemble - Guitar",
-					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 219,
-			"upper": 249,
-			"lowerAffiliated": 188,
-			"upperAffiliated": 250
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 169,
-			"upper": 198,
-			"lowerAffiliated": 153,
-			"upperAffiliated": 188
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 113,
-			"upper": 157,
-			"lowerAffiliated": 123,
-			"upperAffiliated": 151
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -337,6 +320,30 @@
 			"lower": 111,
 			"upper": 150,
 			"lowerAffiliated": 125,
+			"upperAffiliated": 151
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 230,
+			"upper": 239,
+			"lowerAffiliated": 193,
+			"upperAffiliated": 253
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 152,
+			"upper": 187,
+			"lowerAffiliated": 152,
+			"upperAffiliated": 188
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 95,
+			"upper": 154,
+			"lowerAffiliated": 106,
 			"upperAffiliated": 151
 		}
 	],

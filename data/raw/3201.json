@@ -38,10 +38,9 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
-		"FOOD STUDIES",
+		"FOOD &amp; NUTRITION",
 		"HIGHER CHINESE",
 		"HISTORY",
 		"HUMANITIES (SS, GEOGRAPHY)",
@@ -49,7 +48,7 @@
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
-		"MUSIC 'O' LEVEL",
+		"MUSIC &#39;O&#39; LEVEL",
 		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (CHEM, BIO)",
@@ -491,7 +490,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - International": "Silver",
@@ -583,6 +582,17 @@
 						"'C' Div"
 					],
 					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					],
+					[
 						"Shooting (Air Pistol)",
 						"-",
 						"-",
@@ -603,26 +613,15 @@
 						"-",
 						"-",
 						"-"
-					],
-					[
-						"Basketball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-",
-						"3rd",
-						"-"
 					]
 				],
 				"SYF Central Judging": {
-					"Orchestra - Chinese": "Gold",
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Silver",
 					"Dance - International": "Silver",
-					"Drama - English": "Bronze"
+					"Drama - English": "Bronze",
+					"Orchestra - Chinese": "Gold"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -744,7 +743,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Silver",
 					"Dance - International": "Silver",
@@ -876,7 +875,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Silver",
 					"Dance - International": "Bronze",
@@ -1115,17 +1114,6 @@
 						"'C' Div"
 					],
 					[
-						"Shooting (Air Rifle)",
-						"4th",
-						"-",
-						"2nd",
-						"-",
-						"-",
-						"-",
-						"-",
-						"-"
-					],
-					[
 						"Basketball",
 						"-",
 						"-",
@@ -1134,6 +1122,17 @@
 						"4th",
 						"-",
 						"3rd",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"4th",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
 						"-"
 					]
 				],
@@ -1736,7 +1735,122 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - English": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1992,6 +2106,23 @@
 			"Normal Technical": [
 				"132",
 				"155",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"224",
+				"239",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"177",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"131",
+				"156",
 				"None-posted"
 			]
 		}

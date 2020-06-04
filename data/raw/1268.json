@@ -33,7 +33,7 @@
 		"CHINESE",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -63,6 +63,7 @@
 		],
 		"Visual and Performing Arts": [
 			"Choir",
+			"Concert Band",
 			"International Dance"
 		],
 		"Clubs & Societies": [
@@ -182,11 +183,11 @@
 					]
 				],
 				"SYF Arts Presentation": {
+					"Choir": "Accomplishment",
 					"Art - Category A": "Recognition",
 					"Art - Category B": "Recognition",
 					"Band-Brass Ensemble": "Accomplishment",
-					"Dance - International": "Commendation",
-					"Choir": "Accomplishment"
+					"Dance - International": "Commendation"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -270,7 +271,16 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Commendation",
+					"Dance - International": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "529366"

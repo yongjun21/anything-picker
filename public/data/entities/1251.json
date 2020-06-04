@@ -31,7 +31,7 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
 		"Health Education",
@@ -54,10 +54,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": "DA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": "DA (Character Development)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -65,28 +61,11 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Harmonica",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category B",
@@ -136,6 +115,31 @@
 					"year": "2018",
 					"category": "Ensemble - Harmonica",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Harmonica",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
@@ -173,7 +177,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 69,
 		"VACANCY FOR PHASE 2C": 211,
-		"NO. OF APPLICANTS IN PHASE 2C": 36
+		"NO. OF APPLICANTS IN PHASE 2C": 36,
+		"PLACES TAKEN UP TO PHASE 2C": 104,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 176,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 9
 	},
 	"id": "1251"
 }

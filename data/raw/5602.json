@@ -5,7 +5,7 @@
 	"uen": " T07GS5602E",
 	"logo": "./Medias/Images/Schools/logos/tn_5602.jpg",
 	"website": "http://www.peichunpublic.moe.edu.sg",
-	"address": "580, TOA PAYOH EAST ( 319133 )",
+	"address": "16, LORONG 7 TOA PAYOH ( 319320 )",
 	"telephone": [
 		"63539450"
 	],
@@ -40,10 +40,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -59,7 +59,7 @@
 			"Let's Play Sports",
 			"Table Tennis",
 			"Volleyball",
-			"Wushu And Lion Dance"
+			"Wushu And Lion / Dragon Dance"
 		],
 		"Uniformed Groups": [
 			"Brownies",
@@ -67,13 +67,12 @@
 		],
 		"Visual and Performing Arts": [
 			"Art And Craft Club",
-			"Chinese Calligraphy And Ink Brush Painting Club",
+			"Chinese Calligraphy And Ink Brush Painting",
 			"Chinese Dance",
 			"Chinese Orchestra",
 			"Choir"
 		],
 		"Clubs & Societies": [
-			"Peer Tutoring Club",
 			"Science And Gardening Club",
 			"Weiqi"
 		]
@@ -263,17 +262,6 @@
 						"Senior"
 					],
 					[
-						"Basketball",
-						"-",
-						"-",
-						"2nd",
-						"-",
-						"3rd",
-						"2nd",
-						"1st",
-						"1st"
-					],
-					[
 						"Table Tennis",
 						"-",
 						"-",
@@ -305,11 +293,22 @@
 						"-",
 						"-",
 						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"3rd",
+						"2nd",
+						"1st",
+						"1st"
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
@@ -422,8 +421,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Gold",
 					"Dance - Chinese": "Gold (Hons)",
@@ -536,11 +535,11 @@
 					]
 				],
 				"SYF Central Judging": {
+					"Art &amp; Craft (Silver)": "1 Award",
+					"Band - Concert": "Bronze",
 					"Choir": "Gold",
 					"Dance - Chinese": "Gold (Hons)",
-					"Orchestra - Chinese": "Gold (Hons)",
-					"Art & Craft (Silver)": "1 Award",
-					"Band - Concert": "Bronze"
+					"Orchestra - Chinese": "Gold (Hons)"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -604,17 +603,6 @@
 						"Senior"
 					],
 					[
-						"Basketball",
-						"-",
-						"-",
-						"-",
-						"-",
-						"2nd",
-						"-",
-						"3rd",
-						"2nd"
-					],
-					[
 						"Table Tennis",
 						"-",
 						"-",
@@ -646,10 +634,21 @@
 						"-",
 						"-",
 						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"3rd",
+						"2nd"
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Gold (Hons)",
 					"Dance - Chinese": "Gold",
@@ -1281,6 +1280,17 @@
 						"Senior"
 					],
 					[
+						"Volleyball",
+						"4th",
+						"2nd",
+						"-",
+						"2nd",
+						"1st",
+						"1st",
+						"3rd",
+						"1st"
+					],
+					[
 						"Basketball",
 						"-",
 						"-",
@@ -1301,17 +1311,6 @@
 						"3rd",
 						"-",
 						"4th"
-					],
-					[
-						"Volleyball",
-						"4th",
-						"2nd",
-						"-",
-						"2nd",
-						"1st",
-						"1st",
-						"3rd",
-						"1st"
 					]
 				],
 				"SYF Arts Presentation": {
@@ -1588,8 +1587,140 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"2nd"
+					],
+					[
+						"Volleyball",
+						"-",
+						"3rd",
+						"3rd",
+						"4th",
+						"2nd",
+						"1st",
+						"2nd",
+						"2nd"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
+					],
+					[
+						"Swimming",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
-	"postalCode": "319133"
+	"postalCode": "319320"
 }

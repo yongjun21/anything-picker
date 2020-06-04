@@ -34,9 +34,9 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HISTORY",
@@ -173,17 +173,6 @@
 						"'C' Div"
 					],
 					[
-						"Sepak Takraw",
-						"-",
-						"-",
-						"-",
-						"-",
-						"3rd",
-						"4th",
-						"-",
-						"-"
-					],
-					[
 						"Wushu",
 						"3rd",
 						"-",
@@ -191,6 +180,17 @@
 						"-",
 						"-",
 						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
 						"-",
 						"-"
 					]
@@ -1284,7 +1284,18 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"SYF Arts Presentation": {
+					"Band-Display-Percussion Ensemble": "Accomplishment",
+					"Band-Percussion Ensemble": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1540,6 +1551,23 @@
 			"Normal Technical": [
 				"108",
 				"151",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"188",
+				"233",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"101",
+				"149",
 				"None-posted"
 			]
 		}

@@ -18,11 +18,12 @@
 	],
 	"bus": "TIBS 302 , 979 ",
 	"GeneralInformation": {
-		"Principal": "Mdm Daphne Poon Chor Choo",
+		"Principal": "Mdm Cheryl Choo Shueh-Li",
 		"Vice Principal": [
 			"Mr Ching Kin Hin",
 			"Mr Sim Kooi Suen"
 		],
+		"Vice Principal (Admin)": "Miss Thien Kien San Sharon",
 		"School Vision": "Lifelong Learners, Caring Citizens",
 		"School Mission": "Enabling youth in a Lasallian community to learn how to learn and to learn how to live; empowering them to be men of integrity and men for others",
 		"School Philosophy, Culture and Ethos": [
@@ -32,8 +33,8 @@
 		"Type of School": "Government-aided Sch / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
-			"St. Joseph's Institution",
-			"St. Patrick's School"
+			"St. Joseph&#39;s Institution",
+			"St. Patrick&#39;s School"
 		]
 	},
 	"SubjectOffered": [
@@ -41,7 +42,7 @@
 		"Chinese",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -65,7 +66,6 @@
 		],
 		"Uniformed Groups": [
 			"Brownies",
-			"Red Cross (Links)",
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
@@ -89,47 +89,17 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Commendation"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category C",
@@ -189,6 +159,36 @@
 					"year": "2018",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
@@ -230,7 +230,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 23,
 		"PLACES TAKEN UP TO PHASE 2B": 131,
 		"VACANCY FOR PHASE 2C": 109,
-		"NO. OF APPLICANTS IN PHASE 2C": 118
+		"NO. OF APPLICANTS IN PHASE 2C": 118,
+		"PLACES TAKEN UP TO PHASE 2C": 240
 	},
 	"id": "5008"
 }

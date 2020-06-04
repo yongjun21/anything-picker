@@ -20,10 +20,7 @@
 	"bus": "8 , 13 , 26 , 31 , 90 , 90A , 107 , 133 , 142 , 147 , 853 , NR6 ",
 	"GeneralInformation": {
 		"Principal": "Miss Neo Phei Tze Patsy",
-		"Vice Principal": [
-			"Mr Tham Kine Chuen Thomas",
-			"Mdm Josephine Sng"
-		],
+		"Vice Principal": "Mr Tham Kine Chuen Thomas",
 		"School Vision": "Home of Servant Leaders who bring Life to the Nations",
 		"School Mission": [
 			"Making lives, Waking hearts",
@@ -38,16 +35,16 @@
 			"A community builder works effectively in teams. He is about to collaborate in a respectful manner and encourages others to contribute ideas to the team. ",
 			"By actively participating in school and community activities, the community builder is able to demonstrate awareness and appreciation of people from different socio-cultural and religious backgrounds in the community. He contributes positively to others and the environment by demonstrating mutual respect and acceptable behaviour that promotes social cohesion."
 		],
-		"Type of School": "Government-aided Sch / Boys' School / Single Session",
+		"Type of School": "Government-aided Sch / Boys&#39; School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
-		"Affiliated Schools": "St. Andrew's Secondary School"
+		"Affiliated Schools": "St. Andrew&#39;s Secondary School"
 	},
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -90,10 +87,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Outstanding Development Award": "ODA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Outstanding Development Award": "ODA (Character Development)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -101,19 +94,12 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -140,6 +126,21 @@
 				},
 				{
 					"year": "2018",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
 					"category": "Choir",
 					"award": "Accomplishment"
 				}
@@ -183,7 +184,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 35,
 		"PLACES TAKEN UP TO PHASE 2B": 172,
 		"VACANCY FOR PHASE 2C": 68,
-		"NO. OF APPLICANTS IN PHASE 2C": 104
+		"NO. OF APPLICANTS IN PHASE 2C": 104,
+		"PLACES TAKEN UP TO PHASE 2C": 240
 	},
 	"id": "5009"
 }

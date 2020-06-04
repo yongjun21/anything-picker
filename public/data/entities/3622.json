@@ -23,7 +23,6 @@
 			"Mr Sukhdev Singh S/o Gurdeep Singh",
 			"Miss Kee Lee Ling"
 		],
-		"Vice Principal (Admin)": "Mr Phang Chee Kheng",
 		"School Vision": "World Ready Youth - Innovative contributors, upright citizens with a global outlook",
 		"School Mission": "We develop our students to their fullest potential through a balanced education and instil in them a passion for living and learning.",
 		"School Philosophy, Culture and Ethos": "We believe there is a star in each of our students and help every student find their compass in life. We call our students 'North Stars' and our School Motto is 'Realising the Star Within'. Our students recite the North Star's Pledge every Monday: 'I will learn and find my compass; I will excel and strive to go far; I will grow and live a life of purpose; I will shine as I am a North Star'. We aim to foster a vibrant learning community through diverse programs, positive school climate, and opportunities for all. Our culture and ethos are 'Achieve our Best, Believe in Ourselves, Care for One Another and Diversity in Harmony'. Our school values are G2R3IT: Graciousness, Gratitude, Respect, Responsibility, Resilience, Integrity, Teamwork. Our North Star Education Program offers a total curriculum that develops our students to be world and future-ready, with the right values and 21st century competencies. Our instructional program is based on i-TEACH Framework for integrated, engaged and assessed learning, with teachers as curriculum innovators, collaborative learners and holistic educators. Our school-wide pedagogies include Inquiry-Based Learning, Making Thinking Visible, ICT Active Learning, Self-Directed & Collaborative Learning. We have consistently achieved value-added results through our PrIME (Proaction, Intervention, Motivation, Empowerment) framework with strategies such as Personal Education & Career Plan/Aspirational Target Setting for all students, ASPIRE motivational program for graduating students, After School Study/Start Right Program/Teacher Mentors/Gear Up Program for high needs students etc.",
@@ -39,11 +38,11 @@
 		"Chinese",
 		"Chinese B",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Electronics",
 		"Elements Of Business Skills",
 		"English Language",
-		"Food & Nutrition",
+		"Food &amp; Nutrition",
 		"Geography",
 		"History",
 		"Humanities (Ss, Geography)",
@@ -94,43 +93,18 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -174,36 +148,32 @@
 					"year": "2018",
 					"category": "Band - Concert",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 209,
-			"upper": 237,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 173,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 126,
-			"upper": 154,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -273,6 +243,30 @@
 			"programme": "Normal Technical",
 			"lower": 136,
 			"upper": 159,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 215,
+			"upper": 239,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 176,
+			"upper": 197,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 139,
+			"upper": 157,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

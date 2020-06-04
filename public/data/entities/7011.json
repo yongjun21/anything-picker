@@ -18,8 +18,11 @@
 	],
 	"bus": "74 , 74E , 88 , 101 , 147 , 147A , 161 ",
 	"GeneralInformation": {
-		"Principal": "Mr Mark Gerard Minjoot",
-		"Vice Principal": "Mr Lee Thuan Sim",
+		"Principal": "Mr Lim Hock Seong Kelvin",
+		"Vice Principal": [
+			"Mr Lee Thuan Sim",
+			"Mdm Ching Lee Hoe"
+		],
 		"Vice Principal (Admin)": "Mr Cheong Wing Fook Melvin",
 		"School Vision": "A Man for Others - a Scholar, Sportsman, Gentleman and Leader",
 		"School Mission": "Montfort is a Catholic School. Guided by our Montfortian values and spirituality, we nurture each individual to realize his potential and inspire him to be a Man for Others.",
@@ -27,7 +30,7 @@
 			"Montfort Secondary, established in 1916, is a Gov-Aided School of the Montfort Brothers of St Gabriel under the Catholic Archdiocese of Singapore.  As a Catholic school, we espouse the Universal Gospel Values and are committed to providing an inclusive, safe and dynamic environment for all our boys regardless of faith and background.  We also believe that there is a place for an all-boys education and we develop and cater our programmes to the needs of boys - giving them appropriate structure and discipline as well as the space to grow and discover their leadership, talents and strengths.",
 			"Our School Motto \"Age Quod Agis\" (\"Do Well in Whatever you Do\"), reminds our boys of the dignity of work and that the work they do is important and represents who they are.  Hence, they need to take pride in their assigned tasks and do them to the best of their abilities.  Our School Values are Compassion, Humility, Respect, Integrity, Service, Team Spirit & Excellence - spelled CHRISTE which also represents our faith in God and Christ."
 		],
-		"Type of School": "Government-aided Sch / Boys' School / Single Session",
+		"Type of School": "Government-aided Sch / Boys&#39; School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
 			"Catholic Junior College",
@@ -42,7 +45,7 @@
 		"Chinese",
 		"Computer Applications",
 		"Computing",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"Food And Consumer Education",
@@ -99,13 +102,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Development Award": [
-					"DA (Character Development)",
-					"DA (National Education)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": [
 					"DA (Character Development)",
@@ -120,24 +116,16 @@
 				],
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Distinction"
@@ -149,21 +137,6 @@
 				},
 				{
 					"year": "2017",
-					"category": "Drama - English",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
 					"category": "Drama - English",
 					"award": "Distinction"
 				},
@@ -171,36 +144,52 @@
 					"year": "2018",
 					"category": "Art - Category B",
 					"award": "Recognition"
+				},
+				{
+					"year": "2018",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Drama - English",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - Multi-Lingual",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 189,
-			"upper": 245,
-			"lowerAffiliated": 190,
-			"upperAffiliated": 224
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 161,
-			"upper": 193,
-			"lowerAffiliated": 156,
-			"upperAffiliated": 187
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 103,
-			"upper": 150,
-			"lowerAffiliated": 122,
-			"upperAffiliated": 141
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -272,6 +261,30 @@
 			"upper": 149,
 			"lowerAffiliated": 106,
 			"upperAffiliated": 146
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 207,
+			"upper": 234,
+			"lowerAffiliated": 188,
+			"upperAffiliated": 237
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 164,
+			"upper": 198,
+			"lowerAffiliated": 154,
+			"upperAffiliated": 187
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 127,
+			"upper": 158,
+			"lowerAffiliated": 111,
+			"upperAffiliated": 147
 		}
 	],
 	"postalCode": "538785",

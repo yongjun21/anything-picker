@@ -21,6 +21,7 @@
 			"MR LIM JIT HIN",
 			"MISS SABARIAH BTE SUBARI"
 		],
+		"Vice Principal (Admin)": "MDM GINNY CHUA GEOK HONG",
 		"School Vision": [
 			"Vibrant School",
 			"Culture of Care",
@@ -34,7 +35,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"HEALTH EDUCATION",
 		"MALAY",
@@ -43,7 +44,32 @@
 		"PHYSICAL EDUCATION",
 		"SOCIAL STUDIES"
 	],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Floorball",
+			"Soccer",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Choir",
+			"Creative Movements",
+			"Dance - Chinese",
+			"Dance - Indian",
+			"Drama Club",
+			"Ensemble - Guzheng",
+			"New Media Arts",
+			"Violin"
+		],
+		"Clubs & Societies": [
+			"Green Sparks",
+			"Robotics Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -103,7 +129,20 @@
 					"Ensemble - Strings": "Accomplishment"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "797636"

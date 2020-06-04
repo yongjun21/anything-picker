@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MDM WONG LIN LIN AUDREY",
 		"Vice Principal": [
-			"MR SHOEB BURHANUDDIN",
-			"MDM GOH SWEE LIN EVELYN"
+			"MDM GOH SWEE LIN EVELYN",
+			"MS REZINA KHAN D/O ABDUL RAHIM"
 		],
 		"School Vision": "A vibrant school of choice where character shines and talents soar.",
 		"School Mission": "To nurture caring hearts, creative minds and confident individuals.",
@@ -36,10 +36,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -63,13 +63,13 @@
 			"Scouts"
 		],
 		"Visual and Performing Arts": [
+			"Angklung",
 			"Art Club",
 			"Choir",
 			"Dance - Chinese",
 			"Dance - International",
 			"Dance - Malay",
-			"Ensemble - Angklung/Kulintang",
-			"Ensemble - Guzheng"
+			"Guzheng"
 		],
 		"Clubs & Societies": [
 			"Infocom Club"
@@ -80,7 +80,8 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
-			"ICT & Media": "Digital Media in Aesthetics & Languages"
+			"ICT & Media": "Digital Media in Aesthetics & Languages",
+			"Visual & Performing Arts": "Visual Art"
 		},
 		"Special Student Development Programmes Offered": "The annual HeArts Shine programme is a key highlight in the school calendar. It showcases pupils' talents and their participation in values-in-action. Pupils also demonstrate their creativity by planning and making interesting games that made use of re-cycled materials. All monies raised through the HeArts Shine programme are channeled towards the needs of needy pupils. "
 	},
@@ -159,14 +160,14 @@
 					]
 				],
 				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Gold",
 					"Dance - International": "Silver",
 					"Dance - Malay": "Silver",
 					"Ensemble - Angklung / Kulintang": "Gold",
 					"Ensemble - Guzheng": "Silver",
-					"Ensemble - Handbell / Handchime": "Gold",
-					"Choir": "Bronze",
-					"Dance - Chinese": "Gold",
-					"Dance - Indian": "Gold"
+					"Ensemble - Handbell / Handchime": "Gold"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -310,7 +311,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Gold",
@@ -436,7 +437,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Silver",
 					"Dance - International": "Bronze",
@@ -557,7 +558,7 @@
 					"Ensemble - Angklung / Kulintang": "Silver",
 					"Ensemble - Guzheng": "Silver",
 					"Ensemble - Handbell / Handchime": "Gold",
-					"Art & Craft (Silver)": "1 Award"
+					"Art &amp; Craft (Silver)": "1 Award"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -633,7 +634,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Gold",
@@ -734,7 +735,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Gold",
@@ -824,7 +825,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Gold",
@@ -1298,7 +1299,100 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"4th",
+						"4th",
+						"1st",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Commendation",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "519075"

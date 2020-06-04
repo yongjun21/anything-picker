@@ -35,26 +35,27 @@
 	"SubjectOffered": [
 		"ADDITIONAL MATHEMATICS",
 		"ART",
+		"BIOLOGY",
+		"CHEMISTRY",
 		"CHINESE",
-		"COMBINED HUMANITIES (S,G)",
-		"COMBINED HUMANITIES (S,H)",
-		"COMBINED HUMANITIES (S,L)",
-		"COMPUTER APPLICATIONS",
 		"COMPUTING",
-		"DESIGN & TECHNOLOGY",
-		"ELEMENTS OF BUSINESS SKILLS",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
 		"HIGHER TAMIL",
 		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
 		"LITERATURE(E)",
 		"MALAY",
 		"MATHEMATICS",
 		"MUSIC",
+		"PHYSICS",
 		"PRINCIPLES OF ACCOUNTS",
 		"SCIENCE (PHY, CHEM)",
 		"SOCIAL STUDIES",
@@ -411,12 +412,12 @@
 			},
 			"2016": {
 				"SYF Arts Presentation": {
+					"Drama - English": "Distinction",
 					"Art - Category B": "Recognition",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Distinction",
 					"Dance - Chinese": "Distinction",
-					"Dance - International": "Accomplishment",
-					"Drama - English": "Distinction"
+					"Dance - International": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -441,7 +442,16 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Commendation",
+					"Dance - Chinese": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -681,6 +691,18 @@
 			],
 			"Normal Academic": [
 				"161",
+				"199",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"213",
+				"238",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
 				"199",
 				"None-posted"
 			]

@@ -23,9 +23,10 @@
 			"Miss Radha D/o G Subramaniam",
 			"Mr Tan Cher Hui Philip"
 		],
+		"Vice Principal (Admin)": "Mr Soh Chin Khoon Daniel",
 		"School Vision": "Pride of the community.",
 		"School Mission": "To develop innovative and compassionate citizens.",
-		"School Philosophy, Culture and Ethos": "Pei Hwa, with its long history in serving the community, prides ourselves in developing students' talents and getting them ready for 21st century challenges with the emphasis of being innovative, and care for the community. We believe in engaging students effectively in teaching and learning to make sure that knowledge skill is transferred effectively.",
+		"School Philosophy, Culture and Ethos": "Pei Hwa, with a long history in serving the community, pride ourselves in developing students' talents and getting them ready for 21st century challenges by emphasising on the importance of being innovative and caring for the community. We believe in engaging students effectively in teaching and learning to make sure that knowledge and skills are transferred effectively.",
 		"Type of School": "Government School / Co-ed School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -37,7 +38,7 @@
 		"Chemistry",
 		"Chinese",
 		"Computer Applications",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"Elements Of Business Skills",
 		"English Language",
 		"Food And Consumer Education",
@@ -93,58 +94,22 @@
 			"STEM": "Robotics and Programming - Nurturing Leaders, Scholars and Altruists",
 			"Community & Youth Leadership": "PRIDE of the Community: Developing Altruists"
 		},
-		"Special Student Development Programmes Offered": "We offer a distinctive Project Work Curriculum that integrates both our Applied Learning Programme (Robotics and Programming) and Learning for Life Programme (Community Youth leadership) to develop our student as innovative and compassionate leaders to serve the community. This is done through emphasis on STEM (Science, Technology, Engineering and Mathematics) Education with emerging technologies such as Micro:bit (Code for Fun with IMDA), Science and Engineering Electives and Advanced Elective Modules (with Polytechnics), and Python Programming (Robotics CCA). We adopt a three-pronged approach on the 'Head', 'Heart' and 'Hands' to develop our students' cognitive abilities through leveraging on Design Thinking, character through inculcating the values of altruism, and skills through equipping them with the 21st Century Competencies respectively. To facilitate our students' development, we are also leveraging on customized learning spaces such as Maker-Space to develop them as designers and creators of new knowledge and skill."
+		"Special Student Development Programmes Offered": "We offer a distinctive Project Work Curriculum that integrates both our Applied Learning Programme (Robotics and Programming) and Learning for Life Programme (Community Youth leadership) to develop our students into innovative and compassionate leaders who serve the community. This is done through emphasis on STEM (Science, Technology, Engineering and Mathematics) Education with emerging technologies such as Micro:bit (Code for Fun with IMDA), Science and Engineering Electives, Advanced Elective Modules (with Polytechnics), and Python Programming (Robotics CCA). We adopt a three-pronged approach by engaging the 'Head', 'Heart' and 'Hands' to develop our students' cognitive abilities through Design Thinking. We also cultivate their character by inculcating the values of altruism, and build skills by equipping them with the 21st Century Competencies. To facilitate our students' development, we also leverage customised learning spaces such as Maker-Space to develop them as designers and creators of new knowledge and skills."
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"Development Award": "DA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
@@ -181,6 +146,11 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
 					"category": "Band - Concert",
 					"award": "Accomplishment"
 				},
@@ -210,8 +180,33 @@
 					"award": "Distinction"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
 					"award": "Accomplishment"
 				}
 			],
@@ -219,30 +214,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Express",
-			"lower": 216,
-			"upper": 244,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Academic",
-			"lower": 180,
-			"upper": 199,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "Normal Technical",
-			"lower": 138,
-			"upper": 159,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Express",
@@ -312,6 +283,30 @@
 			"programme": "Normal Technical",
 			"lower": 146,
 			"upper": 158,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Express",
+			"lower": 226,
+			"upper": 244,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Academic",
+			"lower": 186,
+			"upper": 199,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Normal Technical",
+			"lower": 146,
+			"upper": 159,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

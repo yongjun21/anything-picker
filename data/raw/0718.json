@@ -19,9 +19,9 @@
 		"Principal": "DR HANG KIM HOO",
 		"Vice Principal": [
 			"MR CHUA KAH SHENG",
-			"MISS SEET YING LING BRITTA"
+			"MISS YEO SIOK EE"
 		],
-		"Vice Principal (Admin)": "MISS THIEN KIEN SAN SHARON",
+		"Vice Principal (Admin)": "MR PHUA YONG SWEE",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / FULL DAY",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -48,17 +48,17 @@
 		"H2 CHEMISTRY",
 		"H2 CHINA STUDIES IN CHINESE",
 		"H2 CHINA STUDIES IN ENGLISH",
-		"H2 CHINESE LANGUAGE & LITERATURE",
+		"H2 CHINESE LANGUAGE &amp; LITERATURE",
 		"H2 COMPUTING",
 		"H2 ECONOMICS",
 		"H2 FURTHER MATHEMATICS",
 		"H2 GEOGRAPHY",
 		"H2 HISTORY",
 		"H2 LITERATURE IN ENGLISH",
-		"H2 MALAY LANGUAGE & LITERATURE",
+		"H2 MALAY LANGUAGE &amp; LITERATURE",
 		"H2 MATHEMATICS",
 		"H2 PHYSICS",
-		"H2 TAMIL LANGUAGE & LITERATURE",
+		"H2 TAMIL LANGUAGE &amp; LITERATURE",
 		"H2 TRANSLATION (CHINESE)",
 		"H3 BIOLOGY",
 		"H3 CHEMISTRY",
@@ -129,7 +129,18 @@
 			"2016": {},
 			"2017": {},
 			"2018": {},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"L1R5History": {
@@ -148,6 +159,20 @@
 		"2017": {},
 		"2018": {},
 		"2019": {
+			"Arts": [
+				"6",
+				"16"
+			],
+			"Science/IB": [
+				"6",
+				"15"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2020": {
 			"Arts": [
 				"6",
 				"16"

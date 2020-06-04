@@ -17,12 +17,14 @@
 	"bus": "4N , 13 , 16 , 31 , 36 , 36A , 36B , 43 , 47 , 48 , 55 , 134 , 135 , 135A , 150 , 196 , 196E , 197 , 853C , 763 ",
 	"GeneralInformation": {
 		"Principal": "MDM CHAN GEK SAN PATRICIA",
-		"Vice Principal": "MDM ONG BEE HOON",
-		"Vice Principal (Admin)": "MR CHEAH KOK KEONG, GEORGE",
+		"Vice Principal": [
+			"MDM ONG BEE HOON",
+			"MISS LIM AI HUI ANNIE"
+		],
 		"School Vision": "A Caring School That Excels.",
-		"School Mission": "The mission of an IJ Convent is the creation of a Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way.",
-		"School Philosophy, Culture and Ethos": "As a Catholic mission school, the CHIJ Katong Convent (KC) brand of education is anchored in building character and developing the whole person. We grow our student leadership, character and citizenship education programmes through meaningful learning experiences from partnerships established with local and overseas organisations. We are committed to striving for excellence in all that we do, stretching academic potential, inculcating strong moral values and nurturing all-round confident and gracious young ladies with hearts of compassion and a keen sense of duty to the community. Our KC Graduate will choose to live a life that matters, guided by our IJ Mission and Motto, growing to become ladies with values and of value to their community and our nation. She is a compassionate servant leader, effective communicator, innovative problem-solver and discerning citizen of the world.",
-		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS' SCHOOL / SINGLE SESSION",
+		"School Mission": "The mission of an Infant Jesus Convent is the creation of a Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way.",
+		"School Philosophy, Culture and Ethos": "As a Catholic mission school, the CHIJ Katong Convent (KC) brand of education is anchored in building character and developing the whole person. We grow our student leadership, character and citizenship education programmes through meaningful learning experiences from partnerships established with local and overseas organisations. We are committed to striving for excellence in all that we do, stretching academic potential, inculcating strong moral values and nurturing all-round confident and gracious young ladies with hearts of compassion and a keen sense of duty to the community. Our KC Graduate will choose to live a life that matters, guided by our Infant Jesus Mission and Motto, growing to become ladies with values and of value to their community and our nation. She is a compassionate servant leader, effective communicator, innovative problem-solver and discerning citizen of the world.",
+		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS&#39; SCHOOL / SINGLE SESSION",
 		"Status of School": "Autonomous",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": [
@@ -40,13 +42,13 @@
 		"CHINESE",
 		"CHINESE B",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"DRAMA",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -308,12 +310,12 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Dance - Malay": "Bronze",
-					"Choir": "Silver",
-					"Dance - International": "Gold",
 					"Drama - Chinese": "Bronze",
 					"Drama - English": "Silver",
-					"Orchestra - Chinese": "Silver"
+					"Orchestra - Chinese": "Silver",
+					"Dance - Malay": "Bronze",
+					"Choir": "Silver",
+					"Dance - International": "Gold"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1570,7 +1572,115 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass Ensemble": "Distinction",
+					"Band-Wind Ensemble": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1871,6 +1981,26 @@
 				"152",
 				"120",
 				"149"
+			]
+		},
+		"2020": {
+			"Express": [
+				"229",
+				"237",
+				"203",
+				"247"
+			],
+			"Normal Academic": [
+				"158",
+				"199",
+				"153",
+				"199"
+			],
+			"Normal Technical": [
+				"111",
+				"156",
+				"113",
+				"150"
 			]
 		}
 	},

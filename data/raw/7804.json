@@ -14,7 +14,7 @@
 	],
 	"email": "aps@ite.edu.sg",
 	"mrt": "Downtown Line 2, Cashew mrt",
-	"bus": "SBS Transit No 170    SMRT No 67 , 75 , 171 , 176 , 178 , 184 , 961 , 963 & 970 ",
+	"bus": "SBS Transit No 170    SMRT No 67 , 75 , 171 , 176 , 178 , 184 , 961 , 963 &amp; 970 ",
 	"GeneralInformation": {
 		"Principal": "MR LEONG YEW HON ERIC",
 		"Vice Principal": "MR SHASHIDARAN S/O KANESON",
@@ -26,7 +26,26 @@
 		"Affiliated Schools": "Not Applicable"
 	},
 	"SubjectOffered": [],
-	"Cca": {},
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Floorball",
+			"Football",
+			"Sepak Takraw",
+			"Tchoukball"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Dance Club",
+			"Malay Dance Club",
+			"Percussion Band"
+		],
+		"Clubs & Societies": [
+			"Av Crew",
+			"Publication",
+			"Robotics Club"
+		]
+	},
 	"SpecialProgrammes": {
 		"MOE Programmes": [
 			"Not Available"
@@ -166,7 +185,107 @@
 					"Dance - Malay": "Accomplishment"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Sepak Takraw",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - International": "Commendation",
+					"Dance - Malay": "Accomplishment"
+				}
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -184,7 +303,8 @@
 		"2016": {},
 		"2017": {},
 		"2018": {},
-		"2019": {}
+		"2019": {},
+		"2020": {}
 	},
 	"postalCode": "679697"
 }

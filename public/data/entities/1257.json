@@ -20,11 +20,11 @@
 	"GeneralInformation": {
 		"Principal": "Mdm Lee Yew Koon Tonnine",
 		"Vice Principal": [
-			"Mr Syamsul Anwar Bin Awang",
-			"Mdm Chan Yee Chin Wilna"
+			"Mdm Chan Yee Chin Wilna",
+			"Mdm Daphne Chan Pei Sze"
 		],
 		"Vice Principal (Admin)": "Mr Goh Gin Howe",
-		"School Vision": "Confident Thinkers. Adaptable Learners.Passionate Leaders.",
+		"School Vision": "Confident Thinkers. Adaptable Individuals.Passionate Leaders.",
 		"School Mission": "We develop every Frontierer to reflect deeply, embrace differences and serve as a role model to overcome future challenges.",
 		"School Philosophy, Culture and Ethos": [
 			"We are guided by our philosophy of 'Strong Fundamentals, Future Learning' which underpins the holistic education that Frontier provides to prepare our pupils to thrive in a fast-changing and highly-connected world. We want our pupils to be grounded with strong fundamentals so that they can partake in future learning.",
@@ -38,10 +38,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -77,7 +77,6 @@
 			"Ensemble - String"
 		],
 		"Clubs & Societies": [
-			"Environmental Club",
 			"Robotics/New Media Club"
 		]
 	},
@@ -90,37 +89,17 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Commendation"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category B",
@@ -175,6 +154,31 @@
 					"year": "2018",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
@@ -216,7 +220,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 11,
 		"PLACES TAKEN UP TO PHASE 2B": 151,
 		"VACANCY FOR PHASE 2C": 59,
-		"NO. OF APPLICANTS IN PHASE 2C": 63
+		"NO. OF APPLICANTS IN PHASE 2C": 63,
+		"PLACES TAKEN UP TO PHASE 2C": 210
 	},
 	"id": "1257"
 }

@@ -20,9 +20,10 @@
 	"GeneralInformation": {
 		"Principal": "Mdm Tan Sun Sun",
 		"Vice Principal": [
-			"Mr Lim Kim Thye",
-			"Mdm Tan Lay Wah"
+			"Mdm Tan Lay Wah",
+			"Mr Lee Chong Tart Ronald"
 		],
+		"Vice Principal (Admin)": "Mr Ng Kok Heng",
 		"School Vision": "Touching Souls Challenging Minds",
 		"School Mission": "To maximise students' potential and to develop in them a passion for life-long learning guided by compassion, conscience, purity and righteousness.",
 		"School Philosophy, Culture and Ethos": [
@@ -42,10 +43,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Foundation Science",
 		"Health Education",
@@ -96,10 +97,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": "DA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Development Award": "DA (Character Development)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -107,44 +104,12 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -211,6 +176,36 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - Malay",
 					"award": "Accomplishment"
 				}
@@ -250,7 +245,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 54,
 		"PLACES TAKEN UP TO PHASE 2B": 187,
 		"VACANCY FOR PHASE 2C": 133,
-		"NO. OF APPLICANTS IN PHASE 2C": 199
+		"NO. OF APPLICANTS IN PHASE 2C": 199,
+		"PLACES TAKEN UP TO PHASE 2C": 320
 	},
 	"id": "5183"
 }

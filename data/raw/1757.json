@@ -14,12 +14,12 @@
 	],
 	"email": "cvps@moe.edu.sg",
 	"mrt": "Sengkang",
-	"bus": "83 (along Compassvale Street) 27 , 89 , 89E & 965 (along Compassvale Road). ",
+	"bus": "83 (along Compassvale Street) 27 , 89 , 89E &amp; 965 (along Compassvale Road). ",
 	"GeneralInformation": {
 		"Principal": "MR AW KER LEE JEFFREY",
 		"Vice Principal": [
-			"MISS TAN KWEE FOON",
-			"MDM TAN KAY LING"
+			"MDM TAN KAY LING",
+			"MDM YEOW CHERN EE"
 		],
 		"Vice Principal (Admin)": "MR FONG KOK WAI",
 		"School Vision": "Thinkers . Leaders . Champions",
@@ -32,10 +32,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -91,11 +91,11 @@
 			"2005": {},
 			"2006": {
 				"SYF Central Judging": {
-					"Band - Concert": "Gold",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - International": "Bronze",
-					"Ensemble - Harmonica": "Gold"
+					"Ensemble - Harmonica": "Gold",
+					"Band - Concert": "Gold"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -190,7 +190,7 @@
 			},
 			"2009": {
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
@@ -201,7 +201,7 @@
 			},
 			"2010": {
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Silver",
@@ -298,7 +298,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Silver",
@@ -384,7 +384,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Silver",
 					"Dance - Chinese": "Gold",
 					"Dance - Indian": "Silver",
@@ -945,7 +945,88 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - Chinese": "Distinction",
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Harmonica": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "545091"

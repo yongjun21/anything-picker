@@ -21,6 +21,7 @@
 			"MDM LIM SHEUE TYUG",
 			"MR JACKSON KEK"
 		],
+		"Vice Principal (Admin)": "MDM ONG SUAT LI",
 		"School Vision": "An Innovative school where Inspiring Educators Nurture Future-ready Leaders with Values.",
 		"School Mission": "To foster Leadership, Cognitive, Physical, Aesthetic, Social and Moral growth of Students.",
 		"School Philosophy, Culture and Ethos": [
@@ -37,10 +38,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -546,6 +547,17 @@
 						"Senior"
 					],
 					[
+						"Badminton",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-"
+					],
+					[
 						"Basketball",
 						"-",
 						"-",
@@ -566,26 +578,15 @@
 						"-",
 						"-",
 						"-"
-					],
-					[
-						"Badminton",
-						"-",
-						"-",
-						"3rd",
-						"-",
-						"-",
-						"-",
-						"1st",
-						"-"
 					]
 				],
 				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - Malay": "Silver",
-					"Ensemble - Guzheng": "Silver",
-					"Band - Concert": "Bronze"
+					"Ensemble - Guzheng": "Silver"
 				}
 			},
 			"2011": {
@@ -680,7 +681,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
@@ -781,7 +782,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Indian": "Silver",
 					"Dance - International": "Silver",
@@ -1303,7 +1304,109 @@
 					"Ensemble - Guzheng": "Distinction"
 				}
 			},
-			"2019": {}
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "545080"

@@ -19,7 +19,7 @@
 		"Principal": "MR SHAWAL BIN HUSSIN",
 		"Vice Principal": [
 			"MDM TEO MEI LIN YVONNE",
-			"MR LAM YUI- P'NG"
+			"MR WONG TIEN CHIEH, GLENN"
 		],
 		"School Vision": "Engaged and Empowered to Excel",
 		"School Mission": "Through the provision of a holistic education, pupils of Orchid Park shall blossom into resourceful individuals with a positive outlook, prepared to meet confidently the challenges of life.  They will be cultured young men and women of integrity, responsible and compassionate towards their fellow men.",
@@ -35,10 +35,10 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
 		"HIGHER MALAY",
@@ -95,10 +95,10 @@
 			"2005": {},
 			"2006": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold (Hons))": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award"
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -209,10 +209,10 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold (Hons))": "1 Award",
-					"Art & Craft (Gold)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold (Hons))": "1 Award",
+					"Art &amp; Craft (Gold)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Bronze",
 					"Dance - International": "Silver",
@@ -223,21 +223,21 @@
 			},
 			"2008": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "2 Awards",
+					"Drama - English": "Gold",
+					"Ensemble - Guitar": "Bronze",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Band - Display / Marching": "Silver",
 					"Choir": "Bronze",
-					"Dance - International": "Silver",
-					"Drama - English": "Gold",
-					"Ensemble - Guitar": "Bronze"
+					"Dance - International": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2009": {
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Gold)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Gold)": "2 Awards",
 					"Band - Concert": "Silver",
 					"Band - Display / Marching": "Silver",
 					"Choir": "Gold",
@@ -343,8 +343,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Gold",
 					"Dance - International": "Silver",
@@ -455,8 +455,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - International": "Silver",
@@ -476,8 +476,8 @@
 					"SAA (Uniformed Groups)"
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Silver",
 					"Choir": "Silver",
 					"Dance - International": "Silver",
@@ -494,8 +494,8 @@
 					"SAA (Uniformed Groups)"
 				],
 				"SYF Arts Presentation": {
-					"Art & Craft (Bronze)": "2 Awards",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Accomplishment",
 					"Choir": "Accomplishment",
 					"Dance - International": "Accomplishment",
@@ -1057,7 +1057,18 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Dance - International": "Accomplishment",
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1313,6 +1324,23 @@
 			"Normal Technical": [
 				"108",
 				"159",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"214",
+				"234",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"177",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"126",
+				"158",
 				"None-posted"
 			]
 		}

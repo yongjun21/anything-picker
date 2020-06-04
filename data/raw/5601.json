@@ -35,7 +35,7 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"HEALTH EDUCATION",
@@ -70,7 +70,7 @@
 			"Debating Club",
 			"Environmental & Science Club",
 			"Homec Club",
-			"I & E Club",
+			"Infocomm Club",
 			"Library (Mrl) Club",
 			"Robotics Club"
 		]
@@ -80,6 +80,7 @@
 			"SAP"
 		],
 		"School Distinctive Programmes": {
+			"Languages": "Empathetic Listeners. Effective Communicators. Trailblazing Advocates (ELECTRA@MBS)",
 			"Music & Performing Arts": "Learning through an Ethnic Arts Programme (LEAP)"
 		},
 		"Special Student Development Programmes Offered": "Our Student-centric, Values-driven education endeavour introduces various engaging programmes and initiatives to equip the students with the necessary 21st century skills to thrive in the future."
@@ -342,17 +343,6 @@
 						"Senior"
 					],
 					[
-						"Basketball",
-						"2nd",
-						"-",
-						"-",
-						"-",
-						"3rd",
-						"-",
-						"-",
-						"4th"
-					],
-					[
 						"Sailing",
 						"-",
 						"-",
@@ -373,16 +363,27 @@
 						"-",
 						"-",
 						"-"
+					],
+					[
+						"Basketball",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"4th"
 					]
 				],
 				"SYF Central Judging": {
-					"Choir": "Silver",
-					"Dance - Chinese": "Silver",
-					"Dance - Indian": "Gold",
 					"Dance - Malay": "Silver",
 					"Ensemble - Guzheng": "Silver",
 					"Orchestra - Chinese": "Gold",
-					"Band - Concert": "Gold (Hons)"
+					"Band - Concert": "Gold (Hons)",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -469,7 +470,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold (Hons)",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
@@ -563,7 +564,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Gold (Hons)",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
@@ -651,8 +652,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Gold (Hons)",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
@@ -750,15 +751,15 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "2 Awards",
+					"Dance - Indian": "Silver",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "2 Awards",
 					"Band - Concert": "Gold (Hons)",
 					"Choir": "Silver",
 					"Dance - Chinese": "Silver",
 					"Dance - Malay": "Silver",
 					"Ensemble - Guzheng": "Gold",
-					"Orchestra - Chinese": "Silver",
-					"Dance - Indian": "Silver"
+					"Orchestra - Chinese": "Silver"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1236,7 +1237,92 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - Malay": "Accomplishment",
+					"Art - Category A": "Recognition(Sm)",
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Distinction",
+					"Band-Percussion Ensemble": "Distinction",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "408931"

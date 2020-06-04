@@ -5,7 +5,7 @@
 	"uen": " T07GS5622D",
 	"logo": "./Medias/Images/Schools/logos/tn_5622.jpg",
 	"website": "http://www.nanhuapri.moe.edu.sg",
-	"address": "170, West Coast Road ( 127443 )",
+	"address": "30, Jalan Lempeng ( 128806 )",
 	"telephone": [
 		"67788050"
 	],
@@ -49,10 +49,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -69,7 +69,8 @@
 			"Gifted Education Programme"
 		],
 		"School Distinctive Programmes": {
-			"Interdisciplinary": "NHPS Thinking Programme"
+			"Interdisciplinary": "NHPS Thinking Programme",
+			"Others": "From ME to WE: Forging the Path to Purpose"
 		},
 		"Special Student Development Programmes Offered": "Our school believes in developing our children holistically and equipping them with the 21st century skills and competencies. To do so, we focus on 3 key areas: Thinking Minds, Engaged Hearts, Happy and Healthy Learners.  "
 	},
@@ -259,7 +260,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold",
 					"Ensemble - Guzheng": "Gold",
@@ -349,7 +350,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Band - Concert": "Bronze",
 					"Choir": "Gold",
 					"Dance - Chinese": "Gold",
@@ -441,7 +442,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
 					"Band - Concert": "Bronze",
 					"Choir": "Gold",
 					"Dance - Chinese": "Gold",
@@ -533,7 +534,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "2 Awards",
+					"Art &amp; Craft (Bronze)": "2 Awards",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold (Hons)",
 					"Ensemble - Guzheng": "Silver",
@@ -627,7 +628,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "3 Awards",
+					"Art &amp; Craft (Bronze)": "3 Awards",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold (Hons)",
 					"Ensemble - Guzheng": "Silver",
@@ -750,10 +751,10 @@
 					]
 				],
 				"SYF Central Judging": {
+					"Art &amp; Craft (Bronze)": "3 Awards",
 					"Choir": "Gold",
 					"Dance - Chinese": "Gold (Hons)",
-					"Ensemble - Guzheng": "Gold",
-					"Art & Craft (Bronze)": "3 Awards"
+					"Ensemble - Guzheng": "Gold"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1385,8 +1386,108 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"4th",
+						"-",
+						"4th",
+						"-",
+						"3rd",
+						"-",
+						"2nd"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"4th",
+						"4th",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
-	"postalCode": "127443"
+	"postalCode": "128806"
 }

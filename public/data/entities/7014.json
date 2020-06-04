@@ -26,17 +26,17 @@
 		"School Vision": "To be an asset to the country by developing capable women of character and relevance.",
 		"School Mission": "To inspire and develop every student to fulfil her fullest potential, according to her individual pace and aspiration, so as to prepare her for meaningful roles in the community.",
 		"School Philosophy, Culture and Ethos": "The SCGS education philosophy stems from our strong belief in providing a holistic and balanced education founded on a bedrock of timeless values and rich heritage. Our environment which offers the warmth and stability of a strong family fosters excellence and achievement based on every student's personal needs, interests and aptitude. We add colour, character and richness to the learning experience.",
-		"Type of School": "Independent School / Girls' School / Single Session",
+		"Type of School": "Independent School / Girls&#39; School / Single Session",
 		"IP Partner Schools": [
 			"Catholic High School",
 			"CHIJ St. Nicholas Girls' School"
 		],
 		"Mother Tongue": "Chinese / Malay / Tamil",
-		"Affiliated Schools": "Singapore Chinese Girls' Primary School"
+		"Affiliated Schools": "Singapore Chinese Girls&#39; Primary School"
 	},
 	"SubjectOffered": [
 		"Additional Mathematics",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Biology",
 		"Chemistry",
 		"Chinese",
@@ -55,7 +55,7 @@
 		"Malay",
 		"Mathematics",
 		"Music",
-		"Music 'O' Level",
+		"Music &#39;o&#39; Level",
 		"Physics",
 		"Tamil"
 	],
@@ -105,20 +105,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Excellence Awards": "SEA",
-				"Best Practice Awards": [
-					"BPA (Staff Well-Being)",
-					"BPA (Student All-Round Development)",
-					"BPA (Teaching and Learning)"
-				],
-				"Development Award": "PARTNERS (Merit)",
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"ODA (National Education)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Excellence Awards": "SEA",
 				"Best Practice Awards": [
@@ -136,54 +122,12 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -270,6 +214,41 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Strings",
 					"award": "Distinction"
 				}
@@ -278,22 +257,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Integrated Programme",
-			"lower": 253,
-			"upper": 270,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "'O' Level Programme",
-			"lower": 252,
-			"upper": 266,
-			"lowerAffiliated": 221,
-			"upperAffiliated": 270
-		},
 		{
 			"year": "2017",
 			"programme": "Integrated Programme",
@@ -341,6 +304,22 @@
 			"upper": 257,
 			"lowerAffiliated": 220,
 			"upperAffiliated": 254
+		},
+		{
+			"year": "2020",
+			"programme": "Integrated Programme",
+			"lower": 252,
+			"upper": 271,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "'O' Level Programme",
+			"lower": 252,
+			"upper": 258,
+			"lowerAffiliated": 220,
+			"upperAffiliated": 253
 		}
 	],
 	"postalCode": "309437",

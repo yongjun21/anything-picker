@@ -21,11 +21,8 @@
 	"bus": "53 , 62 , 113 , 45 ",
 	"GeneralInformation": {
 		"Principal": "Mrs Joyce Ang",
-		"Vice Principal": [
-			"Mr Yap Lih Min Samuel",
-			"Ms Poh Hwee Thing"
-		],
-		"Vice Principal (Admin)": "Mdm Ginny Chua Geok Hong",
+		"Vice Principal": "Mr Yap Lih Min Samuel",
+		"Vice Principal (Admin)": "Mdm Teo Yong Hua Shirley",
 		"School Vision": "An outstanding school of choice producing women of fine character with a passion for life and learning",
 		"School Mission": "To nurture every PL Lite into a whole person who lives in favour with God and man.",
 		"School Philosophy, Culture and Ethos": [
@@ -34,17 +31,17 @@
 			"Undergirding these two tenets is the key emphasis on the use of experiential learning. PL teachers design authentic settings for learning so that our girls will grow to become Confident Leaders, Global Citizens and Creative Problem-solvers. ",
 			"Together with the Board, Alumni, Parents and PLMGS (Sec), the school builds a strong culture which we name the PL Spirit. This PL Spirit fosters a strong school identity and safe learning environment which enable the girls to blossom as they grow under the care of their teachers and love of their peers."
 		],
-		"Type of School": "Government-aided Sch / Girls' School / Single Session",
+		"Type of School": "Government-aided Sch / Girls&#39; School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
-		"Affiliated Schools": "Paya Lebar Methodist Girls' School (Secondary)"
+		"Affiliated Schools": "Paya Lebar Methodist Girls&#39; School (Secondary)"
 	},
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -78,7 +75,8 @@
 			"String Ensemble"
 		],
 		"Clubs & Societies": [
-			"Christian Fellowship"
+			"Christian Fellowship",
+			"Science Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -90,10 +88,6 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -102,95 +96,99 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
+					"year": "2017",
+					"category": "Art - Category C",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2017",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
+				},
+				{
+					"year": "2017",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2018",
+					"category": "Art - Category C",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2018",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Angklung / Kulintang",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
+				},
+				{
+					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Art - Category A",
 					"award": "Recognition"
 				},
 				{
-					"year": "2016",
+					"year": "2019",
 					"category": "Choir",
 					"award": "Distinction"
 				},
 				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Art - Category C",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2017",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Angklung / Kulintang",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
-					"year": "2017",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2018",
-					"category": "Art - Category C",
-					"award": "Recognition(Sm)"
-				},
-				{
-					"year": "2018",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Dance - International",
 					"award": "Distinction"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Ensemble - Angklung / Kulintang",
 					"award": "Distinction"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Distinction"
 				},
 				{
-					"year": "2018",
+					"year": "2019",
 					"category": "Ensemble - Strings",
 					"award": "Distinction"
 				}
@@ -217,6 +215,7 @@
 		"TP"
 	],
 	"specialNeeds": [],
+	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 270,
 		"VACANCY FOR PHASE 1": 230,
@@ -232,7 +231,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 65,
 		"PLACES TAKEN UP TO PHASE 2B": 182,
 		"VACANCY FOR PHASE 2C": 88,
-		"NO. OF APPLICANTS IN PHASE 2C": 108
+		"NO. OF APPLICANTS IN PHASE 2C": 108,
+		"PLACES TAKEN UP TO PHASE 2C": 270
 	},
 	"id": "5635"
 }

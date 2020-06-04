@@ -38,7 +38,7 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
 		"Health Education",
@@ -73,7 +73,7 @@
 			"Debating Club",
 			"Environmental & Science Club",
 			"Homec Club",
-			"I & E Club",
+			"Infocomm Club",
 			"Library (Mrl) Club",
 			"Robotics Club"
 		]
@@ -83,58 +83,24 @@
 			"SAP"
 		],
 		"School Distinctive Programmes": {
+			"Languages": "Empathetic Listeners. Effective Communicators. Trailblazing Advocates (ELECTRA@MBS)",
 			"Music & Performing Arts": "Learning through an Ethnic Arts Programme (LEAP)"
 		},
 		"Special Student Development Programmes Offered": "Our Student-centric, Values-driven education endeavour introduces various engaging programmes and initiatives to equip the students with the necessary 21st century skills to thrive in the future."
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Chinese Orchestra-Full Orchestra",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category A",
@@ -219,6 +185,56 @@
 					"year": "2018",
 					"category": "Ensemble - Guzheng",
 					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition(Sm)"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Percussion Ensemble",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
 				}
 			],
 			"Best Unit Award": []
@@ -260,7 +276,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 31,
 		"PLACES TAKEN UP TO PHASE 2B": 270,
 		"VACANCY FOR PHASE 2C": 60,
-		"NO. OF APPLICANTS IN PHASE 2C": 64
+		"NO. OF APPLICANTS IN PHASE 2C": 64,
+		"PLACES TAKEN UP TO PHASE 2C": 330
 	},
 	"id": "5601"
 }

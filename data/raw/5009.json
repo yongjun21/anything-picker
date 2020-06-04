@@ -17,10 +17,7 @@
 	"bus": "8 , 13 , 26 , 31 , 90 , 90A , 107 , 133 , 142 , 147 , 853 , NR6 ",
 	"GeneralInformation": {
 		"Principal": "MISS NEO PHEI TZE PATSY",
-		"Vice Principal": [
-			"MR THAM KINE CHUEN THOMAS",
-			"MDM JOSEPHINE SNG"
-		],
+		"Vice Principal": "MR THAM KINE CHUEN THOMAS",
 		"School Vision": "Home of Servant Leaders who bring Life to the Nations",
 		"School Mission": [
 			"Making lives, Waking hearts",
@@ -35,16 +32,16 @@
 			"A community builder works effectively in teams. He is about to collaborate in a respectful manner and encourages others to contribute ideas to the team. ",
 			"By actively participating in school and community activities, the community builder is able to demonstrate awareness and appreciation of people from different socio-cultural and religious backgrounds in the community. He contributes positively to others and the environment by demonstrating mutual respect and acceptable behaviour that promotes social cohesion."
 		],
-		"Type of School": "GOVERNMENT-AIDED SCH / BOYS' SCHOOL / SINGLE SESSION",
+		"Type of School": "GOVERNMENT-AIDED SCH / BOYS&#39; SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
-		"Affiliated Schools": "ST. ANDREW'S SECONDARY SCHOOL"
+		"Affiliated Schools": "ST. ANDREW&#39;S SECONDARY SCHOOL"
 	},
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MATHEMATICS",
 		"HEALTH EDUCATION",
 		"HIGHER CHINESE",
@@ -336,9 +333,9 @@
 						"Senior"
 					],
 					[
-						"Hockey",
-						"-",
-						"4th",
+						"Rugby",
+						"1st",
+						"1st",
 						"-",
 						"-",
 						"-",
@@ -347,9 +344,9 @@
 						"-"
 					],
 					[
-						"Rugby",
-						"1st",
-						"1st",
+						"Hockey",
+						"-",
+						"4th",
 						"-",
 						"-",
 						"-",
@@ -1114,9 +1111,9 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Art - Category C": "Recognition",
 					"Band - Concert": "Commendation",
-					"Choir": "Distinction"
+					"Choir": "Distinction",
+					"Art - Category C": "Recognition"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1634,7 +1631,116 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Football",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"'C' Div",
+						"'D' Div",
+						"'A' Div",
+						"'B' Div",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA",
+						"NA"
+					],
+					[
+						"Swimming",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Art - Category A": "Recognition",
+					"Choir": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "359337"

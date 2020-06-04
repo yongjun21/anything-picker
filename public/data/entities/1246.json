@@ -44,10 +44,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Science",
@@ -74,12 +74,11 @@
 			"Tennis"
 		],
 		"Uniformed Groups": [
-			"Boys' Brigade",
-			"Girls' Brigade"
+			"Boys' Brigade"
 		],
 		"Visual and Performing Arts": [
-			"Art Club",
-			"Drama Club"
+			"Art And Craft Club",
+			"Drama - English"
 		],
 		"Clubs & Societies": [
 			"Environmental Club",
@@ -98,38 +97,18 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category A",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band-Brass",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -166,6 +145,21 @@
 				},
 				{
 					"year": "2018",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
 					"category": "Dance - International",
 					"award": "Distinction"
 				}
@@ -207,7 +201,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 1,
 		"PLACES TAKEN UP TO PHASE 2B": 37,
 		"VACANCY FOR PHASE 2C": 113,
-		"NO. OF APPLICANTS IN PHASE 2C": 32
+		"NO. OF APPLICANTS IN PHASE 2C": 32,
+		"PLACES TAKEN UP TO PHASE 2C": 69,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 81,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 17
 	},
 	"id": "1246"
 }

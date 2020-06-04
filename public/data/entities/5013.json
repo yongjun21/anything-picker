@@ -5,7 +5,7 @@
 	"uen": " T07GS5013E",
 	"logo": "./Medias/Images/Schools/logos/tn_5013.jpg",
 	"website": "http://www.stmargaretspri.moe.edu.sg",
-	"address": "99, Wilkie Road (228091)",
+	"address": "2, Mattar Road (387724)",
 	"telephone": [
 		"63394247"
 	],
@@ -14,9 +14,9 @@
 	],
 	"email": "STMARGARETPS@MOE.EDU.SG",
 	"mrt": [
-		"Little India MRT"
+		"Mattar MRT"
 	],
-	"bus": "64 , 65 , 65M , 85 , 97 , 103 , 111 , 131 , 139 ",
+	"bus": "40 , 61 , 63 , 65 , 66 , 135 , 154 , 155 , 158 ",
 	"GeneralInformation": {
 		"Principal": "Mrs Ko-Tan Li Ling",
 		"Vice Principal": "Mdm Alison Ang Siok Phing",
@@ -30,9 +30,9 @@
 			"The St. Margaret's Parents Teachers Association (PTA) was registered on 24 December 1980 and continues to provide strong support to the school. It organizes and supports various school programmes, one of which is its annual Green Dot Event. This event aims to bring together the families represented in the school for a time of bonding.  ",
 			"Chapel of Christ the King supports the school by running the spiritual programme of the school.  They help to reinforce the values promoted by the school through sharing of bible stories, camps and other recess activities."
 		],
-		"Type of School": "Government-aided Sch / Girls' School / Single Session",
+		"Type of School": "Government-aided Sch / Girls&#39; School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
-		"Affiliated Schools": "St. Margaret's Secondary School"
+		"Affiliated Schools": "St. Margaret&#39;s Secondary School"
 	},
 	"SubjectOffered": [
 		"Art",
@@ -66,65 +66,30 @@
 			"Ensemble - Harmonica"
 		],
 		"Clubs & Societies": [
-			"Infocom Club/Ava"
+			"Info-Comm / Av Club"
 		]
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
 			"Music & Performing Arts": "Dance A.L.I.V.E!: Dance for Agility, Life, Ingenuity, Versatility and Expression",
-			"Sports & Outdoor Education": [
-				"Sports A. C",
-				null,
-				". E: Sports for All; Sports for Continuity & Character; Sports for Excellence"
-			]
+			"Sports & Outdoor Education": "Sports A. C2. E: Sports for All; Sports for Continuity & Character; Sports for Excellence"
 		},
 		"Special Student Development Programmes Offered": "To enable every SMPS pupil to be an engaged and values-centred learner, the school has in place a robust instructional programme that has enabled it to help pupils achieve good PSLE results, equal to or above those of her comparable schools. This is complemented by a wide range of enrichment programmes, learning journeys and CCAs, of which two are recognised as niche of excellence (Netball) and Learning for Life Programme (Dance). The school works closely with Chapel of Christ the King, Singapore Anglican Community Services and other community partners to provide wide opportunities for a holistic education for pupils. From our surveys of P1 parents, many have chosen SMPS because of her Character Development Program. This augers well for the school's intention to position itself to be known as one that nurtures confident girls with character who aim to contribute to society"
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Development Award": "DA (Character Development)",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band-Brass",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Harmonica",
-					"award": "Accomplishment"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -191,6 +156,36 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Harmonica",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band-Brass",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Harmonica",
 					"award": "Distinction"
 				}
@@ -198,7 +193,7 @@
 			"Best Unit Award": []
 		}
 	},
-	"postalCode": "228091",
+	"postalCode": "387724",
 	"coordinates": [
 		103.8462744,
 		1.3037756
@@ -232,7 +227,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 22,
 		"PLACES TAKEN UP TO PHASE 2B": 84,
 		"VACANCY FOR PHASE 2C": 108,
-		"NO. OF APPLICANTS IN PHASE 2C": 82
+		"NO. OF APPLICANTS IN PHASE 2C": 82,
+		"PLACES TAKEN UP TO PHASE 2C": 166,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 26,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 35
 	},
 	"id": "5013"
 }

@@ -21,6 +21,7 @@
 			"MR LIM SOON WAI",
 			"MDM NEW YI CHEEN"
 		],
+		"Vice Principal (Admin)": "MADAM LIM SOK NGIN",
 		"School Vision": "Every Beattyian - A Thinker, Learner and Contributor",
 		"School Mission": "To nurture Beattyians of Character with a Sense of Purpose and Passion for Life",
 		"School Philosophy, Culture and Ethos": "Established in 1953, Beatty Secondary believes in the unique worth of every student and aims to nurture confident, adaptable, resilient, future-ready and morally upright individuals with a sense of purpose and passion for life. The broad-based academic and character development programmes offered at Beatty Secondary are specially tailored to ignite students' passion and the joy of learning. They are also designed to develop and stretch students' abilities and talents to the fullest. Beatty Secondary seeks to nurture critical thinkers and self-directed learners who will become valuable contributors to society. Undergirding these programmes is the care we provide to ensure the physical, intellectual, social and emotional well-being of every Beattyian. Our team of committed and caring staff take pride in adopting innovative approaches to create an enriching and supportive learning environment for all Beattyians. Over the years, Beatty Secondary has nurtured many illustrious Beattyians. Its Alumni boasts of prominent members from the civil service, academia, business and the arts.",
@@ -39,10 +40,10 @@
 		"CHINESE",
 		"CHINESE B",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -1233,22 +1234,22 @@
 						"'C' Div"
 					],
 					[
-						"Taekwondo (Kyorugi)",
+						"Football",
 						"-",
 						"-",
 						"-",
-						"4th",
+						"-",
 						"-",
 						"-",
 						"-",
 						"-"
 					],
 					[
-						"Football",
+						"Taekwondo (Kyorugi)",
 						"-",
 						"-",
 						"-",
-						"-",
+						"4th",
 						"-",
 						"-",
 						"-",
@@ -1378,7 +1379,125 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Band - Concert": "Accomplishment",
+					"Band-Brass Ensemble": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Choir": "Commendation",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1634,6 +1753,23 @@
 			"Normal Technical": [
 				"124",
 				"152",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"217",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"195",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"124",
+				"158",
 				"None-posted"
 			]
 		}

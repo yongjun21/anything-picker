@@ -13,7 +13,7 @@
 		"62352337"
 	],
 	"email": "OSS@MOE.EDU.SG",
-	"mrt": "OUTRAM PARK MRT",
+	"mrt": "OUTRAM PARK MRT, CHINATOWN MRT",
 	"bus": "174 , 123 , 16 , 175 , 195 , 33 , 5 , 63 , 75 , 851 , 970 , 123 , 186 , 51 , 64 ",
 	"GeneralInformation": {
 		"Principal": "MR BOO HIAN KOK",
@@ -21,7 +21,7 @@
 			"MISS TAN EE LING ELLEN",
 			"MR LIM PANG CHUANG"
 		],
-		"School Vision": "Outram - A Hallmark of Distinction",
+		"School Vision": "Lifelong Learners . Innovative Leaders . Caring Contributors",
 		"School Mission": "To nurture individuals with a true Outramian SPIRIT",
 		"School Philosophy, Culture and Ethos": "The school sets out to accomplish the mission of nurturing every individual with a true Outramian SPIRIT. It is committed to the provision of an education that is strongly anchored in developing values and character. For each child that joins Outram, we seek to inculcate in them the school values, 'Sense of belonging - to the school, society and nation, Perseverance, Integrity, Responsibility, Industriousness and Teamwork (SPIRIT)'  The school motto, 'Labor Omnia Vincit', signifies the importance of 'Labour Conquers All'. The motto highlights the school's belief that through hard work, one can overcome difficulties encountered in life. Success in any area requires our students to exercise self-discipline and diligence as well as make necessary sacrifices so as to accomplish tasks set before them.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
@@ -33,7 +33,7 @@
 		"ART",
 		"ART NA LEVEL",
 		"ART NT LEVEL",
-		"ART 'O' LEVEL",
+		"ART &#39;O&#39; LEVEL",
 		"BASIC CHINESE",
 		"BASIC MALAY",
 		"BASIC TAMIL",
@@ -46,7 +46,7 @@
 		"COMBINED HUMANITIES (S,H)",
 		"COMBINED HUMANITIES (S,L)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
@@ -76,7 +76,6 @@
 			"Basketball",
 			"Netball",
 			"Rockwall Climbing",
-			"Squash",
 			"Swimming",
 			"Water Polo"
 		],
@@ -87,7 +86,6 @@
 		"Visual and Performing Arts": [
 			"Band - Concert",
 			"Dance - Modern",
-			"Ensemble - Guzheng",
 			"Visual Art"
 		],
 		"Clubs & Societies": [
@@ -1207,7 +1205,110 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Waterpolo",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1462,6 +1563,23 @@
 			],
 			"Normal Technical": [
 				"96",
+				"150",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"188",
+				"258",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"181",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"97",
 				"150",
 				"None-posted"
 			]

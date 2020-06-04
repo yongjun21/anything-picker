@@ -24,6 +24,11 @@
 			"Mdm Toh Lay Har"
 		],
 		"Vice Principal (Admin)": "Mr Tan Eng Poh",
+		"School Vision": "A dynamic institution known for its rich learning experiences in a culture of innovation, empowerment and care",
+		"School Mission": [
+			"To nurture lifelong learners with a heart to lead and serve, guided by a strong moral compass and a spirit of",
+			"excellence"
+		],
 		"Type of School": "Government School / Co-ed School / Full Day",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -48,27 +53,28 @@
 		"H2 Art",
 		"H2 Biology",
 		"H2 Chemistry",
-		"H2 Chinese Language & Literature",
+		"H2 Chinese Language &amp; Literature",
 		"H2 Economics",
 		"H2 Further Mathematics",
 		"H2 Geography",
 		"H2 History",
 		"H2 Literature In English",
-		"H2 Malay Language & Literature",
+		"H2 Malay Language &amp; Literature",
 		"H2 Mathematics",
 		"H2 Physics",
-		"H2 Tamil Language & Literature",
+		"H2 Tamil Language &amp; Literature",
 		"H2 Theatre Studies And Drama",
 		"H3 Biology",
 		"H3 Chemistry",
 		"H3 Economics",
-		"H3 Malay Language & Literature",
+		"H3 Geography",
+		"H3 Literature In English",
+		"H3 Malay Language &amp; Literature",
 		"H3 Mathematics",
 		"H3 Physics",
 		"Ntu Molecular Biology",
-		"Ntu Numbers & Matrices",
-		"Ntu Semiconductor Physics & Devices",
-		"Nus Modern Physics"
+		"Ntu Semiconductor Physics &amp; Devices",
+		"Smu Game Theory"
 	],
 	"Cca": {
 		"Physical Sports": [
@@ -102,6 +108,7 @@
 		"Clubs & Societies": [
 			"Debates Society",
 			"Health And Fitness Club",
+			"Interact Club",
 			"Interactive Games Club",
 			"Makers Club",
 			"Media Resource Club",
@@ -114,12 +121,109 @@
 			"Drama Elective Programme",
 			"Language Elective Programme (Malay)"
 		],
-		"Special Student Development Programmes Offered": "Character & Citizenship Development: Nurtures students to have a personal vision and be anchored in values and principles in the pursuit of their vision."
+		"Special Student Development Programmes Offered": "Character & Citizenship Education: Aims to inculcate values and build social emotional competencies in students through all aspects of college life. Our signature programme, Spotlight Series, which is intended to foster in students 21st Century Competencies of global awareness and civic literacy, features weekly sharing sessions by teachers and students that critically examine contemporary issues that have"
 	},
 	"AchievementHistory": {
 		"Junior College": {
-			"Sports & Games Competition": [],
-			"SYF": [],
+			"Sports & Games Competition": [
+				{
+					"year": "2019",
+					"category": "Basketball",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "1st"
+				},
+				{
+					"year": "2019",
+					"category": "Floorball",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Football",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2019",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2019",
+					"category": "Taekwondo (Poomsae)",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "4th"
+				},
+				{
+					"year": "2019",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Boys",
+						"'A' Div"
+					],
+					"award": "3rd"
+				},
+				{
+					"year": "2019",
+					"category": "Wushu",
+					"subCategory": [
+						"National",
+						"Girls",
+						"'A' Div"
+					],
+					"award": "3rd"
+				}
+			],
+			"SYF": [
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				}
+			],
 			"Best Unit Award": []
 		}
 	},
@@ -138,6 +242,24 @@
 		},
 		{
 			"year": "2019",
+			"programme": "Commerce",
+			"lower": null,
+			"upper": null
+		},
+		{
+			"year": "2020",
+			"programme": "Arts",
+			"lower": 5,
+			"upper": 13
+		},
+		{
+			"year": "2020",
+			"programme": "Science/IB",
+			"lower": 4,
+			"upper": 13
+		},
+		{
+			"year": "2020",
 			"programme": "Commerce",
 			"lower": null,
 			"upper": null

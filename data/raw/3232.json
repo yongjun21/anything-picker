@@ -18,7 +18,6 @@
 	"GeneralInformation": {
 		"Principal": "MR LIM KOK HWA",
 		"Vice Principal": [
-			"MDM CHIN YIH MIN",
 			"MISS TAN LI PING",
 			"MR SHUE PEI YAN"
 		],
@@ -40,12 +39,12 @@
 		"CHINESE B",
 		"CHINESE N(A)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HISTORY",
@@ -1195,7 +1194,15 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Commendation",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1446,6 +1453,23 @@
 			"Normal Technical": [
 				"90",
 				"151",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"188",
+				"240",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"189",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"99",
+				"155",
 				"None-posted"
 			]
 		}

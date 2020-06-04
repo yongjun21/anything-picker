@@ -18,9 +18,9 @@
 	],
 	"bus": "66 , 67 , 74 , 151 , 154 , 157 , 170 , 171 , 174 ",
 	"GeneralInformation": {
-		"Principal": "Grace Ng Wun Har",
+		"Principal": "Ng Wun Har Grace",
 		"Vice Principal": "Miss Lim Jing Wen Karen",
-		"Vice Principal (Admin)": "Mr Yip Wai Choong",
+		"Vice Principal (Admin)": "Mr Teng Tat Meng, Charles",
 		"School Vision": "Godly women of Excellence with a heart of Love. The school focus is the MGS girl. She has global perspective but is anchored in values and able to make a positive difference to her environment and community. She is confident in various situations, has a passion for life and embraces challenges. She contributes to her community by setting standards of excellence - in values and in life. She will lead in the field where her calling and talent is, to advance thinking, action and voice as she wholeheartedly contributes with heart, head and hands.",
 		"School Mission": "To educate every girl in A Christian environment in order that she may Master, Grow and Serve in every phase of her life. Every MGS girl is uniquely created by God, precious. We consider the female psyche in what we do. Our ethos and culture is Christian; the values we live by and which we imbue are based on the Bible. The motto resonates in generations of MGS girls and embodies the attitude and motivation which distinguish them. Each phase in life brings new dimension of understanding, learning and growth; educating her considers all these phases and our values, attitudes and skills will stand her in good stead.",
 		"School Philosophy, Culture and Ethos": [
@@ -29,9 +29,9 @@
 			"Vision sharing and distributed leadership encourages buy-in and inspires collaborative effort from stakeholders. Everyone owns the school and are change-makers. SLs are committed to school improvement and expectations of excellence are set and shared throughout the year.",
 			"MGS is inclusive and integrated when collaborating and networking with the wider community to increase the capacity of the school, moving it towards excellence. It proactively draws on strengths of stakeholder and partner groups to supplement school efforts, ensuring that the interests of these groups are guarded and relationships sustained and strengthened. The school helps girls develop sensitivity and awareness of her surroundings and collaborate to provide opportunities for them to contribute to the community. It believes in Servant Leadership - every girl is a leader at different levels and serves whom she leads."
 		],
-		"Type of School": "Government-aided Sch / Girls' School / Single Session",
+		"Type of School": "Government-aided Sch / Girls&#39; School / Single Session",
 		"Mother Tongue": "Chinese / Malay / Tamil",
-		"Affiliated Schools": "Methodist Girls' School (Secondary)"
+		"Affiliated Schools": "Methodist Girls&#39; School (Secondary)"
 	},
 	"SubjectOffered": [
 		"Art",
@@ -56,16 +56,13 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
-			"Languages": "Language and Communication"
+			"Languages": "Language and Communication",
+			"Sports & Outdoor Education": "Outdoor and Sports Programme at MGS"
 		},
 		"Special Student Development Programmes Offered": "1. Sophia Blackmore Academy - school-based high ability programmes "
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -74,29 +71,13 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category A",
 					"award": "Recognition"
@@ -153,6 +134,31 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
 				}
@@ -182,6 +188,7 @@
 	"specialNeeds": [
 		"PD"
 	],
+	"studentCare": true,
 	"p1Registration": {
 		"TOTAL VACANCY": 210,
 		"VACANCY FOR PHASE 1": 170,
@@ -197,7 +204,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 40,
 		"PLACES TAKEN UP TO PHASE 2B": 189,
 		"VACANCY FOR PHASE 2C": 21,
-		"NO. OF APPLICANTS IN PHASE 2C": 32
+		"NO. OF APPLICANTS IN PHASE 2C": 32,
+		"PLACES TAKEN UP TO PHASE 2C": 210
 	},
 	"id": "5027"
 }

@@ -17,14 +17,11 @@
 	"bus": "3 , 34 , 62 , 82 , 83 , 119 , 136 , 381 , 382G ",
 	"GeneralInformation": {
 		"Principal": "MR LEE PECK PING",
-		"Vice Principal": [
-			"MR TAN CHAI HOK",
-			"MDM LIM PUAY KHENG"
-		],
+		"Vice Principal": "MDM LIM PUAY KHENG",
 		"Vice Principal (Admin)": "MR YEO SEE ONE",
 		"School Vision": "Collaborative Innovators, Compassionate Leaders",
 		"School Mission": "Growing Minds, Glowing Hearts",
-		"School Philosophy, Culture and Ethos": "At Edgefield, we believe in nurturing our students to be 'Future Ready'. Framed by Five Minds for the Future, our curriculum nurtures Innovators who collaborate actively with others to design and develop creative solutions to problems, and are resilient in facing setbacks and challenges. They are also Compassionate Leaders who are inclusive, with the moral courage to do what is right in contributing positively to the society. Built by a dedicated team of experienced educators, equipped with the newest facilities and powered by meaningful use of technologies, the Edgefield Community prides itself for its curriculum innovation in providing the ideal learning environment and experiences for our students. Edgefield Secondary School looks forward to this educational partnership with you and your child in 2020.",
+		"School Philosophy, Culture and Ethos": "At Edgefield, we believe in nurturing our students to be 'Future Ready'. Framed by Five Minds for the Future, our curriculum nurtures Innovators who collaborate actively with others to design and develop creative solutions to problems, and are resilient in facing setbacks and challenges. They are also Compassionate Leaders who are inclusive, with the moral courage to do what is right in contributing positively to the society. We practise mixed stream form classes in support of full subject- based banding that all schools will be implementing. Built by a dedicated team of experienced educators, equipped with the newest facilities and powered by meaningful use of technologies, the Edgefield Community prides itself for its curriculum innovation in providing the ideal learning environment and experiences for our students. Edgefield Secondary School looks forward to this educational partnership with you and your child in 2020.",
 		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
 		"Mother Tongue": "Chinese / Malay / Tamil",
 		"Affiliated Schools": "Not Applicable"
@@ -36,16 +33,16 @@
 		"CHEMISTRY",
 		"CHINESE",
 		"CHINESE N(A)",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"COMBINED HUMANITIES (S,G)",
 		"COMBINED HUMANITIES (S,H)",
 		"COMPUTER APPLICATIONS",
-		"DESIGN & TECHNOLOGY",
+		"DESIGN &amp; TECHNOLOGY",
 		"ELEMENTS OF BUSINESS SKILLS",
 		"ENGLISH LANGUAGE",
 		"ENGLISH LANGUAGE (SYLL A)",
 		"ENGLISH LANGUAGE (SYLL T)",
-		"FOOD & NUTRITION",
+		"FOOD &amp; NUTRITION",
 		"FOOD AND CONSUMER EDUCATION",
 		"GEOGRAPHY",
 		"HIGHER CHINESE",
@@ -408,12 +405,12 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Choir": "Accomplishment",
 					"Band - Concert": "Commendation",
 					"Dance - International": "Accomplishment",
 					"Drama - English": "Accomplishment",
 					"Ensemble - Guzheng": "Accomplishment",
-					"Ensemble - Harmonica": "Accomplishment"
+					"Ensemble - Harmonica": "Accomplishment",
+					"Choir": "Accomplishment"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -964,7 +961,145 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div",
+						"'B' Div",
+						"'B' Div",
+						"'B' Div",
+						"'C' Div",
+						"'C' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"2nd",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"4th",
+						"3rd",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Harmonica": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"PsleAggregateHistory": {
@@ -1123,6 +1258,23 @@
 			],
 			"Normal Technical": [
 				"146",
+				"159",
+				"None-posted"
+			]
+		},
+		"2020": {
+			"Express": [
+				"230",
+				"259",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"186",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"148",
 				"159",
 				"None-posted"
 			]

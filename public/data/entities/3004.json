@@ -20,16 +20,15 @@
 	],
 	"bus": "8 , 61 , 64 , 65 , 66 , 90 , 100 , 135 , 151 , 154 , 155 ",
 	"GeneralInformation": {
-		"Principal": "Mdm Cheng Hwee Yeang",
+		"Principal": "Mdm Tey Kah Hwee",
 		"Vice Principal": [
 			"Mdm Lim Ying Ying",
 			"Mdm Tan Geok Lan"
 		],
-		"Vice Principal (Admin)": "Mdm Justine Tan",
 		"School Vision": "Bringing out the Best in our People: Social Innovators, Passionate Learners",
 		"School Mission": "Nurturing Leaders of Character",
 		"School Philosophy, Culture and Ethos": "With the belief that every Cedarian can become a confident and active citizen, Cedar is committed to providing a high quality all-round education. Beside a well-established 4-year O-Level programme, Cedar also offers the Integrated Programme (IP) under the Victoria-Cedar Alliance (VCA). Our IP students will complete 4 years of secondary education in Cedar before advancing to Victoria Junior College for the A-level curriculum. The VCA IP offers a seamless 6-year programme to students who enjoy independent study and exploratory work. They will have the opportunities to heighten their interest and passion through a challenging and enriched curriculum. In our mission to develop Leaders of Character, we have a comprehensive Character, Citizenship and Leadership Development Programme which inculcates the values, attributes and competencies desired of Cedarians in their journey through life. Cedar has received recognition in both the academic and co-curricular domains for its consistent performance and good teaching and learning processes. Graduating students each year have attributed their resilience to take on challenges, confidence in striking out and motivation to always give of their best to the developmental programmes offered by the school.",
-		"Type of School": "Government School / Girls' School / Single Session",
+		"Type of School": "Government School / Girls&#39; School / Single Session",
 		"IP Partner Schools": [
 			"Victoria School",
 			"Victoria Junior College"
@@ -40,15 +39,15 @@
 	},
 	"SubjectOffered": [
 		"Additional Mathematics",
-		"Art 'O' Level",
+		"Art &#39;o&#39; Level",
 		"Biology",
 		"Chemistry",
 		"Chinese",
 		"Chinese (Special Programme)",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Combined Humanities (S,G)",
 		"Combined Humanities (S,H)",
-		"Design & Technology",
+		"Design &amp; Technology",
 		"English Language",
 		"Food And Consumer Education",
 		"Geography",
@@ -96,9 +95,7 @@
 			"Eldds (Debate & Advocacy)",
 			"Environmental Club",
 			"Infocomm Club",
-			"Ldds - Chinese",
-			"Ldds - Indian",
-			"Ldds - Malay"
+			"Ldds - Chinese"
 		]
 	},
 	"SpecialProgrammes": {
@@ -109,10 +106,6 @@
 	},
 	"AchievementHistory": {
 		"Secondary": {
-			"2016": {
-				"School Distinction Awards": "SDA",
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -121,59 +114,13 @@
 				"School Distinction Awards": "SDA",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"School Distinction Awards": "SDA",
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
 				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Band - Concert",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - Chinese",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Drama - English",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guzheng",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Handbell / Handchime",
-					"award": "Distinction"
-				},
-				{
 					"year": "2017",
 					"category": "Art - Category B",
 					"award": "Recognition"
@@ -270,6 +217,56 @@
 				},
 				{
 					"year": "2018",
+					"category": "Ensemble - Handbell / Handchime",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category B",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - Chinese",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Drama - English",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guzheng",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
 					"category": "Ensemble - Handbell / Handchime",
 					"award": "Distinction"
 				}
@@ -278,22 +275,6 @@
 		}
 	},
 	"PsleAggregateHistory": [
-		{
-			"year": "2016",
-			"programme": "Integrated Programme",
-			"lower": 254,
-			"upper": 264,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
-		{
-			"year": "2016",
-			"programme": "'O' Level Programme",
-			"lower": 250,
-			"upper": 263,
-			"lowerAffiliated": null,
-			"upperAffiliated": null
-		},
 		{
 			"year": "2017",
 			"programme": "Integrated Programme",
@@ -339,6 +320,22 @@
 			"programme": "'O' Level Programme",
 			"lower": 250,
 			"upper": 262,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "Integrated Programme",
+			"lower": 253,
+			"upper": 270,
+			"lowerAffiliated": null,
+			"upperAffiliated": null
+		},
+		{
+			"year": "2020",
+			"programme": "'O' Level Programme",
+			"lower": 249,
+			"upper": 263,
 			"lowerAffiliated": null,
 			"upperAffiliated": null
 		}

@@ -18,8 +18,8 @@
 	"GeneralInformation": {
 		"Principal": "MDM ROSTINAH BTE MOHAMAD SAID",
 		"Vice Principal": [
-			"MR GOH ZENSEN",
-			"MDM THAM SIEW LENG"
+			"MDM THAM SIEW LENG",
+			"MRS TRINA YEE-POOK SIM NAR"
 		],
 		"School Vision": "A Learner . A Thinker . A Leader",
 		"School Mission": "Ignite Passion for Learning, Nurture Strength of Character",
@@ -31,10 +31,10 @@
 	"SubjectOffered": [
 		"ART",
 		"CHINESE",
-		"CIVICS & MORAL EDUCATION",
+		"CIVICS &amp; MORAL EDUCATION",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -54,7 +54,7 @@
 	"Cca": {
 		"Physical Sports": [
 			"Football",
-			"Modular Sports",
+			"Multi Games",
 			"Sepak Takraw",
 			"Volleyball"
 		],
@@ -77,6 +77,7 @@
 			"Not Available"
 		],
 		"School Distinctive Programmes": {
+			"STEM": "ZPS STE(A)M – Thinknovate",
 			"Community Service & Student Leadership": "Green Education Movement @ Zhonghua Primary School (GEM@ZPS)"
 		},
 		"Special Student Development Programmes Offered": "The school's Lifelong Learning Programme (LLP) is in Environmental Education (EE). Through this, pupils are exposed to progressive level-appropriate learning of EE issues integrated with the learning of leadership skills, values and community involvement."
@@ -433,7 +434,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Dance - Chinese": "Silver",
 					"Dance - Indian": "Bronze",
 					"Dance - Malay": "Bronze",
@@ -545,7 +546,7 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Indian": "Silver",
@@ -653,8 +654,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Silver",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Indian": "Silver",
@@ -773,8 +774,8 @@
 					]
 				],
 				"SYF Central Judging": {
-					"Art & Craft (Bronze)": "1 Award",
-					"Art & Craft (Silver)": "1 Award",
+					"Art &amp; Craft (Bronze)": "1 Award",
+					"Art &amp; Craft (Silver)": "1 Award",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Indian": "Gold",
@@ -883,12 +884,12 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Dance - Malay": "Gold",
 					"Art - Category A": "Recognition",
 					"Choir": "Bronze",
 					"Dance - Chinese": "Gold (Hons)",
 					"Dance - Indian": "Gold",
-					"Ensemble - Angklung / Kulintang": "Bronze"
+					"Ensemble - Angklung / Kulintang": "Bronze",
+					"Dance - Malay": "Gold"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -979,12 +980,12 @@
 					]
 				],
 				"SYF Arts Presentation": {
-					"Dance - Malay": "Distinction",
 					"Art - Category A": "Recognition",
 					"Choir": "Accomplishment",
 					"Dance - Chinese": "Distinction",
 					"Dance - Indian": "Distinction",
-					"Ensemble - Angklung / Kulintang": "Distinction"
+					"Ensemble - Angklung / Kulintang": "Distinction",
+					"Dance - Malay": "Distinction"
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
@@ -1359,7 +1360,87 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior",
+						"Junior",
+						"Junior",
+						"Senior",
+						"Senior"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"4th",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "556095"

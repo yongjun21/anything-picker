@@ -22,8 +22,8 @@
 			"MDM LEE SUET FONG"
 		],
 		"Vice Principal (Admin)": "MDM CHUA LENG LENG (CAI LINGLING)",
-		"School Vision": "Creative Minds, Caring Hearts",
-		"School Mission": "We shall nurture our pupils to be responsible individuals of integrity who respect others and have a passion for learning.",
+		"School Vision": "Creative Mind, Confident Self, Caring Heart",
+		"School Mission": "To provide quality and holistic education for our students.",
 		"School Philosophy, Culture and Ethos": [
 			"We anchor our beliefs on growing the school 'from good to great' and structure our school processes through the UPS School Management Model which reflects the four principles of Quality Relationships, Building Capacity, Effective Leadership and Effective Systems. Guided by our philosophy of 'Everyone Matters', we strive to provide all students with our very own Unity experience, where we believe that all children can learn and are committed to achieving success.",
 			"Our commitment is to ensure that quality teaching and learning are the focus both in and out of classrooms. Through our CORE values of IC2R (Integrity, Courage, Respect and Responsibility), we guide our students to develop the foundations for lifelong learning, and also provide an educational experience that is both student centric and values driven. Over the years, our students have done well and their success is due to the hard work of a nurturing team of dedicated teachers and supportive parents. ",
@@ -39,7 +39,7 @@
 		"CO-CURRICULAR ACTIVITIES",
 		"ENGLISH LANGUAGE",
 		"FOUNDATION CHINESE",
-		"FOUNDATION ENGLISH",
+		"FOUNDATION ENGLISH LANGUAGE",
 		"FOUNDATION MALAY",
 		"FOUNDATION MATHEMATICS",
 		"FOUNDATION SCIENCE",
@@ -70,10 +70,10 @@
 			"Ensemble - Handbell/Handchime"
 		],
 		"Clubs & Societies": [
-			"Infocom Club",
-			"Library",
+			"El Ldds Club",
+			"Greenovation Club",
 			"Mathematics Club",
-			"Science And Green Club"
+			"Media Club"
 		]
 	},
 	"SpecialProgrammes": {
@@ -746,7 +746,7 @@
 						"NA"
 					],
 					[
-						"Track & Field",
+						"Track &amp; Field",
 						"-",
 						"-",
 						"-",
@@ -1055,7 +1055,17 @@
 				},
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2019": {}
+			"2019": {
+				"SYF Arts Presentation": {
+					"Ensemble - Handbell / Handchime": "Accomplishment",
+					"Art - Category A": "Recognition",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment"
+				},
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
+			"2020": {}
 		}
 	},
 	"postalCode": "688268"

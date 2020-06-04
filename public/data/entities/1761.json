@@ -39,11 +39,11 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
 		"Foundation Chinese",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Malay",
 		"Foundation Mathematics",
 		"Foundation Tamil",
@@ -72,7 +72,6 @@
 		],
 		"Visual and Performing Arts": [
 			"Ceramics Club",
-			"Chinese Calligraphy And Painting Club",
 			"Choir",
 			"Drama - English",
 			"Guitar Ensemble",
@@ -94,39 +93,14 @@
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
+			"2017": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
-			"2017": {
+			"2019": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Guitar",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category C",
@@ -181,6 +155,31 @@
 					"year": "2018",
 					"category": "Ensemble - Strings",
 					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Guitar",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Strings",
+					"award": "Commendation"
 				}
 			],
 			"Best Unit Award": []
@@ -223,7 +222,10 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 76,
 		"VACANCY FOR PHASE 2C": 134,
-		"NO. OF APPLICANTS IN PHASE 2C": 56
+		"NO. OF APPLICANTS IN PHASE 2C": 56,
+		"PLACES TAKEN UP TO PHASE 2C": 132,
+		"VACANCY FOR PHASE 2C SUPPLEMENTARY": 78,
+		"NO. OF APPLICANTS IN PHASE 2C SUPPLEMENTARY": 31
 	},
 	"id": "1761"
 }

@@ -20,8 +20,8 @@
 	"GeneralInformation": {
 		"Principal": "Mdm Moliah Binte Hashim",
 		"Vice Principal": [
-			"Mr Lee Wei Yap, Roy",
-			"Miss Ngiam Wee Heng"
+			"Miss Ngiam Wee Heng",
+			"Mr Lee Fook Loong Eugene"
 		],
 		"Vice Principal (Admin)": "Mr Chua Gim Hong",
 		"School Vision": "Every Child an Engaged Learner, a Caring Citizen and a Steadfast Leader",
@@ -39,10 +39,10 @@
 	"SubjectOffered": [
 		"Art",
 		"Chinese",
-		"Civics & Moral Education",
+		"Civics &amp; Moral Education",
 		"Co-curricular Activities",
 		"English Language",
-		"Foundation English",
+		"Foundation English Language",
 		"Foundation Mathematics",
 		"Health Education",
 		"Higher Chinese",
@@ -82,20 +82,13 @@
 	},
 	"SpecialProgrammes": {
 		"School Distinctive Programmes": {
+			"Innovation & Enterprise": "Designing For InclUsivity (Design4U)",
 			"Community Service & Student Leadership": "ASPIRE to Serve and Lead"
 		},
 		"Special Student Development Programmes Offered": "Excellence in Character Development"
 	},
 	"AchievementHistory": {
 		"Primary": {
-			"2016": {
-				"Best Practice Awards": "BPA (Staff Well-Being)",
-				"Outstanding Development Award": [
-					"ODA (Character Development)",
-					"ODA (National Education)"
-				],
-				"Uniformed Groups Unit Recognition": "&nbsp;"
-			},
 			"2017": {
 				"Best Practice Awards": "BPA (Staff Well-Being)",
 				"Uniformed Groups Unit Recognition": "&nbsp;"
@@ -103,53 +96,11 @@
 			"2018": {
 				"Uniformed Groups Unit Recognition": "&nbsp;"
 			},
+			"2019": {
+				"Uniformed Groups Unit Recognition": "&nbsp;"
+			},
 			"Sports & Games Competition": [],
 			"SYF": [
-				{
-					"year": "2016",
-					"category": "Art - Category B",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Art - Category C",
-					"award": "Recognition"
-				},
-				{
-					"year": "2016",
-					"category": "Choir",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Chinese",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Indian",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - International",
-					"award": "Accomplishment"
-				},
-				{
-					"year": "2016",
-					"category": "Dance - Malay",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Harmonica",
-					"award": "Distinction"
-				},
-				{
-					"year": "2016",
-					"category": "Ensemble - Strings",
-					"award": "Accomplishment"
-				},
 				{
 					"year": "2017",
 					"category": "Art - Category C",
@@ -239,6 +190,61 @@
 					"year": "2018",
 					"category": "Ensemble - Strings",
 					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category A",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Art - Category C",
+					"award": "Recognition"
+				},
+				{
+					"year": "2019",
+					"category": "Band - Concert",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Chinese Orchestra-Full Orchestra",
+					"award": "Commendation"
+				},
+				{
+					"year": "2019",
+					"category": "Choir",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Chinese",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Indian",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - International",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Dance - Malay",
+					"award": "Distinction"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Harmonica",
+					"award": "Accomplishment"
+				},
+				{
+					"year": "2019",
+					"category": "Ensemble - Strings",
+					"award": "Accomplishment"
 				}
 			],
 			"Best Unit Award": []
@@ -279,7 +285,8 @@
 		"NO. OF APPLICANTS IN PHASE 2B": 0,
 		"PLACES TAKEN UP TO PHASE 2B": 118,
 		"VACANCY FOR PHASE 2C": 82,
-		"NO. OF APPLICANTS IN PHASE 2C": 205
+		"NO. OF APPLICANTS IN PHASE 2C": 205,
+		"PLACES TAKEN UP TO PHASE 2C": 200
 	},
 	"id": "1228"
 }
