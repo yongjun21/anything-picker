@@ -162,7 +162,7 @@ function parseNewSchools (table) {
 exports.scrapVacancies = function () {
   const params = {
     spreadsheetId: '1FkiEeKefC6_QOaDk9J7Bp_2dKNrYNZzAyJu-1UEMdPs',
-    range: "'2019 raw'!A1:S"
+    range: "'2020 raw'!A1:S"
   }
   return sheets.spreadsheets.values.download(params).then(res => {
     const vacancies = {}
